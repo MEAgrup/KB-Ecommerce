@@ -1,0 +1,483 @@
+================================================================================
+KNOWLEDGE BASE: TOKOPEDIA & TIKTOK SHOP ACADEMY
+URL Root: https://seller-id.tokopedia.com/university/
+Course Target: https://seller-id.tokopedia.com/university/course?identity=1&role=1&learning_id=8282858267690769&from=course&content_id=8282858238674689
+Generated: 2026-07-24
+================================================================================
+
+================================================================================
+SECTION 1: STRUKTUR DAN NAVIGASI WEBSITE
+================================================================================
+
+Website: Tokopedia & TikTok Shop Academy (seller-id.tokopedia.com/university)
+Tipe: Learning Management System / Knowledge Base untuk Seller
+
+Kategori Utama:
+1. Courses - Materi berisi strategi dan praktik terbaik, mulai dari optimasi produk, konten, hingga cara meningkatkan konversi.
+2. Feature Guide - Tutorial step-by-step untuk membantu memahami cara kerja fitur, cara mengaktifkannya, hingga penerapan yang tepat.
+3. Policy Center - Ringkasan aturan & ketentuan yang berlaku, termasuk update kebijakan yang dapat mempengaruhi operasional toko.
+
+Tingkatan Seller:
+- New Shop Stage (Tahap Toko Baru)
+- Basic Seller (Penjual Basic) - Pelajari keterampilan dasar untuk memulai dan mengembangkan toko
+- Advanced Seller (Penjual Advanced) - Kuasai strategi lanjutan untuk mengoptimalkan performa
+- Star Seller (Penjual Star) - Kuasai strategi tingkat lanjut untuk mengembangkan bisnis dan menjadi seller berperforma terbaik
+
+Informasi Penting Platform:
+- Per 26 Juni 2025, Tokopedia Seller Center membatasi maksimal 3 pesanan baru untuk penjual yang belum melakukan upgrade ke Seller Center baru.
+- Setelah integrasi Tokopedia dan TikTok Shop, terdapat perubahan penting pada fitur, menu, dan proses operasional toko.
+
+Navigasi: Tersedia Search Bar di bagian atas halaman Academy untuk menemukan materi yang relevan dengan cepat.
+
+================================================================================
+SECTION 2: COURSE UTAMA - Scale Your Business Further as an Advanced Seller
+================================================================================
+
+URL: https://seller-id.tokopedia.com/university/course?learning_id=8282858267690769
+Kategori: Academy > Courses > Seller Course > Seller Growth Journey
+Tanggal: 06/02/2026
+Target: Seller yang ingin naik level dari Basic ke Advanced
+
+Deskripsi:
+Jika toko Anda telah mulai tumbuh secara konsisten dan Anda ingin membuka peluang penjualan yang lebih besar, performa konten yang lebih kuat, dan eksposur kampanye yang lebih baik, saatnya naik level sebagai Advanced Seller.
+
+Sebagai Advanced Seller, Anda diharapkan mengoptimalkan performa toko secara lebih strategis -- mulai dari meningkatkan partisipasi kampanye, menskalakan performa konten, memperkuat kolaborasi affiliate, hingga memaksimalkan peluang pertumbuhan bisnis di seluruh platform.
+
+---
+SUB-SECTION 2.1: Mengapa Harus Menjadi Advanced Seller?
+---
+Manfaat utama:
+- Peluang kampanye yang lebih besar
+- Performa Konten & Ads yang lebih kuat
+- Peluang penskalaan bisnis yang lebih cepat
+
+---
+SUB-SECTION 2.2: Kriteria untuk Menjadi Advanced Seller
+---
+
+| Kriteria | Apa yang Perlu Dilakukan | Tips Menjadi Advanced Seller | Link Terkait |
+|---|---|---|---|
+| Growth Xtra Program (GXP) Performance | Pertahankan partisipasi GXP aktif dan optimalkan kontribusi revenue secara konsisten. | Monitor performa bisnis secara rutin dan maksimalkan partisipasi dalam peluang monetisasi platform. | How to Register GXP: https://seller-id.tokopedia.com/university/essay?knowledge_id=260252827371281 |
+| Mega Campaign Participation | Bergabunglah dengan Mega Campaign secara konsisten dan tingkatkan kualitas eksekusi kampanye. | Siapkan stok lebih awal, optimalkan strategi promo, dan prioritaskan produk dengan performa tinggi selama kampanye. | How to Register: https://seller-id.tokopedia.com/university/course?learning_id=6990692707829521&content_id=4839645519922960 |
+| Stock Readiness | Pertahankan kesiapan stok produk selama periode kampanye. | Pantau produk laris secara dekat dan hindari kehabisan stok selama periode traffic tinggi. | How to maintain stock: https://seller-id.tokopedia.com/university/essay?knowledge_id=2248202870982417 |
+| LIVE Campaign Registration | Berpartisipasi dalam pendaftaran KLS tingkat lebih tinggi dan tingkatkan kualitas LIVE. | Tingkatkan konsistensi LIVE, optimalkan interaksi LIVE, dan fokus pada produk dengan potensi konversi kuat. | How to Register LIVE: https://seller-id.tokopedia.com/university/essay?knowledge_id=6837740662834946 |
+| Tokopedia Campaign Contribution | Tingkatkan kontribusi terhadap partisipasi kampanye Toko. | Bergabung dengan lebih banyak kampanye platform secara konsisten dan optimalkan produk yang siap kampanye. | Register: https://seller-id.tokopedia.com/promotion/campaign-tools/all |
+| Seller LIVE Consistency | Pertahankan sesi LIVE seller secara aktif dan konsisten. | Jadwalkan sesi LIVE secara rutin, gunakan voucher promo, dan berinteraksi aktif dengan penonton. | How to Go-LIVE: https://seller-id.tokopedia.com/university/course?learning_id=6992591972206353&content_id=4383956825917200 |
+| Short Video Activity | Unggah short video secara konsisten dari akun toko Anda. | Unggah video secara rutin menggunakan format yang sedang tren, tunjukkan manfaat produk dengan jelas, dan posting pada jam traffic puncak. | How to Create: https://seller-id.tokopedia.com/university/course?identity=1&role=1&learning_id=6990692707338001&from=course&content_id=8504200913028881 |
+| Affiliate Content Collaboration | Mulai berkolaborasi dengan affiliate untuk meningkatkan eksposur produk. | Berikan komisi yang kompetitif dan pertahankan stok yang cukup untuk produk yang dipromosikan affiliate. | How to Start: https://seller-id.tokopedia.com/university/course?identity=1&role=1&learning_id=6996129464993552&from=course&content_id=1188831018501904 |
+| Deal Hunting Participation | Berpartisipasi dalam program Deal Hunting untuk meningkatkan daya saing harga. | Daftarkan produk dengan harga kompetitif dan fokus pada produk dengan performa penjualan stabil. | How to Register: https://seller-id.tokopedia.com/university/course?learning_id=6990692707829521&content_id=27848405042961 |
+| Product Growth Optimization | Tingkatkan jumlah produk berkualitas yang tersedia di toko Anda. | Tambahkan lebih banyak produk yang dapat dijual secara konsisten dan tingkatkan kelengkapan produk untuk meningkatkan discoverability. | How to Increase: https://seller-id.tokopedia.com/university/course?learning_id=6983456438552321&content_id=3261401797101313&lang=en |
+| Mall Registration | Perluas kredibilitas toko Anda melalui peluang pendaftaran Mall. | Pertahankan performa toko yang baik, pengalaman pelanggan, dan konsistensi operasional untuk mendukung kelayakan. | How to Register Mall: https://seller-id.tokopedia.com/university/essay?knowledge_id=2824420474685200 |
+
+---
+SUB-SECTION 2.3: Seller Missions & Rewards
+---
+Selain menyelesaikan kriteria Advanced Seller di atas, Anda dapat mempercepat pertumbuhan toko dengan menyelesaikan Seller Missions di Seller Center.
+Semakin banyak misi yang diselesaikan -> semakin cepat mencapai level Basic Seller & semakin besar potensi penghasilan setiap hari.
+
+---
+SUB-SECTION 2.4: Materi Terkait (You may also be interested in)
+---
+- Star Seller: https://seller-id.tokopedia.com/university/course?learning_id=8286401675134736
+  Master high-level strategies to scale your business and become a top-performing seller.
+- Basic Seller: https://seller-id.tokopedia.com/university/course?learning_id=8286400433702657
+  Learn the essential skills to start and grow your shop on Tokopedia & TikTok Shop.
+
+================================================================================
+SECTION 3: COURSE - Complete Registration Guide to Start Selling
+================================================================================
+
+URL: https://seller-id.tokopedia.com/university/course?learning_id=6992591971338001&content_id=5681885506995969&lang=en
+Kategori: Academy > Courses > Seller Course > Beginner's Guide
+Tanggal: 10/03/2025
+
+Deskripsi: Panduan lengkap proses onboarding untuk mulai menjual di TikTok Shop by Tokopedia.
+
+---
+SUB-SECTION 3.1: Mengapa Registrasi yang Benar Penting
+---
+- Fast Document Approval -- Upload dokumen yang benar untuk verifikasi lebih cepat
+- Access to All Features -- Hanya seller terverifikasi yang dapat menggunakan LIVE, Flash Sale, dll.
+- Avoid Common Issues -- Data tidak lengkap atau tidak cocok menyebabkan penolakan
+- Build Trust -- Toko terverifikasi lebih kredibel di mata pembeli
+
+---
+SUB-SECTION 3.2: Manfaat Berjualan di TikTok Shop by Tokopedia
+---
+[Gambar: Ilustrasi grafik naik dengan teks "Make your products get wider exposure with millions of TikTok Shop by Tokopedia users who are accessing it through TikTok platform"]
+[Gambar: Ilustrasi medali dengan teks "Easy operations to manage your accounts in Tokopedia and TikTok Shop by Tokopedia"]
+
+---
+SUB-SECTION 3.3: Alur Registrasi Step-by-Step
+---
+
+| Step | Apa yang Perlu Dilakukan |
+|---|---|
+| Step 1: Choose Registration Method | 1. Option A: Sign up using your TikTok account <br>2. Option B: Register with your phone number or email address |
+| Step 2: Submit Verification Documents | 1. Individual Seller: KTP <br>2. Corporate Seller: NIB & NPWP |
+| Step 3: Set Your Shop Name | Pilih nama toko yang unik, brand-friendly, dan mudah dicari |
+| Step 4: Upload Products | Anda bisa mulai mengunggah produk sambil menunggu verifikasi selesai |
+| Step 5: Link TikTok Account | Go to "Link TikTok Account" in Seller Center and connect your account |
+| Step 6: Set Tokopedia Shop Domain | Domain dibuat otomatis dari nama toko. Dapat diedit sekali dalam 72 jam. |
+
+Link detail: https://seller-id.tokopedia.com/university/essay?identity=1&role=1&knowledge_id=7753803734501122&from=feature_guide
+
+---
+SUB-SECTION 3.4: Kesalahan Umum Saat Registrasi
+---
+
+| Kesalahan | Dampak | Solusi |
+|---|---|---|
+| Blurry document uploads | Verifikasi ditolak atau tertunda | Gunakan foto resolusi tinggi dengan informasi yang jelas terlihat |
+| Mismatch personal information (nama di ID != nama akun) | Identitas tidak dapat diverifikasi -> registrasi gagal | Pastikan nama dan info cocok dengan ID secara persis |
+| Forgot to link TikTok account | Tidak dapat menggunakan fitur kunci seperti LIVE & Short Video | Segera hubungkan di tab "Link TikTok Account" di Seller Center |
+| Shop name already in use | Registrasi tidak dapat dilanjutkan | Tambahkan kata kunci, angka, atau variasi brand yang masih unik |
+
+---
+SUB-SECTION 3.5: Langkah Pertama sebagai Seller
+---
+- Register now at Tokopedia & TikTok Shop Seller Center
+- Upload produk pertama sambil menunggu verifikasi
+- Link TikTok account untuk mengaktifkan fitur content dan LIVE
+
+Ingat: Registrasi yang lengkap dan akurat = go-live lebih cepat & hasil lebih baik.
+
+---
+SUB-SECTION 3.6: Materi Terkait (You may also be interested in)
+---
+- Tokopedia & TikTok Shop Commitment: https://seller-id.tokopedia.com/university/essay?knowledge_id=8608968726071056
+- Integration to Tokopedia App: https://seller-id.tokopedia.com/university/essay?knowledge_id=8392477993174785
+- Shop Ownership Change Process: https://seller-id.tokopedia.com/university/essay?knowledge_id=8127545463736065
+- What should I do if my account has been compromised?: https://seller-id.tokopedia.com/university/essay?knowledge_id=7924483269183233
+- TikTok Shop by Tokopedia Inactive Seller Policy: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753818834634498
+- What is the Seller Performance Evaluation Policy?: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753799242925826
+- Inactive Seller Accounts: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753797661656833
+- Access Management on Seller Center: https://seller-id.tokopedia.com/university/essay?knowledge_id=6837736040679169
+- Shop Marketing Account: https://seller-id.tokopedia.com/university/essay?knowledge_id=6837732781688578
+- Shop Official account: https://seller-id.tokopedia.com/university/essay?knowledge_id=6837727602067202
+
+================================================================================
+SECTION 4: ESSAY - Seller Registration (Feature Guide)
+================================================================================
+
+URL: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753803734501122
+Kategori: Academy > Feature Guide > Seller > Onboarding > Registration & Account Settings
+Tanggal: 04/06/2026
+Berlaku untuk: Indonesia
+
+---
+SUB-SECTION 4.1: Halaman Registrasi
+---
+Kunjungi Tokopedia & TikTok Shop Seller Center untuk mendaftar.
+
+---
+SUB-SECTION 4.2: Opsi Registrasi
+---
+
+Option 1 - Register with your TikTok Account:
+- Sign up menggunakan akun TikTok yang sudah ada
+- Dapat dilakukan dengan memilih "Use QR code" atau login menggunakan phone/email/username yang terhubung dengan akun TikTok
+
+Option 2 - Register with Phone Number or Email:
+- Daftar menggunakan Mobile Number atau Email
+- Masukkan detail, atur password, dan masukkan kode verifikasi yang dikirim
+- Nomor/email yang digunakan akan otomatis menjadi:
+  * Log-in credentials: Akses ke Seller Center
+  * Platform updates: Tempat TikTok Shop mengirim berita platform dan update resmi
+
+Penting:
+- Security: Verifikasi phone/email untuk menjaga keamanan akun. Diwajibkan mengaktifkan Two-Step Verification (untuk beberapa seller bersifat wajib).
+- One account limit: Setiap nomor telepon atau Email hanya dapat digunakan untuk satu akun TikTok Shop untuk individu. Jika ingin membuka toko kedua, gunakan detail kontak yang berbeda.
+
+---
+SUB-SECTION 4.3: Set Up A Store
+---
+
+Step 1 - Identity Verification:
+- Basic Info: Pilih tipe bisnis dan buat nama toko
+- Contact Details: Berikan nomor telepon, email, dan alamat rumah
+- Verification: Upload ID atau dokumen bisnis (dan proof of address jika diminta)
+
+Step 2 - Store Setup:
+- Tax information: Untuk memfasilitasi penarikan income
+- Upload product listings: Untuk visibilitas produk di TikTok app setelah dokumen kualifikasi diverifikasi
+
+Step 3 - Link your TikTok Account:
+- Setelah dokumen diverifikasi, hubungkan Official TikTok Account (bisa akun existing atau baru)
+- 1 toko dapat bind dengan 1 Official Account dan 4 Marketing Accounts
+
+---
+SUB-SECTION 4.4: Tokopedia Shop Domain
+---
+Tokopedia shop domain adalah link/URL yang terdapat di informasi akun seller. Fungsinya mengarahkan pembeli langsung ke toko saat membuka link. Berlaku untuk seller yang telah mengintegrasikan tokonya di Tokopedia dengan yang di TikTok Shop by Tokopedia.
+
+Mengubah Tokopedia Shop Domain:
+- Domain dibuat otomatis dari nama toko untuk memastikan keunikan
+- Perubahan aktif maksimal 1 x 24 jam setelah diubah
+
+Hindari mengubah nama/domain saat:
+1. Toko sedang berpartisipasi dalam kampanye Tokopedia (Kejar Diskon, Flash Sale, Diskon Toko)
+2. Toko sedang tampil di halaman utama Tokopedia
+
+---
+SUB-SECTION 4.5: FAQ
+---
+
+Q: Can I modify log-in information?
+A: Ya, di Seller Profile > Account Information. Harus verifikasi identitas menggunakan Email/phone saat ini terlebih dahulu. Mengubah login credentials tidak otomatis mengubah Seller Contact Information (harus diupdate terpisah).
+
+Q: What should I do if my documents got rejected?
+A: Lihat alasan penolakan di Seller Center dan sesuaikan.
+
+Q: What if I enter the wrong phone number or email?
+A: Harus memasukkan OTP yang dikirim. Jika tidak terima dalam 1 menit, kemungkinan ada typo. Kembali, perbaiki detail, dan minta kode baru.
+
+Q: I forgot my Seller Center password?
+A: Kunjungi "Contact Us" di pojok kanan atas untuk raise ticket ke live agents.
+
+Q: What are the common reasons to reject a shop?
+A: Dokumen tidak jelas/tidak memenuhi syarat, informasi tidak lengkap, informasi tidak akurat, atau alamat salah sehingga sistem tidak dapat memverifikasi bisnis.
+
+Q: What happens if my registration is rejected?
+A: Akan menerima email notifikasi atau dapat memeriksa status di seller center untuk mengajukan ulang dengan informasi yang benar.
+
+Q: Will the TikTok I use to register become my store's Official Account?
+A: Tidak, Anda akan diminta melakukan TikTok Official Account binding di tahap selanjutnya.
+
+Q: Can I change my business type later?
+A: Ya, di Account Setting > Qualification Center page di Seller Center.
+
+---
+SUB-SECTION 4.6: Materi Terkait
+---
+- Registering to be a Seller: https://seller-id.tokopedia.com/university/essay?knowledge_id=8051096237557505
+- Can I link my TikTok account with another social media account?: https://seller-id.tokopedia.com/university/essay?knowledge_id=7911932313356034
+- Why was my brand authorisation application rejected?: https://seller-id.tokopedia.com/university/essay?knowledge_id=7911932313192194
+- What will happen to my existing orders while on "Holiday Mode"?: https://seller-id.tokopedia.com/university/essay?knowledge_id=7910323630130946
+- Which types of brand authorisation are accepted?: https://seller-id.tokopedia.com/university/essay?knowledge_id=7905931418879745
+- Why am I unable to sell the products of a particular brand?: https://seller-id.tokopedia.com/university/essay?knowledge_id=7905931418650369
+- How to Create your Commission Account: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753838631356161
+- How to register?: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753813570864897
+- New Shop Adjustment Period: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753813385774849
+- Setting Up Your Shop Profile and Name: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753811423217410
+
+================================================================================
+SECTION 5: COURSE - Understand Seller Fees & How to Save on Commission Costs
+================================================================================
+
+URL: https://seller-id.tokopedia.com/university/course?learning_id=4759438594787088&content_id=7392850066884369&lang=en
+Kategori: Academy > Courses > Seller Course
+Tanggal: 12/29/2024
+
+Deskripsi: Memahami semua komponen biaya penjualan di Tokopedia & TikTok Shop. Mulai Mei 2026, ada update struktur biaya dan benefit seller.
+
+Webinar Recording: Commission Discounts: How Sellers Can Save Costs & Maximize Profit
+[Video: https://v16m-default.tiktokcdn.com/... (link video webinar)]
+
+---
+SUB-SECTION 5.1: Jenis-Jenis Biaya Seller
+---
+
+| Tipe Biaya | Berlaku Untuk | Besaran | Panduan Detail |
+|---|---|---|---|
+| Platform Commission Fee | All sellers | 2.50% - 12.20% (variasi per kategori) | Platform Commission Fee Guide: https://seller-id.tokopedia.com/university/essay?knowledge_id=5411650459305729 |
+| Dynamic Commission Fee | All sellers | Starting 18 May: 3% - 8%, max Rp650,000 per item/SKU | Dynamic Commission Guide: https://seller-id.tokopedia.com/university/essay?knowledge_id=6385751723132688 |
+| Order Processing Fee | All sellers | Rp1,250 per order (flat rate) | Order Processing Fee Guide: https://seller-id.tokopedia.com/university/essay?knowledge_id=2767365667784464 |
+| Logistics Service Fee | All sellers | Starting 1 May: Rp610 - 5,060 berdasarkan berat paket & rute pengiriman | Logistics Service Fee Guide: https://seller-id.tokopedia.com/university/essay?knowledge_id=3039885401655041 |
+| Growth Xtra Program (Optional) | Participating sellers | Starting 18 May: 2% - 4% service fee (variasi per kategori, no cap) | Growth Xtra Program Guide: https://seller-id.tokopedia.com/university/essay?knowledge_id=260252827371281 |
+| Pre-order Service Fee | Sellers with pre-order products | 3% per item sold | Pre-order Fee Guide: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753828090824449#biaya-layanan-pre-order |
+| Mall Service Fee | Mall sellers only | 1.8% (incl. tax), max Rp50,000 per item. Formula: (Price - Discount) x 1.8% | Mall Service Fee Guide: https://seller-id.tokopedia.com/university/essay?knowledge_id=7868735055857409 |
+
+Catatan: Cashback bonus akan diberikan ke semua seller sebagai bagian dari benefit Dynamic Commission Fee mulai 18 Mei 2026.
+
+---
+SUB-SECTION 5.2: Cara Mendapatkan Commission Savings
+---
+
+Sellers memiliki peluang untuk menerima commission savings untuk membantu mengurangi biaya penjualan. Savings tidak otomatis dan bergantung pada aktivitas toko dan strategi.
+
+Tabel Potensi Savings:
+
+| Order Type | Ads <3% | Ads <3% | Ads >=3% | Ads >=3% |
+|---|---|---|---|---|
+| Orders promoted with GMV Max Ads | Ya | Ya / Tidak | Ya / Tidak | Ya / Tidak |
+| Join Growth Xtra Program | Tidak | Ya | Tidak | Ya |
+
+Potensi Savings:
+- Product-Level Savings: up to 2.77%
+- From Ads: up to 5.65%
+- Without Ads: up to 4.85%
+- Store-wide Savings: up to 6.45%
+- Stacked + Store-wide Savings: up to 8.18%
+
+---
+SUB-SECTION 5.3: Cara Menghitung Commission Savings
+---
+Gunakan kalkulator untuk memperkirakan biaya setelah 18 Mei dan eksplorasi peluang savings menggunakan GMV Max dan/atau Growth Xtra Program. Kalkulator hanya memberikan estimasi indikatif -- biaya final dapat bervariasi.
+
+---
+SUB-SECTION 5.4: Contoh Perhitungan Commission Savings
+---
+
+Item: Guitar - Mall sellers
+Original Price: Rp10.000,-
+Seller Discount: Rp1.000,-
+Item Price after Seller Discount: Rp9.000,-
+
+| Scenarios | Default rate | GMV Max Spend to GMV <3% & Joined Growth Xtra Program - Orders without GMV Max | Shop Ads Spend to GMV >=3% & Not Joined Growth Xtra Program | GMV Max Spend to GMV >=3% & Joined Growth Xtra Program |
+|---|---|---|---|---|
+| Original item price Rp10.000,- | | | | |
+| (-) Seller discount Rp1.000,- | | | | |
+| Subtotal after discount Rp9.000,- | | | | |
+| Default Commission rate 9.20% | | | | |
+| (-) Commission Savings rate | 0.00% | 1.40% | 3.50% | 4.00% |
+| Final Commission Rate | 9.20% | 7.80% | 5.70% | 5.20% |
+| Platform Commission Fee = Subtotal after discount x Final commission rate | Rp828,- (tax inclusive) | Rp702,- (tax inclusive) | Rp513,- (tax inclusive) | Rp468,- (tax inclusive) |
+
+Kesimpulan: Dengan sistem terbaru, biaya penjualan tidak lagi fixed. Seller memiliki lebih banyak peluang untuk mengurangi biaya komisi dan meningkatkan profit melalui aktivitas dan strategi:
+- Sellers menggunakan GMV Max: Order-level savings untuk GMV Max orders + Shop-level savings jika % GMV Max spending to GMV dalam 30 hari terakhir >=3%
+- Sellers participating in Growth Xtra (previously Xtra Boost): Shop-level savings + Additional order-level savings untuk GMV Max orders
+- Sellers meeting both conditions: (1) % GMV Max spending to GMV >=3% dalam 30 hari terakhir; dan (2) participating in Growth Xtra Program
+
+---
+SUB-SECTION 5.5: Materi Terkait
+---
+- Shipping Settings (1 lesson): https://seller-id.tokopedia.com/university/course?learning_id=7415687807403792
+- Fulfillment (2 lessons): https://seller-id.tokopedia.com/university/course?learning_id=5571154660738833
+- TikTok Shop by Tokopedia Customer Order Shipping Guidelines: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753815881516802
+- How to arrange shipment?: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753813570602753
+- Shipping Options: https://seller-id.tokopedia.com/university/essay?knowledge_id=7753805756876545
+- Warehouse Operating Hours Feature: https://seller-id.tokopedia.com/university/essay?knowledge_id=7466609552344833
+- Fulfill your orders on Seller APP: https://seller-id.tokopedia.com/university/essay?knowledge_id=3766921560786689
+- Weight and size limits: https://seller-id.tokopedia.com/university/essay?knowledge_id=1576306723800848
+- Can I still use Seller Own Fleet (SOF) for fruit shipments?: https://seller-id.tokopedia.com/university/essay?knowledge_id=1576306723309328
+
+================================================================================
+SECTION 6: COURSE - Welcome to Tokopedia & TikTok Shop Academy
+================================================================================
+
+URL: https://seller-id.tokopedia.com/university/course?learning_id=4880626944149265&content_id=4881042645337857&lang=en
+Kategori: Academy > All courses sessions publish here
+Tanggal: 11/10/2025
+
+Deskripsi: Pusat pembelajaran resmi untuk membantu penjual memahami fitur, strategi, dan praktik terbaik dalam mengembangkan toko.
+
+Informasi Penting:
+- Per 26 Juni 2025, Tokopedia Seller Center membatasi maksimal 3 pesanan baru untuk penjual yang belum upgrade ke Seller Center baru.
+- Integrasi Tokopedia dan TikTok Shop menyebabkan perubahan penting pada fitur, menu, dan proses operasional.
+
+[Gambar: Logo Tokopedia (burung hijau) dan TikTok Shop (tas belanja hitam dengan logo TikTok) berdampingan dengan garis pemisah]
+
+Apa yang Bisa Dipelajari:
+1. Courses - Materi strategi dan praktik terbaik (optimasi produk, konten, konversi)
+2. Feature Guide - Tutorial step-by-step fitur dan tools
+3. Policy Center - Ringkasan aturan dan update kebijakan
+
+[Gambar: Ilustrasi search bar di bagian atas halaman Academy dengan panah merah menunjuk ke kolom pencarian]
+
+Rekomendasi Materi untuk Memulai:
+- Materi dasar hingga pembelajaran lanjutan tersedia untuk memulai perjalanan belajar di Academy.
+
+================================================================================
+SECTION 7: DAFTAR LINK LENGKAP YANG TERDETEKSI (BELUM DI-SCRAPE)
+================================================================================
+
+Berikut adalah seluruh URL yang terdeteksi dalam struktur website tetapi belum berhasil di-scrape karena keterbatasan teknis (timeout/internal error). Direkomendasikan untuk di-scrape manual menggunakan tool seperti Puppeteer/Playwright atau wget dengan retry:
+
+COURSE LINKS:
+- https://seller-id.tokopedia.com/university/course?learning_id=6990692707829521&content_id=4839645519922960 (Mega Campaign Registration & Withdrawal Guide)
+- https://seller-id.tokopedia.com/university/course?learning_id=6990692707829521&content_id=27848405042961 (Deal Hunting)
+- https://seller-id.tokopedia.com/university/course?learning_id=6992591972206353&content_id=4383956825917200 (How to Go-LIVE)
+- https://seller-id.tokopedia.com/university/course?identity=1&role=1&learning_id=6990692707338001&from=course&content_id=8504200913028881 (How to Create Short Video)
+- https://seller-id.tokopedia.com/university/course?identity=1&role=1&learning_id=6996129464993552&from=course&content_id=1188831018501904 (How to Start Affiliate Collaboration)
+- https://seller-id.tokopedia.com/university/course?learning_id=6983456438552321&content_id=3261401797101313&lang=en (How to Increase Product Quality)
+- https://seller-id.tokopedia.com/university/course?learning_id=8286401675134736 (Star Seller)
+- https://seller-id.tokopedia.com/university/course?learning_id=8286400433702657 (Basic Seller)
+- https://seller-id.tokopedia.com/university/course?learning_id=7415687807403792 (Shipping Settings)
+- https://seller-id.tokopedia.com/university/course?learning_id=5571154660738833 (Fulfillment)
+
+ESSAY/FEATURE GUIDE LINKS:
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=8608968726071056 (Tokopedia & TikTok Shop Commitment)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=8392477993174785 (Integration to Tokopedia App)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=8127545463736065 (Shop Ownership Change Process)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7924483269183233 (Account Compromised)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753818834634498 (Inactive Seller Policy)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753799242925826 (Seller Performance Evaluation Policy)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753797661656833 (Inactive Seller Accounts)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=6837736040679169 (Access Management)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=6837732781688578 (Shop Marketing Account)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=6837727602067202 (Shop Official Account)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=260252827371281 (Growth Xtra Program / GXP)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=2248202870982417 (Stock Readiness / Ready Stock Program)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=6837740662834946 (LIVE Campaign Registration)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=2824420474685200 (Mall Registration)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=5411650459305729 (Platform Commission Fee Guide)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=6385751723132688 (Dynamic Commission Guide)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=2767365667784464 (Order Processing Fee Guide)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=3039885401655041 (Logistics Service Fee Guide)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753828090824449 (Pre-order Fee Guide)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7868735055857409 (Mall Service Fee Guide)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753815881516802 (Shipping Guidelines)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753813570602753 (How to arrange shipment)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753805756876545 (Shipping Options)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7466609552344833 (Warehouse Operating Hours)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=3766921560786689 (Fulfill orders on Seller APP)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=1576306723800848 (Weight and size limits)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=1576306723309328 (SOF for fruit shipments)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=8051096237557505 (Registering to be a Seller)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7911932313356034 (Link TikTok to other social media)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7911932313192194 (Brand authorisation rejected)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7910323630130946 (Holiday Mode)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7905931418879745 (Types of brand authorisation)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7905931418650369 (Unable to sell particular brand)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753838631356161 (Create Commission Account)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753813570864897 (How to register)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753813385774849 (New Shop Adjustment Period)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753811423217410 (Setting Up Shop Profile and Name)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=2424389064967952 (Two-Step Verification)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=5669859657991937 (Forgot password)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=10010044 (Official Account binding)
+- https://seller-id.tokopedia.com/university/essay?knowledge_id=7753803734501122 (Seller Registration - ini sudah di-scrape di Section 4)
+
+PLATFORM/PROMOTION LINKS (Redirect ke Seller Center):
+- https://seller-id.tokopedia.com/promotion/program/bundle/detail/7462443395571599105 (Register Growth Xtra)
+- https://seller-id.tokopedia.com/promotion/campaign-tools/all (Campaign tools)
+- https://seller-id.tokopedia.com/mall/manage (Mall management)
+- https://seller-id.tokopedia.com/live-selling/overview (LIVE selling)
+- https://seller-id.tokopedia.com/shoppable-videos/material-2-video (Upload Short Video)
+- https://affiliate-id.tokopedia.com/product/open-collaboration (Open Collaboration)
+- https://seller-id.tokopedia.com/product/manage (Product management)
+- https://seller-id.tokopedia.com/profile/seller-profile?tab=account_information (Account Information)
+
+================================================================================
+SECTION 8: CATATAN TEKNIS & KONTEKS GAMBAR
+================================================================================
+
+Konteks Gambar yang Dipertahankan:
+1. [Gambar: Banner "Take the Survey in Just 3 Minutes! Get a chance to win vouchers up to 7.5 mio" dengan background hijau gelap dan elemen kembang api/ucapan]
+2. [Gambar: Banner "Keluarga tokopedia | TikTok Shop" dengan logo WhatsApp, Telegram, Facebook, dan Viber - ajakan join Seller Community]
+3. [Gambar: Banner Instagram @tokopedia_ttsselleredu dengan tombol "Follow Now"]
+4. [Gambar: Banner TikTok @tokopedia_ttsselleredu dengan tombol "Follow Now"]
+5. [Gambar: Ilustrasi 3D tas belanja gradasi pink-hijau dengan logo TikTok - thumbnail course]
+6. [Gambar: Ilustrasi 3D toko dengan kanopi - thumbnail course]
+7. [Gambar: Ilustrasi 3D ponsel dengan ikon gembok dan checkmark - thumbnail course]
+8. [Gambar: Ilustrasi 3D mata dengan radar - thumbnail FAQ]
+9. [Gambar: Ilustrasi 3D toko dengan hati - thumbnail Inactive Seller Policy]
+10. [Gambar: Ilustrasi 3D toko dengan bintang dan checkmark - thumbnail Seller Performance Evaluation]
+11. [Gambar: Ilustrasi 3D amplop dengan hati - thumbnail Shop Marketing Account]
+12. [Gambar: Ilustrasi 3D tangan bertepuk - thumbnail Rights and Rules]
+13. [Gambar: Logo Tokopedia (burung hijau) dan TikTok Shop (tas hitam) berdampingan]
+14. [Gambar: Ikon buku dengan pensil merah - representasi menu Courses]
+15. [Gambar: Ikon dokumen dengan gear merah - representasi menu Feature Guide]
+16. [Gambar: Ikon dokumen dengan checkmark merah - representasi menu Policy Center]
+17. [Gambar: Screenshot search bar di header Academy dengan panah merah menunjuknya]
+
+Status Scrape:
+- Total halaman berhasil di-scrape: 5 course/essay utama
+- Total link terdeteksi: 60+ URL (course, essay, platform)
+- Kendala: Website menggunakan JavaScript rendering dan memiliki rate limiting yang menyebabkan timeout pada akses langsung. Solusi menggunakan r.jina.ai berhasil parsial.
+- Rekomendasi: Untuk scrape lengkap, gunakan Puppeteer/Playwright dengan retry logic dan delay antar request.
+
+================================================================================
+END OF KNOWLEDGE BASE
+================================================================================

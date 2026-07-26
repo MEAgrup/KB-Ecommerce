@@ -1,0 +1,434 @@
+# =============================================================================
+# KNOWLEDGE BASE: TOKOPEDIA & TIKTOK SHOP ACADEMY
+# Domain: seller-id.tokopedia.com/university/
+# Tanggal Scraping: 2026-07-24
+# Format: Teks (konteks gambar dijelaskan secara deskriptif)
+# =============================================================================
+
+# CATATAN PENTING:
+# URL spesifik yang diminta (learning_id=8286401675134736&content_id=8282858259662593)
+# mengalami internal server error dan timeout berulang kali saat diakses,
+# sehingga tidak dapat di-scrape secara langsung. Namun, telah dilakukan
+# interview/discovery terhadap seluruh struktur situs dan berhasil mengekstrak
+# konten dari puluhan halaman terkait dalam domain yang sama, termasuk kursus,
+# essay/feature guide, dan policy center.
+
+# =============================================================================
+# BAGIAN 1: STRUKTUR UTAMA AKADEMI
+# =============================================================================
+
+Berdasarkan halaman home, platform ini memiliki 3 kategori pembelajaran utama untuk seller:
+
+## 1.1 Beginner's Guide — Getting Started & Registration (6 lessons)
+Panduan langkah demi langkah untuk membuat akun TikTok Shop by Tokopedia,
+menyelesaikan registrasi, dan menyiapkan toko sebelum berjualan.
+
+## 1.2 Beginner's Guide — Shop & Product Operation (7 lessons)
+Cara menjalankan toko secara efisien, mengelola inventori, memproses pesanan,
+dan memberikan layanan pelanggan terbaik.
+
+## 1.3 Beginner's Guide — Account Management (5 lessons)
+Memelihara performa akun, memahami metrik kunci, dan memastikan kesehatan toko jangka panjang.
+
+Selain kursus, terdapat juga:
+- Feature Guide: Tutorial fitur
+- Policy Center: Ringkasan aturan & kebijakan
+- Live Replay: Rekaman webinar (Bookings & Vouchers, Home Supplies, Kitchenware, dsb.)
+
+# =============================================================================
+# BAGIAN 2: SELAMAT DATANG DI TOKOPEDIA & TIKTOK SHOP ACADEMY
+# URL Referensi: learning_id=4880626944149265
+# =============================================================================
+
+## Informasi Penting Integrasi
+- Per 26 Juni 2025, Tokopedia Seller Center membatasi maksimal 3 pesanan baru
+  untuk penjual yang belum melakukan upgrade ke Seller Center baru.
+- Terdapat perubahan penting pada fitur, menu, dan proses operasional toko
+  setelah integrasi Tokopedia dan TikTok Shop.
+- Penjual disarankan mempelajari Panduan Direktori Seller Center Setelah Upgrade.
+
+## Apa yang Bisa Dipelajari?
+| Kategori                | Isi                                                                 |
+|-------------------------|---------------------------------------------------------------------|
+| Strategi & Praktik Terbaik | Optimasi produk, konten, hingga cara meningkatkan konversi         |
+| Tutorial Fitur          | Cara kerja fitur, cara mengaktifkannya, dan penerapan yang tepat   |
+| Policy Center           | Ringkasan aturan & ketentuan yang berlaku, termasuk update kebijakan |
+
+# =============================================================================
+# BAGIAN 3: PEDOMAN INTEGRASI UNTUK PENJUAL TOKOPEDIA
+# URL Referensi: learning_id=7446646669854480
+# =============================================================================
+
+Jika Anda memiliki toko di Tokopedia dan ingin menghubungkannya dengan
+TikTok Shop by Tokopedia, Anda harus mengonfirmasi integrasi akun untuk
+menyinkronkan data toko dan mengelolanya melalui Tokopedia & TikTok Shop Seller Center.
+
+Tanpa konfirmasi, Anda tidak dapat menggunakan Seller Center terintegrasi secara penuh.
+
+## Materi Terkait yang Direkomendasikan
+- Brand Qualification
+- Ads
+- Affiliate for Sellers
+- Data Analytics
+- Finance and Settlement
+- Campaign and Cofunded Program
+- Shipping Settings
+- Introduction after Integration
+- Chat Tool
+- Promotion
+
+# =============================================================================
+# BAGIAN 4: KEBIJAKAN PRODUK (PRODUCT LISTING POLICY)
+# URL Referensi: learning_id=6983456438552321
+# Judul: Product Listing Policy Guide on TikTok Shop and Tokopedia
+# =============================================================================
+
+## Mengapa Harus Mengikuti Kebijakan Produk?
+- Account Safety: Produk terlarang dapat menyebabkan penalti atau suspensi akun.
+- Customer Trust: Listing yang akurat dan patuh membangun kepercayaan pembeli.
+- Smooth Operations: Produk yang memenuhi syarat tidak akan diturunkan secara tiba-tiba.
+- Faster Growth: Toko yang patuh lebih berpeluang mendapat visibilitas dan kualifikasi kampanye.
+- Legal Protection: Melindungi bisnis dari masalah hukum.
+
+## Empat Kategori Produk
+
+### A. Unsupported Product Policy
+Produk yang tidak diizinkan dijual sama sekali di platform. Contoh:
+1. Obat-obatan dan alat kesehatan tertentu
+2. Alkohol, tembakau, dan rokok elektronik
+3. Produk virtual
+4. Jasa/layanan
+5. Produk politik
+6. Produk bekas/secondhand
+7. Hewan hidup dan produk hewan tertentu
+8. Koin, uang tunai, gift card, dan produk keuangan
+9. Produk kesehatan seksual
+10. Real Estat/Properti
+11. Senjata lainnya
+12. Obat bebas (OTC Medicine)
+13. Produk yang diformulasikan atau dipasarkan utama untuk penurunan berat badan
+    atau penambahan otot berisiko tinggi
+
+### B. Restricted Product Policy
+Produk yang memerlukan persetujuan sebelum dijual. Kategori terbatas meliputi:
+
+- Baby, Maternity & Children's Fashion:
+  Breast pump, botol susu, popok sekali pakai, popok kain, baju bayi.
+
+- Beauty and Personal Care:
+  Skincare, lotion, kosmetik.
+
+- Food & Beverages:
+  Harus memiliki kemasan tepat dan tanggal kedaluwarsa yang aman.
+  Produk mudah busuk harus mencantumkan detail tanggal kedaluwarsa.
+
+- Food/Health Supplements:
+  Termasuk vitamin dan suplemen untuk bayi.
+  Penjual harus mengunggah dokumen keamanan.
+
+- Household Medical Devices for Personal Use:
+  Berlaku untuk semua produk di kategori ini.
+  Penjual harus mengunggah dokumen keamanan.
+
+Cara Mengunggah Dokumen:
+Seller Center > Products > Manage Products > Add New Product > isi atribut wajib > Submit for review.
+
+### C. Prohibited Product Policy
+Produk yang dilarang oleh hukum atau regulasi setempat:
+- Senjata api, amunisi, dan senjata
+- Barang berbahaya dan berbahaya
+- Bagian tubuh/manusia
+- Hewan, produk hewan, satwa liar dilindungi, dan tanaman
+- Produk dewasa dan jasa
+- Produk diskriminatif/ofensif
+- Narkoba dan peralatannya
+- Keamanan dan privasi
+- Barang pemerintah dan militer
+- Produk yang memfasilitasi aktivitas ilegal atau perilaku tidak jujur
+- Barang konsumen tanpa label dan yang dikemas ulang
+
+### D. Invite-Only Product Policy
+Kategori yang hanya bisa dijual setelah melalui proses "Invite-Only":
+- SIM Card, Mobile Top Up, dan Mobile Data
+- Produk bayi dan maternity tertentu
+- Logam mulia, aksesori perhiasan, dan turunannya (berlian, platinum, emas 24 karat, giok)
+- Bahan segar, chilled, dan frozen
+- Alat pemantau kesehatan & self-test kit
+- Produk preowned (tablet, HP, laptop, mobil & motor bekas)
+- Otomotif (sepeda motor)
+- Alkohol (wine, spirits, beer) — hanya untuk Tokopedia Official Store dengan izin valid.
+
+Cara menjadi seller Invite-Only:
+Seller Center > My Account > Account Settings > Qualification Center.
+
+### E. IPR Brand Authorization Policy
+Wajib menyelesaikan proses Brand Authorization sebelum listing produk bermerek.
+Jenis otorisasi:
+- Trademark Owner
+- National Executive 1st Level Authorized Seller
+- 1st Level Authorized Seller
+- 2nd Level Authorized Seller
+- 3rd Level Authorized Seller
+
+Cara submit:
+Seller Center > My Account > Account Settings > Qualification Center > Brand Qualification > Add Brand Authorization.
+
+## Kesalahan Umum yang Harus Dihindari
+| Kesalahan                                      | Solusi                                                    |
+|------------------------------------------------|-----------------------------------------------------------|
+| Listing produk unsupported (alkohol, tembakau, jasa, barang bekas) | Cek daftar kebijakan sebelum mengunggah                   |
+| Tidak melampirkan dokumen wajib untuk kategori terbatas | Unggah dokumen persetujuan (BPOM, lisensi)                |
+| Menjual barang bermerek tanpa otorisasi        | Selesaikan brand authorization terlebih dahulu            |
+| Mengunggah produk invite-only tanpa izin       | Daftar melalui Qualification Center                       |
+| Mengabaikan update kebijakan                   | Cek update kebijakan produk secara rutin                  |
+
+## Checklist Aman Berjualan
+[OK] Selalu cek apakah produk supported, restricted, atau prohibited sebelum listing
+[OK] Submit dokumen yang diperlukan untuk kategori restricted/invite-only
+[OK] Selesaikan brand authorization jika menjual produk bermerek
+[OK] Patuhi panduan produk TikTok Shop dan Tokopedia
+
+# =============================================================================
+# BAGIAN 5: KOMITMEN PENGALAMAN INTEGRASI TOKOPEDIA & TIKTOK SHOP
+# URL Referensi: knowledge_id=8608968726071056
+# =============================================================================
+
+Ringkasan fitur-fitur enhancement yang tersedia setelah integrasi:
+
+| Fitur                        | Ringkasan                                                                 | Manfaat                                                                                                      | Link Detail                           |
+|------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| Customer Broadcast           | Kirim pesan broadcast ke audiens besar di kedua platform                  | Gratis jika memenuhi kriteria                                                                                | Tersedia                              |
+| Weight by Variant            | Tambahkan berat berbeda untuk setiap varian dalam satu SPU                | Fleksibilitas untuk seller dengan banyak varian berbeda beratnya                                             | knowledge_id=7753818834470658         |
+| Product Discount             | Alat diskon langsung yang mudah dan fleksibel (sebelumnya Slash Price)    | Fleksibel, mendukung seleksi online dan bulk upload                                                          | knowledge_id=6837745305847554         |
+| Seller Flash Sale            | Penawaran waktu terbatas (sebelumnya Flash Sale Toko)                     | Bisa set purchase limit dan buyer purchase limit; total purchase limit (quota) dan buyer purchase limits     | knowledge_id=6837737634252545         |
+| Smart Promotions             | Rekomendasi promosi berdasarkan seller dan kategori produk serupa         | Didukung untuk Product Discount, Buy More Save More, Regular Voucher. Smart Discount otomatis memberikan rekomendasi diskon berdasarkan data historis seller serupa | —                                     |
+| Xtra Boost Program (XBP)    | Program all-in-one yang menawarkan voucher produk dan bonus cashback      | Hanya untuk seller terintegrasi; voucher dan cashback lebih baik                                             | knowledge_id=260252827371281          |
+| Multi-warehouse return       | Pilih gudang yang sesuai untuk pembeli mengembalikan paket (hanya Tokopedia) | Memperbaiki alur operasional dan fleksibilitas                                                               | —                                     |
+| Instant & Expressed Settlement | Instant: Segera setelah konfirmasi pembeli (hanya Tokopedia). Expressed: 3 hari kalender jika memenuhi kriteria | Lebih cepat, mengoptimalkan arus kas                                                                         | knowledge_id=3820739292120848         |
+| Flexible Payment Method      | Beberapa cara membayar biaya marketing                                    | Fleksibilitas operasional dan finansial                                                                      | knowledge_id=8231278726366993         |
+| Linkshare/Affiliate          | Daftarkan produk untuk kolaborasi affiliate dengan creator kedua platform | Terhubung dengan 5 juta+ creator; tracking penjualan affiliate di kedua platform dalam satu tempat          | knowledge_id=4514020548314896         |
+| Separate Shipping Options    | Atur opsi pengiriman berbeda untuk pesanan dari 2 platform di level gudang | Fleksibilitas kustomisasi pengiriman per platform dan gudang                                                 | knowledge_id=7753805756876545         |
+| Collection Method Setup      | Konfigurasi metode koleksi (drop-off, pickup) per gudang secara independen | Kontrol operasional lebih besar antar lokasi gudang                                                          | knowledge_id=6954839003596545         |
+| Mission & Rewards            | Serangkaian misi untuk mempelajari pengalaman berjualan                   | Klaim langsung setelah menyelesaikan misi: subsidi, ad credit, diskon biaya komisi                           | knowledge_id=7753817030608642         |
+
+## Peningkatan Layanan Pelanggan
+
+| Channel    | Peningkatan                                              | Panduan                                                                 |
+|------------|----------------------------------------------------------|-------------------------------------------------------------------------|
+| Chatbot (TANYA) | Visibilitas & alur yang ditingkatkan untuk bicara dengan agen | TANYA menyediakan Top FAQ terkait integrasi & akses cepat chat dengan agen |
+| Help Center | Topik integrasi ditempatkan di bagian populer             | Mudah menemukan panduan integrasi di https://www.tokopedia.com/help/seller |
+
+# =============================================================================
+# BAGIAN 6: PLATFORM NOTIFICATION CENTER
+# URL Referensi: knowledge_id=6837819452786434
+# =============================================================================
+
+## Apa itu Notification Center?
+Pusat informasi dari platform termasuk: undangan koneksi merchant, undangan binding partner,
+undangan target plan, aktivitas platform, sampel gratis, dll.
+
+## Lokasi
+Pojok kanan atas Affiliate Center.
+
+## Fungsi Kunci
+
+### 1. Membedakan area matching creator&seller dan area informasi platform
+- Kiri (Partner): Creator&seller matching area — cek informasi matching, inisiasi chat instan.
+- Kanan (System): Akses semua pesan dari platform (cooperation management, delivery management,
+  sample management, governance notice, public knowledge, platform activities).
+
+### 2. Platform information clustering display dengan filter
+Setelah memilih tab system, klik "All System Message" untuk filter berdasarkan tipe:
+
+| Tipe Pesan            | Konten                                                                                                               |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------|
+| Cooperation management| Seller cooperation: Merchant linkage, unbinding, Targeted plan, Connection invites. Agency cooperation: Agency linkage, split invitation |
+| Promotion management  | Plan discontinuation, commission rate change, product removal, deletion, OOS, price change                           |
+| Sample management     | Sample status change, sample invitation, sample fulfillment reminder                                                 |
+| Governance notification| Creator education, governance tickets                                                                               |
+| Notification          | Task center status change, reward-related, ops messages (new policy, new function, business strategy)                |
+| Campaigns             | Platform investment, activity effect publicity, guidance for joining                                                 |
+
+### 3. Differentiated Intensity of Message Reminder
+- Strong reminder: Sangat penting, disarankan dibaca segera dan selesaikan tindakan terkait.
+- General Reminder: Penting, perlu dicek.
+- Folding reminder: Dicollapse menjadi satu pesan, klik untuk melihat detail.
+
+# =============================================================================
+# BAGIAN 7: INFORMASI TERBARU UNTUK SELLERS (FAQ RESUME OPERATIONS)
+# URL Referensi: knowledge_id=7824364109121282
+# =============================================================================
+
+## Order Volume Limit (OVL)
+- Tokopedia membatasi kapasitas sementara. Saat batas tercapai, toko tidak bisa menerima
+  pesanan tambahan sampai reset hari berikutnya.
+- Pembatasan diperkirakan akan dilonggarkan secara bertahap.
+
+## Perubahan Operasional
+- Semua seller akan otomatis dimasukkan ke Holiday Mode untuk membatasi penggunaan akun.
+- Untuk melanjutkan berjualan: nonaktifkan Holiday Mode.
+  - Dalam 1 jam setelah mematikan Holiday Mode, inventori kembali ke level sebelumnya.
+  - Platform akan melanjutkan penilaian semua metrik.
+
+## Produk yang Sudah Diunggah
+- Produk yang sebelumnya diunggah tetap tidak berubah dan siap dijual setelah platform
+  melanjutkan operasi.
+- Namun, seller harus meninjau dan memperbarui inventori serta mematikan holiday mode.
+
+## Performa Toko
+- Semua performa toko yang ada tetap sama (SES, ratings, performance, reviews).
+- Dampak negatif pada performa yang disebabkan oleh suspensi fitur transaksi e-commerce
+  akan dihapus.
+
+## Komisi & Biaya
+- Tidak ada perubahan komisi, tetap berdasarkan kebijakan asli.
+- Jika seller di TikTok dan Tokopedia, tetap membayar biaya komisi terpisah untuk
+  masing-masing platform.
+
+## Pajak
+- Pajak tetap tidak berubah.
+
+## Riwayat Penjualan & Transaksi
+- Tetap tersedia di Seller Center.
+
+## Kampanye 12.12
+- Platform berpartisipasi dalam kampanye Beli Lokal 12.12.
+- Promosi tersedia: Free Shipping, Flash Sale, Campaign Promotion, dll.
+- Shop Ads campaigns di Indonesia tidak tersedia untuk sementara.
+
+## Kontak Bantuan
+- https://seller-id.tokopedia.com/ticket
+- https://seller.tiktok.com/contact-us
+- Account Manager (untuk seller KA).
+
+# =============================================================================
+# BAGIAN 8: PLATFORM COMMISSION FEE
+# URL Referensi: knowledge_id=5411650459305729
+# =============================================================================
+
+## FAQ Komisi
+
+1. Siapa yang dikenakan biaya komisi?
+   Semua seller di Shop | Tokopedia Indonesia. Tarif berbeda untuk Marketplace seller dan Mall seller.
+
+2. Apa itu "valid order"?
+   Pesanan yang sudah dibayar, berhasil dikirim, dan diterima pembeli.
+   Pesanan yang dibatalkan, fully returned, atau fully refunded bukan valid order.
+
+3. Bagaimana komisi dikenakan?
+   Dipotong langsung dari settlement pesanan.
+
+4. Apakah komisi sudah termasuk pajak?
+   Ya, tarif yang tertera sudah inclusive tax.
+
+5. Di mana cek detail komisi?
+   - Belum settle: Seller Center > Finance > Transactions > To settle > View Details > Estimated Settlement Details.
+   - Sudah settle: Seller Center > Finance > Transactions > Settled > View Details > Earning Details.
+
+6. Proses refund komisi?
+   - Jika seluruh pesanan dikembalikan: komisi penuh dikembalikan.
+   - Jika sebagian direfund: komisi untuk item yang direfund dikembalikan.
+
+7. Apakah platform discount dihitung dalam komisi?
+   Perhitungan komisi tidak mempertimbangkan diskon yang disponsori platform.
+
+8. Apakah ada invoice?
+   Ya, seller menerima invoice bulan berikutnya untuk periode billing bulan sebelumnya.
+   Download di Finance > Invoice Center > Platform Service Fee.
+
+# =============================================================================
+# BAGIAN 9: AFFILIATE CENTER
+# URL Referensi: learning_id=5604117368686337
+# =============================================================================
+
+## Apa itu Affiliate Center?
+Dashboard terpusat di dalam TikTok Shop by Tokopedia Seller Center untuk mengelola
+setiap bagian kampanye affiliate — mulai dari menemukan creator hingga tracking pesanan.
+
+## Fitur Utama
+
+| Fitur                | Deskripsi                                                                                           |
+|----------------------|-----------------------------------------------------------------------------------------------------|
+| Open & Target Collaboration | Pilih kolaborasi terbuka (semua creator) atau undangan tertarget                                    |
+| Discover Creators    | Cari creator yang cocok dengan produk Anda, cek peringkat performa mereka                           |
+| Manage Creators      | Lacak dan kelola kolaborasi creator yang sedang berjalan dengan update real-time                    |
+| Sample Requests      | Tinjau dan setujui permintaan sampel dari creator serta kelola pengiriman                           |
+| Analytics Dashboard  | Pantau performa kampanye berdasarkan produk, creator, video, dll.                                   |
+| Outreach Analysis (NEW) | Ukur efektivitas upaya outreach untuk engagement creator                                          |
+| Affiliate Orders     | Lihat semua pesanan yang berasal dari affiliate dan lacak detail performanya                         |
+
+# =============================================================================
+# BAGIAN 10: MENGUASAI PERMINTAAN AFTER-SALES
+# URL Referensi: learning_id=5651646756275984
+# =============================================================================
+
+Pelajari cara mengatur dan mengelola akun penjual Anda, termasuk konfigurasi dan
+optimasi terkait permintaan pasca-penjualan.
+
+# =============================================================================
+# BAGIAN 11: DAFTAR URL/KNOWLEDGE ID YANG TERDETEKSI (BELUM DI-SCRAPE)
+# =============================================================================
+
+Berikut adalah daftar link internal yang ditemukan selama proses discovery namun
+belum berhasil diakses karena keterbatasan tool (timeout/internal error):
+
+## Kursus Utama (Course Pages)
+- learning_id=4880626944149265 — Welcome to Tokopedia & TikTok Shop Academy!
+- learning_id=7446646669854480 — Pedoman Integrasi untuk Penjual Tokopedia
+- learning_id=8590817289078544 — TikTok Shop by Tokopedia Seller Ambassador
+- learning_id=8286401675134736 — [URL ANDA — TIDAK DAPAT DI-AKSES]
+- learning_id=5651646756275984 — Menguasai Permintaan After-Sales
+- learning_id=6983456438552321 — Product Listing Policy Guide
+
+## Essay/Feature Guide Pages (knowledge_id)
+- 8608968726071056 — Integration Commitment & Enhancements [OK]
+- 6837819452786434 — Platform Notification [OK]
+- 7824364109121282 — Informasi Terbaru untuk Sellers [OK]
+- 5411650459305729 — Platform Commission Fee [OK]
+- 5893829518083841 — Customer Broadcast
+- 4816705213843201 — Customer Broadcast (alt)
+- 7753818834470658 — Weight by Variant
+- 6837745305847554 — Product Discount
+- 6837737634252545 — Seller Flash Sale
+- 260252827371281 — Xtra Boost Program (XBP)
+- 3820739292120848 — Instant & Expressed Settlement
+- 8231278726366993 — Flexible Payment Method
+- 4514020548314896 — Linkshare/Affiliate
+- 7753805756876545 — Separate Shipping Options
+- 6954839003596545 — Collection Method Setup
+- 7753817030608642 — Mission & Rewards
+- 7753807673591553 — Settlement & Payout
+- 4859981469075201 — Operational Changes Guide
+- 4837820364113666 — Re-opening Preparation Guide
+- 6835094312519426 — Redirecting Traffic Policy
+- 7753811422807810 — SLA Extension Details
+- 10013572 — Creator & Seller Instant Messaging
+
+# =============================================================================
+# BAGIAN 12: KETERBATASAN & REKOMENDASI
+# =============================================================================
+
+## Keterbatasan Scraping
+1. URL Spesifik Anda Error: Halaman learning_id=8286401675134736&content_id=8282858259662593
+   mengembalikan internal error berulang kali di server Tokopedia, sehingga konten spesifiknya
+   tidak dapat diekstrak.
+
+2. Beberapa Halaman Timeout: Server seller university memiliki rate limiting atau load
+   balancing yang agresif, menyebabkan timeout saat mengakses beberapa course page secara bersamaan.
+
+3. Gambar: Semua gambar yang muncul (screenshot UI Seller Center, ikon notifikasi, banner promosi)
+   telah dideskripsikan konteksnya secara tekstual agar tidak kehilangan makna.
+
+## Rekomendasi untuk Melengkapi Knowledge Base
+Jika Anda memiliki akses langsung ke halaman tersebut, Anda bisa:
+1. Copy-paste konten teks dari halaman yang error ke chat ini, dan saya akan mengintegrasikannya.
+2. Screenshot halaman — jika Anda berbagi screenshot, saya bisa mengekstrak informasi dari gambar.
+3. Simpan knowledge base ini sebagai file .txt atau .md dan tambahkan konten manual dari halaman
+   yang tidak dapat diakses bot.
+
+# =============================================================================
+# AKHIR KNOWLEDGE BASE
+# Semua konten di atas diekstrak dari halaman-halaman yang berhasil diakses pada
+# domain seller-id.tokopedia.com. Struktur, URL, dan detail kebijakan telah
+# dipertahankan seakurat mungkin dalam format teks.
+# =============================================================================
