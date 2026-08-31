@@ -11,7 +11,7 @@ valid_as_of: 2026-08
 sources:
   - file: peng-toko---program-ekspor-shopee/program-ekspor-shopee-flexi.md
     bagian: "artikel penuh"
-decisions: [D-DEPTH-shp-ekspor-001]
+decisions: [S-D-DEPTH-shp-ekspor-001]
 ---
 # Program Ekspor Shopee FLEXI
 

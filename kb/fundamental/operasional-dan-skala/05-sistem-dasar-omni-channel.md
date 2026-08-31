@@ -1,17 +1,18 @@
 ---
-id: fnd-operasional-001
+id: fnd-operasional-005
 title: Bikin sistem dasar biar jualan Omni Channel gak kacau
 platform: lintas
 kategori: operasional
 depth: 2
-status: canonical
+status: blocked
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/jualan-online-di-semua-platform-omni-channel-itu-gampang-kalo-paham-ini.md
     bagian: video penuh
-related: [fnd-operasional-002]
+related: [fnd-operasional-001, fnd-operasional-006]
+decisions: [S-D-MERGE-04]
 ---
 
 # Bikin sistem dasar biar jualan Omni Channel gak kacau

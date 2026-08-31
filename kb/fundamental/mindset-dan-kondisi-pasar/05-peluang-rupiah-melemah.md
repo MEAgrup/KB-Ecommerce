@@ -1,17 +1,18 @@
 ---
-id: fnd-ekonomi-001
+id: fnd-mindset-005
 title: Peluang buat seller lokal saat rupiah melemah
 platform: lintas
-kategori: kondisi-ekonomi
+kategori: mindset
 depth: 2
-status: canonical
+status: blocked
 confidence: rendah
 sensitif_waktu: true
 valid_as_of: 2026-06
 sources:
   - file: transkrip-yohan-youtube/peluang-tersembunyi-cuan-jualan-online-ketika-lagi-di-kondisi-begini.md
     bagian: video penuh
-related: [fnd-operasional-003]
+related: [fnd-mindset-003, fnd-operasional-007]
+decisions: [S-D-MERGE-03]
 ---
 
 # Peluang buat seller lokal saat rupiah melemah

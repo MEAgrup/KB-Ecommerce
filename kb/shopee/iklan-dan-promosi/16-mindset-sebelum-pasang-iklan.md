@@ -12,7 +12,7 @@ sources:
   - file: slide-mea-internal/shopee-ads-mentor-deck.md
     bagian: bagian 1, 3, 6, 8
 related: [shp-iklan-102]
-decisions: [D-GAP-shp-iklan-103]
+decisions: [S-D-GAP-001]
 ---
 
 # Mindset yang benar sebelum pasang iklan Shopee

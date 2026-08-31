@@ -11,8 +11,8 @@ valid_as_of: 2024-06
 sources:
   - file: canva/jawara-15.md
     bagian: "slide Blue Ocean, VALUE, pertimbangan pembeli"
-related: [fnd-psikologi-003, fnd-harga-001]
-decisions: []
+related: [fnd-psikologi-003, fnd-harga-001, fnd-harga-004]
+decisions: [S-D-MERGE-09]
 ---
 
 # Value di atas harga dan strategi Blue Ocean

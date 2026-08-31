@@ -13,7 +13,7 @@ sources:
     bagian: video penuh
   - file: transkrip-yohan-youtube/jualan-di-shopee-yang-dulunya-rame-tiba-tiba-jadi-sepi.md
     bagian: video penuh
-related: [shp-produk-102, fnd-algoritma-002]
+related: [shp-produk-102, fnd-analisa-005]
 ---
 
 # Tiga fase terberat jualan di Shopee, dan kenapa Shopee itu "pasif"

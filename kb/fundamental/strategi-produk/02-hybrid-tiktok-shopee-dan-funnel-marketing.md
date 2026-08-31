@@ -11,7 +11,7 @@ valid_as_of: tidak-diketahui
 sources:
   - file: slide-mea-internal/shopee-mastery-2026-training-deck.md
     bagian: bagian "Perbedaan Shopee vs TikTok", "Strategi Hybrid", dan "Funnel Marketing" (bagian kebijakan/fitur bertanggal di deck ini TIDAK disertakan — lihat D-OUTDATED terkait)
-related: [fnd-operasional-001]
+related: [fnd-operasional-005, fnd-strategi-001]
 ---
 
 # Strategi hybrid TikTok ke Shopee dan funnel marketing top-to-bottom

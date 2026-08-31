@@ -1,17 +1,18 @@
 ---
-id: fnd-harga-002
+id: fnd-harga-004
 title: Blue Ocean vs Red Ocean, dan lima pendekatan pricing untuk keluar dari perang harga
 platform: lintas
-kategori: strategi-harga
+kategori: harga
 depth: 2
-status: canonical
+status: blocked
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: 2024-06
 sources:
   - file: slide-mea-internal/jawara15-laris-di-marketplace-meski-tanpa-perang-harga.md
     bagian: slide penuh (JAWARA 15, 27 Juni 2024)
-related: [fnd-harga-001]
+related: [fnd-psikologi-004, fnd-harga-003]
+decisions: [S-D-MERGE-09]
 ---
 
 # Blue Ocean vs Red Ocean, dan lima pendekatan pricing untuk keluar dari perang harga

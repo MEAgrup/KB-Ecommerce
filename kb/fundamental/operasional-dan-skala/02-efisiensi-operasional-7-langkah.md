@@ -11,8 +11,8 @@ valid_as_of: 2026-01
 sources:
   - file: youtube_yohan-_jualan_online_.md
     bagian: "video 5 (7 langkah operasional efisien)"
-related: [fnd-operasional-001, fnd-operasional-003]
-decisions: []
+related: [fnd-operasional-001, fnd-operasional-003, fnd-operasional-006]
+decisions: [S-D-MERGE-05]
 ---
 
 # Tujuh langkah efisiensi operasional tanpa turun kualitas

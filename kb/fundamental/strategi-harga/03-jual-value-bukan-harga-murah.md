@@ -1,17 +1,18 @@
 ---
-id: fnd-harga-001
+id: fnd-harga-003
 title: Jual value, bukan jual harga murah
 platform: lintas
-kategori: strategi-harga
+kategori: harga
 depth: 2
-status: canonical
+status: blocked
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/cara-jualan-online-2026-kasih-value-banyak-buat-pembeli.md
     bagian: video penuh
-related: [fnd-harga-002]
+related: [fnd-psikologi-003, fnd-harga-004]
+decisions: [S-D-MERGE-08]
 ---
 
 # Jual value, bukan jual harga murah

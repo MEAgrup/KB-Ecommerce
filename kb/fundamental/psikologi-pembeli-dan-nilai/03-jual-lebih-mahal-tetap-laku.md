@@ -13,7 +13,8 @@ sources:
     bagian: "video 2 (Kasih VALUE) §7 trik psikologi harga"
   - file: Youtube_yohan_-_tiktok_shop.md
     bagian: "video 8 §jual lebih mahal"
-related: [fnd-psikologi-002, fnd-harga-001, fnd-analisa-003]
+related: [fnd-psikologi-002, fnd-harga-001, fnd-analisa-003, fnd-harga-003]
+decisions: [S-D-MERGE-08]
 decisions: []
 ---
 

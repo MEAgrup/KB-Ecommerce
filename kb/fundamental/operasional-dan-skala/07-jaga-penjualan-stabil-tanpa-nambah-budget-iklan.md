@@ -1,17 +1,18 @@
 ---
-id: fnd-operasional-003
+id: fnd-operasional-007
 title: Jaga penjualan stabil tanpa nambah budget iklan
 platform: lintas
 kategori: operasional
 depth: 2
-status: canonical
+status: blocked
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/dollar-18000-ini-7-cara-jualan-online-tetap-stabil-dan-efisien.md
     bagian: video penuh
-related: [fnd-operasional-002, fnd-retensi-001]
+related: [fnd-operasional-003, fnd-retensi-001, fnd-mindset-005]
+decisions: [S-D-MERGE-06]
 ---
 
 # Jaga penjualan stabil tanpa nambah budget iklan

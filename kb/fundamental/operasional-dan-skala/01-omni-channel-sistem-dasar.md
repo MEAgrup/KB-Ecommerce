@@ -11,8 +11,8 @@ valid_as_of: 2026-01
 sources:
   - file: youtube_yohan-_jualan_online_.md
     bagian: "video 1 (Omni channel)"
-related: [fnd-operasional-002, fnd-analisa-003]
-decisions: []
+related: [fnd-operasional-002, fnd-analisa-003, fnd-operasional-005]
+decisions: [S-D-MERGE-04]
 ---
 
 # Omni-channel: sistem dasar biar gak kacau

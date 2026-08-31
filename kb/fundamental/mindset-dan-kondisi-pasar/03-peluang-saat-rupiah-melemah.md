@@ -11,8 +11,8 @@ valid_as_of: 2026-01
 sources:
   - file: youtube_yohan-_jualan_online_.md
     bagian: "video 4 (Peluang rupiah melemah)"
-related: [fnd-operasional-003, fnd-analisa-003]
-decisions: [K2-D-OUTDATED-04]
+related: [fnd-operasional-003, fnd-analisa-003, fnd-mindset-005]
+decisions: [K2-D-OUTDATED-04, S-D-MERGE-03]
 ---
 
 # Peluang saat rupiah melemah

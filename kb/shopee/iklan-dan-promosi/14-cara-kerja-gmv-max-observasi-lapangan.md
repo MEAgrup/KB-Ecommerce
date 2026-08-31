@@ -12,7 +12,7 @@ sources:
   - file: transkrip-yohan-youtube/update-terbaru-algoritma-iklan-gmv-max-shopee-untuk-seller-shopee.md
     bagian: video penuh
 related: [shp-iklan-006]
-decisions: [D-CONFLICT-shp-iklan-101]
+decisions: [S-D-CONFLICT-002]
 ---
 
 # Cara kerja GMV Max menurut observasi lapangan (bukan dokumentasi resmi)

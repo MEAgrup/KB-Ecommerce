@@ -74,3 +74,114 @@ Dulu kedua KB sama-sama punya `D-CONFLICT-01`, `D-GAP-01`, `D-OUTDATED-01..04`, 
   - Peringatan terbanyak: 136 "sumber tanpa penunjuk bagian" (kualitas provenance bawaan,
     banyak di entry KB-2 yang kutip YouTube tanpa `bagian:`), 45 "canonical tapi decisions
     terbuka" (MEMANG sengaja — semua keputusan dibiarkan terbuka).
+
+---
+
+# MERGE-LOG — Batch Shopee (31 Agu 2026)
+
+Audit persis apa yang diubah saat menggabung batch `push-ready/` (hasil sesi terpisah skill
+`mea-knowledge-architect`, isi gap Shopee) ke tree kanonik di atas.
+
+Hasil: **467 entry aktif+blocked** (450 canonical + 17 blocked, 8 blocked di antaranya bawaan
+`tiktok-shop` yang tak disentuh sesi ini — lihat §8 untuk rincian per platform) + **15
+entry baru diarsipkan**, 1 pohon, `validate.py`: **0 error** (12 flag "bahasa hype" — semua
+false positive, dicek manual satu-satu, lihat §5).
+
+## 1. Tabrakan ID yang diselesaikan (renumber sisi batch Shopee)
+Base (`kb/fundamental/` lama) pegang nomornya; entry baru lanjut dari nomor berikutnya.
+Semua `related:` yang nunjuk ID lama sudah diperbarui.
+
+| Kategori | ID lama (push-ready) | ID baru | Folder tujuan |
+|---|---|---|---|
+| algoritma-dan-data | `fnd-algoritma-001..002` | `fnd-analisa-004..005` | fundamental/analisa-dan-diagnosa/ |
+| kondisi-ekonomi | `fnd-ekonomi-001` | `fnd-mindset-005` | fundamental/mindset-dan-kondisi-pasar/ |
+| operasional | `fnd-operasional-001..003` | `fnd-operasional-005..007` | fundamental/operasional-dan-skala/ |
+| psikologi-pembeli | `fnd-psikologi-001` | `fnd-psikologi-005` | fundamental/psikologi-pembeli-dan-nilai/ |
+| strategi-harga | `fnd-harga-001..002` | `fnd-harga-003..004` | fundamental/strategi-harga/ |
+
+`shp-*` (Shopee) gak ada tabrakan sama sekali — namespace kosong sebelumnya. Satu referensi
+menggantung ditemukan & diperbaiki: `shp-akun-103` masih nunjuk id lama `fnd-algoritma-002`
+(sudah jadi `fnd-analisa-005`).
+
+## 2. Taksonomi disamakan
+- Folder `operasional` → `operasional-dan-skala` (samakan pola nama folder lama).
+- Folder `psikologi-pembeli` → `psikologi-pembeli-dan-nilai`.
+- Folder `kondisi-ekonomi` → dilebur ke `mindset-dan-kondisi-pasar` (1 entry).
+- 1 file salah folder di sumbernya: `strategi-harga/02-fokus-satu-pasar-daripada-nyebar.md`
+  (frontmatter `kategori: strategi-produk`, tapi fisiknya ada di folder `strategi-harga`) —
+  dipindah ke `strategi-produk/` biar folder & kategori sinkron.
+- `retensi-dan-repeat-order/` dan `strategi-produk/` MASUK sebagai folder `fundamental/` baru
+  (sebelumnya gak ada) — 1 dan 3 entry.
+
+## 3. Folder yang MASUK sebagai folder baru (tanpa tabrakan)
+- `shopee/{akun-dan-toko, analisis-performa-toko, iklan-dan-promosi, keuangan, layanan-pembeli,
+  live-dan-video, pengiriman-dan-pesanan, penjual-star-dan-mall, produk}` — 282 entry, mengisi
+  `K1-D-GAP-03`/`K2-D-GAP-01`.
+- `_archive/pengumuman-dan-kebijakan-terbaru/` — 15 entry (`status: archived`), sesuai
+  `S-D-OUTDATED-001` yang sudah diputus Yohan (2026-08-30) sebelum sesi ini.
+
+## 4. Kode keputusan (D-code) diberi prefix asal
+Decision queue batch Shopee (`push-ready/_decisions/DECISIONS-shopee.md`, 10 keputusan, format
+tanpa prefix + 1 gaya `D-<TIPE>-<id-entry>` di beberapa frontmatter) digabung ke
+`DECISIONS.md` master:
+- Semua kode `D-CONFLICT-*`, `D-OUTDATED-*`, `D-GAP-*`, `D-SCOPE-*`, `D-DEPTH-shp-*` → prefix
+  `S-` (10 keputusan, 4 sudah tertutup sebelumnya).
+- Field `decisions:` di 6 entry Shopee yang masih pakai kode gaya lama ikut diprefix.
+- Ditambah **9 keputusan baru** `S-D-MERGE-01..09` (lihat §5) yang gw angkat sendiri dari hasil
+  `overlap.py` — bukan bagian decision queue asli batch Shopee.
+
+## 5. Duplikat lintas-batch yang KETANGKEP overlap.py (bukan ditebak manual)
+`overlap.py` dijalankan 3 kali: (a) `fundamental/` gabungan lama+baru, (b) `shopee/` internal,
+(c) `shopee/` + `tiktok-shop/` gabungan.
+
+- **(a) 9 pasang overlap nyata** — fundamental baru (materi YouTube Yohan) ternyata banyak
+  beririsan sama `fundamental/` lama, kemungkinan sumber video sama yang ke-transkrip dua kali
+  di batch berbeda. Kesembilan entry BARU ditandai `status: blocked` + `decisions:
+  [S-D-MERGE-0N]`, entry lama tetap `canonical` jalan terus (lihat DECISIONS.md Bagian E untuk
+  detail per pasang + rekomendasi).
+- **(b) & (c) gak ada duplikat topik nyata.** Klaster besar (254 & 264 file) yang muncul di
+  laporan overlap.py itu FALSE POSITIVE — kesamaan kosakata boilerplate bahasa resmi Shopee
+  ("Penjual", "Pembeli", "Seller Centre"), bukan topik yang sama. Klaster kecil (2-8 file) yang
+  tersisa semuanya sudah relasi yang diketahui dari merge KB-1×KB-2 sebelumnya (mis.
+  `K2-D-MERGE-01/02/03`), gak ada yang baru dari batch Shopee.
+
+Validate.py juga sempat menandai 15 error "bahasa hype" (`rahasia`, `dijamin`, `tanpa modal`) di
+12 entry Shopee — semua dicek manual ke konteksnya: **false positive** dari filter kata kunci.
+Konteksnya kutipan kebijakan resmi Shopee soal kerahasiaan OTP/password ("bersifat rahasia,
+jangan dibagikan"), atau contoh klaim yang justru **DILARANG** ditulis di judul/gambar produk
+("dijamin langsung kaya", "Dijamin Asli"). Gak diedit — mengubah kutipan kebijakan resmi biar
+lolos filter kata kunci malah ngerusak akurasinya.
+
+## 6. Meta yang digabung
+- `_decisions/DECISIONS.md`: + Bagian D (10 keputusan `S-`, dari batch Shopee) + Bagian E (9
+  keputusan `S-D-MERGE`, baru dari audit merge ini). Total **74 keputusan** di master queue.
+- `_archive/README.md`: + 1 baris baru untuk `pengumuman-dan-kebijakan-terbaru/`.
+- `shopee/README.md` (penanda "folder kosong") **dihapus** — gapnya sudah keisi, gak ada
+  konvensi README per-folder lain di `kb/` (tiktok-shop juga gak punya).
+- `LAPORAN-KB.md`: + section "Update — Batch Shopee (2026-08)" di bawah laporan Fase 6 lama.
+- `MERGE-README.md`: ditulis ulang — namespace table + `shp-*` lengkap, catatan seri ganda
+  (`001-0xx` resmi vs `1xx`/`2xx` strategis) untuk kategori yang punya dua sumber.
+- `_manifest/`: diregenerasi ulang meliputi 467 entry (CSV + JSON), exclude folder `_*` (ikut
+  konvensi `validate.py`).
+
+## 7. Yang TIDAK gw putuskan sendiri
+- **9 duplikat baru** (`S-D-MERGE-01..09`, §5 di atas) — mana yang jadi versi utama, mana yang
+  diarsipkan. Rekomendasi udah gw kasih per pasang di DECISIONS.md, keputusan final Yohan.
+- **3 artikel resmi Shopee masih kepanjangan** (`shp-ekspor-001/002`, `shp-mall-003`,
+  `S-D-DEPTH-*`) — udah diidentifikasi sesi batch Shopee sebelumnya, belum dipecah, butuh sesi
+  baca+tulis ulang terpisah (bukan keputusan ya/tidak).
+- **Taksonomi `retensi-dan-repeat-order` jadi kategori sendiri atau tetap subset `analisa`** —
+  disebut eksplisit di `S-D-MERGE-07` karena nyambung ke pertanyaan penamaan folder, bukan cuma
+  soal isi mana yang menang.
+
+## 8. Status entry & validasi
+- Per `_manifest/MANIFEST.csv` (467 baris, sumber angka pasti — jangan hitung manual):
+  `tiktok-shop` 149 (141 canonical + 8 blocked, tak disentuh sesi ini), `shopee` 282 (semua
+  canonical, seluruhnya baru), `fundamental` 36 (27 canonical + 9 blocked — 9 blocked itu
+  seluruhnya entry baru dari §5 di atas). Plus 15 `archived` di `_archive/` (di luar manifest).
+- `validate.py` pada `kb/`: **0 error entry** (setelah 1 referensi menggantung diperbaiki dan
+  12 flag hype dikonfirmasi false positive), **1.204 peringatan** (naik dari 227 — mayoritas
+  peringatan baru adalah "gak ada bagian '## Kapan ini dipakai'" dan "'## Pertanyaan diagnosa'"
+  di entry Shopee hasil scraping artikel resmi, yang memang ditulis format ringkasan-artikel,
+  bukan format lengkap ala `tiktok-shop`. Ini bukan error dan entry tetap `canonical`, tapi
+  dicatat di `LAPORAN-KB.md` sebagai kandidat kerja lanjutan kalau mau kualitasnya sejajar.

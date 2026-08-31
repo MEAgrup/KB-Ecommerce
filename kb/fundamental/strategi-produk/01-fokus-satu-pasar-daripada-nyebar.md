@@ -11,7 +11,7 @@ valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/andai-gua-tau-ini-saat-mulai-jualan-di-shopee.md
     bagian: video penuh
-related: [fnd-retensi-001]
+related: [fnd-retensi-001, fnd-strategi-002]
 ---
 
 # Fokus satu pasar dengan beberapa produk, jangan nyebar ke banyak pasar

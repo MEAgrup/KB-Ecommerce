@@ -11,8 +11,8 @@ valid_as_of: 2026-01
 sources:
   - file: youtube_yohan-_jualan_online_.md
     bagian: "video 7 (DOLLAR 18) + video 4 (Peluang rupiah melemah)"
-related: [fnd-operasional-002, fnd-analisa-003, fnd-mindset-003]
-decisions: [K2-D-OUTDATED-04]
+related: [fnd-operasional-002, fnd-analisa-003, fnd-mindset-003, fnd-operasional-007]
+decisions: [K2-D-OUTDATED-04, S-D-MERGE-06]
 ---
 
 # Survival mode saat daya beli dan rupiah tertekan

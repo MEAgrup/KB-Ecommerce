@@ -11,8 +11,8 @@ valid_as_of: 2026-01
 sources:
   - file: youtube_yohan-_jualan_online_.md
     bagian: "video 9 (Repeat Order rendah BAHAYA)"
-related: [fnd-analisa-002, fnd-psikologi-003, tts-traffic-003]
-decisions: []
+related: [fnd-analisa-002, fnd-psikologi-003, fnd-retensi-001, tts-traffic-003]
+decisions: [S-D-MERGE-07]
 ---
 
 # Repeat order rendah: penyebab dan solusi

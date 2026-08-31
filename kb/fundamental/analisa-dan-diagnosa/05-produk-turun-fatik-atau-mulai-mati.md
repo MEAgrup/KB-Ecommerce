@@ -1,17 +1,18 @@
 ---
-id: fnd-algoritma-002
+id: fnd-analisa-005
 title: Baca tanda produk cuma lagi fatik vs mulai mati beneran
 platform: lintas
-kategori: algoritma-dan-data
+kategori: analisa
 depth: 3
-status: canonical
+status: blocked
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/yuk-analisa-bareng-jualan-online-omzet-turun-itu-awal-kehancuran.md
     bagian: video penuh
-related: [fnd-algoritma-001, fnd-retensi-001]
+related: [fnd-analisa-002, fnd-analisa-004, fnd-retensi-001]
+decisions: [S-D-MERGE-02]
 ---
 
 # Baca tanda produk cuma lagi fatik vs mulai mati beneran

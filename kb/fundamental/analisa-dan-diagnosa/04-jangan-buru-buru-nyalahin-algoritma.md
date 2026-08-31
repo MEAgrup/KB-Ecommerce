@@ -1,17 +1,18 @@
 ---
-id: fnd-algoritma-001
+id: fnd-analisa-004
 title: Sebelum nyalahin algoritma, cek dulu data toko lu
 platform: lintas
-kategori: algoritma-dan-data
+kategori: analisa
 depth: 2
-status: canonical
+status: blocked
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/algoritma-e-commerce-jahat-gak-berpihak-ke-seller-kecil.md
     bagian: video penuh
-related: [fnd-algoritma-002, fnd-retensi-001]
+related: [fnd-analisa-001, fnd-analisa-005, fnd-retensi-001]
+decisions: [S-D-MERGE-01]
 ---
 
 # Sebelum nyalahin algoritma, cek dulu data toko lu

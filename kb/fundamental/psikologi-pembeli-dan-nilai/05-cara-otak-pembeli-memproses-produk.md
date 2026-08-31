@@ -1,8 +1,8 @@
 ---
-id: fnd-psikologi-001
+id: fnd-psikologi-005
 title: Cara otak pembeli memproses produk sebelum memutuskan beli
 platform: lintas
-kategori: psikologi-pembeli
+kategori: psikologi
 depth: 2
 status: canonical
 confidence: sedang
@@ -11,7 +11,7 @@ valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/cara-jualan-online-pahami-cara-pembeli-berfikir.md
     bagian: video penuh
-related: [fnd-harga-001]
+related: [fnd-harga-003]
 ---
 
 # Cara otak pembeli memproses produk sebelum memutuskan beli

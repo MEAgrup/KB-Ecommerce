@@ -70,3 +70,49 @@ Per tipe: GAP 27 · OUTDATED 25 · CONFLICT 19 · SCOPE 18 · MERGE 12 · DEPTH 
 - Prefix D-code: `K1-`, `K2-`, `M-`. Batch berikutnya pakai tag baru (mis. `K3-`).
 - `_manifest/MANIFEST.json` = indeks 162 ID buat deteksi tabrakan di merge berikutnya.
 - Field non-standar: `aksi_oleh`, `audience` (cuma di entry KB-1), `confidence`, `platform`.
+
+---
+
+## Update — Batch Shopee (2026-08)
+
+Batch `push-ready/` (skill `mea-knowledge-architect`, sesi terpisah) digabung ke tree kanonik ini.
+Mengisi gap **Shopee — nol entry** yang jadi prioritas #1 di laporan Fase 6 di atas.
+
+### Yang masuk
+- **282 entry Shopee** (`kb/shopee/`): akun-dan-toko, analisis-performa-toko, iklan-dan-promosi,
+  keuangan, layanan-pembeli, live-dan-video, pengiriman-dan-pesanan, penjual-star-dan-mall, produk.
+  Semua `canonical`. Sumber dominan artikel resmi Shopee Seller Centre + beberapa transkrip
+  YouTube Yohan dan slide training internal MEA (konten strategis, id seri `-1xx`).
+- **15 entry diarsipkan** (`kb/_archive/pengumuman-dan-kebijakan-terbaru/`) — pengumuman/kebijakan
+  bertanggal (PPh 22, perubahan UI, dll), keputusan `S-D-OUTDATED-001` sudah tertutup.
+- **13 entry fundamental tambahan** ke `kb/fundamental/` — psikologi pembeli, strategi harga (2),
+  strategi produk (3, kategori baru), operasional (3), analisa (2, gabung ke `analisa-dan-diagnosa`),
+  mindset (1), retensi-dan-repeat-order (1, folder baru).
+- Decision queue batch ini (10 keputusan, 4 sudah tertutup) digabung ke `DECISIONS.md` master
+  dengan prefix `S-`.
+
+### Temuan audit merge (bukan dari laporan batch aslinya)
+Saat fundamental baru disandingkan ke `kb/fundamental/` lama pakai `overlap.py`, ketemu
+**9 pasang entry yang topiknya sama/nyaris identik** — kemungkinan besar sumber video/slide yang
+sama, ditranskrip ulang di dua batch berbeda dan gak ketangkep dedup di batch asalnya. Kesembilan
+entry BARU ditandai `status: blocked` (entry lama tetap `canonical`, tetap dipakai) sambil nunggu
+keputusan Yohan — dicatat sebagai `S-D-MERGE-01` s.d. `S-D-MERGE-09` di `DECISIONS.md` Bagian E.
+Overlap shopee-vs-tiktok-shop dan overlap internal shopee juga dicek (`overlap.py`) — gak ada
+duplikat lintas-platform yang nyata, cuma satu klaster besar semu (kesamaan kosakata boilerplate
+artikel resmi Shopee, bukan duplikat topik beneran).
+
+### Status entry (kb/ gabungan, per 2026-08-31)
+| Status | Jumlah | Catatan |
+|---|---|---|
+| canonical | 450 | shopee 282 + tiktok-shop 141 + fundamental 27 |
+| blocked | 17 | 9 fundamental baru (nunggu `S-D-MERGE-01..09`) + 8 tiktok-shop lama (tak disentuh sesi ini) |
+| archived | 15 | `pengumuman-dan-kebijakan-terbaru` |
+
+### Yang belum dikerjakan (di luar scope sesi ini)
+- 12 baris decision queue batch Shopee masih `terbuka` (3 D-CONFLICT/OUTDATED/GAP kualitatif +
+  3 `S-D-DEPTH` artikel resmi masih kepanjangan, belum dipecah: `shp-ekspor-001/002`, `shp-mall-003`).
+- Sebagian besar entry Shopee (hasil scraping artikel resmi Shopee Seller Centre) ditulis sebagai
+  ringkasan artikel, **belum** melalui pass "Kapan ini dipakai" / "Pertanyaan diagnosa" penuh
+  seperti template `tiktok-shop` — `validate.py` menandai ini sebagai **peringatan** (bukan error,
+  jadi tetap `canonical`), tapi ini kandidat kerja lanjutan kalau mau kualitasnya sejajar dengan
+  entry TikTok Shop yang sudah full-template.

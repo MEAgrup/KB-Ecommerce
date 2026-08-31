@@ -4,14 +4,15 @@ title: Kenapa repeat order rendah padahal pembeli baru cukup banyak
 platform: lintas
 kategori: retensi-dan-repeat-order
 depth: 2
-status: canonical
+status: blocked
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/yuk-analisa-bareng-repeat-order-jualan-online-kalian-rendah-ternyata-bahaya.md
     bagian: video penuh
-related: [fnd-algoritma-002]
+related: [fnd-analisa-003, fnd-analisa-005]
+decisions: [S-D-MERGE-07]
 ---
 
 # Kenapa repeat order rendah padahal pembeli baru cukup banyak

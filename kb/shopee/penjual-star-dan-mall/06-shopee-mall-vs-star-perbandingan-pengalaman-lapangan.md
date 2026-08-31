@@ -12,7 +12,7 @@ sources:
   - file: transkrip-yohan-youtube/fakta-jadi-shopee-mall-itu-lebih-untung-daripada-star-seller.md
     bagian: video penuh
 related: [shp-mall-001]
-decisions: [D-CONFLICT-shp-mall-101]
+decisions: [S-D-CONFLICT-003]
 ---
 
 # Shopee Mall vs Star vs Reguler — perbandingan dari pengalaman lapangan

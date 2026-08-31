@@ -1,17 +1,18 @@
 ---
-id: fnd-operasional-002
+id: fnd-operasional-006
 title: 7 langkah efisiensi operasional tanpa nurunin kualitas
 platform: lintas
 kategori: operasional
 depth: 2
-status: canonical
+status: blocked
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/cara-jualan-online-7-langkah-bikin-operasional-jualan-online-lebih-efisien-tanpa.md
     bagian: video penuh
-related: [fnd-operasional-001]
+related: [fnd-operasional-002, fnd-operasional-005]
+decisions: [S-D-MERGE-05]
 ---
 
 # 7 langkah efisiensi operasional tanpa nurunin kualitas
