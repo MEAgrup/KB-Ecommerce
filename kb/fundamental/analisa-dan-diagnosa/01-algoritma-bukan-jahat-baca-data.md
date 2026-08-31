@@ -11,8 +11,8 @@ valid_as_of: 2026-01
 sources:
   - file: youtube_yohan-_jualan_online_.md
     bagian: "video 3 (Algoritma e-commerce JAHAT?)"
-related: [fnd-analisa-002, fnd-analisa-003, fnd-analisa-004]
-decisions: [S-D-MERGE-01]
+related: [fnd-analisa-002, fnd-analisa-003]
+decisions: []
 ---
 
 # Algoritma bukan jahat, belajar baca data
@@ -48,3 +48,5 @@ Menahan produk yang sudah kehilangan momentum sambil menyalahkan platform, alih-
 ## Pertanyaan diagnosa
 - Apakah CTR/CVR/repeat order lu turun, atau cuma view?
 - Kompetitor sejenis ikut turun (masalah pasar) atau cuma toko lu (masalah internal)?
+- Kapan terakhir kali konten/kreatif produk di-refresh?
+- Rating dan review toko trennya gimana belakangan ini?

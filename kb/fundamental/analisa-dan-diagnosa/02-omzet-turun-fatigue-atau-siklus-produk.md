@@ -11,8 +11,8 @@ valid_as_of: 2026-01
 sources:
   - file: youtube_yohan-_jualan_online_.md
     bagian: "video 8 (omzet turun AWAL KEHANCURAN?)"
-related: [fnd-analisa-001, fnd-analisa-003, fnd-analisa-005, tts-traffic-003]
-decisions: [S-D-MERGE-02]
+related: [fnd-analisa-001, fnd-analisa-003, tts-traffic-003]
+decisions: []
 ---
 
 # Omzet turun: fatigue sementara atau akhir siklus produk
@@ -45,3 +45,4 @@ Menunggu produk mati total baru panik, atau menyalahkan platform padahal produkn
 - Conversion rate lu masih sehat atau turun tajam?
 - Kompetitor serupa ikut turun? Stok lu benar-benar aman dan jujur?
 - Sudah lu siapkan produk pengganti?
+- Konten promosi yang dipakai sekarang masih yang lama, atau udah di-refresh?

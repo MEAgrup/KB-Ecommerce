@@ -4,7 +4,7 @@ title: Jual value, bukan jual harga murah
 platform: lintas
 kategori: harga
 depth: 2
-status: blocked
+status: archived
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
@@ -12,8 +12,10 @@ sources:
   - file: transkrip-yohan-youtube/cara-jualan-online-2026-kasih-value-banyak-buat-pembeli.md
     bagian: video penuh
 related: [fnd-psikologi-003, fnd-harga-004]
-decisions: [S-D-MERGE-08]
+decisions: []
 ---
+
+> **[DIARSIPKAN 2026-08-31 — `S-D-MERGE` ditutup]** Duplikat dari sumber yang sama dengan `fnd-psikologi-003` — "Jual lebih mahal tapi tetap laku". Isi unik yang berharga di sini sudah digabung ke `fnd-psikologi-003`; entry ini disimpan sebagai jejak, **jangan dikutip** buat jawab member, pakai `fnd-psikologi-003` sebagai versi kanonik.
 
 # Jual value, bukan jual harga murah
 

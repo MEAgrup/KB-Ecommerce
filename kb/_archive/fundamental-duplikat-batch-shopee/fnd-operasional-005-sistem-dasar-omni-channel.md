@@ -4,7 +4,7 @@ title: Bikin sistem dasar biar jualan Omni Channel gak kacau
 platform: lintas
 kategori: operasional
 depth: 2
-status: blocked
+status: archived
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
@@ -12,8 +12,10 @@ sources:
   - file: transkrip-yohan-youtube/jualan-online-di-semua-platform-omni-channel-itu-gampang-kalo-paham-ini.md
     bagian: video penuh
 related: [fnd-operasional-001, fnd-operasional-006]
-decisions: [S-D-MERGE-04]
+decisions: []
 ---
+
+> **[DIARSIPKAN 2026-08-31 — `S-D-MERGE` ditutup]** Duplikat dari sumber yang sama dengan `fnd-operasional-001` — "Omni-channel: sistem dasar biar gak kacau". Isi unik yang berharga di sini sudah digabung ke `fnd-operasional-001`; entry ini disimpan sebagai jejak, **jangan dikutip** buat jawab member, pakai `fnd-operasional-001` sebagai versi kanonik.
 
 # Bikin sistem dasar biar jualan Omni Channel gak kacau
 

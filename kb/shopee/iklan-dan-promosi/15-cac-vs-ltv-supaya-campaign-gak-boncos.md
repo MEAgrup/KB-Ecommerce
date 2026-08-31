@@ -11,7 +11,7 @@ valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/cara-jualan-di-shopee-biar-pas-ikut-campaign-gak-boncos.md
     bagian: video penuh
-related: [fnd-retensi-001]
+related: [fnd-analisa-003]
 ---
 
 # Hitung CAC vs LTV supaya ikut campaign gak boncos

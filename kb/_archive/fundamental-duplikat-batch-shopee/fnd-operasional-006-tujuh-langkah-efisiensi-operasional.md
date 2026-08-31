@@ -4,7 +4,7 @@ title: 7 langkah efisiensi operasional tanpa nurunin kualitas
 platform: lintas
 kategori: operasional
 depth: 2
-status: blocked
+status: archived
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
@@ -12,8 +12,10 @@ sources:
   - file: transkrip-yohan-youtube/cara-jualan-online-7-langkah-bikin-operasional-jualan-online-lebih-efisien-tanpa.md
     bagian: video penuh
 related: [fnd-operasional-002, fnd-operasional-005]
-decisions: [S-D-MERGE-05]
+decisions: []
 ---
+
+> **[DIARSIPKAN 2026-08-31 — `S-D-MERGE` ditutup]** Duplikat dari sumber yang sama dengan `fnd-operasional-002` — "Tujuh langkah efisiensi operasional tanpa turun kualitas". Isi unik yang berharga di sini sudah digabung ke `fnd-operasional-002`; entry ini disimpan sebagai jejak, **jangan dikutip** buat jawab member, pakai `fnd-operasional-002` sebagai versi kanonik.
 
 # 7 langkah efisiensi operasional tanpa nurunin kualitas
 

@@ -1923,7 +1923,8 @@ Gak fatal (member masih dapat jawaban, cuma harus scroll artikel panjang) — ta
 
 **Rekomendasi:** A, sesuai pola yang sudah dipakai di `shp-iklan-006` — tapi ini kerja baca+tulis ulang isi, bukan keputusan ya/tidak, jadi butuh sesi khusus (mirip `M-D-MERGE-02` yang juga nunggu audit isi).
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Opsi B — biarkan utuh, pecah kalau dibutuhkan (bukan preemptif). Belum ada tanda ketiga entry ini bikin masalah nyata, jadi gak diprioritaskan sekarang. Kalau ke depan kelihatan sering "dikutip sepotong" atau ada permintaan konkret dari tim, baru dipecah sesuai pola `shp-iklan-006`.
+**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -1947,7 +1948,8 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 
 **Rekomendasi:** A — entry baru mencakup semua poin yang lama plus tambahan, jadi gak ada yang hilang; lebih murah daripada racik ulang jadi entry gabungan (opsi B).
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Dikonfirmasi — dua entry ini memang dari sumber yang sama. Dieksekusi opsi **B** (gabung, bukan A murni): `fnd-analisa-001` (confidence lebih tinggi + ada tabel Angka & patokan yang `fnd-analisa-004` gak punya) dipertahankan sebagai versi kanonik, 2 pertanyaan diagnosa tambahan dari `fnd-analisa-004` digabung masuk ke `fnd-analisa-001`. `fnd-analisa-004` dipindah ke `kb/_archive/fundamental-duplikat-batch-shopee/`, status `archived`.
+**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -1963,7 +1965,8 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Opsi:** A `fnd-analisa-005` (lebih detail) jadi utama, arsipkan `fnd-analisa-002`; B gabung; C biarkan dua-duanya.
 **Rekomendasi:** A, alasan sama seperti S-D-MERGE-01.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Dieksekusi gabung: `fnd-analisa-002` dipertahankan (confidence tinggi + tabel Angka & patokan lengkap; `fnd-analisa-005` sempat kebawa cacat copy-paste — bagian "Angka & patokan" kedua di `fnd-analisa-005` isinya boilerplate soal "artikel resmi Shopee" yang gak relevan buat entry transkrip YouTube, indikasi typo/template bocor dari entry lain). 1 pertanyaan diagnosa tambahan digabung ke `fnd-analisa-002`. `fnd-analisa-005` diarsipkan.
+**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -1979,7 +1982,8 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Opsi:** A pilih salah satu jadi utama (baca dulu isi keduanya, jangan cuma banding jumlah kata); B gabung; C biarkan.
 **Rekomendasi:** A, tapi butuh baca isi (confidence `fnd-mindset-005` lebih rendah jadi sinyal buat gak otomatis menang berdasar volume).
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Sudah dibaca isi keduanya (bukan cuma banding jumlah kata) — `fnd-mindset-003` dipertahankan: confidence lebih tinggi (`sedang` vs `rendah`) dan satu-satunya yang punya "Yang bikin gagal" + "Pertanyaan diagnosa" lengkap. 1 insight tambahan dari `fnd-mindset-005` (seller besar berstruktur biaya gemuk lebih rentan) digabung masuk. `fnd-mindset-005` diarsipkan.
+**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -1995,7 +1999,8 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Opsi:** A `fnd-operasional-005` (lebih detail) jadi utama, arsipkan yang lama; B gabung; C biarkan.
 **Rekomendasi:** A.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Isinya nyaris identik tanpa fakta tambahan berarti di versi baru — dipertahankan `fnd-operasional-001` (confidence lebih tinggi: `tinggi` vs `sedang`), bukan opsi A seperti rekomendasi awal. `fnd-operasional-005` diarsipkan tanpa ada isi unik yang perlu digabung.
+**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -2011,7 +2016,8 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Opsi:** A `fnd-operasional-006` jadi utama; B gabung; C biarkan.
 **Rekomendasi:** A.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Dipertahankan `fnd-operasional-002` (confidence lebih tinggi), bukan opsi A seperti rekomendasi awal. 1 pertanyaan diagnosa (soal ROAS) dari `fnd-operasional-006` digabung masuk. `fnd-operasional-006` diarsipkan.
+**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -2027,7 +2033,8 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Opsi:** A `fnd-operasional-007` jadi utama; B gabung; C biarkan.
 **Rekomendasi:** A, tapi putuskan bareng S-D-MERGE-03 (dua-duanya saling `related` dan sama-sama soal kondisi ekonomi).
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Dipertahankan `fnd-operasional-003` (sudah menggabung 2 sumber sekaligus — video 7 + video 4 — jadi lebih lengkap cakupannya), bukan opsi A seperti rekomendasi awal. Angka konkret dari `fnd-operasional-007` yang gak ada di versi lama (posting 1-3 video/hari, live 3-5x/minggu) digabung masuk. `fnd-operasional-007` diarsipkan.
+**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -2047,7 +2054,8 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 
 **Rekomendasi:** A — sekaligus keputusan taksonomi: `retensi-dan-repeat-order` layak jadi kategori sendiri karena topik ini juga disenggol beberapa entry lain (`fnd-operasional-007`, dll), bukan cuma satu entry nyempil di `analisa`.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Dieksekusi opsi **B**, bukan A — dipertahankan `fnd-analisa-003` (confidence lebih tinggi + sudah punya inbound `related` dari banyak entry lain, mindahnya lebih mahal daripada manfaatnya). 2 pertanyaan diagnosa + penjelasan segmentasi target market dari `fnd-retensi-001` digabung masuk ke `fnd-analisa-003`. `fnd-retensi-001` diarsipkan, folder `retensi-dan-repeat-order/` dihapus (kosong). Taksonomi "retensi jadi kategori sendiri" ditunda — belum ada entry lain yang butuh folder itu setelah ini digabung.
+**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -2067,7 +2075,8 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 
 **Rekomendasi:** B untuk sekarang (dua sudut pandang ini genuinely beda — psikologi vs mekanisme pricing — worth dipertahanin terpisah), tapi baca isi keduanya dulu buat pastiin gak ada kontradiksi konkret (bukan cuma beda sudut pandang).
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama — setelah dibaca isi keduanya, ternyata BUKAN dua sudut pandang beda (rekomendasi awal salah baca): kedua entry sama-sama daftar "7 trik menaikkan persepsi value", 6 dari 7 poinnya identik. Dieksekusi opsi **A/C** gabung: `fnd-psikologi-003` dipertahankan (confidence lebih tinggi + ada tabel Angka & patokan konkret yang `fnd-harga-003` gak punya). 1 trik unik dari `fnd-harga-003` ("jelaskan alasan harga saat live/deskripsi") ditambahkan sebagai poin ke-8. `fnd-harga-003` diarsipkan.
+**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -2086,4 +2095,5 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 
 **Rekomendasi:** A — karena sumbernya identik (bukan dua video/observasi beda), ini kandidat dedup paling jelas dari kesembilan S-D-MERGE ini.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber identik. Dieksekusi gabung, tapi arahnya **kebalik dari rekomendasi awal**: `fnd-harga-004` yang dipertahankan (bukan `fnd-psikologi-004`) — setelah dibaca isi keduanya, ekstraksi `fnd-harga-004` jauh lebih lengkap (punya 5 prinsip Blue Ocean + 6 pendekatan pricing yang gak ada di `fnd-psikologi-004`; sekalian ketahuan & dibetulkan bug hitungan lama "lima pendekatan" padahal isinya 6). "Pertimbangan pembeli" dan "penerapan Blue Ocean di level toko" dari `fnd-psikologi-004` digabung masuk ke `fnd-harga-004`. `fnd-psikologi-004` diarsipkan, `fnd-harga-004` naik status jadi `canonical`.
+**Status:** ✅ tertutup (2026-08-31)

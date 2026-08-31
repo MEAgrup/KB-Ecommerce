@@ -11,8 +11,8 @@ valid_as_of: 2026-01
 sources:
   - file: youtube_yohan-_jualan_online_.md
     bagian: "video 4 (Peluang rupiah melemah)"
-related: [fnd-operasional-003, fnd-analisa-003, fnd-mindset-005]
-decisions: [K2-D-OUTDATED-04, S-D-MERGE-03]
+related: [fnd-operasional-003, fnd-analisa-003]
+decisions: [K2-D-OUTDATED-04]
 ---
 
 # Peluang saat rupiah melemah
@@ -32,6 +32,7 @@ Langkah yang bisa diambil:
 - Kejar efisiensi operasional (lihat entry efisiensi 7 langkah).
 - Bangun brand supaya gak sekadar bersaing harga.
 - Fokus repeat order untuk menekan biaya akuisisi.
+- Waspadai posisi seller besar berstruktur biaya gemuk — mereka biasanya lebih rentan dibanding seller ramping tapi efisien saat kondisi ini berlangsung.
 
 ## Yang bikin gagal
 Ikut-ikutan bergantung impor murah tanpa mitigasi kurs, atau cuma bereaksi menaikkan harga tanpa memperkuat posisi lokal dan brand.

@@ -4,7 +4,7 @@ title: Sebelum nyalahin algoritma, cek dulu data toko lu
 platform: lintas
 kategori: analisa
 depth: 2
-status: blocked
+status: archived
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
@@ -12,8 +12,10 @@ sources:
   - file: transkrip-yohan-youtube/algoritma-e-commerce-jahat-gak-berpihak-ke-seller-kecil.md
     bagian: video penuh
 related: [fnd-analisa-001, fnd-analisa-005, fnd-retensi-001]
-decisions: [S-D-MERGE-01]
+decisions: []
 ---
+
+> **[DIARSIPKAN 2026-08-31 — `S-D-MERGE` ditutup]** Duplikat dari sumber yang sama dengan `fnd-analisa-001` — "Algoritma bukan jahat, belajar baca data". Isi unik yang berharga di sini sudah digabung ke `fnd-analisa-001`; entry ini disimpan sebagai jejak, **jangan dikutip** buat jawab member, pakai `fnd-analisa-001` sebagai versi kanonik.
 
 # Sebelum nyalahin algoritma, cek dulu data toko lu
 

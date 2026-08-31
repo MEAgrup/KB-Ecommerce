@@ -47,8 +47,8 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-01",
-    "related": "fnd-analisa-002, fnd-analisa-003, fnd-analisa-004",
-    "decisions": "S-D-MERGE-01",
+    "related": "fnd-analisa-002, fnd-analisa-003",
+    "decisions": "",
     "path": "fundamental/analisa-dan-diagnosa/01-algoritma-bukan-jahat-baca-data.md"
   },
   {
@@ -60,8 +60,8 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-01",
-    "related": "fnd-analisa-001, fnd-analisa-003, fnd-analisa-005, tts-traffic-003",
-    "decisions": "S-D-MERGE-02",
+    "related": "fnd-analisa-001, fnd-analisa-003, tts-traffic-003",
+    "decisions": "",
     "path": "fundamental/analisa-dan-diagnosa/02-omzet-turun-fatigue-atau-siklus-produk.md"
   },
   {
@@ -73,35 +73,9 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-01",
-    "related": "fnd-analisa-002, fnd-psikologi-003, fnd-retensi-001, tts-traffic-003",
-    "decisions": "S-D-MERGE-07",
+    "related": "fnd-analisa-002, fnd-psikologi-003, tts-traffic-003",
+    "decisions": "",
     "path": "fundamental/analisa-dan-diagnosa/03-repeat-order-rendah-penyebab-dan-solusi.md"
-  },
-  {
-    "id": "fnd-analisa-004",
-    "title": "Sebelum nyalahin algoritma, cek dulu data toko lu",
-    "platform": "lintas",
-    "kategori": "analisa",
-    "depth": "2",
-    "status": "blocked",
-    "sensitif_waktu": "false",
-    "valid_as_of": "tidak-diketahui",
-    "related": "fnd-analisa-001, fnd-analisa-005, fnd-retensi-001",
-    "decisions": "S-D-MERGE-01",
-    "path": "fundamental/analisa-dan-diagnosa/04-jangan-buru-buru-nyalahin-algoritma.md"
-  },
-  {
-    "id": "fnd-analisa-005",
-    "title": "Baca tanda produk cuma lagi fatik vs mulai mati beneran",
-    "platform": "lintas",
-    "kategori": "analisa",
-    "depth": "3",
-    "status": "blocked",
-    "sensitif_waktu": "false",
-    "valid_as_of": "tidak-diketahui",
-    "related": "fnd-analisa-002, fnd-analisa-004, fnd-retensi-001",
-    "decisions": "S-D-MERGE-02",
-    "path": "fundamental/analisa-dan-diagnosa/05-produk-turun-fatik-atau-mulai-mati.md"
   },
   {
     "id": "fnd-mindset-001",
@@ -138,8 +112,8 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "fnd-operasional-003, fnd-analisa-003, fnd-mindset-005",
-    "decisions": "K2-D-OUTDATED-04, S-D-MERGE-03",
+    "related": "fnd-operasional-003, fnd-analisa-003",
+    "decisions": "K2-D-OUTDATED-04",
     "path": "fundamental/mindset-dan-kondisi-pasar/03-peluang-saat-rupiah-melemah.md"
   },
   {
@@ -154,19 +128,6 @@
     "related": "fnd-operasional-003, fnd-mindset-003",
     "decisions": "",
     "path": "fundamental/mindset-dan-kondisi-pasar/04-manajemen-risiko-kebijakan.md"
-  },
-  {
-    "id": "fnd-mindset-005",
-    "title": "Peluang buat seller lokal saat rupiah melemah",
-    "platform": "lintas",
-    "kategori": "mindset",
-    "depth": "2",
-    "status": "blocked",
-    "sensitif_waktu": "true",
-    "valid_as_of": "2026-06",
-    "related": "fnd-mindset-003, fnd-operasional-007",
-    "decisions": "S-D-MERGE-03",
-    "path": "fundamental/mindset-dan-kondisi-pasar/05-peluang-rupiah-melemah.md"
   },
   {
     "id": "fnd-komisi-001",
@@ -216,8 +177,8 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-01",
-    "related": "fnd-operasional-002, fnd-analisa-003, fnd-operasional-005",
-    "decisions": "S-D-MERGE-04",
+    "related": "fnd-operasional-002, fnd-analisa-003",
+    "decisions": "",
     "path": "fundamental/operasional-dan-skala/01-omni-channel-sistem-dasar.md"
   },
   {
@@ -229,8 +190,8 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-01",
-    "related": "fnd-operasional-001, fnd-operasional-003, fnd-operasional-006",
-    "decisions": "S-D-MERGE-05",
+    "related": "fnd-operasional-001, fnd-operasional-003",
+    "decisions": "",
     "path": "fundamental/operasional-dan-skala/02-efisiensi-operasional-7-langkah.md"
   },
   {
@@ -242,8 +203,8 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "fnd-operasional-002, fnd-analisa-003, fnd-mindset-003, fnd-operasional-007",
-    "decisions": "K2-D-OUTDATED-04, S-D-MERGE-06",
+    "related": "fnd-operasional-002, fnd-analisa-003, fnd-mindset-003",
+    "decisions": "K2-D-OUTDATED-04",
     "path": "fundamental/operasional-dan-skala/03-survival-mode-saat-daya-beli-turun.md"
   },
   {
@@ -258,45 +219,6 @@
     "related": "fnd-operasional-002, fnd-mindset-002",
     "decisions": "",
     "path": "fundamental/operasional-dan-skala/04-fase-scaling-dan-kapan-delegasi.md"
-  },
-  {
-    "id": "fnd-operasional-005",
-    "title": "Bikin sistem dasar biar jualan Omni Channel gak kacau",
-    "platform": "lintas",
-    "kategori": "operasional",
-    "depth": "2",
-    "status": "blocked",
-    "sensitif_waktu": "false",
-    "valid_as_of": "tidak-diketahui",
-    "related": "fnd-operasional-001, fnd-operasional-006",
-    "decisions": "S-D-MERGE-04",
-    "path": "fundamental/operasional-dan-skala/05-sistem-dasar-omni-channel.md"
-  },
-  {
-    "id": "fnd-operasional-006",
-    "title": "7 langkah efisiensi operasional tanpa nurunin kualitas",
-    "platform": "lintas",
-    "kategori": "operasional",
-    "depth": "2",
-    "status": "blocked",
-    "sensitif_waktu": "false",
-    "valid_as_of": "tidak-diketahui",
-    "related": "fnd-operasional-002, fnd-operasional-005",
-    "decisions": "S-D-MERGE-05",
-    "path": "fundamental/operasional-dan-skala/06-tujuh-langkah-efisiensi-operasional.md"
-  },
-  {
-    "id": "fnd-operasional-007",
-    "title": "Jaga penjualan stabil tanpa nambah budget iklan",
-    "platform": "lintas",
-    "kategori": "operasional",
-    "depth": "2",
-    "status": "blocked",
-    "sensitif_waktu": "false",
-    "valid_as_of": "tidak-diketahui",
-    "related": "fnd-operasional-003, fnd-retensi-001, fnd-mindset-005",
-    "decisions": "S-D-MERGE-06",
-    "path": "fundamental/operasional-dan-skala/07-jaga-penjualan-stabil-tanpa-nambah-budget-iklan.md"
   },
   {
     "id": "fnd-psikologi-001",
@@ -333,22 +255,9 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-01",
-    "related": "fnd-psikologi-002, fnd-harga-001, fnd-analisa-003, fnd-harga-003",
+    "related": "fnd-psikologi-002, fnd-harga-001, fnd-analisa-003",
     "decisions": "",
     "path": "fundamental/psikologi-pembeli-dan-nilai/03-jual-lebih-mahal-tetap-laku.md"
-  },
-  {
-    "id": "fnd-psikologi-004",
-    "title": "Value di atas harga dan strategi Blue Ocean",
-    "platform": "lintas",
-    "kategori": "psikologi",
-    "depth": "2",
-    "status": "canonical",
-    "sensitif_waktu": "false",
-    "valid_as_of": "2024-06",
-    "related": "fnd-psikologi-003, fnd-harga-001, fnd-harga-004",
-    "decisions": "S-D-MERGE-09",
-    "path": "fundamental/psikologi-pembeli-dan-nilai/04-value-vs-harga-dan-blue-ocean.md"
   },
   {
     "id": "fnd-psikologi-005",
@@ -359,22 +268,9 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "tidak-diketahui",
-    "related": "fnd-harga-003",
+    "related": "fnd-psikologi-003",
     "decisions": "",
     "path": "fundamental/psikologi-pembeli-dan-nilai/05-cara-otak-pembeli-memproses-produk.md"
-  },
-  {
-    "id": "fnd-retensi-001",
-    "title": "Kenapa repeat order rendah padahal pembeli baru cukup banyak",
-    "platform": "lintas",
-    "kategori": "retensi-dan-repeat-order",
-    "depth": "2",
-    "status": "blocked",
-    "sensitif_waktu": "false",
-    "valid_as_of": "tidak-diketahui",
-    "related": "fnd-analisa-003, fnd-analisa-005",
-    "decisions": "S-D-MERGE-07",
-    "path": "fundamental/retensi-dan-repeat-order/01-kenapa-repeat-order-rendah.md"
   },
   {
     "id": "fnd-harga-001",
@@ -403,29 +299,16 @@
     "path": "fundamental/strategi-harga/02-hitungan-hpp-dan-rumus-harga-jual.md"
   },
   {
-    "id": "fnd-harga-003",
-    "title": "Jual value, bukan jual harga murah",
-    "platform": "lintas",
-    "kategori": "harga",
-    "depth": "2",
-    "status": "blocked",
-    "sensitif_waktu": "false",
-    "valid_as_of": "tidak-diketahui",
-    "related": "fnd-psikologi-003, fnd-harga-004",
-    "decisions": "S-D-MERGE-08",
-    "path": "fundamental/strategi-harga/03-jual-value-bukan-harga-murah.md"
-  },
-  {
     "id": "fnd-harga-004",
-    "title": "Blue Ocean vs Red Ocean, dan lima pendekatan pricing untuk keluar dari perang harga",
+    "title": "Blue Ocean vs Red Ocean, dan enam pendekatan pricing untuk keluar dari perang harga",
     "platform": "lintas",
     "kategori": "harga",
     "depth": "2",
-    "status": "blocked",
+    "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2024-06",
-    "related": "fnd-psikologi-004, fnd-harga-003",
-    "decisions": "S-D-MERGE-09",
+    "related": "fnd-psikologi-003, fnd-harga-001",
+    "decisions": "",
     "path": "fundamental/strategi-harga/04-blue-ocean-vs-red-ocean-dan-lima-cara-pricing.md"
   },
   {
@@ -437,7 +320,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "tidak-diketahui",
-    "related": "fnd-retensi-001, fnd-strategi-002",
+    "related": "fnd-analisa-003, fnd-strategi-002",
     "decisions": "",
     "path": "fundamental/strategi-produk/01-fokus-satu-pasar-daripada-nyebar.md"
   },
@@ -450,7 +333,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "tidak-diketahui",
-    "related": "fnd-operasional-005, fnd-strategi-001",
+    "related": "fnd-operasional-001, fnd-strategi-001",
     "decisions": "",
     "path": "fundamental/strategi-produk/02-hybrid-tiktok-shopee-dan-funnel-marketing.md"
   },
@@ -1022,7 +905,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "tidak-diketahui",
-    "related": "shp-produk-102, fnd-analisa-005",
+    "related": "shp-produk-102, fnd-analisa-002",
     "decisions": "",
     "path": "shopee/akun-dan-toko/18-tiga-fase-terberat-dan-sifat-pasif-shopee.md"
   },
@@ -1763,7 +1646,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "tidak-diketahui",
-    "related": "fnd-retensi-001",
+    "related": "fnd-analisa-003",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/15-cac-vs-ltv-supaya-campaign-gak-boncos.md"
   },
@@ -3571,7 +3454,7 @@
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
     "related": "",
-    "decisions": "S-D-DEPTH-shp-ekspor-001",
+    "decisions": "",
     "path": "shopee/penjual-star-dan-mall/01-program-ekspor-shopee-flexi.md"
   },
   {
@@ -3636,7 +3519,7 @@
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
     "related": "",
-    "decisions": "S-D-DEPTH-shp-ekspor-002",
+    "decisions": "",
     "path": "shopee/penjual-star-dan-mall/02-tentang-program-ekspor-shopee.md"
   },
   {
@@ -3649,7 +3532,7 @@
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
     "related": "",
-    "decisions": "S-D-DEPTH-shp-mall-003",
+    "decisions": "",
     "path": "shopee/penjual-star-dan-mall/03-penjual-shopee-mall.md"
   },
   {

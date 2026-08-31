@@ -13,8 +13,7 @@ sources:
     bagian: "video 2 (Kasih VALUE) §7 trik psikologi harga"
   - file: Youtube_yohan_-_tiktok_shop.md
     bagian: "video 8 §jual lebih mahal"
-related: [fnd-psikologi-002, fnd-harga-001, fnd-analisa-003, fnd-harga-003]
-decisions: [S-D-MERGE-08]
+related: [fnd-psikologi-002, fnd-harga-001, fnd-analisa-003]
 decisions: []
 ---
 
@@ -35,6 +34,7 @@ Tujuh cara:
 5. **Manfaatkan sentimen lokal/UMKM.** Sebagian konsumen rela bayar sedikit lebih untuk mendukung produk lokal.
 6. **Paket value bertingkat** (basic / value-recommended / premium). Orang cenderung memilih tengah bila diberi rekomendasi.
 7. **Bandingkan biaya per pakai**, bukan harga beli.
+8. **Jelaskan alasan harga saat live/di deskripsi.** Akui harga lebih tinggi dari kompetitor, tapi jelaskan value tambahannya (bahan, garansi) supaya total cost-nya justru lebih hemat.
 
 ## Angka & patokan
 | Ilustrasi (total cost of ownership) | Hitungan | Sumber |

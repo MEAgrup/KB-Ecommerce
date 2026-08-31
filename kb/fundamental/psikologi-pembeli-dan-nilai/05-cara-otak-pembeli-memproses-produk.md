@@ -11,7 +11,7 @@ valid_as_of: tidak-diketahui
 sources:
   - file: transkrip-yohan-youtube/cara-jualan-online-pahami-cara-pembeli-berfikir.md
     bagian: video penuh
-related: [fnd-harga-003]
+related: [fnd-psikologi-003]
 ---
 
 # Cara otak pembeli memproses produk sebelum memutuskan beli

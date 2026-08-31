@@ -11,7 +11,7 @@ valid_as_of: 2026-08
 sources:
   - file: peng-toko---shopee-mall/penjual-shopee-mall.md
     bagian: "artikel penuh"
-decisions: [S-D-DEPTH-shp-mall-003]
+decisions: []
 ---
 # Penjual Shopee Mall
 

@@ -4,7 +4,7 @@ title: Peluang buat seller lokal saat rupiah melemah
 platform: lintas
 kategori: mindset
 depth: 2
-status: blocked
+status: archived
 confidence: rendah
 sensitif_waktu: true
 valid_as_of: 2026-06
@@ -12,8 +12,10 @@ sources:
   - file: transkrip-yohan-youtube/peluang-tersembunyi-cuan-jualan-online-ketika-lagi-di-kondisi-begini.md
     bagian: video penuh
 related: [fnd-mindset-003, fnd-operasional-007]
-decisions: [S-D-MERGE-03]
+decisions: []
 ---
+
+> **[DIARSIPKAN 2026-08-31 — `S-D-MERGE` ditutup]** Duplikat dari sumber yang sama dengan `fnd-mindset-003` — "Peluang saat rupiah melemah". Isi unik yang berharga di sini sudah digabung ke `fnd-mindset-003`; entry ini disimpan sebagai jejak, **jangan dikutip** buat jawab member, pakai `fnd-mindset-003` sebagai versi kanonik.
 
 # Peluang buat seller lokal saat rupiah melemah
 

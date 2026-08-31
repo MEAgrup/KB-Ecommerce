@@ -4,7 +4,7 @@ title: Baca tanda produk cuma lagi fatik vs mulai mati beneran
 platform: lintas
 kategori: analisa
 depth: 3
-status: blocked
+status: archived
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: tidak-diketahui
@@ -12,8 +12,10 @@ sources:
   - file: transkrip-yohan-youtube/yuk-analisa-bareng-jualan-online-omzet-turun-itu-awal-kehancuran.md
     bagian: video penuh
 related: [fnd-analisa-002, fnd-analisa-004, fnd-retensi-001]
-decisions: [S-D-MERGE-02]
+decisions: []
 ---
+
+> **[DIARSIPKAN 2026-08-31 — `S-D-MERGE` ditutup]** Duplikat dari sumber yang sama dengan `fnd-analisa-002` — "Omzet turun: fatigue sementara atau akhir siklus produk". Isi unik yang berharga di sini sudah digabung ke `fnd-analisa-002`; entry ini disimpan sebagai jejak, **jangan dikutip** buat jawab member, pakai `fnd-analisa-002` sebagai versi kanonik.
 
 # Baca tanda produk cuma lagi fatik vs mulai mati beneran
 

@@ -185,3 +185,58 @@ lolos filter kata kunci malah ngerusak akurasinya.
   di entry Shopee hasil scraping artikel resmi, yang memang ditulis format ringkasan-artikel,
   bukan format lengkap ala `tiktok-shop`. Ini bukan error dan entry tetap `canonical`, tapi
   dicatat di `LAPORAN-KB.md` sebagai kandidat kerja lanjutan kalau mau kualitasnya sejajar.
+
+---
+
+# MERGE-LOG — Resolusi S-D-MERGE-01..09 & S-D-DEPTH (31 Agu 2026, lanjutan)
+
+Yohan konfirmasi lewat chat: 9 duplikat fundamental memang dari sumber sama, dan 3 artikel
+Shopee kepanjangan "dipecah kalau dibutuhkan" (kebijakan lama, bukan preemptif). Berikut eksekusinya.
+
+## 1. Bug ditemukan & dibetulkan sebelum resolusi
+- `fnd-psikologi-003`: frontmatter punya 2 baris `decisions:` (duplikat key YAML, bug dari edit
+  sesi sebelumnya) — dibetulkan jadi satu baris.
+- `fnd-analisa-005` (sebelum diarsipkan): section kedua "## Angka & patokan"-nya isinya boilerplate
+  soal "artikel resmi Shopee" yang gak nyambung sama sekali ke entry ini (materi transkrip
+  YouTube) — indikasi template/isi entry lain kebocor. Dicatat di keputusan S-D-MERGE-02.
+- `fnd-harga-004`: judul & body bilang "lima pendekatan pricing" tapi isinya 6 poin (Bundling,
+  Psychological, Promotional, Penetration, Premium, Value-Based) — dibetulkan jadi "enam" di
+  semua tempat (title, H1, 2 baris body, Batasan).
+
+## 2. Sembilan S-D-MERGE dieksekusi — semua ✅ tertutup
+Pola umum: entry dengan `confidence` lebih tinggi ATAU cakupan lebih lengkap dipertahankan
+sebagai kanonik, isi unik dari entry yang kalah digabung masuk (bukan dibuang), lalu entry yang
+kalah dipindah ke `kb/_archive/fundamental-duplikat-batch-shopee/` dengan `status: archived` +
+banner `[DIARSIPKAN]` yang nunjuk ke pengganti.
+
+| Kode | Menang | Kalah (diarsipkan) | Catatan |
+|---|---|---|---|
+| S-D-MERGE-01 | `fnd-analisa-001` | `fnd-analisa-004` | +2 pertanyaan diagnosa digabung |
+| S-D-MERGE-02 | `fnd-analisa-002` | `fnd-analisa-005` | +1 pertanyaan diagnosa; versi kalah ada bug copy-paste (lihat §1) |
+| S-D-MERGE-03 | `fnd-mindset-003` | `fnd-mindset-005` | +1 insight (seller besar lebih rentan) |
+| S-D-MERGE-04 | `fnd-operasional-001` | `fnd-operasional-005` | Gak ada isi unik untuk digabung |
+| S-D-MERGE-05 | `fnd-operasional-002` | `fnd-operasional-006` | +1 pertanyaan diagnosa (ROAS) |
+| S-D-MERGE-06 | `fnd-operasional-003` | `fnd-operasional-007` | +angka konkret (1-3 video/hari, live 3-5x/minggu) |
+| S-D-MERGE-07 | `fnd-analisa-003` | `fnd-retensi-001` | +2 pertanyaan diagnosa + penjelasan segmentasi; folder `retensi-dan-repeat-order/` dihapus (kosong) |
+| S-D-MERGE-08 | `fnd-psikologi-003` | `fnd-harga-003` | +1 trik (jelaskan harga saat live), jadi poin ke-8 |
+| S-D-MERGE-09 | `fnd-harga-004` | `fnd-psikologi-004` | **Kebalik dari rekomendasi awal** — `fnd-harga-004` menang karena isinya lebih lengkap (5 prinsip Blue Ocean + 6 pendekatan pricing). Naik status jadi `canonical`. |
+
+Catatan: 3 dari 9 keputusan (04, 05, 06, 09) hasilnya BEDA dari rekomendasi awal di DECISIONS.md
+Bagian E — rekomendasi awal ditulis sebelum baca isi lengkap kedua versi; setelah dibaca, entry
+yang lebih tinggi confidence-nya atau lebih lengkap yang menang, bukan otomatis yang lebih baru
+atau lebih banyak kata.
+
+## 3. Referensi menggantung yang dibetulkan
+9 entry yang diarsipkan masih dirujuk `related:` dari 9 file lain (5 di luar pasangannya
+langsung: `shp-akun-103`, `shp-iklan-102`, `fnd-strategi-001`, `fnd-strategi-002`,
+`fnd-psikologi-005`) — semua diarahkan ulang ke ID pemenang.
+
+## 4. Tiga S-D-DEPTH ditutup (`shp-ekspor-001/002`, `shp-mall-003`)
+Opsi B — dibiarkan utuh, `decisions:` dikosongkan. Kebijakan: pecah kalau dibutuhkan (ada tanda
+konkret dikutip sepotong / diminta tim), bukan preemptif.
+
+## 5. Status & validasi akhir
+- 458 entry aktif (450 canonical, semua blocked sudah tuntas jadi 0) + 24 archived (15 lama +
+  9 baru dari resolusi ini).
+- `validate.py`: 0 error nyata (12 flag hype false-positive yang sama, tidak berubah).
+- `_manifest/` diregenerasi ulang (458 entry).

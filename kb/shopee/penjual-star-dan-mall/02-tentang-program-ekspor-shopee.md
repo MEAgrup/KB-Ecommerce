@@ -11,7 +11,7 @@ valid_as_of: 2026-07
 sources:
   - file: peng-toko---program-ekspor-shopee/tentang-program-ekspor-shopee.md
     bagian: "artikel penuh"
-decisions: [S-D-DEPTH-shp-ekspor-002]
+decisions: []
 ---
 # Tentang Program Ekspor Shopee
 

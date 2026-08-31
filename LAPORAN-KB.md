@@ -94,9 +94,12 @@ Mengisi gap **Shopee — nol entry** yang jadi prioritas #1 di laporan Fase 6 di
 ### Temuan audit merge (bukan dari laporan batch aslinya)
 Saat fundamental baru disandingkan ke `kb/fundamental/` lama pakai `overlap.py`, ketemu
 **9 pasang entry yang topiknya sama/nyaris identik** — kemungkinan besar sumber video/slide yang
-sama, ditranskrip ulang di dua batch berbeda dan gak ketangkep dedup di batch asalnya. Kesembilan
-entry BARU ditandai `status: blocked` (entry lama tetap `canonical`, tetap dipakai) sambil nunggu
-keputusan Yohan — dicatat sebagai `S-D-MERGE-01` s.d. `S-D-MERGE-09` di `DECISIONS.md` Bagian E.
+sama, ditranskrip ulang di dua batch berbeda dan gak ketangkep dedup di batch asalnya. Sempat
+ditandai `status: blocked` sambil nunggu keputusan Yohan; **per 2026-08-31 kesembilannya sudah
+diputus** — Yohan konfirmasi sumbernya memang sama, lalu tiap pasang digabung (versi paling
+lengkap/confidence tertinggi dipertahankan, isi unik dari versi yang kalah digabung masuk,
+sisanya diarsipkan). Detail per pasang di `DECISIONS.md` Bagian E (`S-D-MERGE-01` s.d. `09`,
+semua ✅ tertutup) dan `MERGE-LOG.md`.
 Overlap shopee-vs-tiktok-shop dan overlap internal shopee juga dicek (`overlap.py`) — gak ada
 duplikat lintas-platform yang nyata, cuma satu klaster besar semu (kesamaan kosakata boilerplate
 artikel resmi Shopee, bukan duplikat topik beneran).
@@ -105,12 +108,14 @@ artikel resmi Shopee, bukan duplikat topik beneran).
 | Status | Jumlah | Catatan |
 |---|---|---|
 | canonical | 450 | shopee 282 + tiktok-shop 141 + fundamental 27 |
-| blocked | 17 | 9 fundamental baru (nunggu `S-D-MERGE-01..09`) + 8 tiktok-shop lama (tak disentuh sesi ini) |
-| archived | 15 | `pengumuman-dan-kebijakan-terbaru` |
+| blocked | 8 | tiktok-shop lama, tak disentuh sesi ini |
+| archived | 24 | 15 `pengumuman-dan-kebijakan-terbaru` + 9 duplikat fundamental (`S-D-MERGE-01..09`, sudah diputus Yohan 2026-08-31 — lihat DECISIONS.md Bagian E) |
 
 ### Yang belum dikerjakan (di luar scope sesi ini)
-- 12 baris decision queue batch Shopee masih `terbuka` (3 D-CONFLICT/OUTDATED/GAP kualitatif +
-  3 `S-D-DEPTH` artikel resmi masih kepanjangan, belum dipecah: `shp-ekspor-001/002`, `shp-mall-003`).
+- 4 baris decision queue batch Shopee masih `terbuka` (`S-D-CONFLICT-002/003`, `S-D-OUTDATED-002`,
+  `S-D-GAP-001/002/003`) — semuanya kualitatif/non-blocking, gak nyentuh koreksi konten mendesak.
+  3 `S-D-DEPTH` artikel resmi kepanjangan (`shp-ekspor-001/002`, `shp-mall-003`) sudah ditutup
+  2026-08-31: dibiarkan utuh, dipecah nanti kalau memang kelihatan dibutuhkan (bukan preemptif).
 - Sebagian besar entry Shopee (hasil scraping artikel resmi Shopee Seller Centre) ditulis sebagai
   ringkasan artikel, **belum** melalui pass "Kapan ini dipakai" / "Pertanyaan diagnosa" penuh
   seperti template `tiktok-shop` — `validate.py` menandai ini sebagai **peringatan** (bukan error,
