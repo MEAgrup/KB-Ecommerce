@@ -4,7 +4,7 @@ title: Cara kerja GMV Max menurut observasi lapangan (bukan dokumentasi resmi)
 platform: shopee
 kategori: iklan-dan-promosi
 depth: 2
-status: canonical
+status: draft-ai
 confidence: rendah
 sensitif_waktu: true
 valid_as_of: 2026-07
@@ -12,7 +12,7 @@ sources:
   - file: transkrip-yohan-youtube/update-terbaru-algoritma-iklan-gmv-max-shopee-untuk-seller-shopee.md
     bagian: video penuh
 related: [shp-iklan-006]
-decisions: [S-D-CONFLICT-002]
+decisions: []
 ---
 
 # Cara kerja GMV Max menurut observasi lapangan (bukan dokumentasi resmi)
@@ -40,6 +40,8 @@ Untuk seller yang bingung kenapa performa iklan GMV Max mereka gak jalan/gak spe
 
 ## Batasan
 **Ini adalah interpretasi/hipotesis dari observasi lapangan satu agency, bukan dokumentasi resmi Shopee tentang algoritma GMV Max.** Materi ini bertanggal Juli 2026 dan sangat sensitif terhadap perubahan — mekanisme GMV Max kemungkinan besar sudah berubah sejak itu. **Wajib dicek ulang ke sumber resmi Shopee terbaru sebelum dipakai menjawab member**, dan jangan disampaikan sebagai fakta pasti — sampaikan sebagai "menurut pengamatan tim" kalau memang mau dipakai.
+
+**[DRAFT-AI — S-D-CONFLICT-002, ditutup 2026-09-01]** Diturunkan dari `canonical` ke `draft-ai` per keputusan Yohan: hipotesis lapangan ini bisa berubah cepat dan langsung menyentuh budget iklan member kalau salah arah. Entry ini gak boleh dipakai jawab member sampai di-approve ulang. Yang perlu dipastikan sebelum naik status lagi: (1) konfirmasi ke dukungan resmi Shopee atau dokumentasi resmi terbaru soal cara kerja GMV Max, atau (2) observasi berulang yang konsisten di klien lain (bukan cuma satu agency) yang menguatkan pola di atas.
 
 ## Pertanyaan diagnosa
 - Iklan GMV Max produk ini jalan (spend) atau diam sama sekali walau budget sudah dipasang?

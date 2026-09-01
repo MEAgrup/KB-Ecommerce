@@ -1362,11 +1362,10 @@
   {
     "file": "shopee/iklan-dan-promosi/14-cara-kerja-gmv-max-observasi-lapangan.md",
     "id": "shp-iklan-101",
-    "status": "canonical",
+    "status": "draft-ai",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: transkrip-yohan-youtube/update-terbaru-algoritma-iklan-gmv-max-s",
-      "status='canonical' tapi masih ada decisions terbuka — cek udah tertutup belum"
+      "sumber tanpa penunjuk bagian: file: transkrip-yohan-youtube/update-terbaru-algoritma-iklan-gmv-max-s"
     ]
   },
   {
@@ -3090,7 +3089,6 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: transkrip-yohan-youtube/fakta-jadi-shopee-mall-itu-lebih-untung-",
-      "status='canonical' tapi masih ada decisions terbuka — cek udah tertutup belum",
       "valid_as_of tidak diketahui — pastikan ada baris D-OUTDATED buat entry ini"
     ]
   },

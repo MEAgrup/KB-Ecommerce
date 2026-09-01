@@ -281,6 +281,9 @@ nyambung dua arah ke entry baru — bukan cuma entry baru yang nunjuk ke lama.
 kualitas listing" tapi isinya daftar kebijakan pelanggaran). Rekomendasi: biarkan judul asli
 (sesuai sumber resmi Shopee), cukup dijembatani lewat `related:`.
 
+**Koreksi (2026-09-01):** ID bentrok dengan `S-D-SCOPE-001` lain yang sudah ada — direnomori ke
+`S-D-SCOPE-003`. Sudah ditutup Yohan 2026-09-01, Opsi A dipilih (judul dibiarkan apa adanya).
+
 ## Validasi
 464 entry (458 + 6 baru). `validate.py`: 0 error baru (12 flag hype false-positive yang sama,
 gak berubah). Semua entry baru dicek related-nya resolve, gak ada broken link.

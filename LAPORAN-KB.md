@@ -143,6 +143,10 @@ diputuskan sendiri: `shp-produk-013` judulnya menyiratkan "tips kualitas listing
 daftar kebijakan pelanggaran — satu keluarga dengan `shp-produk-011`/`shp-produk-017`, bukan
 dengan `shp-produk-019/020/029`.
 
+**Koreksi (2026-09-01):** ID di atas ternyata bentrok dengan `S-D-SCOPE-001` lain yang sudah lebih
+dulu ada (soal standar skor performa MEA). Direnomori ke `S-D-SCOPE-003` — sudah ditutup Yohan
+(Opsi A: judul dibiarkan apa adanya). Lihat `DECISIONS.md`.
+
 Status entry per 2026-09-01: **464 entry aktif** (456 canonical + 8 blocked lama), 24 archived.
 `validate.py`: masih 0 error nyata.
 

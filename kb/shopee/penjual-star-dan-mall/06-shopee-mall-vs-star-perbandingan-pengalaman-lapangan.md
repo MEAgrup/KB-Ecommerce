@@ -12,7 +12,7 @@ sources:
   - file: transkrip-yohan-youtube/fakta-jadi-shopee-mall-itu-lebih-untung-daripada-star-seller.md
     bagian: video penuh
 related: [shp-mall-001]
-decisions: [S-D-CONFLICT-003]
+decisions: []
 ---
 
 # Shopee Mall vs Star vs Reguler — perbandingan dari pengalaman lapangan
@@ -46,4 +46,4 @@ Untuk toko yang punya produk sendiri/sebagai distributor resmi dan sedang memper
 - Dokumen kategori tambahan (BPOM/SPPIRT/dll, kalau relevan) sudah lengkap?
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+Semua angka pada entry ini (kenaikan order ~30%, selisih admin <5%) berasal dari pengalaman pribadi satu toko/agency (lihat `sources` — transkrip YouTube, bukan artikel resmi Shopee), sudah terikat konteksnya masing-masing di bagian Isi dan Batasan di atas. Bukan patokan resmi Shopee — jangan disampaikan ke member sebagai angka pasti.

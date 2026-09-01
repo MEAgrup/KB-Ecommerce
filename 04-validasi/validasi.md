@@ -4,14 +4,15 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **1179**
+- PERINGATAN: **1177**
 
 ## Status entry
 
 | Status | Jumlah | Boleh dipakai jawab member? |
 |---|---|---|
-| canonical | 456 | Ya |
+| canonical | 455 | Ya |
 | blocked | 8 | Tidak |
+| draft-ai | 1 | Tidak |
 
 ## ERROR
 
@@ -780,7 +781,6 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/iklan-dan-promosi/14-cara-kerja-gmv-max-observasi-lapangan.md` · shp-iklan-101
 
 - sumber tanpa penunjuk bagian: file: transkrip-yohan-youtube/update-terbaru-algoritma-iklan-gmv-max-s
-- status='canonical' tapi masih ada decisions terbuka — cek udah tertutup belum
 
 ### `shopee/iklan-dan-promosi/14-tentang-program-shopee-pilih-lokal.md` · shp-promosi-014
 
@@ -1734,7 +1734,6 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/penjual-star-dan-mall/06-shopee-mall-vs-star-perbandingan-pengalaman-lapangan.md` · shp-mall-101
 
 - sumber tanpa penunjuk bagian: file: transkrip-yohan-youtube/fakta-jadi-shopee-mall-itu-lebih-untung-
-- status='canonical' tapi masih ada decisions terbuka — cek udah tertutup belum
 - valid_as_of tidak diketahui — pastikan ada baris D-OUTDATED buat entry ini
 
 ### `shopee/produk/01-mengakses-fitur-edit-secara-massal.md` · shp-produk-001

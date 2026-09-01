@@ -1,3 +1,9 @@
+## Kebijakan baku (berlaku utk semua batch berikutnya)
+
+1. **Video "reaksi berita/politik" dari channel YouTube Yohan — default GAK masuk KB.** Ditetapkan lewat `S-D-GAP-002` (2026-09-01), dari kasus video "Menghadapi Kondisi Buruk" (opini soal kasus dugaan korupsi program MBG, Jun 2026). Alasan: kontennya campuran pelajaran bisnis transferable dengan komentar berita/politik spesifik yang berisiko kalau disajikan sebagai "knowledge" netral. Kalau ada video sejenis muncul lagi di batch berikutnya, default-nya dikeluarkan dari proses ingest — masukkan hanya kalau Yohan eksplisit bilang sebaliknya per video (boleh diekstrak prinsip bisnisnya doang, tanpa nyebut kasus spesifik, kalau itu yang diminta).
+
+---
+
 # HASIL KEPUTUSAN — diterapkan 25 Jul 2026
 
 Jawaban Nerissa atas 55 keputusan sudah gw proses. Legenda status:
@@ -1706,7 +1712,7 @@ yang ke-transkrip dua kali di batch berbeda.
 
 ### S-D-CONFLICT-001 · Klaim "Admin Fee 10%" di deck Shopee Mastery 2026 vs kebijakan resmi
 
-**Status:** terbuka
+**Status:** ✅ tertutup (2026-08-30)
 **Entry terdampak:** tidak ada entry kanonik yang memuat klaim ini (sengaja dikeluarkan sebelum masuk KB — lihat `fnd-strategi-002`, yang cuma ambil bagian framework dari deck ini)
 
 **Masalahnya:**
@@ -1723,13 +1729,12 @@ Kalau angka "10%" ini terlanjur dipakai mentor untuk hitung-hitungan margin ke m
 **Rekomendasi:** A + C. Deck training internal boleh tetap ada apa adanya untuk konteks internal, tapi jangan pernah diturunkan jadi materi member tanpa dikoreksi ke angka resmi.
 
 **Keputusan Yohan (2026-08-30):** Abaikan. Klaim ini gak pernah masuk entry kanonik manapun (sudah dikeluarkan dari awal), dan deck sumbernya dibiarkan apa adanya sebagai materi internal — gak perlu tindakan lebih lanjut.
-**Status:** ✅ tertutup
 
 ---
 
 ### S-D-CONFLICT-002 · `shp-iklan-101` (cara kerja GMV Max) — observasi lapangan, bukan dokumentasi resmi
 
-**Status:** terbuka
+**Status:** ✅ tertutup (2026-09-01)
 **Entry terdampak:** `shp-iklan-101` (status: canonical, tapi confidence rendah + sensitif_waktu)
 
 **Masalahnya:**
@@ -1744,13 +1749,13 @@ Kalau interpretasi ini keliru dan disampaikan sebagai fakta ke member, saran soa
 
 **Rekomendasi:** B — mengingat ini topik yang berubah cepat (GMV Max baru diberlakukan penuh ~Juli 2026) dan dampaknya langsung ke budget iklan member, lebih aman jadi draft-ai dulu sampai diverifikasi lebih lanjut.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-09-01):** Opsi B. `shp-iklan-101` diturunkan dari `canonical` ke `draft-ai` — gak boleh dipakai jawab member sampai ada konfirmasi tambahan (dukungan resmi Shopee, atau observasi berulang konsisten di klien lain). Blok `[DRAFT-AI]` ditambahkan di bagian Batasan entry, `decisions:` dikosongkan.
 
 ---
 
 ### S-D-CONFLICT-003 · `shp-mall-101` (Shopee Mall vs Star) — angka kenaikan order 30% dari pengalaman pribadi
 
-**Status:** terbuka
+**Status:** ✅ tertutup (2026-09-01)
 **Entry terdampak:** `shp-mall-101` (status: canonical, confidence rendah, sensitif_waktu)
 
 **Masalahnya:**
@@ -1765,7 +1770,7 @@ Member bisa mengejar status Mall dengan ekspektasi kenaikan order yang gak sesua
 
 **Rekomendasi:** B (entry sudah dibingkai begitu) — cukup pastikan tim gak drop bagian Batasan-nya waktu dipakai ke member.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-09-01):** Opsi B. Entry dibiarkan `canonical`, angka 30% tetap ada — sudah dibingkai eksplisit di Ringkasan/Batasan sebagai pengalaman satu toko. Sekalian dibenerin bug kecil: bagian "Angka & patokan" tadinya salah bilang angka ini "dari artikel resmi Shopee" (harusnya dari transkrip YouTube/pengalaman pribadi, sesuai `sources`) — sudah diperbaiki biar gak kontradiksi sama Batasan-nya sendiri. `decisions:` dikosongkan.
 
 ---
 
@@ -1773,7 +1778,7 @@ Member bisa mengejar status Mall dengan ekspektasi kenaikan order yang gak sesua
 
 ### S-D-OUTDATED-001 · Seluruh folder `pengumuman-dan-kebijakan-terbaru` (15 entry)
 
-**Status:** terbuka
+**Status:** ✅ tertutup (2026-08-30) — 15 entry sudah dipindah ke `kb/_archive/pengumuman-dan-kebijakan-terbaru/`
 **Entry terdampak:** `shp-pengumuman-001` s.d. `shp-pengumuman-015`
 
 **Masalahnya:**
@@ -1790,13 +1795,12 @@ Kalau dibiarkan berstatus `canonical` selamanya tanpa jadwal recheck, tim bisa k
 **Rekomendasi:** B untuk yang murni pengumuman sesaat (perubahan nama wilayah, update tampilan UI), A untuk yang masih relevan sebagai konteks kebijakan berkelanjutan (PPh 22, perizinan berbasis risiko) — tapi keputusan mana masuk grup mana perlu baca sekilas Yohan sendiri, bukan ditebak skill.
 
 **Keputusan Yohan (2026-08-30):** Opsi B untuk semua 15 entry — dipindah ke `_archive/`, status diubah jadi `archived`. Dianggap log historis, gak dipakai jawab member langsung.
-**Status:** ✅ tertutup — 15 entry sudah dipindah ke `kb/_archive/pengumuman-dan-kebijakan-terbaru/`
 
 ---
 
 ### S-D-OUTDATED-002 · Klaim kebijakan 2026 lain di deck Shopee Mastery yang belum dicek satu-satu
 
-**Status:** terbuka
+**Status:** ✅ tertutup (2026-09-01)
 **Entry terdampak:** tidak ada entry kanonik (materi mentah masih di `materi/slide-mea-internal/shopee-mastery-2026-training-deck.md`, sengaja belum dikanonikkan)
 
 **Masalahnya:**
@@ -1811,7 +1815,7 @@ Kalau salah satu angka ini keliru dan terlanjur disampaikan ke member sebagai fa
 
 **Rekomendasi:** B untuk sekarang (sudah sesuai keputusan sebelumnya — cuma bagian framework evergreen yang diambil jadi `fnd-strategi-002`), A kalau nanti mau dipakai lebih jauh sebagai sumber member-facing.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-09-01):** Opsi B. Deck dibiarkan sebagai materi internal training, gak dikanonikkan lebih jauh, klaim-klaim yang belum di-cross-check gak perlu diaudit satu-satu sekarang. Kalau nanti ada rencana pakai deck ini sebagai sumber entry member-facing lain, cross-check (Opsi A) baru dijalankan saat itu.
 
 ---
 
@@ -1819,7 +1823,7 @@ Kalau salah satu angka ini keliru dan terlanjur disampaikan ke member sebagai fa
 
 ### S-D-GAP-001 · `shp-iklan-103` (Shopee Ads mentor deck) — 4 dari 8 section-nya kosong
 
-**Status:** terbuka
+**Status:** ✅ tertutup (2026-09-01)
 **Entry terdampak:** `shp-iklan-103`
 
 **Masalahnya:**
@@ -1834,13 +1838,13 @@ Gak langsung bikin salah jawab, tapi tim bisa mengira topik ini "sudah ada" di K
 
 **Rekomendasi:** B untuk sekarang (artikel resmi sudah cukup mendetail soal iklan Shopee), A kalau ternyata konten di slide itu ada insight khas MEA yang gak ada di sumber resmi.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-09-01):** Opsi B. Gap dibiarkan, gak diminta slide asli. Catatan tambahan: satu dari 4 section kosongnya ("Tips Memilih Produk yang Siap Diiklankan") sudah kebantu tak langsung oleh entry baru `shp-iklan-104` (pilih SKU siap diiklankan, dari batch pengisian gap 2026-09-01) — 3 section sisanya ("Jenis-Jenis Iklan Shopee", "Fitur Dashboard Iklan", "Strategi Penggunaan Shopee Ads") masih murni gap, tapi tercover artikel resmi `shp-iklan-006` dst.
 
 ---
 
 ### S-D-GAP-002 · Video "Menghadapi KONDISI BURUK" (kasus korupsi MBG) — sengaja tidak dikanonikkan
 
-**Status:** terbuka — bukan blocking, tapi perlu keputusan scope
+**Status:** ✅ tertutup (2026-09-01)
 **Entry terdampak:** tidak ada (materi mentah masih ada di `materi/transkrip-yohan-youtube/`)
 
 **Masalahnya:**
@@ -1853,13 +1857,13 @@ Video ini isinya opini/analisis narasumber tentang dampak kasus dugaan korupsi p
 
 **Rekomendasi:** A (sudah dijalankan) — video sejenis ini kemungkinan akan muncul lagi dari channel YouTube Yohan ke depannya (konten reaktif terhadap berita), jadi perlu kebijakan baku: video "reaksi berita/politik" secara default gak masuk KB kecuali Yohan yang putuskan sebaliknya.
 
-**Keputusan Yohan:** _(kosong — sekaligus jadi kebijakan buat batch KB berikutnya)_
+**Keputusan Yohan (2026-09-01):** Opsi A. Video ini tetap di luar KB. Sekaligus ditetapkan jadi kebijakan baku (lihat bagian "Kebijakan baku" di paling atas file ini): video reaksi berita/politik dari channel YouTube Yohan default gak masuk KB kecuali Yohan bilang sebaliknya per video.
 
 ---
 
 ### S-D-GAP-003 · JAWARA 20 (promo event) — cuma daftar topik, gak ada isi materi
 
-**Status:** terbuka — bukan blocking
+**Status:** ✅ tertutup (2026-09-01)
 **Entry terdampak:** tidak ada (materi mentah di `materi/slide-mea-internal/jawara20-promo-banjir-orderan-produk-hero-shopee.md`)
 
 **Masalahnya:**
@@ -1871,7 +1875,7 @@ Sesuai keputusan Yohan (hook & harga promo dibuang), tapi setelah dibuang yang t
 
 **Rekomendasi:** A untuk sekarang.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-09-01):** Opsi A. Dibiarkan sebagai gap, gak dipaksa jadi entry kosong. Kalau nanti ada rekaman/notulen event JAWARA 20 yang lebih lengkap, bisa dipakai isi entry ini di batch berikutnya.
 
 ---
 
@@ -2098,9 +2102,11 @@ akun dibatasi, strategi live, SOP pengiriman, evaluasi iklan). Enam entry baru d
 `shp-iklan-104`) — detail penuh di `MERGE-LOG.md`. Satu temuan taksonomi diangkat di sini karena
 butuh keputusan Yohan, bukan diputuskan sendiri.
 
-### S-D-SCOPE-001 · `shp-produk-013` judulnya nyasar — isinya bukan "tingkatkan kualitas listing"
+### S-D-SCOPE-003 · `shp-produk-013` judulnya nyasar — isinya bukan "tingkatkan kualitas listing"
 
-**Status:** terbuka · **Prioritas:** rendah (gak bikin salah jawab kalau tim baca isinya, tapi bikin salah arah kalau cuma baca judul)
+> Catatan: ID ini awalnya ditulis `S-D-SCOPE-001`, tapi kode itu udah dipakai keputusan lain (lihat Bagian D di atas). Direnomori ke `S-D-SCOPE-003` (lanjutan `S-D-SCOPE-002`) biar gak collision — gak ada perubahan substansi.
+
+**Status:** ✅ tertutup (2026-09-01) · **Prioritas:** rendah (gak bikin salah jawab kalau tim baca isinya, tapi bikin salah arah kalau cuma baca judul)
 **Entry terdampak:** `shp-produk-013` (judul: "Meningkatkan Kualitas Daftar Produk yang Dihapus/Diblokir")
 
 **Masalahnya:**
@@ -2116,4 +2122,4 @@ Kalau tim cuma scan judul waktu jawab member yang tanya "kok listing saya kurang
 
 **Rekomendasi:** A untuk sekarang — sudah dijembatani lewat `related:` dan `shp-produk-107` (entry baru yang eksplisit misahin dua jalur ini). B kalau ternyata masih sering ke-skip di lapangan.
 
-**Keputusan Yohan:** _(kosong)_
+**Keputusan Yohan (2026-09-01):** Opsi A. Judul `shp-produk-013` dibiarkan apa adanya (sesuai sumber resmi Shopee), cukup andalkan `related:` yang sudah nyambung ke `shp-produk-011/017/107`. Direvisit ke Opsi B kalau di lapangan ternyata masih sering ke-skip.

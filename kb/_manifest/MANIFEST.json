@@ -1643,11 +1643,11 @@
     "platform": "shopee",
     "kategori": "iklan-dan-promosi",
     "depth": "2",
-    "status": "canonical",
+    "status": "draft-ai",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
     "related": "shp-iklan-006",
-    "decisions": "S-D-CONFLICT-002",
+    "decisions": "",
     "path": "shopee/iklan-dan-promosi/14-cara-kerja-gmv-max-observasi-lapangan.md"
   },
   {
@@ -3623,7 +3623,7 @@
     "sensitif_waktu": "true",
     "valid_as_of": "tidak-diketahui",
     "related": "shp-mall-001",
-    "decisions": "S-D-CONFLICT-003",
+    "decisions": "",
     "path": "shopee/penjual-star-dan-mall/06-shopee-mall-vs-star-perbandingan-pengalaman-lapangan.md"
   },
   {

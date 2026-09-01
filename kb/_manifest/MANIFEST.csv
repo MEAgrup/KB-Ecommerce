@@ -125,7 +125,7 @@ shp-promosi-010,Program Opsional Promo XTRA,shopee,iklan-dan-promosi,2,canonical
 shp-promosi-011,Program Opsional Promo XTRA+,shopee,iklan-dan-promosi,2,canonical,true,2026-07,,,shopee/iklan-dan-promosi/11-program-opsional-promo-xtra.md
 shp-promosi-012,Tentang Pengelolaan Program Saya,shopee,iklan-dan-promosi,2,canonical,true,2026-06,,,shopee/iklan-dan-promosi/12-tentang-pengelolaan-program-saya.md
 shp-promosi-013,Cara Membeli Paket Promosi Online di Seller Centre,shopee,iklan-dan-promosi,2,canonical,true,2026-05,,,shopee/iklan-dan-promosi/13-cara-membeli-paket-promosi-online-di-seller-centre.md
-shp-iklan-101,Cara kerja GMV Max menurut observasi lapangan (bukan dokumentasi resmi),shopee,iklan-dan-promosi,2,canonical,true,2026-07,shp-iklan-006,S-D-CONFLICT-002,shopee/iklan-dan-promosi/14-cara-kerja-gmv-max-observasi-lapangan.md
+shp-iklan-101,Cara kerja GMV Max menurut observasi lapangan (bukan dokumentasi resmi),shopee,iklan-dan-promosi,2,draft-ai,true,2026-07,shp-iklan-006,,shopee/iklan-dan-promosi/14-cara-kerja-gmv-max-observasi-lapangan.md
 shp-promosi-014,Tentang Program Shopee Pilih Lokal,shopee,iklan-dan-promosi,2,canonical,true,2026-07,,,shopee/iklan-dan-promosi/14-tentang-program-shopee-pilih-lokal.md
 shp-iklan-102,Hitung CAC vs LTV supaya ikut campaign gak boncos,shopee,iklan-dan-promosi,2,canonical,false,tidak-diketahui,fnd-analisa-003,,shopee/iklan-dan-promosi/15-cac-vs-ltv-supaya-campaign-gak-boncos.md
 shp-promosi-015,Tentang Promo Shopee,shopee,iklan-dan-promosi,3,canonical,true,2026-07,,,shopee/iklan-dan-promosi/15-tentang-promo-shopee.md
@@ -277,7 +277,7 @@ shp-edukasi-002,Program Sukses UMKM Baru,shopee,penjual-star-dan-mall,2,canonica
 shp-ekspor-002,Tentang Program Ekspor Shopee,shopee,penjual-star-dan-mall,3,canonical,true,2026-07,,,shopee/penjual-star-dan-mall/02-tentang-program-ekspor-shopee.md
 shp-mall-003,Penjual Shopee Mall,shopee,penjual-star-dan-mall,3,canonical,true,2026-08,,,shopee/penjual-star-dan-mall/03-penjual-shopee-mall.md
 shp-mall-004,Tentang Shopee Farma,shopee,penjual-star-dan-mall,2,canonical,true,2026-08,,,shopee/penjual-star-dan-mall/04-tentang-shopee-farma.md
-shp-mall-101,Shopee Mall vs Star vs Reguler — perbandingan dari pengalaman lapangan,shopee,penjual-star-dan-mall,2,canonical,true,tidak-diketahui,shp-mall-001,S-D-CONFLICT-003,shopee/penjual-star-dan-mall/06-shopee-mall-vs-star-perbandingan-pengalaman-lapangan.md
+shp-mall-101,Shopee Mall vs Star vs Reguler — perbandingan dari pengalaman lapangan,shopee,penjual-star-dan-mall,2,canonical,true,tidak-diketahui,shp-mall-001,,shopee/penjual-star-dan-mall/06-shopee-mall-vs-star-perbandingan-pengalaman-lapangan.md
 shp-produk-001,Mengakses Fitur Edit Secara Massal,shopee,produk,1,canonical,false,2026-04,,,shopee/produk/01-mengakses-fitur-edit-secara-massal.md
 shp-produk-002,Tentang Edit Atribut,shopee,produk,1,canonical,false,2026-04,,,shopee/produk/02-tentang-edit-atribut.md
 shp-produk-003,Cara Melengkapi Informasi Halal/Non-Halal pada Produk dan Mendaftarkan Sertifikat Halal di Seller Centre,shopee,produk,1,canonical,false,2026-04,,,shopee/produk/03-cara-melengkapi-informasi-halalnon-halal-pada-produk-dan-mendaftarkan-.md
