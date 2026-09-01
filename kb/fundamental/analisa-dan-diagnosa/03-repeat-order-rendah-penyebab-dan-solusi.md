@@ -27,7 +27,7 @@ Saat pembeli baru cukup banyak tapi pembeli lama jarang kembali, atau saat omzet
 Penyebab repeat order rendah:
 1. **Kualitas produk gak pantas repeat** — promosi bagus, tapi barang mengecewakan saat sampai.
 2. **Rating/testimoni jelek** — bikin toko susah tumbuh.
-3. **Salah target market** — "target semua orang" itu salah; pertanyaannya siapa yang akan beli lagi.
+3. **Salah target market** — "target semua orang" itu salah; pertanyaannya siapa yang akan beli lagi. Cara komunikasi dan daya beli beda per segmen (mis. gaya bahasa ke remaja vs ke ibu-ibu beda; barang harga tinggi cocok ke segmen yang mampu beli ulang, bukan ke segmen yang sekali beli langsung habis budget).
 4. **Beli karena viral, bukan butuh** — sekali beli lalu berhenti.
 5. **Terlalu banyak promo** — orang cuma beli saat promo, margin tipis.
 
@@ -45,3 +45,5 @@ Fokus terus mencari pembeli baru sambil mengabaikan kenapa pembeli lama gak kemb
 ## Pertanyaan diagnosa
 - Siapa yang benar-benar jadi target (yang akan beli lagi), bukan "semua orang"?
 - Produk & experience lu bikin orang mau balik, atau cuma menang di promosi awal?
+- Rating dan review toko trennya gimana?
+- Berapa persen order datang dari momen promo vs harga normal?

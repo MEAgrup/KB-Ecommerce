@@ -48,3 +48,5 @@ Menahan produk yang sudah kehilangan momentum sambil menyalahkan platform, alih-
 ## Pertanyaan diagnosa
 - Apakah CTR/CVR/repeat order lu turun, atau cuma view?
 - Kompetitor sejenis ikut turun (masalah pasar) atau cuma toko lu (masalah internal)?
+- Kapan terakhir kali konten/kreatif produk di-refresh?
+- Rating dan review toko trennya gimana belakangan ini?

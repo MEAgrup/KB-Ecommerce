@@ -4,16 +4,18 @@ title: Value di atas harga dan strategi Blue Ocean
 platform: lintas
 kategori: psikologi
 depth: 2
-status: canonical
+status: archived
 confidence: sedang
 sensitif_waktu: false
 valid_as_of: 2024-06
 sources:
   - file: canva/jawara-15.md
     bagian: "slide Blue Ocean, VALUE, pertimbangan pembeli"
-related: [fnd-psikologi-003, fnd-harga-001]
+related: [fnd-psikologi-003, fnd-harga-001, fnd-harga-004]
 decisions: []
 ---
+
+> **[DIARSIPKAN 2026-08-31 — `S-D-MERGE` ditutup]** Duplikat dari sumber yang sama dengan `fnd-harga-004` — "Blue Ocean vs Red Ocean, dan enam pendekatan pricing untuk keluar dari perang harga". Isi unik yang berharga di sini sudah digabung ke `fnd-harga-004`; entry ini disimpan sebagai jejak, **jangan dikutip** buat jawab member, pakai `fnd-harga-004` sebagai versi kanonik.
 
 # Value di atas harga dan strategi Blue Ocean
 

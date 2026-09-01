@@ -34,6 +34,7 @@ Tujuh cara:
 5. **Manfaatkan sentimen lokal/UMKM.** Sebagian konsumen rela bayar sedikit lebih untuk mendukung produk lokal.
 6. **Paket value bertingkat** (basic / value-recommended / premium). Orang cenderung memilih tengah bila diberi rekomendasi.
 7. **Bandingkan biaya per pakai**, bukan harga beli.
+8. **Jelaskan alasan harga saat live/di deskripsi.** Akui harga lebih tinggi dari kompetitor, tapi jelaskan value tambahannya (bahan, garansi) supaya total cost-nya justru lebih hemat.
 
 ## Angka & patokan
 | Ilustrasi (total cost of ownership) | Hitungan | Sumber |

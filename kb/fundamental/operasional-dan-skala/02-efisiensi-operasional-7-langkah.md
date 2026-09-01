@@ -39,3 +39,4 @@ Memangkas biaya sampai kualitas ikut jatuh — itu bukan efisiensi, itu kehilang
 - Lu tahu persis ke mana uang lari tiap bulan?
 - Ada dead stock yang menahan modal lu sekarang?
 - Proses berulang mana yang masih manual dan bisa diotomasi?
+- ROAS iklan sekarang berapa, dan kalau budget dipotong ~20% dampaknya seberapa besar? (indikator seberapa besar ketergantungan lu ke iklan berbayar)
