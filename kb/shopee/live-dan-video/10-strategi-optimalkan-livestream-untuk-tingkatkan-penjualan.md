@@ -11,6 +11,7 @@ valid_as_of: 2026-05
 sources:
   - file: mj---shopee-live/strategi-optimalkan-livestream-untuk-tingkatkan-penjualan.md
     bagian: "artikel penuh"
+related: [shp-live-101]
 ---
 # Strategi Optimalkan Livestream untuk Tingkatkan Penjualan
 

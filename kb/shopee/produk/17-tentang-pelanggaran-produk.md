@@ -11,6 +11,7 @@ valid_as_of: 2026-01
 sources:
   - file: daftar-produk---kebijakan-pelanggaran-produk/tentang-pelanggaran-produk.md
     bagian: "artikel penuh"
+related: [shp-produk-107]
 ---
 # Tentang Pelanggaran Produk
 

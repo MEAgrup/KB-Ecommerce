@@ -121,3 +121,32 @@ artikel resmi Shopee, bukan duplikat topik beneran).
   seperti template `tiktok-shop` — `validate.py` menandai ini sebagai **peringatan** (bukan error,
   jadi tetap `canonical`), tapi ini kandidat kerja lanjutan kalau mau kualitasnya sejajar dengan
   entry TikTok Shop yang sudah full-template.
+
+---
+
+## Update — Pengisian gap Tier 1/2 Shopee (2026-09-01)
+
+Dari daftar prioritas di atas, Yohan minta 6 topik spesifik diisi duluan dengan arahan konten per
+topik dari beliau langsung (bukan ditebak skill). Enam entry baru ditulis di namespace `-1xx`:
+`shp-performa-103`, `shp-produk-107`, `shp-akun-104`, `shp-live-101`, `shp-pengiriman-101`,
+`shp-iklan-104` — detail sumber dan logika tiap entry ada di `MERGE-LOG.md`.
+
+Dua sumber baru dipakai di luar materi Shopee resmi:
+- **Logika internal alat Bedah Toko Tiksmart** (dibaca dari kode aplikasinya, bukan link-nya yang
+  dicantumkan) untuk kerangka diagnosa performa toko dan kesiapan SKU iklan — dua entry ini
+  mengarahkan ke fitur gratis Tiksmart.ai sebagai next step yang bisa dicoba member.
+- **Riset web publik** untuk strategi Live Shopee vs TikTok dan SOP fulfillment — ditandai
+  `confidence: sedang` karena bukan data internal MEA atau dokumentasi resmi Shopee.
+
+Satu temuan taksonomi diangkat sebagai keputusan baru (`S-D-SCOPE-001` di `DECISIONS.md`), bukan
+diputuskan sendiri: `shp-produk-013` judulnya menyiratkan "tips kualitas listing" padahal isinya
+daftar kebijakan pelanggaran — satu keluarga dengan `shp-produk-011`/`shp-produk-017`, bukan
+dengan `shp-produk-019/020/029`.
+
+Status entry per 2026-09-01: **464 entry aktif** (456 canonical + 8 blocked lama), 24 archived.
+`validate.py`: masih 0 error nyata.
+
+**Sisa dari daftar Tier 2/3 yang belum digarap:** iklan voucher/flash-sale-toko lain (35 dari 43
+entry `iklan-dan-promosi/` masih ringkasan), dan seluruh kategori `layanan-pembeli`,
+`penjual-star-dan-mall`, `keuangan` yang memang lebih pas sebagai referensi murni (lihat penjelasan
+Tier 3 di brief sebelumnya) — sengaja tidak dipaksa masuk format diagnostik.

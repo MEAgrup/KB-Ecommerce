@@ -11,7 +11,7 @@ valid_as_of: 2026-08
 sources:
   - file: internal-tool-benchmark/standar-skor-performa-toko-shopee-mea-report-engine.md
     bagian: "Matriks 4 Kuadran Produk"
-related: [shp-performa-101, shp-produk-101]
+related: [shp-performa-101, shp-produk-101, shp-performa-103]
 ---
 
 # Matriks 4 kuadran produk — Bintang, Hidden Gem, Bocor Traffic, Evaluasi

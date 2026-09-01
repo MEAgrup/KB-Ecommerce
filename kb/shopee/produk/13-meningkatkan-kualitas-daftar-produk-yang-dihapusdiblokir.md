@@ -11,6 +11,7 @@ valid_as_of: 2026-08
 sources:
   - file: daftar-produk---kebijakan-pelanggaran-produk/meningkatkan-kualitas-daftar-produk-yang-dihapusdiblokir.md
     bagian: "artikel penuh"
+related: [shp-produk-107]
 ---
 # Meningkatkan Kualitas Daftar Produk yang Dihapus/Diblokir
 

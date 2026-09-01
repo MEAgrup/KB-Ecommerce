@@ -11,7 +11,7 @@ valid_as_of: 2026-08
 sources:
   - file: mj---iklan-shopee/tentang-iklan-shopee.md
     bagian: "bagian: Mengevaluasi Performa Iklan Shopee"
-related: [shp-iklan-006, shp-performa-101]
+related: [shp-iklan-006, shp-performa-101, shp-iklan-104]
 ---
 
 # Cara mengevaluasi performa Iklan Shopee (CTR, ACOS, ROAS)

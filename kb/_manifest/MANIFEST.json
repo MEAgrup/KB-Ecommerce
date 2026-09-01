@@ -60,7 +60,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-01",
-    "related": "fnd-analisa-001, fnd-analisa-003, tts-traffic-003",
+    "related": "fnd-analisa-001, fnd-analisa-003, tts-traffic-003, shp-performa-103, shp-produk-107",
     "decisions": "",
     "path": "fundamental/analisa-dan-diagnosa/02-omzet-turun-fatigue-atau-siklus-produk.md"
   },
@@ -658,7 +658,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-akun-104",
     "decisions": "",
     "path": "shopee/akun-dan-toko/10-mengapa-akun-saya-dibatasi.md"
   },
@@ -1118,6 +1118,19 @@
     "path": "shopee/akun-dan-toko/34-tentang-kebijakan-logo-banner-toko.md"
   },
   {
+    "id": "shp-akun-104",
+    "title": "Kenapa akun/toko dibatasi — cek poin penalti dulu sebelum nebak penyebab lain",
+    "platform": "shopee",
+    "kategori": "akun-dan-toko",
+    "depth": "2",
+    "status": "canonical",
+    "sensitif_waktu": "true",
+    "valid_as_of": "2026-08",
+    "related": "shp-akun-101, shp-akun-103, shp-akun-010, shp-akun-009, shp-akun-014, shp-penalti-002, shp-penalti-003, shp-penalti-005, shp-toko-021, shp-toko-030, shp-produk-107",
+    "decisions": "",
+    "path": "shopee/akun-dan-toko/35-kenapa-akun-toko-dibatasi-cek-poin-penalti-dulu.md"
+  },
+  {
     "id": "shp-toko-035",
     "title": "Tipe-tipe Penjual di Shopee",
     "platform": "shopee",
@@ -1204,7 +1217,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "shp-performa-102",
+    "related": "shp-performa-102, shp-performa-103",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/06-benchmark-angka-sehat-toko.md"
   },
@@ -1217,9 +1230,22 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "shp-performa-101, shp-produk-101",
+    "related": "shp-performa-101, shp-produk-101, shp-performa-103",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/07-matriks-empat-kuadran-produk.md"
+  },
+  {
+    "id": "shp-performa-103",
+    "title": "Kenapa performa toko turun — diagnosa cepat 5 area sebelum nebak penyebabnya",
+    "platform": "shopee",
+    "kategori": "analisis-performa-toko",
+    "depth": "2",
+    "status": "canonical",
+    "sensitif_waktu": "true",
+    "valid_as_of": "2026-08",
+    "related": "shp-performa-101, shp-performa-102, shp-akun-104, shp-produk-107, fnd-analisa-002",
+    "decisions": "",
+    "path": "shopee/analisis-performa-toko/08-kenapa-performa-toko-turun-diagnosa-5-area.md"
   },
   {
     "id": "shp-afiliasi-001",
@@ -1516,7 +1542,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "shp-iklan-006, shp-performa-101",
+    "related": "shp-iklan-006, shp-performa-101, shp-iklan-104",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/06e-cara-evaluasi-performa-iklan-ctr-acos-roas.md"
   },
@@ -1779,6 +1805,19 @@
     "related": "",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/23-voucher-diskon-dinamis.md"
+  },
+  {
+    "id": "shp-iklan-104",
+    "title": "Pilih SKU yang siap diiklankan dulu, baru soal budget",
+    "platform": "shopee",
+    "kategori": "iklan-dan-promosi",
+    "depth": "2",
+    "status": "canonical",
+    "sensitif_waktu": "false",
+    "valid_as_of": "2026-09",
+    "related": "shp-iklan-205, shp-iklan-103, shp-performa-102, shp-produk-107",
+    "decisions": "",
+    "path": "shopee/iklan-dan-promosi/33-pilih-sku-yang-siap-diiklankan-sebelum-nambah-budget.md"
   },
   {
     "id": "shp-biaya-001",
@@ -2348,7 +2387,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-live-101",
     "decisions": "",
     "path": "shopee/live-dan-video/10-strategi-optimalkan-livestream-untuk-tingkatkan-penjualan.md"
   },
@@ -2364,6 +2403,19 @@
     "related": "",
     "decisions": "",
     "path": "shopee/live-dan-video/11-voucher-shopee-live-dan-skemanya.md"
+  },
+  {
+    "id": "shp-live-101",
+    "title": "Kenapa strategi Live Shopee beda dari TikTok — maksimalkan fitur, bukan kejar reach viral",
+    "platform": "shopee",
+    "kategori": "live-dan-video",
+    "depth": "2",
+    "status": "canonical",
+    "sensitif_waktu": "false",
+    "valid_as_of": "2026-09",
+    "related": "shp-live-010, shp-performa-102",
+    "decisions": "",
+    "path": "shopee/live-dan-video/12-kenapa-strategi-live-shopee-beda-dari-tiktok-maksimalkan-fitur.md"
   },
   {
     "id": "shp-pengiriman-001",
@@ -2803,7 +2855,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2022-05",
-    "related": "",
+    "related": "shp-pengiriman-101",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/68-mengoptimalkan-proses-inbound.md"
   },
@@ -2816,7 +2868,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-04",
-    "related": "",
+    "related": "shp-pengiriman-101",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/69-optimalisasi-proses-outbound.md"
   },
@@ -2881,9 +2933,22 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-101",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/74-tips-pengiriman-tepat-waktu.md"
+  },
+  {
+    "id": "shp-pengiriman-101",
+    "title": "SOP dasar inbound-outbound biar gak gagal kirim tepat waktu",
+    "platform": "shopee",
+    "kategori": "pengiriman-dan-pesanan",
+    "depth": "2",
+    "status": "canonical",
+    "sensitif_waktu": "false",
+    "valid_as_of": "2026-09",
+    "related": "shp-pengiriman-063, shp-pengiriman-065, shp-pengiriman-068, shp-pengiriman-069, shp-pengiriman-074",
+    "decisions": "",
+    "path": "shopee/pengiriman-dan-pesanan/75-sop-dasar-inbound-outbound-biar-gak-gagal-kirim-tepat-waktu.md"
   },
   {
     "id": "shp-pengiriman-002",
@@ -3700,7 +3765,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-produk-107",
     "decisions": "",
     "path": "shopee/produk/11-jenis-pelanggaran-produk-di-shopee.md"
   },
@@ -3752,7 +3817,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-107",
     "decisions": "",
     "path": "shopee/produk/13-meningkatkan-kualitas-daftar-produk-yang-dihapusdiblokir.md"
   },
@@ -3856,7 +3921,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-produk-107",
     "decisions": "",
     "path": "shopee/produk/17-tentang-pelanggaran-produk.md"
   },
@@ -4015,6 +4080,19 @@
     "related": "",
     "decisions": "",
     "path": "shopee/produk/29-tips-mengoptimalkan-daftar-produk.md"
+  },
+  {
+    "id": "shp-produk-107",
+    "title": "Produk turun, diblokir, atau dihapus — dua penyebab yang sering ketuker",
+    "platform": "shopee",
+    "kategori": "produk",
+    "depth": "2",
+    "status": "canonical",
+    "sensitif_waktu": "true",
+    "valid_as_of": "2026-08",
+    "related": "shp-produk-009, shp-produk-011, shp-produk-013, shp-produk-017, shp-produk-018, shp-produk-019, shp-produk-020, shp-produk-029, shp-akun-104, shp-performa-103, fnd-analisa-002",
+    "decisions": "",
+    "path": "shopee/produk/30-kenapa-produk-turun-dihapus-diblokir-dua-penyebab-beda.md"
   },
   {
     "id": "tts-000",

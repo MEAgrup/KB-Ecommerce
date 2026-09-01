@@ -11,6 +11,7 @@ valid_as_of: 2025-04
 sources:
   - file: pp---penyelesaian-pesanan/optimalisasi-proses-outbound.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-101]
 ---
 # Optimalisasi Proses Outbound
 

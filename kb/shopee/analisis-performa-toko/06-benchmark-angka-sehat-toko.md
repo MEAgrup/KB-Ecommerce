@@ -11,7 +11,7 @@ valid_as_of: 2026-08
 sources:
   - file: internal-tool-benchmark/standar-skor-performa-toko-shopee-mea-report-engine.md
     bagian: "Benchmark ROAS & ACOS", "Benchmark Traffic & Konversi", "Benchmark Repeat Order & Cancel Rate", "Benchmark Layanan Chat"
-related: [shp-performa-102]
+related: [shp-performa-102, shp-performa-103]
 ---
 
 # Benchmark angka sehat toko — ROAS, ACOS, CR, cancel rate, chat

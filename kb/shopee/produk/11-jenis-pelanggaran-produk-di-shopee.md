@@ -11,6 +11,7 @@ valid_as_of: 2026-02
 sources:
   - file: daftar-produk---kebijakan-pelanggaran-produk/jenis-pelanggaran-produk-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-produk-107]
 ---
 # Jenis Pelanggaran Produk di Shopee
 

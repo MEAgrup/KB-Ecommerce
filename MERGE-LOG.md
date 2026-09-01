@@ -240,3 +240,47 @@ konkret dikutip sepotong / diminta tim), bukan preemptif.
   9 baru dari resolusi ini).
 - `validate.py`: 0 error nyata (12 flag hype false-positive yang sama, tidak berubah).
 - `_manifest/` diregenerasi ulang (458 entry).
+
+---
+
+# MERGE-LOG — Pengisian gap Shopee Tier 1/2 (01 Sep 2026)
+
+Yohan minta 6 topik spesifik dari daftar prioritas di `LAPORAN-KB.md` diisi dengan entry diagnostik
+baru, dengan arahan konten spesifik per topik (lihat brief lengkap di riwayat chat). Semua entry
+baru masuk namespace `-1xx` (strategis, bukan hasil scraping artikel resmi).
+
+## Entry baru (6)
+
+| ID | Judul | Inti logika |
+|---|---|---|
+| `shp-performa-103` | Kenapa performa toko turun — diagnosa 5 area | Dibongkar dari kode aplikasi Bedah Toko Tiksmart (5 area berbobot: Iklan 26%/Konversi 24%/Produk 20%/Layanan 16%/Kanal 14%; urutan prioritas penalti→pembatalan→iklan→produk→kanal→konversi→layanan) — bukan link yang dibagikan, cuma logikanya. Arahkan ke fitur Bedah Toko gratis Tiksmart.ai untuk hitungan otomatis. |
+| `shp-produk-107` | Produk turun/dihapus/diblokir — dua penyebab | Pisah 2 jalur: (A) pelanggaran/poin penalti (link ke `shp-produk-009/011/013/017/018`) vs (B) penjualan mingguan turun → algoritma nurunin eksposur organik (link ke `fnd-analisa-002`, `shp-performa-102`). Ketemu 1 temuan taksonomi (`shp-produk-013` judulnya nyasar) — dicatat sebagai `S-D-SCOPE-001`, bukan diputus sendiri. |
+| `shp-akun-104` | Akun/toko dibatasi — cek poin penalti dulu | Nyambungin gejala (`shp-akun-009/010/014`) ke akar masalah (`shp-penalti-002/003/005`, `shp-toko-021/030`) yang sudah ada di KB tapi belum di-link. |
+| `shp-live-101` | Strategi Live Shopee beda dari TikTok | Riset web: Shopee search-based (traffic dari yang udah niat cari) vs TikTok discovery-based (algoritma nyebar ke penonton baru) — strategi jadi maksimalkan fitur & konsistensi jadwal, bukan kejar reach viral. |
+| `shp-pengiriman-101` | SOP dasar inbound-outbound | Riset web: 3 penyebab gagal kirim tepat waktu paling umum (komunikasi antar-bagian putus, pencatatan manual, gak ada prioritas pesanan) — bukan soal stok/kecepatan kerja. |
+| `shp-iklan-104` | Pilih SKU siap diiklankan | Dua lapis kesiapan SKU: relevansi (judul/deskripsi/gambar nyambung ke keyword) dan performa (CTR/CVR organik sudah kebukti). Arahkan ke fitur cek SKU siap iklan di Tiksmart.ai. |
+
+## Sumber non-Shopee yang dipakai
+- **Kode aplikasi Bedah Toko Tiksmart** (file HTML internal MEA, diakses lewat Google Drive) — dibaca
+  logikanya (fungsi skor 5 area, mesin klinik gejala-diagnosa-resep, ambang numerik) untuk
+  `shp-performa-103` dan `shp-iklan-104`. **Link Drive-nya sendiri sengaja TIDAK dicantumkan** di
+  entry KB manapun sesuai arahan Yohan — cuma logikanya yang dipakai buat nulis ulang jadi bahasa
+  KB, dan entry mengarahkan ke Tiksmart.ai sebagai next step, bukan ke file internal.
+- **Riset web publik** (WebSearch) untuk `shp-live-101` (perbandingan model traffic Shopee vs
+  TikTok Shop) dan `shp-pengiriman-101` (SOP fulfillment e-commerce) — sumber dicantumkan sebagai
+  link di bagian Batasan tiap entry, `confidence: sedang` (bukan `tinggi`) karena bukan data
+  internal MEA atau dokumentasi resmi Shopee.
+
+## Cross-link yang ditambahkan
+9 entry existing (`shp-performa-101/102`, `shp-akun-010`, `shp-produk-011/013/017`, `shp-live-010`,
+`shp-pengiriman-068/069/074`, `shp-iklan-205`, `fnd-analisa-002`) di-update `related:`-nya biar
+nyambung dua arah ke entry baru — bukan cuma entry baru yang nunjuk ke lama.
+
+## Keputusan baru yang diangkat (bukan diputus sendiri)
+`S-D-SCOPE-001` di `DECISIONS.md` Bagian F — `shp-produk-013` judulnya nyasar (bilang "tingkatkan
+kualitas listing" tapi isinya daftar kebijakan pelanggaran). Rekomendasi: biarkan judul asli
+(sesuai sumber resmi Shopee), cukup dijembatani lewat `related:`.
+
+## Validasi
+464 entry (458 + 6 baru). `validate.py`: 0 error baru (12 flag hype false-positive yang sama,
+gak berubah). Semua entry baru dicek related-nya resolve, gak ada broken link.

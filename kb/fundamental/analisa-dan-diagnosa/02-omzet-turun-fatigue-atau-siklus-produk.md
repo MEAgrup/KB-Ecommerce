@@ -11,7 +11,7 @@ valid_as_of: 2026-01
 sources:
   - file: youtube_yohan-_jualan_online_.md
     bagian: "video 8 (omzet turun AWAL KEHANCURAN?)"
-related: [fnd-analisa-001, fnd-analisa-003, tts-traffic-003]
+related: [fnd-analisa-001, fnd-analisa-003, tts-traffic-003, shp-performa-103, shp-produk-107]
 decisions: []
 ---
 

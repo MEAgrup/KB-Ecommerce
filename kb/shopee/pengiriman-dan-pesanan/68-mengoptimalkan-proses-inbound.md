@@ -11,6 +11,7 @@ valid_as_of: 2022-05
 sources:
   - file: pp---penyelesaian-pesanan/mengoptimalkan-proses-inbound.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-101]
 ---
 # Mengoptimalkan Proses Inbound
 

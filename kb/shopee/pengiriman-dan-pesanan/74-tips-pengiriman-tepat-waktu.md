@@ -11,6 +11,7 @@ valid_as_of: 2026-03
 sources:
   - file: pp---tips-operasional-toko/tips-pengiriman-tepat-waktu.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-101]
 ---
 # Tips Pengiriman Tepat Waktu
 

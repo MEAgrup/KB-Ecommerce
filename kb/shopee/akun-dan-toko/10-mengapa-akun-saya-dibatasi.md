@@ -11,6 +11,7 @@ valid_as_of: 2026-05
 sources:
   - file: umum---akun-dan-keamanan/mengapa-akun-saya-dibatasi.md
     bagian: "artikel penuh"
+related: [shp-akun-104]
 ---
 # Mengapa Akun Saya Dibatasi?
 

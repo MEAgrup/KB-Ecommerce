@@ -3,7 +3,7 @@ fnd-001,"Brilliant Basics — produk, harga, promosi",lintas,fundamental,1,canon
 fnd-002,Kalender momen belanja setahun,lintas,fundamental,1,canonical,true,2026-06,"tts-live-005, tts-campaign-001, tts-campaign-004, tts-gmvmax-005",,fundamental/02-kalender-momen-belanja.md
 fnd-003,Glosarium istilah,lintas,fundamental,1,canonical,false,2026-07,"tts-benchmark-001, tts-gmvmax-001, tts-segmentasi-000",,fundamental/03-glosarium.md
 fnd-analisa-001,"Algoritma bukan jahat, belajar baca data",lintas,analisa,2,canonical,false,2026-01,"fnd-analisa-002, fnd-analisa-003",,fundamental/analisa-dan-diagnosa/01-algoritma-bukan-jahat-baca-data.md
-fnd-analisa-002,Omzet turun: fatigue sementara atau akhir siklus produk,lintas,analisa,2,canonical,false,2026-01,"fnd-analisa-001, fnd-analisa-003, tts-traffic-003",,fundamental/analisa-dan-diagnosa/02-omzet-turun-fatigue-atau-siklus-produk.md
+fnd-analisa-002,Omzet turun: fatigue sementara atau akhir siklus produk,lintas,analisa,2,canonical,false,2026-01,"fnd-analisa-001, fnd-analisa-003, tts-traffic-003, shp-performa-103, shp-produk-107",,fundamental/analisa-dan-diagnosa/02-omzet-turun-fatigue-atau-siklus-produk.md
 fnd-analisa-003,Repeat order rendah: penyebab dan solusi,lintas,analisa,2,canonical,false,2026-01,"fnd-analisa-002, fnd-psikologi-003, tts-traffic-003",,fundamental/analisa-dan-diagnosa/03-repeat-order-rendah-penyebab-dan-solusi.md
 fnd-mindset-001,Konsisten saja tidak cukup,lintas,mindset,2,canonical,false,2026-01,"fnd-analisa-001, fnd-analisa-002",,fundamental/mindset-dan-kondisi-pasar/01-konsisten-saja-tidak-cukup.md
 fnd-mindset-002,Skill wajib seller yang mau naik kelas,lintas,mindset,1,canonical,false,2026-01,"fnd-operasional-004, fnd-analisa-001",,fundamental/mindset-dan-kondisi-pasar/02-skill-wajib-seller.md
@@ -49,7 +49,7 @@ shp-akun-008,Keamanan Akun Shopee,shopee,akun-dan-toko,2,canonical,true,2022-12,
 shp-toko-008,Mengapa Toko Saya Dinonaktifkan atau Tidak Aktif?,shopee,akun-dan-toko,1,canonical,true,2023-03,,,shopee/akun-dan-toko/08-mengapa-toko-saya-dinonaktifkan-atau-tidak-aktif.md
 shp-akun-009,Kendala Log In Akun Shopee dan Kode Verifikasi (OTP),shopee,akun-dan-toko,2,canonical,true,2025-06,,,shopee/akun-dan-toko/09-kendala-log-in-akun-shopee-dan-kode-verifikasi-otp.md
 shp-toko-009,Menggunakan Fitur Mode Libur,shopee,akun-dan-toko,2,canonical,true,2026-04,,,shopee/akun-dan-toko/09-menggunakan-fitur-mode-libur.md
-shp-akun-010,Mengapa Akun Saya Dibatasi?,shopee,akun-dan-toko,2,canonical,true,2026-05,,,shopee/akun-dan-toko/10-mengapa-akun-saya-dibatasi.md
+shp-akun-010,Mengapa Akun Saya Dibatasi?,shopee,akun-dan-toko,2,canonical,true,2026-05,shp-akun-104,,shopee/akun-dan-toko/10-mengapa-akun-saya-dibatasi.md
 shp-toko-010,Tentang Penyalahgunaan Label Shopee,shopee,akun-dan-toko,1,canonical,true,2026-03,,,shopee/akun-dan-toko/10-tentang-penyalahgunaan-label-shopee.md
 shp-toko-011,Apa Saja Akun & Rekening Resmi Shopee?,shopee,akun-dan-toko,1,canonical,false,2025-06,,,shopee/akun-dan-toko/11-apa-saja-akun-rekening-resmi-shopee.md
 shp-akun-011,Mengatur Alamat dan Titik Lokasi Toko,shopee,akun-dan-toko,2,canonical,false,2026-03,,,shopee/akun-dan-toko/11-mengatur-alamat-dan-titik-lokasi-toko.md
@@ -85,14 +85,16 @@ shp-toko-031,Membuat Halaman Toko Lebih Menarik dengan Fitur Dekorasi Toko,shope
 shp-toko-032,Membuat Profil Toko yang Baik,shopee,akun-dan-toko,3,canonical,true,2026-01,,,shopee/akun-dan-toko/32-membuat-profil-toko-yang-baik.md
 shp-toko-033,Pentingnya Menjaga Keamanan Toko Anda,shopee,akun-dan-toko,1,canonical,false,2023-02,,,shopee/akun-dan-toko/33-pentingnya-menjaga-keamanan-toko-anda.md
 shp-toko-034,Tentang Kebijakan Logo & Banner Toko,shopee,akun-dan-toko,2,canonical,true,2025-09,,,shopee/akun-dan-toko/34-tentang-kebijakan-logo-banner-toko.md
+shp-akun-104,Kenapa akun/toko dibatasi — cek poin penalti dulu sebelum nebak penyebab lain,shopee,akun-dan-toko,2,canonical,true,2026-08,"shp-akun-101, shp-akun-103, shp-akun-010, shp-akun-009, shp-akun-014, shp-penalti-002, shp-penalti-003, shp-penalti-005, shp-toko-021, shp-toko-030, shp-produk-107",,shopee/akun-dan-toko/35-kenapa-akun-toko-dibatasi-cek-poin-penalti-dulu.md
 shp-toko-035,Tipe-tipe Penjual di Shopee,shopee,akun-dan-toko,1,canonical,true,2026-01,,,shopee/akun-dan-toko/35-tipe-tipe-penjual-di-shopee.md
 shp-performa-001,Memahami Performa Produk,shopee,analisis-performa-toko,2,canonical,true,2026-03,,,shopee/analisis-performa-toko/01-memahami-performa-produk.md
 shp-performa-002,Mengapa Data Penjualan Saya Berubah-ubah?,shopee,analisis-performa-toko,1,canonical,true,2026-01,,,shopee/analisis-performa-toko/02-mengapa-data-penjualan-saya-berubah-ubah.md
 shp-performa-003,Meningkatkan Strategi dengan Performa Toko,shopee,analisis-performa-toko,3,canonical,false,2026-02,,,shopee/analisis-performa-toko/03-meningkatkan-strategi-dengan-performa-toko.md
 shp-performa-004,Pentingnya Analisis Data,shopee,analisis-performa-toko,2,canonical,false,2026-03,,,shopee/analisis-performa-toko/04-pentingnya-analisis-data.md
 shp-performa-005,Tentang Performa Toko,shopee,analisis-performa-toko,2,canonical,true,2026-02,,,shopee/analisis-performa-toko/05-tentang-performa-toko.md
-shp-performa-101,"Benchmark angka sehat toko — ROAS, ACOS, CR, cancel rate, chat",shopee,analisis-performa-toko,2,canonical,true,2026-08,shp-performa-102,,shopee/analisis-performa-toko/06-benchmark-angka-sehat-toko.md
-shp-performa-102,"Matriks 4 kuadran produk — Bintang, Hidden Gem, Bocor Traffic, Evaluasi",shopee,analisis-performa-toko,2,canonical,true,2026-08,"shp-performa-101, shp-produk-101",,shopee/analisis-performa-toko/07-matriks-empat-kuadran-produk.md
+shp-performa-101,"Benchmark angka sehat toko — ROAS, ACOS, CR, cancel rate, chat",shopee,analisis-performa-toko,2,canonical,true,2026-08,"shp-performa-102, shp-performa-103",,shopee/analisis-performa-toko/06-benchmark-angka-sehat-toko.md
+shp-performa-102,"Matriks 4 kuadran produk — Bintang, Hidden Gem, Bocor Traffic, Evaluasi",shopee,analisis-performa-toko,2,canonical,true,2026-08,"shp-performa-101, shp-produk-101, shp-performa-103",,shopee/analisis-performa-toko/07-matriks-empat-kuadran-produk.md
+shp-performa-103,Kenapa performa toko turun — diagnosa cepat 5 area sebelum nebak penyebabnya,shopee,analisis-performa-toko,2,canonical,true,2026-08,"shp-performa-101, shp-performa-102, shp-akun-104, shp-produk-107, fnd-analisa-002",,shopee/analisis-performa-toko/08-kenapa-performa-toko-turun-diagnosa-5-area.md
 shp-afiliasi-001,1.0 Tentang Affiliate Marketing Solution (AMS),shopee,iklan-dan-promosi,3,canonical,true,2026-07,,,shopee/iklan-dan-promosi/01-10-tentang-affiliate-marketing-solution-ams.md
 shp-iklan-001,FAQ Iklan Google,shopee,iklan-dan-promosi,3,canonical,true,2026-07,,,shopee/iklan-dan-promosi/01-faq-iklan-google.md
 shp-promosi-001,Flash Sale Shopee,shopee,iklan-dan-promosi,2,canonical,true,2026-08,,,shopee/iklan-dan-promosi/01-flash-sale-shopee.md
@@ -115,7 +117,7 @@ shp-iklan-006,"Apa itu Iklan Shopee — jenis, syarat, dan kebijakan konten",sho
 shp-iklan-201,Cara membuat dan atribusi Iklan Produk GMV Max,shopee,iklan-dan-promosi,2,canonical,true,2026-08,"shp-iklan-006, shp-iklan-101",,shopee/iklan-dan-promosi/06b-cara-membuat-atribusi-iklan-gmv-max.md
 shp-iklan-202,Cara membuat Iklan Toko,shopee,iklan-dan-promosi,2,canonical,true,2026-08,shp-iklan-006,,shopee/iklan-dan-promosi/06c-cara-membuat-iklan-toko.md
 shp-iklan-203,Cara membuat Iklan Live dan Iklan Banner,shopee,iklan-dan-promosi,2,canonical,true,2026-08,shp-iklan-006,,shopee/iklan-dan-promosi/06d-cara-membuat-iklan-live-dan-banner.md
-shp-iklan-205,"Cara mengevaluasi performa Iklan Shopee (CTR, ACOS, ROAS)",shopee,iklan-dan-promosi,2,canonical,false,2026-08,"shp-iklan-006, shp-performa-101",,shopee/iklan-dan-promosi/06e-cara-evaluasi-performa-iklan-ctr-acos-roas.md
+shp-iklan-205,"Cara mengevaluasi performa Iklan Shopee (CTR, ACOS, ROAS)",shopee,iklan-dan-promosi,2,canonical,false,2026-08,"shp-iklan-006, shp-performa-101, shp-iklan-104",,shopee/iklan-dan-promosi/06e-cara-evaluasi-performa-iklan-ctr-acos-roas.md
 shp-promosi-007,Program Garansi Harga Terbaik,shopee,iklan-dan-promosi,3,canonical,true,2026-07,,,shopee/iklan-dan-promosi/07-program-garansi-harga-terbaik.md
 shp-promosi-008,Program Nominasi Pintar,shopee,iklan-dan-promosi,2,canonical,true,2026-07,,,shopee/iklan-dan-promosi/08-program-nominasi-pintar.md
 shp-promosi-009,Program Opsional Gratis Ongkir XTRA,shopee,iklan-dan-promosi,2,canonical,true,2026-08,,,shopee/iklan-dan-promosi/09-program-opsional-gratis-ongkir-xtra.md
@@ -136,6 +138,7 @@ shp-promosi-020,Syarat & Ketentuan Menominasikan Voucher Toko dalam Flash Vouche
 shp-promosi-021,Tentang Voucher Toko Saya,shopee,iklan-dan-promosi,3,canonical,true,2026-06,,,shopee/iklan-dan-promosi/21-tentang-voucher-toko-saya.md
 shp-promosi-022,Voucher Akselerasi Usaha Lokal,shopee,iklan-dan-promosi,1,canonical,true,2026-05,,,shopee/iklan-dan-promosi/22-voucher-akselerasi-usaha-lokal.md
 shp-promosi-023,Voucher Diskon Dinamis,shopee,iklan-dan-promosi,2,canonical,true,2026-02,,,shopee/iklan-dan-promosi/23-voucher-diskon-dinamis.md
+shp-iklan-104,"Pilih SKU yang siap diiklankan dulu, baru soal budget",shopee,iklan-dan-promosi,2,canonical,false,2026-09,"shp-iklan-205, shp-iklan-103, shp-performa-102, shp-produk-107",,shopee/iklan-dan-promosi/33-pilih-sku-yang-siap-diiklankan-sebelum-nambah-budget.md
 shp-biaya-001,Biaya Administrasi Penjual Shopee,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/01-biaya-administrasi-penjual-shopee.md
 shp-keuangan-001,Cara Kerja Dana Cepat di Shopee,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/01-cara-kerja-dana-cepat-di-shopee.md
 shp-biaya-002,Biaya Layanan Pembeli,shopee,keuangan,1,canonical,true,2026-02,,,shopee/keuangan/02-biaya-layanan-pembeli.md
@@ -179,8 +182,9 @@ shp-live-007,Program Seller Marketing Service (SMS) Live,shopee,live-dan-video,2
 shp-video-007,Voucher Shopee Video dan Skemanya,shopee,live-dan-video,2,canonical,true,2026-06,,,shopee/live-dan-video/07-voucher-shopee-video-dan-skemanya.md
 shp-live-008,Shopee Live XTRA,shopee,live-dan-video,2,canonical,true,2026-07,,,shopee/live-dan-video/08-shopee-live-xtra.md
 shp-live-009,Shopee Shop Partners Program,shopee,live-dan-video,1,canonical,true,2026-08,,,shopee/live-dan-video/09-shopee-shop-partners-program.md
-shp-live-010,Strategi Optimalkan Livestream untuk Tingkatkan Penjualan,shopee,live-dan-video,2,canonical,true,2026-05,,,shopee/live-dan-video/10-strategi-optimalkan-livestream-untuk-tingkatkan-penjualan.md
+shp-live-010,Strategi Optimalkan Livestream untuk Tingkatkan Penjualan,shopee,live-dan-video,2,canonical,true,2026-05,shp-live-101,,shopee/live-dan-video/10-strategi-optimalkan-livestream-untuk-tingkatkan-penjualan.md
 shp-live-011,Voucher Shopee Live dan Skemanya,shopee,live-dan-video,2,canonical,true,2026-08,,,shopee/live-dan-video/11-voucher-shopee-live-dan-skemanya.md
+shp-live-101,"Kenapa strategi Live Shopee beda dari TikTok — maksimalkan fitur, bukan kejar reach viral",shopee,live-dan-video,2,canonical,false,2026-09,"shp-live-010, shp-performa-102",,shopee/live-dan-video/12-kenapa-strategi-live-shopee-beda-dari-tiktok-maksimalkan-fitur.md
 shp-pengiriman-001,Layanan Dikelola Shopee,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-07,,,shopee/pengiriman-dan-pesanan/01-layanan-dikelola-shopee.md
 shp-pesanan-001,Mengelola dan Merespons Pembatalan Pesanan,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-06,,,shopee/pengiriman-dan-pesanan/01-mengelola-dan-merespons-pembatalan-pesanan.md
 shp-pesanan-002,Tentang Pembatalan Pesanan,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-07,,,shopee/pengiriman-dan-pesanan/02-tentang-pembatalan-pesanan.md
@@ -214,13 +218,14 @@ shp-pengiriman-064,Mencetak Resi dengan Optimal,shopee,pengiriman-dan-pesanan,2,
 shp-pengiriman-065,Mengambil Produk secara Optimal,shopee,pengiriman-dan-pesanan,2,canonical,true,2023-07,,,shopee/pengiriman-dan-pesanan/65-mengambil-produk-secara-optimal.md
 shp-pengiriman-066,Mengelola Beberapa Gudang Saya dengan Fitur Multi-Gudang,shopee,pengiriman-dan-pesanan,2,canonical,false,2026-03,,,shopee/pengiriman-dan-pesanan/66-mengelola-beberapa-gudang-saya-dengan-fitur-multi-gudang.md
 shp-pengiriman-067,Mengelola Fitur Cabang,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/67-mengelola-fitur-cabang.md
-shp-pengiriman-068,Mengoptimalkan Proses Inbound,shopee,pengiriman-dan-pesanan,2,canonical,true,2022-05,,,shopee/pengiriman-dan-pesanan/68-mengoptimalkan-proses-inbound.md
-shp-pengiriman-069,Optimalisasi Proses Outbound,shopee,pengiriman-dan-pesanan,2,canonical,true,2025-04,,,shopee/pengiriman-dan-pesanan/69-optimalisasi-proses-outbound.md
+shp-pengiriman-068,Mengoptimalkan Proses Inbound,shopee,pengiriman-dan-pesanan,2,canonical,true,2022-05,shp-pengiriman-101,,shopee/pengiriman-dan-pesanan/68-mengoptimalkan-proses-inbound.md
+shp-pengiriman-069,Optimalisasi Proses Outbound,shopee,pengiriman-dan-pesanan,2,canonical,true,2025-04,shp-pengiriman-101,,shopee/pengiriman-dan-pesanan/69-optimalisasi-proses-outbound.md
 shp-pengiriman-070,Pentingnya Surat Bukti Pengiriman Bagi Penjual,shopee,pengiriman-dan-pesanan,1,canonical,false,2023-02,,,shopee/pengiriman-dan-pesanan/70-pentingnya-surat-bukti-pengiriman-bagi-penjual.md
 shp-pengiriman-071,Program Pengiriman Kilat,shopee,pengiriman-dan-pesanan,3,canonical,true,2026-07,,,shopee/pengiriman-dan-pesanan/71-program-pengiriman-kilat.md
 shp-pengiriman-072,Cara Memantau Pesanan & Performa Setelah Promo Berakhir,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-03,,,shopee/pengiriman-dan-pesanan/72-cara-memantau-pesanan-performa-setelah-promo-berakhir.md
 shp-pengiriman-073,Tips Mengelola Pesanan & Performa Saat Promo Berlangsung,shopee,pengiriman-dan-pesanan,2,canonical,false,2026-03,,,shopee/pengiriman-dan-pesanan/73-tips-mengelola-pesanan-performa-saat-promo-berlangsung.md
-shp-pengiriman-074,Tips Pengiriman Tepat Waktu,shopee,pengiriman-dan-pesanan,3,canonical,true,2026-03,,,shopee/pengiriman-dan-pesanan/74-tips-pengiriman-tepat-waktu.md
+shp-pengiriman-074,Tips Pengiriman Tepat Waktu,shopee,pengiriman-dan-pesanan,3,canonical,true,2026-03,shp-pengiriman-101,,shopee/pengiriman-dan-pesanan/74-tips-pengiriman-tepat-waktu.md
+shp-pengiriman-101,SOP dasar inbound-outbound biar gak gagal kirim tepat waktu,shopee,pengiriman-dan-pesanan,2,canonical,false,2026-09,"shp-pengiriman-063, shp-pengiriman-065, shp-pengiriman-068, shp-pengiriman-069, shp-pengiriman-074",,shopee/pengiriman-dan-pesanan/75-sop-dasar-inbound-outbound-biar-gak-gagal-kirim-tepat-waktu.md
 shp-pengiriman-002,Anteraja,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/02-anteraja.md
 shp-pengiriman-003,Area Jangkauan SPX Express,shopee,pengiriman-dan-pesanan/jasa-kirim,1,canonical,false,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/03-area-jangkauan-spx-express.md
 shp-pengiriman-004,Aturan & Prosedur Klaim Barang Rusak/Hilang Saat Pengiriman,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/04-aturan-prosedur-klaim-barang-rusakhilang-saat-pengiriman.md
@@ -283,11 +288,11 @@ shp-produk-007,"Panduan Upload/Update Produk Obat Bebas, Obat Bebas Terbatas, da
 shp-produk-008,Produk Pre-order,shopee,produk,2,canonical,true,2026-04,,,shopee/produk/08-produk-pre-order.md
 shp-produk-009,Cara Memperbaiki Produk yang Diturunkan,shopee,produk,2,canonical,true,2026-04,,,shopee/produk/09-cara-memperbaiki-produk-yang-diturunkan.md
 shp-produk-010,FAQ Penjualan Produk Dilarang,shopee,produk,2,canonical,true,2026-08,,,shopee/produk/10-faq-penjualan-produk-dilarang.md
-shp-produk-011,Jenis Pelanggaran Produk di Shopee,shopee,produk,2,canonical,true,2026-02,,,shopee/produk/11-jenis-pelanggaran-produk-di-shopee.md
+shp-produk-011,Jenis Pelanggaran Produk di Shopee,shopee,produk,2,canonical,true,2026-02,shp-produk-107,,shopee/produk/11-jenis-pelanggaran-produk-di-shopee.md
 shp-produk-101,Riset keyword & traffic sebelum jualan biar lebih cepat laku,shopee,produk,1,canonical,false,tidak-diketahui,shp-produk-028,,shopee/produk/11-riset-keyword-dan-traffic-buat-seller-pemula.md
 shp-produk-102,Diagnosa toko sepi — cek funnel dulu sebelum nyalahin harga,shopee,produk,2,canonical,false,tidak-diketahui,"shp-produk-101, shp-akun-101",,shopee/produk/12-diagnosa-toko-sepi-lewat-funnel.md
 shp-produk-012,"Kebijakan Penjualan Produk Makanan, Minuman, dan Obat/Vitamin/Suplemen Palsu atau yang Dikemas Ulang",shopee,produk,1,canonical,true,2026-08,,,shopee/produk/12-kebijakan-penjualan-produk-makanan-minuman-dan-obatvitaminsuplemen-pal.md
-shp-produk-013,Meningkatkan Kualitas Daftar Produk yang Dihapus/Diblokir,shopee,produk,3,canonical,true,2026-08,,,shopee/produk/13-meningkatkan-kualitas-daftar-produk-yang-dihapusdiblokir.md
+shp-produk-013,Meningkatkan Kualitas Daftar Produk yang Dihapus/Diblokir,shopee,produk,3,canonical,true,2026-08,shp-produk-107,,shopee/produk/13-meningkatkan-kualitas-daftar-produk-yang-dihapusdiblokir.md
 shp-produk-103,Pola bikin produk hero dan scale up sebelum kompetitor masuk,shopee,produk,2,canonical,false,tidak-diketahui,"shp-produk-101, shp-produk-102",,shopee/produk/13-pola-bikin-produk-hero-dan-scale-up.md
 shp-produk-014,Produk yang Dilarang: Bahan Kimia Berbahaya dan Produk yang Mudah Meledak Beserta Turunannya,shopee,produk,1,canonical,true,2026-06,,,shopee/produk/14-produk-yang-dilarang-bahan-kimia-berbahaya-dan-produk-yang-mudah-meled.md
 shp-produk-104,"Tiga syarat produk laris — nongol, dicari, dibeli",shopee,produk,1,canonical,false,tidak-diketahui,"shp-produk-101, shp-iklan-101",,shopee/produk/14-tiga-syarat-produk-laris.md
@@ -295,7 +300,7 @@ shp-produk-105,Laris tanpa harus jadi yang termurah,shopee,produk,2,canonical,fa
 shp-produk-015,Produk yang Dilarang: Penjualan Produk Isi Ulang/Top up Saldo Uang Digital,shopee,produk,1,canonical,true,2026-07,,,shopee/produk/15-produk-yang-dilarang-penjualan-produk-isi-ulangtop-up-saldo-uang-digit.md
 shp-produk-106,Cara mencari produk potensial jadi calon produk hero,shopee,produk,2,canonical,false,tidak-diketahui,"shp-produk-103, shp-produk-104",,shopee/produk/16-cara-mencari-produk-potensial.md
 shp-produk-016,Produk yang Dilarang: Penjualan Produk Media dan Layanan yang Mengandung Unsur Pornografi,shopee,produk,2,canonical,true,2026-04,,,shopee/produk/16-produk-yang-dilarang-penjualan-produk-media-dan-layanan-yang-mengandun.md
-shp-produk-017,Tentang Pelanggaran Produk,shopee,produk,2,canonical,true,2026-01,,,shopee/produk/17-tentang-pelanggaran-produk.md
+shp-produk-017,Tentang Pelanggaran Produk,shopee,produk,2,canonical,true,2026-01,shp-produk-107,,shopee/produk/17-tentang-pelanggaran-produk.md
 shp-produk-018,Tentang Penyalahgunaan Merek,shopee,produk,1,canonical,true,2026-01,,,shopee/produk/18-tentang-penyalahgunaan-merek.md
 shp-produk-019,Cara Meningkatkan Kualitas Daftar Produk,shopee,produk,2,canonical,true,2026-04,,,shopee/produk/19-cara-meningkatkan-kualitas-daftar-produk.md
 shp-produk-020,Mengoptimalkan Daftar Produk Anda,shopee,produk,2,canonical,true,2026-08,,,shopee/produk/20-mengoptimalkan-daftar-produk-anda.md
@@ -308,6 +313,7 @@ shp-produk-026,Mengubah Informasi Produk,shopee,produk,3,canonical,true,2026-08,
 shp-produk-027,Tentang Kategori dan Atribut Produk,shopee,produk,2,canonical,false,2026-08,,,shopee/produk/27-tentang-kategori-dan-atribut-produk.md
 shp-produk-028,Meng-upload Daftar Produk,shopee,produk,3,canonical,true,2026-06,,,shopee/produk/28-meng-upload-daftar-produk.md
 shp-produk-029,Tips Mengoptimalkan Daftar Produk,shopee,produk,2,canonical,false,2026-08,,,shopee/produk/29-tips-mengoptimalkan-daftar-produk.md
+shp-produk-107,"Produk turun, diblokir, atau dihapus — dua penyebab yang sering ketuker",shopee,produk,2,canonical,true,2026-08,"shp-produk-009, shp-produk-011, shp-produk-013, shp-produk-017, shp-produk-018, shp-produk-019, shp-produk-020, shp-produk-029, shp-akun-104, shp-performa-103, fnd-analisa-002",,shopee/produk/30-kenapa-produk-turun-dihapus-diblokir-dua-penyebab-beda.md
 tts-000,Kenapa jualan di TikTok Shop beda dari marketplace lain,tiktok-shop,(pengantar),1,canonical,false,2024-Q2 / 2026-06,"tts-produk-009, tts-segmentasi-000, tts-ads-001, tts-konten-001",,tiktok-shop/00-kenapa-jualan-di-tiktok-shop-beda.md
 tts-afiliasi-005,Kenapa dan cara mulai kolaborasi affiliate,tiktok-shop,afiliasi,1,canonical,true,2026-01,"tts-afiliasi-006, tts-afiliasi-007, tts-konten-011",,tiktok-shop/afiliasi/01-kenapa-dan-cara-kolaborasi-affiliate.md
 tts-afiliasi-001,Open vs Targeted Collaboration — pilih yang mana,tiktok-shop,afiliasi,1,canonical,true,2025-10,"tts-segmentasi-000, tts-afiliasi-002, tts-afiliasi-003, tts-konten-004",,tiktok-shop/afiliasi/01-open-vs-targeted-collaboration.md

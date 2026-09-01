@@ -2097,3 +2097,33 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber identik. Dieksekusi gabung, tapi arahnya **kebalik dari rekomendasi awal**: `fnd-harga-004` yang dipertahankan (bukan `fnd-psikologi-004`) — setelah dibaca isi keduanya, ekstraksi `fnd-harga-004` jauh lebih lengkap (punya 5 prinsip Blue Ocean + 6 pendekatan pricing yang gak ada di `fnd-psikologi-004`; sekalian ketahuan & dibetulkan bug hitungan lama "lima pendekatan" padahal isinya 6). "Pertimbangan pembeli" dan "penerapan Blue Ocean di level toko" dari `fnd-psikologi-004` digabung masuk ke `fnd-harga-004`. `fnd-psikologi-004` diarsipkan, `fnd-harga-004` naik status jadi `canonical`.
 **Status:** ✅ tertutup (2026-08-31)
+
+---
+
+## F. Batch pengisian gap Shopee — Tier 1/2 dari LAPORAN-KB (2026-09-01)
+
+Yohan minta 6 topik spesifik diisi (lihat brief di chat: performa toko, produk turun/dihapus/diblokir,
+akun dibatasi, strategi live, SOP pengiriman, evaluasi iklan). Enam entry baru ditulis
+(`shp-performa-103`, `shp-produk-107`, `shp-akun-104`, `shp-live-101`, `shp-pengiriman-101`,
+`shp-iklan-104`) — detail penuh di `MERGE-LOG.md`. Satu temuan taksonomi diangkat di sini karena
+butuh keputusan Yohan, bukan diputuskan sendiri.
+
+### S-D-SCOPE-001 · `shp-produk-013` judulnya nyasar — isinya bukan "tingkatkan kualitas listing"
+
+**Status:** terbuka · **Prioritas:** rendah (gak bikin salah jawab kalau tim baca isinya, tapi bikin salah arah kalau cuma baca judul)
+**Entry terdampak:** `shp-produk-013` (judul: "Meningkatkan Kualitas Daftar Produk yang Dihapus/Diblokir")
+
+**Masalahnya:**
+Judul entry ini bikin kesan satu keluarga dengan `shp-produk-019/020/029` (tips foto/judul/deskripsi). Isinya sebenarnya tabel lengkap barang terlarang/kebijakan yang bikin produk dihapus/diblokir — satu keluarga dengan `shp-produk-011` (Jenis Pelanggaran Produk) dan `shp-produk-017` (Tentang Pelanggaran Produk). Judul aslinya memang begitu di artikel resmi Shopee sumbernya, jadi bukan salah transkripsi — tapi tetap bikin taksonomi mental "5 artikel soal kualitas listing" jadi salah (yang benar: 3 soal kualitas listing + 1 soal diturunkan + 1 yang judulnya nyasar tapi isinya soal kebijakan/pelanggaran).
+
+**Kalau salah diputuskan:**
+Kalau tim cuma scan judul waktu jawab member yang tanya "kok listing saya kurang optimal", `shp-produk-013` bisa ke-skip karena dikira duplikat 019/020/029 — padahal isinya justru daftar kebijakan yang lebih relevan buat pertanyaan "kenapa produk saya dihapus" (bukan "kenapa listing saya kurang bagus").
+
+**Opsi:**
+- **A** — Biarkan judul apa adanya (sesuai sumber resmi Shopee), cukup andalkan `related:` yang sudah ditambahkan ke `shp-produk-011/017` dan entry baru `shp-produk-107` untuk nyambungin taksonominya.
+- **B** — Tambah catatan editorial di judul (mis. "Meningkatkan Kualitas Daftar Produk yang Dihapus/Diblokir (berisi daftar kebijakan, bukan tips foto/judul)") supaya jelas dari judul doang.
+- **C** — Pindah folder/kategori jadi bagian dari grup `pelanggaran` kalau taksonomi Shopee mau dipecah lebih rinci ke depan (folder baru `produk/pelanggaran/`).
+
+**Rekomendasi:** A untuk sekarang — sudah dijembatani lewat `related:` dan `shp-produk-107` (entry baru yang eksplisit misahin dua jalur ini). B kalau ternyata masih sering ke-skip di lapangan.
+
+**Keputusan Yohan:** _(kosong)_
