@@ -1908,7 +1908,7 @@ Saya baca satu-satu ke-68 entry (bukan cuma judul), pakai tes dari skill: "apaka
 
 ### S-D-DEPTH-shp-ekspor-001 / -002 / shp-mall-003 · 3 artikel resmi masih kepanjangan, belum dipecah
 
-**Status:** terbuka
+**Status:** ✅ tertutup (2026-08-31)
 **Entry terdampak:** `shp-ekspor-001` (Program Ekspor Shopee FLEXI, 6.634 kata), `shp-ekspor-002` (Tentang Program Ekspor Shopee, 5.234 kata), `shp-mall-003` (Penjual Shopee Mall, 5.033 kata)
 
 **Masalahnya:**
@@ -1924,7 +1924,6 @@ Gak fatal (member masih dapat jawaban, cuma harus scroll artikel panjang) — ta
 **Rekomendasi:** A, sesuai pola yang sudah dipakai di `shp-iklan-006` — tapi ini kerja baca+tulis ulang isi, bukan keputusan ya/tidak, jadi butuh sesi khusus (mirip `M-D-MERGE-02` yang juga nunggu audit isi).
 
 **Keputusan Yohan (2026-08-31):** Opsi B — biarkan utuh, pecah kalau dibutuhkan (bukan preemptif). Belum ada tanda ketiga entry ini bikin masalah nyata, jadi gak diprioritaskan sekarang. Kalau ke depan kelihatan sering "dikutip sepotong" atau ada permintaan konkret dari tim, baru dipecah sesuai pola `shp-iklan-006`.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
@@ -1934,7 +1933,7 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 
 ### S-D-MERGE-01 · Algoritma jahat vs cek data toko — dua versi topik sama
 
-**Status:** terbuka · **Prioritas:** sedang (dua entry hidup untuk pertanyaan yang sama)
+**Status:** ✅ tertutup (2026-08-31) · **Prioritas:** sedang (dua entry hidup untuk pertanyaan yang sama)
 **Entry terdampak:** `fnd-analisa-001` (existing, canonical, 210 kata) & `fnd-analisa-004` (baru, blocked, 288 kata)
 
 **Masalahnya:** Dua entry ngejelasin hal yang sama — jangan buru-buru nyalahin algoritma, cek data toko dulu — dari sumber yang kelihatannya video YouTube Yohan yang sama, ditranskrip dua kali di batch berbeda. `fnd-analisa-004` (baru) sedikit lebih detail: 5 poin cek vs 4 poin, ditambah 4 pertanyaan diagnosa vs 2.
@@ -1949,13 +1948,12 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Rekomendasi:** A — entry baru mencakup semua poin yang lama plus tambahan, jadi gak ada yang hilang; lebih murah daripada racik ulang jadi entry gabungan (opsi B).
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi — dua entry ini memang dari sumber yang sama. Dieksekusi opsi **B** (gabung, bukan A murni): `fnd-analisa-001` (confidence lebih tinggi + ada tabel Angka & patokan yang `fnd-analisa-004` gak punya) dipertahankan sebagai versi kanonik, 2 pertanyaan diagnosa tambahan dari `fnd-analisa-004` digabung masuk ke `fnd-analisa-001`. `fnd-analisa-004` dipindah ke `kb/_archive/fundamental-duplikat-batch-shopee/`, status `archived`.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
 ### S-D-MERGE-02 · Produk turun: fatik vs mati — dua versi topik sama
 
-**Status:** terbuka · **Prioritas:** sedang
+**Status:** ✅ tertutup (2026-08-31) · **Prioritas:** sedang
 **Entry terdampak:** `fnd-analisa-002` (existing, canonical, 195 kata) & `fnd-analisa-005` (baru, blocked, 318 kata)
 
 **Masalahnya:** Sama seperti S-D-MERGE-01 — kemungkinan sumber video yang sama (omzet turun: fatigue vs siklus produk / awal kehancuran), dua batch beda kedalaman.
@@ -1966,13 +1964,12 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Rekomendasi:** A, alasan sama seperti S-D-MERGE-01.
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Dieksekusi gabung: `fnd-analisa-002` dipertahankan (confidence tinggi + tabel Angka & patokan lengkap; `fnd-analisa-005` sempat kebawa cacat copy-paste — bagian "Angka & patokan" kedua di `fnd-analisa-005` isinya boilerplate soal "artikel resmi Shopee" yang gak relevan buat entry transkrip YouTube, indikasi typo/template bocor dari entry lain). 1 pertanyaan diagnosa tambahan digabung ke `fnd-analisa-002`. `fnd-analisa-005` diarsipkan.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
 ### S-D-MERGE-03 · Peluang rupiah melemah — dua versi topik sama
 
-**Status:** terbuka · **Prioritas:** rendah-sedang (nyentuh `sensitif_waktu: true`)
+**Status:** ✅ tertutup (2026-08-31) · **Prioritas:** rendah-sedang (nyentuh `sensitif_waktu: true`)
 **Entry terdampak:** `fnd-mindset-003` (existing, canonical, 156 kata) & `fnd-mindset-005` (baru, blocked, 222 kata)
 
 **Masalahnya:** Sumber kemungkinan video yang sama, ditranskrip dua kali. `fnd-mindset-005` (baru) confidence-nya malah lebih rendah (`rendah` vs `sedang`) meski katanya lebih banyak — cek isinya sebelum milih, jangan pilih berdasar panjang doang.
@@ -1983,13 +1980,12 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Rekomendasi:** A, tapi butuh baca isi (confidence `fnd-mindset-005` lebih rendah jadi sinyal buat gak otomatis menang berdasar volume).
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Sudah dibaca isi keduanya (bukan cuma banding jumlah kata) — `fnd-mindset-003` dipertahankan: confidence lebih tinggi (`sedang` vs `rendah`) dan satu-satunya yang punya "Yang bikin gagal" + "Pertanyaan diagnosa" lengkap. 1 insight tambahan dari `fnd-mindset-005` (seller besar berstruktur biaya gemuk lebih rentan) digabung masuk. `fnd-mindset-005` diarsipkan.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
 ### S-D-MERGE-04 · Omni-channel sistem dasar — dua versi topik sama
 
-**Status:** terbuka · **Prioritas:** rendah
+**Status:** ✅ tertutup (2026-08-31) · **Prioritas:** rendah
 **Entry terdampak:** `fnd-operasional-001` (existing, canonical, 178 kata) & `fnd-operasional-005` (baru, blocked, 327 kata)
 
 **Masalahnya:** Sumber sama, ditranskrip ulang di batch berbeda.
@@ -2000,13 +1996,12 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Rekomendasi:** A.
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Isinya nyaris identik tanpa fakta tambahan berarti di versi baru — dipertahankan `fnd-operasional-001` (confidence lebih tinggi: `tinggi` vs `sedang`), bukan opsi A seperti rekomendasi awal. `fnd-operasional-005` diarsipkan tanpa ada isi unik yang perlu digabung.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
 ### S-D-MERGE-05 · Tujuh langkah efisiensi operasional — dua versi topik sama
 
-**Status:** terbuka · **Prioritas:** rendah
+**Status:** ✅ tertutup (2026-08-31) · **Prioritas:** rendah
 **Entry terdampak:** `fnd-operasional-002` (existing, canonical, 187 kata) & `fnd-operasional-006` (baru, blocked, 255 kata)
 
 **Masalahnya:** Sumber sama, ditranskrip ulang.
@@ -2017,13 +2012,12 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Rekomendasi:** A.
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Dipertahankan `fnd-operasional-002` (confidence lebih tinggi), bukan opsi A seperti rekomendasi awal. 1 pertanyaan diagnosa (soal ROAS) dari `fnd-operasional-006` digabung masuk. `fnd-operasional-006` diarsipkan.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
 ### S-D-MERGE-06 · Survival mode / jaga penjualan stabil — dua versi topik sama
 
-**Status:** terbuka · **Prioritas:** sedang (nyentuh `sensitif_waktu: true`, terkait daya beli/rupiah)
+**Status:** ✅ tertutup (2026-08-31) · **Prioritas:** sedang (nyentuh `sensitif_waktu: true`, terkait daya beli/rupiah)
 **Entry terdampak:** `fnd-operasional-003` (existing, canonical, 261 kata) & `fnd-operasional-007` (baru, blocked, 298 kata)
 
 **Masalahnya:** Dua entry soal jaga penjualan stabil saat daya beli/rupiah tertekan tanpa nambah budget iklan — kemungkinan sumber sama, plus entry lama juga udah nge-link ke `fnd-mindset-003` (yang di S-D-MERGE-03 juga lagi didudukin).
@@ -2034,13 +2028,12 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Rekomendasi:** A, tapi putuskan bareng S-D-MERGE-03 (dua-duanya saling `related` dan sama-sama soal kondisi ekonomi).
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Dipertahankan `fnd-operasional-003` (sudah menggabung 2 sumber sekaligus — video 7 + video 4 — jadi lebih lengkap cakupannya), bukan opsi A seperti rekomendasi awal. Angka konkret dari `fnd-operasional-007` yang gak ada di versi lama (posting 1-3 video/hari, live 3-5x/minggu) digabung masuk. `fnd-operasional-007` diarsipkan.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
 ### S-D-MERGE-07 · Repeat order rendah — dua versi topik sama
 
-**Status:** terbuka · **Prioritas:** sedang (topik yang sering ditanya)
+**Status:** ✅ tertutup (2026-08-31) · **Prioritas:** sedang (topik yang sering ditanya)
 **Entry terdampak:** `fnd-analisa-003` (existing, canonical, 192 kata) & `fnd-retensi-001` (baru, blocked, 285 kata, folder baru `retensi-dan-repeat-order/`)
 
 **Masalahnya:** Sama-sama soal kenapa repeat order rendah, sumber kemungkinan video yang sama. Bedanya kali ini juga ada pertanyaan taksonomi: yang lama masuk kategori `analisa` (folder `analisa-dan-diagnosa`), yang baru dikategorikan `retensi-dan-repeat-order` (folder baru, gw bikin karena push-ready udah motong topik ini jadi domainnya sendiri).
@@ -2055,13 +2048,12 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Rekomendasi:** A — sekaligus keputusan taksonomi: `retensi-dan-repeat-order` layak jadi kategori sendiri karena topik ini juga disenggol beberapa entry lain (`fnd-operasional-007`, dll), bukan cuma satu entry nyempil di `analisa`.
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama. Dieksekusi opsi **B**, bukan A — dipertahankan `fnd-analisa-003` (confidence lebih tinggi + sudah punya inbound `related` dari banyak entry lain, mindahnya lebih mahal daripada manfaatnya). 2 pertanyaan diagnosa + penjelasan segmentasi target market dari `fnd-retensi-001` digabung masuk ke `fnd-analisa-003`. `fnd-retensi-001` diarsipkan, folder `retensi-dan-repeat-order/` dihapus (kosong). Taksonomi "retensi jadi kategori sendiri" ditunda — belum ada entry lain yang butuh folder itu setelah ini digabung.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
 ### S-D-MERGE-08 · Jual value/mahal — dua entry beda kategori, topik sama
 
-**Status:** terbuka · **Prioritas:** sedang-tinggi (langsung nyentuh strategi harga = uang member)
+**Status:** ✅ tertutup (2026-08-31) · **Prioritas:** sedang-tinggi (langsung nyentuh strategi harga = uang member)
 **Entry terdampak:** `fnd-psikologi-003` (existing, canonical, kategori `psikologi`, "Jual lebih mahal tapi tetap laku") & `fnd-harga-003` (baru, blocked, kategori `harga`, "Jual value, bukan jual harga murah")
 
 **Masalahnya:** Dua entry ngajarin prinsip yang sama (jual value, bukan harga murah) tapi dari sumber beda dan dikategorikan beda pula — satu di `psikologi-pembeli-dan-nilai`, satu (baru) di `strategi-harga`. Ini juga nyentuh pertanyaan taksonomi: topik "value vs harga" ini domainnya psikologi pembeli atau strategi harga?
@@ -2076,13 +2068,12 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Rekomendasi:** B untuk sekarang (dua sudut pandang ini genuinely beda — psikologi vs mekanisme pricing — worth dipertahanin terpisah), tapi baca isi keduanya dulu buat pastiin gak ada kontradiksi konkret (bukan cuma beda sudut pandang).
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber sama — setelah dibaca isi keduanya, ternyata BUKAN dua sudut pandang beda (rekomendasi awal salah baca): kedua entry sama-sama daftar "7 trik menaikkan persepsi value", 6 dari 7 poinnya identik. Dieksekusi opsi **A/C** gabung: `fnd-psikologi-003` dipertahankan (confidence lebih tinggi + ada tabel Angka & patokan konkret yang `fnd-harga-003` gak punya). 1 trik unik dari `fnd-harga-003` ("jelaskan alasan harga saat live/deskripsi") ditambahkan sebagai poin ke-8. `fnd-harga-003` diarsipkan.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
 ### S-D-MERGE-09 · Blue Ocean vs harga — dua entry beda kategori, topik sama
 
-**Status:** terbuka · **Prioritas:** sedang
+**Status:** ✅ tertutup (2026-08-31) · **Prioritas:** sedang
 **Entry terdampak:** `fnd-psikologi-004` (existing, canonical, kategori `psikologi`, dari materi JAWARA 15) & `fnd-harga-004` (baru, blocked, kategori `harga`, dari materi JAWARA 15 juga — **sumbernya sama persis**: `canva/jawara-15.md` vs `slide-mea-internal/jawara15-laris-di-marketplace-meski-tanpa-perang-harga.md`)
 
 **Masalahnya:** Ini kemungkinan besar SUMBER YANG SAMA PERSIS (JAWARA 15, materi training MEA yang sama), diekstrak dua kali dari dua tempat penyimpanan berbeda (`canva/` batch lama vs `slide-mea-internal/` batch baru) dengan hasil ekstraksi yang beda kata-katanya.
@@ -2096,7 +2087,6 @@ Sembilan overlap ini KETANGKEP `overlap.py` (bukan ditebak manual) waktu ngeband
 **Rekomendasi:** A — karena sumbernya identik (bukan dua video/observasi beda), ini kandidat dedup paling jelas dari kesembilan S-D-MERGE ini.
 
 **Keputusan Yohan (2026-08-31):** Dikonfirmasi sumber identik. Dieksekusi gabung, tapi arahnya **kebalik dari rekomendasi awal**: `fnd-harga-004` yang dipertahankan (bukan `fnd-psikologi-004`) — setelah dibaca isi keduanya, ekstraksi `fnd-harga-004` jauh lebih lengkap (punya 5 prinsip Blue Ocean + 6 pendekatan pricing yang gak ada di `fnd-psikologi-004`; sekalian ketahuan & dibetulkan bug hitungan lama "lima pendekatan" padahal isinya 6). "Pertimbangan pembeli" dan "penerapan Blue Ocean di level toko" dari `fnd-psikologi-004` digabung masuk ke `fnd-harga-004`. `fnd-psikologi-004` diarsipkan, `fnd-harga-004` naik status jadi `canonical`.
-**Status:** ✅ tertutup (2026-08-31)
 
 ---
 
