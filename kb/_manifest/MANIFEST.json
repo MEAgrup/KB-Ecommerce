@@ -2959,7 +2959,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-026",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/02-anteraja.md"
   },
@@ -2972,7 +2972,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-038",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/03-area-jangkauan-spx-express.md"
   },
@@ -2985,7 +2985,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040, shp-pengiriman-039",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/04-aturan-prosedur-klaim-barang-rusakhilang-saat-pengiriman.md"
   },
@@ -2998,7 +2998,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-016",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/05-bagaimana-saya-dapat-meminta-jasa-kirim-melakukan-pick-up-pesanan-saya.md"
   },
@@ -3011,8 +3011,8 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
-    "decisions": "",
+    "related": "shp-pengiriman-040, shp-pengiriman-039",
+    "decisions": "S-D-CONFLICT-006",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/06-bluebird-kirim.md"
   },
   {
@@ -3024,7 +3024,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-pengiriman-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/07-cara-terbaik-menyerahkan-pesanan-ke-jasa-kirim.md"
   },
@@ -3037,7 +3037,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-009, shp-pengiriman-033",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/08-cod-bayar-di-tempat.md"
   },
@@ -3050,7 +3050,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-008, shp-pengiriman-033",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/09-faq-cod-bayar-di-tempat.md"
   },
@@ -3063,7 +3063,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-pengiriman-026, shp-pengiriman-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/10-faq-jasa-kirim-di-shopee.md"
   },
@@ -3076,7 +3076,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-pengiriman-023, shp-pengiriman-022, shp-pengiriman-032",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/11-faq-jasa-kirim-yang-tidak-didukung-shopee.md"
   },
@@ -3089,7 +3089,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-03",
-    "related": "",
+    "related": "shp-pengiriman-024",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/12-faq-jne-express.md"
   },
@@ -3102,7 +3102,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-09",
-    "related": "",
+    "related": "shp-pengiriman-026",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/13-faq-mengatur-jasa-kirim.md"
   },
@@ -3115,7 +3115,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-028",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/14-faq-ongkos-kirim-panduan-mengukur-ukuran-paket.md"
   },
@@ -3128,7 +3128,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-029, shp-pengiriman-041",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/15-faq-pengiriman-instant-instant-prioritas.md"
   },

@@ -1828,6 +1828,32 @@ Kalau tim jawab pertanyaan "boleh ganti username lagi gak?" pakai aturan yang sa
 
 ---
 
+### S-D-CONFLICT-006 · Jarak jangkauan Bluebird Kirim beda di 2 bagian artikel yang sama (`shp-pengiriman-006`)
+
+**Status:** terbuka
+**Entry terdampak:** `shp-pengiriman-006` (Bluebird Kirim, `valid_as_of: 2026-08`)
+
+**Masalahnya:**
+Ketemu waktu ngerjain full-template pass `shp-pengiriman-006` di folder `pengiriman-dan-pesanan/jasa-kirim`. Dalam SATU artikel sumber yang sama, ada dua angka berbeda soal jarak maksimum jangkauan Bluebird Kirim:
+- Tabel "Detail Ketentuan" nyebut baris **Jarak Pengiriman: 60km**.
+- Bagian catatan lain di artikel yang sama bilang: "Jika Anda tidak bisa memilih jasa kirim Bluebird Kirim, area Anda mungkin belum masuk jangkauan layanan jasa kirim Bluebird Kirim atau **melebihi 80km**."
+
+Dua angka ini beda (60km vs 80km) padahal sumbernya sama persis (satu artikel, satu tanggal scraping). Kemungkinan salah satu bagian belum di-update konsisten saat Shopee mengubah batas jangkauan, atau salah satu angka adalah typo dari penulis artikel aslinya.
+
+**Kalau salah diputuskan:**
+Kalau tim jawab pertanyaan "toko saya jaraknya 70km dari titik kurir, bisa pakai Bluebird Kirim gak?" pakai angka yang salah, member bisa dikasih ekspektasi keliru (dibilang bisa padahal gak, atau sebaliknya).
+
+**Opsi:**
+- **A** — Anggap 60km (angka di tabel resmi ketentuan) sebagai yang berlaku, catatan 80km dianggap keliru/ketinggalan update.
+- **B** — Biarkan dua-duanya apa adanya, ditandai lewat Batasan di `shp-pengiriman-006` (sudah dilakukan) — jangan pilih salah satu tanpa konfirmasi.
+- **C** — Cek ke sumber resmi Shopee/Bluebird terbaru buat konfirmasi angka mana yang benar-benar aktif.
+
+**Rekomendasi:** B untuk sekarang (sudah ditandai di Batasan `shp-pengiriman-006`) — C kalau ada akses verifikasi ke sumber resmi Shopee/Bluebird terkini.
+
+**Keputusan Yohan:** _(kosong)_
+
+---
+
 ## 2. Indikasi usang (D-OUTDATED)
 
 ### S-D-OUTDATED-001 · Seluruh folder `pengumuman-dan-kebijakan-terbaru` (15 entry)

@@ -11,10 +11,19 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/bluebird-kirim.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-040, shp-pengiriman-039]
+decisions: [S-D-CONFLICT-006]
 ---
 # Bluebird Kirim
 
 ## Ringkasan
+Bluebird Kirim = jasa kirim instant, khusus Jabodetabek (dalam kota). Pick-up only, jam operasional 08.00-17.00 WIB, kirim SAMA HARI maks. 4 jam setelah pick-up. Ongkir: 0-3km Rp20.000, >3km Rp5.500/km. Maks. ukuran paket 135x90x80cm, maks. berat 200kg. 10 kategori produk dilarang (alkohol, senjata, judi/pornografi, uang asli/palsu, bahan peledak/kimia/radioaktif, obat terlarang, barang berbahaya, makanan cepat basi).
+
+## Kapan ini dipakai
+Dipakai kalau member (toko di Jabodetabek) nanya detail layanan, ongkir, atau kendala teknis (status gak update, gagal pick-up, "Alamat Tidak Didukung") jasa kirim Bluebird Kirim. Buat Asuransi Pengiriman, arahkan ke `shp-pengiriman-040`; buat panduan pengemasan, arahkan ke `shp-pengiriman-039`.
+
+## Isi
+
 **Apa itu Bluebird Kirim?**
 
 
@@ -104,3 +113,30 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Berikan perlindungan terhadap produk yang Anda kirim dari kehilangan/kerusakan selama pengiriman. Pelajari lebih lanjut tentang[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345).
   - Untuk mendapatkan informasi seputar pengiriman pesanan atau kendala dalam proses pengiriman, Anda dapat[ Menghubungi Pihak Jasa Kirim](https://seller.shopee.co.id/edu/article/14227).
   - Apabila terdapat pengajuan pengembalian barang/dana, pelajari lebih lanjut terkait[ FAQ Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/article/17055/faq-pengembalian-barang-dan-dana).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jangkauan lokasi | Jabodetabek (dalam kota) |
+| Jarak pengiriman maks. (tabel ketentuan) | 60km — TAPI lihat Batasan, ada angka 80km di bagian lain |
+| Ongkir 0-3km | Rp20.000 |
+| Ongkir >3km | Rp5.500/km |
+| Waktu pengiriman | sama hari, maks. 4 jam setelah pick-up |
+| Jam operasional pick-up | 08.00-17.00 WIB |
+| Maks. ukuran paket | 135x90x80cm |
+| Maks. berat | 200kg |
+| Jumlah kategori produk dilarang | 10 kategori |
+| Notifikasi gagal pick-up | dikirim tiap jam 7 pagi |
+
+## Pertanyaan diagnosa
+
+1. **Member di luar Jabodetabek mau pakai Bluebird Kirim, bisa?** GAK BISA — Bluebird Kirim cuma jangkau Jabodetabek dalam kota.
+2. **Member mau tau kenapa gak bisa pilih Bluebird Kirim di halaman produk?** Kemungkinan area toko belum masuk jangkauan layanan, atau jaraknya melebihi batas layanan (lihat Batasan soal angka jarak yang berbeda di sumber).
+3. **Kurir Bluebird nanya "dua angka kode pengiriman" ke member, itu apa?** Arahkan kurir buat hubungi call center Bluebird lewat aplikasi driver/kurir, atau member sendiri hubungi Customer Service Bluebird Kirim buat pengecekan.
+4. **Status pesanan Bluebird gak keupdate padahal udah dipick-up kurir?** Hubungi CS Shopee, lampirkan foto/bukti pengambilan barang oleh kurir DAN screenshot chat dari Pembeli yang konfirmasi terima pesanan.
+5. **Status pesanan Bluebird udah "Selesai" tapi kurir belum pernah datang pick-up?** Ini anomali — segera hubungi CS Shopee buat pengecekan lebih lanjut, jangan anggap pesanan benar-benar terkirim.
+6. **Member mau kirim paket 250kg pakai Bluebird Kirim?** GAK BISA — maks. berat yang didukung Bluebird Kirim adalah 200kg.
+
+## Batasan
+2 gap ditemukan di sumber: (1) Tabel ketentuan menyebut "Jarak Pengiriman" maks. **60km**, tapi bagian catatan lain di artikel yang sama bilang area gak kebaca Bluebird Kirim kalau "melebihi **80km**" — dua angka ini beda dan sumbernya SAMA-sama resmi (satu artikel), jadi kemungkinan salah satunya update lama yang belum konsisten. Dicatat di `DECISIONS.md` (S-D-CONFLICT-006), jangan pilih salah satu tanpa konfirmasi. (2) Baris tabel kendala "Kurir mengembalikan pesanan yang sudah di-pick up" solusinya KOSONG di sumber — gak tersalin. Arahkan member hubungi CS Shopee langsung buat kasus ini.

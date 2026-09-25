@@ -11,10 +11,18 @@ valid_as_of: 2026-05
 sources:
   - file: pp---jasa-kirim/faq-jasa-kirim-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-026, shp-pengiriman-005]
 ---
 # FAQ Jasa Kirim di Shopee
 
 ## Ringkasan
+FAQ 2 bagian: (1) **Mengaktifkan Jasa Kirim** — gak bisa aktifkan sebelum upload produk, cek area jangkauan dulu, alokasi jasa kirim maks. 5 MENIT, salah input resi bisa diedit maks. 3 HARI (kalau resi tidak sah; resi sah tapi buat pesanan lain gak bisa diubah lagi), produk berbahaya (cairan/baterai/magnet/mudah terbakar) wajib tandai opsi "Produk Berbahaya". (2) **Mengirimkan Pesanan** — notifikasi "alamat tidak didukung" cek alamat Pembeli, kurir salah bikin status gak update otomatis (risiko keterlambatan/pembatalan), drop-off BELUM tersedia buat sejumlah jasa kirim Instant/Sameday tertentu (lihat Angka & patokan).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya troubleshooting teknis jasa kirim (aktivasi, alokasi, resi salah, status gak update, drop-off gak tersedia). Buat cara mengatur/mengaktifkan jasa kirim di pengaturan toko, arahkan ke `shp-pengiriman-026`; buat kendala pick-up spesifik, arahkan ke `shp-pengiriman-005`.
+
+## Isi
+
 **Mengaktifkan Jasa Kirim**
 
 
@@ -215,3 +223,23 @@ Saat ini, layanan antar ke counter (*drop off*) belum tersedia untuk pengiriman 
   
 
 Pelajari lebih lanjut tentang[ penyelesaian pesanan](https://seller.shopee.co.id/edu/article/11968/Menyelesaikan-Pesanan-Pertama-Anda?previousPage=other%20articles).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu maks. alokasi jasa kirim per pesanan | 5 menit |
+| Batas waktu ubah no. resi yang salah/tidak sah | maks. 3 hari sejak input pertama |
+| Jumlah jasa kirim tanpa layanan drop-off | 6 kelompok: Anteraja Reguler/Economy, Ninja Xpress, semua GoSend Instant/Sameday, semua GrabExpress Instant/Sameday, semua SPX Instant/Sameday, Bluebird Kirim |
+| Contoh nominal resi JNE Express (ilustrasi ganti resi) | Rp9.000 |
+| Contoh nominal resi Pos Reguler (ilustrasi ganti resi) | Rp35.000 |
+
+## Pertanyaan diagnosa
+
+1. **Member baru daftar toko, mau aktifkan jasa kirim tapi opsinya kosong?** Wajib upload produk dulu — gak bisa aktifkan jasa kirim kalau toko belum ada produk yang di-upload.
+2. **Member salah input no. resi (typo) 1 hari lalu, masih bisa diperbaiki?** Bisa, SELAMA no. resi yang salah itu tidak sah (bukan resi valid pesanan lain) — masih ada waktu sampai 3 hari sejak input pertama buat ubah.
+3. **Member gak sengaja masukkan resi valid tapi punya pesanan LAIN?** GAK BISA diubah lagi — segera info no. resi yang benar ke Pembeli via Chat biar gak dibatalkan sepihak.
+4. **Member jual produk cairan/baterai tapi pesanan gak teralokasi jasa kirim dengan benar?** Aktifkan opsi "Produk Berbahaya" di informasi produk DAN pastikan jasa kirim yang mendukung produk berbahaya sudah aktif di toko.
+5. **Member kirim paket pakai jasa kirim beda dari yang dipilih sistem/Pembeli?** Status pesanan GAK bakal otomatis berubah dari Dikemas ke Dikirim — berisiko kena Tingkat Keterlambatan Pengiriman bahkan pembatalan otomatis.
+6. **Member mau drop-off paket GoSend Instant ke counter jasa kirim terdekat?** GAK BISA — GoSend Instant (semua versi) termasuk dalam daftar jasa kirim yang BELUM mendukung layanan drop-off/antar ke counter.
+7. **Pesanan member gak teralokasi jasa kirim lebih dari 5 menit?** Itu di luar waktu normal (maks. 5 menit) — segera hubungi Customer Service Shopee.

@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: pp---jasa-kirim/faq-ongkos-kirim-panduan-mengukur-ukuran-paket.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-028]
 ---
 # FAQ Ongkos Kirim & Panduan Mengukur Ukuran Paket
 
 ## Ringkasan
+Ongkir dihitung dari berat/ukuran yang diinput Penjual + berat aktual produk. Berat yang dipakai = NILAI TERBESAR antara Berat Produk vs Berat Volumetrik (rumus dari ukuran paket — lihat Batasan, rumus persisnya gak tersalin). Cara ukur: 3 sisi (panjang/lebar/tinggi) SETELAH produk dikemas, pakai jarak terpanjang tiap sisi. Ongkir Reguler khusus <0,5kg (toleransi s.d. 0,509kg) buat Jawa & luar Jawa. Penyebab selisih ongkir: (a) berat/ukuran gak sesuai kondisi asli, (b) lokasi kirim beda dari alamat toko terdaftar (selisih jadi tanggungan Penjual kalau lebih mahal), (c) biaya jasa tambahan (asuransi/pengemasan), (d) fitur "Saya akan menanggung ongkos kirim" aktif, (e) lokasi Agen SPX Express beda kecamatan dari alamat toko. Klaim selisih ongkir akibat kesalahan jasa kirim: maks. **30 hari kalender** sejak pesanan dibuat. Nilai ongkir final masih bisa berubah sampai maks. **3x24 jam** sejak status jadi Dikirim (jasa kirim belum konfirmasi final).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara hitung ongkir, cara ukur paket yang benar, atau kenapa ada selisih ongkir vs estimasi Shopee. Buat detail Ongkos Kirim secara umum, arahkan ke `shp-pengiriman-028`.
+
+## Isi
+
 **FAQ Umum**
 
 
@@ -277,4 +285,24 @@ Apabila setelah pelepasan dana masih terdapat selisih ongkir, Anda dapat menghub
 Nilai Ongkos kirim yang diteruskan oleh Shopee masih dapat berubah selama pihak jasa kirim belum mengonfirmasi (maksimal 3x24 jam sejak status pesanan berubah menjadi **Dikirim**). Pelajari lebih lanjut terkait[ Mengapa Saya Belum Menerima Dana Penghasilan?](https://seller.shopee.co.id/edu/article/18306).
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Toleransi ongkir khusus paket <0,5kg (Reguler) | s.d. 0,509kg |
+| Batas waktu klaim selisih ongkir (kesalahan jasa kirim) | maks. 30 hari kalender sejak pesanan dibuat |
+| Waktu maks. ongkir masih bisa berubah (belum dikonfirmasi jasa kirim) | maks. 3x24 jam sejak status jadi Dikirim |
+| Contoh kasus selisih lokasi kirim (Bogor→Palembang, estimasi Rp25.000) | dikirim dari Jakarta Selatan = tetap Rp25.000 (no selisih); dikirim dari Sukabumi = Rp31.000 (selisih Rp6.000 ditanggung Penjual) |
+| Jumlah sisi yang diukur buat ukuran paket | 3 sisi: panjang, lebar, tinggi |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim paket dari lokasi beda kota dari alamat toko terdaftar, ongkir jadi lebih mahal?** Selisihnya jadi tanggungan Penjual — sistem hitung ulang ongkir berdasar lokasi PENYERAHAN ke jasa kirim, bukan alamat toko terdaftar.
+2. **Member ukur paket sebelum dikemas, ongkir aktual beda dari estimasi?** Salah — ukuran & berat WAJIB diukur SETELAH produk dikemas (termasuk bubble wrap/kardus/kemasan kayu) biar sesuai kondisi kirim sebenarnya.
+3. **Member merasa ongkir dari jasa kirim lebih mahal dari estimasi di Shopee?** Wajar terjadi — jasa kirim berhak timbang & ukur ulang paket sebenarnya saat terima, bisa beda dari input Penjual di halaman produk.
+4. **Member mau klaim selisih ongkir karena kesalahan jasa kirim, tapi udah 35 hari sejak pesanan dibuat?** SUDAH LEWAT batas waktu — klaim selisih ongkir wajib diajukan maks. 30 hari kalender sejak pesanan dibuat.
+5. **Member pakai jasa kirim beda dari pilihan Pembeli demi ongkir lebih murah?** GAK DISARANKAN — perhitungan jadi gak sinkron dengan sistem Shopee, status pengiriman gak terlacak otomatis, dan perubahan status harus manual via CS Shopee.
+6. **Member kirim 3 pesanan sekaligus ke Pembeli yang sama pakai 1 resi biar hemat?** GAK DIDUKUNG sistem — tiap nomor pesanan wajib pakai resi terpisah demi akurasi ongkir dan kemudahan cek pembayaran.
+7. **Member produknya punya variasi berat beda-beda (misal baju S/M/L/XL)?** Aktifkan toggle "Berat & Dimensi berbeda untuk tiap variasi" biar ongkir dihitung lebih akurat per variasi.
+
+## Batasan
+Bagian penjelasan "Berat Volumetrik" menjanjikan rumus perhitungan ("Berat volumetrik = ...") TAPI rumusnya sendiri TIDAK tersalin dalam scraping — cuma judul "Berat volumetrik = " tanpa isi rumus. Jangan karang rumusnya (rumus umum industri biasanya panjang x lebar x tinggi / faktor pembagi, tapi angka faktor pembagi resmi Shopee TIDAK dikonfirmasi di sini) — arahkan member ke artikel sumber asli atau contoh ilustrasi Anteraja yang sudah tertaut buat detail perhitungannya.

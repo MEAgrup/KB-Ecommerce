@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/aturan-prosedur-klaim-barang-rusakhilang-saat-pengiriman.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-040, shp-pengiriman-039]
 ---
 # Aturan & Prosedur Klaim Barang Rusak/Hilang Saat Pengiriman
 
 ## Ringkasan
+Klaim barang rusak/hilang saat pengiriman: ajukan **maks. 2 hari kalender** setelah pengembalian dana/terima barang rusak, wajib lampirkan foto bukti kemasan baik sebelum kirim (video opsional). 4 kategori produk yang GAK BISA diklaim: produk dilarang Shopee, produk dilarang jasa kirim, produk mudah rusak, produk yang gak ikuti panduan pengemasan. Kompensasi ikut kebijakan masing-masing jasa kirim (contoh: SiCepat maks 10x ongkir dg cap; GoSend emas dipotong 10%). Disarankan aktifkan Asuransi Pengiriman Shopee buat pesanan >Rp1.000.000 atau >10x ongkir. Klaim ditolak kalau: kemasan gak sesuai, produk dilarang, ukuran lebih dari batas Same Day/Instant, emas/logam mulia gak dikemas standar (min. kardus 20x15x10cm via SPX Express), cairan >100ml via SiCepat, atau pakai resi di luar sistem Shopee.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara/syarat ajukan klaim barang rusak/hilang saat pengiriman, kapan klaim ditolak, atau skema kompensasi per jasa kirim. Buat detail Asuransi Pengiriman Shopee, arahkan ke `shp-pengiriman-040`; buat panduan pengemasan produk, arahkan ke `shp-pengiriman-039`.
+
+## Isi
+
 **Kebijakan Shopee Tentang Klaim Barang Rusak/Hilang**
 
 
@@ -218,4 +226,25 @@ Pastikan **No. Pesanan** yang diajukan sudah sesuai dengan kendala yang Anda ala
   - Dokumen yang tidak lengkap atau tidak valid dapat menyebabkan proses verifikasi oleh Tim Shopee menjadi lebih lama atau klaim tidak dapat diproses hingga persyaratan terpenuhi.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Batas waktu ajukan klaim + lengkapi bukti | maks. 2 hari kalender sejak permintaan pengembalian/terima barang rusak |
+| Jumlah kategori produk gak bisa diklaim | 4 kategori |
+| Jumlah kondisi klaim ditolak | 7 kondisi |
+| Rekomendasi pakai Asuransi Pengiriman | pesanan >Rp1.000.000 ATAU >10x ongkir tercantum di Shopee |
+| Contoh skema SiCepat (harga Rp1.500.000, ongkir Rp500.000 → 10x=Rp5jt) | kompensasi Rp1.000.000 |
+| Contoh skema GoSend (emas Rp4.500.000) | dipotong 10% dari nilai penggantian |
+| Syarat kemasan emas/barang berharga (khusus SPX Express) | kardus min. 20x15x10cm |
+| Batas cairan yang bisa diklaim (SiCepat Ekspres) | maks. 100ml |
+| Batas maks. nilai emas berasuransi (GoSend) | Rp4.500.000 |
+
+## Pertanyaan diagnosa
+
+1. **Barang member rusak pas dikirim, kapan batas waktu ajukan klaimnya?** Maks. 2 hari kalender sejak Pembeli minta pengembalian dana atau sejak member terima produk pengembalian yang rusak — lewat itu klaim gak diproses.
+2. **Member kirim emas tanpa kardus khusus, klaim ditolak, kenapa?** Emas/barang berharga wajib dikemas aman pakai kardus min. 20x15x10cm dan cuma bisa dikirim via SPX Express — kalau gak sesuai, klaim otomatis ditolak.
+3. **Member kirim parfum cair 150ml via SiCepat Ekspres, terus rusak, bisa klaim?** GAK BISA — SiCepat Ekspres cuma menerima klaim buat cairan maks. 100ml.
+4. **Member mau maksimalkan peluang klaim diterima, apa yang wajib disiapkan?** Foto kondisi kemasan (luar & dalam) SEBELUM dikirim sebagai bukti — video opsional tapi memperkuat klaim. Khusus GoSend/GrabExpress/JNE Express, tambahan wajib lampirkan foto KTP jelas.
+5. **Member pakai resi cetak sendiri di luar sistem Shopee, barang hilang, bisa klaim ke Shopee?** GAK BISA — risiko kerusakan/kehilangan dengan resi di luar sistem Shopee jadi tanggung jawab Penjual sendiri.
+6. **Member ragu perlu aktifkan Asuransi Pengiriman Shopee atau gak?** Disarankan khususnya buat pesanan bernilai >Rp1.000.000 atau nilainya >10x biaya ongkos kirim yang tercantum di Shopee.
+7. **Member kirim produk emas Rp5 juta pakai GoSend, full terasuransi gak?** Batas nilai emas berasuransi GoSend maks. Rp4.500.000 — di atas itu, tetap dipotong 10% dari nilai penggantian (berasuransi maupun tidak).

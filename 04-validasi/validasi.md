@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **763**
+- PERINGATAN: **739**
 
 ## Status entry
 
@@ -1064,90 +1064,66 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/02-anteraja.md` · shp-pengiriman-002
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/anteraja.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1247 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/03-area-jangkauan-spx-express.md` · shp-pengiriman-003
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/area-jangkauan-spx-express.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- cuma 38 kata untuk entry canonical — cek kelengkapannya
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/04-aturan-prosedur-klaim-barang-rusakhilang-saat-pengiriman.md` · shp-pengiriman-004
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/aturan-prosedur-klaim-barang-rusakhilang-saat-pe
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1421 kata — kemungkinan dua topik yang belum dipisah
+- 1821 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/05-bagaimana-saya-dapat-meminta-jasa-kirim-melakukan-pick-up-pesanan-saya.md` · shp-pengiriman-005
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/bagaimana-saya-dapat-meminta-jasa-kirim-melakuka
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/06-bluebird-kirim.md` · shp-pengiriman-006
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/bluebird-kirim.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- status='canonical' tapi masih ada decisions terbuka — cek udah tertutup belum
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/07-cara-terbaik-menyerahkan-pesanan-ke-jasa-kirim.md` · shp-pengiriman-007
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/cara-terbaik-menyerahkan-pesanan-ke-jasa-kirim.m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/08-cod-bayar-di-tempat.md` · shp-pengiriman-008
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/cod-bayar-di-tempat.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1348 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/09-faq-cod-bayar-di-tempat.md` · shp-pengiriman-009
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-cod-bayar-di-tempat.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1281 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/10-faq-jasa-kirim-di-shopee.md` · shp-pengiriman-010
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-jasa-kirim-di-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1439 kata — kemungkinan dua topik yang belum dipisah
+- 1849 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/11-faq-jasa-kirim-yang-tidak-didukung-shopee.md` · shp-pengiriman-011
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-jasa-kirim-yang-tidak-didukung-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/12-faq-jne-express.md` · shp-pengiriman-012
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-jne-express.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/13-faq-mengatur-jasa-kirim.md` · shp-pengiriman-013
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-mengatur-jasa-kirim.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/14-faq-ongkos-kirim-panduan-mengukur-ukuran-paket.md` · shp-pengiriman-014
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-ongkos-kirim-panduan-mengukur-ukuran-paket.m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1514 kata — kemungkinan dua topik yang belum dipisah
+- 1986 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/15-faq-pengiriman-instant-instant-prioritas.md` · shp-pengiriman-015
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-pengiriman-instant-instant-prioritas.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1355 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/16-faq-proses-pick-up.md` · shp-pengiriman-016
 

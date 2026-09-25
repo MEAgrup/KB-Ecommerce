@@ -2164,8 +2164,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/anteraja.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1247 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2174,10 +2173,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/area-jangkauan-spx-express.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "cuma 38 kata untuk entry canonical — cek kelengkapannya"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/area-jangkauan-spx-express.md"
     ]
   },
   {
@@ -2189,9 +2185,7 @@
     ],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/aturan-prosedur-klaim-barang-rusakhilang-saat-pe",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1421 kata — kemungkinan dua topik yang belum dipisah"
+      "1821 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2200,9 +2194,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/bagaimana-saya-dapat-meminta-jasa-kirim-melakuka",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/bagaimana-saya-dapat-meminta-jasa-kirim-melakuka"
     ]
   },
   {
@@ -2212,8 +2204,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/bluebird-kirim.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "status='canonical' tapi masih ada decisions terbuka — cek udah tertutup belum"
     ]
   },
   {
@@ -2222,9 +2213,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/cara-terbaik-menyerahkan-pesanan-ke-jasa-kirim.m",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/cara-terbaik-menyerahkan-pesanan-ke-jasa-kirim.m"
     ]
   },
   {
@@ -2234,8 +2223,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/cod-bayar-di-tempat.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1348 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2245,8 +2233,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-cod-bayar-di-tempat.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1281 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2256,9 +2243,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-jasa-kirim-di-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1439 kata — kemungkinan dua topik yang belum dipisah"
+      "1849 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2267,9 +2252,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-jasa-kirim-yang-tidak-didukung-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-jasa-kirim-yang-tidak-didukung-shopee.md"
     ]
   },
   {
@@ -2278,9 +2261,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-jne-express.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-jne-express.md"
     ]
   },
   {
@@ -2289,9 +2270,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-mengatur-jasa-kirim.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-mengatur-jasa-kirim.md"
     ]
   },
   {
@@ -2301,9 +2280,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-ongkos-kirim-panduan-mengukur-ukuran-paket.m",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1514 kata — kemungkinan dua topik yang belum dipisah"
+      "1986 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2313,8 +2290,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-pengiriman-instant-instant-prioritas.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1355 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
