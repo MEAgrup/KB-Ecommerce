@@ -2803,7 +2803,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-06",
-    "related": "",
+    "related": "shp-pengiriman-056, shp-pengiriman-069",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/64-mencetak-resi-dengan-optimal.md"
   },
@@ -2816,7 +2816,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-07",
-    "related": "",
+    "related": "shp-pengiriman-068, shp-pengiriman-069",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/65-mengambil-produk-secara-optimal.md"
   },
@@ -2829,7 +2829,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-055, shp-pengiriman-067",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/66-mengelola-beberapa-gudang-saya-dengan-fitur-multi-gudang.md"
   },
@@ -2842,7 +2842,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-055, shp-pengiriman-066",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/67-mengelola-fitur-cabang.md"
   },
@@ -2855,7 +2855,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2022-05",
-    "related": "shp-pengiriman-101",
+    "related": "shp-pengiriman-069",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/68-mengoptimalkan-proses-inbound.md"
   },
@@ -2868,7 +2868,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-04",
-    "related": "shp-pengiriman-101",
+    "related": "shp-pengiriman-068, shp-pengiriman-070",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/69-optimalisasi-proses-outbound.md"
   },
@@ -2881,7 +2881,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-pengiriman-069",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/70-pentingnya-surat-bukti-pengiriman-bagi-penjual.md"
   },
@@ -2894,7 +2894,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-063",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/71-program-pengiriman-kilat.md"
   },
@@ -2907,7 +2907,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-073, shp-pengiriman-042",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/72-cara-memantau-pesanan-performa-setelah-promo-berakhir.md"
   },
@@ -2920,7 +2920,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-072",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/73-tips-mengelola-pesanan-performa-saat-promo-berlangsung.md"
   },
@@ -2933,7 +2933,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "shp-pengiriman-101",
+    "related": "shp-pengiriman-068, shp-pengiriman-069, shp-pengiriman-055",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/74-tips-pengiriman-tepat-waktu.md"
   },

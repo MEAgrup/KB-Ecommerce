@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: pp---penyelesaian-pesanan/mengelola-beberapa-gudang-saya-dengan-fitur-multi-gudang.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-055, shp-pengiriman-067]
 ---
 # Mengelola Beberapa Gudang Saya dengan Fitur Multi-Gudang
 
 ## Ringkasan
+Multi-Gudang = kelola s.d. 30 gudang, KHUSUS Penjual Terpilih (toko cabang di berbagai kota), butuh integrasi Open API v2. Gudang GAK BISA DIHAPUS (cuma bisa Mode Toko Libur). Alokasi gudang saat checkout berdasarkan: ketersediaan stok → prioritas jarak terdekat → bisa PECAH jadi 2+ pengiriman kalau 1 gudang gak cukup stok. Gudang Pengembalian Pesanan maks. 1 gudang (gak bisa dihapus, cuma diubah/libur). API pakai payload beda: `normal_stock` (non-multi-gudang) vs `seller_stock` (multi-gudang).
+
+## Kapan ini dipakai
+Dipakai kalau member (toko besar dengan banyak cabang gudang) mau kelola multi-gudang, atau nanya cara alokasi stok/pesanan antar gudang. Buat Pengiriman Massal, arahkan ke `shp-pengiriman-055`; buat fitur cabang, arahkan ke `shp-pengiriman-067`.
+
+## Isi
+
 **Apa itu Multi-Gudang?**
 
 
@@ -281,3 +289,26 @@ Perubahan API terdapat pada **struktur stok**:
 
   - Untuk Penjual yang tidak menggunakan fitur Multi-Gudang, *payload* yang digunakan untuk stok adalah **normal\_stock**.
   - Untuk Penjual yang menggunakan fitur Multi-Gudang, *payload* yang digunakan untuk stok adalah **seller\_stock (location\_id, stock)**.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Maks. jumlah gudang yang bisa dikelola | 30 gudang |
+| Maks. Gudang Pengembalian Pesanan | 1 gudang |
+| Eligibilitas fitur | khusus Penjual terpilih (punya toko cabang/gudang di berbagai daerah/kota) |
+| Syarat teknis | integrasi Open API v2 (wajib bagi pengguna API) |
+| Payload stok non-Multi-Gudang | `normal_stock` |
+| Payload stok Multi-Gudang | `seller_stock (location_id, stock)` |
+| Contoh alokasi gudang (Pembeli di Jakarta, SKU A) | qty 1 → Jakarta (stok Jakarta+Medan, prioritas Jakarta); qty 6 → Medan (stok cuma Medan); qty 12 → Jakarta + Medan (dipisah 2 pengiriman) |
+| Urutan prioritas gudang di contoh | Jakarta > Bali > Medan (berdasar jarak terdekat) |
+
+## Pertanyaan diagnosa
+
+1. **Member toko kecil (1 gudang) mau aktifkan Multi-Gudang?** GAK BISA — fitur ini khusus Penjual terpilih yang punya toko cabang/gudang di berbagai daerah/kota, dan wajib integrasi Open API v2 dulu.
+2. **Member mau hapus salah satu gudang yang udah gak dipakai?** GAK BISA dihapus — cuma bisa diaktifkan Mode Toko Libur buat gudang tersebut.
+3. **Member bingung kenapa 1 pesanan pembeli jadi 2 nomor pesanan terpisah?** Karena qty yang dipesan gak bisa dipenuhi 1 gudang aja (misal butuh 12 pcs tapi stok kesebar di 2 gudang) — sistem otomatis pecah jadi 2 pengiriman dari 2 gudang berbeda, dan pembeli dapat pop-up pemberitahuan pas checkout.
+4. **Member pakai Open API, integrasi tiba-tiba error soal struktur stok setelah aktifkan Multi-Gudang?** Cek payload — abis Multi-Gudang aktif, payload stok WAJIB pakai `seller_stock (location_id, stock)`, bukan `normal_stock` lagi.
+5. **Member mau atur gudang mana yang jadi tujuan pengembalian barang?** Set Gudang Pengembalian Pesanan (maks. 1 gudang) — kalau gak diset atau lagi Mode Toko Libur, barang balik ke gudang Pickup Pesanan yang sama saat pesanan dikirim.
+6. **Member Shopee Mall gak bisa akses fitur Multi-Gudang padahal punya banyak toko cabang?** Arahkan ke program Authorized Store — kemungkinan itu jalur yang relevan buat kasus Shopee Mall dengan toko cabang.
+7. **Member mau nonaktifkan jasa kirim tertentu tapi sistem nolak?** Sistem bakal validasi dulu — jasa kirim itu cuma bisa dinonaktifkan kalau masih ada jasa kirim LAIN yang bisa layani min. 1 gudang terdaftar.

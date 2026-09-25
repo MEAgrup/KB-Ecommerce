@@ -11,10 +11,18 @@ valid_as_of: 2023-07
 sources:
   - file: pp---penyelesaian-pesanan/mengambil-produk-secara-optimal.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-068, shp-pengiriman-069]
 ---
 # Mengambil Produk secara Optimal
 
 ## Ringkasan
+Tips pilih metode picking (Single/Batch/Zone Picking, dll) berdasarkan: karakter produk, rata-rata jumlah produk/pesanan, jumlah variasi, ukuran gudang, jasa kirim yang aktif, jumlah SDM. Batch Picking LEBIH CEPAT dari Single Picking di masa promo (jumlah pesanan & picker sama). Manfaatkan kode lokasi produk (masuk ke SKU Induk/Kode Variasi) buat picker gak perlu keliling gudang. Alat bantu: keranjang (produk kecil), troli (produk besar/berat), ban berjalan/lift (gudang luas/multi-lantai).
+
+## Kapan ini dipakai
+Dipakai kalau member (toko volume tinggi) mau optimalkan proses ambil produk di gudang. Buat optimalisasi proses inbound, arahkan ke `shp-pengiriman-068`; buat optimalisasi proses outbound, arahkan ke `shp-pengiriman-069`.
+
+## Isi
+
 **Metode Pengambilan Produk**
 
 
@@ -181,3 +189,18 @@ Jika gudang Anda memiliki area yang luas, Anda dapat menggunakan alat bantu yang
 Anda juga dapat memasang *lift* barang jika gudang Anda memiliki lebih dari satu lantai. Hal ini dapat mempercepat proses kerja dan menghemat tenaga ketika memindahkan produk dari satu lantai ke lantai lainnya.
 
 Dengan alat bantu dan metode yang dapat mempersingkat waktu pengambilan produk, Anda dapat segera mengemas produk Anda sesuai dengan keterangan yang tertera di dalam resi.
+
+## Angka & patokan
+Entry ini bersifat panduan operasional/tips, gak ada patokan numerik konkret (nominal/persentase) di sumber — kecuali menyebut "5 tipe pesanan" yang perlu diprioritaskan pas masa promo, tapi daftarnya sendiri hilang (lihat Batasan).
+
+## Pertanyaan diagnosa
+
+1. **Member bingung metode picking apa yang cocok buat tokonya?** Pertimbangkan 6 faktor: karakter produk, rata-rata jumlah produk/pesanan, jumlah variasi, ukuran gudang, jasa kirim aktif, dan jumlah SDM — bisa kombinasikan beberapa metode.
+2. **Member SDM terbatas, cuma 1-2 orang di gudang?** Pertimbangkan Single Picking — picker bisa merangkap jadi pemeriksa produk, gak perlu tim terpisah.
+3. **Member kewalahan pas masa promo, pesanan numpuk banyak?** Batch Picking TERBUKTI LEBIH CEPAT dari Single Picking dalam kondisi jumlah pesanan & picker yang sama — cetak Daftar Pesanan per Produk buat mulai batch picking.
+4. **Member gudangnya luas, picker sering keliling cari produk?** Manfaatkan Kode Lokasi Produk — masukkan ke SKU Induk (produk tanpa variasi) atau Kode Variasi (produk dengan variasi), nanti otomatis muncul di resi.
+5. **Member jual produk besar/berat, keranjang biasa kurang efektif?** Pakai TROLI buat produk besar/berat; keranjang cukup buat produk kecil/ringan yang bisa diambil sekaligus dari beberapa resi.
+6. **Member mau prioritaskan produk mana yang diambil duluan?** Sortir resi berdasarkan jumlah & variasi, kelompokkan jenis produk yang sama, DAN prioritaskan produk dengan batas waktu pick-up jasa kirim yang paling dekat.
+
+## Batasan
+Bagian "Masa Promo" menyebut "terdapat 5 tipe pesanan yang perlu Anda prioritaskan untuk segera dikemas" saat peak day, TAPI daftar 5 tipe pesanan tersebut TIDAK tersalin (kemungkinan hilang saat scraping). Jangan karang daftar tipe pesanan yang dimaksud — arahkan member cek artikel sumber asli atau gunakan panduan umum di entry ini (sortir berdasarkan batas waktu pick-up & jasa kirim).

@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: pp---tips-operasional-promo-shopee/cara-memantau-pesanan-performa-setelah-promo-berakhir.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-073, shp-pengiriman-042]
 ---
 # Cara Memantau Pesanan & Performa Setelah Promo Berakhir
 
 ## Ringkasan
+Setelah promo berakhir: (1) penuhi pesanan tepat waktu (pantau tab Perlu Diproses, Pengembalian/Pembatalan, pakai filter Pengiriman Massal; aktifkan Mode Libur kalau kewalahan), (2) proaktif kabari Pembeli soal keterlambatan (jelaskan tanggal baru, alasan, minta pengertian — pertimbangkan kasih voucher kalau pesanan kebatal otomatis karena kesalahan Penjual), (3) pertahankan loyalitas Pembeli baru (voucher eksklusif, voucher ulasan, Shopee Live), (4) evaluasi performa kuantitatif (jumlah pesanan, rata-rata penjualan/pesanan, produk di luar ekspektasi, kunjungan-tinggi-konversi-rendah, keranjang ditinggal) DAN kualitatif (rating/ulasan toko, kendala pemenuhan pesanan) pakai fitur Performa Toko + Download Data. Aturan pembatalan otomatis: reguler = 2 hari setelah batas waktu kirim; Next Day/Same Day/Instant = 1 hari setelah batas waktu kirim (kalau paket gak diantar/di-pickup).
+
+## Kapan ini dipakai
+Dipakai kalau member abis ikut kampanye promo besar (mis. Harbolnas) dan mau tau checklist pemenuhan pesanan pasca-promo serta cara evaluasi performanya. Buat tips saat promo MASIH berlangsung, arahkan ke `shp-pengiriman-073`; buat detail aturan pembatalan otomatis, arahkan ke `shp-pengiriman-042`.
+
+## Isi
+
 **Memenuhi Pesanan dari Masa Promosi**
 
 
@@ -151,3 +159,21 @@ Cermati jika ada permintaan jangka panjang untuk produk tersebut. Sebagai contoh
 Dalam jangka panjang, memiliki metrik yang tetap untuk mengukur seluruh promo dapat membantu Anda dalam membuat keputusan mengenai bisnis Anda.
 
 **Download Data** yang dikumpulkan dari tiap masa promosi untuk menganalisis dan meningkatkan performa promo.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Pembatalan otomatis — jasa kirim reguler | 2 hari setelah batas waktu pengiriman berakhir (kalau belum diantar/di-pickup) |
+| Pembatalan otomatis — Next Day/Same Day/semua Instant | 1 hari setelah batas waktu pengiriman berakhir (kalau belum diantar/di-pickup) |
+| Isi wajib pemberitahuan keterlambatan ke Pembeli | 3: tanggal pengiriman terbaru, alasan keterlambatan, permintaan pengertian |
+
+## Pertanyaan diagnosa
+
+1. **Member kewalahan proses pesanan menumpuk abis promo besar, takut kena penalti?** Aktifkan fitur Mode Libur biar bisa fokus selesaikan pesanan yang menumpuk dulu sebelum buka jualan lagi, dan tetap pantau batas waktu kirim di halaman Pesanan Saya.
+2. **Pesanan member kebatal otomatis karena telat kirim akibat kesalahan sendiri?** Segera hubungi Pembeli yang terdampak dan pertimbangkan kasih voucher permintaan maaf buat jaga hubungan baik.
+3. **Member mau tau berapa lama toleransi sebelum pesanan reguler kebatal otomatis kalau belum di-pickup kurir?** 2 hari setelah batas waktu pengiriman berakhir (beda dengan Next Day/Same Day/Instant yang cuma 1 hari toleransi).
+4. **Member lihat banyak produk masuk keranjang tapi gak checkout selama promo?** Kemungkinan penyebabnya ongkir kemahalan atau Pembeli lagi bandingin harga — cek dan sesuaikan ongkir serta harga kompetitor.
+5. **Member mau tau kunjungan produk tinggi tapi kok penjualan tetap sedikit?** Itu tanda konversi rendah — evaluasi kualitas listing produk (foto, deskripsi, harga) buat dorong Pembeli benar-benar transaksi.
+6. **Member abis promo mau pertahankan Pembeli baru yang baru pertama beli?** Kirim voucher diskon eksklusif buat promo berikutnya, kasih voucher buat yang kasih ulasan, dan tampilkan produk baru lewat Shopee Live.
+7. **Member mau evaluasi apa promonya sukses secara kualitas layanan, bukan cuma angka penjualan?** Bandingkan rating/ulasan toko selama masa promosi vs hari biasa — kalau ada penurunan signifikan, itu sinyal ada masalah di proses pemenuhan pesanan yang perlu dievaluasi sebelum promo berikutnya.

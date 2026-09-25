@@ -11,11 +11,18 @@ valid_as_of: 2025-04
 sources:
   - file: pp---penyelesaian-pesanan/optimalisasi-proses-outbound.md
     bagian: "artikel penuh"
-related: [shp-pengiriman-101]
+related: [shp-pengiriman-068, shp-pengiriman-070]
 ---
 # Optimalisasi Proses Outbound
 
 ## Ringkasan
+Area *outbound* = tempat simpan produk sudah dikemas & siap kirim, HARUS terpisah dari area inbound (hindari penumpukan & kepadatan). Serahkan produk ke jasa kirim cuma di area outbound, perhatikan batas waktu pick-up per jasa kirim, pisahkan produk per jasa kirim/tipe layanan (khususnya Instant/Same Day pakai rak berlabel abjad nama Pembeli). Cegah PAKET DUPLIKAT (resi+pesanan sama dikirim >1x) pakai barcode scanner sebelum serah terima. WAJIB simpan Surat Bukti Pengiriman (tanda tangan/cap kurir) sebagai bukti banding kalau ada klaim pengembalian dana akibat kelalaian jasa kirim.
+
+## Kapan ini dipakai
+Dipakai kalau member (toko dengan gudang sendiri) mau optimalkan proses serah terima paket ke jasa kirim biar gak telat/gak ada paket duplikat. Buat proses kebalikannya (inbound), arahkan ke `shp-pengiriman-068`; buat detail pentingnya surat bukti pengiriman, arahkan ke `shp-pengiriman-070`.
+
+## Isi
+
 **Pentingnya Area Outbound**
 
 
@@ -101,3 +108,20 @@ Simpan bukti serah terima di[ ruang admin](https://seller.shopee.co.id/edu/artic
 **⚠️** **Catatan**
 
 Anda dapat menggunakan[ *template* Surat tanda terima pengiriman](https://deo.shopeemobile.com/shopee/cms_cdn_bucket/6050f1c4f2ba4ccf954e8753a7d44262_CATATAN%20PENGIRIMAN.xlsx%20-%20Surat%20Tanda%20Terima%203PL.pdf) yang dapat digunakan sebagai bukti pengiriman toko Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Alat cegah paket duplikat | barcode scanner / alat scan barcode sebelum serah terima |
+| Isi Surat Bukti Pengiriman | tanggal serah terima, nama pihak ekspedisi, rincian jumlah paket, tanda tangan/cap kurir |
+| Rekomendasi pengelompokan rak Instant/Same Day | label abjad sesuai nama Pembeli |
+
+## Pertanyaan diagnosa
+
+1. **Member curiga ada paket dikirim dobel (duplikat) ke Pembeli?** Cegah dengan SCAN BARCODE tiap paket sebelum diserahkan ke jasa kirim — sistem/template bakal tandai (biasanya warna merah di kolom Nomor Resi) kalau resi itu sudah pernah diproses.
+2. **Pembeli klaim pengembalian dana karena kurir yang lalai (barang hilang/rusak di tangan ekspedisi)?** Cek Surat Bukti Pengiriman yang disimpan di ruang admin — dokumen ini jadi bukti banding kalau kelalaian ada di pihak jasa kirim, bukan toko.
+3. **Member gudang ramai, kurir kesulitan cari paket yang sesuai pas pick-up?** Pisahkan produk siap kirim per jasa kirim & tipe layanan (pakai keranjang/rak terpisah), khususnya kasih rak berlabel abjad nama Pembeli buat pesanan Instant/Same Day.
+4. **Member sering telat serah terima ke jasa kirim, kena poin penalti?** Cek batas waktu pick-up masing-masing jasa kirim (beda-beda per ekspedisi) dan prioritaskan cetak resi/ambil produk yang deadline-nya paling dekat duluan.
+5. **Member campur area inbound dan outbound dalam satu ruang?** Pisahkan — campur bikin proses keluar-masuk produk numpuk dan bentrok, plus lebih berisiko kerusakan/kehilangan karena area ini sering dikunjungi pihak eksternal.
+6. **Member gudang volume tinggi kewalahan serah terima manual satu-satu ke kurir?** Manfaatkan fitur Pengiriman Massal di Seller Centre buat kurangi kerumunan dan percepat proses handover.

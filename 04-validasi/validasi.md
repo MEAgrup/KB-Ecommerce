@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **783**
+- PERINGATAN: **763**
 
 ## Status entry
 
@@ -1009,73 +1009,53 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/pengiriman-dan-pesanan/64-mencetak-resi-dengan-optimal.md` · shp-pengiriman-064
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/mencetak-resi-dengan-optimal.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/65-mengambil-produk-secara-optimal.md` · shp-pengiriman-065
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/mengambil-produk-secara-optimal.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1492 kata — kemungkinan dua topik yang belum dipisah
+- 1863 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/66-mengelola-beberapa-gudang-saya-dengan-fitur-multi-gudang.md` · shp-pengiriman-066
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/mengelola-beberapa-gudang-saya-dengan-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1369 kata — kemungkinan dua topik yang belum dipisah
+- 1799 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/67-mengelola-fitur-cabang.md` · shp-pengiriman-067
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/mengelola-fitur-cabang.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1652 kata — kemungkinan dua topik yang belum dipisah
+- 2138 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/68-mengoptimalkan-proses-inbound.md` · shp-pengiriman-068
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/mengoptimalkan-proses-inbound.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/69-optimalisasi-proses-outbound.md` · shp-pengiriman-069
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/optimalisasi-proses-outbound.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1383 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/70-pentingnya-surat-bukti-pengiriman-bagi-penjual.md` · shp-pengiriman-070
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/pentingnya-surat-bukti-pengiriman-bagi
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/71-program-pengiriman-kilat.md` · shp-pengiriman-071
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/program-pengiriman-kilat.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2352 kata — kemungkinan dua topik yang belum dipisah
+- 2881 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/72-cara-memantau-pesanan-performa-setelah-promo-berakhir.md` · shp-pengiriman-072
 
 - sumber tanpa penunjuk bagian: file: pp---tips-operasional-promo-shopee/cara-memantau-pesanan-perform
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1282 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/73-tips-mengelola-pesanan-performa-saat-promo-berlangsung.md` · shp-pengiriman-073
 
 - sumber tanpa penunjuk bagian: file: pp---tips-operasional-promo-shopee/tips-mengelola-pesanan-perfor
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/74-tips-pengiriman-tepat-waktu.md` · shp-pengiriman-074
 
 - sumber tanpa penunjuk bagian: file: pp---tips-operasional-toko/tips-pengiriman-tepat-waktu.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2980 kata — kemungkinan dua topik yang belum dipisah
+- 3650 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/75-sop-dasar-inbound-outbound-biar-gak-gagal-kirim-tepat-waktu.md` · shp-pengiriman-101
 

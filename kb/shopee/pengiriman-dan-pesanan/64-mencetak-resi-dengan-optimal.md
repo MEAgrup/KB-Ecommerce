@@ -11,10 +11,18 @@ valid_as_of: 2025-06
 sources:
   - file: pp---penyelesaian-pesanan/mencetak-resi-dengan-optimal.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-056, shp-pengiriman-069]
 ---
 # Mencetak Resi dengan Optimal
 
 ## Ringkasan
+Tips operasional cetak resi: cetak dalam sistem KLOTER (batch) biar potong sekaligus, pakai kode warna per jasa kirim/tipe layanan buat mempercepat proses outbound. Thermal printer = solusi tercepat (gak perlu potong, hasil stiker langsung tempel) — aktifkan via Seller Centre > Pengaturan Pengiriman. Trade-off biaya: mesin+kertas thermal LEBIH MAHAL dari printer biasa, TAPI hemat waktu & biaya tenaga kerja dalam jangka panjang.
+
+## Kapan ini dipakai
+Dipakai kalau member (toko volume tinggi) mau optimalkan proses cetak resi biar lebih efisien. Buat konsep dasar thermal printer, arahkan ke `shp-pengiriman-056`; buat optimalisasi proses outbound lebih luas, arahkan ke `shp-pengiriman-069`.
+
+## Isi
+
 **Batas Waktu Cetak Resi**
 
 
@@ -76,3 +84,21 @@ Selain efisiensi waktu, hal lain yang perlu Anda pertimbangkan dalam proses ceta
 Untuk menghemat biaya cetak resi, Anda harus mempertimbangkan beberapa aspek seperti harga kertas dan biaya yang dibutuhkan untuk membayar tenaga serta waktu yang dikeluarkan dari proses pencetakan. Berikut gambaran ilustrasi biaya yang dibutuhkan untuk resi dengan perkiraan jumlah pesanan sebanyak 100 *pcs*/hari:
 
 Walau harga mesin dan kertas yang digunakan untuk *thermal printer* lebih mahal dibandingkan dengan *printer* konvensional, namun Anda akan menghemat lebih banyak waktu dan biaya untuk membayar jasa. Waktu yang lebih banyak juga dapat Anda gunakan untuk mengembangkan bisnis Anda di bagian lain dibandingkan hanya sekadar untuk mencetak resi.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Volume ilustrasi perhitungan biaya cetak resi | ~100 pcs pesanan/hari |
+| Harga mesin & kertas thermal vs printer konvensional | thermal LEBIH MAHAL di awal, tapi hemat waktu & biaya tenaga jangka panjang |
+
+## Pertanyaan diagnosa
+
+1. **Member toko volume tinggi mau percepat proses cetak & potong resi?** Cetak dalam SISTEM KLOTER (batch sekaligus), bukan satu-satu — biar proses potong juga bisa dilakukan bersamaan, hemat waktu.
+2. **Member kesulitan sortir paket sesuai jasa kirim pas outbound?** Pakai KODE WARNA berbeda per jasa kirim/tipe layanan di resi — bikin sortir jadi lebih cepat & visual.
+3. **Member ragu worth it gak beli thermal printer buat toko kecil?** Pertimbangkan volume harian — biaya mesin/kertas thermal lebih mahal di awal, tapi kalau volume tinggi (misal ~100 pcs/hari), penghematan waktu & tenaga kerja bisa lebih besar dari selisih biayanya.
+4. **Member pakai printer konvensional, proses potong resi makan waktu lama?** Pertimbangkan pakai ALAT POTONG KERTAS (bukan gunting) dan potong sekaligus dalam kloter, biar lebih cepat.
+5. **Member mau tau kelebihan thermal printer selain kecepatan?** Gak perlu dipotong lagi (ukuran udah sesuai standar resi) DAN hasilnya berbentuk STIKER yang langsung bisa ditempel — mempersingkat proses pengemasan juga.
+
+## Batasan
+Bagian "Penghitungan Biaya Cetak Resi" menjanjikan "gambaran ilustrasi biaya yang dibutuhkan untuk resi dengan perkiraan jumlah pesanan sebanyak 100 pcs/hari", TAPI tabel ilustrasi biaya konkretnya (harga kertas, biaya tenaga, dll) TIDAK tersalin — cuma sisa kalimat pengantar dan kesimpulan umum. Jangan karang angka biaya spesifik — arahkan member hitung sendiri berdasarkan harga printer/kertas yang berlaku di daerahnya, atau cek artikel sumber asli.

@@ -11,11 +11,18 @@ valid_as_of: 2022-05
 sources:
   - file: pp---penyelesaian-pesanan/mengoptimalkan-proses-inbound.md
     bagian: "artikel penuh"
-related: [shp-pengiriman-101]
+related: [shp-pengiriman-069]
 ---
 # Mengoptimalkan Proses Inbound
 
 ## Ringkasan
+Proses *inbound* = memasukkan barang dari *supplier* ke gudang. 2 aktivitas inti: hitung jumlah produk (cocokkan sama tanda terima pesanan, update stok di halaman produk biar gak selisih → hindari Pesanan Tidak Terselesaikan & poin penalti) dan QC/Quality Control (pisahkan barang gagal QC, pakai metode QC Sampling ~30% dari jumlah produk pesanan biar efisien). Tips operasional: area inbound TERPISAH dari area outbound (idealnya di pintu masuk gudang), SDM cukup (idealnya orang beda buat cek kuantitas vs kualitas), waktu inbound di luar jam sibuk pesanan, dan langsung simpan produk lolos QC ke area penyimpanan (jangan numpuk di area inbound).
+
+## Kapan ini dipakai
+Dipakai kalau member (toko dengan gudang sendiri) mau optimalkan proses penerimaan barang dari supplier biar stok akurat dan gak kena penalti karena selisih stok. Buat proses kebalikannya (outbound), arahkan ke `shp-pengiriman-069`.
+
+## Isi
+
 **Memahami Proses Inbound**
 
 
@@ -87,3 +94,20 @@ Setelah proses *inbound* dilakukan, pastikan untuk segera mencatat di area admin
   
 
 Produk yang menumpuk di area *inbound* akan menghambat mobilitas dan mempersulit proses pencarian produk karena produk-produk yang siap untuk dijual masih menumpuk dengan tidak teratur di area *inbound*. Untuk menghindari kesulitan pencarian dan pengambilan produk dalam pemenuhan pesanan, Anda juga dapat memanfaatkan penempatan dan kode lokasi rak di area penyimpanan saat menyimpan produk.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Rekomendasi jumlah sampel QC Sampling | ~30% dari jumlah produk yang dipesan |
+| Lokasi ideal area inbound | dekat pintu masuk gudang, terpisah dari area outbound |
+| Rekomendasi SDM | idealnya beda orang buat cek kuantitas vs kualitas produk |
+
+## Pertanyaan diagnosa
+
+1. **Member kena poin penalti/Pesanan Tidak Terselesaikan gara-gara stok gak sesuai sistem?** Kemungkinan proses inbound gak teliti — pastikan jumlah produk yang masuk dicocokkan sama tanda terima pesanan DAN halaman produk di-update segera setelah inbound, jangan ditunda.
+2. **Member gudang kecil, SDM terbatas, gimana atur waktu inbound biar efisien?** Cari waktu inbound di luar jam sibuk pesanan (pas volume order lagi rendah), dan hindari barengin inbound dengan aktivitas lain yang butuh banyak SDM.
+3. **Member mau QC 100% semua barang dari supplier tapi kelamaan?** Gak harus 100% — pakai metode QC Sampling, cek ~30% dari jumlah produk secara acak di setiap kedatangan barang biar tetap efisien.
+4. **Member nemuin produk cacat pas QC, apa yang harus dilakukan?** JANGAN masukkan ke stok jual — segera komunikasikan ke supplier buat pengembalian biaya/penukaran, karena produk cacat yang terlanjur terjual berisiko kena pengajuan pengembalian barang/dana dari Pembeli.
+5. **Member campur area inbound dengan area outbound/penyimpanan, proses jadi lambat?** Pisahkan area inbound dari area lain (idealnya di pintu masuk gudang) — mencegah penumpukan produk dan mobilitas yang terhambat.
+6. **Member biarin produk lolos QC numpuk di area inbound berhari-hari?** Segera catat di area admin dan pindahkan ke area penyimpanan (pakai kode lokasi rak) — jangan biarkan numpuk, karena bikin susah dicari pas proses pemenuhan pesanan.
