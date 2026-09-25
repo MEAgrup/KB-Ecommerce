@@ -15,9 +15,12 @@ sources:
 # FAQ Persentase Chat Dibalas
 
 ## Ringkasan
-**FAQ Umum**
+Persentase Chat Dibalas = persen chat yang dibalas (Anda atau Asisten AI) dalam 12 jam, dihitung dari 30 hari kalender terakhir. Cuma tipe pesan tertentu yang dihitung (chat manual, stiker, Chat dengan Penjual dari FAQ, dll) — Chat Broadcast masuk, Pesan Otomatis, dan pesan dari akun bermasalah gak dihitung.
 
+## Kapan ini dipakai
+Dipakai waktu member bingung kenapa Persentase Chat Dibalas-nya jelek padahal ngerasa udah rajin balas, atau nanya "chat tipe apa aja sih yang wajib dibalas". Juga relevan buat kasus "Data Tidak Mencukupi" (chat kurang dari 2 dalam 30 hari).
 
+## Isi
 
 **1. Apa itu Persentase Chat Dibalas?**
 
@@ -226,3 +229,18 @@ Chat Broadcast yang Anda terima dari Penjual lain tidak akan berpengaruh pada Pe
   
 
 Namun, jika Anda membalas pesan Chat Broadcast dari Penjual lain secara manual, Anda akan memulai percakapan antara 2 Penjual yang akan mempengaruhi Persentase Chat Dibalas Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Periode perhitungan | 30 hari kalender terakhir |
+| Batas waktu balas | 12 jam (termasuk weekend & hari libur nasional) |
+| Minimum chat buat bisa dihitung | 2 percakapan dalam 30 hari (di bawah itu → "Data Tidak Mencukupi") |
+
+## Pertanyaan diagnosa
+
+1. **Pesan yang gak dibalas itu tipe apa?** Kalau dari akun diblokir/dibatasi, Chat Broadcast masuk, Pesan Otomatis dari penjual lain, atau chat saat Mode Libur aktif — itu gak ngaruh ke Persentase Chat Dibalas, gak perlu dibalas.
+2. **Balasnya pakai Pesan Otomatis atau Template Pesan?** Pesan Otomatis **gak** membantu pertahanin persentase; harus Template Pesan atau balasan manual dalam 12 jam.
+3. **Ini kasus chat antar-Penjual?** Kalau iya, siapa yang kirim pesan pertama nentuin siapa berperan "Pembeli" vs "Penjual" — dan cuma yang berperan Penjual yang wajib balas dalam 12 jam.
+4. **Persentase-nya nunjukin "Data Tidak Mencukupi"?** Itu bukan skor jelek — cuma karena chat-nya kurang dari 2 dalam 30 hari terakhir.

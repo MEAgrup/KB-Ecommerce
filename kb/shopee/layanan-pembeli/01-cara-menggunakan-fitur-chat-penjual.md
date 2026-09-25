@@ -11,13 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: pel-pembeli---tentang-asisten-ai-chat/cara-menggunakan-fitur-chat-penjual.md
     bagian: "artikel penuh"
+related: [shp-chat-002, shp-layanan-001]
 ---
 # Cara Menggunakan Fitur Chat Penjual
 
 ## Ringkasan
-**Apa itu Webchat Shopee?**
+Fitur Chat Penjual (aplikasi Shopee, Seller Centre, Webchat) buat kelola chat dengan Pembeli: filter by urgensi, kirim promosi/rekomendasi produk/voucher, atur batasan chat lanjutan (maks. 5 chat kalau Pembeli >24 jam gak respon), dan setting Asisten Chat (auto-reply/template/FAQ).
 
+## Kapan ini dipakai
+Dipakai buat 2 kebutuhan beda: (1) navigasi teknis fitur chat (filter, pin, hapus, kirim media/produk/voucher), dan (2) jawab pertanyaan "kenapa chat gue gak kekirim ke Pembeli ini" — biasanya karena kena limit 5-chat atau Pembeli udah >7 hari gak respon.
 
+## Isi
 
 Webchat Shopee merupakan solusi untuk mengelola *chat* secara cepat dan mudah, sekaligus mengelola pesanan Anda.
 
@@ -668,3 +672,27 @@ Di Seller Centre, ulangi langkah-langkah di bawah lalu **Batal Blokir** blokir P
   
 
 **Melalui Seller Centre:**
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu segera balas chat (sebelum kena dampak negatif) | < 3 jam sejak masuk filter Segera Balas |
+| Chat masuk filter "Segera Balas" | tidak dibalas > 9 jam |
+| Chat masuk filter "Telat Balas" | tidak dibalas > 12 jam |
+| Batas balas chat biar Persentase Chat Dibalas aman | dalam 12 jam |
+| Maks. chat lanjutan tanpa balasan Pembeli | 5 chat |
+| Syarat kirim chat lanjutan | Pembeli balas 24 jam–7 hari lalu, ATAU ada pesanan <30 hari / retur berjalan |
+| Chat diblokir sistem kalau | Pembeli gak balas >7 hari |
+| Waktu hapus pesan sendiri | dalam 10 menit sejak dikirim |
+| Maks. produk rekomendasi dikirim sekaligus | 4 |
+
+## Pertanyaan diagnosa
+
+1. **Pembeli terakhir balas kapan?** <24 jam → bisa chat bebas. 24 jam–7 hari → maks. 5 chat lanjutan (dan cuma kalau ada pesanan aktif/retur). >7 hari → chat diblokir sistem, gak bisa kirim lagi sampai Pembeli balas atau ada pesanan/retur baru.
+2. **Udah kehabisan jatah 5 chat lanjutan?** Kalau iya, itu penyebab paling umum "chat gue kok gak kekirim".
+3. **Persentase Chat Dibalas turun — chat yang mana yang telat?** Cek filter Segera Balas / Telat Balas, bukan cuma Belum Dibaca.
+4. **Yang ditanyakan soal fitur spesifik apa** — filter chat, kirim voucher/produk, auto-reply, atau limit chat lanjutan? Entry ini menggabungkan semuanya, jawab bagian yang relevan aja.
+
+## Batasan
+Entry ini menggabungkan banyak sub-topik (navigasi UI, aturan limit chat, fitur sales-in-chat, pengaturan Asisten Chat, laporan pengguna) dalam satu artikel resmi yang panjang. Kalau member cuma butuh satu bagian, jangan dump semuanya.

@@ -11,17 +11,17 @@ valid_as_of: 2026-04
 sources:
   - file: pel-pembeli---shopee-certified-enablers/shopee-certified-enablers-program-informasi-untuk-enabler.md
     bagian: "artikel penuh"
+related: [shp-enabler-001, shp-enabler-003]
 ---
 # Shopee-Certified Enablers Program: Informasi untuk Enabler
 
 ## Ringkasan
-**Apa itu Shopee-Certified Enablers Program?**
+Shopee-Certified Enablers Program menilai enabler/agency (kayak MEA) berdasarkan 4 metrik Operasional (keterlambatan pengiriman, chat dibalas, poin penalti, masa pengemasan) dan 7 metrik Engagement (Flash Sale, Voucher, Iklan, Promo, Live, Video, SKU aktif AMS) dari seluruh Penjual yang dikelola — hasilnya nentuin tingkatan Premium/Certified/Not Certified/Below Expectation.
 
+## Kapan ini dipakai
+Dipakai waktu perlu tahu detail teknis penilaian (rumus poin, contoh perhitungan) — buat FAQ singkat soal eligibilitas/aturan umum, pakai `shp-enabler-001`.
 
-
-Shopee-Certified Enablers Program merupakan program penghargaan bagi para Enabler yang memberikan layanan operasional dengan sangat baik dan secara aktif mengembangkan bisnis mitranya di Shopee.
-
-  
+## Isi
 
 📍 **Definisi**
 
@@ -255,4 +255,24 @@ Jika Enabler X berhasil mengaktifkan setidaknya ≥ 3 toko baru dalam satu kuart
 
   
 
-Enabler X mengelola lebih dari 10 Penjual untuk Operasional, tetapi kurang dari 10 Penjual untuk *Engagement*, maka mereka tidak memenuhi syarat untuk menjadi Enabler **Premium** dan hanya akan diberi peringkat sebagai Enabler **Certified**.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+Enabler X mengelola lebih dari 10 Penjual untuk Operasional, tetapi kurang dari 10 Penjual untuk *Engagement*, maka mereka tidak memenuhi syarat untuk menjadi Enabler **Premium** dan hanya akan diberi peringkat sebagai Enabler **Certified**.
+
+## Angka & patokan
+
+| Tingkat | Operasional | Engagement | Min. Penjual dikelola |
+|---|---|---|---|
+| Premium | ≥ 0,85 poin | ≥ 0,85 poin | 10 |
+| Certified | ≥ 0,7 poin | ≥ 0,7 poin | 3 |
+| Not Certified | ≥ 0,35 poin | — | 3 |
+| Below Expectation | < 0,35 poin | — | — |
+
+**Catatan penting:** tingkat **Premium butuh min. 10 Penjual di KEDUA kategori** (Operasional & Engagement) — kalau salah satu di bawah 10, otomatis turun ke Certified walau poinnya udah cukup (lihat contoh Enabler X di atas).
+
+## Pertanyaan diagnosa
+
+1. **Enabler-nya kelola berapa Penjual di masing-masing kategori (Operasional vs Engagement)?** Ini sering jadi penyebab "kenapa gak Premium padahal poin udah tinggi" — butuh min. 10 Penjual di DUA-duanya, bukan cuma salah satu.
+2. **Poin operasional lagi turun — dari metrik mana?** 4 kemungkinan: keterlambatan pengiriman, persentase chat dibalas, poin penalti, atau masa pengemasan. Masing-masing bisa dicek terpisah di laporan mingguan.
+3. **Ini pertanyaan soal aturan umum atau butuh contoh hitungan poin?** Kalau cuma soal aturan umum/eligibilitas, arahkan ke `shp-enabler-001` yang lebih ringkas.
+
+## Batasan
+Tabel kriteria penilaian berlaku mulai Q1 2026 dan eksplisit disebut "*update*" — kemungkinan besar berubah lagi tiap kuartal/tahun. Selalu cek `valid_as_of` sebelum kasih angka pasti ke enabler soal skor kuartal berjalan.

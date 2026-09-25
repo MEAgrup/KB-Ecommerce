@@ -15,9 +15,12 @@ sources:
 # Kapan Penjual dapat Melaporkan Ulasan Pembeli?
 
 ## Ringkasan
-Penilaian produk dari tiap Pembeli dapat bermanfaat bagi seluruh komunitas Shopee. Namun, ulasan yang menggunakan kata-kata kasar atau tidak pantas dapat dilaporkan untuk dihapus.
+Ulasan Pembeli cuma bisa dilaporkan kalau masuk 5 kategori: bahasa tidak pantas, foto/video tidak relevan, spam, info pribadi/sensitif, atau gak relevan sama kualitas produk. Rating rendah TANPA salah satu kategori ini gak akan ditindak Shopee — sesabar apapun member, itu bukan pelanggaran.
 
+## Kapan ini dipakai
+Dipakai waktu member kesal dapat ulasan bintang 1 dan mau "laporin aja" — jawaban pertama harus ngecek dulu apakah ulasannya beneran masuk kategori pelanggaran, atau cuma rating jelek yang sah-sah aja (gak bisa dihapus).
 
+## Isi
 
 **Jenis Penilaian dan Ulasan yang Tidak Pantas**
 
@@ -61,3 +64,17 @@ Sebelum menghapus penilaian untuk salah satu pelanggaran di atas, Shopee akan me
   
 
 Shopee akan menghapus penilaian yang berisi informasi pribadi tanpa persetujuan siapa pun.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu tinjau laporan ulasan | 5 hari kerja |
+| Batas waktu Pembeli bisa ubah penilaian | 120 hari setelah pesanan selesai |
+
+## Pertanyaan diagnosa
+
+1. **Ulasannya masuk salah satu dari 5 kategori pelanggaran** (bahasa tidak pantas / foto-video gak relevan / spam / info pribadi / gak relevan sama kualitas produk)? Kalau enggak, laporan gak akan diproses — sesekalipun ratingnya rendah.
+2. **Udah dicoba hubungi Pembeli langsung via chat dulu?** Ini disarankan Shopee sebelum lapor — Pembeli bisa aja ubah ulasannya sendiri kalau masalahnya diselesaikan.
+3. **Ulasan negatifnya udah lewat berapa hari sejak pesanan selesai?** Kalau udah lewat 120 hari, Pembeli sendiri udah gak bisa ubah ulasannya lagi — jadi hubungi Pembeli secepatnya kalau mau opsi itu.
+4. **Ulasannya berisi info pribadi (nomor HP/rekening/alamat)?** Ini satu-satunya kategori yang dihapus TANPA perlu persetujuan siapa pun — kategori lain butuh persetujuan pihak yang bikin ulasan dulu.

@@ -11,13 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: pel-pembeli---tentang-asisten-ai-chat/faq-fitur-chat-penjual.md
     bagian: "artikel penuh"
+related: [shp-chat-001, shp-layanan-001]
 ---
 # FAQ Fitur Chat Penjual
 
 ## Ringkasan
-**FAQ Umum**
+FAQ ringkas soal Fitur Chat Penjual — cara akses (aplikasi/Seller Centre/Portal), cara pertahankan Persentase Chat Dibalas & waktu respon, kenapa pesan disensor, dan fitur manajemen penjualan (kirim rincian pesanan, Koin/ShopeePay, rekomendasi produk).
 
+## Kapan ini dipakai
+Dipakai buat pertanyaan cepat seputar chat yang gak butuh detail panjang — untuk panduan lengkap step-by-step, arahkan ke `shp-chat-001`.
 
+## Isi
 
 **1. Di mana saya dapat mengakses Fitur Chat Penjual?**
 
@@ -151,3 +155,13 @@ Ya, rincian pesanan dapat dilihat dan dibagikan langsung di Fitur Chat Penjual s
 Untuk menciptakan pengalaman *chat* yang lebih informatif, rekomendasikan produk yang mungkin diminati Pembeli atau kirimkan voucher produk Anda kepada mereka. 
 
 Pelajari lebih lanjut mengenai[ **Mengatur Penjualan pada Portal Fitur Chat Penjual**](https://seller.shopee.co.id/edu/article/10785).
+
+## Pertanyaan diagnosa
+
+1. **Pesan member gak terkirim ke Pembeli?** Cek dulu apakah kena sensor Shopee (info sensitif kayak nomor kontak/rekening bank) sebelum curiga bug.
+2. **Pembeli udah blokir toko?** Kalau iya, gak ada chat yang bisa masuk/keluar sama sekali — beda dari sekadar "gak dibalas".
+3. **Butuh kirim pesan massal?** Fitur Chat Penjual gak bisa — arahkan ke Chat Broadcast.
+4. **Toko punya banyak tim/anggota buat handle chat?** Bisa diatur grup Sebelum/Sesudah Penjualan biar chat otomatis ke-routing ke orang yang tepat — detail di `shp-chat-001`.
+
+## Batasan
+Entry ini FAQ ringkas — kalau butuh detail lengkap (angka pasti, cara step-by-step), cek `shp-chat-001` dan `shp-layanan-001`.

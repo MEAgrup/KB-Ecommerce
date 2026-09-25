@@ -2062,7 +2062,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-chat-002, shp-layanan-001",
     "decisions": "",
     "path": "shopee/layanan-pembeli/01-cara-menggunakan-fitur-chat-penjual.md"
   },
@@ -2088,7 +2088,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-07",
-    "related": "",
+    "related": "shp-enabler-002, shp-enabler-003",
     "decisions": "",
     "path": "shopee/layanan-pembeli/01-faq-shopee-certified-enablers-program-untuk-enabler.md"
   },
@@ -2101,7 +2101,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-chat-001, shp-layanan-001",
     "decisions": "",
     "path": "shopee/layanan-pembeli/02-faq-fitur-chat-penjual.md"
   },
@@ -2127,7 +2127,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-enabler-001, shp-enabler-003",
     "decisions": "",
     "path": "shopee/layanan-pembeli/02-shopee-certified-enablers-program-informasi-untuk-enabler.md"
   },
@@ -2140,7 +2140,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-enabler-001, shp-enabler-002",
     "decisions": "",
     "path": "shopee/layanan-pembeli/03-shopee-certified-enablers-program-informasi-untuk-penjual.md"
   },
@@ -2153,7 +2153,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-chat-001, shp-chat-002, shp-layanan-001",
     "decisions": "",
     "path": "shopee/layanan-pembeli/03-tentang-asisten-ai-chat.md"
   },
@@ -2166,7 +2166,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-layanan-001, shp-chat-001, shp-chat-002, shp-chat-003",
     "decisions": "",
     "path": "shopee/layanan-pembeli/03-tentang-pelayanan-pembeli.md"
   },

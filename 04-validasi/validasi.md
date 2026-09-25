@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **1167**
+- PERINGATAN: **1152**
 
 ## Status entry
 
@@ -968,60 +968,45 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/layanan-pembeli/01-cara-menggunakan-fitur-chat-penjual.md` · shp-chat-001
 
 - sumber tanpa penunjuk bagian: file: pel-pembeli---tentang-asisten-ai-chat/cara-menggunakan-fitur-cha
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2907 kata — kemungkinan dua topik yang belum dipisah
+- 3206 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/layanan-pembeli/01-faq-persentase-chat-dibalas.md` · shp-layanan-001
 
 - sumber tanpa penunjuk bagian: file: pel-pembeli---kebijakan-pelayanan-pembeli/faq-persentase-chat-di
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1407 kata — kemungkinan dua topik yang belum dipisah
+- 1629 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/layanan-pembeli/01-faq-shopee-certified-enablers-program-untuk-enabler.md` · shp-enabler-001
 
 - sumber tanpa penunjuk bagian: file: pel-pembeli---shopee-certified-enablers/faq-shopee-certified-ena
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1332 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/layanan-pembeli/02-faq-fitur-chat-penjual.md` · shp-chat-002
 
 - sumber tanpa penunjuk bagian: file: pel-pembeli---tentang-asisten-ai-chat/faq-fitur-chat-penjual.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1232 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/layanan-pembeli/02-kapan-penjual-dapat-melaporkan-ulasan-pembeli.md` · shp-layanan-002
 
 - sumber tanpa penunjuk bagian: file: pel-pembeli---kebijakan-pelayanan-pembeli/kapan-penjual-dapat-me
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/layanan-pembeli/02-shopee-certified-enablers-program-informasi-untuk-enabler.md` · shp-enabler-002
 
 - sumber tanpa penunjuk bagian: file: pel-pembeli---shopee-certified-enablers/shopee-certified-enabler
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1337 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/layanan-pembeli/03-shopee-certified-enablers-program-informasi-untuk-penjual.md` · shp-enabler-003
 
 - sumber tanpa penunjuk bagian: file: pel-pembeli---shopee-certified-enablers/shopee-certified-enabler
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/layanan-pembeli/03-tentang-asisten-ai-chat.md` · shp-chat-003
 
 - sumber tanpa penunjuk bagian: file: pel-pembeli---tentang-asisten-ai-chat/tentang-asisten-ai-chat.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1691 kata — kemungkinan dua topik yang belum dipisah
+- 1979 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/layanan-pembeli/03-tentang-pelayanan-pembeli.md` · shp-layanan-003
 
 - sumber tanpa penunjuk bagian: file: pel-pembeli---kebijakan-pelayanan-pembeli/tentang-pelayanan-pemb
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1443 kata — kemungkinan dua topik yang belum dipisah
+- 1704 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/01-faq-shopee-live.md` · shp-live-001
 

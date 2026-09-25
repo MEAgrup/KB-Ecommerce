@@ -157,15 +157,15 @@ shp-biaya-008,Rincian Persentase Gratis Ongkir XTRA: Kategori Produk dan Tipe Pe
 shp-keuangan-008,Tentang Penghasilan Saya,shopee,keuangan,3,canonical,true,2026-07,,,shopee/keuangan/08-tentang-penghasilan-saya.md
 shp-keuangan-101,"Margin tipis sering jadi akar masalah, bukan biaya admin yang ""kemahalan",shopee,keuangan,2,canonical,true,tidak-diketahui,shp-biaya-002,,shopee/keuangan/09-margin-tipis-akar-masalah-bukan-biaya-admin.md
 shp-biaya-009,Ringkasan Jenis Biaya untuk Berjualan di Shopee,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/09-ringkasan-jenis-biaya-untuk-berjualan-di-shopee.md
-shp-chat-001,Cara Menggunakan Fitur Chat Penjual,shopee,layanan-pembeli,3,canonical,true,2026-07,,,shopee/layanan-pembeli/01-cara-menggunakan-fitur-chat-penjual.md
+shp-chat-001,Cara Menggunakan Fitur Chat Penjual,shopee,layanan-pembeli,3,canonical,true,2026-07,"shp-chat-002, shp-layanan-001",,shopee/layanan-pembeli/01-cara-menggunakan-fitur-chat-penjual.md
 shp-layanan-001,FAQ Persentase Chat Dibalas,shopee,layanan-pembeli,2,canonical,true,2026-03,,,shopee/layanan-pembeli/01-faq-persentase-chat-dibalas.md
-shp-enabler-001,FAQ Shopee-Certified Enablers Program untuk Enabler,shopee,layanan-pembeli,2,canonical,true,2024-07,,,shopee/layanan-pembeli/01-faq-shopee-certified-enablers-program-untuk-enabler.md
-shp-chat-002,FAQ Fitur Chat Penjual,shopee,layanan-pembeli,2,canonical,true,2026-07,,,shopee/layanan-pembeli/02-faq-fitur-chat-penjual.md
+shp-enabler-001,FAQ Shopee-Certified Enablers Program untuk Enabler,shopee,layanan-pembeli,2,canonical,true,2024-07,"shp-enabler-002, shp-enabler-003",,shopee/layanan-pembeli/01-faq-shopee-certified-enablers-program-untuk-enabler.md
+shp-chat-002,FAQ Fitur Chat Penjual,shopee,layanan-pembeli,2,canonical,true,2026-07,"shp-chat-001, shp-layanan-001",,shopee/layanan-pembeli/02-faq-fitur-chat-penjual.md
 shp-layanan-002,Kapan Penjual dapat Melaporkan Ulasan Pembeli?,shopee,layanan-pembeli,1,canonical,false,2026-07,,,shopee/layanan-pembeli/02-kapan-penjual-dapat-melaporkan-ulasan-pembeli.md
-shp-enabler-002,Shopee-Certified Enablers Program: Informasi untuk Enabler,shopee,layanan-pembeli,2,canonical,true,2026-04,,,shopee/layanan-pembeli/02-shopee-certified-enablers-program-informasi-untuk-enabler.md
-shp-enabler-003,Shopee-Certified Enablers Program: Informasi untuk Penjual,shopee,layanan-pembeli,1,canonical,true,2026-07,,,shopee/layanan-pembeli/03-shopee-certified-enablers-program-informasi-untuk-penjual.md
-shp-chat-003,Tentang Asisten AI Chat,shopee,layanan-pembeli,2,canonical,true,2026-08,,,shopee/layanan-pembeli/03-tentang-asisten-ai-chat.md
-shp-layanan-003,Tentang Pelayanan Pembeli,shopee,layanan-pembeli,2,canonical,true,2026-03,,,shopee/layanan-pembeli/03-tentang-pelayanan-pembeli.md
+shp-enabler-002,Shopee-Certified Enablers Program: Informasi untuk Enabler,shopee,layanan-pembeli,2,canonical,true,2026-04,"shp-enabler-001, shp-enabler-003",,shopee/layanan-pembeli/02-shopee-certified-enablers-program-informasi-untuk-enabler.md
+shp-enabler-003,Shopee-Certified Enablers Program: Informasi untuk Penjual,shopee,layanan-pembeli,1,canonical,true,2026-07,"shp-enabler-001, shp-enabler-002",,shopee/layanan-pembeli/03-shopee-certified-enablers-program-informasi-untuk-penjual.md
+shp-chat-003,Tentang Asisten AI Chat,shopee,layanan-pembeli,2,canonical,true,2026-08,"shp-chat-001, shp-chat-002, shp-layanan-001",,shopee/layanan-pembeli/03-tentang-asisten-ai-chat.md
+shp-layanan-003,Tentang Pelayanan Pembeli,shopee,layanan-pembeli,2,canonical,true,2026-03,"shp-layanan-001, shp-chat-001, shp-chat-002, shp-chat-003",,shopee/layanan-pembeli/03-tentang-pelayanan-pembeli.md
 shp-live-001,FAQ Shopee Live,shopee,live-dan-video,3,canonical,true,2026-05,,,shopee/live-dan-video/01-faq-shopee-live.md
 shp-video-001,Ketentuan Penggunaan Konten Dihasilkan AI di Shopee Video,shopee,live-dan-video,2,canonical,true,2026-08,,,shopee/live-dan-video/01-ketentuan-penggunaan-konten-dihasilkan-ai-di-shopee-video.md
 shp-live-002,Fitur di Shopee Live untuk Tingkatkan Konversi,shopee,live-dan-video,3,canonical,true,2026-01,,,shopee/live-dan-video/02-fitur-di-shopee-live-untuk-tingkatkan-konversi.md

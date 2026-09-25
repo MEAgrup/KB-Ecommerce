@@ -11,13 +11,17 @@ valid_as_of: 2024-07
 sources:
   - file: pel-pembeli---shopee-certified-enablers/faq-shopee-certified-enablers-program-untuk-enabler.md
     bagian: "artikel penuh"
+related: [shp-enabler-002, shp-enabler-003]
 ---
 # FAQ Shopee-Certified Enablers Program untuk Enabler
 
 ## Ringkasan
-**Eligibilitas**
+Shopee-Certified Enablers Program adalah program sertifikasi buat agency/enabler yang mengelola Penjual Shopee — dinilai per kuartal dari metrik Operasional dan *Engagement*, minimal kelola 3 Penjual buat memenuhi syarat (10 Penjual per negara buat tingkat Premium).
 
+## Kapan ini dipakai
+Dipakai kalau ada pertanyaan dari sisi **enabler/agency** (bukan seller langsung) soal syarat ikut program, cara dinilai, atau kenapa dikeluarkan dari program — relevan buat MEA sendiri sebagai agency yang mengelola banyak toko klien.
 
+## Isi
 
 **1. Dapatkah saya bergabung dengan Shopee-Certified Enablers Program jika saya hanya mengelola performa** **Engagement** **dari mitra Penjual dan bukan performa operasional?**
 
@@ -211,4 +215,24 @@ Tidak. Namun, Anda perlu memasukkan semua Penjual yang Anda kelola di setiap neg
 Anda dapat memperbarui dan melaporkan kepada Shopee melalui[ formulir ini](https://shopeeregionalops.typeform.com/to/A9fXGbzd).
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Min. Penjual dikelola buat memenuhi syarat program | 3 (per negara) |
+| Min. Penjual dikelola buat tingkat Premium | 10 (per negara, per kategori Operasional/Engagement) |
+| Min. metrik dikelola per Penjual | 3 metrik Operasional atau 3 metrik Engagement |
+| Skor min. buat Certified | ≥ 0,7 poin |
+| Skor sertifikasi parsial (Certified Operasional saja) | Operasional ≥0,7 poin, Engagement <0,7 poin |
+| Batas waktu update perubahan Penjual/layanan | 1 minggu sejak perubahan dikonfirmasi |
+| Threshold Tingkat Pesanan Tidak Terselesaikan/Keterlambatan Pengiriman buat bonus | < 3% (khusus minggu setelah promo besar 9.9/10.10/11.11/12.12) |
+| Bonus poin kalau threshold di atas terpenuhi | +0,5 poin (di atas +1,0 poin biasa) |
+
+## Pertanyaan diagnosa
+
+1. **Ini pertanyaan dari enabler/agency atau dari seller?** Program ini buat agency yang MENGELOLA seller, bukan seller langsung.
+2. **Enabler-nya kelola berapa Penjual di negara ini?** Di bawah 3 → dikeluarkan dari program (dapat tingkatan Not Certified/Below Expectation).
+3. **Kalau enabler dikeluarkan karena di bawah 3 Penjual, bisa daftar ulang?** Bisa, tapi cuma di kuartal baru — poin di-reset, gak bisa keluar-masuk di tengah kuartal yang sama.
+4. **Sudah update Shopee soal perubahan Penjual yang dikelola?** Wajib dalam 1 minggu sejak perubahan, kalau enggak bisa kena penurunan tingkatan.
+
+## Batasan
+Threshold bonus 9.9/10.10/11.11/12.12 dan aturan poin operasional ini bertanggal (2024-07) — kebijakan program sertifikasi kayak gini biasa direvisi tiap kuartal/tahun. Cek `valid_as_of` sebelum dipakai jawab pasti ke enabler soal skor kuartal berjalan.
