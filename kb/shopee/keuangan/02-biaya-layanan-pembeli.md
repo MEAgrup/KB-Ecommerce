@@ -15,12 +15,16 @@ sources:
 # Biaya Layanan Pembeli
 
 ## Ringkasan
+**Biaya Layanan Pembeli dikenakan ke PEMBELI, bukan Penjual** — beda dari Biaya Layanan Penjual (Promo XTRA/XTRA+/Gratis Ongkir XTRA). Muncul di setiap checkout, sudah termasuk PPN, dan dikembalikan otomatis kalau ada pembatalan/retur.
+
+## Kapan ini dipakai
+Dipakai waktu member (Penjual) salah paham dan ngira "Biaya Layanan Pembeli" ini potongan ke mereka — padahal ini biaya yang dibayar Pembeli saat checkout, gak masuk perhitungan biaya Penjual sama sekali.
+
+## Isi
+
 Biaya Layanan Pembeli adalah biaya yang digunakan untuk pengembangan sistem agar Shopee dapat terus melayani Pelanggan dengan lebih baik lagi. Berikut beberapa hal yang perlu diketahui:
 
 
-26-02-2026
-
-Biaya Layanan Pembeli adalah biaya yang digunakan untuk pengembangan sistem agar Shopee dapat terus melayani Pelanggan dengan lebih baik lagi. Berikut beberapa hal yang perlu diketahui:
 
   - Biaya Layanan Pembeli (sudah termasuk biaya lainnya jika ada) akan dikenakan kepada Pembeli untuk setiap transaksi (termasuk produk digital) baik di situs ataupun aplikasi Shopee.
   - Biaya Layanan Pembeli sudah termasuk biaya Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan peraturan perundang-undangan pajak yang berlaku.
@@ -38,3 +42,12 @@ Biaya Layanan Pembeli dapat dilihat pada saat Pembeli melakukan checkout pesanan
 
   - Apabila terdapat pembatalan pesanan dan pengembalian barang/dana secara penuh atau sebagian, maka Biaya Layanan Pembeli akan dikembalikan mengikuti ketentuan yang berlaku.
   - Biaya layanan Pembeli ini berlaku untuk Pembeli, sehingga berbeda dengan[ Biaya Layanan Penjual pada Program Promo XTRA, Promo XTRA+, dan Gratis Ongkir XTRA](https://seller.shopee.co.id/edu/article/7216) yang diikuti oleh Penjual Shopee.
+
+## Pertanyaan diagnosa
+
+1. **Member nanya soal "Biaya Layanan" — ini Biaya Layanan Pembeli atau Biaya Layanan Penjual?** Dua hal beda total: yang satu dibayar Pembeli saat checkout, yang satu dipotong dari Penjual buat program Promo/Gratis Ongkir XTRA.
+2. **Ada pembatalan/retur, tapi Pembeli komplain Biaya Layanan gak balik?** Cek dulu apakah pembatalannya penuh atau sebagian — pengembaliannya ngikutin ketentuan yang berlaku, gak selalu 100%.
+3. **Ini soal produk digital?** Biaya Layanan Pembeli tetap berlaku bahkan buat produk digital, bukan cuma barang fisik.
+
+## Batasan
+Entry ini pendek dan gak punya rincian persentase/nominal Biaya Layanan Pembeli — cuma menjelaskan konsepnya. Kalau member butuh angka pasti, entry ini belum cukup.

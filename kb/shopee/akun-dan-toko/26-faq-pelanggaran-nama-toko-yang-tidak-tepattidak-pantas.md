@@ -11,18 +11,21 @@ valid_as_of: 2022-07
 sources:
   - file: umum--mulai-berjualan/faq-pelanggaran-nama-toko-yang-tidak-tepattidak-pantas.md
     bagian: "artikel penuh"
+related: [shp-toko-025, shp-penalti-004]
 ---
 # FAQ Pelanggaran Nama Toko yang Tidak Tepat/Tidak Pantas
 
 ## Ringkasan
+Nama toko yang dapat peringatan pelanggaran WAJIB diubah dalam 5 HARI KERJA (kalau gak, kena poin penalti). Perubahan nama toko dibatasi 1x/30 HARI. Kalau nama toko yang udah diubah MASIH ditandai pelanggaran, atau kalau merasa poin penaltinya salah, bisa banding via Customer Service Shopee atau formulir Kebijakan Nama Toko.
+
+## Kapan ini dipakai
+Dipakai kalau member dapat notifikasi peringatan nama toko melanggar dan nanya harus apa. Buat FAQ nama & logo toko lebih umum, arahkan ke `shp-toko-025`; buat cara ajukan banding poin penalti, arahkan ke `shp-penalti-004`.
+
+## Isi
+
 Berikut adalah jawaban atas beberapa pertanyaan umum yang mungkin Anda miliki tentang pelanggaran nama toko yang tidak tepat/tidak pantas:
 
 
-08-07-2022
-
-Berikut adalah jawaban atas beberapa pertanyaan umum yang mungkin Anda miliki tentang pelanggaran nama toko yang tidak tepat/tidak pantas:
-
-  
 
 **1. Bagaimana saya tahu jika saya melanggar Kebijakan Nama Toko?**
 
@@ -59,3 +62,18 @@ Ya, Anda dapat mengajukan banding terhadap poin penalti yang diterima dengan men
   
 
 Pelajari lebih lanjut mengenai[ Ketentuan Shopee Tentang Penamaan Toko](https://seller.shopee.co.id/edu/article/324).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas waktu ubah nama toko setelah peringatan | 5 hari kerja |
+| Jeda ubah nama toko | 1x per 30 hari |
+
+## Pertanyaan diagnosa
+
+1. **Member dapat notifikasi peringatan nama toko melanggar, harus ngapain?** SEGERA ubah nama toko dalam 5 HARI KERJA sejak notifikasi diterima, sebelum kena poin penalti.
+2. **Member merasa nama tokonya gak melanggar, kok dapat peringatan?** Bisa ajukan banding lewat formulir Kebijakan Nama Toko yang ditautkan di sumber.
+3. **Member udah ganti nama toko minggu lalu, mau ganti lagi karena masih ditandai pelanggaran?** Kalau statusnya MASIH ditandai pelanggaran meski udah diubah, JANGAN coba-coba ganti sendiri lagi — arahkan hubungi Customer Service Shopee buat bantuan lebih lanjut.
+4. **Member udah kena poin penalti dari nama toko, merasa gak adil?** Bisa banding — hubungi Customer Service Shopee buat ajukan banding poin penalti.
+5. **Member mau ganti nama toko 2x dalam sebulan?** TIDAK BISA — cuma boleh 1x per 30 hari, biar Pembeli gak bingung.

@@ -15,12 +15,12 @@ sources:
 # Program Sukses UMKM Baru
 
 ## Ringkasan
-**Apa itu Program Sukses UMKM Baru?**
+Program Sukses UMKM Baru — dukungan khusus buat toko UMKM (non-Mall) yang buka **1 Jan 2025 s.d. 31 Jul 2026**: gratis biaya admin (50 pesanan/180 hari), gratis biaya proses pesanan (50 pesanan), gratis Gratis Ongkir XTRA (500 pesanan/180 hari), kelas online gratis, plus voucher Rp2 juta (dicicil Rp500rb/minggu selama 1 bulan) kalau klaim manual sebelum 50 pesanan pertama.
 
+## Kapan ini dipakai
+**Cek dulu tanggal buka toko member sebelum jawab** — program ini cuma berlaku buat toko yang upload produk pertama antara 1 Jan 2025–31 Jul 2026. Kalau toko buka di luar rentang itu, member gak eligible, apapun kriteria lainnya.
 
-26-06-2026
-
-**Apa itu Program Sukses UMKM Baru?**
+## Isi
 
 **Program Sukses UMKM Baru** adalah program yang memberikan berbagai dukungan bagi Penjual UMKM yang baru memulai berjualan di Shopee untuk mengembangkan bisnisnya dan menarik lebih banyak Pembeli di Shopee.
 
@@ -30,16 +30,16 @@ Program ini memberikan berbagai dukungan kepada Penjual UMKM (Non-Shopee Mall) y
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*DUKUNGAN UNTUK PENJUAL UMKM BARU\*\* | \*\*PENJUAL UMKM YANG MEMBUKA TOKO MULAI 1 JANUARI 2025 S.D 31 JULI 2026\*\* |  |
-|    | \*\*Biaya Administrasi\*\* | Gratis\\\* untuk 50 pesanan pertama terselesaikan atau 6 bulan (180 hari) sejak Penjual \*upload\* produk pertama kali di Shopee. |
-|    | \*\*Biaya Proses Pesanan\*\* | Gratis untuk 50 pesanan pertama terselesaikan. |
-|    | \*\*Biaya Gratis Ongkir XTRA\*\* | Gratis\\\*\\\* untuk 500 pesanan pertama terselesaikan atau 6 bulan (180 hari) sejak Penjual \*upload\* produk pertama kali di Shopee. |
-|    | \*\*Kelas\*\* \*\*\*Online\*\*\* \*\*Spesial UMKM Baru\*\* | GRATIS |
-|    | \*\*Dukungan Khusus\*\* | Gratis Voucher Rp2JT/bulan (atau 500RB/minggu) |
+| **DUKUNGAN UNTUK PENJUAL UMKM BARU** | **PENJUAL UMKM YANG MEMBUKA TOKO MULAI 1 JANUARI 2025 S.D 31 JULI 2026** |  |
+|    | **Biaya Administrasi** | Gratis\\\* untuk 50 pesanan pertama terselesaikan atau 6 bulan (180 hari) sejak Penjual \*upload\* produk pertama kali di Shopee. |
+|    | **Biaya Proses Pesanan** | Gratis untuk 50 pesanan pertama terselesaikan. |
+|    | **Biaya Gratis Ongkir XTRA** | Gratis\\\*\\\* untuk 500 pesanan pertama terselesaikan atau 6 bulan (180 hari) sejak Penjual \*upload\* produk pertama kali di Shopee. |
+|    | **Kelas** **\*Online**\* **Spesial UMKM Baru** | GRATIS |
+|    | **Dukungan Khusus** | Gratis Voucher Rp2JT/bulan (atau 500RB/minggu) |
 
 \**Berlaku bagi Penjual baru yang tidak bergabung dalam program opsional Promo XTRA/Promo XTRA+*/*Shopee Live XTRA*/*Shopee Video XTRA.*
 
-*\*\*Berlaku bagi Penjual yang membuka toko sebelum 1 Februari 2026.*
+**Berlaku bagi Penjual yang membuka toko sebelum 1 Februari 2026.*
 
   
 
@@ -92,3 +92,24 @@ Penjual yang pertama kali meng-*upload* produk pada **1 Februari - 31 Juli 2026*
   - Shopee dapat mengubah ketentuan program yang berlaku sewaktu-waktu tanpa pemberitahuan terlebih dahulu, termasuk menghentikan/mengubah dukungan.
   - Jika Anda belum membuat toko di Shopee, pelajari[ Berjualan di Shopee](https://seller.shopee.co.id/edu/article/464) untuk mendaftar sebagai Penjual Shopee terlebih dahulu.
   - Jika Anda memiliki pertanyaan lebih lanjut, hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270).
+
+## Angka & patokan
+
+| Dukungan | Batas |
+|---|---|
+| Jendela toko eligible | buka 1 Jan 2025 – 31 Jul 2026 |
+| Gratis Biaya Administrasi | 50 pesanan pertama ATAU 180 hari sejak upload produk pertama (mana lebih dulu) |
+| Gratis Biaya Proses Pesanan | 50 pesanan pertama |
+| Gratis Gratis Ongkir XTRA | 500 pesanan (atau 1.000 untuk yang upload 1 Mei–30 Jun 2026) / 180 hari (atau 1 tahun) |
+| Voucher dukungan khusus | Rp2.000.000 total, dicicil Rp500.000/minggu selama 1 bulan |
+| Syarat klaim voucher | min. 5 produk aktif + rekening terverifikasi, klaim maks. 1 bulan sejak upload produk pertama |
+
+## Pertanyaan diagnosa
+
+1. **Toko member buka kapan?** Di luar rentang 1 Jan 2025–31 Jul 2026 → gak eligible, langsung stop di sini.
+2. **Udah ikut program opsional Promo XTRA/Promo XTRA+, Shopee Video XTRA, atau Shopee Live XTRA?** Kalau iya, gratis Biaya Administrasi-nya GAK berlaku — ini exclusion penting yang sering kelewat.
+3. **Voucher Rp2jt udah diklaim?** Ini gak otomatis — wajib isi formulir maks. 1 bulan sejak upload produk pertama, dan minimal 5 produk aktif + rekening terverifikasi.
+4. **Sudah nyampe 50 pesanan atau 180 hari?** Itu dua pemicu independen — mana yang duluan tercapai, gratis biaya adminnya berakhir di situ.
+
+## Batasan
+Program ini **berjendela waktu ketat** (toko buka 1 Jan 2025–31 Jul 2026) dan `valid_as_of` entry ini 2026-06 — kemungkinan besar sudah tutup pendaftaran atau berganti syarat baru per sekarang. Jangan janjikan dukungan ini ke toko yang buka setelah windownya tutup tanpa cek ulang ke sumber resmi terbaru.

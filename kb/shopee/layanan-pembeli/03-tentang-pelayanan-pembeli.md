@@ -11,16 +11,17 @@ valid_as_of: 2026-03
 sources:
   - file: pel-pembeli---kebijakan-pelayanan-pembeli/tentang-pelayanan-pembeli.md
     bagian: "artikel penuh"
+related: [shp-layanan-001, shp-chat-001, shp-chat-002, shp-chat-003]
 ---
 # Tentang Pelayanan Pembeli
 
 ## Ringkasan
-**Memahami Pelayanan Pembeli**
+Artikel utama soal 3 metrik Tanggapan Chat (Persentase Chat Dibalas, Waktu Respon Chat Pertama Kali, Waktu Respon Rata-rata) — semua dihitung dari chat 30 hari terakhir, update harian. Persentase Chat Dibalas min. 60% adalah syarat jadi Penjual Star, dan pelayanan buruk bisa kena poin penalti.
 
+## Kapan ini dipakai
+Ini entry RUJUKAN UTAMA buat semua pertanyaan soal metrik chat — dipakai waktu member nanya definisi/cara hitung metrik, atau nanya konsekuensi kalau pelayanan chat-nya jelek (syarat Penjual Star, poin penalti).
 
-17-03-2026
-
-**Memahami Pelayanan Pembeli**
+## Isi
 
 Pelayanan Pembeli adalah cara untuk meyakinkan calon Pembeli untuk bertransaksi di toko Anda. Faktanya, membangun hubungan yang baik dengan Pembeli adalah salah satu faktor kunci keberhasilan bagi para Penjual pilihan Pembeli di Shopee.
 
@@ -32,15 +33,15 @@ Pelayanan Pembeli yang Anda berikan melalui *chat* diukur berdasarkan kecepatan 
 
 Merespon *chat* Pembeli dengan cepat akan menguntungkan Anda, di antaranya:
 
-  - **\*\*Meningkatkan penjualan dengan membuat Pembeli lebih cepat mengambil keputusan untuk membeli produk Anda\*\***
+  - **Meningkatkan penjualan dengan membuat Pembeli lebih cepat mengambil keputusan untuk membeli produk Anda**
 
 Pembeli akan lebih suka jika Anda merespon *chat* dengan cepat, terutama saat membandingkan produk Anda dengan produk serupa dari toko lain.
 
-  - **\*\*Mengurangi pengembalian barang dan dana\*\***
+  - **Mengurangi pengembalian barang dan dana**
 
 Memberikan Pembeli informasi yang lengkap akan membantu mereka memahami produk yang Anda jual, sehingga ekspektasi Pembeli mengenai produk Anda sesuai dan mengurangi kemungkinan terjadinya pengembalian barang dan dana.
 
-  - **\*\*Membangun loyalitas Pembeli\*\***
+  - **Membangun loyalitas Pembeli**
 
 Pembeli yang puas dengan respon *chat* Anda akan percaya kepada Anda dan memungkinkan mereka melakukan pembelian berulang pada toko Anda.
 
@@ -157,7 +158,7 @@ Anda juga bisa mempelajari lebih lanjut tentang[ mekanisme perhitungan Persentas
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Berikut adalah beberapa tips yang disarankan agar Anda bisa menjadi Penjual yang responsif:
 
@@ -202,7 +203,7 @@ Berikut adalah beberapa praktik yang disarankan untuk meningkatkan performa Pela
 
 Ikuti juga 3 praktik di bawah ini untuk memberikan balasan berkualitas kepada Pembeli Anda melalui **Fitur Chat Penjual**.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Gunakan fitur Asisten Chat -[ FAQ](https://seller.shopee.co.id/edu/courseDetail/47?lessonId=2193) untuk menyiapkan jawaban yang telah disimpan sebelumnya dan akan dikirim ke Pembeli melalui *chat* secara otomatis.
 
@@ -212,8 +213,27 @@ Berikut adalah daftar pertanyaan umum dari Pembeli dan contoh bagaimana Anda dap
 
   
 
-**FAQ Sebelum Pembelian (*****Pre-sales*****)**
+**FAQ Sebelum Pembelian (**Pre-sales**)**
 
   
 
 **FAQ Setelah Pembelian (Post-sale)**
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Periode perhitungan semua metrik chat | 30 hari terakhir, update harian |
+| Batas waktu respon (biar dihitung positif) | 12 jam |
+| Min. Persentase Chat Dibalas buat syarat Penjual Star | 60% |
+| Min. chat buat metrik bisa dihitung | 2 percakapan dalam 30 hari |
+
+## Pertanyaan diagnosa
+
+1. **Ini soal metrik mana** — Persentase Chat Dibalas, Waktu Respon Chat Pertama Kali, atau Waktu Respon Rata-rata? Ketiganya beda cara hitung meski sama-sama dari data chat 30 hari.
+2. **Toko lagi ngejar/pertahanin status Penjual Star?** Kalau iya, 60% adalah angka minimum yang harus dijaga — di bawah itu bisa gugurin syarat.
+3. **Pelayanan chat-nya kenapa dianggap "tidak profesional"?** Itu beda dari sekadar telat balas — bisa kena poin penalti terpisah, bukan cuma dampak ke Persentase Chat Dibalas.
+4. **Sudah pakai Shortcut/Template Pesan atau FAQ buat efisiensi balas?** Shortcut dihitung sebagai respon chat, FAQ enggak (tapi bantu kurangin volume Chat Manual yang masuk).
+
+## Batasan
+Bagian "FAQ Sebelum Pembelian" dan "FAQ Setelah Pembelian" di akhir artikel sumber gak ke-ekstrak isinya (cuma judul section, daftar contoh Q&A-nya kosong) — kemungkinan aslinya berupa gambar/tabel di artikel resmi. Kalau member butuh contoh kalimat balasan spesifik, entry ini gak bisa bantu buat bagian itu.

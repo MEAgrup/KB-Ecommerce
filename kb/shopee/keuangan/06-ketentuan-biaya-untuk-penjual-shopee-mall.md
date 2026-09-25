@@ -11,18 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---biaya-penjual/ketentuan-biaya-untuk-penjual-shopee-mall.md
     bagian: "artikel penuh"
+related: [shp-biaya-001, shp-keuangan-003]
+decisions: [S-D-CONFLICT-004]
 ---
 # Ketentuan Biaya untuk Penjual Shopee Mall
 
 ## Ringkasan
-Shopee menerapkan beberapa jenis biaya atas layanan yang digunakan oleh Penjual Shopee Mall. Jenis biaya wajib yang akan dikenakan meliputi:
+Penjual Shopee Mall kena 2 biaya wajib: Biaya Administrasi (lihat `shp-biaya-001`) dan Biaya Pembayaran 1,8% (maks. Rp50.000/kuantitas produk, flat semua kategori, sudah termasuk PPN). Selama periode SKB PPh 23 aktif, gak perlu potong/setor PPh 23 sendiri.
 
+## Kapan ini dipakai
+Dipakai buat rincian Biaya Pembayaran khusus Shopee Mall (1,8%) — beda dari Biaya Administrasi yang juga berlaku buat semua status Penjual. Kalau soal Biaya Administrasi, arahkan ke `shp-biaya-001`.
 
-23-07-2026
-
-Shopee menerapkan beberapa jenis biaya atas layanan yang digunakan oleh Penjual Shopee Mall. Jenis biaya wajib yang akan dikenakan meliputi:
-
-  
+## Isi
 
 **1. Biaya Administrasi Penjual Shopee Mall**
 
@@ -65,4 +65,18 @@ Namun jika pembayaran pajak yang akan dilakukan berada diluar periode 13 Februar
   - Untuk menjadi Penjual Shopee Mall, Anda dapat mengajukan pendaftaran Shopee Mall melalui[ Seller Centre](https://seller.shopee.co.id/portal/settings/shop/profile) atau[ Portal Pendaftaran](https://seller.shopee.co.id/portal/os-onboarding). Pelajari lebih lanjut mengenai[ kriteria Shopee Mall](https://seller.shopee.co.id/edu/article/1806).
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Biaya Pembayaran Shopee Mall | 1,8% (maks. Rp50.000/kuantitas produk), flat semua kategori |
+| Periode SKB PPh 23 disebut entry ini | 3 Feb 2025 – 31 Des 2025 (No. KET-00012/PPUT-CT/KPP.3010/2025) |
+
+## Pertanyaan diagnosa
+
+1. **Ini pertanyaan soal Biaya Pembayaran (1,8%) atau Biaya Administrasi?** Dua biaya beda yang SAMA-SAMA wajib buat Shopee Mall — Biaya Administrasi ada di `shp-biaya-001`.
+2. **Biaya Pembayaran dihitung dari ongkir atau diskon?** Enggak — cuma dari (Harga Asli Produk − Diskon/Voucher ditanggung Penjual), ongkir gak masuk hitungan.
+3. **Toko individu atau Badan Usaha?** Pemotongan PPh 23 gak berlaku buat toko individu, sama seperti kebijakan SKB lainnya.
+4. **Soal PPh 23 — cek dulu periode SKB yang sedang berlaku!** Lihat Batasan di bawah — ada 2 nomor SKB berbeda tercatat di KB ini.
+
+## Batasan
+**Perlu dicek:** entry ini (valid_as_of Juli 2026) menyebut SKB PPh 23 No. KET-00012 berlaku 3 Feb–31 Des **2025**, sementara `shp-keuangan-003` (valid_as_of Januari 2026) menyebut SKB No. KET-00002 berlaku 15 Jan–31 Des **2026**. Kemungkinan besar entry ini isinya belum ter-update pas re-scraping Juli 2026 (masih nyantol ke SKB tahun sebelumnya). **Jangan pakai nomor/periode SKB dari entry ini** — rujuk ke `shp-keuangan-003` buat info SKB PPh 23 terkini, atau cek langsung ke sumber resmi Shopee.

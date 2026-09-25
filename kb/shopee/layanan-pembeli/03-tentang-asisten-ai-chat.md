@@ -11,16 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: pel-pembeli---tentang-asisten-ai-chat/tentang-asisten-ai-chat.md
     bagian: "artikel penuh"
+related: [shp-chat-001, shp-chat-002, shp-layanan-001]
 ---
 # Tentang Asisten AI Chat
 
 ## Ringkasan
-Apa itu Fitur Asisten AI Chat?
+Asisten AI Chat adalah chatbot yang jawab pertanyaan Pembeli 24 jam berdasarkan data produk (nama, deskripsi, harga, stok, promosi) dan status pesanan. Chat yang SEPENUHNYA diselesaikan AI **gak dihitung** ke Persentase Chat Dibalas — tapi begitu chat dialihkan ke Penjual, mulai dihitung dari saat Penjual terima.
 
+## Kapan ini dipakai
+Dipakai buat 2 kasus: (1) setup/pengaturan Asisten AI Chat (jadwal, fitur Balasan Otomatis/FAQ/Saran Balasan/Pengingat Otomatis), dan (2) diagnosa "kenapa Asisten AI Chat jawab asal" — biasanya karena info produk (rincian/panduan ukuran) belum lengkap.
 
-20-08-2026
-
-Apa itu Fitur Asisten AI Chat?
+## Isi
 
 Asisten AI Chat adalah *chatbot*/*chat* otomatis yang menggunakan kapabilitas *Artificial Intelligence* (AI) atau kecerdasan buatan untuk membalas pertanyaan secara otomatis di halaman *chat*. Asisten AI Chat dapat memberikan layanan 24 jam setiap harinya kepada Pembeli, memastikan bahwa calon Pembeli dapat segera dilayani dan mendapat informasi yang mereka butuhkan secara instan.
 
@@ -169,7 +170,7 @@ Saat ini, fitur Saran Balasan dan Pengingat Otomatis hanya tersedia untuk Penjua
 
 **Bagaimana Cara Melihat Riwayat Chat Asisten AI Chat dengan Pembeli?**
 
-**Melihat** ***Chat*** **yang Telah Direspons Asisten AI Chat**
+**Melihat** **Chat** **yang Telah Direspons Asisten AI Chat**
 
 Masuk ke Chat Penjual \> pilih *tab* **Chat Hari Ini** \> pilih **Dibalas Otomatis** untuk melihat *chat* yang sedang berlangsung dan telah direspons oleh Asisten AI Chat. *Chat* yang dikirim oleh Asisten AI Chat akan ditandai sebagai "Dikirim oleh Asisten AI Chat" di bawah *chat*.
 
@@ -251,7 +252,7 @@ Di halaman ini Anda dapat menambahkan informasi untuk beberapa produk sekaligus,
   
   
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Pastikan informasi produk dan panduan ukuran Anda selalu diperbarui. Informasi yang tidak lengkap dapat membuat Asisten AI Chat memberikan respons yang kurang tepat kepada Pembeli dan dapat mengurangi potensi penjualan.
 
@@ -304,3 +305,24 @@ Pertanyaan dari Pembeli yang sepenuhnya diselesaikan oleh Asisten AI Chat tidak 
 Namun, jika Asisten AI Chat tidak dapat menjawab pertanyaan Pembeli dan mengarahkan *chat* kepada Anda, maka *chat* tersebut akan digunakan dalam penghitungan sejak Anda menerima *chat* tersebut.
 
 Penilaian Baik dan Buruk ( dan  ) yang diberikan oleh Pembeli terhadap pesan yang terkirim oleh Asisten AI Chat tidak akan mempengaruhi **Tingkat Kepuasan Chat Pembeli** toko Anda. Anda dapat melihat performa dari Asisten AI Chat Anda pada halaman **Asisten AI Chat** di Seller Centre di bawah menu **Layanan Pembeli**.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jadwal preset "Malam Hari" | 20.00–08.00 WIB setiap hari |
+| Jadwal preset "Akhir Pekan & Hari Libur Nasional" | 24/7 Sabtu, Minggu, hari libur nasional |
+| Asisten AI Chat kembali aktif otomatis (kalau dinonaktifkan Penjual & chat gak dibalas) | setelah 3 jam |
+| Asisten AI Chat kembali aktif otomatis (setelah Penjual ambil alih tapi berhenti) | setelah 24 jam (sebagian Penjual: 12 jam) |
+| Jam tampil Transkrip Chat periode real-time | pk. 16.00 WIB setiap hari |
+| Jumlah pertanyaan teratas yang ditampilkan (yang dialihkan ke Penjual) | 5 |
+
+## Pertanyaan diagnosa
+
+1. **Asisten AI Chat jawab pertanyaan Pembeli dengan gak akurat atau "tidak bisa menjawab"?** Cek dulu kelengkapan Rincian Produk dan Panduan Ukuran — itu sumber data utama AI buat jawab.
+2. **Kenapa Persentase Chat Dibalas gak naik meskipun AI aktif terus?** Chat yang FULL diselesaikan AI emang gak dihitung — cuma chat yang dialihkan ke Penjual (manual) yang masuk hitungan.
+3. **Fitur yang ditanya spesifik apa** — Balasan Otomatis, FAQ, Saran Balasan, atau Pengingat Otomatis? Saran Balasan & Pengingat Otomatis cuma tersedia buat Penjual terpilih, bukan semua toko.
+4. **Sudah dicoba fitur "Coba Asisten AI Chat" buat simulasi dari sudut pandang Pembeli?** Cara tercepat buat cek kualitas jawaban AI sebelum komplain manual.
+
+## Batasan
+Fitur **Akhiri Chat** disebut "masih tersedia secara bertahap" — belum tentu ada di semua toko. Fitur Saran Balasan dan Pengingat Otomatis juga dibatasi ke "Penjual terpilih" — kriteria terpilihnya gak dijelasin di sumber.

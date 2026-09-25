@@ -11,14 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: mj---program-shopee/program-nominasi-pintar.md
     bagian: "artikel penuh"
+related: [shp-promosi-007]
 ---
 # Program Nominasi Pintar
 
 ## Ringkasan
-**Apa Itu Program Nominasi Pintar?**
+Program Nominasi Pintar = fitur nominasi otomatis (khusus undangan) yang mengatur produk + **Harga Terendah Promo** toko ke berbagai kampanye Shopee sekaligus dengan SEKALI nominasi — sistem yang cari promosi paling berdampak, Penjual cukup set 1 harga terbaik. Syarat: status toko normal (gak ada poin penalti/gak dibatasi) + aktif dalam 7 hari terakhir. Harga Promosi hasil nominasi otomatis GAK PERNAH lebih rendah dari Harga Terendah Promo yang di-set Penjual — margin tetap terlindungi.
 
+## Kapan ini dipakai
+Dipakai kalau member (yang udah diundang) nanya cara kerja nominasi otomatis lintas kampanye, beda Harga Terendah Promo vs Harga Promosi, atau cara keluar/gabung ulang program ini. Buat detail Program Garansi Harga Terbaik (fitur terkait yang juga pakai konsep harga kompetitif), arahkan ke `shp-promosi-007`.
 
-17-07-2026
+## Isi
 
 **Apa Itu Program Nominasi Pintar?**
 
@@ -84,7 +87,7 @@ Sebelum bergabung dengan program, pastikan Anda memenuhi syarat dan ketentuan be
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Harga Terendah Promo**: harga terbaik yang ingin Penjual tawarkan ke Pembeli.
   - **Harga Promosi**: harga yang dapat dilihat oleh Pembeli dan harga yang akan diterima oleh Penjual saat pelepasan dana.
@@ -142,11 +145,11 @@ Produk yang sudah termasuk dalam promosi yang sedang berlangsung akan tetap akti
 
 Untuk membantu Anda mengelola nominasi dengan lebih optimal, berikut beberapa hal yang perlu diperhatikan:
 
-  - **\*\*Mengelola daftar produk\*\***
+  - **Mengelola daftar produk**
 
 Anda dapat menambahkan atau menghapus produk, mengaktifkan/menonaktifkan variasi, dan memperbarui **Harga Terendah Promo** kapan saja di halaman Program Nominasi Pintar. Perubahan hanya akan berlaku untuk Nominasi Pintar di masa mendatang. Produk yang sudah dinominasikan dalam sesi promosi yang ada tidak akan terpengaruh.
 
-  - **\*\*Memeriksa promosi yang dinominasikan secara otomatis\*\***
+  - **Memeriksa promosi yang dinominasikan secara otomatis**
 
 Anda akan menerima notifikasi di Seller Centre atau email terdaftar saat produk dinominasikan secara otomatis untuk suatu promosi. Produk tersebut dapat diubah atau dihapus sesuai kebutuhan.
 
@@ -161,7 +164,7 @@ Anda juga dapat memeriksa **Riwayat Nominasi** di halaman Program Nominasi Pinta
   - **Waktu** aktivitas dilakukan
   - **Aksi** untuk melihat rincian lebih lanjut
 
-  - **\*\*Meninjau performa\*\***
+  - **Meninjau performa**
 
 Tinjau performa produk yang Anda nominasikan secara otomatis dengan melihat metrik performa yang tersedia: **Penjualan**, **Produk Terjual**, **Pesanan**, dan **Pembeli**. Anda dapat mem-filter berdasarkan rentang tanggal untuk menganalisis performa selama periode tertentu.
 
@@ -239,7 +242,7 @@ Tidak. Harga Promosi hasil nominasi otomatis pada sesi kampanye lainnya tidak ak
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 **Harga Promosi**: Harga yang dapat dilihat oleh Pembeli dan harga yang akan diterima oleh Penjual saat pelepasan dana.
 
@@ -258,3 +261,23 @@ Untuk produk yang tidak dinominasikan secara otomatis oleh sistem, Penjual tetap
 **12. Apakah Penjual dapat menominasikan kembali setelah keluar dari program Nominasi Pintar?**
 
 Penjual dapat mengikuti program Nominasi Pintar kembali dengan melakukan langkah yang sama dengan saat mengikuti program pertama kali. Penjual dapat mengatur produk dan Harga Terendah Promo sesuai dengan keinginan.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Syarat aktivitas toko | aktif dalam 7 hari terakhir |
+| Syarat status toko | normal — gak ada poin penalti, gak sedang dibatasi |
+| Cara akses program | khusus lewat undangan Shopee |
+| Ketersediaan platform | Seller Centre saja (belum tersedia di aplikasi Shopee/Seller Centre app) |
+| Jumlah harga yang perlu diisi Penjual | 1 (Harga Terendah Promo) |
+
+## Pertanyaan diagnosa
+
+1. **Member mau ikut Program Nominasi Pintar tapi gak nemu menunya?** Program ini KHUSUS UNDANGAN — kalau belum diundang Shopee, menu ini gak akan muncul di Seller Centre.
+2. **Member bingung beda Harga Terendah Promo vs Harga Promosi?** Harga Terendah Promo = harga terbaik yang Penjual SET SENDIRI (batas bawah). Harga Promosi = harga yang benar-benar dilihat Pembeli & diterima Penjual saat pelepasan dana — bisa lebih tinggi dari Harga Terendah Promo, tapi GAK PERNAH lebih rendah.
+3. **Member keluar dari program, takut produk yang udah dinominasikan langsung dibatalkan otomatis?** TIDAK — keluar program cuma menghentikan nominasi OTOMATIS untuk sesi BARU. Produk yang udah dinominasikan di sesi berjalan tetap aktif, harus dibatalkan manual per-sesi kalau memang mau berhenti total.
+4. **Member ubah Harga Terendah Promo, kok produk yang udah dinominasikan gak ikut berubah?** Normal — perubahan Harga Terendah Promo cuma berlaku buat nominasi BERIKUTNYA, gak memengaruhi sesi yang udah dinominasikan sebelumnya.
+5. **Member udah nominasi manual satu produk ke kampanye tertentu, terus gabung Program Nominasi Pintar — bakal dobel nominasi?** TIDAK — sistem gak akan menominasikan ulang produk yang udah dinominasikan manual untuk sesi kampanye yang sama.
+6. **Member cari di aplikasi Shopee Seller Centre mobile, gak ketemu fitur ini?** Program Nominasi Pintar SAAT INI cuma tersedia di Seller Centre (desktop/web), belum ada di aplikasi.
+7. **Member khawatir Harga Promosi hasil nominasi otomatis bakal lebih rendah dari yang dia mau?** Gak akan — sistem menjamin Harga Promosi gak akan lebih rendah dari Harga Terendah Promo yang di-set Penjual; kalau hasil hitung sistem lebih tinggi, yang dipakai justru harga yang lebih tinggi itu.

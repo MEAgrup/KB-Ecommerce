@@ -11,14 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: pel-pembeli---shopee-certified-enablers/shopee-certified-enablers-program-informasi-untuk-penjual.md
     bagian: "artikel penuh"
+related: [shp-enabler-001, shp-enabler-002]
 ---
 # Shopee-Certified Enablers Program: Informasi untuk Penjual
 
 ## Ringkasan
-**Apa itu Enabler?**
+Sisi Penjual dari Shopee-Certified Enablers Program: cara bekerja sama dengan enabler bersertifikat, plus daftar hasil sertifikasi Q2 2026 per tingkatan. **MEA Agensi Digital** ada di daftar tingkat **Certified (Engagement)** per Q2 2026.
 
+## Kapan ini dipakai
+Dipakai kalau ada Penjual (calon klien) yang nanya status sertifikasi MEA di program ini, atau nanya cara Shopee menghubungkan mereka ke enabler bersertifikat. Beda sudut pandang dari `shp-enabler-001`/`shp-enabler-002` yang isinya buat sisi enabler.
 
-30-07-2026
+## Isi
 
 **Apa itu Enabler?**
 
@@ -143,3 +146,20 @@ Berikut adalah gambaran proses menghubungkan Enabler yang sesuai dengan kebutuha
 **⚠️ Catatan**
 
 Mohon diperhatikan bahwa hanya pemilik resmi atau distributor resmi dari sebuah merek yang diakui memenuhi syarat dapat dihubungkan dengan *Enabler* Shopee-Certified Enablers Program.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Frekuensi penilaian | tiap 3 bulan (kuartal) |
+| Tingkatan (dari terbaik) | Premium → Certified → Certified (Operations) → Certified (Engagement) → Below Expectation |
+| Status MEA Agensi Digital per Q2 2026 | Certified (Engagement) |
+
+## Pertanyaan diagnosa
+
+1. **Klien/prospek nanya soal status sertifikasi MEA di program ini?** Per Q2 2026, MEA ada di tingkat Certified (Engagement) — cek entry ini buat update terbaru sebelum jawab pasti (hasil per-kuartal bisa berubah).
+2. **Penjual mau dihubungkan ke enabler bersertifikat lewat Shopee (bukan langsung ke MEA)?** Itu proses terpisah via formulir pendaftaran Enabler untuk Penjual — cuma berlaku buat pemilik resmi/distributor resmi merek.
+3. **Pertanyaannya dari sisi enabler (MEA sendiri) atau dari sisi Penjual/klien?** Kalau dari sisi enabler soal cara dinilai, arahkan ke `shp-enabler-002` yang lebih detail rumus poinnya.
+
+## Batasan
+Daftar nama enabler & tingkatannya di entry ini snapshot Q2 2026 — akan basi begitu ada hasil kuartal baru. Jangan disampaikan sebagai status "saat ini" tanpa cek ulang ke sumber resmi kalau udah lewat beberapa kuartal dari `valid_as_of`.

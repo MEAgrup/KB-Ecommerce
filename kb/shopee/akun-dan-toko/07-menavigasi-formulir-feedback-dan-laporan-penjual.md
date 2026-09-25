@@ -11,16 +11,21 @@ valid_as_of: 2026-04
 sources:
   - file: umum---pengaturan-toko/menavigasi-formulir-feedback-dan-laporan-penjual.md
     bagian: "artikel penuh"
+related: [shp-toko-015]
 ---
 # Menavigasi Formulir Feedback dan Laporan Penjual
 
 ## Ringkasan
+2 fitur beda: Formulir Feedback (Akses Cepat, 4 menu: Analisa Kendala/Laporkan Kendala Teknis/Berikan Saran/Laporkan Pelanggaran karyawan Shopee) vs Laporkan Masalah di Asisten Penjual (5 kategori: Logistik/Penipuan/Produk/Layanan Penjual/Pembatalan-Pengembalian, buat kendala operasional yang butuh tindak lanjut Tim Shopee, statusnya dipantau di tab Laporan Saya). File pendukung laporan maks. 30MB, format JPG/JPEG/GIF/PNG/DOC/DOCX/XLS/XLSX/TXT/MP3/MP4/WAV/WMV/AVI. Laporan yang ditutup TIDAK BISA dibalas lagi.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara lapor kendala teknis/kasus penipuan/masalah pesanan ke Shopee, atau cara pantau status laporan yang udah diajukan. Buat fitur Asisten Penjual secara umum, arahkan ke `shp-toko-015`.
+
+## Isi
+
 **Memahami Fitur Formulir Feedback di Seller Centre**
 
 
-02-04-2026
-
-**Memahami Fitur Formulir Feedback di Seller Centre**
 
 **Formulir Feedback** merupakan fitur yang dapat digunakan Penjual untuk menyampaikan berbagai kendala, laporan, maupun masukan selama menggunakan Seller Centre.
 
@@ -105,3 +110,21 @@ Untuk merespons laporan yang Anda miliki, berikut adalah tindakan yang bisa dila
   - Anda tidak dapat membalas laporan yang telah ditutup.
   - Untuk membantu Shopee memahami situasi kendala Anda, Anda dapat mengirimkan *file* pendukung dengan *extension* JPG, JPEG, GIF, PNG, DOC, DOCX, XLS, XLSX, TXT, MP3, MP4, WAV, WMV, AVI (maks. 30MB).
   - Bagi Penjual yang tidak memiliki fitur Laporkan Masalah di Asisten Penjual, Anda dapat ajukan dan deskripsikan secara rinci kendala yang dihadapi terlebih dahulu kepada Chatbot, kemudian webform laporan yang sesuai dengan permasalahan Anda akan dikirimkan.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah menu bantuan Formulir Feedback | 4 (Analisa Kendala, Laporkan Kendala Teknis, Berikan Saran, Laporkan Pelanggaran) |
+| Jumlah kategori Laporkan Masalah di Asisten Penjual | 5 (Logistik, Penipuan, Produk, Layanan Penjual, Pembatalan/Pengembalian) |
+| Ukuran maks. file pendukung | 30MB |
+| Format file pendukung didukung | JPG, JPEG, GIF, PNG, DOC, DOCX, XLS, XLSX, TXT, MP3, MP4, WAV, WMV, AVI |
+
+## Pertanyaan diagnosa
+
+1. **Member mau lapor kendala teknis di Seller Centre, mulai dari mana?** Arahkan pakai Analisa Kendala DULU buat rekam kendala & dapat kode unik, baru ajukan Laporkan Kendala Teknis dengan menyertakan kode unik tersebut.
+2. **Member mau lapor karyawan Shopee yang melanggar?** Arahkan ke menu "Laporkan Pelanggaran" di Formulir Feedback — beda dari Laporkan Kendala Teknis (buat masalah teknis sistem, bukan pelanggaran orang).
+3. **Member mau lapor kasus penipuan terkait pesanan?** Arahkan ke fitur Laporkan Masalah di Asisten Penjual, kategori "Penipuan" — laporan bisa dipantau statusnya di tab Laporan Saya.
+4. **Member mau balas laporan yang statusnya "Laporan Selesai" tapi masalahnya belum kelar?** Bisa — pilih opsi buka kembali laporan yang berstatus Laporan Selesai. TAPI kalau laporan udah DITUTUP, gak bisa dibalas lagi sama sekali.
+5. **Member mau lampirkan bukti video kendala, filenya ditolak sistem?** Cek ukuran & format — maks. 30MB, format yang didukung termasuk MP4/MP3/WAV/WMV/AVI buat file audio/video.
+6. **Member gak nemu fitur Laporkan Masalah di Asisten Penjual-nya?** Kemungkinan belum tersedia buat akunnya — arahkan deskripsikan kendala ke Chatbot dulu, nanti webform yang sesuai akan dikirimkan otomatis.

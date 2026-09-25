@@ -11,18 +11,17 @@ valid_as_of: 2026-04
 sources:
   - file: daftar-produk---kebijakan-pelanggaran-produk/cara-memperbaiki-produk-yang-diturunkan.md
     bagian: "artikel penuh"
+related: [shp-produk-011, shp-produk-013, shp-produk-017]
 ---
 # Cara Memperbaiki Produk yang Diturunkan
 
 ## Ringkasan
-**Produk yang Diturunkan karena Foto/Video Produk Mengandung Konten yang Tidak Sesuai dengan Ketentuan Shopee**
+2 penyebab utama produk diturunkan yang dibahas di entry ini: (1) konten foto/video melanggar ketentuan (pornografi, konten ekstrim/mengganggu, senjata/kekerasan) — banding maks. 14 hari kerja; (2) kategori produk salah — kalau gak diperbaiki dalam 1 hari kalender, Shopee otomatis benerin kategorinya (masih bisa banding setelahnya). Buat penyebab lain (pelanggaran umum lain), arahkan ke `shp-produk-011`/`shp-produk-017`.
 
+## Kapan ini dipakai
+Dipakai kalau produk member diturunkan dan mau tau cara perbaiki/banding — cek dulu ALASAN penurunannya (konten foto/video vs kategori salah), karena prosedur perbaikan & bandingnya beda. Buat panduan umum ningkatin kualitas listing yang udah diturunkan/diblokir, arahkan ke `shp-produk-013`.
 
-20-04-2026
-
-**Produk yang Diturunkan karena Foto/Video Produk Mengandung Konten yang Tidak Sesuai dengan Ketentuan Shopee**
-
-  
+## Isi
 
 Untuk menjaga kenyamanan berbelanja bagi seluruh Pengguna, Shopee menerapkan ketentuan terkait kesesuaian konten dari foto/video produk yang di-*upload* oleh Penjual sebagai berikut:
 
@@ -30,11 +29,11 @@ Untuk menjaga kenyamanan berbelanja bagi seluruh Pengguna, Shopee menerapkan ket
 
 |  |  |
 | :-: | :-: |
-| \*\*PELANGGARAN KONTEN FOTO/VIDEO PRODUK\*\* | \*\*LANGKAH YANG DISARANKAN\*\* |
-|      Foto/video produk menampilkankonten yang mengandung \*\*unsur\*\*\*\*pornografi pada anak di bawah\*\*\*\*umur\*\* |   - Hindari konten dengan kesan ketelanjangan, misalnya menutupi area tubuh dengan objek.&#10;  - Gunakan konten yang tidak menampilkan area genital, termasuk namun tidak terbatas pada puting,  garis pantat, atau garis paha. ⚠️ \*\*Catatan\*\*Anda juga dilarangmenjual/menawarkan produk mediamaupun layanan yang mengandungkonten pornografi pada anak di bawahumur agar terhindar daripenghapusan produk hinggapembatasan akun. Pelajari lebih lanjuttentang\[ Produk yang Dilarang: Penjualan\](https://seller.shopee.co.id/edu/article/6065)\[Produk Media dan Layanan yang\](https://seller.shopee.co.id/edu/article/6065)\[Mengandung Unsur Pornografi\](https://seller.shopee.co.id/edu/article/6065). |
-| Foto/video produk menampilkankonten yang mengandung \*\*unsur\*\*\*\*pornografi\*\* |   - Hindari konten yang menampilkan lekukan tubuh dan/atau memfokuskan area dada, puting, pantat, dan/atau area genital secara berlebihan.&#10;  - Hindari konten yang menampilkan area kulit terutama bagian belahan dada, paha, dan punggung secara berlebihan dari   model/ilustrasi manusia.&#10;  - Hindari konten pendidikan, seni, atau hiburan yang merujuk pada aktivitas seksual atau organ seksual termasuk, namun tidak terbatas pada buku medis dengan sampul buku menggunakan ilustrasi organ reproduksi.&#10;  - Fokus pada produk dan hindari pose sensual, ilustrasi/demonstrasi produk kesehatan seksual, serta konten \*fetish\*. ⚠️ \*\*Catatan\*\*Anda juga dilarang menjual ataumenawarkan produk media maupunlayanan yang mengandung kontenpornografi agar terhindar daripenghapusan produk hingga pembatasanakun. Pelajari lebih lanjut tentang\[ Produk\](https://seller.shopee.co.id/edu/article/6065)\[yang Dilarang: Penjualan Produk Media\](https://seller.shopee.co.id/edu/article/6065)\[dan Layanan yang Mengandung Unsur\](https://seller.shopee.co.id/edu/article/6065)\[Pornografi\](https://seller.shopee.co.id/edu/article/6065). |
-|   Foto/video produk yang menampilkankonten \*\*tidak pantas/tidak layak atau\*\*\*\*mengandung ilustrasi\*\*\*\*ekstrim/mengganggu\*\* |   - Hindari konten yang menampilkan hewan mati, hewan yang dapat memicu fobia, seperti namun tidak terbatas pada serangga.&#10;  - Gunakan konten yang nyaman dilihat dan tidak menampilkan konten yang tidak layak/pantas seperti masalah kesehatan kulit, mata, gigi dan bagian tubuh lainnya secara berlebihan dan/atau foto yang menampilkan luka terbuka pada bagian tubuh tertentu. |
-| Foto produk yang menampilkangambar/konten \*\*penggunaan senjata\*\*\*\*dan/atau produk terkait lainnya\*\*\*\*yang mengandung unsur kekerasan,\*\*\*\*ancaman, atau tindakan berbahaya\*\* |   - Hindari unsur kekerasan, ancaman, atau penggunaan produk secara berbahaya.&#10;  - Tampilkan fungsi umum produk, bukan bentuk penggunaannya sebagai senjata dan/atau produk terkait lainnya yang mengandung unsur kekerasan, ancaman, atau tindakan berbahaya. Pelajari lebih lanjut terkait\[ Produk yang\](https://seller.shopee.co.id/edu/article/18271)\[Dilarang: Penjualan Produk Senjata dan\](https://seller.shopee.co.id/edu/article/18271)\[Produk Terkait Lainnya\](https://seller.shopee.co.id/edu/article/18271). |
+| **PELANGGARAN KONTEN FOTO/VIDEO PRODUK** | **LANGKAH YANG DISARANKAN** |
+|      Foto/video produk menampilkankonten yang mengandung **unsur**pornografi pada anak di bawah**umur** |   - Hindari konten dengan kesan ketelanjangan, misalnya menutupi area tubuh dengan objek.&#10;  - Gunakan konten yang tidak menampilkan area genital, termasuk namun tidak terbatas pada puting,  garis pantat, atau garis paha. ⚠️ **Catatan**Anda juga dilarangmenjual/menawarkan produk mediamaupun layanan yang mengandungkonten pornografi pada anak di bawahumur agar terhindar daripenghapusan produk hinggapembatasan akun. Pelajari lebih lanjuttentang\[ Produk yang Dilarang: Penjualan\](https://seller.shopee.co.id/edu/article/6065)\[Produk Media dan Layanan yang\](https://seller.shopee.co.id/edu/article/6065)\[Mengandung Unsur Pornografi\](https://seller.shopee.co.id/edu/article/6065). |
+| Foto/video produk menampilkankonten yang mengandung **unsur**pornografi** |   - Hindari konten yang menampilkan lekukan tubuh dan/atau memfokuskan area dada, puting, pantat, dan/atau area genital secara berlebihan.&#10;  - Hindari konten yang menampilkan area kulit terutama bagian belahan dada, paha, dan punggung secara berlebihan dari   model/ilustrasi manusia.&#10;  - Hindari konten pendidikan, seni, atau hiburan yang merujuk pada aktivitas seksual atau organ seksual termasuk, namun tidak terbatas pada buku medis dengan sampul buku menggunakan ilustrasi organ reproduksi.&#10;  - Fokus pada produk dan hindari pose sensual, ilustrasi/demonstrasi produk kesehatan seksual, serta konten \*fetish\*. ⚠️ **Catatan**Anda juga dilarang menjual ataumenawarkan produk media maupunlayanan yang mengandung kontenpornografi agar terhindar daripenghapusan produk hingga pembatasanakun. Pelajari lebih lanjut tentang\[ Produk\](https://seller.shopee.co.id/edu/article/6065)\[yang Dilarang: Penjualan Produk Media\](https://seller.shopee.co.id/edu/article/6065)\[dan Layanan yang Mengandung Unsur\](https://seller.shopee.co.id/edu/article/6065)\[Pornografi\](https://seller.shopee.co.id/edu/article/6065). |
+|   Foto/video produk yang menampilkankonten **tidak pantas/tidak layak atau**mengandung ilustrasi**ekstrim/mengganggu** |   - Hindari konten yang menampilkan hewan mati, hewan yang dapat memicu fobia, seperti namun tidak terbatas pada serangga.&#10;  - Gunakan konten yang nyaman dilihat dan tidak menampilkan konten yang tidak layak/pantas seperti masalah kesehatan kulit, mata, gigi dan bagian tubuh lainnya secara berlebihan dan/atau foto yang menampilkan luka terbuka pada bagian tubuh tertentu. |
+| Foto produk yang menampilkangambar/konten **penggunaan senjata**dan/atau produk terkait lainnya**yang mengandung unsur kekerasan,**ancaman, atau tindakan berbahaya** |   - Hindari unsur kekerasan, ancaman, atau penggunaan produk secara berbahaya.&#10;  - Tampilkan fungsi umum produk, bukan bentuk penggunaannya sebagai senjata dan/atau produk terkait lainnya yang mengandung unsur kekerasan, ancaman, atau tindakan berbahaya. Pelajari lebih lanjut terkait\[ Produk yang\](https://seller.shopee.co.id/edu/article/18271)\[Dilarang: Penjualan Produk Senjata dan\](https://seller.shopee.co.id/edu/article/18271)\[Produk Terkait Lainnya\](https://seller.shopee.co.id/edu/article/18271). |
 
   
 
@@ -64,7 +63,7 @@ Pelajari lebih lanjut tentang[ Mengapa produk saya tidak muncul setelah di-*uplo
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Pastikan produk Anda tidak memiliki info/gambar terlarang agar sesuai dengan kebijakan Shopee untuk menghindari tindakan lebih lanjut seperti pemblokiran/penghapusan produk hingga pemblokiran perangkat handphone.
 
@@ -134,6 +133,23 @@ Hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pastikan produk Anda ditempatkan pada kategori yang benar agar sesuai dengan kebijakan Shope untuk menghindari tindakan lebih lanjut seperti pemblokiran/penghapusan produk.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas ajukan banding pelanggaran konten foto/video | maks. 14 hari kerja sejak produk diturunkan |
+| Batas perbaiki kategori sendiri sebelum auto-fix Shopee | 1 hari kalender |
+| Waktu hasil banding kategori diperbaiki otomatis | 1-3 hari kalender |
+
+## Pertanyaan diagnosa
+
+1. **Produk diturunkan — alasan spesifiknya apa?** Cek dulu di *tab* **Diturunkan** halaman Produk Saya, kolom **Alasan pelanggaran** — prosedur perbaikan beda tergantung penyebab (konten foto/video vs kategori salah).
+2. **Member yakin foto/videonya gak melanggar, mau banding?** Cek dulu batas waktu di kolom **Batas Waktu** — kalau masih dalam 14 hari kerja sejak diturunkan, bisa ajukan banding. Lewat itu, HARUS update foto/video buat ditinjau ulang, gak bisa banding lagi.
+3. **Member update foto/video yang tadinya melanggar — bisa banding lagi kalau ditolak?** TIDAK — begitu foto/video di-*update*, itu masuk peninjauan baru dan GAK ADA opsi banding buat hasil peninjauan itu.
+4. **Kategori produk salah, gimana cara benerinnya?** Pilih **Terapkan Kategori** (pakai saran Shopee) di *tab* Diturunkan atau di halaman Rincian Produk. Kalau saran kategorinya gak sesuai, pilih **Ajukan Banding** dan jangan ubah kategori dulu.
+5. **Kategori udah keburu diperbaiki otomatis sama Shopee, member gak setuju?** Masih bisa banding — pilih kategori yang sesuai saat ajukan banding, gak perlu ubah manual di halaman produk, tunggu hasil banding (1-3 hari kalender).
+6. **Produk yang kena kategori salah lagi ikutan promo Shopee, gimana nasibnya kalau kategorinya diperbaiki?** Kalau promo berlaku lintas kategori, aman. Tapi kalau promo cuma berlaku di kategori LAMA (yang salah), promo otomatis berakhir begitu kategori diperbaiki ke yang benar.

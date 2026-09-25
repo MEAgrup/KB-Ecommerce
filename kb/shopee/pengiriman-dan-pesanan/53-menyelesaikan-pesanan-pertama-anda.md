@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: pp---kebijakan-penyelesaian-pesanan/menyelesaikan-pesanan-pertama-anda.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-051, shp-pengiriman-052]
 ---
 # Menyelesaikan Pesanan Pertama Anda
 
 ## Ringkasan
+6 status pesanan: Belum Bayar, Perlu Dikirim, Dikirim, Selesai, Pengembalian/Pembatalan, Pengiriman Gagal. 2 opsi pengiriman: Antar ke Counter (drop off) vs Pick up — TIDAK BISA diubah setelah diatur. Beberapa jasa kirim punya batasan khusus (J&T Cargo drop-off cuma di counter khusus, Anteraja/Sentral Cargo gak layani pick-up hari Minggu, SPX Hemat pick-up cuma buat Penjual Terpilih). Ambil foto/video SEBELUM & SESUDAH pengemasan sebagai bukti kalau ada klaim.
+
+## Kapan ini dipakai
+Dipakai sebagai panduan lengkap penyelesaian pesanan pertama (status, opsi pengiriman, pengemasan, resi). Buat detail cetak resi (otomatis/manual), arahkan ke `shp-pengiriman-051`; buat status "Tertunda" spesifik, arahkan ke `shp-pengiriman-052`.
+
+## Isi
+
 **Tentang Penyelesaian Pesanan**
 
 
-27-07-2026
-
-**Tentang Penyelesaian Pesanan**
 
 Setelah Pembeli melakukan pesanan, proses penyelesaian biasanya akan dimulai dengan:
 
@@ -37,27 +42,27 @@ Setelah Pembeli melakukan pesanan, proses penyelesaian biasanya akan dimulai den
 
 Kenali Status Pesanan sebelum Anda melakukan proses penyelesaian pesanan:
 
-  - **\*\*Belum Bayar\*\***
+  - **Belum Bayar**
 
-Pesanan yang sudah di ***Checkout*** oleh Pembeli, namun masih menunggu proses pembayaran.
+Pesanan yang sudah di **Checkout** oleh Pembeli, namun masih menunggu proses pembayaran.
 
-  - **\*\*Perlu Dikirim\*\***
+  - **Perlu Dikirim**
 
 Pesanan yang sudah dibayar oleh Pembeli atau pesanan COD (Bayar di Tempat), untuk selanjutnya diproses dan dikirimkan oleh Penjual.
 
-  - **\*\*Dikirim\*\***
+  - **Dikirim**
 
 Pesanan yang sudah diserahkan ke pihak jasa kirim dan sedang dalam proses pengiriman.
 
-  - **\*\*Selesai\*\***
+  - **Selesai**
 
 Pesanan yang sudah diterima dan dikonfirmasi oleh Pembeli.
 
-  - **\*\*Pengembalian/Pembatalan\*\***
+  - **Pengembalian/Pembatalan**
 
 Pesanan yang terdapat pengajuan pengembalian/pembatalan dari Pembeli/Penjual/Shopee dengan alasan tertentu. Pelajari lebih lanjut terkait[ Pembatalan & Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/courseDetail/55).
 
-  - **\*\*Pengiriman Gagal\*\***
+  - **Pengiriman Gagal**
 
 Pihak jasa kirim tidak berhasil mengirimkan paket kepada Pembeli. Hal ini terjadi karena berbagai alasan, seperti Pembeli menolak untuk menerima paket pesanan COD (Bayar di Tempat), alamat salah, atau kendala pengiriman lainnya, sehingga paket dikembalikan ke Penjual. Pelajari lebih lanjut terkait[ Mengelola Pengiriman yang Gagal](https://seller.shopee.co.id/edu/courseDetail/54?lessonId=2309).
 
@@ -79,7 +84,7 @@ Untuk mengatur pengiriman pesanan, Anda perlu memahami 2 opsi pengiriman dari ja
 
   
 
-**Antar ke Counter** **(*****Drop off*****)**
+**Antar ke Counter** **(**Drop off**)**
 
 Ketika mengatur pengiriman, Anda dapat mengantarkan paket ke counter jasa kirim. Jasa kirim akan menerima dan mengantarkan paket kepada pihak Pembeli.
 
@@ -87,7 +92,7 @@ Ketika mengatur pengiriman, Anda dapat mengantarkan paket ke counter jasa kirim.
 
   
 
-***Pick up***
+**Pick up**
 
   
 
@@ -137,13 +142,13 @@ Angka yang tampil di *tab* **Perlu Dikirim** adalah total pesanan yang perlu dip
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 **Telah diproses**: Pesanan yang telah diatur pengirimannya tetapi belum diambil (*pick up*) atau diserahkan (*drop off*) kepada pihak jasa kirim oleh Penjual. Pesanan tersebut akan muncul di bawah *tab* **Telah diproses**.
 
   
 
-Untuk mengatur pengiriman pesanan Anda dengan **antar ke counter** atau ***pick up***, pilih **Atur Pengiriman** di bawah kolom **Aksi**.
+Untuk mengatur pengiriman pesanan Anda dengan **antar ke counter** atau **pick up**, pilih **Atur Pengiriman** di bawah kolom **Aksi**.
 
 ⚠️ **Catatan**
 
@@ -166,7 +171,7 @@ Untuk mengatur pengiriman pesanan, masuk ke **Atur Pengiriman**, lalu pilih opsi
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk opsi **Antar ke Counter**, temukan cabang jasa kirim terdekat menggunakan **Lihat Semua Cabang di Peta**\*.
 
@@ -183,7 +188,7 @@ Untuk mengetahui panduan pengemasan produk pada beberapa kategori, pelajari lebi
 
 Selain itu, Anda harus mengikuti[ panduan pengemasan produk yang mudah rusak berdasarkan jasa kirim](https://seller.shopee.co.id/edu/article/8344) untuk mengirimkan paket Anda.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Ambil foto atau video produk Anda dengan jelas dan terang sebelum dan setelah pengemasan.
 
@@ -280,3 +285,21 @@ Setelah Anda mencetak label resi pengirim, Shopee menyarankan Anda untuk menyimp
   - Selain memproses pesanan dengan cara di atas, Anda juga bisa memproses pesanan secara massal. Pelajari lebih lanjut mengenai fitur[ Pengiriman Massal](https://seller.shopee.co.id/edu/article/2001).
   - Pastikan satu resi untuk satu nomor pesanan. Jangan kirimkan pesanan/paket dengan resi yang sama.
   - Jika pesanan Anda melebihi batas berat/ukuran paket dan memerlukan beberapa resi, hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) untuk mendapatkan bantuan.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah status pesanan | 6 (Belum Bayar, Perlu Dikirim, Dikirim, Selesai, Pengembalian/Pembatalan, Pengiriman Gagal) |
+| Jumlah opsi pengiriman | 2 (Antar ke Counter/drop off, Pick up) |
+| Jumlah salinan resi disarankan | 2 salinan |
+
+## Pertanyaan diagnosa
+
+1. **Member atur pengiriman pilih Pick Up, mau ganti ke Drop Off karena kurir gak datang?** TIDAK BISA diubah setelah diatur — opsi yang ada: cari kurir ulang, atau langsung bawa ke counter jasa kirim buat drop off tanpa ubah status di sistem (baca panduan resmi soal ini).
+2. **Member pakai J&T Cargo, mau drop off di counter reguler?** GAK BISA — drop off J&T Cargo CUMA bisa di counter KHUSUS J&T Cargo.
+3. **Member pakai Anteraja/Sentral Cargo, mau pick-up hari Minggu?** GAK BISA — kedua jasa kirim ini gak layani pick-up di hari Minggu.
+4. **Member mau pakai metode pick-up SPX Hemat?** Cek dulu status toko — metode ini CUMA tersedia buat Penjual Terpilih.
+5. **Member kirim produk lewat drop off tapi malah dapat resi pengiriman BARU?** Segera hubungi Customer Service Shopee buat update status pesanan & no. resi yang benar.
+6. **Member mau punya bukti kalau Pembeli klaim barang rusak/gak lengkap?** Foto/video produk SEBELUM pengemasan (buktikan kondisi baik) DAN SESUDAH pengemasan (buktikan kemasan rapi + resi terpasang) — kedua bukti ini berguna buat klaim.
+7. **Pesanan member berstatus "Pengiriman Gagal", kenapa?** Bisa karena Pembeli tolak terima paket COD, alamat salah, atau kendala pengiriman lain — paket akan dikembalikan ke Penjual.

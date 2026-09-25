@@ -15,14 +15,14 @@ sources:
 # Melihat dan Mengelola Daftar Produk
 
 ## Ringkasan
-**Mengelola Daftar Produk**
+2 status utama produk: **Live** (tampil, bisa dipesan) dan **Diarsipkan** (disembunyikan sementara, rincian & rating gak hilang, pesanan yang udah ada tetap bisa diproses). Produk baru/update butuh QC (Quality Control) Shopee, estimasi muncul 1x24 jam — kalau lolos QC tampil normal, kalau gagal dapat notif dihapus/diblokir.
 
+## Kapan ini dipakai
+Dipakai kalau member nanya beda status Live vs Diarsipkan, cara tampilkan/sembunyikan produk, atau kenapa produk baru belum muncul di toko/pencarian. Kalau udah lewat 1x24 jam dan masih gak muncul, arahkan siapin data (username, ID produk, nama produk, kata pencarian) buat hubungi CS.
 
-03-06-2026
+## Isi
 
-**Mengelola Daftar Produk**
-
-Produk yang sudah di-*upload* bisa Anda kelola ulang sesuai dengan apa yang Anda inginkan. Mengelola produk memudahkan Anda untuk mengatur dan mengetahui status produk Anda.
+Manfaat dari mengelola daftar produk adalah sebagai berikut:
 
   
 
@@ -49,11 +49,11 @@ Jika Anda ingin menampilkan atau mengarsipkan produk untuk sementara, Anda dapat
 
 **Apa yang terjadi ketika saya menampilkan/mengarsipkan produk?**
 
-  - **\*\*Tampilkan\*\***
+  - **Tampilkan**
 
 Menu tampilkan mengubah status produk dari Diarsipkan menjadi Live, sehingga Pembeli dapat melihat dan memesan produk tersebut.
 
-  - **\*\*Arsipkan\*\***
+  - **Arsipkan**
 
 Menu arsipkan mengubah status produk dari Live menjadi Diarsipkan, sehingga produk tersebut akan disembunyikan sementara tanpa mengubah rincian produk dan penilaian Pembeli.
 
@@ -108,7 +108,7 @@ Jika Anda meng-*upload* Produk Berbahaya, maka Anda wajib mengisi keterangan pro
 
 **Mengapa produk saya tidak muncul setelah di-upload/di-update?**
 
-Jika produk yang sudah di-*upload*/di-*update* tidak muncul di toko atau pada hasil pencarian, **mohon menunggu dengan estimasi waktu 1x24 jam terhitung sejak produk pertama kali di-*****upload/*****di-*****update*****.** Hal ini dikarenakan **Shopee menerapkan sistem** ***quality control*** **(QC) pada setiap produk yang di-*****upload*** **oleh Penjual untuk memastikan tidak adanya pelanggaran.**
+Jika produk yang sudah di-*upload*/di-*update* tidak muncul di toko atau pada hasil pencarian, **mohon menunggu dengan estimasi waktu 1x24 jam terhitung sejak produk pertama kali di-**upload/**di-**update**.** Hal ini dikarenakan **Shopee menerapkan sistem** **quality control** **(QC) pada setiap produk yang di-**upload** **oleh Penjual untuk memastikan tidak adanya pelanggaran.**
 
   
 
@@ -131,3 +131,18 @@ Pelajari lebih lanjut terkait[ cara menemukan *detail* toko dan produk saya](htt
 
   - Pastikan Anda sudah[ mengaktifkan jasa kirim](https://seller.shopee.co.id/edu/article/12517) pada produk yang di-*upload* dan melakukan[ verifikasi no.telepon/handphone](https://seller.shopee.co.id/edu/article/9007/Bagaimana-Cara-Memverifikasi-No-handphone-Saya).
   - Pelajari lebih lanjut tentang[ Mengapa produk saya tidak muncul di toko?](https://seller.shopee.co.id/edu/article/15711).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Estimasi waktu QC produk baru/update sampai muncul | 1x24 jam |
+| Data yang perlu disiapin kalau hubungi CS (lewat 1x24 jam) | Username, No. ID produk, Nama produk, Kata pencarian |
+
+## Pertanyaan diagnosa
+
+1. **Produk member baru di-upload, belum muncul di toko?** Normal — tunggu estimasi 1x24 jam karena proses QC Shopee. Kalau udah lewat 1x24 jam, siapin data (username, ID produk, nama produk, kata pencarian) sebelum hubungi CS.
+2. **Member mau sembunyikan produk sementara TANPA kehilangan rating/rincian?** Pakai **Arsipkan** (bukan hapus) — rincian produk dan penilaian Pembeli tetap tersimpan, tinggal **Tampilkan** lagi kapan pun mau aktif ulang.
+3. **Produk diarsipkan, tapi masih ada pesanan berjalan — gimana?** Tetap bisa diproses normal — mengarsipkan cuma nyembunyiin dari pencarian/tampilan toko, gak membatalkan pesanan yang udah ada.
+4. **Produk gak muncul, dan member jual Produk Berbahaya (cairan/baterai/magnet)?** Cek keterangan Produk Berbahaya-nya udah tepat belum — kalau salah, bisa nambah ongkir atau bikin pengiriman gagal (bukan soal QC visibilitas, tapi soal pengiriman).
+5. **Member cek toko tapi produk masih gak ketemu meski udah lolos QC?** Cek 2 hal dasar: jasa kirim udah diaktifkan di produk, dan nomor HP udah diverifikasi — dua syarat ini sering jadi penyebab produk gak muncul meski udah lolos QC.

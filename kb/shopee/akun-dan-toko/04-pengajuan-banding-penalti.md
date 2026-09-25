@@ -11,16 +11,21 @@ valid_as_of: 2025-12
 sources:
   - file: umum---poin-penalti/pengajuan-banding-penalti.md
     bagian: "artikel penuh"
+related: [shp-penalti-002, shp-penalti-003]
 ---
 # Pengajuan Banding Penalti
 
 ## Ringkasan
+Banding penalti via Seller Centre (gak perlu hubungi CS) — diproses ~7 hari kalender, HARUS diajukan dalam 14 hari sejak tanggal penerbitan pelanggaran. Status "Pengajuan Ulang Banding Diperlukan" kasih waktu 7 hari kalender buat ajukan ulang, kalau ditolak 2 KALI poin penalti TETAP berlaku meski ada dokumen tambahan. Poin gak dihapus kalau metrik yang dihitung ulang MASIH melanggar ambang (contoh: Tingkat Pesanan Tidak Terselesaikan 11% tetap dianggap pelanggaran walau ada revisi, karena >10%).
+
+## Kapan ini dipakai
+Dipakai kalau member kena poin penalti yang menurutnya bukan salahnya (kurir gagal pickup, kendala sistem, keadaan darurat) dan mau ajukan banding. Buat cara tau kena penalti, arahkan ke `shp-penalti-002`; buat FAQ Sistem Poin Penalti umum, arahkan ke `shp-penalti-003`.
+
+## Isi
+
 **Kapan Saya Dapat Mengajukan Banding Poin Penalti?**
 
 
-05-12-2025
-
-**Kapan Saya Dapat Mengajukan Banding Poin Penalti?**
 
 Anda dapat mengajukan banding poin penalti jika terbukti bahwa pelanggaran yang dilakukan bukan karena kesalahan Anda. Berikut adalah contoh skenario:
 
@@ -121,7 +126,7 @@ Berikut adalah dua contoh deskripsi banding yang jelas:
 
   
 
-## ***Upload*** **dokumen pendukung**
+## **Upload** **dokumen pendukung**
 
 Lihat tabel di bawah untuk mengetahui dokumen pendukung apa yang harus di-*upload* selama proses pengajuan banding berdasarkan jenis pelanggaran dan alasan pengajuan banding:
 
@@ -134,4 +139,21 @@ Lihat tabel di bawah untuk mengetahui dokumen pendukung apa yang harus di-*uploa
 Penjual yang berulang kali mengajukan banding yang tidak sah dapat dicabut aksesnya ke fitur banding penalti di Kesehatan Toko pada Seller Centre.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Batas waktu ajukan banding | maks. 14 hari setelah tanggal penerbitan pelanggaran |
+| Waktu proses banding (normal) | ~7 hari kalender sejak tanggal pengajuan |
+| Batas ajukan ulang (status "Pengajuan Ulang Banding Diperlukan") | 7 hari kalender |
+| Batas penolakan sebelum poin tetap berlaku permanen | 2 kali ditolak |
+| Contoh ambang Tingkat Pesanan Tidak Terselesaikan | maks. 10% — di atas itu tetap pelanggaran meski dihitung ulang |
+| Jadwal reset Poin Penalti ke 0 | Senin terakhir tiap kuartal (Maret, Juni, September, Desember) |
+
+## Pertanyaan diagnosa
+
+1. **Member kena penalti 20 hari lalu, mau ajukan banding sekarang?** UDAH TERLAMBAT — batas ajukan banding cuma 14 hari sejak tanggal penerbitan pelanggaran.
+2. **Member ajukan banding, berapa lama nunggu hasilnya?** Normalnya ~7 hari kalender, TAPI kasus kompleks yang butuh penyelidikan lebih lanjut bisa lebih lama dari itu.
+3. **Status banding member "Pengajuan Ulang Banding Diperlukan", apa yang harus dilakukan?** Cek Saran Revisi di Informasi Banding, lalu ajukan ulang lewat "Ubah Banding" — WAJIB dalam 7 hari kalender atau bandingnya OTOMATIS DITOLAK.
+4. **Banding member udah ditolak 2 kali, masih bisa coba lagi dengan bukti baru?** TIDAK — setelah ditolak 2 kali, poin penalti TETAP berlaku permanen meski ada dokumen pendukung tambahan.
+5. **Banding member disetujui sistem tapi poin penaltinya masih ada, kenapa?** Poin CUMA dihapus kalau metrik yang dihitung ulang udah MEMENUHI target — kalau masih di atas ambang (contoh: Tingkat Pesanan Tidak Terselesaikan tetap 11% setelah recalc), poin TETAP berlaku karena masih dianggap pelanggaran.
+6. **Member sering ajukan banding yang ujung-ujungnya ditolak terus?** HATI-HATI — Penjual yang berulang kali ajukan banding gak sah bisa DICABUT AKSESNYA ke fitur banding penalti sepenuhnya.

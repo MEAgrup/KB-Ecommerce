@@ -11,16 +11,21 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/standar-praktik-terbaik-pengemasan-produk-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-040]
 ---
 # Standar & Praktik Terbaik Pengemasan Produk di Shopee
 
 ## Ringkasan
+3 hal utama pengemasan: (1) Kualitas kemasan — sesuai jenis produk, bahan kokoh (hindari tipis); (2) Segel — rekat SEMUA bagian terbuka dengan lakban (kotak pakai isolasi bentuk H), tempel label khusus (Fragile/Sisi Ini Selalu di Atas/dll.) buat produk khusus; (3) Kualitas Resi — ukuran A6, label anti-air/kertas thermal, barcode+QR+rincian jelas, jangan tempel di ujung/lipatan paket. 15 kategori produk (Non-Instant) punya panduan kemasan spesifik masing-masing (cairan, sepatu, aksesoris, pakaian, elektronik, bulky item ≥3kg/≥50cm, super bulky >120cm/>50kg, barang pecah belah, benda tajam, cairan/barang berbahaya, dll.) — beda dengan panduan Instant/Instant Prioritas/Same Day yang lebih umum (filler seperti bubble wrap/styrofoam/kemasan pabrik asli). Klaim rusak WAJIB foto/video sebelum DAN sesudah pengemasan (jelas, terang, dari berbagai sudut) — tanpa ini, klaim kemasan asli rusak (mis. box sepatu) TIDAK diproses.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya standar pengemasan produk, cara nempel resi/segel yang benar, atau bahan kemasan rekomendasi per kategori produk. Buat Asuransi Pengiriman Shopee, arahkan ke `shp-pengiriman-040`.
+
+## Isi
+
 **Praktik Terbaik untuk Mengemas Produk di Shopee**
 
 
-12-08-2026
-
-**Praktik Terbaik untuk Mengemas Produk di Shopee**
 
 Umumnya, Anda harus mengikuti langkah-langkah berikut saat mengemas pesanan sebelum pengiriman:
 
@@ -67,13 +72,13 @@ Penggunaan bahan dan teknik yang tepat dalam mengemas paket sangat penting untuk
 
   
 
-  - **\*\*Kemasan Dalam\*\***
+  - **Kemasan Dalam**
 
 Kemasan dalam memberikan keamanan terhadap kerusakan yang mungkin terjadi saat pengiriman. Berikut beberapa rekomendasi bahan yang dapat Anda gunakan untuk menahan dan mencegah produk bergerak selama pengiriman:
 
   
 
-  - **\*\*Kemasan Luar\*\***
+  - **Kemasan Luar**
 
 Kemasan luar berfungsi sebagai pelindung utama dari tekanan, benturan, dan kondisi cuaca selama proses pengiriman. Pilih bahan yang kuat dan tahan lama agar produk tetap aman hingga diterima Pembeli. Berikut beberapa rekomendasi bahan untuk kemasan luar yang dapat Anda gunakan:
 
@@ -141,14 +146,14 @@ Contoh produk: Panci, teflon.
 
   
 
-**9.** ***Bulky Item*** **(barang berukuran besar \>**=**3 kg atau panjang \>**=**50 cm)**
+**9.** **Bulky Item** **(barang berukuran besar \>**=**3 kg atau panjang \>**=**50 cm)**
 
 Contoh produk: Koper besar, sofa, atau meja belajar.
 
   
   
 
-**10.** ***Super Bulky Item*** **(Ukuran Besar \> 120 cm atau \>50 kg)**
+**10.** **Super Bulky Item** **(Ukuran Besar \> 120 cm atau \>50 kg)**
 
 Contoh produk: Sepeda motor, Sepeda, dll.
 
@@ -195,9 +200,31 @@ Untuk barang rapuh atau tajam gunakan bubble wrap, kotak atau bahan pelindung la
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Jika Anda diharuskan untuk meng-klaim produk yang rusak dalam pengiriman, Anda harus menyediakan foto/video yang dibutuhkan untuk membuktikan bahwa Anda telah mengemas produk dengan baik dan tidak rusak sebelum dikemas. Ambil foto atau video produk dengan jelas dan terang sebelum dan sesudah mengemas paket.
 
   - **Sebelum pengemasan**: Foto/video harus cukup terang dan menunjukkan produk yang dikirim keluar jelas dari sudut yang berbeda.
   - **Setelah pengemasan**: Foto/video harus dengan jelas menangkap kotak atau kemasan untuk membuktikan bahwa paket yang dikirim sudah dikemas dan dibungkus dengan aman.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Ukuran resi standar | A6 |
+| Ambang Bulky Item | berat >=3 kg ATAU panjang >=50 cm |
+| Ambang Super Bulky Item | ukuran >120 cm ATAU berat >50 kg |
+| Jumlah kategori produk dengan panduan kemasan spesifik (Non-Instant) | 15 kategori |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim sepatu tanpa kemasan luar tambahan, box aslinya rusak pas nyampe Pembeli, bisa klaim?** GAK BISA diproses — klaim kerusakan kemasan asli produk (sepatu, kosmetik, dll.) ditolak kalau gak pakai karton box tambahan sebagai kemasan luar.
+2. **Member mau klaim produk rusak tapi cuma punya foto SETELAH dikemas?** Gak cukup — wajib ada foto/video SEBELUM DAN SESUDAH pengemasan, keduanya harus jelas & terang dari berbagai sudut, buat buktikan produk baik-baik saja sebelum dikirim.
+3. **Member kirim koper besar 4kg, termasuk kategori kemasan apa?** Bulky Item — karena beratnya udah >=3kg (meski mungkin panjangnya belum sampai 50cm, salah satu syarat sudah cukup).
+4. **Member kirim sepeda motor pakai jasa kirim reguler, kategori kemasannya?** Super Bulky Item — karena ukurannya jelas >120cm.
+5. **Member nempel resi di ujung/lipatan paket biar rapi?** JANGAN — itu bikin resi jadi berkerut dan berisiko gak kebaca kurir; tempel resi di posisi yang datar dan jelas terlihat.
+6. **Member kirim gelas kaca tanpa bubble wrap, cuma pakai kardus biasa?** Berisiko rusak — gelas kaca termasuk kategori "Barang pecah belah" yang butuh penanganan kemasan khusus (biasanya bubble wrap/filler pelindung).
+7. **Member kirim aksesoris casing HP (20cm ke bawah) pakai Instant?** Ikut panduan kemasan Instant/Instant Prioritas/Same Day yang lebih umum (filler seperti bubble wrap/kemasan pabrik asli), BEDA dengan panduan 15-kategori yang berlaku buat layanan Non-Instant.
+
+## Batasan
+Sebagian besar dari 15 kategori produk (Barang Habis Pakai Cairan/Non-Cairan, Sepatu, Aksesoris, Pakaian, Peralatan Dapur, Handphone/Tablet/Laptop, Bulky Item, Super Bulky Item, Elektronik, Barang Pecah Belah, Alat Kesehatan, Benda Tajam, Cairan/Barang Berbahaya) HANYA punya judul kategori + contoh produk yang tersalin — instruksi kemasan detail (jenis bahan, cara bungkus, dll.) per kategori TIDAK tersalin dalam scraping (tabel/gambar hilang). Begitu juga bagian "Rekomendasi Bahan Kemasan" (Kemasan Dalam & Kemasan Luar) cuma ada judul section tanpa daftar bahan konkretnya. Jangan karang instruksi kemasan spesifik per kategori — arahkan member ke artikel sumber asli atau Panduan Pengemasan Produk resmi Shopee.

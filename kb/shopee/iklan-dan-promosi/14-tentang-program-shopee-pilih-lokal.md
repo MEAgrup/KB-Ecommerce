@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: mj---shopee-lokal/tentang-program-shopee-pilih-lokal.md
     bagian: "artikel penuh"
+related: [shp-promosi-009]
 ---
 # Tentang Program Shopee Pilih Lokal
 
 ## Ringkasan
+Shopee Pilih Lokal = program khusus brand lokal/UMKM (produk 100% lokal, penjual WNI, produksi di Indonesia) yang kasih tag "Pilih Lokal", voucher spesial GOX & diskon, dan exposure khusus. Daftar via formulir di aplikasi Shopee, toko masuk "Status Dalam Pemeriksaan" dulu sebelum disetujui. Kampanye khususnya "Hari Belanja Lokal" cuma tayang tanggal 17 tiap bulan. Nominasi produk cuma bisa diubah SELAMA status Dalam Pemeriksaan.
+
+## Kapan ini dipakai
+Dipakai kalau member (UMKM lokal) nanya syarat/cara daftar Shopee Pilih Lokal, atau cara nominasikan produk/voucher ke kampanyenya. Buat detail Gratis Ongkir XTRA yang jadi salah satu keuntungan program ini, arahkan ke `shp-promosi-009`.
+
+## Isi
+
 **Apa itu Shopee Pilih Lokal?**
 
 
-09-07-2026
-
-**Apa itu Shopee Pilih Lokal?**
 
 Shopee Pilih Lokal adalah program yang bertujuan untuk menghadirkan pilihan terbaik dari *brand*-*brand* lokal dan membantu Penjual UMKM dalam mengembangkan usahanya agar terus maju dan berdaya.
 
@@ -46,10 +51,10 @@ Dengan mengikuti Program Shopee Pilih Lokal, Penjual dapat memperoleh berbagai k
 
 |  |  |
 | :-: | :-: |
-| \*\*KEUNTUNGAN BERGABUNG PROGRAM SHOPEE PILIH LOKAL\*\* |  |
-|  | \*\*\*Tag\*\*\* \*\*produk\*\* 'Pilih Lokal' untukmeningkatkan kunjungan &penjualan toko |
-|  | \*\*Voucher spesial Gratis Ongkir XTRA\*\*\*\*& diskon\*\* untuk produk 'Pilih Lokal' |
-|  | \*\*\*Exposure\*\*\* di halaman Shopee PilihLokal |
+| **KEUNTUNGAN BERGABUNG PROGRAM SHOPEE PILIH LOKAL** |  |
+|  | **\*Tag**\* **produk** 'Pilih Lokal' untukmeningkatkan kunjungan &penjualan toko |
+|  | **Voucher spesial Gratis Ongkir XTRA**& diskon** untuk produk 'Pilih Lokal' |
+|  | **\*Exposure**\* di halaman Shopee PilihLokal |
 
   
 
@@ -114,9 +119,21 @@ Anda dapat bergabung dan menominasikan produk dan voucherke kampanye Shopee Pili
 
 Jika Anda ingin mengeluarkan produk yang sudah tergabung dalam kampanye Shopee Pilih Lokal di periode tertentu, Anda dapat[ menghapus produk yang telah disetujui Shopee](https://seller.shopee.co.id/edu/article/17374).
 
-  
-**  
-**
+## Angka & patokan
 
-# MJ - Promo Shopee**  
-**
+| Patokan | Nilai |
+|---|---|
+| Jadwal Hari Belanja Lokal | tanggal 17 tiap bulan |
+| Syarat kewarganegaraan Penjual | WNI |
+| Syarat lokasi produksi | Indonesia |
+| Syarat jumlah produk toko | min. 1 produk |
+| Jendela ubah nominasi produk | HANYA selama status "Dalam Pemeriksaan" |
+
+## Pertanyaan diagnosa
+
+1. **Member mau daftar Shopee Pilih Lokal tapi produknya campuran (ada elemen non-lokal)?** TIDAK MEMENUHI SYARAT — produk wajib sepenuhnya mencerminkan unsur lokal tanpa elemen non-lokal sama sekali.
+2. **Member udah isi formulir, gimana cara tau status pendaftarannya?** Cek Notifikasi Toko — toko akan berstatus "Dalam Pemeriksaan" dulu, baru dapat konfirmasi (dan tag "Pilih Lokal" kalau disetujui).
+3. **Member mau ubah produk yang udah dinominasikan ke kampanye?** Cuma bisa kalau statusnya MASIH "Dalam Pemeriksaan" — kalau udah lewat status itu, gak bisa diubah lagi.
+4. **Member cari promo Hari Belanja Lokal tapi gak nemu hari ini?** Kampanye ini CUMA tayang tanggal 17 tiap bulan, bukan promo harian/mingguan.
+5. **Member mau keluar dari kampanye yang lagi berjalan?** Arahkan hapus produk yang udah disetujui Shopee lewat halaman pengelolaan produk kampanye (link "menghapus produk yang telah disetujui Shopee" di `## Isi`).
+6. **Member penjual asing (bukan WNI) mau daftar program ini?** TIDAK BISA — salah satu syarat wajib adalah Penjual berkewarganegaraan Indonesia (WNI).

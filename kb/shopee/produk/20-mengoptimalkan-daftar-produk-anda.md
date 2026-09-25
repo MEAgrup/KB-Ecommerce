@@ -11,16 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: daftar-produk---memperbaiki-daftar-produk/mengoptimalkan-daftar-produk-anda.md
     bagian: "artikel penuh"
+related: [shp-produk-019]
 ---
 # Mengoptimalkan Daftar Produk Anda
 
 ## Ringkasan
-**Pentingnya Mengoptimalkan Daftar Produk**
+Fitur Tinjau Rincian Produk (filter 4 jenis kendala: Nilai/Kategori Salah, Foto, Informasi Kurang Lengkap, Lainnya) buat identifikasi produk yang perlu dioptimalkan, plus fitur Optimasi AI (Panduan Ukuran, Atribut Utama, Background foto polos, Poin Utama Penjualan min. 20 karakter) yang otomatis optimasi foto cover & nama produk pakai AI (proses hingga 24 jam). Ada standar minimum: min. 3 foto, min. 3 atribut, nama produk 25-100 karakter, deskripsi min. 100 karakter.
 
+## Kapan ini dipakai
+Dipakai buat bantu member OPTIMASI listing yang udah ada (bukan produk yang lagi bermasalah/diturunkan) — cek kendala spesifik via filter, atau pakai fitur Optimasi AI buat otomatisasi. Beda dari `shp-produk-019` yang fokus TIPS manual (foto/nama/deskripsi) — entry ini lebih ke fitur SISTEM (filter kendala otomatis + AI).
 
-13-08-2026
-
-**Pentingnya Mengoptimalkan Daftar Produk**
+## Isi
 
 Banyaknya rincian yang perlu diisi saat mendaftarkan suatu produk seringkali menjadi alasan mengapa produk tersebut tidak memiliki informasi produk yang lengkap. Oleh karena itu, Shopee telah mengembangkan sistem yang akan membantu Anda mengidentifikasi masalah umum pada daftar produk dan memberikan panduan langkah sederhana untuk memperbaikinya agar daftar produk lebih optimal untuk menarik penjualan.
 
@@ -53,14 +54,14 @@ Berikut rincian dari masing-masing kendala tersebut berdasarkan jenisnya:
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KENDALA INFORMASI PRODUK\*\* | \*\*APA YANG TERJADI?\*\* | \*\*SOLUSI\*\* |
-|        \*\*Nilai/Kategori Salah\*\*   | Produk berada dalam kategori yang salah  | Pilih\[ kategori produk yang tepat\](https://seller.shopee.co.id/edu/article/349) untuk membantu produk Anda muncul di halaman pencarian yang relevan.  |
+| **KENDALA INFORMASI PRODUK** | **APA YANG TERJADI?** | **SOLUSI** |
+|        **Nilai/Kategori Salah**   | Produk berada dalam kategori yang salah  | Pilih\[ kategori produk yang tepat\](https://seller.shopee.co.id/edu/article/349) untuk membantu produk Anda muncul di halaman pencarian yang relevan.  |
 | Berat produk tidak akurat  | Masukkan\[ berat produk secara akurat\](https://seller.shopee.co.id/edu/article/21581) agar biaya ongkos kirim yang dikenakan sesuai. Pelajari selengkapnya terkait\[ penagihan biaya ongkos kirim yang lebih besar ketika berat/dimensi paket aktual tidak sesuai dengan estimasi\](https://seller.shopee.co.id/edu/article/3534). |  |
-|   \*\*Foto\*\*  |   Foto produk terlalu sedikit  | \*Upload\* minimal 3 foto untuk setiap produk. Pelajari selengkapnya tentang\[ panduan \*upload\* foto produk yang baik\](https://seller.shopee.co.id/edu/article/16726). |
-|                \*\*Informasi kurang lengkap\*\*  | Tidak ada tabel ukuran yang tersedia (khusus produk kategori Fashion) atau tidak adanya merek  | \[Tambahkan tabel ukuran ke produk\](https://seller.shopee.co.id/edu/article/13166) serta\[ masukkan merek produk Anda\](https://seller.shopee.co.id/edu/courseDetail/282?lessonId=2614).  |
+|   **Foto**  |   Foto produk terlalu sedikit  | \*Upload\* minimal 3 foto untuk setiap produk. Pelajari selengkapnya tentang\[ panduan \*upload\* foto produk yang baik\](https://seller.shopee.co.id/edu/article/16726). |
+|                **Informasi kurang lengkap**  | Tidak ada tabel ukuran yang tersedia (khusus produk kategori Fashion) atau tidak adanya merek  | \[Tambahkan tabel ukuran ke produk\](https://seller.shopee.co.id/edu/article/13166) serta\[ masukkan merek produk Anda\](https://seller.shopee.co.id/edu/courseDetail/282?lessonId=2614).  |
 | Tidak ada video produk  | Tambahkan video tentang produk untuk meningkatkan kepercayaan Pembeli akan produk Anda. Pelajari lebih lanjut tentang\[ cara membuat video produk yang menarik\](https://seller.shopee.co.id/edu/courseDetail/812?lessonId=2841). |  |
 | Atribut produk terlalu sedikit  | Tambahkan minimal 3 atribut agar Pembeli bisa melihat deskripsi yang lebih lengkap dari produk Anda. Gunakan\[ fitur Edit Atribut\](https://seller.shopee.co.id/edu/courseDetail/63?lessonId=101) untuk mengedit deskripsi beberapa produk sekaligus. |  |
-|           \*\*Lainnya\*\*  | Nama produk terlalu pendek/terlalu panjang  | Pastikan nama produk Anda berkisar antara 25-100 karakter. Pelajari selengkapnya terkait\[ cara membuat nama produk yang baik\](https://seller.shopee.co.id/edu/article/1906). |
+|           **Lainnya**  | Nama produk terlalu pendek/terlalu panjang  | Pastikan nama produk Anda berkisar antara 25-100 karakter. Pelajari selengkapnya terkait\[ cara membuat nama produk yang baik\](https://seller.shopee.co.id/edu/article/1906). |
 | Deskripsi produk terlalu pendek  | Pastikan deskripsi produk memiliki minimal 100 karakter. Pelajari lebih lanjut terkait\[ cara penulisan deskripsi produk yang informatif\](https://seller.shopee.co.id/edu/article/1911). |  |
 | \\\[Hanya untuk produk kategori Fashion\\\] Tidak menggunakan nama variasi standar  | Buat nama variasi produk berdasarkan standar Shopee yang bisa dipilih dari menu \*dropdown\*. Pelajari selengkapnya terkait\[ pengaturan variasi produk\](https://seller.shopee.co.id/edu/article/16445). |  |
 
@@ -113,11 +114,11 @@ Dengan meng-*upload* informasi penting produk, seperti tabel panduan ukuran, atr
 
 Anda dapat mengakses fitur Optimasi AI melalui 2 cara, yaitu pada menu **Optimasi AI** atau menu **Produk Saya**:
 
-  - **\*\*Menu Optimasi AI\*\***
+  - **Menu Optimasi AI**
 
   
 
-  - **\*\*Menu Produk Saya\*\***
+  - **Menu Produk Saya**
 
   
 Di halaman utama Optimasi AI, Anda dapat melengkapi informasi produk secara bertahap dengan mudah hanya dalam beberapa langkah.
@@ -140,7 +141,7 @@ Pilih **Atribut Utama** untuk melengkapi spesifikasi produk Anda. Atribut ini me
 
   
 
-***Background*** **foto polos**
+**Background** **foto polos**
 
 Pilih **Background foto polos** untuk mengoptimalkan foto produk Anda. *Upload* foto produk tanpa *watermark*, dengan komposisi tampilan produk min. 60% dan *background* polos.
 
@@ -188,7 +189,7 @@ Tombol **Kelola** tidak akan muncul jika produk masih dalam proses optimasi oleh
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 Jika seluruh tampilan telah selesai Dioptimalkan AI, maka:
 
@@ -215,3 +216,23 @@ Selain itu, jika Anda merasa **Foto Cover** dan **Nama Produk** yang dihasilkan 
 Berikut adalah perbedaan antara Fitur Optimasi Produk dan Optimasi AI:
 
 Informasi produk yang saling terintegrasi antara fitur Optimasi Produk dan Optimasi AI adalah Panduan Ukuran. Penjual dapat mengisi **Panduan Ukuran** melalui salah satu fitur saja (Optimasi Produk/Optimasi AI), dan informasi tersebut akan otomatis tersinkronisasi ke fitur optimasi lainnya untuk meningkatkan performa produk Anda.
+
+## Angka & patokan
+
+| Kendala | Standar minimum |
+|---|---|
+| Foto produk | min. 3 foto |
+| Atribut produk | min. 3 atribut |
+| Nama produk | 25-100 karakter |
+| Deskripsi produk | min. 100 karakter |
+| Foto background polos (Optimasi AI) | komposisi produk min. 60%, tanpa watermark |
+| Poin Utama Penjualan (Optimasi AI) | min. 20 karakter |
+| Waktu proses Optimasi AI (status Diproses) | bisa sampai 24 jam |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau produknya kurang apa buat optimal?** Arahkan cek *tab* Tinjau Rincian Produk, filter **Kendala Informasi Produk** (4 jenis: Nilai/Kategori Salah, Foto, Informasi Kurang Lengkap, Lainnya) — sistem udah identifikasi otomatis, gak perlu cek manual satu-satu.
+2. **Member pakai Optimasi AI tapi tombol Kelola gak muncul?** Cek status — kalau masih "Diproses" (bisa sampai 24 jam), tombol Kelola emang belum muncul, bukan bug.
+3. **Member mau isi Panduan Ukuran, lewat fitur mana?** Gak masalah — Optimasi Produk dan Optimasi AI SINKRON buat Panduan Ukuran, isi di salah satu aja udah otomatis ke-apply ke keduanya.
+4. **Member gak suka hasil rekomendasi foto cover/nama produk dari AI?** Ada 2 opsi: pilih **Beri Saran** (buat penempatan foto cover) atau kasih *feedback* lewat icon di tiap foto/nama (buat akurasi rekomendasi AI ke depannya) — bukan cuma terima apa adanya.
+5. **Member nanya kenapa produknya gak "Perlu Diiklankan"/"Berpotensi Harga Terbaik"?** Itu FILTER kondisi, bukan status wajib — produk cuma ditandai kalau memang memenuhi syarat program terkait (Iklan Shopee / Garansi Harga Terbaik), bukan semua produk otomatis dapat tanda ini.

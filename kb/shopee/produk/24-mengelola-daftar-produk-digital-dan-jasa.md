@@ -11,20 +11,19 @@ valid_as_of: 2026-08
 sources:
   - file: daftar-produk---mengelola-produk/mengelola-daftar-produk-digital-dan-jasa.md
     bagian: "artikel penuh"
+related: [shp-produk-022]
 ---
 # Mengelola Daftar Produk Digital dan Jasa
 
 ## Ringkasan
-**Apa itu Produk Digital dan Jasa?**
+Produk digital/jasa (pulsa, e-voucher, tiket elektronik) WAJIB masuk kategori **Tiket, Voucher, & Layanan**, gak boleh COD, dan wajib aktifkan Jasa Kirim Toko. Yang DILARANG total: produk yang ditukar/diaktifkan lewat App Store/Google Play (top-up game App Store/Android, langganan in-app), atau produk yang kasih akses/kredit INSTAN setelah bayar (akun premium, kredit game instan). Salah kategori → diblokir sementara; berulang → berpotensi dihapus.
 
+## Kapan ini dipakai
+Dipakai kalau member mau jual produk digital/jasa dan nanya boleh/gak jenis produknya, kategori yang tepat, atau standar deskripsi/instruksi penukaran yang wajib dicantumkan. Cek dulu apakah produknya masuk 3 jenis terlarang (App Store/Play Store, akses instan, atau bagian sistem penagihan toko aplikasi) sebelum jawab boleh.
 
-13-08-2026
+## Isi
 
-**Apa itu Produk Digital dan Jasa?**
-
-ð **Definisi**
-
-Produk digital dan jasa mengacu pada produk tidak berwujud yang tersedia dalam bentuk digital. Contohnya seperti pulsa, e-voucher, tiket elektronik, dll.
+Terdapat 3 jenis produk digital dan jasa di Shopee:
 
   
 
@@ -48,7 +47,7 @@ Memberikan penjelasan yang akurat dalam daftar produk digital dan jasa Anda, aka
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pastikan Anda meng-*upload* produk digital dan jasa ke dalam kategori/sub-kategori yang tepat yaitu **Tiket, Voucher, & Layanan**.
 
@@ -134,3 +133,12 @@ Produk digital dan jasa harus masuk ke dalam kategori dan sub-kategori yang tepa
 ⚠️ **Catatan**
 
 Pastikan produk Anda dimasukkan ke dalam kategori/sub-kategori yang benar. Anda dapat mencari kategori berdasarkan nama produk Anda melalui[ Daftar kategori Shopee](https://seller.shopee.co.id/portal/categories).
+
+## Pertanyaan diagnosa
+
+1. **Member mau jual top-up game buat App Store/Google Play, atau akun premium/langganan?** TIDAK BOLEH — 3 jenis dilarang: produk yang diaktifkan lewat App Store/Play Store, produk yang kasih akses/kredit INSTAN setelah bayar, dan produk yang bagian dari sistem penagihan Toko Aplikasi resmi.
+2. **Member mau jual pulsa/e-voucher pakai metode COD?** TIDAK BOLEH — produk digital gak boleh pakai COD sama sekali, apapun jenisnya.
+3. **Produk digital member diblokir sementara?** Cek dulu kategorinya — kemungkinan besar salah kategori/sub-kategori, harusnya masuk **Tiket, Voucher, & Layanan**. Kalau salah kategori berulang, produk berpotensi DIHAPUS (bukan cuma diblokir).
+4. **Member mau jadi Distributor resmi produk digital?** Arahkan hubungi CS Shopee + lampirkan dokumen resmi dari brand/penyedia produk — bukan proses self-service biasa.
+5. **Member nanya standar deskripsi minimal buat produk digital?** Wajib 3 hal: (1) info produk jelas (nilai/nominal, masa berlaku, ketentuan penukaran), (2) instruksi penukaran (metode pengiriman, jangka waktu), (3) syarat & ketentuan (bisa dikembalikan atau tidak, bisa gabung promo lain atau tidak, batas penukaran per orang).
+6. **Member mau tau kenapa harus aktifin Jasa Kirim Toko buat produk digital?** Itu supaya Pembeli bisa lacak status pesanan produk digital — bukan opsional, ini wajib buat kategori ini.

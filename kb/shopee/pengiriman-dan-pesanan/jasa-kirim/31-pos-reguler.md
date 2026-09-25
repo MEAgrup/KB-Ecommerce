@@ -11,21 +11,26 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/pos-reguler.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-008, shp-pengiriman-009]
 ---
 # Pos Reguler
 
 ## Ringkasan
+Pos Reguler = jasa kirim Reguler didukung Shopee, ada jaminan/ganti rugi hilang-rusak, pick-up buat Penjual tertentu. Per 29 Oktober 2025 dukung COD di SELURUH Indonesia (Penjual & Pembeli). Per 19 Desember 2025, batas total pembayaran COD via Pos Reguler maks. Rp1.000.000/pesanan (beda dengan batas COD jasa kirim lain). Kriteria pick-up dievaluasi bulanan (sama pola dengan Anteraja/ID Express/JNE/SPX — rata-rata pesanan bersih harian, dihapus kalau gak penuhi 1 bulan berturut-turut, tetap bisa drop-off). 11 kategori produk dilarang (narkotika, cairan mudah terbakar, bahan kimia/radioaktif/beracun/meledak termasuk baterai, senjata, produk mudah rusak/cemari lingkungan, produk dewasa, hewan hidup, perdagangan manusia, uang asli/palsu, barang berharga, produk palsu/imitasi).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail layanan, batas COD, kriteria pick-up, atau produk terlarang Pos Reguler. Buat konsep dasar COD, arahkan ke `shp-pengiriman-008`; buat FAQ detail COD, arahkan ke `shp-pengiriman-009`.
+
+## Isi
+
 **Apa itu Pos Reguler?**
 
 
-05-08-2026
-
-**Apa itu Pos Reguler?**
 
 Pos Reguler adalah jasa kirim yang menawarkan pengiriman dengan tipe layanan Reguler di Shopee dengan beberapa dukungan dan ketentuan seperti:
 
   - **Jaminan dan ganti rugi** jika terjadi kehilangan atau kerusakan selama pengiriman.
-  - **Layanan penjemputan (*****pick up*****)** untuk Penjual tertentu.
+  - **Layanan penjemputan (**pick up**)** untuk Penjual tertentu.
 
   
 
@@ -58,7 +63,7 @@ Untuk menjaga konsistensi layanan *pick up* pada pengiriman Pos Reguler, berikut
 
 Cara hitung rata-rata pesanan harian Pos Reguler:
 
-ð **Definisi**
+📍 **Definisi**
 
 Jumlah pesanan bersih adalah jumlah pesanan terbayar yang tidak termasuk:
 
@@ -67,7 +72,7 @@ Jumlah pesanan bersih adalah jumlah pesanan terbayar yang tidak termasuk:
 
   
 
-**Ketentuan Layanan** ***Pick up*** **Pos Reguler**
+**Ketentuan Layanan** **Pick up** **Pos Reguler**
 
 Performa pesanan harian di toko Anda akan dievaluasi setiap bulan. Jika toko Anda belum memiliki layanan *pick up* dan telah memenuhi kriteria yang ditentukan, maka layanan *pick up* akan otomatis tersedia pada akun Anda di minggu pertama bulan berikutnya.
 
@@ -121,3 +126,21 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Untuk memastikan produk Anda sampai ke Pembeli dengan aman dan dalam kondisi yang baik, pastikan Anda menggunakan bahan dan teknik yang tepat saat mengemas paket. Pastikan kemasan paket sesuai dengan jenis atau kategori produk. Pelajari lebih lanjut terkait[ Panduan Pengemasan Produk di Shopee](https://seller.shopee.co.id/edu/article/18821).
   - Berikan perlindungan terhadap produk yang Anda kirim dari kehilangan/kerusakan selama pengiriman. Pelajari lebih lanjut tentang[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345).
   - Untuk mendapatkan informasi seputar pengiriman pesanan atau kendala dalam proses pengiriman, Anda dapat[ Menghubungi Pihak Jasa Kirim](https://seller.shopee.co.id/edu/article/14227).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Mulai dukung COD nasional | per 29 Oktober 2025 |
+| Batas total pembayaran COD Pos Reguler | maks. Rp1.000.000/pesanan (berlaku per 19 Desember 2025) |
+| Evaluasi kriteria layanan pick-up | bulanan, berdasar rata-rata pesanan bersih harian |
+| Jumlah kategori produk dilarang | 11 kategori |
+
+## Pertanyaan diagnosa
+
+1. **Member mau aktifkan COD di Pos Reguler, kapan mulai bisa?** Sejak 29 Oktober 2025, Pos Reguler sudah dukung COD di SELURUH wilayah Indonesia buat Penjual dan Pembeli.
+2. **Pembeli mau checkout COD Rp1,5 juta pakai Pos Reguler?** GAK BISA — batas total pembayaran COD Pos Reguler maks. Rp1.000.000/pesanan, lebih rendah dari jasa kirim Reguler/Hemat Kargo lain yang maks. Rp5.000.000.
+3. **Member kirim baterai lepas pakai Pos Reguler?** GAK BISA — baterai termasuk contoh produk dengan senyawa kimia/mudah meledak yang dilarang dikirim via Pos Reguler.
+4. **Toko member kehilangan akses pick-up Pos Reguler yang sebelumnya aktif?** Kemungkinan rata-rata pesanan bersih harian gak penuhi kriteria minimal selama 1 bulan berturut-turut — tetap bisa kirim via drop-off ke counter Pos Reguler.
+5. **Member jual perhiasan, mau kirim pakai Pos Reguler?** GAK BISA — barang berharga (termasuk perhiasan, emas, perak, permata) termasuk 11 kategori produk yang dilarang dikirim via Pos Reguler.
+6. **Barang member hilang dikirim pakai Pos Reguler, ada jaminan ganti rugi?** Ya — Pos Reguler menyediakan jaminan dan ganti rugi kalau terjadi kehilangan/kerusakan selama pengiriman.

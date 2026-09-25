@@ -11,18 +11,19 @@ valid_as_of: 2026-07
 sources:
   - file: peng-toko---penjual-star/program-penjual-star.md
     bagian: "artikel penuh"
+related: [shp-star-001]
 ---
 # Program Penjual Star
 
 ## Ringkasan
-**Apa itu Program Penjual Star?**
+Penjual Star = undangan otomatis dari Shopee (dikirim tiap Jumat) kalau toko penuhi target performa (Pembeli berbeda ≥10, transaksi ≥20 ATAU pendapatan ≥Rp20jt, Persentase Chat Dibalas ≥60%, Penilaian Toko ≥4,4, Poin Penalti ≤1, dll dalam 30 hari terakhir). Keuntungannya: badge kepercayaan, kuota upload produk 10.000, limit Koin Penjual lebih tinggi, akses Chat Broadcast/Sub-Akun. Tapi kena Biaya Administrasi Star tambahan dan performa terus dipantau — bisa dicabut kalau turun.
 
+## Kapan ini dipakai
+Dipakai buat 3 kasus: (1) cek kenapa toko belum diundang jadi Penjual Star (bandingin ke tabel kriteria), (2) status Star dinonaktifkan & mau banding (cuma bisa buat kriteria Persentase Chat Dibalas), dan (3) paham kenapa metrik di Kesehatan Toko beda sama di halaman Star (harian vs mingguan).
 
-16-07-2026
+## Isi
 
-**Apa itu Program Penjual Star?**
-
-Program Penjual Star memberikan keuntungan kepada Penjual yang dipilih secara khusus oleh Shopee sebagai pengakuan atas penjualan dan layanan Pembeli yang sangat baik. 
+Program Penjual Star memberikan keuntungan kepada Penjual yang dipilih secara khusus oleh Shopee sebagai pengakuan atas penjualan dan layanan Pembeli yang sangat baik.
 
   
 
@@ -40,9 +41,9 @@ Ada beberapa keuntungan yang bisa Anda dapatkan dengan menjadi Penjual Star:
 
 |  |  |
 | :-: | :-: |
-| \*\*PROFIL TOKO\*\* | \*\*HASIL PENCARIAN\*\* |
+| **PROFIL TOKO** | **HASIL PENCARIAN** |
 |  |    |
-| \*\*FOTO PRODUK\*\* | \*\*HALAMAN PRODUK\*\* |
+| **FOTO PRODUK** | **HALAMAN PRODUK** |
 |    |   |
 
   
@@ -86,7 +87,7 @@ Performa Penjual diukur secara adil dan transparan. Anda harus memenuhi target d
 
 |  |  |
 | :-: | :-: |
-| \*\*KRITERIA\*\* | \*\*TARGET\*\* |
+| **KRITERIA** | **TARGET** |
 | \*Detail\* No. KTP telah diterima dandisetujui oleh Shopee | \\- |
 | Pembeli Berbeda 30 Hari Terakhir | ≥10 |
 | Transaksi Berhasil 30 Hari Terakhir | ≥20 pesanan |
@@ -103,7 +104,7 @@ Performa Penjual diukur secara adil dan transparan. Anda harus memenuhi target d
 
   
 
-**ð Definisi**
+**📍 Definisi**
 
   - **Pembeli Berbeda 30 Hari Terakhir**: Jumlah Pembeli dengan pesanan dibayar dalam 30 hari terakhir, tidak termasuk Pembeli dengan pesanan dibatalkan/dikembalikan.
   - **Transaksi Berhasil 30 Hari Terakhir**: Jumlah transaksi berhasil dalam 30 hari terakhir, tidak termasuk pesanan yang dibatalkan/dikembalikan.
@@ -131,7 +132,7 @@ Berikut adalah jenis produk yang dilarang dijual oleh Penjual Star:
 
 *\*Pelajari cara*[ *Meng-upload Daftar Produk*](https://seller.shopee.co.id/edu/article/16726) *dengan benar.*
 
-*\*\*Cek info lengkap mengenai*[ *Kebijakan Barang yang Dilarang dan Dibatasi*](https://help.shopee.co.id/portal/article/71189)*.*
+**Cek info lengkap mengenai*[ *Kebijakan Barang yang Dilarang dan Dibatasi*](https://help.shopee.co.id/portal/article/71189)*.*
 
   
 
@@ -147,11 +148,11 @@ Periksa kriteria terbaru menjadi Penjual Star yang diperlukan serta performa And
 
 Anda dapat memantau performa toko untuk melihat apakah target menjadi Penjual Star telah terpenuhi melalui Seller Centre dan aplikasi Seller Centre Shopee dengan cara berikut:
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
   
 
-  - **\*\*Aplikasi Seller Centre Shopee\*\***
+  - **Aplikasi Seller Centre Shopee**
 
   
 
@@ -220,7 +221,7 @@ Pastikan semua rincian, seperti nomor KTP dan foto Anda terlihat dengan jelas da
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Periksa halaman **Kesehatan Toko** pada Seller Centre atau **Penjual Star** pada aplikasi Shopee Anda secara berkala setelah Anda mengirimkan pengajuan KTP untuk melihat status verifikasi KTP (disetujui/ditolak).
 
@@ -422,23 +423,23 @@ Berikut contoh deskripsi banding yang jelas:
 
 |  |  |
 | :-: | :-: |
-| \*\*PANDUAN\*\* | \*\*DESKRIPSI BANDING\*\* |
-| \*\*Apa\*\* | Saya ingin mengajukan banding untuk kriteria\*\*Perbedaan Persentase Chat Dibalas…\*\* |
-| \*\*Mengapa\*\* | … dikarenakan \*\*kekurangan sumber daya untuk\*\*\*\*membalas setiap\*\* \*\*\*chat\*\*\* \*\*Pembeli pada saat\*\* \*\*\*peak\*\*\*\*\*\*day campaign\*\*\* \*\*12.12.\*\* |
-| \*\*Bagaimana\*\* | \*\*Kriteria pada halaman toko dihitung setiap\*\*\*\*hari, sedangkan kriteria pada halaman Penjual\*\*\*\*Star dihitung setiap minggu.\*\* |
+| **PANDUAN** | **DESKRIPSI BANDING** |
+| **Apa** | Saya ingin mengajukan banding untuk kriteria**Perbedaan Persentase Chat Dibalas…** |
+| **Mengapa** | … dikarenakan **kekurangan sumber daya untuk**membalas setiap** **\*chat**\* **Pembeli pada saat** **\*peak**day campaign**\* **12.12.** |
+| **Bagaimana** | **Kriteria pada halaman toko dihitung setiap**hari, sedangkan kriteria pada halaman Penjual**Star dihitung setiap minggu.** |
 
   
 
-**3.** ***Upload*** **dokumen pendukung**
+**3.** **Upload** **dokumen pendukung**
 
 Lihat tabel di bawah untuk mengetahui dokumen pendukung yang perlu Anda *upload* selama proses pengajuan banding berdasarkan kriteria yang tidak terpenuhi:
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KRITERIA\*\* | \*\*ALASAN PENGAJUAN BANDING\*\* | \*\*DOKUMEN PENDUKUNG\*\* |
-| \*\*Poin Penalti\*\* | Perbedaan total poin penalti dihalaman \*\*Kesehatan Toko\*\*dengan halaman \*\*Penjual Star\*\* | • \*Screenshot\* poin penalti terbarupada halaman \*\*Kesehatan Toko\*\*, atau• Bukti notifikasi bahwa pengajuanbanding poin penalti sudah diterimaoleh tim terkait Shopee yang dapatdiambil melalui halaman \*\*Banding\*\*\*\*Penalti\*\* di Seller Centre. |
-| \*\*Persentase Chat Dibalas\*\* | Perbedaan total Persentase ChatDibalas di halaman toko atauhalaman \*\*Kesehatan Toko\*\*dengan halaman \*\*Star\*\* | \*Screenshot\* Persentase Chat Dibalaspada halaman toko atau \*\*Kesehatan\*\*\*\*Toko\*\* di Seller Centre. |
-| \*\*Penilaian Toko\*\* | Perbedaan total Penilaian Toko dihalaman toko atau halaman\*\*Kesehatan Toko\*\* denganhalaman \*\*Star\*\* | ⁠ \*Screenshot\* Penilaian Toko padahalaman toko atau halaman\*\*Kesehatan Toko\*\* di Seller Centre. |
+| **KRITERIA** | **ALASAN PENGAJUAN BANDING** | **DOKUMEN PENDUKUNG** |
+| **Poin Penalti** | Perbedaan total poin penalti dihalaman **Kesehatan Toko**dengan halaman **Penjual Star** | • \*Screenshot\* poin penalti terbarupada halaman **Kesehatan Toko**, atau• Bukti notifikasi bahwa pengajuanbanding poin penalti sudah diterimaoleh tim terkait Shopee yang dapatdiambil melalui halaman **Banding**Penalti** di Seller Centre. |
+| **Persentase Chat Dibalas** | Perbedaan total Persentase ChatDibalas di halaman toko atauhalaman **Kesehatan Toko**dengan halaman **Star** | \*Screenshot\* Persentase Chat Dibalaspada halaman toko atau **Kesehatan**Toko** di Seller Centre. |
+| **Penilaian Toko** | Perbedaan total Penilaian Toko dihalaman toko atau halaman**Kesehatan Toko** denganhalaman **Star** | ⁠ \*Screenshot\* Penilaian Toko padahalaman toko atau halaman**Kesehatan Toko** di Seller Centre. |
 
   
 
@@ -525,3 +526,36 @@ Untuk berhenti dari program Penjual Star, kunjungi halaman[ **Kesehatan Toko**](
 **6. Mengapa hasil metrik performa antara Kesehatan Toko dan Penjual Star dapat berbeda?**
 
 Hal ini dikarenakan metrik pada Kesehatan Toko dihitung setiap hari, sedangkan metrik pada Penjual Star dihitung setiap minggu.
+
+## Angka & patokan
+
+| Kriteria | Target |
+|---|---|
+| Pembeli Berbeda (30 hari) | ≥10 |
+| Transaksi Berhasil (30 hari) | ≥20 pesanan, ATAU |
+| Pendapatan Bersih (30 hari, kalau transaksi <20) | ≥Rp20.000.000 |
+| Persentase Chat Dibalas | ≥60% |
+| Penilaian Toko | ≥4,4 |
+| Poin Penalti | ≤1 |
+| Pelanggaran Produk Pre-Order (kalau ≥300 produk PO) | ≤20% selama maks. 5 hari |
+| Notifikasi undangan dikirim | tiap hari Jumat |
+| Status Star aktif mulai | Senin minggu berikutnya (biaya admin mulai Selasa 00.00 WIB) |
+| Kuota upload produk | 10.000 (paling lambat 1 minggu setelah gabung) |
+| Maks. top up Koin Penjual | Rp1.000.000/transaksi, Rp1.500.000/hari |
+| Maks. saldo Koin Penjual | Rp2.000.000 |
+| Syarat naik ke Star+ | pertahankan kriteria Star 24 minggu berturut-turut |
+| Batas waktu ajukan banding | Selasa pk. 14.00 WIB |
+| Waktu respons banding | maks. 2x24 jam |
+| Jeda gak boleh diundang lagi (kalau keluar sendiri) | 6 bulan |
+| Jeda gak boleh diundang lagi (kalau kena pelanggaran produk berulang) | 6 bulan |
+
+## Pertanyaan diagnosa
+
+1. **Kriteria mana yang belum terpenuhi?** Cek satu-satu ke tabel target di atas — paling sering yang jadi ganjalan: Persentase Chat Dibalas ≥60% atau Poin Penalti ≤1.
+2. **Status Star dinonaktifkan — mau banding kriteria apa?** Banding CUMA bisa buat Persentase Chat Dibalas. Kalau soal Poin Penalti, harus banding penalti dulu di halaman terpisah sebelum bisa lanjut banding status Star.
+3. **Metrik di Kesehatan Toko beda sama di halaman Star?** Itu normal — Kesehatan Toko dihitung harian, Penjual Star mingguan.
+4. **Toko lagi kena "Periode Jeda"?** Selama jeda, performa gak dievaluasi dan gak ada pendaftaran/pemberhentian baru — status quo dipertahankan sampai jeda berakhir.
+5. **Jual produk yang termasuk daftar terlarang buat Penjual Star** (obat resep, minuman keras, barang re-kondisi tanpa keterangan, klaim "100% Original"/"Dijamin Asli", dll)? Ini bisa gugurin status Star meski kriteria performa lain terpenuhi.
+
+## Batasan
+Entry ini panjang (>3.000 kata) karena gabungin kriteria, keuntungan, cara gabung/berhenti, periode jeda, dan proses banding dalam satu artikel. Daftar produk terlarang khusus Penjual Star BEDA dari Kebijakan Barang Dilarang & Dibatasi umum Shopee — cek dua-duanya kalau relevan.

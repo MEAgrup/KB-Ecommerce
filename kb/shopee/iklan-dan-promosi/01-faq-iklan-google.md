@@ -11,16 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: mj---iklan-eksternal-shopee/faq-iklan-google.md
     bagian: "artikel penuh"
+related: [shp-iklan-003]
 ---
 # FAQ Iklan Google
 
 ## Ringkasan
-**FAQ Umum**
+FAQ lengkap Iklan Google (biaya per klik, muncul di Google Pencarian tab Semua/Shopping, arahkan ke halaman produk Shopee). Saldo TERPISAH dari Iklan Shopee, isi cuma 1x/hari, gak bisa refund. Rekomendasi dana harian Rp350.000/hari, durasi min. 4 minggu (2-3 minggu sebelum event besar kayak 11.11/12.12). Ada tabel besar alasan penolakan Google (watermark, produk palsu, konten terlarang, dll) di `## Isi`.
 
+## Kapan ini dipakai
+Entry RUJUKAN buat semua pertanyaan Iklan Google — cara kerja, biaya, pengaturan, optimasi performa, pembayaran, dan alasan produk ditolak Google. Buat spesifikasi teknis/cara bikin campaign Iklan Google, arahkan ke `shp-iklan-003`. Beda dari Iklan Meta CPAS (`shp-iklan-002`/`004`) yang platform-nya Meta/Facebook, bukan Google.
 
-28-07-2026
-
-**FAQ Umum**
+## Isi
 
 **1. Di mana Iklan Google saya akan ditampilkan?**
 
@@ -85,7 +86,7 @@ Tidak, Anda hanya akan membayar biaya per klik dari iklan Anda. Shopee tidak mem
 
 **FAQ Pengaturan**
 
-**1. Apakah saya perlu mengirimkan** ***detail*** **produk tambahan untuk menggunakan Iklan Google?**
+**1. Apakah saya perlu mengirimkan** **detail** **produk tambahan untuk menggunakan Iklan Google?**
 
 Tidak, informasi tambahan tidak diperlukan. Iklan Google dibuat berdasarkan produk Anda yang ada di Shopee. Namun, hanya produk yang mematuhi pedoman produk Google yang dapat diiklankan di Iklan Google.
 
@@ -149,7 +150,7 @@ Barang-barang seperti alkohol atau produk berbahaya dilarang oleh Google.
 
   
 
-**10. Saat saya mengubah** ***detail*** **produk di toko saya, kapan hal tersebut dapat terlihat pada iklan yang berjalan?**
+**10. Saat saya mengubah** **detail** **produk di toko saya, kapan hal tersebut dapat terlihat pada iklan yang berjalan?**
 
 Perubahan pada judul, deskripsi, atau gambar produk Anda akan terlihat dalam waktu 24 jam jika Anda melakukan perubahan sebelum pk. 08:00 WIB. Jika perubahan dilakukan setelah pk. 08:00 WIB, maka baru akan terlihat dalam 48 jam ke depan. Perubahan harga atau stok akan terlihat di iklan dalam waktu 1 jam setelah perubahan dilakukan.
 
@@ -167,7 +168,7 @@ Berikut masalah yang mungkin Anda hadapi saat menambahkan produk di Iklan Google
 
 |  |  |
 | :-: | :-: |
-| \*\*ALASAN PENOLAKAN\*\* | \*\*AKSI YANG DAPAT DILAKUKAN\*\* |
+| **ALASAN PENOLAKAN** | **AKSI YANG DAPAT DILAKUKAN** |
 | Gambar produk dengan \*watermark\* atau teks promosi | Mengganti gambar produk utama dengan yang tidak mengandung \*overlay\*, \*watermark\*, atau teks promosi. Jika diperlukan, tim Shopee menawarkan opsi untuk mengganti dengan gambar produk kedua Anda. Hubungi tim Shopee/Customer Service Shopee untuk rincian tentang cara memilih gambar produk halaman kedua. |
 | \*Watermark\* promosi pada gambar |  |
 | Teks tambahan \\\[judul\\\] | Harap hapus teks promosi atau simbol dari judul produk. |
@@ -189,7 +190,7 @@ Berikut masalah yang mungkin Anda hadapi saat menambahkan produk di Iklan Google
 | Gambar terlalu umum | Silakan ganti gambar tersebut dengan gambar tidak umum. Misalnya, hindari penggunaan gambar yang sama untuk produk yang dijual di toko Anda. |
 | Teks tidak valid | Silakan ubah judul produk untuk menghapus karakter dan simbol khusus. Pelajari lebih lanjut tentang\[ ketentuan teks tidak valid\](https://support.google.com/merchants/answer/6324415?hl=id\&sjid=1716138812082145811-AP). |
 | Karakter tidak valid | Silakan ubah judul produk untuk menghapus karakter khusus. |
-| Obat dengan resep | Jika teks pada \*landing page\* atau bahan-bahan produk mengandung kata kunci yang ada di\[ daftar \*\*terlarang\*\*\](https://support.google.com/adspolicy/answer/2423645?sjid=15043766919411282310-AP\#zippy=), maka produk yang akan diiklankan tidak akan disetujui. Jika teks pada \*landing page\* atau bahan produk mengandung kata kunci dari\[ daftar \*\*peninjauan\*\*\](https://support.google.com/adspolicy/answer/2430794?hl=id\&sjid=1716138812082145811-AP), Anda dapat menghubungi tim Shopee/Customer Service Shopee untuk meminta peninjauan. Proses peninjauan tidak pasti berhasil. Jika tidak berhasil, maka produk tersebut dilarang oleh kebijakan Google. Durasi proses peninjauan dapat bervariasi tergantung pada jumlah produk. |
+| Obat dengan resep | Jika teks pada \*landing page\* atau bahan-bahan produk mengandung kata kunci yang ada di\[ daftar **terlarang**\](https://support.google.com/adspolicy/answer/2423645?sjid=15043766919411282310-AP\#zippy=), maka produk yang akan diiklankan tidak akan disetujui. Jika teks pada \*landing page\* atau bahan produk mengandung kata kunci dari\[ daftar **peninjauan**\](https://support.google.com/adspolicy/answer/2430794?hl=id\&sjid=1716138812082145811-AP), Anda dapat menghubungi tim Shopee/Customer Service Shopee untuk meminta peninjauan. Proses peninjauan tidak pasti berhasil. Jika tidak berhasil, maka produk tersebut dilarang oleh kebijakan Google. Durasi proses peninjauan dapat bervariasi tergantung pada jumlah produk. |
 
 Pelajari lebih lanjut tentang[ ketentuan Google Shopping](https://support.google.com/merchants/answer/6149970?hl=en&ref_topic=9212502).
 
@@ -235,7 +236,7 @@ Jika promosi Iklan Google Anda baru saja dimulai, tunggu sekitar setidaknya 2 mi
 
   - **Dana harian rendah** - Pertimbangkan untuk menaikkan dana harian Anda untuk mendapatkan eksposur yang lebih baik.
   - **Beberapa pencarian pengguna tidak cocok dengan produk** - Tambahkan *detail* lebih lanjut ke judul dan deskripsi produk Anda.
-  - ***Traffic*** **pencarian Google yang rendah untuk produk Anda** - Periksa produk musiman di daftar produk Anda.
+  - **Traffic** **pencarian Google yang rendah untuk produk Anda** - Periksa produk musiman di daftar produk Anda.
   - **Terlalu sedikit produk dalam promosi Anda** - Sertakan lebih banyak produk dan pastikan stoknya tersedia. Produk yang stoknya habis tidak akan ditampilkan.
   - **Produk Anda mungkin melanggar**[ Kebijakan Iklan Google](https://support.google.com/adspolicy/answer/6008942?hl=id&sjid=3669434892225342052-AP) - Misalnya, Google membatasi iklan alkohol di market tertentu karena pembatasan lokal.
 
@@ -293,7 +294,7 @@ Anda dapat melihat alasan penolakan di daftar produk promosi dan menyesuaikan in
 
   
 
-**8. Apakah ada opsi penyesuaian** ***bidding*** **(misalnya maks biaya per klik) selain pengaturan** ***bidding*** **otomatis? Bagaimana cara Shopee mengelola** ***bidding*** **produknya?**
+**8. Apakah ada opsi penyesuaian** **bidding** **(misalnya maks biaya per klik) selain pengaturan** **bidding** **otomatis? Bagaimana cara Shopee mengelola** **bidding** **produknya?**
 
 Saat ini, kami tidak memberikan opsi untuk menyesuaikan *bidding* guna menyederhanakan proses penyiapan promosi. Kami menetapkan harga *bidding* rata-rata berdasarkan pembelajaran sistem Shopee yang telah disesuaikan untuk setiap market. 
 
@@ -336,3 +337,33 @@ Saldo Iklan Google terpisah dari Saldo Iklan Shopee. Dana yang sama tidak dapat 
 **6. Apakah riwayat transaksi menunjukkan riwayat pengisian saldo yang dilakukan hanya untuk Iklan Google?**
 
 Ya, riwayat transaksi Saldo Iklan Google hanya untuk transaksi yang dilakukan pada Iklan Google. Riwayat transaksi Iklan Shopee dapat dilihat di halaman[ Tagihan Biaya](https://seller.shopee.co.id/portal/marketing/pas/account).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Frekuensi isi saldo Iklan Google | maks. 1x/hari |
+| Dana harian yang direkomendasikan | Rp350.000/hari |
+| Durasi promosi ideal | min. 4 minggu |
+| Mulai promosi sebelum event besar (11.11/12.12) | 2-3 minggu sebelumnya |
+| Waktu produk baru tersinkronisasi (akun baru) | hingga 24 jam |
+| Waktu tinjauan produk baru oleh Google | hingga 5 hari kerja |
+| Efek perubahan harga/stok di iklan | dalam 1 jam |
+| Efek perubahan judul/deskripsi/gambar (sebelum pk. 08.00 WIB) | dalam 24 jam |
+| Efek perubahan judul/deskripsi/gambar (setelah pk. 08.00 WIB) | dalam 48 jam |
+| Produk dihapus dari toko → hilang dari iklan | hari berikutnya (atau dalam 1 jam kalau stok di-set 0 dulu) |
+| Resolusi gambar produk minimum | 250×250 piksel |
+| Waktu minimal algoritma belajar sebelum optimal | min. 2 minggu |
+| Rekomendasi jumlah produk minimum | min. 5 produk (boleh kurang tapi gak disarankan) |
+| Frekuensi update dana harian yang disarankan | tiap 2-3 hari sekali (jangan terlalu sering) |
+
+## Pertanyaan diagnosa
+
+1. **Member cek iklannya sendiri di Google Pencarian, kena biaya gak?** Kalau CUMA muncul di hasil pencarian tanpa diklik, TIDAK kena biaya — biaya cuma dikenakan kalau member sendiri KLIK iklannya.
+2. **Member sering cek iklan sendiri tapi lama-lama gak muncul lagi?** Normal — Google deteksi IP address yang berulang kali nyari tanpa klik, dianggap gak berminat, jadi berhenti nampilin ke IP itu.
+3. **Member mau isi saldo Iklan Google tapi gagal?** Cek — cuma bisa isi 1x per hari, dan saldo Iklan Google TERPISAH dari saldo Iklan Shopee (gak bisa share dana).
+4. **Produk member ditolak Google, kenapa?** Cari alasan penolakan spesifik di tabel besar `## Isi` (watermark, produk palsu, landing page gak lengkap, konten gak pantas, kategori terlarang Google, gambar invalid, dll) — tiap alasan punya cara perbaikan beda.
+5. **Iklan baru jalan tapi tayangannya dikit?** Tunggu MIN. 2 minggu dulu sebelum evaluasi performa — di bawah itu, cek 5 faktor: dana harian rendah, judul/deskripsi kurang detail, traffic pencarian rendah buat produk itu, produk kesedikit dalam promosi, atau ada pelanggaran Kebijakan Iklan Google.
+6. **Member ubah dana harian tiap hari biar performa naik?** JANGAN — disarankan update paling sering tiap 2-3 hari sekali, perubahan terlalu sering malah bisa ganggu performa sistem.
+7. **Saldo Iklan Google habis di tengah promo?** Iklan otomatis berhenti dan lanjut lagi begitu saldo tersedia — TAPI gak bisa bikin promosi BARU sampai saldo terisi lagi.
+8. **Member salah isi saldo, mau refund?** TIDAK BISA — saldo Iklan Google yang udah masuk gak bisa dikembalikan/refund.

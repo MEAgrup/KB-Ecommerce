@@ -11,17 +11,17 @@ valid_as_of: 2026-01
 sources:
   - file: daftar-produk---kebijakan-pelanggaran-produk/tentang-pelanggaran-produk.md
     bagian: "artikel penuh"
-related: [shp-produk-107]
+related: [shp-produk-009, shp-produk-013, shp-produk-107]
 ---
 # Tentang Pelanggaran Produk
 
 ## Ringkasan
-**Apa itu Pelanggaran Produk?**
+Entry PENGANTAR sistem pelanggaran produk — jelasin 2 jenis tindakan: **Diturunkan** (produk tetap tampil tapi peringkat pencarian turun, khusus pelanggaran kategori salah/foto pornografi-vulgar/foto tidak pantas) vs **Diblokir/Dihapus** (kena poin penalti, ada batas waktu perbaikan sebelum dihapus permanen). Cara cek: Seller Centre > Kesehatan Toko > Produk yang Dilarang, atau halaman Pelanggaran Produk (tab Diturunkan/Diblokir/Dihapus).
 
+## Kapan ini dipakai
+Entry PERTAMA buat pahamin SISTEM pelanggaran produk secara umum (beda Diturunkan vs Diblokir vs Dihapus, cara cek & perbaiki tiap status). Buat daftar LENGKAP jenis pelanggaran spesifik & cara perbaikinya, arahkan ke `shp-produk-013` (tabel master ~85 jenis). Buat cara perbaiki pelanggaran konten foto/video atau kategori salah secara detail, arahkan ke `shp-produk-009`.
 
-26-01-2026
-
-**Apa itu Pelanggaran Produk?**
+## Isi
 
 Pelanggaran produk adalah daftar produk yang melanggar kebijakan Shopee. Untuk memastikan pengalaman berbelanja yang aman bagi Pembeli, Shopee mengawasi semua produk yang di-*upload* oleh Penjual dan akan mengambil tindakan terhadap Penjual yang melakukan pelanggaran produk berikut:
 
@@ -70,7 +70,7 @@ Semua Penjual Shopee diharapkan dapat memenuhi semua panduan tersebut, sehingga 
 
 Pelanggaran produk dapat dilihat dengan mengunjungi Seller Centre \> pilih **Kesehatan Toko** dan periksa rinciannya di kategori **Produk yang Dilarang**
 
-**ð¡ Tips**
+**💡 Tips**
 
 Arahkan kursor ke simbol "?" untuk mempelajari lebih lanjut tentang setiap pelanggaran produk.
 
@@ -82,13 +82,13 @@ Produk yang melanggar panduan pelanggaran produk akan dikenakan salah satu dari 
 
   
 
-  - **\*\*Diturunkan\*\***
+  - **Diturunkan**
 
 Hal ini hanya berlaku bagi jenis pelanggaran kategori produk yang salah dan pelanggaran foto produk mengandung unsur pornografi/konten vulgar dan foto tidak pantas. Produk yang diturunkan tetap ditampilkan dan dapat dicari oleh Pembeli, namun peringkat pencarian akan mengalami penurunan sementara. Anda dapat memperbaiki dan menyelesaikan pelanggaran tersebut agar peringkat pencarian produk meningkat kembali.
 
   
 
-  - **\*\*Diblokir dan/atau dihapus\*\***
+  - **Diblokir dan/atau dihapus**
 
 Produk akan **dihapus** jika melanggar[ kebijakan barang yang dilanggar dan dibatasi Shopee](https://help.shopee.co.id/portal/article/71189?source=4&previousPage=other%20articles) dan regulasi tertentu dari pemerintah. Toko dengan produk yang dihapus oleh Shopee akan mendapatkan poin penalti berdasarkan[ Sistem Poin Penalti](https://seller.shopee.co.id/edu/article/1762/Kapan-Poin-Penalti-Diberikan). Pelajari lebih lanjut tentang[ akun Shopee](https://seller.shopee.co.id/edu/article/6856) dan[ pengajuan banding penalti](https://seller.shopee.co.id/edu/article/16074/pengajuan-banding-penalti).
 
@@ -211,7 +211,7 @@ Anda juga dapat **Hapus** produk secara massal.
 
   
 
-***Upload*** **Dokumen Pendukung**
+**Upload** **Dokumen Pendukung**
 
 Pilih **Upload** **Lisensi** dan *upload* dokumen terkait. Anda dapat *upload* hingga 10 dokumen untuk setiap produk yang diblokir.
 
@@ -239,3 +239,23 @@ Anda dapat melaporkan Penjual yang menjual produk palsu/imitasi dengan mengakses
 Anda dapat melaporkan produk palsu/imitasi dengan mengakses halaman produk tersebut dan pilih **Laporkan produk ini** dari menu pilihan yang terletak di bagian atas kanan layar.
 
 Jika Anda menemukan produk palsu/imitasi, silakan hubungi Customer Service Shopee yang akan membantu Anda dalam melengkapi dokumen-dokumen yang diperlukan.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu peringkat pencarian turun setelah produk diturunkan | maks. 1 hari kerja |
+| Waktu peringkat pencarian normal lagi setelah diperbaiki | maks. 1 hari kerja |
+| Riwayat pelanggaran yang ditampilkan | 3 bulan terakhir |
+| Maks. dokumen pendukung per produk diblokir | 10 dokumen |
+| Pemulihan keuntungan eksklusif (kalau performa membaik) | 28 hari |
+
+## Pertanyaan diagnosa
+
+1. **Produk member "Diturunkan" — masih bisa dicari Pembeli gak?** Ya, MASIH tampil dan bisa dicari, cuma peringkat pencariannya turun sementara — beda dari "Diblokir/Dihapus" yang produknya bener-bener gak muncul.
+2. **Produk "Diblokir" — kapan harus buru-buru diperbaiki?** Cek kolom **Batas Waktu** di tab Diblokir (Pelanggaran Produk) — kalau lewat batas waktu itu tanpa perbaikan, produk otomatis DIHAPUS.
+3. **Produk udah "Dihapus oleh Shopee" — bisa dipulihkan gak?** TIDAK — dihapus itu final, gak bisa dipulihkan. Kolom Aksi di tab ini cuma buat konfirmasi (bukan restore).
+4. **Member perbaiki kategori produk yang diturunkan, kapan efeknya kelihatan?** Status "Diturunkan" hilang otomatis begitu kategori diperbaiki, tapi peringkat pencarian butuh maks. 1 hari kerja buat balik normal — jangan panik kalau belum langsung naik.
+5. **Member mau upload dokumen pendukung (lisensi/sertifikat) buat produk yang diblokir?** Bisa upload hingga 10 dokumen per produk — pastikan resolusi foto/scan-nya tinggi biar proses pengecekan lebih cepat.
+6. **Berapa lama toko kena "hukuman" performa (kehilangan keuntungan eksklusif) karena poin penalti tinggi?** Bisa balik dapat keuntungan eksklusif dalam 28 hari KALAU performa toko membaik dan mencapai target — bukan otomatis balik setelah 28 hari tanpa syarat.
+7. **Member nemu toko lain jual produk palsu/imitasi, mau lapor?** Ada 2 opsi: lapor TOKO-nya (halaman toko > Laporkan Pengguna ini) atau lapor PRODUK spesifiknya (halaman produk > Laporkan produk ini).

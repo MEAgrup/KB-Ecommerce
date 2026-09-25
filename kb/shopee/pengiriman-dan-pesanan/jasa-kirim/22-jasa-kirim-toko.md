@@ -11,16 +11,21 @@ valid_as_of: 2024-09
 sources:
   - file: pp---jasa-kirim/jasa-kirim-toko.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-011, shp-pengiriman-023]
 ---
 # Jasa Kirim Toko
 
 ## Ringkasan
+Jasa Kirim Toko = pilihan jasa kirim pihak ketiga TIDAK terintegrasi Shopee (dulu bernama "Termasuk Ongkos Kirim", berubah nama Agustus 2023), khusus Penjual TERPILIH. Ajukan via formulir, hasil diinfo 3-5 HARI KALENDER via email. Cuma boleh dipakai buat 4 kategori produk: digital (pulsa/e-voucher), butuh penanganan khusus (cairan/elektronik), butuh instalasi (AC/router), atau terlalu besar/berat (sofa/furnitur). WAJIB tetap aktifkan min. 1 Jasa Kirim Didukung Shopee di toko. Kriteria performa: tingkat pengembalian barang/dana HARUS di bawah 10% — kalau lewat, Jasa Kirim Toko dinonaktifkan otomatis.
+
+## Kapan ini dipakai
+Dipakai kalau member (Penjual terpilih) nanya cara aktivasi, produk yang boleh pakai, atau kriteria performa Jasa Kirim Toko. Buat FAQ jasa kirim tidak didukung Shopee secara umum, arahkan ke `shp-pengiriman-011`; buat perbandingan didukung vs tidak didukung, arahkan ke `shp-pengiriman-023`.
+
+## Isi
+
 **Apa itu Jasa Kirim Toko?**
 
 
-24-09-2024
-
-**Apa itu Jasa Kirim Toko?**
 
 Jasa Kirim Toko adalah salah satu pilihan jasa kirim yang diberikan oleh penyedia jasa kirim (pihak ketiga) dan belum terintegrasi dengan sistem Shopee, sehingga pelacakan pengiriman pesanan tidak akan muncul di aplikasi Shopee Pembeli maupun Penjual.
 
@@ -40,7 +45,7 @@ Per Agustus 2023, jasa kirim "Termasuk Ongkos Kirim" berubah menjadi "Jasa Kirim
 
   
 
-**﻿﻿﻿﻿﻿﻿﻿﻿﻿****Bagaimana cara mengajukan aktivasi pilihan Jasa Kirim Toko?**
+**﻿﻿﻿﻿﻿﻿﻿﻿﻿**Bagaimana cara mengajukan aktivasi pilihan Jasa Kirim Toko?**
 
 Anda dapat mengisi formulir untuk mengajukan[ aktivasi pilihan Jasa Kirim Toko](https://help.shopee.co.id/portal/webform/d9c1b508ee7f41e592c6cf9cbca1980a). Apabila Anda membutuhkan penanganan khusus pada pengiriman seperti produk dengan dimensi yang besar, elektronik, atau barang dengan nilai jual tinggi lainnya, Anda juga dapat mengaktifkan pilihan jasa kirim tersebut.
 
@@ -89,7 +94,7 @@ Anda dapat masuk ke halaman **Pengaturan Pengiriman** untuk mengaktifkan Jasa Ki
   
 **
 
-***Update*** **secara massal melalui Seller Centre**: 
+**Update** **secara massal melalui Seller Centre**: 
 
   
 
@@ -181,3 +186,24 @@ Jika Anda gagal mengirimkan paket atau pesanan terbatalkan otomatis, maka Anda a
 ## **Alur pemantauan penggunaan Jasa Kirim Toko﻿﻿﻿﻿﻿﻿**
 
 Berikut alur pemantauan penggunaan Jasa Kirim Toko.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu proses persetujuan aktivasi | 3-5 hari kalender |
+| Jumlah kategori produk yang boleh pakai | 4 kategori |
+| Batas tingkat pengembalian barang/dana | harus di bawah 10% |
+| Kewajiban jasa kirim didukung tetap aktif | min. 1 Jasa Kirim yang Didukung Shopee |
+
+## Pertanyaan diagnosa
+
+1. **Member ajukan aktivasi Jasa Kirim Toko, udah 6 hari belum ada kabar?** Sudah lewat waktu normal (3-5 hari kalender) — segera hubungi CS Shopee buat cek status pengajuan.
+2. **Member mau pakai Jasa Kirim Toko buat jual baju biasa (bukan digital/besar/butuh instalasi)?** Gak sesuai kriteria — Jasa Kirim Toko cuma boleh dipakai buat 4 kategori: produk digital, butuh penanganan khusus, butuh instalasi, atau terlalu besar/berat.
+3. **Toko member tingkat pengembalian barang/dana via Jasa Kirim Toko naik jadi 12%?** Berisiko — kalau di atas 10%, Shopee akan MENONAKTIFKAN pilihan Jasa Kirim Toko di toko secara otomatis.
+4. **Member pengajuan Jasa Kirim Toko-nya ditolak Shopee?** Tingkatkan dulu performa toko, baru ajukan ulang — bukan langsung banding.
+5. **Member aktifkan Jasa Kirim Toko doang, matikan semua Jasa Kirim Didukung Shopee?** JANGAN — tetap wajib aktifkan minimal 1 Jasa Kirim Didukung Shopee biar Pembeli bisa lacak pesanan.
+6. **Member mau pertahankan Jasa Kirim Toko biar gak dinonaktifkan?** Kemas & input resi tepat waktu, pastikan jasa kirim yang dipakai tepat waktu, dan kirim barang sesuai gambar/deskripsi produk — jaga tingkat retur di bawah 10%.
+
+## Batasan
+Bagian "Jika Anda gagal mengirimkan paket atau pesanan terbatalkan otomatis, maka Anda akan dikenakan sanksi sesuai berikut:" menjanjikan tabel/daftar sanksi konkret TAPI isinya TIDAK tersalin — cuma kalimat pengantar yang tersisa. Begitu juga section "Alur pemantauan penggunaan Jasa Kirim Toko" merujuk ke diagram/gambar alur yang TIDAK tersalin. Jangan karang detail sanksi atau alur pemantauannya — arahkan member ke artikel sumber asli atau CS Shopee buat kepastian.

@@ -11,16 +11,21 @@ valid_as_of: 2026-08
 sources:
   - file: mj---program-shopee/program-opsional-gratis-ongkir-xtra.md
     bagian: "artikel penuh"
+related: [shp-biaya-007, shp-biaya-008, shp-iklan-005]
 ---
 # Program Opsional Gratis Ongkir XTRA
 
 ## Ringkasan
+Gratis Ongkir XTRA (GOX) = program opsional buat kasih promosi Gratis Ongkir ke Pembeli, biaya 1,00%-8,00% (produk ukuran biasa)/2,50%-9,50% (ukuran khusus) sesuai kategori A-H, plafon Rp40rb/Rp60rb per kuantitas produk. Syarat: aktifkan min. 1 jasa kirim pendukung + gak ada riwayat pesanan janggal/penyalahgunaan. Pengajuan gabung/keluar diproses maks. 2 hari kalender. Seller baru dapat bebas biaya sampai 500-1.000 pesanan pertama atau 6-12 bulan (tergantung tanggal upload produk pertama).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara gabung/keluar GOX, syarat kelayakan, atau skema ongkos gratis per area pengiriman. Buat rincian biaya GOX per kategori produk secara detail, arahkan ke `shp-biaya-007`/`shp-biaya-008`; buat diskon biaya GOX lewat pemakaian iklan, arahkan ke `shp-iklan-005`.
+
+## Isi
+
 **Apa itu Program Opsional Gratis Ongkir XTRA?**
 
 
-05-08-2026
-
-**Apa itu Program Opsional Gratis Ongkir XTRA?**
 
 Gratis Ongkir XTRA (GOX) adalah program opsional yang memberikan kesempatan bagi Penjual untuk menawarkan promosi Gratis Ongkir kepada Pembeli.
 
@@ -54,16 +59,16 @@ Berikut skema Gratis Ongkir XTRA yang berlaku mulai 3 November 2025:
 
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| \*\*AREA PENGIRIMAN\\\*\*\* | \*\*MIN. BELANJA\*\* | \*\*MAKS. GRATIS ONGKIR UNTUK PEMBELI\*\* | \*\*TIPE LAYANAN PENGIRIMAN\*\* | \*\*KETENTUAN BARANG\*\* |
-| \*\*Pulau Jawa\*\* | Rp0 | Rp10.000 | Hemat Kargo | Maks. berat 20kg |
+| **AREA PENGIRIMAN\\**\* | **MIN. BELANJA** | **MAKS. GRATIS ONGKIR UNTUK PEMBELI** | **TIPE LAYANAN PENGIRIMAN** | **KETENTUAN BARANG** |
+| **Pulau Jawa** | Rp0 | Rp10.000 | Hemat Kargo | Maks. berat 20kg |
 | Rp60.000 | Rp30.000 | \\- |  |  |
 | Rp200.000 | Rp1.000.000 | \\- |  |  |
 | Rp50.000 | Rp10.000 | Reguler | \\- |  |
-| \*\*Sumatra dan Bali\*\* | Rp30.000 | Rp30.000 | Hemat Kargo | Berlaku untuk barang ringan |
-| \*\*Kalimantan dan Sulawesi\*\* | Rp50.000 | Rp40.000 | \\- |  |
-| \*\*Papua, Maluku, dan Nusa Tenggara\*\* | Rp150.000 | Rp60.000 | \\- |  |
-| \*\*Luar Pulau Jawa\*\* | Rp150.000 | Rp60.000 | Hemat Kargo | \\- |
-| \*\*Seluruh Wilayah Indonesia\*\* | Rp300.000 | Rp20.000 | Instant Prioritas | \\- |
+| **Sumatra dan Bali** | Rp30.000 | Rp30.000 | Hemat Kargo | Berlaku untuk barang ringan |
+| **Kalimantan dan Sulawesi** | Rp50.000 | Rp40.000 | \\- |  |
+| **Papua, Maluku, dan Nusa Tenggara** | Rp150.000 | Rp60.000 | \\- |  |
+| **Luar Pulau Jawa** | Rp150.000 | Rp60.000 | Hemat Kargo | \\- |
+| **Seluruh Wilayah Indonesia** | Rp300.000 | Rp20.000 | Instant Prioritas | \\- |
 | Rp30.000 | Rp15.000 | Instant | \\- |  |
 | Rp80.000 | Rp20.000 | \\- |  |  |
 | Rp300.000 | Rp50.000 | \\- |  |  |
@@ -81,8 +86,8 @@ Berikut skema Gratis Ongkir XTRA untuk Produk Ukuran Khusus yang berlaku mulai 1
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*AREA PENGIRIMAN\\\*\*\* | \*\*BERAT PRODUK\*\* | \*\*HARGA PRODUK\*\* | \*\*MAKS. GRATIS ONGKIR UNTUK PEMBELI\*\* |
-| \*\*Pulau Jawa\*\* | 5-10 kg | Rp0 - Rp50.000 | Rp5.000 |
+| **AREA PENGIRIMAN\\**\* | **BERAT PRODUK** | **HARGA PRODUK** | **MAKS. GRATIS ONGKIR UNTUK PEMBELI** |
+| **Pulau Jawa** | 5-10 kg | Rp0 - Rp50.000 | Rp5.000 |
 | Rp50.000 - Rp200.000 | Rp5.000 |  |  |
 | Rp200.000 - Rp500.000 | Rp15.000 |  |  |
 | Rp500.000 - Rp700.000 | Rp15.000 |  |  |
@@ -92,7 +97,7 @@ Berikut skema Gratis Ongkir XTRA untuk Produk Ukuran Khusus yang berlaku mulai 1
 | Rp200.000 - Rp500.000 | Rp20.000 |  |  |
 | Rp500.000 - Rp700.000 | Rp35.000 |  |  |
 | Di atas Rp700.000 | Rp35.000 |  |  |
-| \*\*Di Luar Pulau Jawa\*\* | 5-10 kg | Rp0 - Rp50.000 | Rp50.000 |
+| **Di Luar Pulau Jawa** | 5-10 kg | Rp0 - Rp50.000 | Rp50.000 |
 | Rp50.000 - Rp200.000 | Rp50.000 |  |  |
 | Rp200.000 - Rp500.000 | Rp60.000 |  |  |
 | Rp500.000 - Rp700.000 | Rp60.000 |  |  |
@@ -134,16 +139,16 @@ Produk Ukuran Khusus: barang dengan berat lebih dari atau sama dengan 5kg, panja
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*PROGRAM\*\* | \*\*KATEGORI PRODUK\*\* | \*\*PRODUK UKURAN BIASA\*\* | \*\*PRODUK UKURAN KHUSUS\*\* |
-| \*\*Biaya Program Opsional Gratis Ongkir XTRA\*\* | \*\*A\*\* | \*\*1,00%\*\* | \*\*2,50%\*\* |
-| \*\*B\*\* | \*\*2,00%\*\* | \*\*3,50%\*\* |  |
-| \*\*C\*\* | \*\*3,50%\*\* | \*\*5,00%\*\* |  |
-| \*\*D\*\* | \*\*5,50%\*\* | \*\*7,00%\*\* |  |
-| \*\*E\*\* | \*\*6,00%\*\* | \*\*7,50%\*\* |  |
-| \*\*F\*\* | \*\*6,50%\*\* | \*\*8,00%\*\* |  |
-| \*\*G\*\* | \*\*7,50%\*\* | \*\*9,00%\*\* |  |
-| \*\*H\*\* | \*\*8,00%\*\* | \*\*9,50%\*\* |  |
-| \*\*Semua Kategori\*\* | \*\*Rp40.000 per kuantitas produk\*\* | \*\*Rp60.000 per kuantitas produk\*\* |  |
+| **PROGRAM** | **KATEGORI PRODUK** | **PRODUK UKURAN BIASA** | **PRODUK UKURAN KHUSUS** |
+| **Biaya Program Opsional Gratis Ongkir XTRA** | **A** | **1,00%** | **2,50%** |
+| **B** | **2,00%** | **3,50%** |  |
+| **C** | **3,50%** | **5,00%** |  |
+| **D** | **5,50%** | **7,00%** |  |
+| **E** | **6,00%** | **7,50%** |  |
+| **F** | **6,50%** | **8,00%** |  |
+| **G** | **7,50%** | **9,00%** |  |
+| **H** | **8,00%** | **9,50%** |  |
+| **Semua Kategori** | **Rp40.000 per kuantitas produk** | **Rp60.000 per kuantitas produk** |  |
 
   
 
@@ -170,7 +175,7 @@ Ilustrasi pengajuan & waktu efektif berhenti/bergabung adalah sebagai berikut:
 
 |  |  |
 | :-: | :-: |
-| \*\*PENGAJUAN BERHENTI/BERGABUNG\*\* | \*\*WAKTU EFEKTIF BERHENTI/BERGABUNG\*\* |
+| **PENGAJUAN BERHENTI/BERGABUNG** | **WAKTU EFEKTIF BERHENTI/BERGABUNG** |
 | Selasa, 5 Agustus 2025sebelum pk. 17.00 WIB | Rabu, 6 Agustus 2025pk. 00:00 WIB |
 | Selasa, 5 Agustus 2025setelah pk. 17.00 WIB | Kamis, 7 Agustus 2025pk. 00:00 WIB |
 | Dan seterusnya | Dan seterusnya |
@@ -183,8 +188,8 @@ Berikut daftar tipe layanan pengiriman dan jasa kirim yang mendukung dalam Progr
 
 |  |  |
 | :-: | :-: |
-| \*\*TIPE LAYANAN PENGIRIMAN\*\* | \*\*JASA KIRIM\*\* |
-| \*\*Reguler\*\* | Anteraja Reguler |
+| **TIPE LAYANAN PENGIRIMAN** | **JASA KIRIM** |
+| **Reguler** | Anteraja Reguler |
 | ID Express |  |
 | JNE Reguler |  |
 | JNE Reguler (\*Cashless\*) |  |
@@ -192,14 +197,14 @@ Berikut daftar tipe layanan pengiriman dan jasa kirim yang mendukung dalam Progr
 | Pos Reguler |  |
 | SiCepat REG |  |
 | SPX Standard |  |
-| \*\*Instant\*\* | \*\*•\*\* GoSend Instant (Versi Lama)\*\*•\*\* GoSend Instant Prioritas\*\*•\*\* GoSend Instant |
+| **Instant** | **•** GoSend Instant (Versi Lama)**•** GoSend Instant Prioritas**•** GoSend Instant |
 | • GrabExpress Instant• GrabExpress Instant Prioritas• GrabExpress Instant |  |
 | • SPX Instant• SPX Instant Prioritas• SPX Instant |  |
-| \*\*Same Day\*\* | Anteraja Sameday |
+| **Same Day** | Anteraja Sameday |
 | GoSend Same Day |  |
 | GrabExpress Sameday |  |
 | SPX Sameday |  |
-| \*\*Hemat Kargo\*\* | Anteraja Cargo |
+| **Hemat Kargo** | Anteraja Cargo |
 | Anteraja Economy |  |
 | J\\\&T Cargo |  |
 | JNE Trucking (JTR) |  |
@@ -303,3 +308,28 @@ Voucher Gratis Ongkir XTRA dapat digunakan dengan layanan pengiriman **Rekomenda
 **2. Mengapa saya diberhentikan dari Program Opsional Gratis Ongkir XTRA?**
 
 Anda akan diberhentikan secara otomatis dari Program Opsional Gratis Ongkir XTRA jika sistem mendeteksi bahwa Anda sudah tidak memenuhi kriteria. Namun, Anda akan bergabung kembali dalam Program Opsional Gratis Ongkir XTRA setelah kembali memenuhi kriteria.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Biaya program (produk ukuran biasa, kategori A-H) | 1,00% - 8,00%, berlaku mulai 2 Mei 2026 |
+| Biaya program (produk ukuran khusus, kategori A-H) | 2,50% - 9,50%, berlaku mulai 2 Mei 2026 |
+| Plafon biaya (produk ukuran biasa) | Rp40.000/kuantitas produk |
+| Plafon biaya (produk ukuran khusus) | Rp60.000/kuantitas produk |
+| Ambang berat Produk Ukuran Khusus | ≥5kg ATAU salah satu sisi ≥60cm ATAU dimensi ≥20.000 cm³ |
+| Proses pengajuan gabung/berhenti | maks. 2 hari kalender sejak formulir diterima |
+| Bebas biaya GOX (upload produk pertama sebelum 30 Apr 2026) | 500 pesanan pertama ATAU 6 bulan (180 hari), mana lebih dulu |
+| Bebas biaya GOX (upload produk pertama 1 Mei-30 Jun 2026) | 1.000 pesanan pertama ATAU 1 tahun (365 hari), mana lebih dulu |
+| Bebas biaya GOX (upload produk pertama 1-31 Jul 2026) | 500 pesanan pertama ATAU 6 bulan (180 hari), mana lebih dulu |
+| Min. jasa kirim aktif buat ikut program | 1 dari daftar jasa kirim pendukung |
+
+## Pertanyaan diagnosa
+
+1. **Member baru upload produk pertama, mau tau kapan bebas biaya GOX habis?** Cek tanggal upload produk pertama — sebelum 30 Apr 2026 dan 1-31 Jul 2026: bebas biaya s.d. 500 pesanan/6 bulan; 1 Mei-30 Jun 2026: bebas biaya s.d. 1.000 pesanan/1 tahun (mana lebih dulu tercapai).
+2. **Member mau tau biaya GOX toko-nya berapa persen?** Tergantung kategori produk (A-H) dan ukuran (biasa/khusus) — arahkan cek tabel biaya di `## Isi` atau ke `shp-biaya-007`/`shp-biaya-008` buat rincian per kategori.
+3. **Member gabung GOX hari Selasa sebelum jam 17.00 WIB, kapan efektifnya?** Efektif keesokan harinya jam 00:00 WIB (lihat tabel ilustrasi waktu efektif di `## Isi`) — kalau daftar SETELAH jam 17.00 WIB, efektifnya mundur 1 hari lagi.
+4. **Pembeli member gak dapat Voucher GOX walau tokonya udah ikut program?** Cek jasa kirim yang dipilih Pembeli — voucher GOX cuma berlaku buat jasa kirim Rekomendasi Shopee atau yang masuk daftar Pilihan Kurir, bukan semua jasa kirim.
+5. **Member kena biaya GOX padahal pesanannya dibatalkan?** Seharusnya TIDAK — biaya program gak dikenakan buat pesanan yang dibatalkan.
+6. **Toko member tiba-tiba keluar dari GOX tanpa member ajukan berhenti?** Sistem otomatis berhentikan keikutsertaan kalau kriteria (riwayat pesanan janggal/gak ada jasa kirim aktif) udah gak terpenuhi — begitu kriteria terpenuhi lagi, toko otomatis gabung kembali.
+7. **Member mau cek status keikutsertaan GOX?** Seller Centre: Pusat Promosi > Promosi > Nominasi Promo > tab Gratis Ongkir XTRA. Aplikasi Shopee: Toko Saya > Promosi Toko > Gratis Ongkir XTRA di tab Promo Shopee.

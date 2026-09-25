@@ -11,14 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---biaya-penjual/faq-biaya-untuk-berjualan-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-biaya-001, shp-biaya-002, shp-biaya-003]
 ---
 # FAQ Biaya untuk Berjualan di Shopee
 
 ## Ringkasan
-**1. Apakah semua Penjual diberlakukan biaya administrasi, pembayaran, layanan, dan proses pesanan?**
+FAQ rujukan yang jelasin 4 jenis biaya Penjual (Administrasi, Pembayaran [khusus Mall], Layanan [opsional program XTRA], Proses Pesanan) — semua dipotong otomatis dari dana pesanan SELESAI (bukan sebelum), bisa dicek rinciannya di Faktur Saya.
 
+## Kapan ini dipakai
+Ini entry RUJUKAN buat pertanyaan umum soal biaya — dipakai kalau member bingung biaya apa aja yang berlaku, kapan mulai berlaku, atau kenapa biayanya beda-beda tiap pesanan (jawabannya: kategori produk).
 
-31-07-2026
+## Isi
 
 **1. Apakah semua Penjual diberlakukan biaya administrasi, pembayaran, layanan, dan proses pesanan?**
 
@@ -54,11 +57,11 @@ Pelajari lebih lanjut tentang[ **Jenis Biaya untuk Berjualan di Shopee**](https:
 
 **2. Kapan Biaya Administrasi berlaku di toko saya?**
 
-  - **\*\*Penjual Non-Star\*\***
+  - **Penjual Non-Star**
 
 Biaya Administrasi Non-Star akan berlaku bagi Penjual Non-Star yang telah terdaftar di Shopee.
 
-  - **\*\*Penjual Star/ Star+\*\***
+  - **Penjual Star/ Star+**
 
 Biaya Administrasi akan berlaku bagi Penjual Star/Star+ saat efektif bergabung dalam program Star/Star+.
 
@@ -72,25 +75,25 @@ Biaya Administrasi akan berlaku bagi Penjual Shopee Mall saat efektif menjadi Pe
 
 Biaya administrasi dihitung setelah promosi berupa Diskon Produk dan/atau Voucher Diskon yang ditanggung Penjual dikurangi harga asli produk dengan rincian sebagai berikut:
 
-  - **\*\*Penjual Non-Star\*\***
+  - **Penjual Non-Star**
 
-Biaya Administrasi Final\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon ditanggung Penjual) x 10,00%\*\*/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%
-
-  
-
-  - **\*\*Penjual Star dan Star+\*\***
-
-Biaya Administrasi Final\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon ditanggung Penjual) x 10,00%\*\*/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%
+Biaya Administrasi Final\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon ditanggung Penjual) x 10,00%**/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%
 
   
 
-  - **\*\*Penjual Shopee Mall\*\***
+  - **Penjual Star dan Star+**
+
+Biaya Administrasi Final\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon ditanggung Penjual) x 10,00%**/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%
+
+  
+
+  - **Penjual Shopee Mall**
 
 Biaya Administrasi Final\* = (Harga Asli Produk – Diskon Produk dan/atau Voucher Diskon ditanggung oleh Penjual Shopee Mall) x 11,70%/10,45%/10,20%/9,95%/7,70%/7,20%/6,20%/4,70%/4,20%/3,20%/2,50%
 
 *\*Biaya yang berlaku untuk Penjual Non-Star, Star/Star+ dan Shopee Mall ditentukan berdasarkan kategori produk. Pelajari lebih lanjut*[ *Tentang Rincian Biaya per Kategori Produk*](https://seller.shopee.co.id/edu/article/15965)*.*
 
-*\*\*20% lebih rendah dari Biaya Administrasi dasar sebesar 12,50%*
+**20% lebih rendah dari Biaya Administrasi dasar sebesar 12,50%*
 
   
 
@@ -125,4 +128,22 @@ Anda dapat[ **memeriksa biaya yang diberlakukan**](https://seller.shopee.co.id/e
 Biaya administrasi yang diberlakukan kepada Anda disesuaikan dengan kategori produk dari setiap pesanan Anda. Lihat[ Tentang Rincian Biaya per Kategori Produk](https://seller.shopee.co.id/edu/courseDetail/291?lessonId=2575).
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Jenis biaya | Berlaku buat | Detail entry |
+|---|---|---|
+| Biaya Administrasi | Semua Penjual | `shp-biaya-001` |
+| Biaya Pembayaran (1,8%) | Khusus Shopee Mall | `shp-mall-003` |
+| Biaya Layanan | Opsional (Promo XTRA/XTRA+, Live/Video XTRA, SPayLater XTRA 0%) | — |
+| Biaya Layanan Pembeli | Dibayar Pembeli, bukan Penjual | `shp-biaya-002` |
+| Biaya Proses Pesanan (Rp1.250) | Semua Penjual | `shp-biaya-003` |
+
+## Pertanyaan diagnosa
+
+1. **Pesanan udah berstatus "Selesai" (bukan cuma dikirim/diterima)?** Semua biaya (Administrasi/Pembayaran/Layanan/Proses Pesanan) cuma berlaku buat pesanan yang beneran Selesai — dibatalkan/masih retur/masih dikirim TIDAK kena biaya-biaya ini.
+2. **Biaya beda-beda tiap pesanan — udah cek kategori produknya?** Itu penyebab paling umum, bukan bug sistem.
+3. **Mau lihat rincian biaya per pesanan?** Arahkan ke Penghasilan Saya → Faktur Saya di Seller Centre.
+4. **Toko baru gabung Star/Star+/Mall — biaya barunya mulai kapan?** Mulai EFEKTIF saat toko resmi berstatus tersebut, bukan retroaktif ke pesanan sebelumnya.
+5. **Ini pertanyaan biaya wajib atau biaya opsional (program XTRA)?** Biaya Layanan cuma berlaku kalau ikut program opsional — kalau gak ikut, gak kena.
+
+## Batasan
+Entry ini ringkasan FAQ — buat detail perhitungan/simulasi tiap jenis biaya, arahkan ke entry spesifiknya masing-masing (lihat tabel di atas).

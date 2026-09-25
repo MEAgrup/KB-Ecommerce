@@ -11,16 +11,21 @@ valid_as_of: 2026-06
 sources:
   - file: pembatalan---pembatalan-pesanan/mengelola-dan-merespons-pembatalan-pesanan.md
     bagian: "artikel penuh"
+related: [shp-pesanan-002, shp-penalti-005]
 ---
 # Mengelola dan Merespons Pembatalan Pesanan
 
 ## Ringkasan
+2 opsi pembatalan Penjual: Sebagian (kalau cuma sebagian produk habis, tapi TIDAK BOLEH kalau nilai batal >50% dari total pesanan, atau pesanan tukar tambah/Pengiriman Kilat/Ekspor Shopee/Dikelola Shopee/Shopee Farma/udah Atur Pengiriman) vs Semua Pesanan. Pembatalan atas inisiatif Penjual (karena stok gak update) MEMPENGARUHI Tingkat Pesanan Tidak Terselesaikan — beda dari pembatalan atas pengajuan Pembeli yang TIDAK berpengaruh ke performa toko. Laporan pembatalan bisa di-export, maks. rentang 31 hari.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara batalkan pesanan (sebagian/semua) karena stok habis, atau cara respons pengajuan pembatalan dari Pembeli. Buat kebijakan pembatalan pesanan secara umum, arahkan ke `shp-pesanan-002`; buat dampak pembatalan ke poin penalti, arahkan ke `shp-penalti-005`.
+
+## Isi
+
 Mengelola Pembatalan Pesanan dari Penjual
 
 
-30-06-2026
-
-Mengelola Pembatalan Pesanan dari Penjual
 
 Sebagai Penjual, menjaga ketersediaan stok adalah kunci utama dalam memberikan pengalaman belanja yang baik bagi Pembeli. Namun, jika terjadi kendala operasional seperti produk rusak atau stok habis yang belum terupdate di Produk Saya, Anda dapat melakukan pembatalan pesanan secara mandiri sebelum paket dikirim.
 
@@ -127,6 +132,22 @@ Mengidentifikasi pembatalan pesanan melalui laporan dapat membantu Anda meningka
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat melihat semua laporan yang telah Anda *export* dari halaman **Pengembalian/Pembatalan** dengan pilih[ **Laporan Toko**](https://seller.shopee.co.id/portal/settings/shop/reports/order).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas nilai/jumlah produk dibatalkan (Pembatalan Sebagian) | maks. 50% dari total pesanan |
+| Maks. periode data laporan pembatalan | 31 hari |
+
+## Pertanyaan diagnosa
+
+1. **Member mau batalkan sebagian produk dalam 1 pesanan karena stok kurang, bisa?** BISA, pilih "Batalkan Sebagian" — TAPI cek dulu: nilai yang dibatalkan gak boleh >50% dari total pesanan, dan sisa pesanan harus penuhi berat minimum jasa kirim.
+2. **Member coba batalkan sebagian tapi opsinya gak muncul, kenapa?** Cek 4 kemungkinan: nilai batal >50%/berat gak cukup, Pembeli aktifkan opsi "Batalkan Seluruh Pesanan", jenis pesanan khusus (tukar tambah/Pengiriman Kilat/Ekspor/Dikelola Shopee/Shopee Farma), atau udah klik "Atur Pengiriman" (khusus non-Instant).
+3. **Member sering batalkan pesanan sendiri karena lupa update stok, ada dampaknya?** ADA — pembatalan atas inisiatif Penjual karena kelalaian stok MEMPENGARUHI Tingkat Pesanan Tidak Terselesaikan, bisa berujung poin penalti.
+4. **Pembeli ajukan pembatalan karena salah pilih variasi, apa berdampak ke performa toko member kalau diterima?** TIDAK — pembatalan atas PENGAJUAN PEMBELI (bukan inisiatif Penjual) gak mempengaruhi performa toko.
+5. **Member tolak pengajuan pembatalan dari Pembeli, Pembeli bisa ajukan lagi?** TIDAK BISA — setelah ditolak, Pembeli gak bisa ajukan pembatalan lagi buat pesanan yang sama.
+6. **Member mau analisis kenapa banyak pesanan dibatalkan bulan lalu?** Export laporan pembatalan (maks. rentang 31 hari) dari halaman Pengembalian/Pembatalan > Laporan Toko — cek alasan yang paling sering muncul (misal "Penjual tidak membalas chat") buat perbaikan operasional.

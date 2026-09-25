@@ -17,12 +17,10 @@ sources:
 ## Ringkasan
 Per Januari 2026, Shopee meng-*update* definisi **Penjualan** (di seluruh halaman Seller Centre dan aplikasi Shopee) agar lebih mencerminkan pendapatan yang diterima Penjual. Kini, Penjualan hanya dihitung berdasarkan harga produk setelah diskon dari Penjual, tanpa mencakup biaya Pembeli atau subsidi Shopee.
 
+## Kapan ini dipakai
+Dipakai waktu member panik karena angka Penjualan di dashboard tiba-tiba kelihatan lebih kecil dari biasanya — jawabannya bukan penjualan beneran turun, tapi definisi metriknya yang berubah (biaya yang dulu dihitung ikut Penjualan, sekarang dikeluarkan).
 
-26-01-2026
-
-Per Januari 2026, Shopee meng-*update* definisi **Penjualan** (di seluruh halaman Seller Centre dan aplikasi Shopee) agar lebih mencerminkan pendapatan yang diterima Penjual. Kini, Penjualan hanya dihitung berdasarkan harga produk setelah diskon dari Penjual, tanpa mencakup biaya Pembeli atau subsidi Shopee.
-
-  
+## Isi
 
 *Update* ini bertujuan untuk meningkatkan transparansi dan konsistensi data di seluruh halaman, serta membuat perhitungan ROI (*Return on Investment*) pada iklan yang lebih akurat, meskipun nilainya dapat terlihat lebih kecil.
 
@@ -40,11 +38,11 @@ Dengan definisi dan perhitungan **Penjualan** yang baru, biaya yang dikenakan Pe
 
 Definisi dan perhitungan Penjualan yang baru akan berlaku pada beberapa menu di halaman **Pusat Promosi**, seperti:
 
-  - **\*\*Iklan Shopee\*\***
-  - **\*\*Live & Video\*\***
-  - **\*\*Diskon\*\***
-  - **\*\*Voucher Toko Saya\*\***
-  - **\*\*Flash Sale Toko Saya\*\***
+  - **Iklan Shopee**
+  - **Live & Video**
+  - **Diskon**
+  - **Voucher Toko Saya**
+  - **Flash Sale Toko Saya**
 
 Berikut tampilan definisi Penjualan yang baru di **Live & Video**:
 
@@ -78,3 +76,21 @@ Anda dapat memonitor bagaimana **Iklan Shopee** berkontribusi ke **Total Penjual
   
 
 Jika Anda tidak menggunakan Iklan Shopee, nilai dari **Kontribusi Penjualan Iklan** akan menjadi Rp0.
+
+## Angka & patokan
+
+| Tanggal | Yang terjadi |
+|---|---|
+| 1 Januari 2026 | Definisi Penjualan baru mulai berlaku |
+| 16 Januari 2026 | Penamaan GMV di metrik Iklan Shopee diganti jadi "Penjualan" |
+| 3 Februari 2026 | Batas terakhir angka Penjualan versi perhitungan lama masih bisa dilihat — setelahnya semua angka sejak 1 Jan 2026 mengikuti perhitungan baru |
+
+## Pertanyaan diagnosa
+
+1. **Penurunan angka Penjualan-nya terjadi di sekitar Januari–Februari 2026?** Kalau iya, cek dulu apakah ini efek definisi baru, bukan penjualan beneran turun.
+2. **Yang dibandingkan member data dari periode sebelum vs sesudah 1 Januari 2026?** Kalau iya, dua angka itu gak apple-to-apple — definisinya beda.
+3. **Member lihat "Dibayar Pembeli" di Pesanan Saya dan bandingin ke Penjualan di Performa Toko?** Dua angka itu memang gak akan sama — beda definisi.
+4. **Toko pakai Iklan Shopee?** Kalau enggak, wajar kalau Kontribusi Penjualan Iklan-nya Rp0 — itu bukan bug.
+
+## Batasan
+Entry ini soal transisi definisi metrik yang terjadi Januari–Februari 2026. Per hari ini, periode transisi (termasuk opsi lihat angka versi lama) sudah lewat — definisi baru ini sekarang berlaku permanen, bukan lagi sesuatu yang "baru berubah". Kalau ada perubahan definisi metrik lagi di masa depan, entry ini gak otomatis ke-update — cek tanggal `valid_as_of` sebelum dipakai jawab member soal kebijakan terkini.

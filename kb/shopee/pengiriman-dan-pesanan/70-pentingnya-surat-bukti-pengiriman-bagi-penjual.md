@@ -11,16 +11,21 @@ valid_as_of: 2023-02
 sources:
   - file: pp---penyelesaian-pesanan/pentingnya-surat-bukti-pengiriman-bagi-penjual.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-069]
 ---
 # Pentingnya Surat Bukti Pengiriman Bagi Penjual
 
 ## Ringkasan
+Surat Bukti Pengiriman = salah satu bentuk Manifes (dokumen info pengiriman barang/muatan). Fungsi: bukti pesanan sudah diserahkan ke jasa kirim, jadi pegangan kalau ada klaim pesanan rusak/telat/gak lengkap, plus bantu manajemen stok. 4 hal wajib ada di surat: nama jasa kirim, keterangan pesanan, tanda tangan/cap kurir, tanggal pengiriman.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya kenapa surat bukti pengiriman penting atau apa yang wajib ada di dalamnya. Buat proses outbound/serah terima paket secara lengkap, arahkan ke `shp-pengiriman-069`.
+
+## Isi
+
 **Apa itu Surat Bukti Pengiriman?**
 
 
-03-02-2023
-
-**Apa itu Surat Bukti Pengiriman?**
 
 Dalam pengiriman barang, terdapat istilah yang sering disebut yaitu Manifes. Manifes adalah dokumen yang berisikan informasi mengenai pengiriman barang atau muatan dari moda transportasi yang digunakan.
 
@@ -52,3 +57,16 @@ Berikut yang harus diperhatikan dalam surat bukti pengiriman untuk mengkonfirmas
  
 
 Mohon perhatikan penulisan dan informasi yang tertera di atas untuk menghindari kesalahan yang dapat menghambat proses pengiriman.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Elemen wajib di Surat Bukti Pengiriman | 4: nama jasa kirim, keterangan pesanan, tanda tangan/cap kurir, tanggal pengiriman |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau kenapa harus repot-repot minta surat bukti pengiriman ke kurir?** Karena ini bukti resmi bahwa pesanan SUDAH diserahkan ke jasa kirim — jadi pegangan kalau nanti ada klaim pesanan rusak, telat, atau gak lengkap dari Pembeli.
+2. **Member dapat surat bukti pengiriman tapi gak ada tanda tangan/cap kurir?** Itu gak lengkap dan berisiko gak bisa dipertanggungjawabkan — pastikan selalu ada tanda tangan/cap stempel kurir sebelum menyimpannya sebagai bukti.
+3. **Member bingung apa hubungan surat bukti pengiriman dengan manajemen stok?** Dokumen ini juga bantu pengelolaan stok jadi lebih jelas, karena mencatat detail pesanan yang benar-benar sudah keluar dari gudang.
+4. **Member mau susun format surat bukti pengiriman sendiri, apa yang wajib dicantumkan?** 4 hal: nama jasa kirim, keterangan pesanan, tanda tangan/cap kurir, dan tanggal pengiriman — hindari penulisan yang rancu/gak jelas.

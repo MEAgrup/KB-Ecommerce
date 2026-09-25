@@ -11,16 +11,21 @@ valid_as_of: 2026-04
 sources:
   - file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilarang-penjualan-produk-media-dan-layanan-yang-mengandung-unsur-po.md
     bagian: "artikel penuh"
+related: [shp-produk-011]
 ---
 # Produk yang Dilarang: Penjualan Produk Media dan Layanan yang Mengandung Unsur Pornografi
 
 ## Ringkasan
+5 sub-kebijakan produk dewasa/pornografi, SEMUA dilarang total & TANPA BANDING: (1) Pornografi anak-anak — pembatasan akun + blokir HP permanen; (2) Media cetak/elektronik pornografi (film/majalah/game) — sama; (3) Boneka seks — pembatasan akun permanen; (4) Mainan seks (dildo/vibrator dll) — pembatasan akun + blokir HP permanen. Sub-kebijakan ke-5 (konten vulgar/pornografi non-produk-dewasa) BEDA — masih bisa diturunkan sementara → QC → dipulihkan kalau lolos, dan pembatasan akun (bukan langsung permanen) baru jadi permanen di pelanggaran KEDUA.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya boleh/gak jual produk dewasa penunjang seksual, atau produknya kena tindakan karena konten pornografi/vulgar. PENTING: cek dulu produknya masuk sub-kebijakan 1-4 (dilarang total, TANPA banding) atau sub-kebijakan 5 (masih ada proses QC & bisa dipulihkan) — konsekuensinya beda jauh.
+
+## Isi
+
 Sesuai dengan[ Kebijakan Barang yang dilarang dan dibatasi di Shopee](https://help.shopee.co.id/portal/article/71189), terdapat syarat dan ketentuan yang mengatur tentang produk dewasa penunjang kegiatan seksual termasuk namun tidak terbatas pada:
 
 
-02-04-2026
-
-Sesuai dengan[ Kebijakan Barang yang dilarang dan dibatasi di Shopee](https://help.shopee.co.id/portal/article/71189), terdapat syarat dan ketentuan yang mengatur tentang produk dewasa penunjang kegiatan seksual termasuk namun tidak terbatas pada:
 
 1.  Kebijakan Produk Pornografi Anak-anak
 2.  Kebijakan Media Cetak dan Media Elektronik yang Mengandung Unsur Pornografi 
@@ -110,9 +115,9 @@ Shopee memiliki kebijakan terkait produk yang mengandung unsur pornografi dan/at
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*NO\*\* | \*\*TIPE PRODUK\*\* | \*\*DESKRIPSI/GAMBAR PRODUK\*\* | \*\*TINDAKAN\*\* |
-| 1 | Produk DewasaPenunjang KegiatanSeksual | \*\*•\*\* Produk dewasa yangperedarannya dibatasi.\*\*•\*\* Menampilkan gambarberbentuk dan/ataumenyerupai sebagiandan/atau seluruh alatkelamin serta bagian intimlainnya.\*\*•\*\* Menampilkanmodel/ilustrasi pemakaian.\*\*•\*\* Menampilkan posisiseksual dan/atau posevulgar.\*\*•\*\* Mengandung kata-katavulgar dan tidak pantasyang menjabarkan tindakanseksual dan/ataumengarahkan padatindakan ilegal. | Produk dihapusdan/atau diblokirdan pemblokiranperangkathandphone. |
-| 2 | Produk yang tidakdibatasi dan dilarangnamun mengandungunsur pornografidan/atau konten vulgar | \*\*•\*\* Menampilkan gambarberbentuk dan/ataumenyerupai sebagiandan/atau seluruh alatkelamin serta bagian intimlainnya.\*\*•\*\* Menggunakan gambarmodel/ilustrasi dari posisiseksual dan/atau posevulgar.\*\*•\*\* Mengandung kata-katavulgar dan tidak pantasyang menjabarkan tindakanseksual dan/ataumengarahkan padatindakan ilegal.\*\*•\*\* Gambar siluet yangmenunjukkan alat kelaminserta bagian intim lainnyamelalui pakaian. | Produk diturunkanhingga dihapusdan/atau diblokirdan pemblokiranperangkathan |
+| **NO** | **TIPE PRODUK** | **DESKRIPSI/GAMBAR PRODUK** | **TINDAKAN** |
+| 1 | Produk DewasaPenunjang KegiatanSeksual | **•** Produk dewasa yangperedarannya dibatasi.**•** Menampilkan gambarberbentuk dan/ataumenyerupai sebagiandan/atau seluruh alatkelamin serta bagian intimlainnya.**•** Menampilkanmodel/ilustrasi pemakaian.**•** Menampilkan posisiseksual dan/atau posevulgar.**•** Mengandung kata-katavulgar dan tidak pantasyang menjabarkan tindakanseksual dan/ataumengarahkan padatindakan ilegal. | Produk dihapusdan/atau diblokirdan pemblokiranperangkathandphone. |
+| 2 | Produk yang tidakdibatasi dan dilarangnamun mengandungunsur pornografidan/atau konten vulgar | **•** Menampilkan gambarberbentuk dan/ataumenyerupai sebagiandan/atau seluruh alatkelamin serta bagian intimlainnya.**•** Menggunakan gambarmodel/ilustrasi dari posisiseksual dan/atau posevulgar.**•** Mengandung kata-katavulgar dan tidak pantasyang menjabarkan tindakanseksual dan/ataumengarahkan padatindakan ilegal.**•** Gambar siluet yangmenunjukkan alat kelaminserta bagian intim lainnyamelalui pakaian. | Produk diturunkanhingga dihapusdan/atau diblokirdan pemblokiranperangkathan |
 
   
 
@@ -139,3 +144,10 @@ Customer Service Shopee akan menghubungi Anda untuk menjelaskan dan membantu leb
 ⚠️ **Catatan**
 
 Pastikan Anda tidak melakukan pelanggaran yang sama setelah menyelesaikan pengajuan pemulihan akun. Jika melakukan pelanggaran kebijakan untuk yang kedua kalinya, maka akun dan perangkat handphone Anda akan dibatasi secara permanen.
+
+## Pertanyaan diagnosa
+
+1. **Member kena tindakan karena produk pornografi/vulgar — bisa banding gak?** Cek dulu jenisnya: sub-kebijakan 1-4 (pornografi anak, media pornografi, boneka seks, mainan seks) → TIDAK BISA banding sama sekali. Sub-kebijakan 5 (konten vulgar umum) → masih ada proses QC, bisa dipulihkan kalau lolos peninjauan.
+2. **Member mau jual dildo/vibrator/boneka seks?** TIDAK BOLEH — dilarang total, langsung kena pembatasan akun (bahkan blokir HP buat mainan seks & boneka seks), TANPA jalur banding apapun.
+3. **Produk member diturunkan karena "konten vulgar" tapi bukan produk dewasa (misal baju dengan foto model kelihatan berlebihan)?** Itu sub-kebijakan 5 — beda perlakuan dari produk dewasa eksplisit: diturunkan SEMENTARA dulu, masuk QC, bisa pulih kalau lolos.
+4. **Akun member kena pembatasan karena sub-kebijakan 5, gimana pulihinnya?** Isi surat pernyataan + lampirkan bukti ke CS Shopee. Beda dari sub-kebijakan 1-4: di sini masih ada jalur pemulihan buat pelanggaran PERTAMA, tapi pelanggaran KEDUA tetap permanen (akun + perangkat HP).

@@ -15,14 +15,14 @@ sources:
 # Mengelola Daftar Produk yang Mudah Rusak
 
 ## Ringkasan
-**Apa itu Produk yang Mudah Rusak?**
+Produk mudah rusak (segar/panggang/dimasak/hidup/beku/dingin) WAJIB tampilkan tanggal kedaluwarsa (kecuali produk segar & hidup) — dan masa kedaluwarsanya gak boleh KURANG dari 5 hari sejak pengiriman. Wajib pakai jasa kirim yang bisa handle produk mudah rusak (khusus telur, wajib aktifkan Instant/Instant Prioritas), dan kemas sesuai standar tiap tipe layanan (label fragile boleh tulisan tangan, min. 2 lapis plastik pencegah bocor).
 
+## Kapan ini dipakai
+Dipakai kalau member jual produk makanan/segar/beku dan nanya kewajiban info kedaluwarsa, cara kemas, atau jasa kirim yang cocok. Cek dulu produknya masuk kategori "mudah rusak" versi Shopee (lihat daftar di `## Isi`) — kalau BUKAN, arahkan ke panduan pengemasan umum (link di catatan akhir), bukan panduan ini.
 
-05-06-2026
+## Isi
 
-**Apa itu Produk yang Mudah Rusak?**
-
-**Produk mudah rusak** menurut versi Shopee adalah produk yang memiliki waktu simpan tertentu dan kondisinya dapat berubah dikarenakan faktor lingkungan (suhu, kelembapan, dll.)
+Produk mudah rusak meliputi:
 
   
 
@@ -127,3 +127,20 @@ Ikuti panduan dan tabel di bawah ini agar Pembeli menerima produk Anda dalam kon
   - Label '*fragile*' dapat berupa tulisan tangan.
   - Penutup plastik tambahan untuk mencegah kebocoran (min. 2 plastik).
   - Jika produk yang Anda jual **tidak termasuk** jenis ‘produk yang mudah rusak’, pelajari lebih lanjut[ Panduan Pengemasan Produk untuk Mencegah Kerusakan](https://seller.shopee.co.id/edu/article/18821).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Minimal masa kedaluwarsa sejak dikirim | 5 hari (gak boleh kedaluwarsa lebih cepat dari itu) |
+| Lapis plastik pencegah bocor minimum | min. 2 plastik |
+| Tipe layanan wajib khusus produk telur | Instant & Instant Prioritas |
+
+## Pertanyaan diagnosa
+
+1. **Member jual produk makanan, wajib cantumkan tanggal kedaluwarsa gak?** Wajib buat SEMUA jenis makanan, KECUALI produk segar (buah/sayur/daging mentah) dan produk hidup (tanaman/hewan) — dua kategori itu dikecualikan.
+2. **Produk makanan member kedaluwarsa 3 hari lagi, boleh dikirim?** TIDAK BOLEH kalau estimasi kedaluwarsanya kurang dari 5 hari sejak tanggal pengiriman — itu pelanggaran standar minimum Shopee, bukan cuma saran.
+3. **Member jual telur, jasa kirim apa yang wajib diaktifkan?** WAJIB aktifkan layanan Instant dan Instant Prioritas — bukan opsional buat produk telur, beda dari produk mudah rusak lain yang lebih fleksibel jasa kirimnya.
+4. **Member bingung cara bikin label 'fragile' resmi?** Gak perlu label cetak/resmi — tulisan tangan pun udah cukup, yang penting jelas terlihat di paket.
+5. **Produk member bocor/rusak pas sampai Pembeli, komplain siapa yang tanggung jawab?** Cek dulu jasa kirim yang dipakai — ada yang cuma nerima produk mudah rusak, ada yang JUGA sedia kompensasi kalau rusak/hilang. Kalau pakai jasa kirim yang gak sedia kompensasi, itu risiko ditanggung Penjual sendiri.
+6. **Produk member BUKAN kategori mudah rusak (misal elektronik), tanya cara kemas?** Arahkan ke Panduan Pengemasan Produk untuk Mencegah Kerusakan (link di atas) — bukan panduan ini, yang khusus produk mudah rusak.

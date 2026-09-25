@@ -11,20 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: mj---shopee-video/mulai-bikin-konten-di-shopee-video.md
     bagian: "artikel penuh"
+related: [shp-video-001, shp-video-002, shp-video-004]
 ---
 # Mulai Bikin Konten di Shopee Video
 
 ## Ringkasan
-**Mengatur Profil Shopee Video yang Menarik**
+Panduan bikin konten Shopee Video: setup profil (Foto/Nama Toko/Bio), bikin video di aplikasi (min. 3 detik, maks. 6 produk/video) atau upload massal di Seller Centre (maks. 30 video sekaligus, jadwal maks. 1 bulan ke depan), daftar produk terlarang, jenis voucher video, Pin Video (maks. 3), dan Sinkronisasi Video Produk otomatis (maks. 7 hari kerja proses).
 
+## Kapan ini dipakai
+Dipakai buat teknis bikin/posting/edit konten Shopee Video — batas jumlah produk, ukuran/resolusi video, cara sinkronisasi video produk otomatis. Buat analisis performa video yang udah diposting, arahkan ke `shp-video-002`. Buat aturan konten AI, arahkan ke `shp-video-001`. Buat daftar lengkap pelanggaran & penalti, arahkan ke `shp-video-004`.
 
-16-07-2026
-
-**Mengatur Profil Shopee Video yang Menarik**
-
-Profil di Shopee Video berpengaruh pada visibilitas dan kepercayaan audiens. Pengaturan profil bukan hanya untuk estetika, tetapi berdampak ke performa bisnis. Meskipun konten tetap menjadi faktor utama, namun profil adalah titik kontak pertama yang membentuk persepsi, sehingga mempengaruhi setiap Pengguna dalam menilai identitas Penjual atau Kreator sebelum memutuskan untuk *follow*, menonton, atau membeli.
-
-  
+## Isi
 
 Anda dapat mengatur dan mengubah profil Shopee Video dengan langkah-langkah berikut:
 
@@ -38,7 +35,7 @@ Di halaman **Profil Saya**, Anda dapat melihat:
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Profil yang efektif harus membuat Penonton langsung paham siapa Anda, apa yang Anda jual, dan kenapa mereka harus *follow*/beli produk melalui konten Shopee Video Anda.
 
@@ -120,12 +117,12 @@ Anda juga dapat membuat video dengan menggunakan **Template**. Pilih dari berbag
 
 Berikut adalah contoh tampilan fitur **Tambah Produk dan Voucher** di Shopee Video:
 
-  - **\*\*1 Produk\*\***
+  - **1 Produk**
 
   
   
 
-  - **\*\*Lebih dari 1 Produk\*\***
+  - **Lebih dari 1 Produk**
 
   
 
@@ -147,11 +144,11 @@ Dengan memposting Shopee Video melalui Seller Centre, Anda dapat memanfaatkan fi
 
 Berikut langkah-langkahnya:
 
-  - **\*\*Secara satu per satu\*\***
+  - **Secara satu per satu**
 
   
 
-  - **\*\*Secara massal\*\***
+  - **Secara massal**
 
 Anda dapat meng-*upload* dan memposting hingga 30 video sekaligus.
 
@@ -185,14 +182,14 @@ Pelajari[ cara mengakses Sub Akun melalui aplikasi Shopee/Seller Centre](https:/
 
   
 
-  - **\*\*Aplikasi Shopee\*\***
+  - **Aplikasi Shopee**
 
   
 
   
   
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
   
 
@@ -205,7 +202,7 @@ Untuk memberikan pengalaman berbelanja yang aman dan sesuai ketentuan, Shopee me
 
 |  |  |
 | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*JENIS PRODUK\*\* |
+| **KATEGORI** | **JENIS PRODUK** |
 | Produk Dewasa | \\- Alat bantu/mainan seks\\- Kondom\\- Obat kuat\\- Penunjang performa seks\\- Konten dewasa (meskipun sudah berlisensi) |
 | Obat-obatan dan Suplemen | \\- Obat dengan resep dokter\\- Obat berlogo ‘K’ merah ()\\- Narkotika, Psikotropika, dan Zat Adiktif (NAPZA)\\- Obat palsu\\- Obat yang dilarang dan dibatasi peredarannya oleh pemerintah dan/atau Pemilik merek |
 | Tembakau dan Nikotin | \\- Rokok\\- Daun tembakau\\- Nikotin\\- Rokok elektronik (Vape)\\- Shisha |
@@ -331,3 +328,29 @@ Agar tampilan toko Anda semakin menarik, Anda dapat memanfaatkan siaran ulang Li
 ⚠️ **Catatan**
 
 Anda juga bisa melihat cuplikan mana yang paling banyak dilihat atau menghasilkan pesanan terbanyak melalui[ fitur Putar Ulang & Cuplikan Livestream](https://seller.shopee.co.id/edu/article/3890).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Durasi video minimum (upload di aplikasi) | min. 3 detik |
+| Jumlah foto buat video *slide-show* | maks. 15 foto (geser tiap 2 detik) |
+| Produk per video | maks. 6 produk |
+| Jeda antar posting video (anjuran) | min. 1 jam |
+| Resolusi video minimum (upload di aplikasi) | min. 576px |
+| Upload massal video (Seller Centre) | maks. 30 video sekaligus |
+| Jadwal posting di depan | maks. 1 bulan |
+| Video yang bisa disematkan (Pin Video) | maks. 3 video |
+| Sinkronisasi Video Produk — durasi video | 6–180 detik |
+| Sinkronisasi Video Produk — resolusi minimum | min. 540×540 piksel |
+| Sinkronisasi Video Produk — waktu proses aktivasi | maks. 7 hari kerja |
+| Berhenti dari Sinkronisasi Video Produk — waktu proses | maks. 7 hari kerja (via formulir) / 2 hari kerja (via CS) |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau kenapa produk gak bisa ditambahin lebih dari sekian ke satu video?** Batas sistem maks. 6 produk per video — bukan bug.
+2. **Member upload video tapi ditolak/gak sesuai kualitas?** Cek resolusi minimum: 576px (upload manual di aplikasi) vs 540×540px (khusus buat Sinkronisasi Video Produk otomatis) — beda persyaratan tergantung jalurnya.
+3. **Video produk udah isi formulir sinkronisasi tapi belum muncul di Shopee Video?** Proses bisa sampai maks. 7 hari kerja — kalau udah lewat itu, kemungkinan video gak penuhi syarat (cek 5 syarat di `## Isi`: gak ada kontak pribadi/watermark, durasi 6-180 detik, resolusi min. 540×540, produk jelas, ada suara/musik) atau masih antrian.
+4. **Member bingung beda 3 jenis Voucher video (Toko/Produk/Video)?** Voucher Toko & Produk kelihatan juga di halaman produk/toko; Voucher Video CUMA bisa diklaim saat nonton video & checkout langsung — hilang kalau keluar dari halaman checkout.
+5. **Member mau berhenti dari Sinkronisasi Video Produk?** Ajukan lewat formulir pemberhentian (maks. 7 hari kerja) atau hubungi CS (maks. 2 hari kerja) — tapi video yang UDAH tersinkronisasi gak otomatis kehapus, harus dihapus manual.
+6. **Member jual produk yang masuk kategori terlarang (di daftar `## Isi`)?** Bisa kena poin penalti Kesehatan Video — arahkan cek daftar kategori terlarang dulu sebelum posting/promosi produk itu di Shopee Video.

@@ -15,14 +15,14 @@ sources:
 # Biaya Administrasi Penjual Shopee
 
 ## Ringkasan
+Biaya Administrasi = (Harga Asli Produk − Diskon/Voucher ditanggung Penjual) × persentase bertingkat per kategori produk — **beda tarif buat 3 status Penjual**: Shopee Mall (11,70%-2,50%), Star/Star+ (10%-2,50%, 20% lebih murah dari tarif dasar 12,5%), dan Non-Star mulai 1 Agustus 2026 (10%-2,50%, sama kayak Star/Star+). Sudah termasuk PPN, belum termasuk Biaya Proses Pesanan & Biaya Layanan.
+
+## Kapan ini dipakai
+Dipakai buat jawab "kenapa potongan saya segini" — **cek dulu status toko** (Mall/Star/Star+/Non-Star) karena tarifnya beda, baru cek kategori produk buat persentase spesifiknya (link rincian per kategori ada di Isi).
+
+## Isi
+
 **Biaya Administrasi Penjual Shopee Mall**
-
-
-31-07-2026
-
-**Biaya Administrasi Penjual Shopee Mall**
-
-  
 
 Biaya Administrasi Final Shopee Mall = (Harga Asli Produk – Diskon Produk dan/atau Voucher Diskon Ditanggung oleh Penjual Shopee Mall) x 11,70%/10,45%/10,20%/9,95%/7,70%/7,20%/6,20%/4,70%/4,20%/3,20%/2,50%\*
 
@@ -55,13 +55,13 @@ Biaya Administrasi Star/Star+ adalah biaya yang dibebankan kepada Penjual yang t
 
   
 
-Biaya Administrasi Final Penjual Star & Star+\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 10,00\*\*%/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%.
+Biaya Administrasi Final Penjual Star & Star+\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 10,00**%/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%.
 
   
 
 *\*Biaya yang berlaku didasarkan pada kategori produk. Cek*[ *rincian Biaya Administrasi per kategori produk*](https://seller.shopee.co.id/edu/article/15965).
 
-*\*\*20% lebih rendah dari Biaya Administrasi dasar sebesar 12,50%*
+**20% lebih rendah dari Biaya Administrasi dasar sebesar 12,50%*
 
 ⚠️**Catatan**
 
@@ -84,13 +84,13 @@ Biaya Administrasi Final Penjual Star & Star+\* = (Harga Asli Produk - Diskon Pr
 
 Penjual berstatus Non-Star akan dikenakan Biaya Administrasi sebagai berikut:
 
-Biaya Administrasi Final Penjual Non-Star\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 10,00\*\*%/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%.
+Biaya Administrasi Final Penjual Non-Star\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 10,00**%/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%.
 
   
 
 *\*Biaya yang berlaku tergantung dari kategori produk. Cek*[ *rincian Biaya Administrasi per kategori produk*](https://seller.shopee.co.id/edu/article/15965).
 
-*\*\*20% lebih rendah dari Biaya Administrasi dasar sebesar 12,5%.*
+**20% lebih rendah dari Biaya Administrasi dasar sebesar 12,5%.*
 
   
 
@@ -121,7 +121,7 @@ Anda dapat mengecek total pesanan yang telah terselesaikan pada **Pesanan Saya**
 
   
 
-**2. Penjual yang meng-*****upload*** **produk pertama mulai 1 Agustus 2026**
+**2. Penjual yang meng-**upload** **produk pertama mulai 1 Agustus 2026**
 
 Biaya Administrasi Penjual Non-Star akan diberlakukan kepada semua Penjual yang tidak tergabung dalam program Star/Star+ atau Shopee Mall.
 
@@ -137,4 +137,25 @@ Penjual Setia Shopee (Penjual dengan status Non-Star yang telah mencapai min. 50
 2\. Penjual Non-Star yang telah menyelesaikan min. 50 pesanan atau 6 bulan (180 hari) sejak Penjual *upload* produk pertama kali di Shopee dapat meng-*upload* maks. 3.000 produk. Pelajari lebih lanjut tentang[ batas maksimal produk](https://seller.shopee.co.id/edu/article/1706).
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Status Penjual | Rentang tarif Biaya Administrasi |
+|---|---|
+| Shopee Mall | 2,50% – 11,70% (11 tier per kategori) |
+| Star / Star+ | 2,50% – 10,00% (9 tier; 20% lebih murah dari tarif dasar 12,5%) |
+| Non-Star (mulai 1 Agustus 2026) | 2,50% – 10,00% (9 tier, sama seperti Star/Star+) |
+
+| Patokan lain | Nilai |
+|---|---|
+| Bebas Biaya Administrasi (Program Sukses UMKM Baru) | 50 pesanan pertama ATAU 180 hari (mana lebih dulu) |
+| Ambang "Penjual Setia Shopee" (Non-Star) | 50 pesanan terselesaikan ATAU 180 hari sejak upload produk pertama |
+| Kuota upload produk Penjual Setia Non-Star | maks. 3.000 |
+
+## Pertanyaan diagnosa
+
+1. **Toko ini statusnya apa** — Shopee Mall, Star/Star+, atau Non-Star? Tarif dasarnya beda, jangan langsung kasih satu angka tanpa cek status dulu.
+2. **Kategori produknya apa?** Persentase final bervariasi per sub-kategori (11 tier buat Mall, 9 tier buat Star/Non-Star) — arahkan ke link rincian per kategori kalau butuh angka pasti.
+3. **Toko Non-Star, tanggal upload produk pertamanya kapan?** Sebelum 1 Agustus 2026 mungkin masih kena aturan lama/transisi Program Sukses UMKM Baru — cek `shp-edukasi-002`.
+4. **Yang ditanya cuma Biaya Administrasi atau ada biaya lain?** Ini BELUM termasuk Biaya Proses Pesanan dan Biaya Layanan — jangan disamakan sebagai "total potongan".
+
+## Batasan
+Tarif Biaya Administrasi Non-Star (10-2,5%) baru **mulai berlaku 1 Agustus 2026** — sebelum itu Non-Star punya aturan berbeda. Cek `valid_as_of` dan tanggal saat ini sebelum kasih angka pasti ke member.

@@ -11,18 +11,21 @@ valid_as_of: 2026-01
 sources:
   - file: daftar-produk---mengelola-produk/bagaimana-cara-menggunakan-standar-produk-shopee-untuk-membantu-meningkatkan-vis.md
     bagian: "artikel penuh"
+related: [shp-produk-020]
 ---
 # Bagaimana cara menggunakan Standar Produk Shopee untuk membantu meningkatkan visibilitas produk saya?
 
 ## Ringkasan
-Standar Produk Shopee adalah fitur yang dapat membantu Anda mengisi informasi produk yang berkualitas dan terstandarisasi oleh Shopee secara otomatis, sehingga Shopee dapat lebih mudah merekomendasikan produk Anda kepada Pembeli.
+Standar Produk Shopee = template info produk terstandarisasi (Nama/Deskripsi/Kategori/Spesifikasi) yang OPSIONAL dipakai buat isi produk otomatis & naikin exposure. Nama/Deskripsi/Variasi masih bisa diubah manual setelah diterapkan, tapi Kategori & Atribut Produk (bertanda bintang) TERKUNCI — gak bisa diubah, cuma bisa ganti ke Standar Produk lain atau batalkan penerapan sepenuhnya. Kalau atribut wajib di sumbernya berubah, ada 7 hari buat tinjau sebelum sistem auto-update.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara pakai/hubungkan/batalkan fitur Standar Produk Shopee, atau bingung kenapa sebagian info produknya gak bisa diedit. INGAT: ini OPSIONAL — kalau member gak mau pakai, cukup pilih Selanjutnya setelah isi Foto & Nama Produk waktu upload.
+
+## Isi
+
+Dengan fitur Standar Produk Shopee, Anda dapat:
 
 
-29-01-2026
-
-Standar Produk Shopee adalah fitur yang dapat membantu Anda mengisi informasi produk yang berkualitas dan terstandarisasi oleh Shopee secara otomatis, sehingga Shopee dapat lebih mudah merekomendasikan produk Anda kepada Pembeli.
-
-  
 
 Dengan fitur Standar Produk Shopee, Anda dapat:
 
@@ -96,9 +99,9 @@ Anda dapat melihat produk yang memenuhi kriteria Standar Produk Shopee di Seller
 
 Arahkan kursor pada tombol **Terapkan** untuk melihat rekomendasi Standar Produk Shopee. Pilih **Terapkan Sekarang** untuk membandingkan beberapa informasi dari produk Anda dengan informasi Standar Produk Shopee, seperti:
 
-  - **\*\*Nama dan Deskripsi Produk\*\***
-  - **\*\*Variasi\*\***
-  - **\*\*Spesifikasi\*\***
+  - **Nama dan Deskripsi Produk**
+  - **Variasi**
+  - **Spesifikasi**
 
   
 
@@ -136,7 +139,7 @@ Untuk mengubah informasi produk lainnya, Anda dapat mengubahnya di halaman **Rin
 
   
 
-**ð¡Tips**
+**💡Tips**
 
 Jika informasi yang tercantum pada Standar Produk Shopee tidak akurat, pilih **Beri Saran**  untuk memberikan saran perbaikan.
 
@@ -257,10 +260,27 @@ Membatalkan penerapan Standar Produk Shopee dapat mempengaruhi posisi dan visibi
 
   
 
-**ð¡Tips**
+**💡Tips**
 
 Saat Anda meng-*upload* atau meng-*update* produk di Seller Centre dan memilih salah satu kolom informasi produk, kotak **Tips** akan tampil di sebelah kiri berisi tentang penjelasan dari kolom tersebut.
 
   
 
 Jika Anda membutuhkan penjelasan lebih lanjut mengenai kolom informasi tersebut, pilih **Pelajari lebih lanjut** dan Anda akan diarahkan ke artikel terkait.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas tinjau kalau atribut wajib berubah ("Info Utama Berubah") | maks. 7 hari kalender, kalau tidak sistem auto-sesuaikan |
+| Pop-up rekomendasi di aplikasi Shopee | maks. 1x sehari |
+| Minimal Opsi variasi yang wajib diterapkan | min. 1 Opsi dari Standar Produk Shopee |
+
+## Pertanyaan diagnosa
+
+1. **Member mau ubah Kategori atau Atribut Produk (bertanda bintang) yang udah terhubung Standar Produk?** GAK BISA diubah langsung — itu terkunci otomatis dari Standar Produk. Kalau gak sesuai, opsinya cuma 2: ganti ke Standar Produk lain yang lebih cocok, atau batalkan/hapus penerapan Standar Produk sepenuhnya.
+2. **Member dapat notifikasi "Info Utama Berubah"?** Itu tandanya atribut WAJIB dari Standar Produk yang dipakai berubah di sistem Shopee — WAJIB ditinjau dalam 7 hari kalender, kalau didiamkan sistem otomatis nyesuain sendiri (bisa beda dari yang member mau).
+3. **Member mau hapus/batalkan Standar Produk dari produknya?** Bisa, tapi ada konsekuensi — bisa MEMPENGARUHI posisi & visibilitas produk di halaman pencarian (bukan tanpa efek). Di aplikasi Shopee, harus kasih alasan + bukti (foto/link) buat proses peninjauan.
+4. **Produk gagal terhubung ke Standar Produk Shopee?** Produk TETAP tampil normal di toko — cuma dapat notifikasi "Standar Produk Gagal Diterapkan", bukan produk hilang/diblokir.
+5. **Member mau hapus semua variasi dari produk yang udah terhubung Standar Produk?** Gak bisa langsung — kalau produk gak ada variasi atau semua Opsi dihapus, Standar Produk Shopee OTOMATIS gak bisa diterapkan, jadi harus batalkan penerapannya dulu.
+6. **Member ragu info dari Standar Produk gak akurat?** Arahkan pakai tombol **Beri Saran** buat kasih masukan perbaikan ke sistem — bukan cuma diamkan atau batalkan begitu aja.

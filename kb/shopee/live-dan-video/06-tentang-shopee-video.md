@@ -11,16 +11,21 @@ valid_as_of: 2026-06
 sources:
   - file: mj---shopee-video/tentang-shopee-video.md
     bagian: "artikel penuh"
+related: [shp-video-002, shp-video-003]
 ---
 # Tentang Shopee Video
 
 ## Ringkasan
+Entry PENGANTAR/overview Shopee Video (fitur video pendek buat promosi produk & interaksi) — cocok buat member yang baru kenal fitur ini. Cakupan: keuntungan pakai (narasi produk, branding, interaksi komentar, maks. 6 produk/video, exposure algoritma "Untuk Anda"), cara akses (Penjual/Kreator vs Penonton), dan cara interaksi (follow, like, komentar, share, tanya produk lewat Shopee AI Chat).
+
+## Kapan ini dipakai
+Dipakai buat pertanyaan pengantar/umum "apa itu Shopee Video" atau "gimana cara mulai" — bukan buat detail teknis. Buat langkah teknis bikin konten, arahkan ke `shp-video-003`. Buat analisis performa video, arahkan ke `shp-video-002`.
+
+## Isi
+
 **Apa itu Shopee Video?**
 
 
-08-06-2026
-
-**Apa itu Shopee Video?**
 
 Shopee Video adalah fitur yang membantu Penjual mempromosikan produk dan berinteraksi dengan Pengguna Shopee lainnya melalui video pendek. Anda dapat membuat dan membagikan video yang dilengkapi musik, filter, serta elemen pendukung visual lainnya.
 
@@ -51,7 +56,7 @@ Konten video memungkinkan Anda menjelaskan produk secara naratif, sehingga lebih
 
 ﻿﻿﻿
 
-**Memperkuat** ***branding*** **toko**
+**Memperkuat** **branding** **toko**
 
 Shopee Video dapat menjadi etalase visual bagi *brand* Anda. Dengan membuat konten yang konsisten dan relevan, Pembeli akan semakin mengenal karakter toko Anda dan merasa lebih dekat dengan produk yang Anda tawarkan.
 
@@ -61,7 +66,7 @@ Pastikan konten yang di-*upload* selalu terkait dengan produk, cara penggunaan, 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda juga dapat menghubungkan video dari akun Instagram Anda ke Shopee Video sehingga Anda tidak perlu meng-*upload* ulang konten di aplikasi yang berbeda. Video dari akun Instagram Anda akan diposting di Shopee Video pada pk. 02:00 WIB setiap hari. Video yang diposting langsung di Shopee Video berpeluang lebih tinggi untuk dilihat lebih banyak Pembeli.
 
@@ -71,7 +76,7 @@ Anda juga dapat menghubungkan video dari akun Instagram Anda ke Shopee Video seh
 
 Anda dapat berinteraksi dengan Pembeli melalui kolom komentar.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat menarik perhatian dan meningkatkan interaksi Pembeli dengan menambahkan komentar pada video Anda. Komentar yang Anda tambahkan akan tampil pada bagian paling atas baris kolom Komentar. Komentar dapat berupa ajakan kepada Pembeli untuk berinteraksi, seperti "Berikan komentarmu jika telah membeli produk ini\!" dan sebagainya.
 
@@ -122,7 +127,7 @@ Jadi, video yang ditampilkan di halaman **Untuk Anda** milik setiap Pembeli akan
 Setiap konten yang di-*upload* dapat berkesempatan menjadi viral karena Shopee Video membagikan konten Anda ke Pengguna di mana saja, terlepas dari apakah Pengguna tersebut mengikuti akun Anda atau tidak. Maka dari itu, jumlah Penonton konten Shopee Video Anda, sehingga Anda tidak perlu khawatir apabila Anda baru mulai membuat video pertama.
 
   
-**Meningkatkan kunjungan toko melalui** ***exposure***
+**Meningkatkan kunjungan toko melalui** **exposure**
 
 Dengan meng-*upload* video, Anda dapat menjangkau audiens yang lebih luas. Konten video Anda berkesempatan untuk menjadi video pertama yang dilihat Pembeli di halaman **Temukan**, **Video**, **Live** dan **Untuk Anda**. Video Anda yang terekspos langsung ke halaman Pembeli dapat memberikan dampak yang signifikan pada jumlah penonton video dan tingkat kunjungan ke profil toko Anda.
 
@@ -132,7 +137,7 @@ Cek ilustrasi *exposure* video yang akan Anda dapatkan:
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Tingkatkan performa video dan dapatkan Golden Tick di konten Anda untuk menarik lebih banyak keuntungan. Pelajari lebih lanjut tentang[ Apa itu Golden Tick?](https://seller.shopee.co.id/edu/article/24881).
 
@@ -160,7 +165,7 @@ Di halaman **Untuk Anda**, Anda dapat menonton konten berdasarkan minat. Untuk m
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat mempelajari konten terbaik dan mendapatkan inspirasi dari **Peringkat Kreator Teratas** dan **Inspirasi Mingguan**.
 
@@ -193,3 +198,18 @@ Untuk melakukan interaksi di Shopee Video, Anda dapat mengikuti cara berikut:
 ⚠️ **Catatan**
 
 Jika Anda menemukan Shopee Video dengan konten yang tidak pantas, Anda dapat melaporkan video tersebut. Pelajari lebih lanjut terkait[ Cara Melaporkan Video, Komentar, dan Suara di Shopee Video](https://seller.shopee.co.id/edu/article/12944).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Produk yang bisa ditampilkan per video | maks. 6 produk |
+| Ganti username Shopee Video | maks. 1x per 30 hari |
+| Jadwal auto-post video dari Instagram | tiap hari pk. 02:00 WIB |
+
+## Pertanyaan diagnosa
+
+1. **Member baru pertama kali denger Shopee Video, mau tau ini apa?** Jelasin sebagai fitur video pendek buat promosi produk — arahkan ke `shp-video-003` begitu udah paham konsepnya dan mau mulai bikin konten.
+2. **Member nanya kenapa video-nya gak dilihat banyak orang padahal Pengikutnya masih sedikit?** Luruskan: algoritma "Untuk Anda" nyebarin konten ke Pengguna manapun berdasarkan minat, TERLEPAS dari status follow — jadi video pertama pun punya peluang exposure luas, bukan cuma dari Pengikut.
+3. **Member mau ganti username Shopee Video tapi gak bisa?** Cek — dibatasi maks. 1x per 30 hari, dan berubah otomatis mengikuti profil akun Shopee (gak terpisah).
+4. **Member punya konten Instagram, males upload ulang?** Ada opsi hubungkan akun Instagram — video otomatis ikut ter-posting ke Shopee Video tiap hari pk. 02:00 WIB, tapi video yang diposting LANGSUNG di Shopee Video tetap punya peluang lihat lebih tinggi.

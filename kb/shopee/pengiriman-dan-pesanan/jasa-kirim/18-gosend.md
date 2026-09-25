@@ -11,24 +11,29 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/gosend.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-040, shp-pengiriman-039]
 ---
 # GoSend
 
 ## Ringkasan
+GoSend = jasa kirim Gojek didukung Shopee, 2 kategori: Same Day (kirim hari sama, kurir pick-up sampai maks. 8 paket dulu sebelum antar, estimasi 4-8 jam) dan Instant (GoSend Instant Versi Lama, Instant maks. 4 jam, Instant Prioritas maks. 2 jam). 9 kategori produk dilarang (barang ilegal, narkotika, senjata, bahan peledak, sisa manusia/hewan, telur*, makhluk hidup, barang >Rp10.000.000, logam mulia kecuali emas maks Rp4.500.000). *Telur dilarang di Same Day TAPI boleh di Instant. Asuransi pengiriman GoSend otomatis melindungi hingga Rp10.000.000 (kecuali barang dilarang); klaim maks. 6x24 jam sejak paket diambil kurir, wajib lampirkan KTP jelas; emas maks Rp4.500.000 tetap dipotong 10% (berasuransi/tidak).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail layanan, produk terlarang, cara proses pengiriman, atau kendala teknis (status gak update, gagal pick-up, klaim rusak) jasa kirim GoSend. Buat Asuransi Pengiriman secara umum, arahkan ke `shp-pengiriman-040`; buat panduan pengemasan, arahkan ke `shp-pengiriman-039`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim GoSend**
 
 
-06-08-2026
 
-**Jenis Layanan Jasa Kirim GoSend**
-
-  - **\*\*Same Day\*\***
+  - **Same Day**
 
 Same Day adalah jasa kirim standar Gojek yang menyediakan jasa *pick up* dan pengiriman pada hari yang sama. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
   
 
-  - **\*\*Instant (Semua layanan pengirimannya)\*\***
+  - **Instant (Semua layanan pengirimannya)**
 
 Instant adalah jasa kirim premium Gojek yang menawarkan beberapa layanan pengiriman seperti:
 
@@ -141,13 +146,13 @@ Pelajari lebih lengkap tentang[ Memproses & Mengirimkan Pesanan](https://seller.
 
 |  |  |
 | :-: | :-: |
-| \*\*KENDALA\*\* | \*\*SOLUSI\*\* |
-|   \*\*Status pesanan tidak\*\* \*\*\*update\*\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Kendala Lainnya dan melampirkan foto/tanda bukti pengambilan barang oleh kurir Gojek dan \*screenshotchat\* dari Pembeli bahwa pesanan telah diterima.  |
-|  \*\*Kurir mengembalikan pesanan yang sudah di-\*\*\*\*\*pick up\*\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Batalkan Pesanan dan melampirkan bukti chat dengan Pembeli dan Pengemudi, jika alamat pesanan tidak sesuai.  |
-| \*\*Gagal\*\* \*\*\*pick up\*\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Mitra Pengemudi tidak datang ke lokasi untuk pengecekan lebih lanjut.  |
-| \*\*Kurir tidak kunjung datang untuk\*\* \*\*\*pick up\*\*\* \*\*pesanan, namun status pesanan ‘Selesai’\*\*  |  |
-|  \*\*Pengiriman GoSend dengan keterangan "Alamat Tidak Didukung"\*\*  | Keterangan “Alamat Tidak Didukung” menandakan bahwa alamat \*pick up\* yang terdaftar tidak masuk ke area pengiriman yang didukung oleh jasa kirim GoSend.  |
-|              \*\*Cara mengajukan klaim, jika terjadi kerusakan barang selama proses pengiriman oleh GoSend\*\*  | Anda dapat menghubungi Customer Service Shopee dan menginformasikan kendala yang Anda alami, serta melampirkan bukti pengiriman paket berupa:\\- Rekaman CCTV/foto saat proses penjemputan paket\\- Foto kurir memegang KTP dan paket saat mengambil paket\\- Foto catatan pribadi Anda yang berisi data kurir saat melakukan penjemputan paket\\- \*Screenshot\* pesanan yang berhasil dijemput oleh kurir yang tertera di halaman \*\*Rincian Pesanan\*\* (terlihat nomor pesanan dan nomor resi pengiriman) Untuk keperluan proses asuransi, laporan harap dikirimkan paling lambat 6x24 jam sejak pesanan telah diambil kurir. Seluruh pengiriman paket melalui GoSend dilindungi asuransi \\\*hingga Rp10.000.000. \\\*Kecuali untuk beberapa jenis barang yang dilarang untuk dikirim.  |
+| **KENDALA** | **SOLUSI** |
+|   **Status pesanan tidak** **\*update**\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Kendala Lainnya dan melampirkan foto/tanda bukti pengambilan barang oleh kurir Gojek dan \*screenshotchat\* dari Pembeli bahwa pesanan telah diterima.  |
+|  **Kurir mengembalikan pesanan yang sudah di-**\*pick up**\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Batalkan Pesanan dan melampirkan bukti chat dengan Pembeli dan Pengemudi, jika alamat pesanan tidak sesuai.  |
+| **Gagal** **\*pick up**\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Mitra Pengemudi tidak datang ke lokasi untuk pengecekan lebih lanjut.  |
+| **Kurir tidak kunjung datang untuk** **\*pick up**\* **pesanan, namun status pesanan ‘Selesai’**  |  |
+|  **Pengiriman GoSend dengan keterangan "Alamat Tidak Didukung"**  | Keterangan “Alamat Tidak Didukung” menandakan bahwa alamat \*pick up\* yang terdaftar tidak masuk ke area pengiriman yang didukung oleh jasa kirim GoSend.  |
+|              **Cara mengajukan klaim, jika terjadi kerusakan barang selama proses pengiriman oleh GoSend**  | Anda dapat menghubungi Customer Service Shopee dan menginformasikan kendala yang Anda alami, serta melampirkan bukti pengiriman paket berupa:\\- Rekaman CCTV/foto saat proses penjemputan paket\\- Foto kurir memegang KTP dan paket saat mengambil paket\\- Foto catatan pribadi Anda yang berisi data kurir saat melakukan penjemputan paket\\- \*Screenshot\* pesanan yang berhasil dijemput oleh kurir yang tertera di halaman **Rincian Pesanan** (terlihat nomor pesanan dan nomor resi pengiriman) Untuk keperluan proses asuransi, laporan harap dikirimkan paling lambat 6x24 jam sejak pesanan telah diambil kurir. Seluruh pengiriman paket melalui GoSend dilindungi asuransi \\\*hingga Rp10.000.000. \\\*Kecuali untuk beberapa jenis barang yang dilarang untuk dikirim.  |
 
   
 
@@ -158,3 +163,30 @@ Pelajari lebih lengkap tentang[ Memproses & Mengirimkan Pesanan](https://seller.
   - Pengajuan klaim wajib melampirkan KTP yang terlihat jelas dan tidak terpotong. Jika KTP tidak disertakan atau tidak sesuai, Shopee akan menghubungi Anda melalui email info.jasakirim@shopee.co.id untuk tindak lanjut.
   - Untuk pengiriman barang emas dengan nilai hingga Rp4.500.000, penggantian akan dipotong 10% baik menggunakan[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345) maupun tanpa asuransi.
   - Apabila terjadi kendala pengiriman, Anda dapat langsung[ menghubungi pihak jasa kirim](https://seller.shopee.co.id/edu/article/14227) untuk bantuan lebih lanjut.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Maks. paket dikumpulkan kurir sebelum antar (Same Day) | 8 paket |
+| Estimasi durasi Same Day | ~4-8 jam |
+| Estimasi tiba GoSend Instant | maks. 4 jam |
+| Estimasi tiba GoSend Instant Prioritas | maks. 2 jam |
+| Jumlah kategori produk dilarang | 9 kategori |
+| Batas nilai barang maks. (umum) | Rp10.000.000 |
+| Batas nilai emas berasuransi | maks. Rp4.500.000 (tetap dipotong 10%) |
+| Perlindungan asuransi otomatis GoSend | hingga Rp10.000.000 (kecuali barang dilarang) |
+| Batas waktu pengajuan klaim | maks. 6x24 jam sejak paket diambil kurir |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim telur pakai GoSend Same Day, ditolak, tapi katanya boleh di GoSend lain?** Betul — telur dilarang khusus di GoSend Same Day, TAPI tetap diperbolehkan dikirim pakai GoSend Instant.
+2. **Barang senilai Rp8 juta hilang dikirim GoSend, dapat kompensasi berapa?** Bisa penuh — asuransi otomatis GoSend melindungi hingga Rp10.000.000 (kecuali termasuk kategori barang dilarang).
+3. **Member telat lapor klaim, baru ajukan di hari ke-7 sejak paket diambil kurir?** SUDAH LEWAT batas waktu — klaim wajib diajukan maks. 6x24 jam (setara 6 hari) sejak paket diambil kurir.
+4. **Member kirim emas Rp4 juta pakai GoSend dengan Asuransi Pengiriman Shopee, dapat ganti penuh?** GAK PENUH — emas (maks Rp4.500.000) tetap dipotong 10% dari nilai penggantian, baik pakai asuransi maupun tidak.
+5. **Member gak punya rekaman CCTV pas kurir jemput paket, klaim rusak tetap bisa diajukan?** Bisa — cukup lampirkan foto kurir yang memegang paket dan KTP sebagai bukti alternatif.
+6. **Member ajukan klaim GoSend tapi lupa lampirkan foto KTP jelas?** Shopee akan menghubungi via email info.jasakirim@shopee.co.id buat tindak lanjut — klaim gak langsung diproses tanpa KTP yang jelas dan gak terpotong.
+7. **Kurir GoSend Same Day belum kunjung sampai di lokasi Pembeli, kenapa lama?** Wajar — kurir Same Day bisa kumpulkan sampai 8 paket dari beberapa tempat dulu sebelum antar semua, makanya estimasinya lebih lama (4-8 jam) dibanding Instant.
+
+## Batasan
+Baris tabel kendala "Kurir tidak kunjung datang untuk pick up pesanan, namun status pesanan 'Selesai'" TIDAK punya solusi yang tersalin di sumber — selnya kosong. Berdasar pola solusi serupa di entry lain (Bluebird Kirim, `shp-pengiriman-006`), kemungkinan solusinya adalah hubungi CS Shopee buat pengecekan lebih lanjut, TAPI ini belum terkonfirmasi eksplisit dari sumber GoSend — arahkan member hubungi CS Shopee langsung buat kasus ini.

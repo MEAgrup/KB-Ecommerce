@@ -19,6 +19,9 @@ related: [shp-produk-103]
 ## Ringkasan
 Berdasarkan pengalaman menangani ribuan seller (klaim narasumber, tanpa data terverifikasi), pola seller yang sukses jangka panjang biasanya punya 4 kemampuan: baca kebutuhan market, perhatian ke detail teknis listing, kemampuan cari sumber traffic yang tepat, dan kemampuan scale up/down operasional dengan cepat — plus satu hal terpenting: membangun brand yang diingat, bukan cuma jualan transaksional.
 
+## Kapan ini dipakai
+Dipakai kalau member nanya kenapa tokonya stuck meski produk udah laku, atau minta framework evaluasi diri buat sukses jangka panjang (bukan cuma jualan sesaat). Perspektif observasi/opini berpengalaman (confidence rendah) — buat pola scale up terkait poin penalti fulfillment, arahkan ke `shp-produk-103`.
+
 ## Isi
 
 1. **Baca kebutuhan market, bukan cuma yakin produk sendiri bagus.** Banyak seller gagal karena terlalu percaya diri ("bahan gua bagus banget") tanpa mempertimbangkan kondisi pasar (misalnya daya beli kelas menengah yang sedang tertekan lebih memilih produk survival/esensial dibanding produk premium "nanggung").

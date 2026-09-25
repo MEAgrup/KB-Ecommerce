@@ -15,12 +15,12 @@ sources:
 # Cara Melengkapi Informasi Halal/Non-Halal pada Produk dan Mendaftarkan Sertifikat Halal di Seller Centre
 
 ## Ringkasan
-**Melengkapi Informasi Halal untuk Produk Anda**
+Info Halal/Non-Halal produk = OPSIONAL (bukan wajib), diisi via Seller Centre. Kalau pilih "Tidak mengandung bahan Non-Halal", bisa lanjut isi status Sertifikat Halal (Ada/Belum Ada). Buat daftar sertifikasi baru, Shopee integrasi langsung ke SiHalal (platform resmi BPJPH/Kemenag) — ada 2 alur: Self Declare (khusus UMK) dan Reguler (non-UMK atau UMK yang udah pakai 3 sertifikasi gratis pertama).
 
+## Kapan ini dipakai
+Dipakai buat member yang mau isi status Halal produknya atau daftar sertifikasi halal baru lewat Seller Centre. Proses sertifikasi HALAL sendiri (verifikasi, approval) bukan tanggung jawab Shopee — itu sepenuhnya di platform SiHalal/BPJPH, Shopee cuma nyediain akses terintegrasi.
 
-06-04-2026
-
-**Melengkapi Informasi Halal untuk Produk Anda**
+## Isi
 
 Anda dapat melengkapi informasi Halal dan Non-Halal untuk produk Anda melalui **Seller Centre**.
 
@@ -70,5 +70,12 @@ Untuk mulai mendaftarkan sertifikasi halal, pilih **Create an account** jika And
 
   - Ada 2 alur pendaftaran sertifikasi halal melalui halaman SiHalal yang bisa dipilih oleh Penjual, yaitu:
       
-      - Alur ***Self Declare*** (khusus Penjual UMK), dan
+      - Alur **Self Declare** (khusus Penjual UMK), dan
       - Alur **Reguler** (khusus Penjual non-UMK atau Penjual UMK yang telah mendapatkan 3 sertifikasi pertama gratis).
+
+## Pertanyaan diagnosa
+
+1. **Member ragu produknya wajib diisi info Halal/Non-Halal?** Tidak wajib — ini opsional, tapi bantu Pembeli paham status produk lebih jelas (relevan buat kepercayaan konsumen, terutama produk makanan/minuman/kosmetik).
+2. **Member mau daftar sertifikasi halal, alur mana yang cocok?** Cek status usaha: UMK yang belum pernah sertifikasi (atau belum pakai 3 sertifikasi gratis pertama) → Self Declare; non-UMK atau UMK yang 3 sertifikasi gratisnya udah kepakai → Reguler.
+3. **Member komplain proses sertifikasi halal lambat/bermasalah di SiHalal?** Itu tanggung jawab platform SiHalal/BPJPH sepenuhnya, BUKAN Shopee — Shopee cuma nyediain akses terintegrasi via Seller Centre, bukan yang proses approval-nya.
+4. **Member belum punya akun SiHalal?** Arahkan pilih **Create an account** di halaman SiHalal (diakses via Seller Centre), bukan bikin akun terpisah di luar alur ini.

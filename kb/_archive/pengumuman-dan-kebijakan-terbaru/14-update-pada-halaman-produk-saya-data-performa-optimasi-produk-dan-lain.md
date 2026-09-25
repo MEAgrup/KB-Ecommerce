@@ -18,9 +18,6 @@ sources:
 Untuk meningkatkan pengalaman berjualan yang lebih baik, Shopee akan melakukan beberapa pembaruan pada halaman **Produk Saya** di **Seller Centre** untuk membantu Penjual mengambil keputusan yang tepat dan mendorong peningkatan penjualan, seperti:
 
 
-30-09-2025
-
-Untuk meningkatkan pengalaman berjualan yang lebih baik, Shopee akan melakukan beberapa pembaruan pada halaman **Produk Saya** di **Seller Centre** untuk membantu Penjual mengambil keputusan yang tepat dan mendorong peningkatan penjualan, seperti:
 
   - *Filter* Pencarian
   - *Filter* Baru
@@ -29,7 +26,7 @@ Untuk meningkatkan pengalaman berjualan yang lebih baik, Shopee akan melakukan b
   - Analisis Produk
 
   
-**1.** ***Filter*** **Pencarian**
+**1.** **Filter** **Pencarian**
 
 Gunakan 2 *filter* pencarian terbaru yaitu *filter* **Kategori** dan **Performa Produk** agar hasil pencarian produk semakin optimal.
 
@@ -39,15 +36,15 @@ Gunakan 2 *filter* pencarian terbaru yaitu *filter* **Kategori** dan **Performa 
 
 *Filter* **Performa** Produk membantu Anda untuk mengidentifikasi produk berdasarkan:
 
-  - **\*\*Penjualan\*\***
-  - **\*\*Produk yang perlu ditingkatkan\*\***
-  - **\*\*Peluang produk baru\*\***
+  - **Penjualan**
+  - **Produk yang perlu ditingkatkan**
+  - **Peluang produk baru**
 
 Hasil pencarian akan otomatis diurutkan berdasarkan rekomendasi Shopee. Anda dapat mengatur urutan hasil pencarian berdasarkan tanggal dengan pilih **Urutkan Berdasarkan** **Terbaru** yang akan menampilkan produk terbaru Anda di urutan teratas. 
 
 2\. Gunakan *filter* **Berpotensi Harga Terbaik**, **Perlu Diiklankan**, **Stok Sedikit** untuk melihat produk dengan harga terbaik, produk yang direkomendasikan untuk diiklankan, serta produk dengan jumlah stok sedikit. 
 
-**ð¡ Tips**
+**💡 Tips**
 
   - Produk dengan stok rendah akan menampilkan keterangan Stok Menipis di bawah jumlah stoknya.
   - Anda dapat mengatur pengingat ketika stok berada di bawah jumlah tertentu. Arahkan kursor ke angka stok pada produk dan pilih **Atur Pengingat Stok Menipis**.

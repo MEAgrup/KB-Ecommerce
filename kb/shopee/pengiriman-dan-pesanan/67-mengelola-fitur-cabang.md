@@ -11,16 +11,21 @@ valid_as_of: 2026-08
 sources:
   - file: pp---penyelesaian-pesanan/mengelola-fitur-cabang.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-055, shp-pengiriman-066]
 ---
 # Mengelola Fitur Cabang
 
 ## Ringkasan
+Fitur Cabang = kelola beberapa lokasi operasional toko yang terhubung ke Toko Utama (khusus Badan Usaha PT/CV + sudah Verifikasi Data Identitas Toko, akses via Tim Shopee/CS). 2 tipe cabang: Cabang Pengiriman Instant (khusus pesanan Instant, gak connect ke Gudang) dan Gudang-Cabang (Instant via Cabang + Reguler/Hemat Kargo via Gudang terhubung, butuh Multi-Gudang dulu). Bisa dikelola pakai Sub Akun (maks. 300 Sub Akun/Akun Utama) dan fitur Ganti Toko. Upload produk ke Cabang butuh maks. 15 menit. Saldo & penarikan dana Cabang MASUK ke Akun Utama — penarikan cuma bisa dari Akun Utama.
+
+## Kapan ini dipakai
+Dipakai kalau member (toko Badan Usaha dengan banyak lokasi operasional) mau kelola Cabang buat pengiriman Instant/jangkau area lebih luas, atau nanya beda Cabang vs Multi-Gudang. Buat konsep dasar Multi-Gudang, arahkan ke `shp-pengiriman-066`; buat Pengiriman Massal, arahkan ke `shp-pengiriman-055`.
+
+## Isi
+
 **Apa itu Fitur Cabang?**
 
 
-03-08-2026
-
-**Apa itu Fitur Cabang?**
 
 Fitur Cabang memungkinkan Anda mengelola beberapa lokasi operasional toko yang terhubung ke Toko Utama. Saat Pembeli *checkout* pesanan, sistem akan otomatis mengarahkan pesanan ke Cabang yang paling sesuai berdasarkan lokasi Pembeli, sehingga Anda dapat memperluas jangkauan layanan dan mengoptimalkan proses pengiriman.
 
@@ -68,13 +73,13 @@ Jika Anda telah diberikan akses ke fitur Cabang, berikut cara mengakses sistem p
 
 Terdapat 2 tipe cabang yang bisa Anda buat yaitu:
 
-  - **\*\*Cabang Pengiriman Instant\*\***
+  - **Cabang Pengiriman Instant**
 
 Tipe cabang ini dapat digunakan untuk menerima dan memproses **pesanan Instant** tanpa menghubungkan Cabang ke Gudang yang sudah ada. 
 
   
 
-  - **\*\*Gudang-Cabang\*\***
+  - **Gudang-Cabang**
 
 Tipe ini memungkinkan Anda memproses **pesanan Instant melalui Cabang**, sekaligus memproses **pesanan Reguler (Standar dan Hemat Kargo)** **melalui Gudang** yang terhubung. Untuk membuat Gudang dan Cabang, pastikan Anda telah menggunakan[ fitur Multi-Gudang](https://seller.shopee.co.id/edu/article/14866).
 
@@ -222,11 +227,11 @@ Terdapat 2 *tab* yang akan ditampilkan di halaman Jasa Kirim yaitu *tab* Gudang 
 
   
 
-##### ***Tab*** **Gudang**
+##### **Tab** **Gudang**
 
 Digunakan untuk mengelola jasa kirim untuk pesanan dengan opsi pengiriman **Reguler** dan **Hemat Kargo** yang diproses melalui Gudang.
 
-***Tab*** **Cabang**
+**Tab** **Cabang**
 
 Digunakan untuk mengelola jasa kirim untuk pesanan dengan opsi pengiriman **Instant** yang diproses melalui Cabang. Anda dapat mengatur jasa kirim untuk sertiap Cabang secara terpisah atau atur massal untuk semua Cabang.
 
@@ -240,11 +245,11 @@ Atur Jasa Kirim Cabang sekaligus dengan 2 cara:
 
   
 
-  - **\*\*Ubah Massal dengan Upload File\*\***
+  - **Ubah Massal dengan Upload File**
 
 Setelah *file* di-*upload*, Anda dapat melihat statusnya dengan *download file* sebagai berikut. 
 
-  - **\*\*Atur Massal Pengaturan Jasa Kirim Cabang\*\***
+  - **Atur Massal Pengaturan Jasa Kirim Cabang**
 
   
 
@@ -258,11 +263,11 @@ Terdapat 2 *tab* yang akan ditampilkan di halaman Jam Operasional yaitu *tab* Gu
 
   
 
-***Tab*** **Gudang**
+**Tab** **Gudang**
 
 Pada *tab* Gudang, Anda dapat mengatur preferensi jam *pickup* Kurir untuk pesanan dengan opsi pengiriman **Reguler** dan **Hemat Kargo** yang diproses melalui Gudang.
 
-***Tab*** **Cabang**
+**Tab** **Cabang**
 
 Pada *tab* **Cabang**, Anda dapat mengelola Jam Operasional Instant untuk satu atau beberapa Cabang sekaligus.
 
@@ -316,3 +321,29 @@ Pendapatan dari transaksi Akun Utama (*Merchant Account*) dan Akun Cabang (*Outl
 Pada halaman Saldo Saya, Anda dapat melihat riwayat transaksi dari Akun Utama (*Merchant Account*) dan Akun Cabang (*Outlet Account*) yang terhubung. 
 
 Penarikan Saldo Penjual hanya dapat dilakukan dengan menggunakan Akun Utama (*Merchant Account*). Pelajari lebih lanjut tentang[ Menarik Dana dari Saldo Penjual ke Rekening](https://seller.shopee.co.id/edu/article/6992).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Syarat tipe akun | Badan Usaha (PT/CV) |
+| Syarat tambahan | sudah Verifikasi Data Identitas Toko |
+| Jumlah tipe Cabang | 2 (Cabang Pengiriman Instant; Gudang-Cabang) |
+| Status pendaftaran Cabang | 3 kemungkinan: Berhasil / Gagal / Sedang Diproses |
+| Waktu proses upload produk ke Cabang | maks. 15 menit |
+| Maks. Sub Akun per Akun Utama | 300 Sub Akun |
+| Cara aktivasi fitur | wajib hubungi Tim Shopee/Customer Service Shopee dulu |
+| Penarikan Saldo Penjual | hanya lewat Akun Utama (Merchant Account), bukan Akun Cabang |
+
+## Pertanyaan diagnosa
+
+1. **Member toko perorangan (bukan PT/CV) mau pakai fitur Cabang?** GAK BISA — syaratnya Tipe Akun harus Badan Usaha (PT/CV) DAN sudah Verifikasi Data Identitas Toko.
+2. **Member bingung beda Cabang Pengiriman Instant vs Gudang-Cabang?** Cabang Pengiriman Instant = cuma proses pesanan Instant, gak perlu Gudang. Gudang-Cabang = proses Instant via Cabang SEKALIGUS Reguler/Hemat Kargo via Gudang yang terhubung (wajib sudah pakai fitur Multi-Gudang dulu).
+3. **Member upload template Cabang, statusnya "Gagal", kenapa?** Cek kolom Alasan Gagal di file yang bisa di-download dari kolom Aksi — biasanya karena data salah atau ada kesamaan nama cabang.
+4. **Member mau upload beberapa template Cabang sekaligus bersamaan?** GAK BISA — upload template buat bikin Cabang harus satu per satu, gak bisa paralel.
+5. **Member mau tau kenapa stok produk di Gudang-Cabang gak bisa diubah manual per cabang?** Karena stok Gudang-Cabang OTOMATIS ikut Gudang yang terhubung — beda dengan Cabang Pengiriman Instant yang stoknya bisa diatur terpisah per cabang.
+6. **Member mau tarik saldo hasil penjualan dari akun Cabang langsung?** GAK BISA — penarikan Saldo Penjual cuma bisa lewat Akun Utama (Merchant Account), semua pendapatan Cabang otomatis masuk ke saldo Akun Utama.
+7. **Member mau kasih akses tim buat kelola Cabang tanpa share password Akun Utama?** Pakai Sistem Sub Akun (maks. 300 Sub Akun) dengan peran "Penyelesaian Pesanan" — tapi pastikan akun Cabang sudah terhubung ke Akun Utama dulu.
+
+## Batasan
+Artikel ini berisi banyak referensi ke gambar/ilustrasi (tabel perbandingan Gudang vs Gudang-Cabang vs Cabang, ilustrasi alur pemenuhan pesanan, screenshot langkah-langkah) yang TIDAK tersalin dalam scraping teks — cuma judul section dan penjelasan naratifnya yang ada. Jangan karang isi tabel/gambar tersebut — arahkan member ke artikel sumber asli atau Seller Centre buat detail visualnya.

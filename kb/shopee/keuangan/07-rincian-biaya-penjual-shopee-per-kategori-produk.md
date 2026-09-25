@@ -11,22 +11,27 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---biaya-penjual/rincian-biaya-penjual-shopee-per-kategori-produk.md
     bagian: "artikel penuh"
+related: [shp-biaya-001]
 ---
 # Rincian Biaya Penjual Shopee per Kategori Produk
 
 ## Ringkasan
+Tabel lengkap Biaya Administrasi per kategori/sub-kategori/jenis produk, dipecah 2 versi: Non-Star/Star/Star+ (biaya lebih rendah, range ~2,5%–11,7%) dan Shopee Mall (biaya lebih tinggi karena beda basis perhitungan, range serupa tapi umumnya +0,2-1%an dari versi non-Mall). Kategori dengan Biaya Administrasi Final 10,00% (non-Mall) itu udah didiskon 20% dari Biaya Administrasi Dasar 12,5%.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya "biaya admin buat jual [produk spesifik] berapa?" — jangan coba hafal/tebak angkanya, langsung cari baris kategori/sub-kategori/jenis produk yang paling cocok di tabel `## Isi` (pakai Ctrl+F di file ini), lalu cek apakah tokonya Non-Star/Star/Star+ atau Shopee Mall. Kalau member cuma nanya definisi umum Biaya Administrasi (bukan angka per kategori), arahkan ke `shp-biaya-001`.
+
+## Isi
+
 **Rincian Kategori Produk Penjual Non-Star dan Star/Star+**
 
 
-31-07-2026
-
-**Rincian Kategori Produk Penjual Non-Star dan Star/Star+**
 
 **Kategori Fashion**
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Aksesoris Fashion | Aksesoris Rambut | Bando & Bandana, Ikat Rambut, Pita & Scrunchie, Jepitan & Pin Rambut, Rambut Palsu & Extension, Hiasan Kepala, Tiara & Mahkota Bunga, Aksesoris Rambut Lainnya | 9,00% |
 | Aksesoris Tambahan | Bros & Pin, Bordir, Liontin, Kancing Manset, Tato Temporer, Sapu Tangan, Aksesoris Tambahan Lainnya |  |  |
 | Anting | Anting |  |  |
@@ -153,7 +158,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Ibu & Bayi     | Mainan | Inflatable & Perosotan | 10,00%\\\* |
 | Keamanan Bayi | Baby Monitor, Kelambu, Bumper, Rail, & Guard, Pelindung Sudut, Pintu & Pagar Bayi, Pengaman Laci & Lemari, Alat Keamanan Bayi Lainnya | 9,50%      |  |
 | Kesehatan Kehamilan | Susu Ibu Hamil, Vitamin & Suplemen Ibu Hamil, Pelembab & Cream, Kesehatan Kehamilan Lainnya |  |  |
@@ -211,13 +216,11 @@ sources:
 
   
 
-## 
-
 **Kategori Elektronik**
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Audio | Media Player | MP3 & MP4 Player, CD, DVD, & Blu-ray Player, Voice Recorders, Radio & Pemutar Kaset, Media Player Lainnya | 9,50% |
 | Amplifier & Mixer | Amplifier & Mixer | 9,00% |  |
 | Kabel & Konverter Audio & Video | Kabel & Konverter Audio & Video |  |  |
@@ -286,7 +289,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Buku & Alat Tulis     | Perlengkapan Menggambar | Pensil Warna, Krayon & Pastel, Cat Air & Cat Poster, Cat Minyak, Cat Akrilik, Kuas Lukis, Palet Lukis, Kanvas Lukis & Easel, Buku Gambar & Sketsa, Perlengkapan Menggambar Lainnya | 10,00%\\\* |
 | Pembungkus Kado & Kemasan | Bubble Wrap | 9,50% |  |
 | Perlengkapan Sekolah & Kantor | Kalkulator, Pisau Ukir & Cutter, Tali & Selotip, Lem, Printer Label, Lanyard & Name Tag, Klip Kertas, Push Pin, & Paku Payung, Pembolong Kertas, Gunting, Stempel & Bak Stempel, Stapler & Staples, Kalender, Folder, Organizer Kertas, & Aksesoris |  |  |
@@ -370,7 +373,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Tiket, Voucher, & Layanan   | Belanja | Ritel | 9,50% |
 | Layanan | Layanan |  |  |
 | Listrik, Gas, & Air | Listrik, Gas, & Air |  |  |
@@ -399,7 +402,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Aksesoris Fashion   | Aksesoris Tambahan | Masker | 10,45% |
 | Aksesoris Rambut | Bando & Bandana, Ikat Rambut, Pita & Scrunchie, Jepitan & Pin Rambut, Rambut Palsu & Extension, Hiasan Kepala, Tiara & Mahkota Bunga, Aksesoris Rambut Lainnya | 10,20% |  |
 | Dasi | Dasi |  |  |
@@ -524,7 +527,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Ibu & Bayi           | Mainan | Inflatable & Perosotan | 11,70% |
 | Kamar Bayi | Boks & Matras Tidur Bayi, Ayunan Bayi, Baby Walker, Selimut & Bedong, Bantal & Guling, Sprei, Tempat Penyimpanan, Kamar Bayi Lainnya, Matras & Sprei Lainnya | 10,20% |  |
 | Keamanan Bayi | Baby Monitor, Kelambu, Bumper, Rail, & Guard, Pelindung Sudut, Pintu & Pagar Bayi, Pengaman Laci & Lemari, Alat Keamanan Bayi Lainnya |  |  |
@@ -589,7 +592,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Audio       | Kabel & Konverter Audio & Video | Kabel & Konverter Audio & Video | 9,95% |
 | Media Player | MP3 & MP4 Player, CD, DVD, & Blu-ray Player, Voice Recorders, Radio & Pemutar Kaset, Media Player Lainnya | 7,70% |  |
 | Amplifier & Mixer | Amplifier & Mixer | 7,20%     |  |
@@ -655,7 +658,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Buku & Alat Tulis          | Perlengkapan Menggambar | Pensil Warna, Krayon & Pastel, Cat Air & Cat Poster, Cat Minyak, Cat Akrilik, Kuas Lukis, Palet Lukis, Kanvas Lukis & Easel, Buku Gambar & Sketsa, Perlengkapan Menggambar Lainnya | 11,70% |
 | Buku Tulis & Kertas | Art Paper & Art Board | 9,95% |  |
 | Pembungkus Kado & Kemasan | Bubble Wrap | 7,70%  |  |
@@ -735,7 +738,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Tiket, Voucher, & Layanan | Belanja | Ritel | 7,70% |
 | E-Money | E-Money |  |  |
 | Layanan | Layanan |  |  |
@@ -755,3 +758,13 @@ sources:
 Anda dapat mengecek rincian biaya Penjual di Seller Centre.
 
 Biaya administrasi akan dibayarkan lewat pemotongan oleh sistem Shopee setelah pesanan selesai.
+
+## Pertanyaan diagnosa
+
+1. **Produk spesifik apa yang dijual, masuk kategori/sub-kategori/jenis produk mana?** Jangan tebak angkanya — cari baris paling spesifik (jenis produk lebih diutamakan daripada sub-kategori/kategori kalau ada barisnya sendiri).
+2. **Tokonya Non-Star/Star/Star+ atau Shopee Mall?** Dua tabel beda, cek tabel yang sesuai — Shopee Mall umumnya lebih tinggi.
+3. **Angka yang dilihat member itu "Biaya Administrasi Dasar" atau "Final"?** Kategori yang ditandai `\*` di tabel itu Final (sudah didiskon 20% dari Dasar 12,5%) — kalau member bandingin dengan angka dari sumber lain yang nyebut 12,5% flat, itu Dasar bukan Final.
+4. **Member gak nemu kategori produknya di tabel?** Cek baris "... Lainnya" di sub-kategori terkait sebagai fallback, atau arahkan cek langsung di Seller Centre saat submit produk (kategori final ditentukan sistem Shopee).
+
+## Batasan
+Tabel ini SANGAT panjang (~700 baris) dan gampang berubah kalau Shopee reklasifikasi kategori produk — kalau ada dugaan kategori sudah pindah/berubah biaya sejak `valid_as_of`, jangan tebak, arahkan cek Seller Centre langsung. Jangan pernah hafal/asumsikan persentase dari entry lain (mis. `shp-biaya-001` yang cuma bahas biaya secara umum) buat gantiin baris spesifik di tabel ini.

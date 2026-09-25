@@ -11,34 +11,39 @@ valid_as_of: 2026-07
 sources:
   - file: pp---jasa-kirim/spx-express.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-017, shp-pengiriman-030, shp-pengiriman-037]
 ---
 # SPX Express
 
 ## Ringkasan
+SPX Express, 5 layanan: SPX Standard (Reguler, 2-7 hari kerja seluruh Indonesia), SPX Sameday (sama hari, maks. jarak 40km, Penjual terpilih), SPX Instant/semua varian (maks. 4 jam sejak pick-up, Penjual terpilih), SPX Hemat (Hemat Kargo, ongkir lebih murah), SPX Ambil di Tempat (Pembeli ambil di Agen, ongkir hemat — upgrade dari Agen SPX Express/SPX Express Point lama, wajib aktivasi ulang mulai 30 Juni 2026). Kriteria pick-up (Standard & Hemat) dievaluasi bulanan — dihapus kalau gagal penuhi kriteria **2 bulan berturut-turut** (beda dari kebanyakan jasa kirim lain yang cuma 1 bulan). Bisa kirim ke luar negeri via Program Ekspor Shopee (SPX Standar) — paket tertahan bisa jadi Barang Milik Negara (BMN) di gudang TPP Bea Cukai. Produk cairan berbahaya wajib MSDS+surat pernyataan. Telur dilarang di Sameday, boleh di Instant. Hewan CUMA boleh via SPX Instant (kecil, gak berbahaya, gak dilarang hukum) — TAPI klaim ganti rugi hewan TIDAK berlaku.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya jenis layanan, kriteria pick-up, ekspor, atau produk terlarang SPX Express. Buat FAQ kriteria pick-up detail, arahkan ke `shp-pengiriman-017`; buat klaim & kendala, arahkan ke `shp-pengiriman-030`; buat SPX Ambil di Tempat spesifik, arahkan ke `shp-pengiriman-037`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim SPX Express**
 
 
-24-07-2026
-
-**Jenis Layanan Jasa Kirim SPX Express**
 
   - **SPX** **Standard**
 
 SPX Standard adalah jenis layanan pengiriman reguler yang mendukung pengiriman ke seluruh wilayah di Indonesia dengan perkiraan waktu pengiriman 2-7 hari kerja, disesuaikan pada daerah tujuan pengiriman. Layanan ini tersedia di berbagai wilayah sesuai dengan[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) yang telah ditentukan.
 
-  - **\*\*SPX Sameday\*\***
+  - **SPX Sameday**
 
 SPX Sameday adalah jenis layanan untuk pengiriman yang akan sampai pada hari yang sama dengan jarak pengantaran maks. 40 km untuk Penjual yang memenuhi kriteria di berbagai wilayah sesuai dengan[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) yang telah ditentukan.
 
-  - **\*\*SPX Instant (semua layanan pengirimannya)\*\***
+  - **SPX Instant (semua layanan pengirimannya)**
 
 SPX dengan pengiriman Instant memiliki beberapa layanan pengiriman yaitu Instant (Versi Lama), Instant, dan Instant Prioritas dengan durasi pengiriman maks. 4 jam saat pesanan berhasil di-*pick up*. Tipe layanan ini hanya dapat digunakan untuk Penjual yang memenuhi kriteria yang termasuk dalam[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) lokasi pengiriman SPX Instant (semua layanan pengirimannya).
 
-  - **\*\*SPX Hemat\*\***
+  - **SPX Hemat**
 
 SPX Hemat adalah jenis layanan untuk pengiriman dengan ongkos kirim yang lebih ekonomis dibandingkan dengan layanan pengiriman SPX Express lainnya. Layanan ini tersedia di berbagai wilayah sesuai dengan[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) yang telah ditentukan.
 
-  - **\*\*SPX Ambil di Tempat\*\***
+  - **SPX Ambil di Tempat**
 
 SPX Ambil di Tempat adalah jenis layanan pengiriman yang memungkinkan Pembeli untuk dapat mengambil paket secara langsung di lokasi Agen SPX Express dengan ongkos kirim yang lebih hemat. Layanan ini tersedia di berbagai wilayah sesuai dengan[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) yang telah ditentukan.
 
@@ -102,7 +107,7 @@ Kriteria layanan *pick-up* akan diimplementasikan untuk memastikan konsistensi l
 
   
 
-**ð Definisi**
+**📍 Definisi**
 
 Jumlah pesanan bersih: Jumlah pesanan yang terbayar dan tidak termasuk pesanan yang dibatalkan, pesanan yang dikembalikan, dan dana yang dikembalikan.
 
@@ -114,7 +119,7 @@ Pelajari lebih lanjut mengenai[ Proses Pick up](https://seller.shopee.co.id/edu/
 
   
 
-**Kelayakan untuk Layanan** ***Pick-up***
+**Kelayakan untuk Layanan** **Pick-up**
 
 Jika toko Anda belum memiliki layanan *pick-up* namun telah memenuhi kriteria, maka secara otomatis layanan *pick-up* akan muncul di akun Penjual pada **minggu pertama di bulan berikutnya**.
 
@@ -122,7 +127,7 @@ Jika toko Anda belum memiliki layanan *pick-up* namun telah memenuhi kriteria, m
 
 Contoh:
 
-**Penghapusan Layanan** ***Pick-up***
+**Penghapusan Layanan** **Pick-up**
 
 Performa Penjual akan ditinjau setiap bulan. Jika Penjual gagal memenuhi kriteria rata-rata pesanan bersih harian selama 2 bulan berturut-turut, layanan *pick-up* akan ditinjau kembali.
 
@@ -157,3 +162,27 @@ Berikut daftar dari jenis produk yang dilarang & berbahaya:
   - SPX Express berhak menolak dan/atau mengembalikan pesanan ke Penjual sesuai dengan prosedur yang berlaku jika pesanan memiliki informasi yang tidak sesuai (contoh: berat/ukuran), tidak lengkap (contoh: alamat Penjual), dan/atau mencurigakan.
   - Pengiriman hewan hanya dapat dilakukan dengan layanan SPX Instant. Hewan yang dikirim harus berukuran kecil, tidak berbahaya (contoh: tidak beracun, tidak berbisa, dll.), dan tidak dilarang untuk diperjualbelikan berdasarkan hukum yang berlaku. Pelajari lebih lanjut terkait[ Kebijakan Penjualan Hewan di Shopee](https://seller.shopee.co.id/edu/article/6449).
   - Untuk pengiriman hewan, klaim ganti rugi ke pihak jasa kirim atas kerusakan/kehilangan tidak berlaku.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Estimasi durasi SPX Standard | 2-7 hari kerja (tergantung tujuan) |
+| Maks. jarak SPX Sameday | 40 km |
+| Estimasi durasi semua SPX Instant | maks. 4 jam sejak pick-up |
+| Periode gagal kriteria sebelum pick-up ditinjau ulang | 2 bulan berturut-turut |
+| Mulai wajib aktivasi ulang SPX Ambil di Tempat | 30 Juni 2026 |
+| Layanan yang boleh kirim hewan | cuma SPX Instant |
+
+## Pertanyaan diagnosa
+
+1. **Member mau kirim ke luar Jawa pakai SPX Standard, berapa lama nyampenya?** Estimasi 2-7 hari kerja, tergantung jarak tujuan pengiriman.
+2. **Toko member SPX Standard/Hemat gagal penuhi kriteria pick-up cuma 1 bulan, layanan langsung hilang?** BELUM tentu — untuk SPX Express, layanan pick-up baru ditinjau ulang kalau gagal 2 BULAN BERTURUT-TURUT, bukan cuma 1 bulan seperti kebanyakan jasa kirim lain.
+3. **Member mau kirim ikan hias hidup pakai SPX Standard?** GAK BISA — pengiriman hewan cuma boleh via SPX Instant, dan hewannya harus berukuran kecil, gak berbahaya, dan gak dilarang hukum.
+4. **Member kirim hewan peliharaan lewat SPX Instant, hewannya mati/hilang di jalan, bisa klaim?** GAK BISA — klaim ganti rugi ke jasa kirim TIDAK berlaku khusus buat pengiriman hewan.
+5. **Paket ekspor member tertahan di Bea Cukai dan gak bisa lanjut ke penerima?** Berisiko jadi Barang Milik Negara (BMN) — paket dipindahkan ke gudang TPP (Tempat Penimbunan Pabean) milik Bea Cukai.
+6. **Member mau batalkan pesanan SPX Instant yang udah diambil kurir?** GAK BISA batalkan lewat aplikasi lagi — harus hubungi kurir langsung buat minta kembalikan paket, dan mungkin dikenakan biaya tambahan di luar aplikasi (kalau kurir bersedia).
+7. **Member kirim cairan pembersih (produk berbahaya) pakai SPX Express?** Boleh, TAPI wajib dikemas aman dan lampirkan MSDS (Material Safety Data Sheet) plus surat pernyataan produk berbahaya dari Penjual.
+
+## Batasan
+Section "Ketentuan Produk yang Dilarang & Berbahaya Menggunakan SPX Express" menjanjikan "daftar dari jenis produk yang dilarang & berbahaya" TAPI daftar detailnya TIDAK tersalin — cuma catatan tambahan (cairan, telur, hewan) yang tersisa. Jangan karang daftar lengkap kategori produk dilarang SPX Express — arahkan member cek Kebijakan Barang yang Dilarang dan Dibatasi (link di atas) atau sumber asli buat daftar lengkapnya.

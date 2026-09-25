@@ -11,18 +11,19 @@ valid_as_of: 2026-07
 sources:
   - file: mj---program-shopee/program-garansi-harga-terbaik.md
     bagian: "artikel penuh"
+related: [shp-promosi-008]
 ---
 # Program Garansi Harga Terbaik
 
 ## Ringkasan
-**Apa itu Program Garansi Harga Terbaik?**
+Program Garansi Harga Terbaik = opsional, GRATIS, kompetisi harga antar Penjual buat dapat label "Garansi Harga Terbaik" + eksposur. Syarat: poin penalti toko <3, penilaian toko&produk ≥4, rata-rata penjualan 30 hari ≥1, WAJIB udah gabung Gratis Ongkir XTRA. Ada 3 jenis harga: Harga Program Saya (buat margin, GAK pengaruh pemilihan), Harga Terbaik Saya (yang ditawar ke kompetisi), Harga Terbaik Saat Ini (harga final, gak lebih dari 2 harga di atas). Nominasi otomatis batal kalau 90 hari belum jadi "Terbaik". Kalau udah tayang, cuma bisa batal dalam 24 jam pertama.
 
+## Kapan ini dipakai
+Dipakai kalau member mau ikut kompetisi harga ini, nanya kenapa "Belum Kompetitif", atau cara batalkan nominasi. Cek dulu status toko penuhi 5 kriteria dasar (termasuk WAJIB gabung Gratis Ongkir XTRA) sebelum jelasin cara ikut. Buat fitur Nominasi Pintar (auto-nominasi semua variasi), arahkan ke `shp-promosi-008`.
 
-27-07-2026
+## Isi
 
-**Apa itu Program Garansi Harga Terbaik?**
-
-Program Garansi Harga Terbaik adalah program yang menampilkan produk-produk berkualitas baik dengan harga terbaik dari Penjual Shopee.
+**⚠️ Catatan**
 
   
 
@@ -202,7 +203,7 @@ Berikut hal-hal yang dapat Anda lakukan untuk bergabung dalam Program Garansi Ha
 
   
 
-**1. Menominasikan produk pada** ***tab*** **'Pendaftaran Program’**
+**1. Menominasikan produk pada** **tab** **'Pendaftaran Program’**
 
 Anda dapat menominasikan beberapa/seluruh Variasi Produk berdasarkan kriteria produk Program Garansi Harga Terbaik dengan cara berikut:
 
@@ -233,7 +234,7 @@ Jika Anda tidak menemukan produk rekomendasi, Anda dapat menominasikan produk de
 
   
 
-**2. Meninjau produk yang sudah dinominasikan pada** ***tab '*****Dinominasikan’**
+**2. Meninjau produk yang sudah dinominasikan pada** **tab '**Dinominasikan’**
 
 Setelah berhasil menominasikan produk, cek kolom **Status Nominasi** dalam waktu maks. 48 jam untuk mengetahui apakah produk berhasil menjadi 'Terbaik' atau masih dalam peninjauan.
 
@@ -244,10 +245,10 @@ Jika status nominasi "**Belum Kompetitif**", kemungkinan disebabkan oleh beberap
 
 |  |  |
 | :-: | :-: |
-| \*\*KENDALA\*\* | \*\*SOLUSI\*\* |
-| \*\*Variasi tidak sesuai\*\* | Sesuaikan \*\*Variasi Saya\*\* dengan mengikuti\*\*Variasi Produk\*\* yang tertera di halaman\[\*\*Rincian Program\*\*\](https://seller.shopee.co.id/portal/marketing/realtime-bidding/list?tracker\_source=8) sebagai rekomendasi.Untuk mengubah variasi, Anda dapatmengikuti panduan pada poin ke-3 dibawah tabel ini. |
-| \*\*Harga belum kompetitif\*\* | Ubah \*\*Harga Terbaik Saya\*\* sesuai atau lebihrendah dari \*\*Harga Terbaik Program\*\* agarharga menjadi lebih kompetitif. |
-| \*\*Stok tidak mencukupi\*\* | Menambahkan stok produk melaluihalaman \*\*Rincian Produk\*\*. |
+| **KENDALA** | **SOLUSI** |
+| **Variasi tidak sesuai** | Sesuaikan **Variasi Saya** dengan mengikuti**Variasi Produk** yang tertera di halaman\[**Rincian Program**\](https://seller.shopee.co.id/portal/marketing/realtime-bidding/list?tracker\_source=8) sebagai rekomendasi.Untuk mengubah variasi, Anda dapatmengikuti panduan pada poin ke-3 dibawah tabel ini. |
+| **Harga belum kompetitif** | Ubah **Harga Terbaik Saya** sesuai atau lebihrendah dari **Harga Terbaik Program** agarharga menjadi lebih kompetitif. |
+| **Stok tidak mencukupi** | Menambahkan stok produk melaluihalaman **Rincian Produk**. |
 
   
 
@@ -263,7 +264,7 @@ Anda dapat melihat riwayat nominasi produk hingga 30 hari ke belakang dengan pil
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - Operator dari Sistem: setiap aktivitas yang berasal dari sistem, contoh: perubahan status nominasi.
   - Operator dari Penjual: setiap aktivitas yang dilakukan oleh Penjual, contoh: nominasi produk.
@@ -407,3 +408,28 @@ Dukungan Tambahan pada program Garansi Harga Terbaik merupakan keuntungan berupa
 **14. Bagaimana cara mendapatkan Dukungan Tambahan di Garansi Harga Terbaik?**
 
 Dukungan Tambahan pada program Garansi Harga Terbaik terbatas. Dukungan ini berlaku untuk Produk Terbaik dan dapat dimanfaatkan selama masih tersedia.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Poin penalti toko maksimum | \<3 |
+| Penilaian toko & produk minimum | ≥4 |
+| Rata-rata penjualan toko 30 hari terakhir | ≥1 |
+| Syarat wajib | tergabung program Gratis Ongkir XTRA |
+| Waktu Status Nominasi terlihat | maks. 48 jam sejak nominasi |
+| Batas nominasi otomatis dibatalkan (belum jadi Terbaik) | 90 hari |
+| Batas batalkan setelah produk tayang | dalam 1x24 jam sejak tayang |
+| Riwayat nominasi tersimpan | hingga 30 hari ke belakang |
+| Maks. nominasi massal per file | maks. 1.000 variasi produk |
+| Biaya ikut program | Rp0 (gratis) |
+
+## Pertanyaan diagnosa
+
+1. **Member gak nemu produknya di halaman Garansi Harga Terbaik?** Cek 2 kemungkinan: (a) program ini baru tersedia buat produk TERTENTU (belum semua kategori), atau (b) toko belum penuhi 5 kriteria dasar (poin penalti, penilaian, rata-rata penjualan, WAJIB gabung Gratis Ongkir XTRA, produk gak melanggar kebijakan).
+2. **Status nominasi member "Belum Kompetitif"?** Cek 3 kemungkinan penyebab: variasi gak sesuai rekomendasi, harga belum cukup rendah dibanding Harga Terbaik Program, atau stok gak cukup — masing-masing punya solusi beda (lihat tabel kendala/solusi di `## Isi`).
+3. **Member bingung beda Harga Program Saya vs Harga Terbaik Saya?** Harga Program Saya = buat optimasi margin Penjual, GAK PENGARUH ke seleksi Produk Terbaik. Harga Terbaik Saya = harga yang BENERAN dipakai buat kompetisi jadi Produk Terbaik.
+4. **Member udah jadi Produk Terbaik, tiba-tiba jadi Belum Kompetitif lagi?** Kalau produk gak lagi penuhi kriteria (misal ada Penjual lain kasih harga lebih rendah, atau stok/variasi berubah), status & keuntungan program otomatis berhenti — bukan bug.
+5. **Produk member Produk Terbaik tapi label gak muncul di halaman Pencarian?** Cek 2 kemungkinan: toko juga ikut program lain yang kasih label serupa (bentrok), atau ada VARIASI produk yang belum masuk program dan belum jadi harga terbaik di variasi itu — INGAT label cuma muncul kalau SEMUA variasi udah jadi Produk Terbaik.
+6. **Member mau batalkan nominasi produk yang baru tayang < 24 jam?** GAK BISA — pembatalan baru bisa dilakukan SETELAH 24 jam produk tayang, dan setelah dibatalkan gak bisa diurungkan lagi.
+7. **Member nominasi 90 hari lalu tapi belum jadi Produk Terbaik?** Nominasi OTOMATIS dibatalkan sistem setelah 90 hari kalau belum jadi Produk Terbaik — cek alasan "belum kompetitif" di Seller Centre dan ajukan nominasi ulang kalau mau coba lagi.

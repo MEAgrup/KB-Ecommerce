@@ -11,16 +11,17 @@ valid_as_of: 2026-06
 sources:
   - file: mj---shopee-live/livestream-melalui-komputer-atau-laptop.md
     bagian: "artikel penuh"
+related: [shp-live-002, shp-live-006]
 ---
 # Livestream melalui Komputer atau Laptop
 
 ## Ringkasan
-**Mulai Livestream melalui Komputer atau Laptop**
+Akses Livestream via PC/laptop BUKAN default — harus penuhi 4 syarat kelayakan (toko aktif 30 hari, Livestream min. 1 jam/sesi dalam 14 hari terakhir, akun gak dibatasi, min. 25 pesanan/hari dari Live dalam 30 hari terakhir), lalu ajukan formulir. Wajib pakai software OBS Studio. Pengajuan dibuka tiap minggu (deadline Rabu 23.59 WIB), hasil diumumkan Jumat minggu yang sama.
 
+## Kapan ini dipakai
+Dipakai kalau member nanya cara dapat akses Livestream PC/laptop, syarat kelayakan, atau jadwal pengajuan. Kalau toko belum penuhi syarat, jangan arahkan isi formulir dulu — cek dulu 4 syarat di `## Angka & patokan`. Buat fitur konversi/interaksi pas Livestream (bukan soal akses PC-nya), arahkan ke `shp-live-002`/`shp-live-003`.
 
-10-06-2026
-
-**Mulai Livestream melalui Komputer atau Laptop**
+## Isi
 
 Anda juga bisa melakukan Livestream melalui komputer atau laptop dengan memastikan toko Anda memenuhi syarat berikut:
 
@@ -48,7 +49,7 @@ Setelah mendapatkan akses, Anda bisa memulai Livestream melalui[ Portal Web Shop
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Anda dapat melakukan uji coba Livestream dengan fitur **Buat Tes Streaming** di Seller Centre saat Livestream melalui komputer atau laptop. Fitur ini memungkinkan Anda untuk mencoba Livestream terlebih dahulu, mencoba fitur-fitur, dan memastikan semuanya berjalan lancar sebelum memulai Livestream.
 
@@ -101,3 +102,22 @@ Berikut rekomendasi pengaturan video saat Livestream melalui komputer atau lapto
 **Pengaturan Pencahayaan**
 
 Simak rekomendasi pengaturan pencahayaan yang dapat Anda terapkan untuk mendukung tampilan Livestream Anda:
+
+## Angka & patokan
+
+| Syarat kelayakan | Nilai |
+|---|---|
+| Toko aktif | dalam 30 hari terakhir |
+| Frekuensi Livestream | min. 1 jam/sesi dalam 14 hari terakhir |
+| Riwayat penjualan dari Live | min. 25 pesanan/hari dalam 30 hari terakhir |
+| Status akun | tidak sedang dibatasi |
+| Deadline pengajuan mingguan | Rabu, pk. 23.59 WIB |
+| Pengumuman hasil | Jumat minggu yang sama (kalau diajukan sebelum deadline Rabu) atau minggu berikutnya |
+| Software wajib | OBS Studio |
+
+## Pertanyaan diagnosa
+
+1. **Member mau ajukan akses PC Livestream tapi belum tau syaratnya?** Cek 4 syarat dulu (toko aktif 30 hari, Live min. 1 jam/sesi dalam 14 hari, akun gak dibatasi, min. 25 pesanan/hari dari Live dalam 30 hari) — jangan asal arahkan isi formulir kalau salah satu syarat belum kepenuhi.
+2. **Member udah ajukan formulir, kapan tau hasilnya?** Tergantung waktu pengajuan: sebelum Rabu 23.59 WIB → diumumkan Jumat minggu yang sama; setelah itu → diproses minggu berikutnya. Jadwal bisa geser kalau ada libur nasional.
+3. **Member mau tes dulu sebelum Live beneran via PC?** Arahkan pakai fitur **Buat Tes Streaming** di Seller Centre.
+4. **Member pakai software selain OBS Studio?** Wajib OBS Studio — gak ada alternatif software lain yang didukung resmi.

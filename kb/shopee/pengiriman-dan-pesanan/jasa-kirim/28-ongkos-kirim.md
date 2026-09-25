@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: pp---jasa-kirim/ongkos-kirim.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-014]
 ---
 # Ongkos Kirim
 
 ## Ringkasan
+Harga di halaman Produk Saya BELUM termasuk ongkir. Ongkir dihitung dari berat/ukuran yang diinput Penjual + berat aktual (kalau ada selisih). Trik konsolidasi: produk-produk dari 1 Penjual yang muat dalam 1 paket ongkir tetap dihitung SATU KALI ongkir (contoh: 5x200gr = 1000gr = tetap Rp9.000, bukan 5x lipat) — TAPI beda Penjual dalam 1 checkout tetap dihitung TERPISAH. Diskon Ongkir Ditanggung Jasa Kirim = cashback dari jasa kirim, dihitung dari ongkir BRUTO (sebelum potong voucher Gratis Ongkir XTRA). Ongkir gak dibayar Shopee: resi gak sah ATAU fitur "Saya menanggung ongkos kirim" aktif. Ongkir kurang: biasanya karena berat/ukuran belum di-update — klaim selisih maks. **30 hari kalender** sejak pesanan dibuat (SPX Standard/Hemat via CS SPX Express khusus).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara hitung ongkir, diskon ongkir, atau kenapa ongkir gak dibayar/kurang dari estimasi. Buat FAQ detail cara ukur paket & simulasi, arahkan ke `shp-pengiriman-014`.
+
+## Isi
+
 **Apakah Harga di Halaman Produk Saya Sudah Termasuk Ongkos Kirim?**
 
 
-27-07-2026
-
-**Apakah Harga di Halaman Produk Saya Sudah Termasuk Ongkos Kirim?**
 
 Harga di halaman **Produk Saya** belum termasuk ongkos kirim.
 
@@ -97,7 +102,7 @@ Pastikan Anda mengaktifkan jasa kirim yang sesuai dengan berat dan ukuran produk
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Produk dengan variasi yang memiliki berat atau ukuran paket yang berbeda, kemungkinan memiliki biaya ongkos kirim yang berbeda. Untuk memastikan bahwa biaya ongkos kirim dihitung secara akurat dan benar,[ aktifkan *toggle* untuk **Berat & Dimensi berbeda untuk tiap variasi**](https://seller.shopee.co.id/edu/article/20933), lalu masukkan berat dan ukuran paket setiap variasi produk secara terpisah.
 
@@ -171,4 +176,24 @@ Shopee menghimbau Anda agar selalu memperbarui **Berat** dan **Ukuran Paket** pa
 ﻿﻿﻿﻿﻿﻿﻿﻿
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Contoh konsolidasi ongkir (5 produk x 200gr = 1000gr, Penjual sama) | tetap Rp9.000 (1x ongkir, bukan 5x) |
+| Perhitungan volumetrik SiCepat Ekspres berlaku kalau | salah satu sisi min. 40cm DAN/ATAU berat min. 10kg s.d. batas maks. |
+| Basis hitung Diskon Ongkir Ditanggung Jasa Kirim | ongkir BRUTO (sebelum potong voucher) |
+| Contoh diskon ongkir (ongkir Rp20.000, voucher Rp10.000) | diskon dihitung dari Rp20.000 (bruto), bukan sisa setelah voucher |
+| Batas klaim selisih ongkir kurang | maks. 30 hari kalender sejak pesanan dibuat |
+
+## Pertanyaan diagnosa
+
+1. **Member jual 1 produk 200gr, Pembeli beli 5 pcs sekaligus dari toko yang sama, ongkir dihitung 5x?** GAK — karena totalnya (1000gr) masih muat dalam 1 paket ongkir, sistem tetap hitung SATU KALI ongkir (contoh: tetap Rp9.000, bukan Rp45.000).
+2. **Pembeli checkout dari 2 toko berbeda sekaligus, ongkirnya digabung jadi satu?** GAK — ongkir tetap DIHITUNG TERPISAH per Penjual meski dalam satu proses checkout yang sama.
+3. **Member dapat diskon ongkir dari jasa kirim, dihitung dari ongkir sebelum atau sesudah voucher?** Dari BRUTO (ongkir awal SEBELUM dipotong voucher Gratis Ongkir XTRA) — jadi kalau ongkir Rp20.000 dan ada voucher Rp10.000, diskon tetap dihitung dari Rp20.000.
+4. **Member udah input resi tapi ongkirnya gak dibayar Shopee?** 2 penyebab umum: no. resi yang diinput gak sah, ATAU fitur "Saya menanggung ongkos kirim" udah aktif di produk itu — cek dulu sebelum lapor CS.
+5. **Member terima ongkir lebih kecil dari estimasi, kenapa?** Biasanya karena berat/ukuran paket di Rincian Produk belum di-update/gak sesuai kondisi asli — update datanya, dan kalau masih ada selisih, ajukan klaim maks. 30 hari kalender sejak pesanan dibuat.
+6. **Member pakai SPX Standard, ongkirnya kurang dari seharusnya, ke mana harus lapor?** Ajukan klaim khusus lewat Customer Service SPX Express (bukan CS Shopee umum), sesuai prosedur klaim perbedaan nominal ongkir SPX Standard/Hemat.
+7. **Member kirim paket 42cm x 20cm x 20cm, 12kg pakai SiCepat Ekspres, ongkirnya dihitung apa?** Dihitung VOLUMETRIK — karena salah satu sisi (42cm) sudah lewat 40cm DAN beratnya di atas 10kg.
+
+## Batasan
+Bagian "Berapa Batasan Berat dan Ukuran Paket untuk Pengiriman di Shopee?" menjanjikan "tabel informasi batasan berat dan ukuran paket dari setiap jasa kirim" TAPI tabelnya sendiri TIDAK tersalin dalam scraping — cuma kalimat pengantar yang tersisa. Jangan karang angka batasan spesifik per jasa kirim di sini — arahkan member cek entry masing-masing jasa kirim (mis. `shp-pengiriman-006` Bluebird, `shp-pengiriman-021` Indopaket) atau sumber resmi Shopee buat angka pastinya.

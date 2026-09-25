@@ -11,16 +11,21 @@ valid_as_of: 2026-03
 sources:
   - file: mj---shopee-lokal/tentang-promo-voucher.md
     bagian: "artikel penuh"
+related: [shp-promosi-015, shp-promosi-021]
 ---
 # Tentang Promo Voucher
 
 ## Ringkasan
+Promo Voucher = kampanye yang nampilin Voucher Toko Penjual di banner Shopee (halaman utama/kategori khusus). Beda dari Promo Produk & Voucher Shopee (yang punya sesi nominasi PRODUK+VOUCHER), Promo Voucher cuma nominasi VOUCHER SAJA (contoh: Flash Voucher). Voucher bisa dinominasikan mandiri ATAU direkomendasikan Shopee (butuh persetujuan Penjual). Kuota voucher gak bisa diubah setelah dinominasikan; perubahan setelah nominasi cuma bisa nambah Kuota Pemakaian.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara nominasikan Voucher Toko ke Promo Voucher, beda status nominasi (Disetujui/Ditolak/Dalam Pemeriksaan/Perlu Dikonfirmasi), atau cara respons rekomendasi voucher dari Shopee. Buat Promo Shopee secara umum (termasuk nominasi produk), arahkan ke `shp-promosi-015`; buat detail Voucher Toko Saya, arahkan ke `shp-promosi-021`.
+
+## Isi
+
 **Apa itu Promo Voucher?**
 
 
-17-03-2026
-
-**Apa itu Promo Voucher?**
 
 Promo Voucher adalah salah satu dari berbagai promo yang diselenggarakan oleh Shopee. Melalui Promo Voucher, Anda bisa menominasikan Voucher Toko Anda untuk ditampilkan pada *banner* Shopee di halaman utama atau halaman kategori khusus di aplikasi & situs Shopee.
 
@@ -65,7 +70,7 @@ Sebagai contoh, jika Anda memiliki penawaran menarik untuk produk kecantikan, no
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Tingkatkan kemungkinan nominasi voucher Anda disetujui dengan menjaga poin penalti dan[ Kesehatan Toko](https://seller.shopee.co.id/portal/accounthealth/home) Anda. Beberapa program Promo Voucher hanya memperbolehkan Penjual dengan poin penalti atau performa toko tertentu untuk berpartisipasi.
 
@@ -75,53 +80,53 @@ Tingkatkan kemungkinan nominasi voucher Anda disetujui dengan menjaga poin penal
 
 Berikut merupakan beberapa kriteria yang mungkin akan Anda temui saat menominasikan voucher. Anda dapat meningkatkan peluang voucher Anda disetujui dengan cara meningkatkan performa toko dan kualitas voucher Anda dalam kriteria berikut:
 
-  - **\*\*Kriteria Toko\*\***  
-      - **\*\*Penjual Luar Negeri\*\***
+  - **Kriteria Toko**  
+      - **Penjual Luar Negeri**
 
 Penjual luar negeri merupakan toko yang melakukan penjualan di luar negara toko tersebut berada, sedangkan Penjual yang bukan Penjual Luar Negeri adalah toko yang berjualan sesuai dengan negara asal toko.
 
-  - **\*\*Fitur Mode Libur\*\***
+  - **Fitur Mode Libur**
 
 Jika toko Anda mengaktifkan fitur Mode Libur, maka Anda tidak dapat menominasikan voucher Anda dalam Promo Voucher yang tersedia.
 
-  - **\*\*Tipe Toko\*\***
+  - **Tipe Toko**
 
 Periksa jika terdapat ketentuan tipe toko seperti Star, Star+, atau Shopee Mall.
 
-  - **\*\*Penilaian Toko\*\***
+  - **Penilaian Toko**
 
 Periksa apakah kriteria penilaian toko sesuai dengan[ penilaian toko](https://seller.shopee.co.id/edu/courseDetail/285?lessonId=100) Anda.
 
-  - **\*\*Program Promo XTRA\*\***
+  - **Program Promo XTRA**
 
 Beberapa Promo Voucher hanya terbuka untuk Penjual yang bergabung dalam[ program Promo XTRA](https://seller.shopee.co.id/edu/courseDetail/814?lessonId=2969).
 
-  - **\*\*Rata-rata Masa Pengemasan\*\***
+  - **Rata-rata Masa Pengemasan**
 
 Periksa apakah kriteria rata-rata masa pengemasan sesuai dengan rata-rata masa pengemasan toko Anda.
 
-  - **\*\*Poin Penalti\*\***
+  - **Poin Penalti**
 
 Periksa apakah kriteria poin penalti sesuai dengan poin penalti yang toko Anda miliki.
 
-  - **\*\*Kriteria Voucher\*\***  
-      - **\*\*Kuota Pemakaian\*\***
+  - **Kriteria Voucher**  
+      - **Kuota Pemakaian**
 
 Jumlah voucher yang dapat digunakan oleh Pembeli pada toko Anda.
 
-  - **\*\*Minimum Pembelian\*\***
+  - **Minimum Pembelian**
 
 Minimum pembelian yang harus Pembeli capai untuk dapat menggunakan voucher.
 
-  - **\*\*Tipe Voucher\*\***
+  - **Tipe Voucher**
 
 Tipe voucher meliputi Voucher Toko dan Voucher Produk.
 
-  - **\*\*Tipe Diskon\*\***
+  - **Tipe Diskon**
 
 Tipe diskon meliputi Nominal Diskon, Persentase Diskon, dan Cashback Koin.
 
-  - **\*\*Atur Tampilan Voucher\*\***
+  - **Atur Tampilan Voucher**
 
 Di mana voucher dapat ditampilkan, apakah di seluruh *platform* Shopee atau hanya pada fitur tertentu seperti Shopee Live.
 
@@ -137,7 +142,7 @@ Pastikan Anda memeriksa kriteria untuk setiap sesi, bukan hanya kriteria Promo V
 
 Voucher Anda harus disetujui terlebih dahulu oleh Shopee sebelum dapat mengikuti program Promo Voucher. Dengan *filter* Promo Produk & Voucher Shopee dan Promo Voucher, Anda dapat menominasikan voucher yang telah dibuat untuk dinominasikan dalam sesi[ **Promo Produk & Voucher Shopee**](https://seller.shopee.co.id/portal/marketing/cmt/campaign?tab=1&type=CAMPAIGN_SCENE_BIG_CAMPAIGN) dan[ **Promo Voucher**](https://seller.shopee.co.id/portal/web-seller-voucher/campaign/) melalui menu **Pusat Promosi** di Seller Centre.
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Promo Produk & Voucher Shopee**: kampanye dengan sesi nominasi produk & voucher.
   - **Promo Voucher**: kampanye yang terdapat sesi nominasi voucher saja, contoh Flash Voucher.
@@ -166,7 +171,7 @@ Anda tidak dapat mengubah jumlah kuota voucher setelah Anda menominasikan vouche
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Promo**: Event utama di mana Anda akan menominasikan Voucher Toko Anda ke dalamnya.
   - **Sesi**: Slot yang tersedia di dalam promo dengan jadwal tertentu.
@@ -220,7 +225,7 @@ Voucher ini berada di *tab* **Dinominasi** atau **Menunggu Konfirmasi** pada hal
 
 Berikut adalah status untuk voucher yang Direkomendasikan Shopee dan aksi yang dapat Anda lakukan untuk setiap status:
 
-  - **\*\*Perlu Dikonfirmasi\*\***  
+  - **Perlu Dikonfirmasi**  
       - Lihat - Pilih **Lihat** untuk meninjau rincian voucher.
       - Tolak - Pilih **Tolak** jika Anda tidak ingin berpartisipasi dalam sesi Promo Voucher.
       - Setuju - Pilih **Setuju** jika Anda ingin berpartisipasi dalam sesi Promo Voucher dengan pengaturan voucher yang direkomendasikan oleh Shopee.
@@ -230,21 +235,21 @@ Berikut adalah status untuk voucher yang Direkomendasikan Shopee dan aksi yang d
       - Lihat - Pilih **Lihat** untuk meninjau rincian voucher.
       - Setuju - Jika sebelumnya Anda telah menolak voucher yang dinominasikan oleh Shopee, Anda masih dapat pilih **Setuju** sebelum periode nominasi berakhir.
       - Ubah - Jika Anda berubah pikiran setelah menolak voucher yang direkomendasikan oleh Shopee, Anda masih dapat pilih **Ubah** untuk melakukan perubahan pada rincian voucher yang direkomendasikan.
-  - **\*\*Dalam Pemeriksaan\*\***  
+  - **Dalam Pemeriksaan**  
       - Lihat - Pilih **Lihat** untuk meninjau rincian voucher.
       - Batalkan - Setelah melakukan perubahan pada voucher yang direkomendasikan, Anda masih dapat memilih untuk tidak berpartisipasi dalam sesi promo dengan pilih **Batalkan**.
-  - **\*\*Dibatalkan Penjual\*\***  
+  - **Dibatalkan Penjual**  
       - Lihat - Pilih **Lihat** untuk meninjau rincian voucher.
       - Nominasikan Ulang - Jika Anda telah pilih Batalkan untuk voucher tertentu yang direkomendasikan, Anda masih dapat memilih **Nominasikan Ulang** sebelum periode nominasi berakhir.
       - Ubah - Jika Anda berubah pikiran setelah menolak voucher yang direkomendasikan oleh Shopee, Anda masih dapat pilih **Ubah** untuk melakukan perubahan pada rincian voucher yang direkomendasikan.
-  - **\*\*Disetujui\*\***  
+  - **Disetujui**  
       - Lihat - Anda dapat meninjau rincian voucher, tetapi tidak dapat mengubah atau menghapus dari sesi promo.
       - Take Down - Anda dapat menghapus voucher yang telah disetujui.
   - **Ditolak** (Ditolak Shopee)
       
       - Lihat - Setelah Anda mengubah voucher yang direkomendasikan, perubahan Anda mungkin ditolak oleh Shopee. Jika ini terjadi, Anda hanya dapat meninjau rincian voucher, tetapi Anda tidak dapat menominasikan kembali voucher yang sama.
 
-ð **Definisi**
+📍 **Definisi**
 
 Direkomendasikan Shopee merupakan Voucher yang direkomendasikan oleh Shopee dan memerlukan persetujuan Anda untuk berpartisipasi dalam Promo Voucher.
 
@@ -280,3 +285,24 @@ Anda dapat meninjau performa Voucher Toko yang tergabung dalam program Promo Vou
   
 
 Untuk melihat performa voucher yang telah dinominasikan, pilih[ **Voucher Toko Saya**](https://seller.shopee.co.id/datacenter/marketing/voucher) pada menu **Performa Toko**. Anda dapat mengatur Periode Data sesuai dengan periode promo untuk melihat pengaruh voucher tersebut terhadap penjualan Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Status nominasi voucher (nominasi mandiri) | Disetujui, Ditolak, Dalam Pemeriksaan, Perlu Dikonfirmasi |
+| Status voucher rekomendasi Shopee | Perlu Dikonfirmasi, Ditolak (Ditolak Penjual), Dalam Pemeriksaan, Dibatalkan Penjual, Disetujui, Ditolak (Ditolak Shopee) |
+| Tipe Voucher | Voucher Toko, Voucher Produk |
+| Tipe Diskon | Nominal Diskon, Persentase Diskon, Cashback Koin |
+| Perubahan yang diizinkan setelah nominasi | HANYA nambah Kuota Pemakaian |
+| Batas hapus nominasi voucher | satu per satu (gak bisa massal) |
+| Cakupan Take Down voucher disetujui | hanya kampanye tipe "Promo Produk & Voucher Shopee" |
+
+## Pertanyaan diagnosa
+
+1. **Member mau ubah kuota voucher yang udah dinominasikan?** TIDAK BISA diubah kuotanya setelah nominasi & sebelum pengajuan — satu-satunya perubahan yang diizinkan setelah nominasi adalah NAMBAH Kuota Pemakaian.
+2. **Member dapat notifikasi voucher "Direkomendasikan Shopee", harus apa?** Cek status di tab Dinominasi/Menunggu Konfirmasi — kalau "Perlu Dikonfirmasi" bisa pilih Lihat/Tolak/Setuju/Ubah; kalau udah ditolak masih bisa Setuju/Ubah lagi sebelum periode nominasi berakhir.
+3. **Member hapus voucher yang statusnya "Dalam Pemeriksaan", bisa dinominasikan ulang di sesi yang sama?** TIDAK BISA — voucher yang dihapus saat Dalam Pemeriksaan gak bisa dinominasikan ulang untuk sesi yang sama.
+4. **Member mau hapus voucher yang udah Disetujui buat beberapa sesi sekaligus?** TIDAK BISA massal — Take Down cuma bisa dilakukan satu per satu, dan HANYA berlaku buat kampanye tipe "Promo Produk & Voucher Shopee".
+5. **Member bingung beda Promo Produk & Voucher Shopee vs Promo Voucher?** Promo Produk & Voucher Shopee = ada sesi nominasi PRODUK dan VOUCHER. Promo Voucher = cuma sesi nominasi VOUCHER saja (contoh: Flash Voucher).
+6. **Member mau tau performa voucher yang udah ikut Promo Voucher?** Arahkan cek setelah promo BERAKHIR, lewat menu Performa Toko > Voucher Toko Saya, atur Periode Data sesuai periode promo yang diikuti.

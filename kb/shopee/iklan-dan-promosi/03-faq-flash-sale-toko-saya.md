@@ -11,16 +11,17 @@ valid_as_of: 2026-03
 sources:
   - file: mj---flash-sale-toko-saya/faq-flash-sale-toko-saya.md
     bagian: "artikel penuh"
+related: [shp-promosi-001, shp-promosi-004]
 ---
 # FAQ Flash Sale Toko Saya
 
 ## Ringkasan
-**Membuat Flash Sale Toko Saya**
+Flash Sale Toko Saya = versi Flash Sale yang Penjual bikin & atur SENDIRI (beda dari Flash Sale Shopee yang diatur Shopee & undangan). Syarat toko: terdaftar min. 14 hari, aktif 7 hari terakhir, penilaian ≥3.5, min. 5 penilaian, chat dibalas min. 50%, poin penalti ≤2, Tingkat Keterlambatan & Pesanan Tidak Terselesaikan maks. 20%. Kalau produk yang sama juga lolos Flash Sale Shopee di sesi sama, Flash Sale Shopee DIPRIORITASKAN — produk otomatis nonaktif dari Flash Sale Toko Saya sampai Flash Sale Shopee berakhir.
 
+## Kapan ini dipakai
+Dipakai buat member yang mau BIKIN SENDIRI Flash Sale di tokonya (gak perlu diundang) — cek syarat toko/produk, cara atur, atau troubleshoot kenapa fitur/produk gak muncul. Beda dari Flash Sale Shopee (`shp-promosi-001`) yang syaratnya beda dan diatur Shopee. Buat syarat produk lebih detail, arahkan ke `shp-promosi-004`.
 
-17-03-2026
-
-**Membuat Flash Sale Toko Saya**
+## Isi
 
 **1. Apakah saya bisa berpartisipasi di Flash Sale Toko Saya & Flash Sale Shopee secara bersamaan?**
 
@@ -194,4 +195,30 @@ Produk yang menjadi nonaktif mungkin sedang mengikuti Flash Sale Shopee. Produk 
 Anda tidak dapat mengubah beberapa rincian produk setelah Flash Sale Toko Saya berhasil dibuat karena beberapa informasi produk telah terkunci otomatis oleh sistem Shopee.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Toko terdaftar minimum | min. 14 hari |
+| Penilaian toko minimum | ≥3.5, dengan min. 5 penilaian |
+| Persentase chat dibalas minimum | min. 50% |
+| Batas poin penalti | tidak lebih dari 2 poin |
+| Tingkat Keterlambatan Pengiriman maks. | maks. 20% |
+| Tingkat Pesanan Tidak Terselesaikan maks. | maks. 20% |
+| Masa pengemasan produk maks. | maks. 3 hari |
+| Jeda promosi ulang produk yang sama | 1 hari setelah tampil |
+| Stok per variasi | min. 5, maks. 300 |
+| Diskon minimum disarankan (Handphone & Tablet) | min. 1% |
+| Diskon minimum disarankan (kategori lain) | min. 5% |
+| Harga acuan "lebih rendah dari" | harga dalam 7 hari terakhir (bukan harga Flash Sale) |
+| Kedaluwarsa minimum (kategori wajib BPOM) | ≥1 bulan dari tanggal jual di Flash Sale |
+| Batas ubah rincian produk sebelum mulai | maks. 6 jam sebelum Flash Sale dimulai |
+
+## Pertanyaan diagnosa
+
+1. **Member gak bisa bikin Flash Sale Toko Saya, kenapa?** Cek 8 syarat toko (lihat Angka & patokan) — akses fitur ini terbuka buat semua Penjual, tapi cuma yang penuhi SEMUA syarat yang bisa benar-benar membuatnya.
+2. **Produk member gak bisa ditambahkan ke Flash Sale Toko Saya?** Cek dulu — produk itu udah/lagi/akan ikut Flash Sale Shopee (otomatis gak bisa dobel), atau gak penuhi kriteria produk (Pre-order, harga di-mark-up dulu, kategori butuh BPOM tapi gak dicantumkan, dll — lihat `shp-promosi-004`).
+3. **Produk member yang aktif di Flash Sale Toko Saya tiba-tiba nonaktif sendiri?** Kemungkinan besar produk itu lolos Flash Sale Shopee di sesi yang sama — Flash Sale Shopee diprioritaskan, produk otomatis nonaktif dari Flash Sale Toko Saya sampai Flash Sale Shopee-nya selesai.
+4. **Member daftarin produk & save tapi gak muncul di Flash Sale Toko Saya?** Cek tombol Aktifkan/Nonaktifkan — kalau belum digeser jadi HIJAU sebelum save, produk gak akan muncul meski udah didaftarkan.
+5. **Member mau ubah harga/rincian produk H-1 jam sebelum Flash Sale mulai?** Gak bisa — batas ubah rincian produk maks. 6 jam SEBELUM Flash Sale dimulai, lewat itu terkunci.
+6. **Member mau masukin stok lebih banyak dari yang tercatat sistem?** Gak bisa — stok Flash Sale Toko Saya harus PERSIS sesuai stok di sistem, gak boleh dilebihkan.
+7. **Member mau hapus produk dari Flash Sale yang udah aktif?** Harus nonaktifkan SESI-nya dulu, baru ubah status produk yang mau dihapus — gak bisa langsung hapus produk dari sesi yang masih aktif.

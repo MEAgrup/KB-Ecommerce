@@ -359,7 +359,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-akun-013, shp-akun-016",
     "decisions": "",
     "path": "shopee/akun-dan-toko/01-apa-itu-pengaturan-toko-di-seller-centre.md"
   },
@@ -372,7 +372,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-penalti-002, shp-penalti-003",
     "decisions": "",
     "path": "shopee/akun-dan-toko/01-apa-kebijakan-shopee-tentang-paket-kosong.md"
   },
@@ -385,7 +385,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-akun-013, shp-akun-016",
     "decisions": "",
     "path": "shopee/akun-dan-toko/01-sistem-sub-akun.md"
   },
@@ -398,7 +398,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2021-01",
-    "related": "",
+    "related": "shp-akun-013, shp-akun-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/02-amankan-akun-anda-dengan-password-pin-shopeepay-atau-pin-saldo-penjual.md"
   },
@@ -411,7 +411,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "tidak-diketahui",
-    "related": "",
+    "related": "shp-toko-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/02-apa-yang-harus-saya-lakukan-jika-saya-menerima-banyak-notifikasi.md"
   },
@@ -424,7 +424,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-09",
-    "related": "",
+    "related": "shp-penalti-001, shp-penalti-003",
     "decisions": "",
     "path": "shopee/akun-dan-toko/02-bagaimana-saya-mengetahui-jika-saya-telah-diberikan-poin-penalti.md"
   },
@@ -437,7 +437,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-03",
-    "related": "",
+    "related": "shp-akun-004, shp-akun-002",
     "decisions": "",
     "path": "shopee/akun-dan-toko/03-apa-itu-pembeli-fiktif.md"
   },
@@ -450,7 +450,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2024-03",
-    "related": "",
+    "related": "shp-akun-016, shp-toko-032",
     "decisions": "",
     "path": "shopee/akun-dan-toko/03-bagaimana-cara-menemukan-detail-toko-dan-produk-saya.md"
   },
@@ -463,7 +463,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-11",
-    "related": "",
+    "related": "shp-penalti-001, shp-penalti-002, shp-akun-010",
     "decisions": "",
     "path": "shopee/akun-dan-toko/03-faq-sistem-poin-penalti.md"
   },
@@ -476,7 +476,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-03",
-    "related": "",
+    "related": "shp-akun-003, shp-akun-002",
     "decisions": "",
     "path": "shopee/akun-dan-toko/04-apa-itu-penipuan-dengan-phishing.md"
   },
@@ -489,7 +489,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2020-09",
-    "related": "",
+    "related": "shp-toko-002, shp-toko-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/04-bagaimana-cara-mengelola-notifikasipemberitahuan.md"
   },
@@ -502,7 +502,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-12",
-    "related": "",
+    "related": "shp-penalti-002, shp-penalti-003",
     "decisions": "",
     "path": "shopee/akun-dan-toko/04-pengajuan-banding-penalti.md"
   },
@@ -515,7 +515,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-11",
-    "related": "",
+    "related": "shp-toko-011, shp-akun-013",
     "decisions": "",
     "path": "shopee/akun-dan-toko/05-bagaimana-cara-memverifikasi-apakah-kode-verifikasi-otp-saya-asli.md"
   },
@@ -528,7 +528,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2020-09",
-    "related": "",
+    "related": "shp-toko-023",
     "decisions": "",
     "path": "shopee/akun-dan-toko/05-bagaimana-cara-mengganti-negara-tempat-tinggal-saya.md"
   },
@@ -541,7 +541,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-penalti-001, shp-penalti-003, shp-penalti-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/05-sistem-ketentuan-poin-penalti.md"
   },
@@ -554,7 +554,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-10",
-    "related": "",
+    "related": "shp-akun-003, shp-akun-004, shp-akun-002",
     "decisions": "",
     "path": "shopee/akun-dan-toko/06-cegah-penipuan-bersama-shopee.md"
   },
@@ -567,7 +567,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-toko-009, shp-penalti-005",
     "decisions": "",
     "path": "shopee/akun-dan-toko/06-faq-fitur-mode-libur.md"
   },
@@ -580,7 +580,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-akun-010, shp-akun-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/07-faq-meningkatkan-keamanan-akun.md"
   },
@@ -593,7 +593,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-toko-015",
     "decisions": "",
     "path": "shopee/akun-dan-toko/07-menavigasi-formulir-feedback-dan-laporan-penjual.md"
   },
@@ -606,7 +606,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2022-12",
-    "related": "",
+    "related": "shp-akun-002, shp-akun-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/08-keamanan-akun-shopee.md"
   },
@@ -619,7 +619,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-03",
-    "related": "",
+    "related": "shp-toko-009",
     "decisions": "",
     "path": "shopee/akun-dan-toko/08-mengapa-toko-saya-dinonaktifkan-atau-tidak-aktif.md"
   },
@@ -632,7 +632,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-06",
-    "related": "",
+    "related": "shp-akun-005, shp-akun-010",
     "decisions": "",
     "path": "shopee/akun-dan-toko/09-kendala-log-in-akun-shopee-dan-kode-verifikasi-otp.md"
   },
@@ -645,7 +645,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-toko-006, shp-toko-008",
     "decisions": "",
     "path": "shopee/akun-dan-toko/09-menggunakan-fitur-mode-libur.md"
   },
@@ -658,7 +658,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "shp-akun-104",
+    "related": "shp-akun-104, shp-penalti-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/10-mengapa-akun-saya-dibatasi.md"
   },
@@ -671,7 +671,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-toko-025",
     "decisions": "",
     "path": "shopee/akun-dan-toko/10-tentang-penyalahgunaan-label-shopee.md"
   },
@@ -684,7 +684,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2025-06",
-    "related": "",
+    "related": "shp-akun-005, shp-akun-006",
     "decisions": "",
     "path": "shopee/akun-dan-toko/11-apa-saja-akun-rekening-resmi-shopee.md"
   },
@@ -697,7 +697,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-toko-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/11-mengatur-alamat-dan-titik-lokasi-toko.md"
   },
@@ -710,7 +710,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-toko-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/12-bagaimana-saya-menghubungi-customer-service-shopee.md"
   },
@@ -723,7 +723,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-toko-003, shp-akun-009",
     "decisions": "",
     "path": "shopee/akun-dan-toko/12-mengelola-akun-shopee.md"
   },
@@ -736,7 +736,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2022-11",
-    "related": "",
+    "related": "shp-akun-010",
     "decisions": "",
     "path": "shopee/akun-dan-toko/13-di-mana-saya-dapat-menemukan-kebijakan-peraturan-dan-pemberitahuan-yan.md"
   },
@@ -749,7 +749,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2019-08",
-    "related": "",
+    "related": "shp-akun-002, shp-akun-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/13-menjaga-keamanan-akun.md"
   },
@@ -762,7 +762,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-11",
-    "related": "",
+    "related": "shp-toko-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/14-formulir-suara-penjual.md"
   },
@@ -775,7 +775,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-08",
-    "related": "",
+    "related": "shp-toko-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/14-penanganan-kendala-aplikasi-shopee-dan-seller-centre.md"
   },
@@ -788,7 +788,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-toko-018",
     "decisions": "",
     "path": "shopee/akun-dan-toko/15-proses-verifikasi-data-identitas-toko.md"
   },
@@ -801,7 +801,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-toko-007, shp-toko-012",
     "decisions": "",
     "path": "shopee/akun-dan-toko/15-tentang-fitur-asisten-penjual.md"
   },
@@ -814,7 +814,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-08",
-    "related": "",
+    "related": "shp-toko-003, shp-toko-032",
     "decisions": "",
     "path": "shopee/akun-dan-toko/16-apa-itu-profil-toko-di-seller-centre.md"
   },
@@ -840,7 +840,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2022-10",
-    "related": "",
+    "related": "shp-akun-001, shp-akun-015",
     "decisions": "",
     "path": "shopee/akun-dan-toko/16-tentang-fitur-keamanan-toko.md"
   },
@@ -853,7 +853,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-10",
-    "related": "",
+    "related": "shp-toko-001, shp-toko-019",
     "decisions": "",
     "path": "shopee/akun-dan-toko/17-apa-itu-seller-centre.md"
   },
@@ -879,7 +879,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-akun-007, shp-akun-006",
     "decisions": "",
     "path": "shopee/akun-dan-toko/17-tentang-keamanan-akun.md"
   },
@@ -892,7 +892,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-08",
-    "related": "",
+    "related": "shp-akun-010, shp-akun-015",
     "decisions": "",
     "path": "shopee/akun-dan-toko/18-berapa-jumlah-toko-yang-dapat-saya-miliki-di-shopee.md"
   },
@@ -918,7 +918,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-toko-017, shp-toko-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/19-berjualan-di-aplikasi-dan-seller-centre-shopee.md"
   },
@@ -931,7 +931,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-12",
-    "related": "",
+    "related": "shp-toko-023, shp-akun-015",
     "decisions": "",
     "path": "shopee/akun-dan-toko/20-berjualan-di-shopee.md"
   },
@@ -944,7 +944,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-penalti-005, shp-penalti-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/21-cara-agar-terhindar-dari-poin-penalti.md"
   },
@@ -957,7 +957,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-promosi-009, shp-promosi-010, shp-toko-027",
     "decisions": "",
     "path": "shopee/akun-dan-toko/22-cara-cepat-dapatkan-pesanan-pertama-di-shopee.md"
   },
@@ -970,7 +970,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-toko-020",
     "decisions": "",
     "path": "shopee/akun-dan-toko/23-daftar-dan-buat-akun-toko-di-shopee.md"
   },
@@ -983,7 +983,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-09",
-    "related": "",
+    "related": "shp-toko-018, shp-toko-020",
     "decisions": "",
     "path": "shopee/akun-dan-toko/24-faq-berjualan-di-shopee.md"
   },
@@ -996,7 +996,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-09",
-    "related": "",
+    "related": "shp-toko-026, shp-toko-034",
     "decisions": "",
     "path": "shopee/akun-dan-toko/25-faq-nama-dan-logo-toko.md"
   },
@@ -1009,7 +1009,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-07",
-    "related": "",
+    "related": "shp-toko-025, shp-penalti-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/26-faq-pelanggaran-nama-toko-yang-tidak-tepattidak-pantas.md"
   },
@@ -1022,7 +1022,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-toko-022",
     "decisions": "",
     "path": "shopee/akun-dan-toko/27-hal-hal-yang-perlu-dilakukan-untuk-menyelesaikan-pesanan-pertama.md"
   },
@@ -1035,7 +1035,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-toko-020, shp-toko-022",
     "decisions": "",
     "path": "shopee/akun-dan-toko/28-ketahui-pentingnya-buka-toko-online-di-shopee.md"
   },
@@ -1048,7 +1048,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2024-08",
-    "related": "",
+    "related": "shp-toko-030",
     "decisions": "",
     "path": "shopee/akun-dan-toko/29-lihat-penghasilan-toko-anda-di-halaman-penghasilan-saya.md"
   },
@@ -1061,7 +1061,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-penalti-003, shp-toko-029",
     "decisions": "",
     "path": "shopee/akun-dan-toko/30-memantau-performa-toko-melalui-fitur-kesehatan-toko.md"
   },
@@ -1074,7 +1074,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-toko-032",
     "decisions": "",
     "path": "shopee/akun-dan-toko/31-membuat-halaman-toko-lebih-menarik-dengan-fitur-dekorasi-toko.md"
   },
@@ -1087,7 +1087,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-toko-025, shp-toko-026, shp-toko-016",
     "decisions": "",
     "path": "shopee/akun-dan-toko/32-membuat-profil-toko-yang-baik.md"
   },
@@ -1100,7 +1100,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-akun-013, shp-akun-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/33-pentingnya-menjaga-keamanan-toko-anda.md"
   },
@@ -1113,7 +1113,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-09",
-    "related": "",
+    "related": "shp-toko-010, shp-toko-025, shp-toko-032",
     "decisions": "",
     "path": "shopee/akun-dan-toko/34-tentang-kebijakan-logo-banner-toko.md"
   },
@@ -1139,7 +1139,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-star-002, shp-akun-104",
     "decisions": "",
     "path": "shopee/akun-dan-toko/35-tipe-tipe-penjual-di-shopee.md"
   },
@@ -1152,7 +1152,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-performa-003, shp-performa-005",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/01-memahami-performa-produk.md"
   },
@@ -1178,7 +1178,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-performa-001, shp-performa-005",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/03-meningkatkan-strategi-dengan-performa-toko.md"
   },
@@ -1191,7 +1191,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-performa-001, shp-performa-005",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/04-pentingnya-analisis-data.md"
   },
@@ -1204,7 +1204,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-performa-001, shp-performa-003, shp-performa-004",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/05-tentang-performa-toko.md"
   },
@@ -1256,7 +1256,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-002, shp-afiliasi-003, shp-afiliasi-004",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/01-10-tentang-affiliate-marketing-solution-ams.md"
   },
@@ -1269,7 +1269,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-iklan-003",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/01-faq-iklan-google.md"
   },
@@ -1282,7 +1282,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-promosi-002, shp-promosi-003",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/01-flash-sale-shopee.md"
   },
@@ -1308,7 +1308,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/02-31-sampel-gratis-di-affiliate-marketing-solution-ams.md"
   },
@@ -1321,7 +1321,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-iklan-004, shp-iklan-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/02-faq-iklan-meta-cpas.md"
   },
@@ -1334,7 +1334,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-promosi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/02-performa-flash-sale-shopee.md"
   },
@@ -1347,7 +1347,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/03-35-youtube-shopping-di-affiliate-marketing-solution-ams.md"
   },
@@ -1360,7 +1360,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-001, shp-promosi-004",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/03-faq-flash-sale-toko-saya.md"
   },
@@ -1373,7 +1373,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-iklan-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/03-iklan-google.md"
   },
@@ -1386,7 +1386,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/04-iklan-affiliate-facebook-di-affiliate-marketing-solution-ams.md"
   },
@@ -1399,7 +1399,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-iklan-002",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/04-iklan-meta-cpas.md"
   },
@@ -1412,7 +1412,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-003",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/04-syarat-dan-kriteria-produk-dan-penjual-flash-sale-toko-saya.md"
   },
@@ -1425,7 +1425,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-afiliasi-006",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/05-keranjang-instagram-feeds-dan-reels-untuk-penjual.md"
   },
@@ -1451,7 +1451,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-008",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/05-promo-khusus-pengguna-iklan-shopee.md"
   },
@@ -1464,7 +1464,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-live-002",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/06-koin-penjual.md"
   },
@@ -1477,7 +1477,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-001, shp-afiliasi-005",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/06-tentang-program-afiliasi-penjual-shopee.md"
   },
@@ -1555,7 +1555,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-008",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/07-program-garansi-harga-terbaik.md"
   },
@@ -1568,7 +1568,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-007",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/08-program-nominasi-pintar.md"
   },
@@ -1581,7 +1581,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-biaya-007, shp-biaya-008, shp-iklan-005",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/09-program-opsional-gratis-ongkir-xtra.md"
   },
@@ -1594,7 +1594,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-009, shp-promosi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/10-program-opsional-promo-xtra.md"
   },
@@ -1607,7 +1607,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-010, shp-promosi-009",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/11-program-opsional-promo-xtra.md"
   },
@@ -1620,7 +1620,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-promosi-009, shp-promosi-010, shp-promosi-011",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/12-tentang-pengelolaan-program-saya.md"
   },
@@ -1633,7 +1633,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-promosi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/13-cara-membeli-paket-promosi-online-di-seller-centre.md"
   },
@@ -1659,7 +1659,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-009",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/14-tentang-program-shopee-pilih-lokal.md"
   },
@@ -1685,7 +1685,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-001, shp-promosi-014",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/15-tentang-promo-shopee.md"
   },
@@ -1711,7 +1711,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-015, shp-promosi-021",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/16-tentang-promo-voucher.md"
   },
@@ -1724,7 +1724,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-016",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/17-voucher-reward-koin-shopee.md"
   },
@@ -1737,7 +1737,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-promosi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/18-maksimalkan-potensi-toko-di-big-ramadan-sale.md"
   },
@@ -1750,7 +1750,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-promosi-015",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/19-program-promosi-vip.md"
   },
@@ -1763,7 +1763,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-016, shp-promosi-021",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/20-syarat-ketentuan-menominasikan-voucher-toko-dalam-flash-voucher.md"
   },
@@ -1776,7 +1776,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-promosi-016, shp-promosi-020",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/21-tentang-voucher-toko-saya.md"
   },
@@ -1789,7 +1789,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-promosi-014",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/22-voucher-akselerasi-usaha-lokal.md"
   },
@@ -1802,7 +1802,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-promosi-021",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/23-voucher-diskon-dinamis.md"
   },
@@ -1841,7 +1841,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-keuangan-002",
     "decisions": "",
     "path": "shopee/keuangan/01-cara-kerja-dana-cepat-di-shopee.md"
   },
@@ -1867,7 +1867,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-keuangan-001",
     "decisions": "",
     "path": "shopee/keuangan/02-tentang-dana-cepat-di-shopee.md"
   },
@@ -1880,8 +1880,8 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
-    "decisions": "",
+    "related": "shp-biaya-006",
+    "decisions": "S-D-CONFLICT-004",
     "path": "shopee/keuangan/03-bagaimana-cara-mengajukan-pengembalian-pph-23.md"
   },
   {
@@ -1906,7 +1906,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-001, shp-biaya-002, shp-biaya-003",
     "decisions": "",
     "path": "shopee/keuangan/04-faq-biaya-untuk-berjualan-di-shopee.md"
   },
@@ -1932,7 +1932,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-keuangan-006",
     "decisions": "",
     "path": "shopee/keuangan/05-faq-pelepasan-dan-penarikan-dana-penghasilan-toko-anda.md"
   },
@@ -1945,7 +1945,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-001, shp-biaya-003, shp-biaya-004, shp-biaya-009",
     "decisions": "",
     "path": "shopee/keuangan/05-kategorisasi-biaya-penjual-di-shopee.md"
   },
@@ -1958,8 +1958,8 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
-    "decisions": "",
+    "related": "shp-biaya-001, shp-keuangan-003",
+    "decisions": "S-D-CONFLICT-004",
     "path": "shopee/keuangan/06-ketentuan-biaya-untuk-penjual-shopee-mall.md"
   },
   {
@@ -1971,7 +1971,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-keuangan-005, shp-keuangan-004",
     "decisions": "",
     "path": "shopee/keuangan/06-menarik-dana-dari-saldo-penjual-ke-rekening.md"
   },
@@ -1997,7 +1997,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-001",
     "decisions": "",
     "path": "shopee/keuangan/07-rincian-biaya-penjual-shopee-per-kategori-produk.md"
   },
@@ -2010,7 +2010,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-007",
     "decisions": "",
     "path": "shopee/keuangan/08-rincian-persentase-gratis-ongkir-xtra-kategori-produk-dan-tipe-penjual.md"
   },
@@ -2023,7 +2023,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-keuangan-005",
     "decisions": "",
     "path": "shopee/keuangan/08-tentang-penghasilan-saya.md"
   },
@@ -2049,7 +2049,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-001, shp-biaya-003, shp-biaya-006, shp-biaya-007, shp-biaya-008, shp-keuangan-007",
     "decisions": "",
     "path": "shopee/keuangan/09-ringkasan-jenis-biaya-untuk-berjualan-di-shopee.md"
   },
@@ -2062,7 +2062,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-chat-002, shp-layanan-001",
     "decisions": "",
     "path": "shopee/layanan-pembeli/01-cara-menggunakan-fitur-chat-penjual.md"
   },
@@ -2088,7 +2088,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-07",
-    "related": "",
+    "related": "shp-enabler-002, shp-enabler-003",
     "decisions": "",
     "path": "shopee/layanan-pembeli/01-faq-shopee-certified-enablers-program-untuk-enabler.md"
   },
@@ -2101,7 +2101,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-chat-001, shp-layanan-001",
     "decisions": "",
     "path": "shopee/layanan-pembeli/02-faq-fitur-chat-penjual.md"
   },
@@ -2127,7 +2127,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-enabler-001, shp-enabler-003",
     "decisions": "",
     "path": "shopee/layanan-pembeli/02-shopee-certified-enablers-program-informasi-untuk-enabler.md"
   },
@@ -2140,7 +2140,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-enabler-001, shp-enabler-002",
     "decisions": "",
     "path": "shopee/layanan-pembeli/03-shopee-certified-enablers-program-informasi-untuk-penjual.md"
   },
@@ -2153,7 +2153,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-chat-001, shp-chat-002, shp-layanan-001",
     "decisions": "",
     "path": "shopee/layanan-pembeli/03-tentang-asisten-ai-chat.md"
   },
@@ -2166,7 +2166,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-layanan-001, shp-chat-001, shp-chat-002, shp-chat-003",
     "decisions": "",
     "path": "shopee/layanan-pembeli/03-tentang-pelayanan-pembeli.md"
   },
@@ -2179,7 +2179,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-live-002, shp-live-003, shp-live-004, shp-live-006, shp-live-008",
     "decisions": "",
     "path": "shopee/live-dan-video/01-faq-shopee-live.md"
   },
@@ -2192,7 +2192,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-video-003",
     "decisions": "",
     "path": "shopee/live-dan-video/01-ketentuan-penggunaan-konten-dihasilkan-ai-di-shopee-video.md"
   },
@@ -2205,7 +2205,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-live-001, shp-live-011",
     "decisions": "",
     "path": "shopee/live-dan-video/02-fitur-di-shopee-live-untuk-tingkatkan-konversi.md"
   },
@@ -2218,7 +2218,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-video-003",
     "decisions": "",
     "path": "shopee/live-dan-video/02-meninjau-performa-video-pada-shopee-video.md"
   },
@@ -2231,7 +2231,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-live-001, shp-live-002, shp-live-004",
     "decisions": "",
     "path": "shopee/live-dan-video/03-fitur-interaksi-dan-mempertahankan-penonton-di-shopee-live.md"
   },
@@ -2244,7 +2244,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-video-001, shp-video-002, shp-video-004",
     "decisions": "",
     "path": "shopee/live-dan-video/03-mulai-bikin-konten-di-shopee-video.md"
   },
@@ -2257,7 +2257,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-live-001, shp-live-003",
     "decisions": "",
     "path": "shopee/live-dan-video/04-kesehatan-stream-dan-kebijakan-shopee-live.md"
   },
@@ -2270,7 +2270,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-video-001, shp-video-003",
     "decisions": "",
     "path": "shopee/live-dan-video/04-panduan-pelanggaran-dan-penalti-shopee-video.md"
   },
@@ -2283,7 +2283,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-live-002, shp-live-006",
     "decisions": "",
     "path": "shopee/live-dan-video/05-livestream-melalui-komputer-atau-laptop.md"
   },
@@ -2296,7 +2296,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-video-007",
     "decisions": "",
     "path": "shopee/live-dan-video/05-shopee-video-xtra.md"
   },
@@ -2309,7 +2309,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-live-002, shp-live-004, shp-live-005",
     "decisions": "",
     "path": "shopee/live-dan-video/06-mulai-livestream-di-shopee-live.md"
   },
@@ -2322,7 +2322,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-video-002, shp-video-003",
     "decisions": "",
     "path": "shopee/live-dan-video/06-tentang-shopee-video.md"
   },
@@ -2335,7 +2335,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-live-008",
     "decisions": "",
     "path": "shopee/live-dan-video/07-program-seller-marketing-service-sms-live.md"
   },
@@ -2348,7 +2348,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-video-005",
     "decisions": "",
     "path": "shopee/live-dan-video/07-voucher-shopee-video-dan-skemanya.md"
   },
@@ -2361,7 +2361,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-live-011, shp-live-007",
     "decisions": "",
     "path": "shopee/live-dan-video/08-shopee-live-xtra.md"
   },
@@ -2374,7 +2374,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-live-007",
     "decisions": "",
     "path": "shopee/live-dan-video/09-shopee-shop-partners-program.md"
   },
@@ -2400,7 +2400,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-live-008",
     "decisions": "",
     "path": "shopee/live-dan-video/11-voucher-shopee-live-dan-skemanya.md"
   },
@@ -2426,7 +2426,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-akun-010",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/01-layanan-dikelola-shopee.md"
   },
@@ -2439,7 +2439,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-pesanan-002, shp-penalti-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/01-mengelola-dan-merespons-pembatalan-pesanan.md"
   },
@@ -2452,7 +2452,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pesanan-001, shp-penalti-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/02-tentang-pembatalan-pesanan.md"
   },
@@ -2465,7 +2465,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pesanan-004, shp-pesanan-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/03-cara-mengajukan-memeriksa-hasil-banding-pengembalian-barangdana.md"
   },
@@ -2478,7 +2478,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pesanan-003, shp-pesanan-006",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/04-faq-pengembalian-barangdana.md"
   },
@@ -2491,7 +2491,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-pesanan-004, shp-pesanan-003",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/05-pengajuan-pengembalian-barangdana-dari-pembeli.md"
   },
@@ -2504,7 +2504,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-pesanan-004, shp-pesanan-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/06-tentang-pengembalian-barangdana.md"
   },
@@ -2517,7 +2517,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-12",
-    "related": "",
+    "related": "shp-pesanan-002, shp-penalti-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/42-bagaimana-cara-mengetahui-pesanan-yang-tidak-terselesaikan-karena-kesa.md"
   },
@@ -2530,7 +2530,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-050, shp-pesanan-002",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/43-faq-batas-waktu-pengiriman.md"
   },
@@ -2543,7 +2543,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-09",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/44-faq-kebijakan-pemenuhan-pesanan-shopee.md"
   },
@@ -2556,7 +2556,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-050, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/45-faq-masa-pengemasan.md"
   },
@@ -2569,7 +2569,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-pengiriman-051, shp-toko-027",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/46-faq-menyelesaikan-pesanan-pertama-anda.md"
   },
@@ -2582,7 +2582,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-043, shp-pengiriman-045, shp-penalti-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/47-kebijakan-pemenuhan-pesanan-shopee.md"
   },
@@ -2595,7 +2595,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-03",
-    "related": "",
+    "related": "shp-pengiriman-060, shp-akun-010",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/48-kebijakan-terhadap-penyalahgunaan-informasi-pembeli.md"
   },
@@ -2608,7 +2608,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/49-keterlambatan-pengiriman-pesanan-tidak-terselesaikan.md"
   },
@@ -2621,7 +2621,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-pengiriman-045, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/50-memahami-masa-pengemasan-dan-batas-waktu-pengiriman.md"
   },
@@ -2634,7 +2634,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-pengiriman-046, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/51-memproses-mengirimkan-pesanan.md"
   },
@@ -2647,7 +2647,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-11",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-pesanan-002",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/52-mengelola-pesanan-tertunda.md"
   },
@@ -2660,7 +2660,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-051, shp-pengiriman-052",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/53-menyelesaikan-pesanan-pertama-anda.md"
   },
@@ -2673,7 +2673,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-pengiriman-060, shp-pengiriman-048",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/54-tampilan-informasi-pembeli.md"
   },
@@ -2686,7 +2686,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-066, shp-pengiriman-051",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/55-mengatur-pengiriman-massal.md"
   },
@@ -2699,7 +2699,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2025-06",
-    "related": "",
+    "related": "shp-pengiriman-061, shp-pengiriman-064",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/56-apa-itu-thermal-printer.md"
   },
@@ -2712,7 +2712,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-051, shp-pengiriman-053",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/57-apa-perbedaan-antara-mengatur-pengiriman-dan-mengirimkan-pesanan.md"
   },
@@ -2725,7 +2725,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-09",
-    "related": "",
+    "related": "shp-pengiriman-057, shp-pengiriman-052",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/58-bagaimana-cara-melacak-pengiriman-saya.md"
   },
@@ -2738,7 +2738,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-09",
-    "related": "",
+    "related": "shp-pengiriman-064, shp-pengiriman-051",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/59-bagaimana-cara-saya-menempelkan-resi.md"
   },
@@ -2751,7 +2751,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-05",
-    "related": "",
+    "related": "shp-pengiriman-054, shp-pengiriman-063",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/60-faq-tampilan-informasi-pembeli.md"
   },
@@ -2764,7 +2764,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-09",
-    "related": "",
+    "related": "shp-pengiriman-056, shp-pengiriman-064",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/61-faq-thermal-printer.md"
   },
@@ -2777,7 +2777,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-051, shp-pengiriman-055",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/62-fitur-serah-terima-pesanan.md"
   },
@@ -2790,7 +2790,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-060, shp-pesanan-006",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/63-kelola-pengiriman-yang-gagal.md"
   },
@@ -2803,7 +2803,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-06",
-    "related": "",
+    "related": "shp-pengiriman-056, shp-pengiriman-069",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/64-mencetak-resi-dengan-optimal.md"
   },
@@ -2816,7 +2816,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-07",
-    "related": "",
+    "related": "shp-pengiriman-068, shp-pengiriman-069",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/65-mengambil-produk-secara-optimal.md"
   },
@@ -2829,7 +2829,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-055, shp-pengiriman-067",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/66-mengelola-beberapa-gudang-saya-dengan-fitur-multi-gudang.md"
   },
@@ -2842,7 +2842,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-055, shp-pengiriman-066",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/67-mengelola-fitur-cabang.md"
   },
@@ -2855,7 +2855,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2022-05",
-    "related": "shp-pengiriman-101",
+    "related": "shp-pengiriman-069",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/68-mengoptimalkan-proses-inbound.md"
   },
@@ -2868,7 +2868,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-04",
-    "related": "shp-pengiriman-101",
+    "related": "shp-pengiriman-068, shp-pengiriman-070",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/69-optimalisasi-proses-outbound.md"
   },
@@ -2881,7 +2881,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-pengiriman-069",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/70-pentingnya-surat-bukti-pengiriman-bagi-penjual.md"
   },
@@ -2894,7 +2894,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-063",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/71-program-pengiriman-kilat.md"
   },
@@ -2907,7 +2907,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-073, shp-pengiriman-042",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/72-cara-memantau-pesanan-performa-setelah-promo-berakhir.md"
   },
@@ -2920,7 +2920,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-072",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/73-tips-mengelola-pesanan-performa-saat-promo-berlangsung.md"
   },
@@ -2933,7 +2933,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "shp-pengiriman-101",
+    "related": "shp-pengiriman-068, shp-pengiriman-069, shp-pengiriman-055",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/74-tips-pengiriman-tepat-waktu.md"
   },
@@ -2959,7 +2959,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-026",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/02-anteraja.md"
   },
@@ -2972,7 +2972,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-038",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/03-area-jangkauan-spx-express.md"
   },
@@ -2985,7 +2985,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040, shp-pengiriman-039",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/04-aturan-prosedur-klaim-barang-rusakhilang-saat-pengiriman.md"
   },
@@ -2998,7 +2998,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-016",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/05-bagaimana-saya-dapat-meminta-jasa-kirim-melakukan-pick-up-pesanan-saya.md"
   },
@@ -3011,8 +3011,8 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
-    "decisions": "",
+    "related": "shp-pengiriman-040, shp-pengiriman-039",
+    "decisions": "S-D-CONFLICT-006",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/06-bluebird-kirim.md"
   },
   {
@@ -3024,7 +3024,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-pengiriman-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/07-cara-terbaik-menyerahkan-pesanan-ke-jasa-kirim.md"
   },
@@ -3037,7 +3037,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-009, shp-pengiriman-033",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/08-cod-bayar-di-tempat.md"
   },
@@ -3050,7 +3050,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-008, shp-pengiriman-033",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/09-faq-cod-bayar-di-tempat.md"
   },
@@ -3063,7 +3063,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-pengiriman-026, shp-pengiriman-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/10-faq-jasa-kirim-di-shopee.md"
   },
@@ -3076,7 +3076,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-pengiriman-023, shp-pengiriman-022, shp-pengiriman-032",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/11-faq-jasa-kirim-yang-tidak-didukung-shopee.md"
   },
@@ -3089,7 +3089,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-03",
-    "related": "",
+    "related": "shp-pengiriman-024",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/12-faq-jne-express.md"
   },
@@ -3102,7 +3102,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-09",
-    "related": "",
+    "related": "shp-pengiriman-026",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/13-faq-mengatur-jasa-kirim.md"
   },
@@ -3115,7 +3115,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-028",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/14-faq-ongkos-kirim-panduan-mengukur-ukuran-paket.md"
   },
@@ -3128,7 +3128,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-029, shp-pengiriman-041",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/15-faq-pengiriman-instant-instant-prioritas.md"
   },
@@ -3141,7 +3141,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2025-12",
-    "related": "",
+    "related": "shp-pengiriman-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/16-faq-proses-pick-up.md"
   },
@@ -3154,7 +3154,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-pengiriman-038",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/17-faq-spx-express.md"
   },
@@ -3167,7 +3167,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040, shp-pengiriman-039",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/18-gosend.md"
   },
@@ -3180,7 +3180,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040, shp-pengiriman-039",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/19-grabexpress.md"
   },
@@ -3193,7 +3193,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-026, shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/20-id-express.md"
   },
@@ -3206,7 +3206,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/21-indopaket-ambil-di-indomaret.md"
   },
@@ -3219,7 +3219,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2024-09",
-    "related": "",
+    "related": "shp-pengiriman-011, shp-pengiriman-023",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/22-jasa-kirim-toko.md"
   },
@@ -3232,7 +3232,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-011, shp-pengiriman-022",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/23-jasa-kirim-yang-didukung-shopee-vs-jasa-kirim-yang-tidak-didukung-shop.md"
   },
@@ -3245,7 +3245,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-012",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/24-jne-express.md"
   },
@@ -3258,7 +3258,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/25-jt-cargo.md"
   },
@@ -3271,7 +3271,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-pengiriman-013, shp-pengiriman-023",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/26-mengatur-jasa-kirim.md"
   },
@@ -3284,7 +3284,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/27-ninja-xpress.md"
   },
@@ -3297,7 +3297,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-014",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/28-ongkos-kirim.md"
   },
@@ -3310,7 +3310,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-pengiriman-015, shp-pengiriman-041",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/29-panduan-pengiriman-instant-instant-prioritas.md"
   },
@@ -3323,7 +3323,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-038, shp-pengiriman-017",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/30-penanganan-kendala-pengiriman-dan-klaim-spx-express.md"
   },
@@ -3336,7 +3336,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-008, shp-pengiriman-009",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/31-pos-reguler.md"
   },
@@ -3349,7 +3349,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-01",
-    "related": "",
+    "related": "shp-pengiriman-011, shp-pengiriman-022",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/32-praktik-terbaik-saat-menggunakan-jasa-kirim-yang-tidak-didukung-shopee.md"
   },
@@ -3362,7 +3362,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-008, shp-pengiriman-009",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/33-program-cod-cek-dulu.md"
   },
@@ -3388,7 +3388,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/35-sentral-cargo.md"
   },
@@ -3401,7 +3401,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-008",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/36-sicepat-ekspres.md"
   },
@@ -3414,7 +3414,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-038, shp-pengiriman-008",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/37-spx-ambil-di-tempat.md"
   },
@@ -3427,7 +3427,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-017, shp-pengiriman-030, shp-pengiriman-037",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/38-spx-express.md"
   },
@@ -3440,7 +3440,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/39-standar-praktik-terbaik-pengemasan-produk-di-shopee.md"
   },
@@ -3453,7 +3453,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-pengiriman-004, shp-pengiriman-039",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/40-tentang-asuransi-pengiriman-shopee.md"
   },
@@ -3466,7 +3466,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-015, shp-pengiriman-029",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/41-tentang-layanan-pengiriman-instant-instant-prioritas.md"
   },
@@ -3518,7 +3518,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-ekspor-002",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/01-program-ekspor-shopee-flexi.md"
   },
@@ -3531,7 +3531,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-star-002",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/01-program-penjual-star.md"
   },
@@ -3557,7 +3557,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-star-001",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/02-program-penjual-star.md"
   },
@@ -3583,7 +3583,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-ekspor-001",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/02-tentang-program-ekspor-shopee.md"
   },
@@ -3596,7 +3596,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-mall-002, shp-mall-101",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/03-penjual-shopee-mall.md"
   },
@@ -3609,7 +3609,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-mall-003",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/04-tentang-shopee-farma.md"
   },
@@ -3635,7 +3635,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-002, shp-produk-028",
     "decisions": "",
     "path": "shopee/produk/01-mengakses-fitur-edit-secara-massal.md"
   },
@@ -3648,7 +3648,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-001, shp-produk-027",
     "decisions": "",
     "path": "shopee/produk/02-tentang-edit-atribut.md"
   },
@@ -3700,7 +3700,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-produk-007, shp-produk-012",
     "decisions": "",
     "path": "shopee/produk/06-ketentuan-penjualan-obat-bebas-dan-obat-bebas-terbatas.md"
   },
@@ -3713,7 +3713,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-006",
     "decisions": "",
     "path": "shopee/produk/07-panduan-uploadupdate-produk-obat-bebas-obat-bebas-terbatas-dan-obat-ke.md"
   },
@@ -3739,7 +3739,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-011, shp-produk-013, shp-produk-017",
     "decisions": "",
     "path": "shopee/produk/09-cara-memperbaiki-produk-yang-diturunkan.md"
   },
@@ -3752,7 +3752,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-011, shp-produk-017",
     "decisions": "",
     "path": "shopee/produk/10-faq-penjualan-produk-dilarang.md"
   },
@@ -3765,7 +3765,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "shp-produk-107",
+    "related": "shp-produk-009, shp-produk-013, shp-produk-107",
     "decisions": "",
     "path": "shopee/produk/11-jenis-pelanggaran-produk-di-shopee.md"
   },
@@ -3804,7 +3804,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-006",
     "decisions": "",
     "path": "shopee/produk/12-kebijakan-penjualan-produk-makanan-minuman-dan-obatvitaminsuplemen-pal.md"
   },
@@ -3908,7 +3908,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-011",
     "decisions": "",
     "path": "shopee/produk/16-produk-yang-dilarang-penjualan-produk-media-dan-layanan-yang-mengandun.md"
   },
@@ -3921,7 +3921,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "shp-produk-107",
+    "related": "shp-produk-009, shp-produk-013, shp-produk-107",
     "decisions": "",
     "path": "shopee/produk/17-tentang-pelanggaran-produk.md"
   },
@@ -3934,7 +3934,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-produk-013",
     "decisions": "",
     "path": "shopee/produk/18-tentang-penyalahgunaan-merek.md"
   },
@@ -3947,7 +3947,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-009, shp-produk-020",
     "decisions": "",
     "path": "shopee/produk/19-cara-meningkatkan-kualitas-daftar-produk.md"
   },
@@ -3960,7 +3960,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-019",
     "decisions": "",
     "path": "shopee/produk/20-mengoptimalkan-daftar-produk-anda.md"
   },
@@ -3973,7 +3973,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-produk-020",
     "decisions": "",
     "path": "shopee/produk/21-bagaimana-cara-menggunakan-standar-produk-shopee-untuk-membantu-mening.md"
   },
@@ -3999,7 +3999,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-biaya-008",
     "decisions": "",
     "path": "shopee/produk/23-mengelola-daftar-produk-berukuran-khusus.md"
   },
@@ -4012,7 +4012,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-022",
     "decisions": "",
     "path": "shopee/produk/24-mengelola-daftar-produk-digital-dan-jasa.md"
   },
@@ -4038,7 +4038,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-001, shp-produk-008",
     "decisions": "",
     "path": "shopee/produk/26-mengubah-informasi-produk.md"
   },
@@ -4051,7 +4051,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-002, shp-produk-008",
     "decisions": "",
     "path": "shopee/produk/27-tentang-kategori-dan-atribut-produk.md"
   },
@@ -4064,7 +4064,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-produk-001, shp-produk-019, shp-produk-021, shp-produk-027",
     "decisions": "",
     "path": "shopee/produk/28-meng-upload-daftar-produk.md"
   },
@@ -4077,7 +4077,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-019, shp-produk-020",
     "decisions": "",
     "path": "shopee/produk/29-tips-mengoptimalkan-daftar-produk.md"
   },

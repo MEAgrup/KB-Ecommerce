@@ -11,20 +11,17 @@ valid_as_of: 2026-02
 sources:
   - file: analisis-data---analisis-performa-toko/tentang-performa-toko.md
     bagian: "artikel penuh"
+related: [shp-performa-001, shp-performa-003, shp-performa-004]
 ---
 # Tentang Performa Toko
 
 ## Ringkasan
-**Apa itu Fitur Performa Toko?**
+**Performa Toko** adalah fitur pusat data di Aplikasi Shopee dan Seller Centre, terbagi jadi 7 tab: Tinjauan, Produk, Penjualan, Layanan, Tingkat Kunjungan, Promosi, dan Panduan Penjualan — masing-masing buat sudut analisis berbeda.
 
+## Kapan ini dipakai
+Dipakai sebagai peta navigasi awal — waktu member/mentor bingung "data yang gue butuh ada di tab mana", entry ini yang jawab, sebelum masuk ke entry teknis per-tab (mis. `shp-performa-001` buat detail tab Produk).
 
-02-02-2026
-
-**Apa itu Fitur Performa Toko?**
-
-**Performa Toko** adalah fitur di Aplikasi Shopee dan Seller Centre untuk memberikan Anda gambaran menyeluruh tentang data penjualan dan performa toko secara menyeluruh.
-
-  
+## Isi
 
 Fitur ini dapat membantu Anda untuk memahami hal-hal yang dapat dikembangkan untuk meningkatkan performa dan memungkinkan Anda untuk:
 
@@ -36,7 +33,7 @@ Dapatkan pemahaman tentang performa toko Anda berdasarkan kriteria utama, statis
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Arahkan kursor ke *icon* tanya  di setiap metrik **Kriteria Utama** untuk melihat cara penghitungannya. Hal ini dapat memberikan Anda gambaran tentang cara Pembeli berinteraksi dengan produk Anda.
 
@@ -102,7 +99,7 @@ Pilih **Performa Toko** yang terletak di bagian **Data** pada halaman utama Sell
 
 Saat ini, aplikasi Shopee hanya menyediakan ringkasan data performa toko. Data ini terbagi menjadi 2 halaman, yaitu:
 
-  - **\*\*Halaman Penjualan\*\***
+  - **Halaman Penjualan**
 
 1\. **Periode** memungkinkan Anda untuk memilih periode waktu tertentu, seperti: Real-Time (*update* setiap menit), Kemarin, 7 hari sebelumnya, 30 hari sebelumnya, Per hari, Per Minggu, dan Per Bulan.
 
@@ -116,7 +113,7 @@ Saat ini, aplikasi Shopee hanya menyediakan ringkasan data performa toko. Data i
 
   
 
-  - **\*\*Halaman Produk\*\***
+  - **Halaman Produk**
 
 <!-- end list -->
 
@@ -130,4 +127,21 @@ Saat ini, aplikasi Shopee hanya menyediakan ringkasan data performa toko. Data i
 
   
 
-Halaman **Performa Toko** pada aplikasi Shopee direkomendasikan untuk melihat performa Anda dalam bentuk informasi singkat. Sedangkan Seller Centre untuk melihat data yang lebih kompleks dan lengkap dalam berbagai kriteria berbeda. ﻿﻿﻿﻿
+Halaman **Performa Toko** pada aplikasi Shopee direkomendasikan untuk melihat performa Anda dalam bentuk informasi singkat. Sedangkan Seller Centre untuk melihat data yang lebih kompleks dan lengkap dalam berbagai kriteria berbeda.
+
+## Angka & patokan
+
+| Halaman | Jumlah tab/section | Sumber |
+|---|---|---|
+| Performa Toko (Seller Centre) | 7 tab: Tinjauan, Produk, Penjualan, Layanan, Tingkat Kunjungan, Promosi, Panduan Penjualan | artikel resmi |
+| Performa Toko (aplikasi) | 2 halaman ringkas: Penjualan, Produk | artikel resmi |
+| Kategori Kesehatan Toko | 4: Sangat Baik / Baik / Perlu Ditingkatkan / Buruk | artikel resmi |
+
+## Pertanyaan diagnosa
+
+1. **Member pakai aplikasi Shopee atau Seller Centre?** Aplikasi cuma kasih ringkasan (2 halaman: Penjualan & Produk) — kalau butuh data lengkap/kompleks, arahkan ke Seller Centre.
+2. **Toko-nya termasuk "Penjual terpilih"?** Tab Tingkat Kunjungan dan Panduan Penjualan cuma muncul buat sebagian penjual — kalau gak muncul, bukan bug.
+3. **Pertanyaan member sebenernya soal tab mana** — Tinjauan (overview), Produk, Penjualan, Layanan, Promosi, atau Panduan Penjualan? Arahkan ke entry teknis spesifik tab itu, jangan jelasin ketujuh-tujuhnya.
+
+## Batasan
+Entry ini cuma peta navigasi (apa isi tiap tab), bukan cara BACA datanya. Ketersediaan tab **Tingkat Kunjungan** dan **Panduan Penjualan** dibatasi ke "Penjual terpilih" — kriteria terpilihnya gak dijelasin di sumber.

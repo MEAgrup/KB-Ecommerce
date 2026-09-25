@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: pembatalan---pembatalan-pesanan/tentang-pembatalan-pesanan.md
     bagian: "artikel penuh"
+related: [shp-pesanan-001, shp-penalti-005]
 ---
 # Tentang Pembatalan Pesanan
 
 ## Ringkasan
+4 jenis pembatalan: Instan (Pembeli, real-time, gak butuh respons Penjual), Non-Instan (Pembeli, Penjual wajib respons dalam 1x24 jam), Otomatis (sistem, lewat batas waktu pengiriman), Sebagian (Penjual, stok sebagian habis, ≤50% dari total pesanan). Pembatalan sepihak Penjual (stok habis) & otomatis sistem (telat kirim) PENGARUHI Tingkat Pesanan Tidak Terselesaikan. Minta Pembeli batalkan sendiri = pelanggaran Pelayanan Pembeli.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya beda jenis pembatalan pesanan dan kapan masing-masing berlaku (dengan contoh skenario jam). Buat cara mengelola/merespons pembatalan secara praktis, arahkan ke `shp-pesanan-001`; buat dampak ke poin penalti, arahkan ke `shp-penalti-005`.
+
+## Isi
+
 **Pembatalan Pesanan di Shopee**
 
 
-27-07-2026
-
-**Pembatalan Pesanan di Shopee**
 
 Pembatalan pesanan adalah proses di mana pesanan yang dibuat oleh Pembeli dibatalkan sebelum selesai diproses.
 
@@ -78,19 +83,19 @@ Berikut proses dari masing-masing jenis pembatalan pesanan di Shopee:
 
   
 
-  - **\*\*Kasus 1 (Kurang 1 jam - Layanan pengiriman Instant\*\***
+  - **Kasus 1 (Kurang 1 jam - Layanan pengiriman Instant**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Instant, lalu Pembeli mengajukan pembatalan pk. 10:45 WIB -\> Pesanan dibatalkan otomatis oleh sistem.
 
   
 
-  - **\*\*Kasus 2 (Lewat 1 jam - Layanan pengiriman Same Day)\*\***
+  - **Kasus 2 (Lewat 1 jam - Layanan pengiriman Same Day)**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Sameday, lalu Pembeli mengajukan pembatalan pk. 11.30 WIB -\> Pembatalan memerlukan respons Penjual.
 
   
 
-  - **\*\*Kasus 3 (Kapan saja/tanpa batas waktu - Produk Pre-Order)\*\***
+  - **Kasus 3 (Kapan saja/tanpa batas waktu - Produk Pre-Order)**
 
 Pesanan Pre-order masuk pk. 10.00 WIB, lalu Pembeli mengajukan pembatalan keesokan harinya -\> Pesanan dibatalkan otomatis oleh sistem.
 
@@ -111,13 +116,13 @@ Pesanan Pre-order masuk pk. 10.00 WIB, lalu Pembeli mengajukan pembatalan keesok
 
 **A. Penjual belum mengatur pengiriman**
 
-  - **\*\*Kasus 1 (Lewat 1 jam – Layanan pengiriman Same Day)\*\***
+  - **Kasus 1 (Lewat 1 jam – Layanan pengiriman Same Day)**
 
 Pesanan masuk pk. 10.00 WIB, lalu Pembeli mengajukan pembatalan pk. 11.30 WIB -\> Pembatalan memerlukan respons Penjual.
 
   
 
-  - **\*\*Kasus 2 (Lewat 1 jam – Produk Pre-order)\*\***
+  - **Kasus 2 (Lewat 1 jam – Produk Pre-order)**
 
 Pesanan masuk pk. 10.00 WIB untuk produk Pre-order, lalu Pembeli mengajukan pembatalan pk. 13.00 WIB -\> Pembatalan memerlukan respons Penjual.
 
@@ -125,7 +130,7 @@ Pesanan masuk pk. 10.00 WIB untuk produk Pre-order, lalu Pembeli mengajukan pemb
 
 **B. Penjual sudah mengatur pengiriman**
 
-  - **\*\*Kasus 3 (Belum diserahkan ke jasa kirim)\*\***
+  - **Kasus 3 (Belum diserahkan ke jasa kirim)**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Standard, lalu Pembeli mengajukan pembatalan setelah Penjual sudah mengatur pengiriman -\> Pembatalan memerlukan respons Penjual dalam 1x24 jam. Jika tidak ada respons, pesanan akan dibatalkan otomatis dalam 1x24 jam berikutnya.
 
@@ -155,7 +160,7 @@ Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Standard, lalu Pembeli mengaju
 
 **A. Penjual belum mengatur pengiriman**
 
-  - **\*\*Kasus 1 (Batas waktu pengiriman 2 hari)\*\***
+  - **Kasus 1 (Batas waktu pengiriman 2 hari)**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Standard. Penjual belum mengatur pengiriman hingga melewati batas waktu pengiriman (2 hari) -\> Pesanan dibatalkan otomatis oleh sistem.
 
@@ -163,7 +168,7 @@ Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Standard. Penjual belum mengat
 
 **B. Penjual sudah mengatur pengiriman**
 
-  - **\*\*Kasus 2 (Batas waktu pengiriman 1 hari)\*\***
+  - **Kasus 2 (Batas waktu pengiriman 1 hari)**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim GoSend Same Day. Penjual sudah mengatur pengiriman, namun hingga 1 hari paket belum diserahkan ke pihak jasa kirim -\> Pesanan dibatalkan otomatis oleh sistem.
 
@@ -186,4 +191,20 @@ Pembeli memesan 10 produk dengan total harga produk Rp 100.000 dalam satu pesana
 Penjual membatalkan 3 produk dengan total harga produk Rp 30.000, dan berat sisa pesanan yang perlu dikirim masih memenuhi ketentuan dari masing-masing jasa kirim -\> Penjual dapat membatalkan Pesanan Sebagian.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Batas waktu respons Penjual (Pembatalan Non-Instan) | 1x24 jam sejak pengajuan Pembeli |
+| Ambang Pembatalan Sebagian Pesanan | ≤50% dari total jumlah/harga pesanan |
+| Contoh batas waktu pembatalan Instan (SPX Instant) | pengajuan dalam ~1 jam sejak pesanan masuk → dibatalkan otomatis |
+| Contoh batas waktu pengiriman (SPX Standard) | 2 hari sejak pesanan masuk |
+| Contoh batas waktu setelah atur pengiriman (GoSend Same Day) | 1 hari sejak diatur, kalau belum diserahkan ke kurir |
+
+## Pertanyaan diagnosa
+
+1. **Pembeli ajukan pembatalan 45 menit setelah pesan pakai SPX Instant, Penjual belum atur pengiriman?** Dibatalkan OTOMATIS oleh sistem (Pembatalan Instan) — Penjual gak perlu respons.
+2. **Pembeli ajukan pembatalan produk Same Day 1,5 jam setelah pesan?** Ini Pembatalan NON-INSTAN — Penjual WAJIB respons dalam 1x24 jam, kalau gak, otomatis dibatalkan setelah itu.
+3. **Member gak atur pengiriman sampai lewat batas waktu (misal 2 hari buat SPX Standard)?** Pesanan dibatalkan OTOMATIS oleh sistem (Pembatalan Otomatis) — ini yang mempengaruhi Tingkat Pesanan Tidak Terselesaikan.
+4. **Member udah atur pengiriman tapi paket belum diserahin ke kurir dalam 1 hari (GoSend Same Day)?** Dibatalkan OTOMATIS oleh sistem juga — beda skenario dari yang "belum atur pengiriman" tapi hasilnya sama.
+5. **Pembeli pesan 10 produk Rp100.000, Penjual mau batalkan yang senilai Rp60.000 karena stok habis?** TIDAK BISA pakai Pembatalan Sebagian — nilai yang dibatalkan (60%) MELEBIHI ambang 50% dari total pesanan.
+6. **Member minta Pembeli buat batalin pesanannya sendiri karena kehabisan stok?** JANGAN — ini pelanggaran Pelayanan Pembeli (kategori pembatalan terpisah dari Tingkat Pesanan Tidak Terselesaikan, tapi tetap kena sanksi).

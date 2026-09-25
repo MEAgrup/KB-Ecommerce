@@ -11,16 +11,17 @@ valid_as_of: 2026-06
 sources:
   - file: daftar-produk---mengupload-produk/meng-upload-daftar-produk.md
     bagian: "artikel penuh"
+related: [shp-produk-001, shp-produk-019, shp-produk-021, shp-produk-027]
 ---
 # Meng-upload Daftar Produk
 
 ## Ringkasan
-**Meng-upload Produk melalui Seller Centre**
+Panduan LENGKAP upload produk baru (Seller Centre & aplikasi Shopee): Informasi Produk (foto/video/nama/deskripsi/kategori), Spesifikasi (atribut wajib bertanda bintang), Informasi Penjualan (harga/stok/variasi/min-maks pembelian/grosir), Informasi Pengiriman (berat/ukuran/produk berbahaya/ongkir), dan Informasi Lainnya (asuransi/pre-order/kondisi/SKU/jadwal tampil/affiliate). Banyak fitur (Foto Produk Promosi, Min/Maks Jumlah Pembelian, 12 foto deskripsi) KHUSUS Penjual terpilih.
 
+## Kapan ini dipakai
+Entry RUJUKAN MASTER buat cara upload produk dari NOL, field per field. Dipakai kalau member nanya cara isi field spesifik saat upload (bukan edit produk yang udah ada — itu `shp-produk-021`/pengelolaan lain), atau angka batasan teknis (lihat `## Angka & patokan`). Buat upload massal, arahkan ke `shp-produk-001`. Buat tips kualitas listing, arahkan ke `shp-produk-019`. Buat kategori/atribut lebih detail, arahkan ke `shp-produk-027`.
 
-02-06-2026
-
-**Meng-upload Produk melalui Seller Centre**
+## Isi
 
 Berikut adalah langkah-langkah untuk meng-*upload* produk pertama Anda:
 
@@ -34,7 +35,7 @@ Bagian **Informasi Produk** terdiri dari:
 
   - **Foto Produk** (**Sampul** foto wajib)
   - **Foto Produk Promosi** (wajib)
-  - **\*\*Video Produk\*\***
+  - **Video Produk**
   - **Nama Produk** (wajib)
   - **Deskripsi Produk** (wajib)
   - **Kategori** (wajib)
@@ -68,7 +69,7 @@ Jika Anda pilih rasio **Foto 1:1**, maka foto produk pertama yang Anda *upload* 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Anda dapat menarik lebih banyak Pembeli dengan[ meng-*upload* foto berkualitas tinggi](https://seller.shopee.co.id/edu/article/350) dan[ meng-*upload* foto produk dengan rasio tampilan 3:4](https://seller.shopee.co.id/edu/article/17330) untuk menunjukkan produk dengan jelas.
   - Terus[ tingkatkan kualitas video pada produk Anda](https://seller.shopee.co.id/edu/article/6919) agar dapat tersinkronisasi secara otomatis ke Shopee Video.
@@ -79,7 +80,7 @@ Jika Anda pilih rasio **Foto 1:1**, maka foto produk pertama yang Anda *upload* 
 
 Memiliki nama produk yang relevan dan kategori yang tepat akan mempermudah Pembeli dalam menemukan produk Anda selama pencarian. Masukkan nama produk dan pilih kategori yang sesuai dengan produk Anda. Anda dapat melihat rekomendasi kategori berdasarkan foto produk dan nama produk yang Anda masukkan. Anda dapat mempelajari Pelajari lebih lanjut tentang[ cara memberikan nama produk yang terstruktur](https://seller.shopee.co.id/edu/article/1906).
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Jelajahi[ panduan kategori produk Shopee](https://seller.shopee.co.id/edu/category-guide/) dan cari tahu kategori yang cocok sesuai untuk produk Anda.
   - Anda dapat menerapkan ketentuan penamaan produk berikut:
@@ -98,7 +99,7 @@ Merek + Tipe dan Spesifikasi + Model.
 
 Memberikan deskripsi produk yang terperinci memungkinkan untuk mengurangi pertanyaan Pembeli dan dapat membantu Pembeli melakukan berbelanja dengan lebih percaya diri. Anda juga dapat menjelaskan manfaat terbaik produk Anda pada **Deskripsi Produk**. Pelajari[ cara menulis deskripsi produk yang informatif](https://seller.shopee.co.id/edu/article/1911).
 
-ð¡ **Tips**
+💡 **Tips**
 
 Deskripsi produk yang lengkap biasanya menuliskan spesifikasi, fitur, dan keuntungan produk untuk membantu Pembeli dalam melakukan pembelian. Pelajari lebih lanjut tentang[ Cara Meningkatkan Kualitas Daftar Produk](https://seller.shopee.co.id/edu/article/6924).
 
@@ -125,7 +126,7 @@ Pastikan informasi merek Anda telah sesuai saat meng-*upload* daftar produk. Apa
   
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pembeli sering memasukkan atribut dalam kata pencarian mereka. Mesin pencarian Shopee akan mencocokkan nama, kategori, atribut, dan informasi lain tentang produk untuk menunjukkan hasil pencarian yang paling relevan.
 
@@ -175,7 +176,7 @@ Jika produk Anda memiliki 2 jenis variasi, pilih **+ Tambah Variasi 2** untuk me
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Saat Anda pilih **Aktifkan Variasi** atau klik pada kotak tersebut, menu *dropdown* akan tampil. Menu ini berisi daftar nama variasi yang biasa dimasukkan oleh Penjual di Shopee. Memilih nama dari menu ini akan membantu produk Anda muncul di lebih banyak pencarian
 
@@ -273,7 +274,7 @@ Terdapat 2 Tipe Periode pada Maks. Jumlah Pembelian:
 
   
 
-  - **\*\*Tidak Berulang\*\***
+  - **Tidak Berulang**
 
 Anda hanya akan mengisi Tanggal Mulai dan Maks. Jumlah Pembelian produk untuk berapa hari. Sistem akan menghitung secara otomatis sejak tanggal mulai Maks. Jumlah Pembelian berlaku sampai batas waktu pembelian berakhir. Pengaturan ini hanya akan dijalankan sebanyak 1 kali.
 
@@ -287,7 +288,7 @@ Anda hanya akan mengisi Tanggal Mulai dan Maks. Jumlah Pembelian produk untuk be
 
   
 
-  - **\*\*Berulang\*\***
+  - **Berulang**
 
 Selain mengisi Tanggal Mulai dan Maks. Jumlah Pembelian produk untuk berapa hari, Anda juga akan mengisi Tanggal Berakhir. Sistem akan menghitung secara otomatis batas produk dan batas hari untuk Pembeli. Pengaturan ini dapat dijalankan berulang kali sampai Tanggal Berakhir yang Anda tentukan.
 
@@ -313,19 +314,19 @@ Selain mengisi Tanggal Mulai dan Maks. Jumlah Pembelian produk untuk berapa hari
 
 **Ketentuan Penggunaan Maks. Jumlah Pembelian**
 
-  - **\*\*Maks. Jumlah Pembelian dengan Tipe Per Pesanan\*\***
+  - **Maks. Jumlah Pembelian dengan Tipe Per Pesanan**
 
 Maks. Jumlah Pembelian hanya akan berlaku Per Pesanan. Jika Pembeli telah mencapai Maks. Jumlah Pembelian dalam 1 pesanan, maka pada pesanan berikutnya Pembeli masih tetap dapat membeli sesuai Maks. Jumlah Pembelian Per Pesanan.
 
   
 
-  - **\*\*Maks. Jumlah Pembelian dengan Tipe Per Periode\*\***
+  - **Maks. Jumlah Pembelian dengan Tipe Per Periode**
 
 Maks. Jumlah Pembelian tipe Per Periode hanya membolehkan Pembeli untuk membeli produk sejumlah Maks. Jumlah Pembelian dalam periode yang telah ditentukan, baik menggunakan tipe Tidak Berulang atau pun Berulang.
 
   
 
-  - **\*\*Maks. Jumlah Pembelian dengan Tipe Per Pesanan dalam Batas Pembelian pada masa Promosi\*\***
+  - **Maks. Jumlah Pembelian dengan Tipe Per Pesanan dalam Batas Pembelian pada masa Promosi**
 
 Jika Pembeli belum melebihi batas Maks. Jumlah Pembelian tetapi sudah melebihi batas pembelian pada masa promosi, maka Pembeli akan mendapatkan notifikasi bahwa **Jumlah produk melebihi batas pembelian**.
 
@@ -543,9 +544,9 @@ Anda dapat meng-*upload* foto dan video melalui aplikasi Shopee hingga 9 foto at
   
   
 
-***Upload*** **Foto**
+**Upload** **Foto**
 
-***Upload*** **Video**
+**Upload** **Video**
 
 Anda juga dapat meng-*upload* video di produk Anda jika Anda sudah menambahkan foto produk Anda terlebih dahulu.
 
@@ -697,11 +698,11 @@ Setelah Anda menambahkan produk, Anda bisa melihat semua daftar produk Anda mela
 
 **Melalui Seller Centre**
 
-Jika Anda melihat daftar produk melalui Seller Centre, Anda bisa memilih tampilan ***Grid*** atau **Daftar** untuk melihat semua produk yang telah terdaftar dalam halaman **Produk Saya**.
+Jika Anda melihat daftar produk melalui Seller Centre, Anda bisa memilih tampilan **Grid** atau **Daftar** untuk melihat semua produk yang telah terdaftar dalam halaman **Produk Saya**.
 
-Tampilan ***Grid*** memberikan Anda visual yang jelas dari daftar produk Anda dan foto utamanya.
+Tampilan **Grid** memberikan Anda visual yang jelas dari daftar produk Anda dan foto utamanya.
 
-Anda juga dapat mengatur jumlah produk yang ingin dilihat dalam satu halaman tampilan ***Grid***.
+Anda juga dapat mengatur jumlah produk yang ingin dilihat dalam satu halaman tampilan **Grid**.
 
   
 
@@ -725,4 +726,29 @@ Untuk melihat produk Anda yang sudah terdaftar dan mengetahui berapa kali produk
 **Aplikasi Shopee**
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Maks. foto produk (termasuk sampul) | 9 foto |
+| Maks. gambar di deskripsi (Penjual terpilih) | 12 gambar |
+| Durasi & resolusi video minimum buat auto-sync ke Shopee Video | min. 8 detik, resolusi min. 540×540 |
+| Maks. tipe variasi per produk | 2 tipe |
+| Maks. tingkatan harga grosir | 5 tingkat |
+| Formula berat volumetrik (Reguler/Hemat Kargo) | (P×L×T) / 6000 |
+| Ongkir khusus paket ringan (layanan Reguler) | di bawah 0,5kg, toleransi hingga 0,509kg |
+| Jadwal Ditampilkan — waktu tercepat | 1 jam dari waktu penjadwalan |
+| Jadwal Ditampilkan — maks. dijadwalkan di depan | 90 hari |
+| Masa pengemasan Pre-order | 3-30 hari kerja |
+| Asuransi Pengiriman — nilai ganti rugi | hingga 100% dari harga jual akhir (setelah diskon/promosi) |
+
+## Pertanyaan diagnosa
+
+1. **Member nanya kenapa fitur Min./Maks. Jumlah Pembelian atau Foto Produk Promosi gak muncul di akunnya?** Cek dulu — fitur-fitur ini KHUSUS Penjual terpilih, bukan tersedia buat semua Penjual.
+2. **Member bingung beda Berat Massa vs Berat Volumetrik buat ongkir?** Berat Massa = berat asli produk+kemasan; Berat Volumetrik = dihitung dari (P×L×T)/6000 (khusus Reguler/Hemat Kargo, biasanya buat barang besar-ringan). Jasa kirim pakai yang LEBIH TINGGI dari keduanya.
+3. **Member set harga tapi produk langsung diblokir sistem?** Kemungkinan kena "spam harga" — harga terlalu jauh dari harga pasaran (terlalu tinggi/rendah dibanding produk sejenis).
+4. **Member mau atur harga grosir tapi variasinya beda harga?** GAK BISA — semua variasi produk WAJIB harga sama dulu sebelum bisa set harga grosir.
+5. **Member set Maks. Jumlah Pembelian tipe "Per Periode" — Tidak Berulang vs Berulang bedanya apa?** Tidak Berulang = cuma jalan 1x dalam rentang tanggal yang diset; Berulang = siklusnya ulang terus sampai Tanggal Berakhir yang ditentukan (butuh isi Tanggal Berakhir).
+6. **Member jadwal produk tampil, kapan paling cepat/lama bisa dijadwalkan?** Paling cepat 1 jam dari sekarang, paling jauh 90 hari ke depan.
+7. **Member nanya soal Asuransi Pengiriman — berapa ganti ruginya kalau produk rusak/hilang?** Hingga 100% dari harga jual akhir (SETELAH dikurangi diskon/promosi Penjual, bukan harga awal) — cuma berlaku buat jasa kirim yang didukung Shopee.
+8. **Member upload produk kategori besar (bulky product), atribut apa yang wajib?** Wajib isi Dimensi (P×L×T) di Spesifikasi — ini kewajiban tambahan khusus kategori produk besar.
+9. **Member gak yakin harus pilih Template Dasar atau Kategori pas Mass Upload?** Itu di luar cakupan entry ini (upload satuan) — arahkan ke `shp-produk-001` buat panduan Mass Upload.

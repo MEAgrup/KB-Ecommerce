@@ -11,22 +11,27 @@ valid_as_of: 2025-06
 sources:
   - file: umum---akun-dan-keamanan/kendala-log-in-akun-shopee-dan-kode-verifikasi-otp.md
     bagian: "artikel penuh"
+related: [shp-akun-005, shp-akun-010]
 ---
 # Kendala Log In Akun Shopee dan Kode Verifikasi (OTP)
 
 ## Ringkasan
+6 penyebab gagal login: password salah, gagal verifikasi wajah, OTP kedaluwarsa, akun dibatasi, masalah teknis, atau password salah buat akun pihak ketiga (Google/Facebook/Apple). OTP dikirim via SMS/WhatsApp — kalau gak nerima, tunggu 15 menit sebelum minta ulang (maks. 5x/menit, 30x/hari), atau minta lewat panggilan telepon. Kalau masih gagal, hubungi CS dengan data lengkap (username, waktu, provider, dll).
+
+## Kapan ini dipakai
+Dipakai kalau member gagal login atau gak nerima OTP dan nanya penyebab/solusinya. Buat cara cek keaslian OTP, arahkan ke `shp-akun-005`; buat kenapa akun dibatasi, arahkan ke `shp-akun-010`.
+
+## Isi
+
 **Mengapa Saya Tidak Bisa Log In Akun Shopee?**
 
 
-12-06-2025
-
-**Mengapa Saya Tidak Bisa Log In Akun Shopee?**
 
 Upaya log in yang gagal ke akun Shopee Anda dapat terjadi karena alasan berikut:
 
   
 
-**1.** ***Password*** **salah**
+**1.** **Password** **salah**
 
 Pastikan *password* yang Anda masukkan benar. Jika Anda lupa *password*, pelajari[ cara mengganti password akun Shopee dan apa yang harus lakukan jika lupa password](https://seller.shopee.co.id/edu/article/3266).
 
@@ -73,7 +78,7 @@ Kesalahan log in terkadang dapat terjadi karena masalah teknis. Pastikan koneksi
 
   
 
-**6.** ***Password*** **salah untuk akun pihak ketiga**
+**6.** **Password** **salah untuk akun pihak ketiga**
 
 Apabila Anda telah mendaftarkan akun Shopee Anda melalui pihak ketiga, lakukan log in dengan layanan pihak ketiga sesuai pilihan (Contoh: Lanjutkan dengan Google, Lanjutkan dengan Facebook, atau Lanjutkan dengan Apple).
 
@@ -157,3 +162,20 @@ Apabila setelah semua langkah di atas telah Anda lakukan dan masih belum menerim
 ⚠️ **Catatan**
 
 Pelajari lebih lanjut terkait[ cara mengubah nomor handphone di aplikasi Shopee dan alasan nomor handphone tidak bisa diubah](https://seller.shopee.co.id/edu/article/3265).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu tunggu sebelum minta OTP ulang | 15 menit |
+| Batas permintaan OTP | maks. 5x/menit, 30x/hari |
+
+## Pertanyaan diagnosa
+
+1. **Member masukin OTP tapi ditolak terus, kenapa?** Cek waktu — OTP kadaluwarsa kalau dimasukkan di luar batas waktu yang ditentukan sistem; minta kode BARU, jangan pakai yang lama.
+2. **Member gak nerima OTP sama sekali, harus nunggu berapa lama sebelum coba lagi?** Tunggu 15 MENIT dulu sebelum minta ulang — batas maksimal permintaan adalah 5x/menit dan 30x/hari.
+3. **Member udah coba berkali-kali tapi tetap gak dapat OTP via SMS/WhatsApp?** Coba minta OTP lewat PANGGILAN TELEPON — tunggu hitungan mundur berakhir, pilih "Saya Tidak Menerima Kode Verifikasi (OTP)", lalu "Buat Panggilan Telepon".
+4. **Member login pakai Google/Facebook tapi disuruh masukin password?** Kemungkinan salah metode — kalau daftar via pihak ketiga, harus login pakai tombol "Lanjutkan dengan Google/Facebook/Apple" yang sama, bukan password akun Shopee biasa.
+5. **Member gagal verifikasi wajah pas login?** Pastikan pencahayaan terang + koneksi internet stabil — sistem cocokkan wajah dengan data saat verifikasi ShopeePay sebelumnya.
+6. **Member masih gagal login setelah semua langkah dicoba?** Arahkan lapor lewat formulir gagal log in, atau hubungi CS dengan data lengkap: username, waktu kendala, provider, halaman tempat minta OTP, no. HP, dan screenshot/screen record.
+7. **Member curiga akunnya dibatasi karena alasan keamanan, tapi gak pernah bagikan OTP/PIN ke siapapun?** Akun harusnya TETAP AMAN kalau gak pernah bagikan OTP/PIN — arahkan ajukan banding pemulihan akun atau hubungi Customer Service buat verifikasi lebih lanjut.

@@ -11,10 +11,18 @@ valid_as_of: 2025-09
 sources:
   - file: umum--mulai-berjualan/tentang-kebijakan-logo-banner-toko.md
     bagian: "artikel penuh"
+related: [shp-toko-010, shp-toko-025, shp-toko-032]
 ---
 # Tentang Kebijakan Logo & Banner Toko
 
 ## Ringkasan
+8 aturan larangan logo/banner toko: gambar milik Shopee, unsur yang bikin kesan afiliasi Shopee, elemen brand lain, nama/logo/link/kontak pribadi di luar Shopee, foto produk terlarang, konten vulgar/pornografi, produk dewasa penunjang seksual, unsur SARA. Pelanggaran = akun DIBATASI SEMENTARA sampai logo/banner diganti & disetujui ulang. Pengecualian: boleh pakai unsur Shopee buat ESTETIKA TAMBAHAN atau nunjukin keberadaan toko di Shopee (bukan sebagai logo UTAMA), atau materi promosi resmi yang emang dibagikan Shopee.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya batasan detail desain logo/banner toko, atau kenapa akunnya dibatasi karena logo. Buat penyalahgunaan LABEL Shopee (beda dari logo/banner toko), arahkan ke `shp-toko-010`; buat FAQ nama & logo toko ringkas, arahkan ke `shp-toko-025`; buat tips desain logo yang baik, arahkan ke `shp-toko-032`.
+
+## Isi
+
 ## Memahami Kebijakan Logo & Banner Toko Shopee
 
 
@@ -98,7 +106,7 @@ Anda dapat menggunakan gambar/unsur milik Shopee di logo dan *banner* toko tanpa
 
   
 
-**1. Mempercantik logo dan** ***banner*** **toko**
+**1. Mempercantik logo dan** **banner** **toko**
 
 Anda dapat menggunakan gambar/unsur milik Shopee dalam logo dan *banner* toko Anda untuk **menambah atau melengkapi estetika**, bukan sebagai logo toko utama.
 
@@ -133,5 +141,21 @@ dibatasi dan Anda dapat melanjutkan kegiatan bisnis seperti biasa.
 [Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) akan menghubungi Anda untuk menjelaskan dan membantu 
 
 Anda lebih lanjut dalam menyelesaikan masalah pelanggaran ini.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah aturan utama kebijakan logo & banner | 8 aturan |
+| Konsekuensi pelanggaran | pembatasan akun SEMENTARA (sampai logo/banner diganti & disetujui) |
+
+## Pertanyaan diagnosa
+
+1. **Member mau pakai logo Shopee di banner tokonya biar keliatan "toko resmi Shopee"?** DILARANG KERAS — ini pelanggaran aturan #1 & #2 sekaligus (pakai gambar milik Shopee + kesan afiliasi menyesatkan).
+2. **Member cantumin nomor WhatsApp di banner toko biar gampang dihubungi Pembeli?** DILARANG — aturan #4, gak boleh ada kontak pribadi (no. HP/WhatsApp/alamat/medsos) di logo/banner.
+3. **Akun member dibatasi karena logo, gimana cara pulihkannya?** Hapus/ganti logo yang melanggar dengan yang sesuai kebijakan → tunggu ditinjau & disetujui Shopee → akun otomatis gak dibatasi lagi. CS Shopee akan menghubungi buat bantu proses ini.
+4. **Member mau pakai unsur Shopee di banner buat mempercantik desain, boleh gak?** BOLEH, TAPI cuma sebagai ELEMEN TAMBAHAN estetika atau nunjukin keberadaan di Shopee — TIDAK BOLEH jadi logo/elemen UTAMA.
+5. **Member jual alat kesehatan dewasa yang punya izin edar resmi, boleh tampilkan di logo?** BOLEH — pengecualian khusus buat alat kesehatan dengan izin edar sah, beda dari larangan umum produk dewasa penunjang seksual.
+6. **Member pakai foto produk kompetitor/brand lain di banner toko buat perbandingan?** DILARANG — aturan #3, gak boleh ada elemen brand/merek lain apapun di logo/banner.
 
 ﻿

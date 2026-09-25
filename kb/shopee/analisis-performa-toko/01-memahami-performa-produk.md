@@ -11,18 +11,17 @@ valid_as_of: 2026-03
 sources:
   - file: analisis-data---analisis-performa-toko/memahami-performa-produk.md
     bagian: "artikel penuh"
+related: [shp-performa-003, shp-performa-005]
 ---
 # Memahami Performa Produk
 
 ## Ringkasan
-**Apa itu Performa Produk?**
+Dashboard **Performa Produk** (Seller Centre → Performa Toko → tab Produk) punya 4 bagian: Tinjauan Produk (tren + sumber kunjungan), Kunjungan Produk (breakdown per channel), Performa Produk (metrik detail per produk), dan Analisis Produk (kategori produk bermasalah + tips perbaikan).
 
+## Kapan ini dipakai
+Dipakai waktu member/mentor perlu tahu cara **membaca** dashboard performa produk buat jawab pertanyaan spesifik — kunjungan produk turun, konversi rendah, atau kenapa produk gak laku — bukan strategi jualan, tapi navigasi datanya dulu sebelum ambil keputusan.
 
-17-03-2026
-
-**Apa itu Performa Produk?**
-
-Data Performa Produk dalam Performa Toko membantu Anda memahami produk mana saja yang lebih diminati oleh Pembeli. Data ini memungkinkan Anda untuk:
+## Isi
 
 Untuk mengakses data Performa Produk, buka halaman **Performa Toko** melalui Seller Centre dan klik *tab* **Produk**.
 
@@ -47,7 +46,7 @@ Fitur pada halaman Tinjauan Produk:
   - **Sumber Kunjungan** menunjukkan informasi asal penjualan dan kontribusi produk melalui 4 *channel*.
   - **Produk** mengurutkan 10 produk teratas di tokomu berdasarkan metrik tertentu. Untuk melihat rincian performa, pilih **Lainnya** untuk diarahkan ke halaman Performa Produk.
 
-**ð¡Tips**
+**💡Tips**
 
   - Maksimalkan potensi produk unggulan Anda dengan beriklan di Shopee atau berikan penawaran khusus. Pelajari cara menggunakan[ fitur untuk meningkatkan konversi](https://seller.shopee.co.id/edu/courseDetail/62?lessonId=86).
   - Tingkatkan kunjungan produk dengan mempercantik halaman toko (seperti membuat *banner* toko dengan foto dan desain menarik yang sesuai dengan warna *brand* toko Anda) sebagai salah satu cara untuk mempromosikan toko dan produk Anda. Pelajari lebih lanjut mengenai[ Dekorasi Toko](https://seller.shopee.co.id/edu/article/7323).
@@ -64,9 +63,9 @@ Berikut adalah beberapa jenis produk bermasalah beserta dampak dan saran memperb
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*JENIS\*\* | \*\*DAMPAK\*\* | \*\*TIPS/SARAN\*\* |
+| **JENIS** | **DAMPAK** | **TIPS/SARAN** |
 | Penurunan Penjualan | Pesanan dan penjualan yang sedikit di toko | Tingkatkan daya tarik produk atau mempromosikannya melalui Pusat Promosi |
-| Ulasan Kurang Baik | Mengurangi penilaian keseluruhan toko | \*\*•\*\* Pastikan rincian dan foto produk telah sesuai/akurat\*\*•\*\* Lakuan pengecekan ulang sebelum pengemasan\*\*•\*\* Tingkatkan kualitas\[ pelayanan Pembeli\](https://seller.shopee.co.id/edu/article/6857/Tentang-Pelayanan-Pembeli) |
+| Ulasan Kurang Baik | Mengurangi penilaian keseluruhan toko | **•** Pastikan rincian dan foto produk telah sesuai/akurat**•** Lakuan pengecekan ulang sebelum pengemasan**•** Tingkatkan kualitas\[ pelayanan Pembeli\](https://seller.shopee.co.id/edu/article/6857/Tentang-Pelayanan-Pembeli) |
 | Tingkat Pengembalian Barang Tinggi | Pembeli menunggu lebih lama dari ekspektasi untuk menerima pesanan | Hindari stok produk habis, dahulukan pengemasan pesanan dengan batas waktu terdekat, dan pastikan Anda memiliki pegawai yang cukup untuk memenuhi pesanan |
 | Tingkat Pembatalan Penjualan Tinggi | Kehilangan peluang penghasilan dari pembatalan | Hindari stok produk habis, selalu kirim pesanan tepat waktu, dan aktifkan fitur Mode Libur jika Anda tidak dapat memenuhi pesanan untuk sementara |
 | Tingkat Konversi Kurang Baik | Pesanan dan penjualan yang sedikit di toko | Pastikan harga produk Anda kompetitif dan promosikan produk melalui Pusat Promosi |
@@ -82,15 +81,15 @@ Anda dapat memilih sampai 12 kriteria serta mengurutkan produk sesuai kriteria y
 
   
 
-1.  **\*\*Total Penjualan\*\***
+1.  **Total Penjualan**
 
 Terdapat 4 *channel* yaitu **Halaman Produk**, **Live Penjual**, **Vdeo Penjual**, dan **Affiliate**. Pilih salah satu *channel* untuk menampilkan rincian hasil penjualan di **Peringkat Produk**.
 
-1.  **\*\*Total Penjualan\*\***
+1.  **Total Penjualan**
 
 Pilih sampai 12 kriteria yang ingin Anda analisa.
 
-1.  **\*\*Peringkat Produk\*\***
+1.  **Peringkat Produk**
 
 Menunjukkan informasi produk sesuai dengan kriteria yang dipilih.
 
@@ -117,7 +116,7 @@ Pilih kriteria yang ingin Anda analisa.
 
 Menunjukkan produk sesuai dengan kriteria yang dipilih serta mengurutkan produk berdasarkan kriteria tertentu.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat menggunakan metrik performa produk di halaman **Produk Saya** untuk melihat data jangka pendek yang lebih sederhana.
 
@@ -145,7 +144,7 @@ Untuk meng-*download* data performa produk, pilih periode waktu yang ingin diana
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Direkomendasikan untuk menggunakan data 30 hari terakhir untuk tinjauan jangka pendek yang komprehensif.
 
@@ -153,7 +152,7 @@ Direkomendasikan untuk menggunakan data 30 hari terakhir untuk tinjauan jangka p
 
   
 
-**Menganalisis Tingkat Konversi dari data yang di-*****download***
+**Menganalisis Tingkat Konversi dari data yang di-**download**
 
 Data yang telah di-*download* berisi semua kritria dalam periode waktu yang dipilih.
 
@@ -163,7 +162,7 @@ Kunjungan yang tinggi menunjukkan bahwa Pembeli tertarik dengan produk Anda. Den
 
 Tingkat Konversi adalah jumlah Pembeli yang membayar pesanan dibagi dengan jumlah pengunjung selama periode waktu yang dipilih.
 
-**ð¡ Tips**
+**💡 Tips**
 
 Tingkat Konversi yang baik bervariasi, tergantung kategori produk dan dapat berkisar di antara 0 - 10%. Penjual yang penjualannya sukses sering menggunakan strategi terbaik untuk mencapai Tingkat Konversi yang lebih tinggi.
 
@@ -206,14 +205,30 @@ Pilih tipe analisis yang berbeda untuk melihat produk mana yang perlu ditingkatk
 
   
 
-1.  **\*\*Tipe Analisis Produk\*\***
+1.  **Tipe Analisis Produk**
 
 Pilih tipe analisis untuk melihat produk yang termasuk dalam tipe tersebut.
 
-1.  **\*\*Definisi dan Tips\*\***
+1.  **Definisi dan Tips**
 
 Menjelaskan masalah dan tips untuk meminimalisir masalah yang dipilih.
 
-1.  **\*\*Rincian Produk\*\***
+1.  **Rincian Produk**
 
 Menunjukkan semua produk yang sesuai dengan jenis masalah serta link untuk mengubah produk.
+
+## Angka & patokan
+
+| Patokan | Nilai | Sumber |
+|---|---|---|
+| Rentang Tingkat Konversi yang dianggap baik | 0–10% (bervariasi per kategori) | artikel resmi |
+| Maks. kriteria yang bisa dipilih di Kunjungan Produk | 12 | artikel resmi |
+| Maks. kriteria yang bisa dipilih di Performa Produk | 10 | artikel resmi |
+| Periode data yang direkomendasikan buat tinjauan jangka pendek | 30 hari terakhir | artikel resmi |
+
+## Pertanyaan diagnosa
+
+1. **Sudah cek tab Analisis Produk buat tau kategori masalahnya** (penurunan penjualan / ulasan kurang baik / return tinggi / pembatalan tinggi / konversi kurang baik / penurunan kunjungan)? Tiap kategori punya saran perbaikan beda.
+2. **Tingkat konversi "Tambah ke Keranjang" lebih tinggi dari "Pesanan Dibuat"?** Kalau iya, kemungkinan ongkirnya kemahalan — cek Promo Ongkir Toko.
+3. **Sudah dibandingkan data 30 hari ini vs 30 hari sebelumnya?** Angka satu periode doang gak cukup buat nentuin arah tren.
+4. **Produk yang kunjungannya tinggi tapi konversinya rendah — udah diprioritaskan buat dibenerin duluan** dibanding produk yang kunjungannya emang rendah?

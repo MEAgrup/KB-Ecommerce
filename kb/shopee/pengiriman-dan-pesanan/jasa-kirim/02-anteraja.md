@@ -11,18 +11,21 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/anteraja.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-026]
 ---
 # Anteraja
 
 ## Ringkasan
+Anteraja = jasa kirim didukung Shopee, 3 layanan (Reguler, Hemat Kargo/Cargo, Same Day), mendukung COD. Ongkir Anteraja Cargo: 3-30 kg dihitung FLAT 30 kg; >30 kg dihitung per kelipatan 5 kg (dibulatkan ke atas). Anteraja Reguler & Economy TIDAK layani pick-up hari Minggu. Layanan pick-up otomatis aktif/nonaktif berdasarkan evaluasi bulanan rata-rata pesanan bersih harian toko. 9 kategori produk dilarang dikirim (makanan segar/telur, uang & surat berharga, kartu kredit/debit, senjata, narkotika, hewan/tumbuhan hidup, dokumen penting perorangan, paket >Rp20.000.000) — makanan KERING dikecualikan (boleh).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail layanan, ongkir, syarat pick-up, atau daftar produk terlarang khusus jasa kirim Anteraja. Buat cara mengaktifkan/mengatur jasa kirim secara umum, arahkan ke `shp-pengiriman-026`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim Anteraja**
 
 
-05-08-2026
-
-**Jenis Layanan Jasa Kirim Anteraja**
-
-  
 
 Anteraja merupakan[ jasa kirim didukung Shopee](https://seller.shopee.co.id/edu/article/3384) yang menyediakan 3 layanan pengiriman yang dapat disesuaikan dengan kebutuhan operasional Anda yaitu Reguler, Hemat Kargo, dan Same Day. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
@@ -63,7 +66,7 @@ Untuk menjaga konsistensi layanan *pick up* pada pengiriman Anteraja Reguler & A
 
 Cara hitung rata-rata pesanan harian Anteraja Reguler & Anteraja Economy: 
 
-**ð Definisi**
+**📍 Definisi**
 
 **Jumlah pesanan bersih** adalah jumlah pesanan terbayar yang tidak termasuk:
 
@@ -72,7 +75,7 @@ Cara hitung rata-rata pesanan harian Anteraja Reguler & Anteraja Economy:
 
   
 
-**Ketentuan Layanan** ***Pick up*** **Anteraja**
+**Ketentuan Layanan** **Pick up** **Anteraja**
 
 Performa pesanan harian di toko Anda akan dievaluasi setiap bulan. Jika toko Anda belum memiliki layanan *pick up* dan telah memenuhi kriteria yang ditentukan, maka layanan *pick up* akan otomatis tersedia pada akun Anda di minggu pertama bulan berikutnya.
 
@@ -134,7 +137,7 @@ Contoh:
 Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kirim Anteraja:
 
 1.  Makanan\* & minuman
-2.  Telur\*\*
+2.  Telur**
 3.  Uang tunai, cek/giro, cek perjalanan, emas batangan dan perhiasan, sertifikat saham, dan surat berharga lainnya
 4.  Kartu kredit, kartu debit, dan kartu ATM
 5.  Senjata api/tajam
@@ -148,7 +151,7 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
 **⚠️Catatan**
 
   - \*Makanan kering seperti biskuit, makanan hewan, atau makanan kering lainnya **diperbolehkan** menggunakan semua layanan pengiriman Anteraja.
-  - \*\*Telur termasuk produk segar yang **tidak diperbolehkan** dikirim menggunakan semua layanan pengiriman Anteraja. Pelajari lebih lanjut terkait[ Mengelola Daftar Produk yang Mudah Rusak](https://seller.shopee.co.id/edu/article/8345).
+  - **Telur termasuk produk segar yang **tidak diperbolehkan** dikirim menggunakan semua layanan pengiriman Anteraja. Pelajari lebih lanjut terkait[ Mengelola Daftar Produk yang Mudah Rusak](https://seller.shopee.co.id/edu/article/8345).
   - Pastikan Anda tidak menjual[ Produk yang Dilarang dan/atau Dibatasi sesuai kebijakan Shopee](https://seller.shopee.co.id/edu/article/6843).
   - Shopee berhak sewaktu-waktu mengubah atau menambahkan daftar produk yang tidak diperbolehkan dikirim sesuai kebijakan dari Anteraja.
 
@@ -166,4 +169,27 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Apabila terdapat pengajuan pengembalian barang/dana, pelajari lebih lanjut terkait[ FAQ Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/article/17055/faq-pengembalian-barang-dan-dana)
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah layanan Anteraja | 3: Reguler, Hemat Kargo (Cargo), Same Day |
+| Ongkir Cargo berat 3-30 kg | flat, dihitung sebagai 30 kg |
+| Ongkir Cargo berat >30 kg | per kelipatan 5 kg (dibulatkan ke atas) |
+| Contoh ongkir Jakarta-Bandung (3-30kg) | Rp20.000 |
+| Contoh ongkir Jakarta-Bandung (per 5kg tambahan >30kg) | Rp10.000 |
+| Hari pick-up Reguler & Economy | Senin-Sabtu (TIDAK layani Minggu) |
+| Evaluasi kriteria layanan pick-up | bulanan, berdasar rata-rata pesanan bersih harian |
+| Jumlah kategori produk dilarang | 9 kategori |
+| Batas nilai maks. paket individu | Rp20.000.000 |
+
+## Pertanyaan diagnosa
+
+1. **Member mau kirim paket 35 kg pakai Anteraja Cargo, berapa ongkirnya?** Dihitung per kelipatan 5 kg dibulatkan ke atas di atas 30 kg — jadi 35 kg = base 30kg + 1 kelipatan 5kg tambahan.
+2. **Member coba drop-off Sabtu tapi minta pick-up hari Minggu, kenapa gak bisa?** Anteraja Reguler & Economy TIDAK melayani pick-up di hari Minggu — kalau butuh kirim di hari itu, pakai opsi drop-off ke agen/counter terdekat.
+3. **Member kirim telur/makanan segar pakai Anteraja, ditolak kenapa?** Telur & produk segar termasuk dalam daftar produk yang TIDAK boleh dikirim semua layanan Anteraja — beda dengan makanan KERING (biskuit dll.) yang boleh.
+4. **Toko member gak ada opsi pick-up Anteraja padahal volume pesanan udah tinggi?** Layanan pick-up aktif otomatis kalau kriteria rata-rata pesanan bersih harian terpenuhi dalam evaluasi bulanan — kalau belum tercapai, tetap bisa kirim via drop-off ke counter Anteraja.
+5. **Toko member kehilangan akses pick-up Anteraja yang sebelumnya aktif?** Kemungkinan rata-rata pesanan bersih harian gak memenuhi kriteria minimal selama 1 bulan berturut-turut — layanan pick-up ditinjau ulang dan bisa dinonaktifkan.
+6. **Member mau kirim paket senilai Rp25 juta pakai Anteraja?** GAK BISA — batas maks. nilai paket individu buat Anteraja adalah Rp20.000.000.
+
+## Batasan
+Bagian "Area Jangkauan Pengiriman/Pembayaran COD dengan Anteraja" (per layanan: Reguler, Economy, Cargo, Sameday) merujuk ke tabel/gambar daftar kota/wilayah yang TIDAK tersalin dalam scraping teks — cuma judul section yang ada. Begitu juga contoh ilustrasi kriteria pick-up (rata-rata pesanan harian). Jangan karang daftar wilayah/angka kriteria tersebut — arahkan member cek Seller Centre atau artikel sumber asli buat detail area jangkauan & kriteria pick-up spesifik.

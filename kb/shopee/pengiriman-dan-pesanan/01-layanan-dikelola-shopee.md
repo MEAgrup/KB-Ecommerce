@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: pp---dikelola-shopee/layanan-dikelola-shopee.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-047, shp-akun-010]
 ---
 # Layanan Dikelola Shopee
 
 ## Ringkasan
+Dikelola Shopee = layanan fulfillment penuh (10 Gudang Shopee, produk dikemas dalam 24 jam) — WAJIB nominasikan produk dulu, layanan cuma berlaku buat produk yang dinominasikan (produk lain tetap diproses Penjual sendiri). Syarat toko: aktif 7 hari terakhir + rata-rata ≥50 pesanan/hari + terdaftar min. 3 bulan. Biaya layanan ditagih BULANAN via invoice (potong Saldo Penjual), BEDA dari biaya administrasi per-pesanan biasa. Berhenti dari layanan via email sbs.support@shopee.com.
+
+## Kapan ini dipakai
+Dipakai kalau member (brand/toko besar) nanya syarat/cara ikut Dikelola Shopee, cara hitung biaya, atau cara ambil stok dari gudang. Buat Kebijakan Pemenuhan Pesanan Shopee secara umum, arahkan ke `shp-pengiriman-047`; buat kenapa akun dibatasi (termasuk kontrak Dikelola Shopee dilanggar), arahkan ke `shp-akun-010`.
+
+## Isi
+
 **Apa itu Dikelola Shopee?**
 
 
-13-07-2026
-
-**Apa itu Dikelola Shopee?**
 
 Dikelola Shopee adalah layanan yang disediakan Shopee untuk membantu Penjual dalam memproses pesanan serta menjual barang langsung melalui Shopee. Layanan ini membantu *brand* dan Penjual untuk memperluas jangkauan di berbagai area di Indonesia.
 
@@ -42,7 +47,7 @@ Layanan ini hanya berlaku untuk **produk yang dinominasikan sebagai produk Dikel
 
 **Keuntungan Mengikuti Layanan Dikelola Shopee**
 
-Penjual yang menggunakan layanan Dikelola Shopee mengalami rata-rata kenaikan penjualan sebesar **22%\*** setelah bergabung.
+Penjual yang menggunakan layanan Dikelola Shopee mengalami rata-rata kenaikan performa toko (lihat tabel Angka & patokan buat angkanya) setelah bergabung.
 
   
 
@@ -158,14 +163,14 @@ Untuk menentukan biaya layanan yang didapatkan, Anda perlu mengisi formulir pend
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
-  - **Biaya** ***inbound***: biaya penanganan produk yang masuk ke Gudang Shopee.
-  - **Produk** ***virtual bundling***: Penggabungan beberapa produk yang berbeda atau satu produk yang sama dengan jumlah \>1 buah untuk dijual di *link* produk yang sama. Penggabungan dilakukan secara virtual melalui sistem internal Shopee atau Seller Centre tanpa perlu melakukan penggabungan fisik di Gudang Shopee.
-  - ***Return to Seller (RTS)***: Proses penarikan stok dari gudang Dikelola Shopee untuk dikembalikan ke Penjual.
-  - **RTS** ***Reinbound***: Proses penarikan stok dari gudang Dikelola Shopee yang selanjutnya diikuti dengan memasukkan kembali stok tersebut ke gudang Dikelola Shopee.
-  - ***Bundling****:* Menggabungkan beberapa produk dengan lakban bening.
-  - ***Repacking***: Mengemas kembali produk dengan *pouch.*
+  - **Biaya** **inbound**: biaya penanganan produk yang masuk ke Gudang Shopee.
+  - **Produk** **virtual bundling**: Penggabungan beberapa produk yang berbeda atau satu produk yang sama dengan jumlah \>1 buah untuk dijual di *link* produk yang sama. Penggabungan dilakukan secara virtual melalui sistem internal Shopee atau Seller Centre tanpa perlu melakukan penggabungan fisik di Gudang Shopee.
+  - **Return to Seller (RTS)**: Proses penarikan stok dari gudang Dikelola Shopee untuk dikembalikan ke Penjual.
+  - **RTS** **Reinbound**: Proses penarikan stok dari gudang Dikelola Shopee yang selanjutnya diikuti dengan memasukkan kembali stok tersebut ke gudang Dikelola Shopee.
+  - **Bundling**:* Menggabungkan beberapa produk dengan lakban bening.
+  - **Repacking**: Mengemas kembali produk dengan *pouch.*
 
   
 
@@ -266,7 +271,7 @@ Pembayaran invoice dilakukan dengan memotong Saldo Penjual sesuai dengan jumlah 
 
   
 
-**3. Bagaimana biaya pengemasan untuk produk** ***bundling*** **dihitung?**
+**3. Bagaimana biaya pengemasan untuk produk** **bundling** **dihitung?**
 
 Biaya pengemasan akan mengikuti bentuk produk saat *inbound* ke Gudang Shopee.
 
@@ -294,3 +299,29 @@ Selain itu, Anda juga dapat export file data pesanan melalui menu **Pesanan Saya
 **6. Apakah stok di Gudang Shopee dapat terhubung dengan sistem stok yang saya gunakan?**
 
 Ya, bisa. Melalui Open API Shopee, Penjual dapat mengintegrasikan sistem stok yang dimiliki dengan Seller Centre. Dengan demikian, data stok toko dan stok yang tersimpan di Gudang Shopee dapat dibaca dan dikelola melalui sistem Penjual.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah Gudang Shopee | 10 kota (Balikpapan, Bogor, Denpasar, Jakarta, Makassar, Medan, Palembang, Pekanbaru, Semarang, Surabaya) |
+| Rata-rata kenaikan performa Penjual setelah bergabung* | 22% (*berdasarkan performa Penjual dengan stok di beberapa kota, periode Jan–Mar 2026, bukan jaminan hasil buat semua toko) |
+| Percepatan waktu pengiriman* | hingga 22% lebih cepat (basis data sama seperti di atas) |
+| Waktu pengemasan produk | dalam 24 jam |
+| Syarat rata-rata pesanan/hari | min. 50 pesanan/hari |
+| Syarat lama toko terdaftar | min. 3 bulan sebelum daftar |
+| Waktu respons Shopee setelah daftar | paling lambat 3 hari kerja |
+| Batas waktu ajukan ambil stok dari gudang | paling lambat 7 hari kerja sebelum waktu pengambilan |
+| Jeda kirim ulang stok yang udah diambil | 1 bulan |
+| Tanggal berlaku biaya Lampiran 1 | mulai 1 Maret 2026 |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau syarat ikut Dikelola Shopee?** Toko wajib aktif 7 hari terakhir, rata-rata ≥50 pesanan/hari, terdaftar min. 3 bulan, dan produknya bukan kategori terlarang/palsu/custom.
+2. **Member Dikelola Shopee bingung kenapa biaya bulanan ini beda dari potongan per pesanan biasa?** Memang beda mekanisme — biaya layanan Dikelola Shopee diakumulasi & ditagih BULANAN via invoice (potong Saldo Penjual), BUKAN dipotong langsung per pesanan seperti biaya administrasi biasa.
+3. **Member mau ambil stok dari gudang Shopee besok, bisa?** TIDAK BISA MENDADAK — pengajuan ambil stok wajib diajukan paling lambat 7 hari kerja sebelum waktu pengambilan.
+4. **Member ambil stok dari gudang, mau kirim balik minggu depan?** TIDAK BISA — ada jeda WAJIB 1 bulan sebelum barang yang diambil bisa dikirim kembali ke gudang Shopee.
+5. **Member punya gudang sendiri TAPI juga ikut Dikelola Shopee, gimana pesanan dibagi?** Otomatis via *partial fulfillment* — sistem pilih lokasi dengan ongkos kirim LEBIH RENDAH buat tiap pesanan (bisa dari Gudang Shopee atau gudang Penjual sendiri).
+6. **Member mau bedain pesanan mana yang diproses Gudang Shopee vs gudang sendiri?** Cek status "Diproses oleh Shopee"/"Diproses oleh Penjual" di menu Pesanan Saya, atau export data & cek kolom "Dikelola Shopee" (Yes/No).
+7. **Member baru daftar Dikelola Shopee, kapan dapat kabar diterima/tidak?** Paling lambat 3 hari kerja setelah pendaftaran, kalau memenuhi syarat.
+8. **Member produk bundling, gimana hitung biaya pengemasannya?** Ikutin bentuk fisik saat inbound ke gudang — kalau diterima per pcs, dihitung per pcs; kalau diterima dalam bentuk bundle, dihitung per bundle.

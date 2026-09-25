@@ -11,18 +11,19 @@ valid_as_of: 2026-07
 sources:
   - file: mj---iklan-eksternal-shopee/iklan-meta-cpas.md
     bagian: "artikel penuh"
+related: [shp-iklan-002]
 ---
 # Iklan Meta CPAS
 
 ## Ringkasan
-**Apa itu Iklan Meta CPAS?**
+Iklan Meta CPAS = integrasi katalog Shopee ke Feed Facebook/Instagram (Iklan Meta CPAS) atau ke Live Facebook (Iklan Live Facebook CPAS, arahkan Penonton Live checkout ke Shopee). Ada insentif voucher sama seperti Iklan Google (Pengguna Baru: hingga Rp4,5jt, min. pakai Rp5jt; Pengguna Lama: hingga 75% pemakaian) — KHUSUS Penjual yang diundang Shopee. Panduan Live Facebook CPAS SANGAT teknis (setup Meta Ads Manager, Stream Key, Product List maks. 100 produk, dll) — lihat `## Isi` buat langkah detail.
 
+## Kapan ini dipakai
+Dipakai buat panduan TEKNIS setup Iklan Meta CPAS (Feed atau Live), termasuk insentif & spesifikasi banner/video. Buat FAQ umum (biaya, saldo, troubleshoot performa), arahkan ke `shp-iklan-002` yang lebih komprehensif.
 
-28-07-2026
+## Isi
 
-**Apa itu Iklan Meta CPAS?**
-
-Meta Collaborative Ads (CPAS) merupakan bentuk kolaborasi Shopee dengan Meta yang membantu menarik *traffic* Pembeli baru dari luar ekosistem Shopee melalui penayangan iklan di luar aplikasi Shopee dengan mengintegrasikan katalog produk Anda langsung ke media sosial.
+Iklan Meta CPAS memiliki 2 format iklan yang dapat Anda maksimalkan, yaitu **Iklan Meta CPAS** dan **Iklan Live Facebook**.
 
   
 
@@ -30,11 +31,11 @@ Iklan Meta CPAS memiliki 2 format iklan yang dapat Anda maksimalkan, yaitu **Ikl
 
 |  |  |  |
 | :-: | :-: | :-: |
-|   | \*\*IKLAN META CPAS\*\* | \*\*IKLAN LIVE FACEBOOK\*\* |
-| \*\*DEFINISI\*\* | Menampilkan produk Anda di Shopee pada Feed Facebook dan Instagram untuk mengarahkan Pembeli ke halaman produk atau toko Anda di Shopee. | Meningkatkan interaksi di Live Facebook dengan menampilkan katalog produk Shopee Anda, sehingga mendorong pembelian selama Livestream. |
-| \*\*PENAYANGAN IKLAN\*\*  | Feed Facebook | Live Facebook﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿  |
+|   | **IKLAN META CPAS** | **IKLAN LIVE FACEBOOK** |
+| **DEFINISI** | Menampilkan produk Anda di Shopee pada Feed Facebook dan Instagram untuk mengarahkan Pembeli ke halaman produk atau toko Anda di Shopee. | Meningkatkan interaksi di Live Facebook dengan menampilkan katalog produk Shopee Anda, sehingga mendorong pembelian selama Livestream. |
+| **PENAYANGAN IKLAN**  | Feed Facebook | Live Facebook﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿  |
 | Feed Instagram |  |  |
-| \*\*CARA AKSES\*\* | Melalui Seller Centre dan Ads Manager | Melalui Ads Manager |
+| **CARA AKSES** | Melalui Seller Centre dan Ads Manager | Melalui Ads Manager |
 
   
 
@@ -53,11 +54,11 @@ Meta Collaborative Ads (CPAS) membantu Penjual Shopee menjangkau lebih banyak Pe
 
 Insentif Iklan Meta CPAS
 
-  - **\*\*Pengguna baru Iklan Meta CPAS\*\***
+  - **Pengguna baru Iklan Meta CPAS**
 
 Bagi pengguna baru Iklan Meta CPAS bisa mendapatkan voucher toko hingga Rp4.500.000 dengan pemakaian iklan Meta CPAS min. Rp5.000.000 pada kampanye pertama selama periode program.
 
-  - **\*\*Pengguna lama iklan Meta CPAS\*\***
+  - **Pengguna lama iklan Meta CPAS**
 
 Pengguna lama Iklan Meta CPAS berkesempatan mendapat voucher toko hingga 75% dari total pemakaian Iklan Meta CPAS selama periode insentif apabila berhasil memenuhi target yang ditentukan untuk toko Anda selama periode program.
 
@@ -92,7 +93,7 @@ Anda dapat membuat akun setidaknya 14 hari kalender sebelum menjalankan Iklan Me
 
   
 
-ð¡ **Tips** 
+💡 **Tips** 
 
 Disarankan hanya memilih salah satu cara untuk menggunakan Iklan Meta CPAS agar hasil iklan lebih optimal.
 
@@ -118,7 +119,7 @@ Untuk mendapatkan performa iklan yang lebih optimal, disarankan:
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Menu **Pratinjau** menunjukkan bagaimana iklan Anda akan muncul di Facebook dan Instagram, pastikan nama produk akurat untuk memberikan informasi jelas ke Pembeli. Pelajari[ Cara Meningkatkan Kualitas Daftar Produk](https://seller.shopee.co.id/edu/article/6924) untuk membantu meningkatkan *exposure* produk.
 
@@ -141,12 +142,12 @@ Berikut ketentuan untuk gambar/video Banner Iklan Collection:
 
 |  |  |  |
 | :-: | :-: | :-: |
-|   | \*\*GAMBAR\*\* | \*\*VIDEO\*\* |
-| \*\*TIPE\*\* | JPG/PNG | MP4, MOV, GIF |
-| \*\*RASIO\*\* | 1:1 | 1:1 |
-| \*\*RESOLUSI\*\* | Min. 1080x1080px | Min. 1080x1080px |
-| \*\*UKURAN\*\* | Maks. 30 MB | Maks. 30 MB |
-| \*\*DURASI\*\* | \\- | 1-15 Detik |
+|   | **GAMBAR** | **VIDEO** |
+| **TIPE** | JPG/PNG | MP4, MOV, GIF |
+| **RASIO** | 1:1 | 1:1 |
+| **RESOLUSI** | Min. 1080x1080px | Min. 1080x1080px |
+| **UKURAN** | Maks. 30 MB | Maks. 30 MB |
+| **DURASI** | \\- | 1-15 Detik |
 
   
 
@@ -198,7 +199,7 @@ Tautkan katalog Shopee ke Meta agar produk Anda dapat ditampilkan saat Livestrea
 
 a. Buka email katalog Live Facebook CPAS dari akun Meta, lalu pilih[ Go to Ads Manager](https://business.facebook.com/business/loginpage/?login_options[0]=FB&login_options[1]=IG&login_options[2]=SSO&config_ref=biz_login_tool_flavor_mbs&create_business_portfolio_for_bm=1) untuk memulai.
 
-b. Pada ***Business Ads Manager*** di kiri atas, pilih **Business settings**.
+b. Pada **Business Ads Manager** di kiri atas, pilih **Business settings**.
 
 c. Selanjutnya pilih menu **Data Source** dan pilih **Catalogues**.
 
@@ -232,7 +233,7 @@ e. Pilih **Save** setelah menambahkan produk untuk proses sinkronisasi katalog
 
   
 
-Anda juga dapat atur Livestream serentak di Shopee & Live Facebook, gunakan 2 ponsel atau *software* Livestream (OBS). Apabila menggunakan program Livestream, Masukkan ***Stream Key*** Shopee & Facebook (Shopee *Stream Key* terdapat pada halaman Livestream Management).
+Anda juga dapat atur Livestream serentak di Shopee & Live Facebook, gunakan 2 ponsel atau *software* Livestream (OBS). Apabila menggunakan program Livestream, Masukkan **Stream Key** Shopee & Facebook (Shopee *Stream Key* terdapat pada halaman Livestream Management).
 
   
 
@@ -290,7 +291,7 @@ c. Tombol **Go Live** harus ditekan dari video yang sama. Jika terlambat lebih d
 
   
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Berikut beberapa tips pengaturan Live Facebook melalui Ads Manager yang dapat membantu Anda dalam mengoptimalkan performa iklan dan memastikan sesi Livestream berjalan lebih efektif sesuai dengan tujuan kampanye.
 
@@ -298,10 +299,42 @@ Berikut beberapa tips pengaturan Live Facebook melalui Ads Manager yang dapat me
 
 |  |  |
 | :-: | :-: |
-| \*\*PENGATURAN LIVE FACEBOOK\*\* | \*\*DEFINISI\*\* |
-| \*\*\*Setting Campaign\*\*\* | Buat kampanye baru untuk setiap Facebook Live |
-| \*\*\*Budget\*\*\* | Tetapkan \*\*\*Lifetime Budget\*\*\* di level \*\*\*Ad Set\*\*\*, dan \*\*\*Highest Volume\*\*\* sebagai strategi \*bid\* kampanye. |
-| \*\*Jadwal\*\* \*\*\*Campaign\*\*\* | \\- Tentukan \*\*durasi iklan\*\* & \*\*waktu berakhir\*\*.\\- Lakukan livestream \*\*min. 2 jam\*\* dan \*\*maks. 8 jam\*\*. Durasi yang lebih singkat atau terlalu panjang berisiko menyebabkan iklan tidak optimal.\\- Pertimbangkan memulai livestream \*\*sedikit lebih awal\*\*, gunakan \*\*\*countdown timer\*\*\* atau \*\*video\*\* \*\*\*teaser\*\*\* untuk membangun antisipasi. |
-| \*\*\*Delivery\*\*\* | Gunakan \*\*\*standard delivery\*\*\* tanpa mengaktifkan \*\*\*Acceleration\*\*\* untuk penayangan iklan yang lebih baik. |
-| \*\*\*Audience Targeting\*\*\* | Gunakan \*\*target audiens dan\*\* \*\*\*placement\*\*\* \*\*yang lebih luas\*\* untuk mendukung performa iklan dan menghindari pembatasan jangkauan \*audiens\* secara berlebihan. (\*\*\*Custom Audience\*\*\* \*dari engagement video sebelumnya dapat diterapkan sebagai rekomendasi untuk target audience yang lebih spesifik.\*) |
-| \*\*Pengaturan\*\* \*\*\*Viewers\*\*\* | \*\*Jangan mengaktifkan opsi Rewind\*\* untuk mengoptimalkan waktu peninjauan iklan. |
+| **PENGATURAN LIVE FACEBOOK** | **DEFINISI** |
+| **\*Setting Campaign**\* | Buat kampanye baru untuk setiap Facebook Live |
+| **\*Budget**\* | Tetapkan **\*Lifetime Budget**\* di level **\*Ad Set**\*, dan **\*Highest Volume**\* sebagai strategi \*bid\* kampanye. |
+| **Jadwal** **\*Campaign**\* | \\- Tentukan **durasi iklan** & **waktu berakhir**.\\- Lakukan livestream **min. 2 jam** dan **maks. 8 jam**. Durasi yang lebih singkat atau terlalu panjang berisiko menyebabkan iklan tidak optimal.\\- Pertimbangkan memulai livestream **sedikit lebih awal**, gunakan **\*countdown timer**\* atau **video** **\*teaser**\* untuk membangun antisipasi. |
+| **\*Delivery**\* | Gunakan **\*standard delivery**\* tanpa mengaktifkan **\*Acceleration**\* untuk penayangan iklan yang lebih baik. |
+| **\*Audience Targeting**\* | Gunakan **target audiens dan** **\*placement**\* **yang lebih luas** untuk mendukung performa iklan dan menghindari pembatasan jangkauan \*audiens\* secara berlebihan. (**\*Custom Audience**\* \*dari engagement video sebelumnya dapat diterapkan sebagai rekomendasi untuk target audience yang lebih spesifik.\*) |
+| **Pengaturan** **\*Viewers**\* | **Jangan mengaktifkan opsi Rewind** untuk mengoptimalkan waktu peninjauan iklan. |
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Insentif Pengguna Baru — voucher toko | hingga Rp4.500.000, min. pemakaian Rp5.000.000 |
+| Insentif Pengguna Lama — voucher toko | hingga 75% dari total pemakaian (syarat target tercapai) |
+| Syarat "Pengguna Baru" | Shopee Mall, belum pakai Meta CPAS 6 bulan terakhir |
+| Syarat "Pengguna Lama" | ada pengeluaran iklan di 90 hari terakhir |
+| Voucher insentif diberikan | 1 minggu setelah periode program berakhir |
+| Waktu proses akun (jalur Seller Centre) | ~15 menit setelah klik Memulai |
+| Waktu buat akun sebelum kampanye pertama | min. 14 hari kalender sebelumnya |
+| Dana harian minimum | Rp144.000 |
+| Durasi kampanye minimum | min. 3 hari |
+| Durasi iklan yang direkomendasikan | min. 14 hari kalender |
+| Min. produk kalau pilih "Pilih produk tertentu" | min. 5 produk |
+| Update produk di Seller Centre → muncul di iklan | keesokan hari |
+| Format banner — gambar | JPG/PNG, rasio 1:1, min. 1080×1080px, maks. 30 MB |
+| Format banner — video | MP4/MOV/GIF, rasio 1:1, min. 1080×1080px, maks. 30 MB, durasi 1-15 detik |
+| Maks. produk di Product List Live Facebook | maks. 100 produk |
+| Durasi Livestream ideal (Live Facebook CPAS) | min. 2 jam, maks. 8 jam |
+| Batas telat tekan "Go Live" (kampanye terjadwal) | lebih dari 10 menit → harus bikin kampanye baru |
+
+## Pertanyaan diagnosa
+
+1. **Member bingung pilih Iklan Meta CPAS atau Iklan Live Facebook CPAS?** Feed CPAS = produk tampil di Feed Facebook/Instagram, arahkan ke halaman produk/toko. Live Facebook CPAS = khusus buat dorong checkout PAS Livestream Facebook lagi jalan.
+2. **Member iklan setelah diarsipkan, mau aktifkan lagi?** GAK BISA — begitu diarsipkan, iklan gak bisa diaktifkan kembali (beda dari status "Dijeda" yang masih bisa diaktifkan ulang).
+3. **Member setup Live Facebook CPAS terjadwal, tapi telat tekan "Go Live"?** Kalau telat LEBIH dari 10 menit dari jadwal, kampanye itu gak bisa dipakai lagi — harus bikin kampanye BARU dari awal.
+4. **Member livestream cuma 1 jam atau sampai 10 jam buat Live Facebook CPAS?** Kurang optimal — durasi ideal MIN. 2 jam, MAKS. 8 jam; di luar rentang itu berisiko bikin iklan gak optimal.
+5. **Member pakai kedua jalur (Seller Centre DAN Meta Ads Manager) sekaligus?** TIDAK disarankan — pilih salah satu aja biar hasil iklan lebih optimal, jangan dobel.
+6. **Member Non-Mall mau klaim insentif Pengguna Baru?** TIDAK BISA — sama seperti Iklan Google, insentif Pengguna Baru KHUSUS Shopee Mall yang belum pernah pakai 6 bulan terakhir, dan hanya berlaku buat yang DIUNDANG Shopee.
+7. **Member gak punya gambar/video buat Banner Iklan Collection?** Gak masalah — sistem otomatis bikin video dari gambar produk yang udah ada di toko kalau member gak upload sendiri.

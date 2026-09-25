@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: umum---akun-dan-keamanan/proses-verifikasi-data-identitas-toko.md
     bagian: "artikel penuh"
+related: [shp-toko-018]
 ---
 # Proses Verifikasi Data Identitas Toko
 
 ## Ringkasan
+Verifikasi WAJIB pakai KTP (individu) atau NIB (Badan Usaha PT/CV) — nama rekening bank HARUS sama dengan nama identitas (Kebijakan Validasi Nama Rekening Bank). Verifikasi awal dikonfirmasi maks. 3-5 hari kerja; PERUBAHAN data identitas ditinjau 3 hari kerja (gak termasuk Sabtu/Minggu/libur nasional), maks. 2x/TAHUN setelah disetujui. Nambah/ubah rekening bank atau data identitas BISA bikin penarikan Saldo Penjual dibatasi sementara (langkah keamanan).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara verifikasi identitas toko, cara ganti KTP ke data perusahaan (atau sebaliknya), atau kenapa penarikan saldo dibatasi setelah ganti data. Buat jumlah toko yang bisa dimiliki, arahkan ke `shp-toko-018`.
+
+## Isi
+
 **Verifikasi Data Identitas Toko**
 
 
-22-07-2026
-
-**Verifikasi Data Identitas Toko**
 
 Verifikasi Data Identitas Toko adalah proses verifikasi akun toko menggunakan Kartu Tanda Penduduk (KTP) untuk akun milik individu atau NIB (Nomor Induk Berusaha) untuk akun milik Badan Usaha (PT/CV).
 
@@ -40,12 +45,12 @@ Shopee mewajibkan pemilik akun yang ingin membuka/sudah memiliki toko di Shopee 
 
 1\. Lakukan Verifikasi Data Identitas Toko dengan menggunakan dokumen identitas sesuai dengan pemilik akun (Individu/Badan Usaha). Proses verifikasi dilakukan melalui aplikasi Shopee atau aplikasi Shopee Seller Centre dan dapat diakses melalui:
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
   
 
-  - **\*\*Aplikasi Shopee\*\***  
-      - **\*\*Individu\*\***
+  - **Aplikasi Shopee**  
+      - **Individu**
 
 ⚠️ **Catatan**
 
@@ -54,7 +59,7 @@ Shopee mewajibkan pemilik akun yang ingin membuka/sudah memiliki toko di Shopee 
 
   
 
-  - **\*\*Badan Usaha (PT/CV)\*\***
+  - **Badan Usaha (PT/CV)**
 
 ⚠️ **Catatan**
 
@@ -96,7 +101,7 @@ Berikut persyaratan mengajukan perubahan data identitas toko, yaitu:
 
 Untuk melakukan perubahan Data Identitas Toko, Anda dapat mengakses melalui:
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
   
   
@@ -109,9 +114,9 @@ Untuk melakukan perubahan Data Identitas Toko, Anda dapat mengakses melalui:
   
   
 
-  - **\*\*Aplikasi Shopee\*\***
+  - **Aplikasi Shopee**
 
-  - **\*\*Aplikasi Shopee Seller Centre\*\***
+  - **Aplikasi Shopee Seller Centre**
 
 ⚠️ **Catatan**
 
@@ -154,3 +159,25 @@ Berikut adalah beberapa alasan penolakan verifikasi toko beserta langkah yang pe
 ⚠️ **Catatan**
 
 Anda dapat melakukan pengecekan terkait alasan penolakan verifikasi toko melalui halaman Notifikasi di aplikasi Seller Centre Shopee atau[ Seller Centre](https://seller.shopee.co.id/portal/fs-onboarding/qr-code).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu konfirmasi verifikasi awal | maks. 3-5 hari kerja |
+| Waktu tinjau perubahan data identitas | 3 hari kerja (gak termasuk Sabtu, Minggu, libur nasional) |
+| Batas pengajuan perubahan data identitas | maks. 2x per tahun (setelah disetujui) |
+| Jenis perubahan data identitas yang didukung | 4 tipe (KTP lama→baru, KTP→perusahaan, perusahaan lama→baru, perusahaan→KTP) |
+| Jumlah jenis Surat Pernyataan pengganti KTP terverifikasi | 7 jenis |
+
+## Pertanyaan diagnosa
+
+1. **Member individu mau ganti akun jadi atas nama PT?** Ini termasuk tipe perubahan "KTP ke data perusahaan" — siapkan dokumen pendukung (NIB dll) dan mungkin perlu Surat Pernyataan Pengalihan Kepemilikan Akun Perorangan ke Perusahaan kalau gak bisa lampirkan KTP terverifikasi.
+2. **Nama di rekening bank member beda dari nama di KTP-nya?** MASALAH — Shopee berlakukan Kebijakan Validasi Nama Rekening Bank, nama rekening WAJIB sama dengan data identitas terverifikasi; kalau beda, perlu sesuaikan data atau verifikasi ulang.
+3. **Member nambah rekening bank baru, kenapa penarikan Saldo Penjualnya jadi gak bisa sementara?** Normal — perubahan rekening bank/data identitas otomatis memicu PEMBATASAN SEMENTARA penarikan Saldo Penjual, sebagai langkah keamanan cegah penyalahgunaan.
+4. **Member udah ganti data identitas 2x tahun ini, mau ganti lagi?** TIDAK BISA — batas maksimal pengajuan perubahan data identitas adalah 2x PER TAHUN (setelah disetujui).
+5. **Member gak bisa lampirkan foto KTP yang terverifikasi buat pengajuan perubahan?** Bisa pakai alternatif Surat Pernyataan sesuai tipe perubahan (7 jenis tersedia, misalnya Surat Pernyataan Pergantian KTP atau Indemnity Letter) — download, isi, tandatangan sesuai Panduan Pengisian yang benar.
+6. **Verifikasi identitas toko member ditolak, gimana cara taunya kenapa?** Cek halaman Notifikasi di aplikasi Seller Centre Shopee atau Seller Centre web — alasan penolakan spesifik dikirim ke sana.
+
+## Batasan
+Bagian "Alasan Penolakan Verifikasi Toko" di akhir sumber ini menjanjikan daftar "beberapa alasan penolakan verifikasi toko beserta langkah yang perlu dilakukan", TAPI daftar tersebut TIDAK tersalin sama sekali — sumber langsung berhenti di kalimat pengantar. Jangan karang daftar alasan penolakan spesifik — arahkan member cek langsung notifikasi penolakan yang dikirim Shopee ke akunnya (berisi alasan spesifik kasusnya) atau hubungi Customer Service Shopee.

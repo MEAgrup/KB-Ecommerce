@@ -11,16 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: pel-pembeli---tentang-asisten-ai-chat/cara-menggunakan-fitur-chat-penjual.md
     bagian: "artikel penuh"
+related: [shp-chat-002, shp-layanan-001]
 ---
 # Cara Menggunakan Fitur Chat Penjual
 
 ## Ringkasan
-**Apa itu Webchat Shopee?**
+Fitur Chat Penjual (aplikasi Shopee, Seller Centre, Webchat) buat kelola chat dengan Pembeli: filter by urgensi, kirim promosi/rekomendasi produk/voucher, atur batasan chat lanjutan (maks. 5 chat kalau Pembeli >24 jam gak respon), dan setting Asisten Chat (auto-reply/template/FAQ).
 
+## Kapan ini dipakai
+Dipakai buat 2 kebutuhan beda: (1) navigasi teknis fitur chat (filter, pin, hapus, kirim media/produk/voucher), dan (2) jawab pertanyaan "kenapa chat gue gak kekirim ke Pembeli ini" — biasanya karena kena limit 5-chat atau Pembeli udah >7 hari gak respon.
 
-29-07-2026
-
-**Apa itu Webchat Shopee?**
+## Isi
 
 Webchat Shopee merupakan solusi untuk mengelola *chat* secara cepat dan mudah, sekaligus mengelola pesanan Anda.
 
@@ -56,7 +57,7 @@ Saat Anda menggunakan fitur Chat Penjual di aplikasi Shopee, Seller Centre, dan 
 
   
 
-**Mem-filter** ***Chat***
+**Mem-filter** **Chat**
 
 Anda dapat mengkategorikan *chat* Anda berdasarkan kepentingannya menggunakan 5 filter ini:
 
@@ -108,7 +109,7 @@ Filter **Segera Balas** dan **Telat Balas** tersedia di aplikasi Shopee dan Webc
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pilih **Balas Sekarang** pada *pop-up* di bagian atas jendela *chat* Anda untuk menerapkan filter Segera Balas dan Telat Balas secara langsung.
 
@@ -162,7 +163,7 @@ Untuk menandai *chat* sebagai belum dibaca di Seller Centre atau fitur Chat Penj
 
   
 
-**Mengelola Beberapa** ***Chat***
+**Mengelola Beberapa** **Chat**
 
 Kelola beberapa *chat* sekaligus di Chat Penjual. Pilih *icon*  di samping pencarian, lalu pilih *chat* yang ingin Anda kelola.
 
@@ -180,7 +181,7 @@ Filter Segera Balas dan Telat Balas tersedia di aplikasi Shopee dan Webchat Shop
 
   
 
-**Menghapus** ***Chat***
+**Menghapus** **Chat**
 
 Untuk menghapus *chat* di aplikasi Shopee:
 
@@ -196,7 +197,7 @@ Untuk menghapus *chat* di Seller Centre dan fitur Chat Penjual, arahkan ke *chat
 
   
 
-**Membalas pesan dalam** ***chat***
+**Membalas pesan dalam** **chat**
 
 Anda dapat menggunakan fungsi balasan di aplikasi Shopee, Seller Centre, dan Fitur Chat Penjual untuk merespons langsung pesan tertentu dalam *chat*.
 
@@ -253,14 +254,14 @@ Sistem *chat* akan diatur ulang setelah Pembeli membalas *chat* dan Anda dapat m
 
 |  |  |
 | :-: | :-: |
-| \*\*PEMBELI\*\* | \*\*PENJUAL\*\* |
+| **PEMBELI** | **PENJUAL** |
 | Pembeli membalas \\\<24 jam terakhir | Penjual dapat merespons sesuai kebutuhan |
 | • Pembeli membalas \\\>24 jam terakhir namun \\\<7 hari, atau• Pembeli membuat pesanan \\\<30 hari terakhir atau dalam proses pengembalian barang/dana | Penjual dapat mengirim hingga 5 \*chat\* tanpa balasan dari Pembeli |
 | Pembeli belum membalas \\\>7 hari | Penjual tidak dapat membalas \*chat\* atau memulai percakapan yang baru |
 
   
 
-**Menghapus pesan dalam halaman** ***chat***
+**Menghapus pesan dalam halaman** **chat**
 
 Anda dapat menggunakan fungsi **Hapus** di aplikasi Shopee, Seller Centre, dan Fitur Chat Penjual untuk menghapus pesan dari Pembeli dan Anda sendiri dalam waktu 10 menit setelah Anda mengirimkan pesan tersebut.
 
@@ -315,7 +316,7 @@ Pembeli mungkin meminta Anda untuk mengirimkan lebih banyak foto/video produk ya
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Pastikan Anda mengirim[ foto/video berkualitas tinggi](https://seller.shopee.co.id/edu/article/350) yang menunjukkan produk Anda dengan jelas. Kirimkan foto/video produk Anda dari berbagai sudut atau tunjukkan cara menggunakan produk Anda.
   - Tambahkan foto/video produk yang diminta Pembeli ke dalam daftar produk yang relevan agar Pembeli lain yang mengunjungi toko Anda juga dapat memperoleh lebih lanjut tentang produk Anda.
@@ -400,7 +401,7 @@ Saat *chat* dengan Pembeli, Anda dapat merekomendasikan produk yang mungkin mena
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Berikut produk rekomendasi yang dapat Anda berikan:
 
@@ -456,7 +457,7 @@ Dalam Fitur Chat Penjual, Anda dapat mengirim[ voucher produk](https://seller.sh
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk membangun loyalitas Pembeli, Anda dapat mengirimkan voucher pada Pembeli agar mereka kembali berbelanja di toko Anda.
 
@@ -484,7 +485,7 @@ Voucher dengan rekomendasi produk:
 
   
 
-**Membuat grup** ***chat*** **navigasi penjualan di Sub Akun**
+**Membuat grup** **chat** **navigasi penjualan di Sub Akun**
 
 Anda juga dapat mengatur grup *chat* menjadi grup **Sebelum Penjualan** atau **Sesudah Penjualan**. Dengan pengaturan ini, *chat* dari Pembeli akan diarahkan langsung oleh sistem ke grup yang sesuai dengan jenis pertanyaannya, sehingga menjadi lebih akurat, mengurangi adanya pengalihan antar tim, menyelesaikan pertanyaan Pembeli dengan lebih cepat, dan meningkatkan potensi pembelian.
 
@@ -504,7 +505,7 @@ Anda dapat mengatur Fitur Chat Penjual dengan mudah melalui aplikasi Shopee, Sel
 
   - Fitur **Asisten Chat**
   - Pengaturan **Notifikasi**
-  - **\*\*Panel Fitur Chat Penjual\*\***
+  - **Panel Fitur Chat Penjual**
   - **Data Kinerja** *chat*
 
   
@@ -593,7 +594,7 @@ Anda dapat[ mengatur rekomendasi produk Panel Fitur Chat Penjual](https://seller
 
   
 
-**Data Kinerja** ***Chat***
+**Data Kinerja** **Chat**
 
 **Melalui Seller Centre:**
 
@@ -609,11 +610,11 @@ Memilih *tab* **Lainnya \>** dapat memberikan Anda lebih banyak data tentang Cha
 
   
 
-**Ringkasan Mengenai Pengaturan pada Berbagai** ***Platform*****﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿****Melaporkan Pengguna yang Tidak Pantas pada Webchat Shopee**
+**Ringkasan Mengenai Pengaturan pada Berbagai** **Platform**﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿**Melaporkan Pengguna yang Tidak Pantas pada Webchat Shopee**
 
 Saat *chat* pada Webchat Shopee, ada saatnya Anda akan menerima pesan yang tidak pantas atau menyinggung. Untuk kenyamanan Anda, Anda dapat melaporkan Pembeli tersebut.
 
-ð **Definisi**
+📍 **Definisi**
 
 **Laporkan**: Saat Anda melaporkan Pembeli, Shopee akan mendapatkan notifikasi untuk melakukan investigasi dan mengambil tindakan yang diperlukan pada Pembeli tersebut, jika diperlukan.
 
@@ -644,7 +645,7 @@ Setelah melaporkan Pengguna, Shopee dapat memblokir Pengguna tersebut untuk Anda
 **Melihat Daftar Pengguna yang Anda Blokir**
 
 **  
-****Melalui Aplikasi Shopee:**
+**Melalui Aplikasi Shopee:**
 
 Masuk ke *tab* **Saya**. Pilih *icon* **Pengaturan** dan pilih **Pengguna Diblokir**.
 
@@ -671,3 +672,27 @@ Di Seller Centre, ulangi langkah-langkah di bawah lalu **Batal Blokir** blokir P
   
 
 **Melalui Seller Centre:**
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu segera balas chat (sebelum kena dampak negatif) | < 3 jam sejak masuk filter Segera Balas |
+| Chat masuk filter "Segera Balas" | tidak dibalas > 9 jam |
+| Chat masuk filter "Telat Balas" | tidak dibalas > 12 jam |
+| Batas balas chat biar Persentase Chat Dibalas aman | dalam 12 jam |
+| Maks. chat lanjutan tanpa balasan Pembeli | 5 chat |
+| Syarat kirim chat lanjutan | Pembeli balas 24 jam–7 hari lalu, ATAU ada pesanan <30 hari / retur berjalan |
+| Chat diblokir sistem kalau | Pembeli gak balas >7 hari |
+| Waktu hapus pesan sendiri | dalam 10 menit sejak dikirim |
+| Maks. produk rekomendasi dikirim sekaligus | 4 |
+
+## Pertanyaan diagnosa
+
+1. **Pembeli terakhir balas kapan?** <24 jam → bisa chat bebas. 24 jam–7 hari → maks. 5 chat lanjutan (dan cuma kalau ada pesanan aktif/retur). >7 hari → chat diblokir sistem, gak bisa kirim lagi sampai Pembeli balas atau ada pesanan/retur baru.
+2. **Udah kehabisan jatah 5 chat lanjutan?** Kalau iya, itu penyebab paling umum "chat gue kok gak kekirim".
+3. **Persentase Chat Dibalas turun — chat yang mana yang telat?** Cek filter Segera Balas / Telat Balas, bukan cuma Belum Dibaca.
+4. **Yang ditanyakan soal fitur spesifik apa** — filter chat, kirim voucher/produk, auto-reply, atau limit chat lanjutan? Entry ini menggabungkan semuanya, jawab bagian yang relevan aja.
+
+## Batasan
+Entry ini menggabungkan banyak sub-topik (navigasi UI, aturan limit chat, fitur sales-in-chat, pengaturan Asisten Chat, laporan pengguna) dalam satu artikel resmi yang panjang. Kalau member cuma butuh satu bagian, jangan dump semuanya.

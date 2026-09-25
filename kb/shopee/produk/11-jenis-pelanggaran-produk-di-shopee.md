@@ -11,17 +11,17 @@ valid_as_of: 2026-02
 sources:
   - file: daftar-produk---kebijakan-pelanggaran-produk/jenis-pelanggaran-produk-di-shopee.md
     bagian: "artikel penuh"
-related: [shp-produk-107]
+related: [shp-produk-009, shp-produk-013, shp-produk-107]
 ---
 # Jenis Pelanggaran Produk di Shopee
 
 ## Ringkasan
-**Apa itu Pelanggaran Penggunaan Bahasa Asing dan Font Unik?**
+4 jenis pelanggaran produk: (1) Bahasa asing/font unik — cuma Bahasa Indonesia & Inggris yang boleh di semua elemen produk (nama/deskripsi/foto/audio/video), pelanggaran ini bikin produk GAGAL upload; (2) Hak cipta foto/video — pakai foto/video Penjual lain tanpa izin, dihapus berdasarkan laporan pemilik asli; (3) Label Shopee di foto produk (Mall/Star/Gratis Ongkir/dll) — dilarang total, diblokir dulu lalu dihapus kalau gak diperbaiki; (4) Foto tidak pantas — diturunkan sementara sampai lolos QC.
 
+## Kapan ini dipakai
+Dipakai buat identifikasi jenis pelanggaran KONTEN produk spesifik (bukan pelanggaran kategori/harga) dan cara hindarinya. Kalau produk udah terlanjur diturunkan/diblokir dan mau tau cara perbaiki/banding, arahkan ke `shp-produk-009` (utamanya buat pelanggaran konten foto/video & kategori salah) atau `shp-produk-013`.
 
-06-02-2026
-
-**Apa itu Pelanggaran Penggunaan Bahasa Asing dan Font Unik?**
+## Isi
 
 Penggunaan bahasa asing dan *font* unik atau unik karakter (termasuk karakter dan simbol unik) pada nama, deskripsi, spesifikasi, variasi, foto, audio dan video produk merupakan salah satu bentuk pelanggaran kebijakan Shopee.
 
@@ -30,7 +30,7 @@ Penggunaan bahasa asing dan *font* unik atau unik karakter (termasuk karakter da
 **⚠️ Catatan**
 
   - Sesuai ketentuan yang berlaku, bahasa yang boleh digunakan pada nama, deskripsi, spesifikasi, variasi, foto, audio dan video produk hanya Bahasa Indonesia dan Bahasa Inggris.
-  - Penggunaan bahasa asing dan *font* unik (termasuk karakter dan simbol unik) di luar ketentuan akan menyebabkan **produk Anda gagal di-*****upload***.
+  - Penggunaan bahasa asing dan *font* unik (termasuk karakter dan simbol unik) di luar ketentuan akan menyebabkan **produk Anda gagal di-**upload**.
 
   
 
@@ -251,8 +251,17 @@ Berikut adalah contoh foto produk yang tidak layak dan layak untuk digunakan:
 
   
 
-Jika terindikasi melanggar kebijakan pelanggaran foto tidak pantas, produk Anda akan diturunkan sementara. Anda perlu memperbarui informasi produk agar sesuai dengan kebijakan Shopee dalam **batas waktu yang ditentukan** yang dapat Anda lihat di Seller Centre untuk melalui proses ***quality control*** **(QC)** oleh Tim Shopee.
+Jika terindikasi melanggar kebijakan pelanggaran foto tidak pantas, produk Anda akan diturunkan sementara. Anda perlu memperbarui informasi produk agar sesuai dengan kebijakan Shopee dalam **batas waktu yang ditentukan** yang dapat Anda lihat di Seller Centre untuk melalui proses **quality control** **(QC)** oleh Tim Shopee.
 
   
 
 Jika produk **lolos QC**, produk akan **dipulihkan dan kembali aktif (Live)**. Namun, jika produk **tidak lolos QC**, Anda akan menerima notifikasi bahwa produk **dihapus dan/atau diblokir**. Pelajari lebih lanjut mengenai[ Cara Memperbaiki Produk yang Diturunkan](https://seller.shopee.co.id/edu/article/26777).
+
+## Pertanyaan diagnosa
+
+1. **Produk member GAGAL di-upload, kenapa?** Cek dulu bahasa/karakter yang dipakai di nama/deskripsi/spesifikasi/variasi/foto/audio/video — CUMA Bahasa Indonesia & Inggris yang boleh, font/karakter/simbol unik di luar itu bikin gagal upload total (bukan cuma diturunkan).
+2. **Nama produk member pakai bahasa asing (misal judul buku impor)?** Boleh, TAPI wajib tambahin kata kunci Bahasa Indonesia/Inggris pendamping (contoh: "Buku Novel [Judul Asli]") — gak boleh nama produk 100% bahasa asing tanpa kata kunci lokal.
+3. **Member pakai foto produk dari toko/supplier lain?** Kalau tanpa izin resmi, itu pelanggaran hak cipta — produk bisa dihapus berdasarkan laporan pemilik asli. Kalau ADA izin resmi, lampirkan buktinya ke Shopee supaya bisa tetap dipakai.
+4. **Foto produk member kena blokir karena pakai label "Gratis Ongkir"/"Star"/dll?** Itu label eksklusif MILIK Shopee — Penjual gak boleh pakai sendiri di foto produk, meskipun tokonya beneran berstatus itu. Produk diblokir sementara dulu (bisa diperbaiki), tapi kalau gak diperbaiki → DIHAPUS.
+5. **Member cantumin kontak WA/LINE atau link media sosial di foto produk?** Dilarang — ini juga masuk pelanggaran yang sama seperti label Shopee (di bagian larangan foto produk), konsisten dengan aturan di `shp-produk-010`.
+6. **Foto produk diturunkan karena dianggap "tidak pantas"?** Beda dari label Shopee (yang langsung diblokir) — foto tidak pantas cuma diturunkan SEMENTARA dan masuk proses QC. Kalau lolos QC → aktif lagi; kalau gagal → baru dihapus/diblokir.

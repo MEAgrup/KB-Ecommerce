@@ -11,16 +11,21 @@ valid_as_of: 2026-01
 sources:
   - file: pp---jasa-kirim/faq-jasa-kirim-yang-tidak-didukung-shopee.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-023, shp-pengiriman-022, shp-pengiriman-032]
 ---
 # FAQ Jasa Kirim yang Tidak Didukung Shopee
 
 ## Ringkasan
+Jasa Kirim Tidak Didukung Shopee = jasa kirim pihak ketiga TANPA integrasi sistem Shopee (jasa kirim milik Penjual sendiri, Jasa Kirim Toko buat produk digital, pick-up langsung dari toko offline/gudang — TIDAK BOLEH pick-up dari rumah). Konsekuensi: gak bisa cetak resi via Shopee, gak ada dukungan pick-up dari Shopee, pelacakan TERBATAS (no resi gak tersedia), Shopee GAK tanggung ganti rugi kalau rusak/hilang/tertukar (Penjual full tanggung jawab, disarankan simpan bukti 1-3 bulan). Ongkir ditentukan bebas (kesepakatan Penjual-jasa kirim, bukan Shopee), TIDAK ikut program Gratis Ongkir XTRA. Hanya boleh dipakai buat 4 kategori produk: muatan besar (lebih dari batas berat/dimensi jasa kirim didukung), produk butuh instalasi, frozen food/mudah rusak, produk digital — produk lain butuh pengajuan aktivasi khusus. Kalau sudah dapat akses, WAJIB tetap aktifkan min. 1 Jasa Kirim Didukung Shopee sebagai alternatif buat Pembeli.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya definisi, syarat, risiko, atau kategori produk yang boleh pakai Jasa Kirim Tidak Didukung Shopee. Buat perbandingan lengkap didukung vs tidak didukung, arahkan ke `shp-pengiriman-023`; buat Jasa Kirim Toko (produk digital), arahkan ke `shp-pengiriman-022`; buat praktik terbaik penggunaannya, arahkan ke `shp-pengiriman-032`.
+
+## Isi
+
 **1. Apa itu Jasa Kirim yang Tidak Didukung Shopee?**
 
 
-12-01-2026
-
-**1. Apa itu Jasa Kirim yang Tidak Didukung Shopee?**
 
 Jasa Kirim yang Tidak Didukung Shopee mengacu pada penyedia jasa kirim pihak ketiga yang belum mengintegrasikan sistem mereka dengan Shopee. Hal ini mencakup:
 
@@ -107,3 +112,24 @@ Tidak, Penjual bertanggung jawab atas proses ganti rugi pengiriman menggunakan J
   
 
 Shopee menyarankan Anda untuk menyimpan bukti pendukung setidaknya selama 1-3 bulan (Contoh: Bukti pengiriman, dan bukti bahwa barang telah dikemas dengan benar sebelum pengiriman)
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah kategori produk yang boleh pakai Jasa Kirim Tidak Didukung Shopee | 4 kategori |
+| Ganti rugi barang rusak/hilang dari Shopee | TIDAK ADA — full tanggung jawab Penjual |
+| Rekomendasi lama simpan bukti pendukung | 1-3 bulan |
+| Kewajiban jasa kirim didukung tetap aktif | min. 1 Jasa Kirim Didukung Shopee (sebagai alternatif buat Pembeli) |
+
+## Pertanyaan diagnosa
+
+1. **Member mau kirim pakai jasa kirim langganan sendiri dari rumah (bukan toko/gudang)?** GAK BOLEH — pick-up langsung cuma diperbolehkan dari toko offline/gudang, bukan dari rumah.
+2. **Member kirim paket pakai Jasa Kirim Tidak Didukung Shopee, terus barang hilang di jalan?** Shopee GAK bantu ganti rugi — Penjual full tanggung jawab, makanya disarankan simpan bukti pengiriman & bukti pengemasan minimal 1-3 bulan buat jaga-jaga.
+3. **Member mau pakai promo Gratis Ongkir XTRA buat pesanan yang dikirim via jasa kirim sendiri?** GAK BISA — program Gratis Ongkir XTRA cuma berlaku buat Jasa Kirim yang Didukung Shopee.
+4. **Member jual produk elektronik biasa (bukan frozen food/besar/butuh instalasi/digital), mau pakai Jasa Kirim Tidak Didukung Shopee?** Gak otomatis bisa — produk itu di luar 4 kategori standar, wajib ajukan aktivasi khusus dulu dan penuhi kriteria yang berlaku.
+5. **Member udah punya akses Jasa Kirim Tidak Didukung, boleh matikan semua Jasa Kirim Didukung Shopee?** GAK BOLEH — tetap wajib aktifkan minimal 1 Jasa Kirim Didukung Shopee sebagai opsi terlacak buat Pembeli.
+6. **Member mau tau siapa yang nentuin ongkir Jasa Kirim Tidak Didukung Shopee?** Shopee GAK ikut campur — ongkir murni kesepakatan Penjual dengan penyedia jasa kirim pilihannya sendiri (kecuali Jasa Kirim Toko yang diatur Penjual dan dibayar Pembeli, bisa ditanggung Penjual via opsi Tanggung Ongkir Pembeli).
+
+## Batasan
+Pertanyaan #6 ("Bisakah saya menggunakan Jasa Kirim yang Tidak Didukung Shopee untuk produk yang dapat dikirim menggunakan Jasa Kirim yang Didukung Shopee?") menjanjikan tabel sanksi ("Jika Anda gagal mengirimkan paket atau pesanan terbatalkan otomatis, maka Anda akan dikenakan sanksi sebagai berikut:") TAPI tabel sanksinya TIDAK tersalin — cuma kalimat pengantar yang tersisa. Jangan karang detail sanksinya — arahkan member ke artikel sumber asli atau CS Shopee buat kepastian.

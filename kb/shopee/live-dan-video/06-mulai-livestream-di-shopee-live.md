@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: mj---shopee-live/mulai-livestream-di-shopee-live.md
     bagian: "artikel penuh"
+related: [shp-live-002, shp-live-004, shp-live-005]
 ---
 # Mulai Livestream di Shopee Live
 
 ## Ringkasan
+Panduan setup awal Livestream di aplikasi Shopee: Mode Tes sebelum Live beneran (cuma keliatan buat *Streamer* + orang yang punya link tes), cara isi Keranjang Oren (manual/link produk/Katalog Produk, maks. 200 produk), sematkan & atur urutan produk, dan daftar produk yang gak boleh dijual/dipromosikan di Shopee Live.
+
+## Kapan ini dipakai
+Entry PERTAMA buat member yang baru mau mulai Livestream — setup dasar sebelum masuk ke fitur konversi (`shp-live-002`) atau interaksi (`shp-live-003`). Buat Livestream via PC/laptop (bukan aplikasi), arahkan ke `shp-live-005`. Kalau produk yang mau dipromosikan masuk kategori terlarang, cek dulu di `## Isi` sebelum lanjut — bisa kena poin penalti (`shp-live-004`).
+
+## Isi
+
 **Hal-hal yang Perlu Disiapkan untuk Memulai Livestream**
 
 
-16-07-2026
-
-**Hal-hal yang Perlu Disiapkan untuk Memulai Livestream**
 
 <https://seller.shopee.co.id/edu/article/16726>
 
@@ -117,15 +122,29 @@ Untuk memberikan pengalaman berbelanja yang aman dan sesuai ketentuan, Shopee me
 
 |  |  |
 | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*JENIS PRODUK\*\* |
-| \*\*Produk Dewasa\*\* | • Alat bantu/mainan seks• Kondom• Obat kuat• Penunjang performa seks• Konten dewasa (meskipun sudah berlisensi) |
-| \*\*Obat-obatan dan Suplemen\*\* | • Obat dengan resep dokter• Obat berlogo 'K' merah (  )• Narkotika, Psikotropika, dan Zat Adiktif (NAPZA)• Obat palsu• Obat yang dilarang dan dibatasi peredarannya oleh pemerintahdan/atau Pemilik merek |
-| \*\*Tembakau dan Nikotin\*\* | • Rokok• Daun tembakau• Nikotin• Rokok elektronik (Vape)• Shisha |
-| \*\*Alkohol\*\* | Semua jenis minuman beralkohol |
-| \*\*Senjata\*\* | • Senjata api• Senjata tajam (kecuali produk peralatan tajam yang memiliki fungsiumum tertentu seperti pisau dapur, gergaji) |
-| \*\*Produk Mistis\*\* | • Jimat• Benda keramat, dsb |
-| \*\*Produk Ilegal dan Produk\*\*\*\*yang Melanggar Ketentuan\*\* | • Produk yang melanggar Hak Kekayaan Intelektual (HAKI),termasuk barang tiruan, palsu, atau KW• Flora dan fauna yang dilindungi• Plat nomor kendaraan dan dokumen identitas kendaraan |
+| **KATEGORI** | **JENIS PRODUK** |
+| **Produk Dewasa** | • Alat bantu/mainan seks• Kondom• Obat kuat• Penunjang performa seks• Konten dewasa (meskipun sudah berlisensi) |
+| **Obat-obatan dan Suplemen** | • Obat dengan resep dokter• Obat berlogo 'K' merah (  )• Narkotika, Psikotropika, dan Zat Adiktif (NAPZA)• Obat palsu• Obat yang dilarang dan dibatasi peredarannya oleh pemerintahdan/atau Pemilik merek |
+| **Tembakau dan Nikotin** | • Rokok• Daun tembakau• Nikotin• Rokok elektronik (Vape)• Shisha |
+| **Alkohol** | Semua jenis minuman beralkohol |
+| **Senjata** | • Senjata api• Senjata tajam (kecuali produk peralatan tajam yang memiliki fungsiumum tertentu seperti pisau dapur, gergaji) |
+| **Produk Mistis** | • Jimat• Benda keramat, dsb |
+| **Produk Ilegal dan Produk**yang Melanggar Ketentuan** | • Produk yang melanggar Hak Kekayaan Intelektual (HAKI),termasuk barang tiruan, palsu, atau KW• Flora dan fauna yang dilindungi• Plat nomor kendaraan dan dokumen identitas kendaraan |
 
   
 
 Shopee berhak memberikan sanksi berupa poin penalti kepada Penjual apabila terindikasi menjual atau mempromosikan produk yang disebutkan di atas berupa poin penalti. Pelajari lebih lanjut tentang[ Jenis Pelanggaran, Tingkat Pelanggaran, dan Penalti Shopee Live](https://seller.shopee.co.id/edu/article/21195).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Kapasitas Keranjang Oren | maks. 200 produk |
+| Visibilitas Mode Tes | cuma *Streamer* + Pengguna dengan link tes Livestream |
+
+## Pertanyaan diagnosa
+
+1. **Member baru pertama kali mau Livestream, mulai dari mana?** Sarankan coba **Mode Tes** dulu buat cek semua fitur & kelancaran sebelum ganti ke Mode Normal yang keliatan Penonton.
+2. **Produk yang mau dipromosikan gak bisa masuk Keranjang Oren?** Cek 2 kemungkinan: (a) udah kena batas maks. 200 produk, atau (b) produknya masuk kategori terlarang (cek daftar di `## Isi`).
+3. **Member mau tau produk apa aja yang gak boleh dijual/dipromosikan di Live?** 7 kategori: Produk Dewasa, Obat-obatan & Suplemen (termasuk obat resep/logo K merah/NAPZA), Tembakau & Nikotin, Alkohol, Senjata, Produk Mistis, Produk Ilegal/pelanggar HAKI — kena poin penalti kalau ditemukan (lihat `shp-live-004`).
+4. **Member mau isi Keranjang Oren dengan banyak produk sekaligus, gimana cara paling efisien?** Arahkan pakai fitur Katalog Produk (bikin daftar produk yang bisa disesuaikan, dipakai berulang) dibanding nambah satu-satu manual.

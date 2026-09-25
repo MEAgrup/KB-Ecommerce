@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: pp---jasa-kirim/cod-bayar-di-tempat.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-009, shp-pengiriman-033]
 ---
 # COD (Bayar di Tempat)
 
 ## Ringkasan
+COD = bayar tunai langsung pas terima barang. GRATIS buat Penjual (Pembeli yang kena Biaya Layanan). Gak berlaku buat produk digital (e-voucher/e-book/pulsa). Penalti Pembeli: 2x tolak paket dalam 60 hari kalender → diblokir dari COD 60 hari. Penalti toko: 2x penolakan Pembeli dalam 60 hari → toko dapat peringatan performa, dipantau 30 hari, kalau masih terjadi → COD toko dinonaktifkan 60 hari. Perlindungan klaim barang hilang/rusak (7 jasa kirim tertentu): Reguler/Hemat Kargo = 10x ongkir atau harga barang maks Rp1.000.000 (ambil terendah); semua Instant = harga barang maks Rp10.000.000.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara kerja, syarat, atau perlindungan klaim metode pembayaran COD. Buat FAQ detail COD, arahkan ke `shp-pengiriman-009`; buat program COD Cek Dulu (retur di tempat), arahkan ke `shp-pengiriman-033`.
+
+## Isi
+
 **Apa itu Metode Pembayaran COD (Bayar di Tempat)?**
 
 
-27-07-2026
-
-**Apa itu Metode Pembayaran COD (Bayar di Tempat)?**
 
 COD (Bayar di Tempat) adalah metode pembayaran tunai yang dilakukan secara langsung di tempat, setelah pesanan dari Kurir diterima oleh Pembeli.
 
@@ -76,7 +81,7 @@ Jika terdapat 2 kali penolakan pesanan COD (Bayar di Tempat) oleh Pembeli dalam 
 Setelah menerima peringatan, performa toko Anda akan dipantau selama 30 hari kalender. Jika penolakan pesanan COD (Bayar di Tempat) masih terjadi, maka metode pembayaran COD (Bayar di Tempat) di toko Anda akan dinonaktifkan selama 60 hari.
 
 **  
-****Cara Menghindari Penolakan Pesanan COD (Bayar di Tempat)**
+**Cara Menghindari Penolakan Pesanan COD (Bayar di Tempat)**
 
 Untuk menjaga performa COD (Bayar di Tempat) tetap baik, Anda disarankan untuk melakukan langkah berikut:
 
@@ -97,7 +102,7 @@ Deskripsi yang tidak sesuai dapat menyebabkan Pembeli menolak pesanan saat produ
 
   
 
-**2. Konfirmasi pesanan kepada Pembeli melalui** ***chat***
+**2. Konfirmasi pesanan kepada Pembeli melalui** **chat**
 
 Gunakan fitur *chat* untuk memastikan Pembeli siap menerima dan melakukan pembayaran saat pesanan tiba seperti:
 
@@ -176,4 +181,22 @@ Pelajari lebih lanjut mengenai[ proses ganti rugi jika barang rusak/hilang dalam
       - Jasa kirim atau agen *drop-off point* terdekat (apabila pesanan dikirim dengan metode *pick-up*).
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Biaya COD buat Penjual | GRATIS (Pembeli kena Biaya Layanan) |
+| Blokir Pembeli setelah 2x tolak paket dalam periode | 60 hari kalender blokir, berlaku sejak penolakan ke-2 |
+| Peringatan performa toko setelah 2x penolakan dalam 60 hari | dipantau 30 hari kalender berikutnya |
+| Nonaktif COD toko kalau masih ada penolakan setelah masa pantau | 60 hari |
+| Klaim Reguler/Hemat Kargo | 10x ongkir ATAU harga barang, maks. Rp1.000.000 (ambil nominal terendah) |
+| Klaim semua layanan Instant | harga barang, maks. Rp10.000.000 |
+| Jasa kirim yang dapat perlindungan klaim COD | 7 tipe: Anteraja Economy, Anteraja Reguler, Pos Reguler, SiCepat Halu, SiCepat REG, SPX Hemat, SPX Standard + semua Instant SPX Express |
+
+## Pertanyaan diagnosa
+
+1. **Toko member dapat 2x penolakan COD dari Pembeli berbeda dalam sebulan, apa dampaknya?** Toko dapat peringatan performa COD dan dipantau 30 hari kalender — kalau masih ada penolakan dalam masa pantau, COD toko dinonaktifkan 60 hari.
+2. **Pembeli member nolak paket COD 2x dalam 2 bulan terakhir?** Pembeli itu otomatis diblokir dari metode COD selama 60 hari ke depan, berlaku sejak penolakan kedua.
+3. **Barang COD member hilang pas dikirim pakai SPX Standard, berapa maks. klaimnya?** Karena SPX Standard bukan termasuk kategori Instant, klaim ikut skema Reguler/Hemat Kargo: 10x ongkir atau harga barang (ambil yang lebih rendah), maks. Rp1.000.000.
+4. **Barang COD senilai Rp8 juta hilang pas dikirim pakai layanan Instant?** Klaim bisa sampai harga barang penuh (maks. Rp10.000.000) — jadi Rp8 juta itu masih bisa diklaim penuh.
+5. **Member mau jual pulsa/e-voucher pakai metode COD?** GAK BISA — produk digital (e-voucher, e-book, pulsa, dll.) gak boleh pakai metode pembayaran COD.
+6. **Member mau kurangi risiko Pembeli nolak paket COD?** Pastikan deskripsi produk jelas & akurat (spesifikasi, isi paket, foto sesuai kondisi asli) DAN konfirmasi ke Pembeli via chat sebelum kurir datang (ingatkan metode COD, pastikan Pembeli standby, siapkan uang pas).

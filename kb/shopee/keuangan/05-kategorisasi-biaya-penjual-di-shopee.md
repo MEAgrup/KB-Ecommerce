@@ -11,22 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---biaya-penjual/kategorisasi-biaya-penjual-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-biaya-001, shp-biaya-003, shp-biaya-004, shp-biaya-009]
 ---
 # Kategorisasi Biaya Penjual di Shopee
 
 ## Ringkasan
-Untuk membantu mempermudah Penjual melakukan perhitungan biaya berjualan di toko Penjual, Shopee menerapkan kategorisasi biaya di halaman Rincian Biaya Penjualan.
+Peta lengkap 5 kategori biaya Penjual Shopee: (1) **Biaya Platform** — wajib semua Penjual (Administrasi, Proses Pesanan, Pembayaran khusus Mall), (2) **Gratis Ongkir XTRA** — opsional, beda tarif ukuran biasa/khusus, (3) **Biaya Layanan** — opsional (Promo XTRA/XTRA+, Live/Video XTRA, SPayLater XTRA), (4) **Biaya Promosi** — opsional (AMS, Kampanye, Saldo Iklan), (5) **Biaya Lainnya** — opsional (Pre-Order, Hemat Biaya Kirim, Asuransi).
 
+## Kapan ini dipakai
+Ini entry PETA/INDEX — dipakai buat orientasi awal "biaya-biaya di Shopee itu ada berapa jenis sih" sebelum masuk ke detail masing-masing biaya di entry terpisah. Bagus buat member yang baru mulai dan bingung sama banyaknya istilah biaya.
 
-31-07-2026
-
-Untuk membantu mempermudah Penjual melakukan perhitungan biaya berjualan di toko Penjual, Shopee menerapkan kategorisasi biaya di halaman Rincian Biaya Penjualan.
-
-  
+## Isi
 
 **Kategorisasi Biaya Penjual di Shopee**
 
-**1. Biaya** ***Platform***
+**1. Biaya** **Platform**
 
 Biaya *Platform* adalah biaya yang berlaku bagi seluruh Penjual aktif di Shopee untuk setiap pesanan yang terselesaikan. Biaya ini terdiri dari:
 
@@ -74,3 +73,28 @@ Biaya Lainnya mencakup biaya dari program-program tambahan yang bersifat opsiona
   - Biaya Layanan Pre-Order: biaya yang berlaku untuk produk dengan masa pengemasan 3-30 hari kerja, sesuai dengan ketentuan yang berlaku.
   - Biaya Program Hemat Biaya Kirim: biaya yang berlaku bagi Penjual yang mengikuti Program Hemat Biaya Kirim untuk setiap pesanan yang berhasil terkirim dan terselesaikan.
   - Asuransi Pengiriman: biaya asuransi pengiriman yang ditanggung oleh Penjual.
+
+## Angka & patokan
+
+| Kategori Gratis Ongkir XTRA | Definisi |
+|---|---|
+| Ukuran Biasa | berat <5kg, P/L/T <60cm, dimensi <20.000 cm³ |
+| Ukuran Khusus | berat ≥5kg, P/L/T ≥60cm, atau dimensi ≥20.000 cm³ |
+
+| Kategori | Wajib/Opsional | Contoh |
+|---|---|---|
+| Biaya Platform | Wajib | Administrasi, Proses Pesanan, Pembayaran (Mall) |
+| Gratis Ongkir XTRA | Opsional | tarif beda per ukuran produk |
+| Biaya Layanan | Opsional | Promo XTRA/XTRA+, Live/Video XTRA, SPayLater XTRA 0% |
+| Biaya Promosi | Opsional | Komisi AMS, Biaya Kampanye, Isi Saldo Iklan Otomatis |
+| Biaya Lainnya | Opsional | Pre-Order (masa kemas 3-30 hari kerja), Hemat Biaya Kirim, Asuransi Pengiriman |
+
+## Pertanyaan diagnosa
+
+1. **Member bingung ada berapa jenis biaya?** Arahkan ke 5 kategori di atas dulu buat orientasi, baru dalami satu-satu sesuai yang relevan.
+2. **Biaya yang ditanya wajib atau opsional?** Cuma Biaya Platform yang wajib semua Penjual — 4 kategori lain SEMUANYA opsional (tergantung program yang diikuti).
+3. **Produk termasuk Ukuran Biasa atau Khusus buat Gratis Ongkir XTRA?** Cek berat/dimensi produk ke ambang di tabel — ini nentuin tarif Gratis Ongkir XTRA yang berlaku.
+4. **Toko ikut program apa aja?** Kalau gak ikut Promo XTRA/Live XTRA/dll, biaya kategori itu gak akan muncul di rincian penghasilan mereka.
+
+## Batasan
+Entry ini index/peta kategori — gak ada angka persentase/nominal detail tiap biaya (itu ada di entry masing-masing, mis. `shp-biaya-001` buat Biaya Administrasi, `shp-biaya-003` buat Biaya Proses Pesanan).

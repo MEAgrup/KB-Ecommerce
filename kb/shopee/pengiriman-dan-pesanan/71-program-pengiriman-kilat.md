@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: pp---penyelesaian-pesanan/program-pengiriman-kilat.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-063]
 ---
 # Program Pengiriman Kilat
 
 ## Ringkasan
+Pengiriman Kilat = Penjual TERPILIH (via undangan Shopee) kirim stok produk non-pre-order ke lokasi sortir SEBELUM ada pesanan, biar sampai lebih cepat ke Pembeli. GRATIS, gak ada biaya kirim stok/pengembalian (biaya admin/layanan tetap berlaku kalau stok terjual). Batas: maks. 20% dari stok toko/hari, DAN Shopee gak pesan kalau stok toko <10 pcs. Stok disimpan 21-30 hari kalender di lokasi sortir — kalau gak laku, balik ke Penjual gratis. Wajib atur pengiriman ke lokasi sortir maks. 1 hari kalender setelah pesanan masuk. Klaim rusak/hilang: kompensasi harga jual akhir (kalau belum ada Pembeli) atau sesuai kebijakan klaim produk rusak biasa (kalau sudah ada Pembeli) — TAPI gak dikompensasi kalau rusak karena pengemasan buruk atau termasuk barang yang gak bisa diklaim.
+
+## Kapan ini dipakai
+Dipakai kalau member (Penjual terpilih/diundang) nanya cara kerja, syarat, biaya, atau klaim kerusakan/kehilangan program Pengiriman Kilat. Buat detail proses klaim/kelola pengiriman gagal secara umum, arahkan ke `shp-pengiriman-063`.
+
+## Isi
+
 **Apa itu Program Pengiriman Kilat?**
 
 
-28-07-2026
-
-**Apa itu Program Pengiriman Kilat?**
 
 Pengiriman Kilat adalah program Shopee di mana Penjual mengirimkan produk tertentu ke lokasi sortir sebelum adanya pesanan dari Pembeli, agar pesanan dapat lebih cepat sampai ke Pembeli. Saat ini, produk yang dapat mengikuti Pengiriman Kilat adalah produk dengan masa pengemasan non pre-order.
 
@@ -126,7 +131,7 @@ Apabila stok di lokasi sortir Pengiriman Kilat telah habis, produk tetap dapat d
 
   
 
-ð**Definisi**
+📍**Definisi**
 
   - **Tersedia**: Jumlah stok Pengiriman Kilat yang telah dikirim Penjual ke lokasi sortir dan dapat dipesan oleh Pembeli.
   - **In-transit**: Jumlah stok Pengiriman Kilat sedang dalam perjalanan menuju lokasi sortir. Pembeli belum dapat membuat pesanan atas stok tersebut.
@@ -153,7 +158,7 @@ Laporan Pengiriman Kilat dapat digunakan oleh Penjual untuk berbagai keperluan o
 
 Penjual dapat men-*download* laporan Pengiriman Kilat pada status pesanan di *tab* **Perlu Dikirim**, **Dikirim**, dan **Selesai**.
 
-##### ***Download*** **laporan pada** ***tab***[ **Perlu Dikirim**](https://seller.shopee.co.id/portal/sale/shipment?type=toship&source=to_process) **dan**[ **Dikirim**](https://seller.shopee.co.id/portal/sale/order?type=shipping)
+##### **Download** **laporan pada** **tab**[ **Perlu Dikirim**](https://seller.shopee.co.id/portal/sale/shipment?type=toship&source=to_process) **dan**[ **Dikirim**](https://seller.shopee.co.id/portal/sale/order?type=shipping)
 
 Laporan yang di-*download* pada *tab* Perlu Dikirim menampilkan daftar pesanan yang dibagi menjadi 2 kategori yaitu pesanan biasa dan pesanan dari Pengiriman Kilat.
 
@@ -169,7 +174,7 @@ Sedangkan pada *tab* **Dikirim**, Anda dapat memilih tipe pesanan Pengiriman Kil
 
   
 
-##### ***Download*** **laporan pada** ***tab***[ **Selesai**](https://seller.shopee.co.id/portal/sale/order?type=completed)
+##### **Download** **laporan pada** **tab**[ **Selesai**](https://seller.shopee.co.id/portal/sale/order?type=completed)
 
 Anda dapat membedakan antara pesanan biasa dan pesanan Pengiriman Kilat melalui kolom **Shipped by Advance Fulfillment**.
 
@@ -218,7 +223,7 @@ Namun, jika ada stok dari Pengiriman Kilat yang telah berhasil diproses sebagai 
 
   
 
-**3. Apa yang harus dilakukan saat menerima pesanan dengan** ***tag*** **'Pengiriman Kilat?**
+**3. Apa yang harus dilakukan saat menerima pesanan dengan** **tag** **'Pengiriman Kilat?**
 
 Jenis pesanan Pengiriman Kilat akan masuk ke sistem Seller Centre secara otomatis.
 
@@ -256,7 +261,7 @@ Jumlah produk untuk stok Pengiriman Kilat dalam sehari tidak akan melebihi 20% d
 
 Contoh ilustrasinya:
 
-  - **\*\*Jika stok produk \\\>10pcs\*\***
+  - **Jika stok produk \\\>10pcs**
 
 Saat ini, stok produk A di toko Penjual terdapat 100 pcs.
 
@@ -264,7 +269,7 @@ Maksimum jumlah yang dapat dipesan Shopee adalah 20% x 100 pcs = 20 pcs.
 
   
 
-  - **\*\*Jika stok produk \\\<10pcs\*\***
+  - **Jika stok produk \\\<10pcs**
 
 Shopee tidak akan memesan produk tersebut, karena stok produk tidak memenuhi batas minimal stok.
 
@@ -307,7 +312,7 @@ Shopee akan memberikan kompensasi atas salah satu atau kedua situasi berikut:
   - Anda tetap dapat ajukan klaim untuk barang yang gagal dikirim ke Penjual, hilang & rusak dengan mengklik **Klaim Barang Hilang/Rusak** di halaman Pesanan Saya pada *tab* **Pengiriman Gagal**.
 
   
-ð **Definisi**
+📍 **Definisi**
 
   - Barang tidak ada Pembeli: Kondisi di mana tidak ada pesanan masuk\* dari Pembeli terhadap stok produk yang telah dikirimkan Penjual setelah 21-30 hari di lokasi sortir.
   - Barang sudah ada Pembeli: Kondisi di mana sudah ada pesanan masuk\* dari Pembeli terhadap stok produk yang telah dikirimkan Penjual.
@@ -345,6 +350,31 @@ Apabila setelah periode tersebut masih terdapat sisa stok, Shopee akan mengembal
 
   
 
-**10. Apakah ada perbedaan cara memenuhi pesanan jika saya menggunakan sistem ISV (*****Independent Software Vendors*****)?**
+**10. Apakah ada perbedaan cara memenuhi pesanan jika saya menggunakan sistem ISV (**Independent Software Vendors**)?**
 
 Jika Anda menggunakan sistem ISV, Anda dapat mempelajari lebih lanjut di[ Cara mengirim dan memantau pesanan Pengiriman Kilat di Sistem ISV](https://seller.shopee.co.id/edu/article/22766).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Biaya ikut program | GRATIS (kirim stok & pengembalian stok gak terjual gratis) |
+| Maks. pemesanan stok Pengiriman Kilat/hari | 20% dari stok toko yang tersedia |
+| Syarat minimal stok biar dipesan Shopee | ≥10 pcs (kalau <10 pcs, Shopee gak pesan) |
+| Contoh perhitungan (stok 100 pcs) | maks. dipesan Shopee = 20% x 100 = 20 pcs |
+| Lama penyimpanan stok di lokasi sortir | 21–30 hari kalender |
+| Batas atur pengiriman ke lokasi sortir | maks. 1 hari kalender setelah pesanan masuk |
+| Waktu mulai terima pesanan lagi setelah daftar ulang | 3–7 hari kerja |
+| Maks. periode download laporan | 30 hari |
+| Kondisi klaim rusak/hilang yang dilindungi | 3: saat pengiriman, saat disimpan, selama pengembalian |
+
+## Pertanyaan diagnosa
+
+1. **Member ditawari ikut Pengiriman Kilat, takut kena biaya?** Program ini GRATIS — gak ada biaya kirim stok ke lokasi sortir atau biaya pengembalian stok yang gak laku. Biaya admin/layanan cuma berlaku kalau stoknya benar akhirnya terjual (sama seperti pesanan biasa).
+2. **Member mau tau kenapa cuma sebagian stoknya yang diminta Shopee, bukan semua?** Ada batas maks. 20% dari stok toko yang tersedia per hari, dan Shopee gak akan pesan sama sekali kalau stok produk itu kurang dari 10 pcs.
+3. **Stok Pengiriman Kilat member udah lama di lokasi sortir tapi gak laku-laku, gimana?** Kalau sampai 21-30 hari kalender gak ada pesanan cocok, stok otomatis balik ke Penjual TANPA biaya tambahan (ongkos ditanggung Shopee) — cek di tab Pengiriman Gagal.
+4. **Member telat atur pengiriman stok Pengiriman Kilat ke lokasi sortir, ada risiko?** Wajib atur pengiriman maks. 1 hari kalender setelah pesanan (dari Shopee) masuk — telat dari itu berisiko keluar dari alur normal program.
+5. **Barang Pengiriman Kilat member rusak/hilang pas disimpan di lokasi sortir, padahal belum ada Pembeli?** Bisa klaim — kompensasi sesuai harga jual akhir, SELAMA bukan karena pengemasan yang buruk atau termasuk kategori barang yang gak bisa diklaim.
+6. **Member berhenti dari program, apa stok yang masih di lokasi sortir langsung ditarik?** GAK — stok yang udah terlanjur di lokasi sortir/dalam perjalanan tetap dipakai buat penuhi pesanan yang cocok sampai 21-30 hari kalender ke depan, baru sisanya dikembalikan gratis.
+7. **Member mau ikut lagi setelah pernah keluar dari program?** Isi formulir pendaftaran ulang — mulai terima pesanan Pengiriman Kilat lagi dalam 3-7 hari kerja.
+8. **Member bingung kenapa pelepasan dana kok kayak lebih lama dari pesanan biasa?** Kebijakan pelepasan dananya SAMA kayak pesanan biasa — cuma karena stok tersebar di banyak lokasi sortir se-Indonesia, jadi kesannya beda padahal jumlah stok toko tetap sama.

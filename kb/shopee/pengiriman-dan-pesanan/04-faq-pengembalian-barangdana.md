@@ -11,18 +11,23 @@ valid_as_of: 2026-08
 sources:
   - file: pengembalian---pengembalian-barang-dan-dana/faq-pengembalian-barangdana.md
     bagian: "artikel penuh"
+related: [shp-pesanan-003, shp-pesanan-006]
 ---
 # FAQ Pengembalian Barang/Dana
 
 ## Ringkasan
+FAQ lengkap 5 topik: (1) umum — semua Penjual WAJIB ikut kebijakan pengembalian, paket balikan gagal antar >5 hari = pesanan batal permanen; (2) Garansi Bebas Pengembalian — GRATIS buat Penjual, banding diajukan maks. 2 hari kerja setelah terima produk; (3) Pengembalian dalam Perjalanan — ongkir ditanggung Shopee, validasi maks. 1 hari kalender, berlaku SELURUH barang (gak bisa sebagian); (4) proses pengembalian — kompensasi Penjual maks. = nilai yang dikembalikan ke Pembeli dikurangi biaya Shopee, pembatalan otomatis kalau Pembeli gak kirim balik dalam 5 hari; (5) banding — diselesaikan maks. 2 hari kerja.
+
+## Kapan ini dipakai
+Dipakai sebagai referensi FAQ lengkap seputar pengembalian barang/dana (Garansi Bebas Pengembalian, Pengembalian dalam Perjalanan, kompensasi, banding). Buat cara ajukan banding langkah-demi-langkah, arahkan ke `shp-pesanan-003`; buat kebijakan pengembalian barang/dana secara umum, arahkan ke `shp-pesanan-006`.
+
+## Isi
+
 **FAQ Umum**
 
 
-03-08-2026
 
-**FAQ Umum**
-
-**1. Dapatkah saya menerapkan kebijakan tanpa pengembalian barang/dana di toko karena hanya menjual produk** ***custom*****?**
+**1. Dapatkah saya menerapkan kebijakan tanpa pengembalian barang/dana di toko karena hanya menjual produk** **custom**?**
 
 Semua Penjual Shopee harus mematuhi aturan kebijakan pengembalian barang/dana Shopee.
 
@@ -167,7 +172,7 @@ Tidak, Pembeli hanya perlu menunggu validasi dari pihak jasa kirim maks. 1 hari 
 
 Tidak, Pembeli hanya dapat mengajukan Pengembalian dalam Perjalanan untuk seluruh barang dalam pesanan yang sama.
 
-**6. Apakah stok akan ter-*****update*** **secara otomatis jika ada Pengembalian dalam Perjalanan?**
+**6. Apakah stok akan ter-**update** **secara otomatis jika ada Pengembalian dalam Perjalanan?**
 
 Tidak. Penjual diimbau untuk melakukan *update* stok secara manual apabila terjadi Pengembalian dalam Perjalanan oleh Pembeli.
 
@@ -290,3 +295,33 @@ Anda tidak perlu terlibat dalam diskusi apapun dengan Pembeli. Tim Shopee akan m
   
 
 Jika dalam situasi yang berbeda Anda telah mencapai kesepakatan dengan Pembeli, Anda dapat memberikan *update* ke Tim Shopee dengan menunjukkan bukti *chat* melalui Fitur Chat Penjual dan lampirkan dalam bentuk *screenshot* pada forum **Diskusi**.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas waktu Penjual respons paket balikan gagal antar | 5 hari kalender (lewat = pesanan batal permanen) |
+| Batas ambil paket balikan (SPX Express, JNE Express, Indopaket) | 7 hari kalender |
+| Batas ambil paket balikan (Ninja Xpress) | 7x24 jam |
+| Biaya layanan Garansi Bebas Pengembalian | Rp0 (gratis) |
+| Batas ajukan banding Garansi Bebas Pengembalian | 2 hari kerja sejak produk diterima (termasuk Sabtu, gak termasuk Minggu/libur nasional) |
+| Batas validasi Pengembalian dalam Perjalanan | maks. 1 hari kalender sejak pengajuan |
+| Kompensasi Penjual maks. | = nilai dikembalikan ke Pembeli − Biaya Administrasi/Pembayaran/Layanan Penjual |
+| Batas Pembeli kirim balik barang sebelum batal otomatis | 5 hari kalender sejak Shopee menyetujui |
+| Waktu penyelesaian banding pengembalian barang/dana | maks. 2 hari kerja (termasuk Sabtu, gak termasuk Minggu/libur nasional) |
+| Penggantian barang rusak jasa kirim (pakai asuransi) | sesuai nilai barang/kebijakan jasa kirim |
+| Penggantian barang rusak jasa kirim (tanpa asuransi) | maks. 10x ongkos kirim yang tertera di Shopee |
+
+## Pertanyaan diagnosa
+
+1. **Member cuma jual produk custom, bisa gak terapin kebijakan "no return"?** TIDAK BISA — semua Penjual Shopee WAJIB ikut kebijakan pengembalian barang/dana Shopee, gak ada pengecualian buat custom.
+2. **Paket pengembalian gagal diantar ke alamat Penjual berkali-kali?** Kalau Penjual gak hubungi jasa kirim dalam 5 HARI KALENDER, pesanan otomatis DIBATALKAN dan gak bisa dikembalikan — pastikan alamat & no. telepon toko selalu update.
+3. **Member kena biaya buat ikut Garansi Bebas Pengembalian?** TIDAK — program ini GRATIS, gak ada biaya layanan apapun.
+4. **Member terima balikan produk yang kondisinya gak sesuai standar Garansi Bebas Pengembalian?** Ajukan Banding dalam 2 HARI KERJA sejak produk diterima (Sabtu dihitung, Minggu/libur nasional gak dihitung).
+5. **Pembeli ajukan Pengembalian dalam Perjalanan buat sebagian barang doang dari beberapa yang dipesan?** TIDAK BISA — Pengembalian dalam Perjalanan cuma berlaku buat SELURUH barang dalam pesanan yang sama, gak bisa parsial.
+6. **Member harus update stok manual atau otomatis kalau ada Pengembalian dalam Perjalanan?** MANUAL — stok TIDAK ter-update otomatis, Penjual wajib update sendiri.
+7. **Member kasih pengembalian dana sebagian tanpa minta barang balik, terus berubah pikiran mau tarik lagi?** Cek timing — penawaran pengembalian dana sebagian CUMA bisa dilakukan SEBELUM Pembeli kirim barang; setelah dikirim, gak bisa ditawarkan lagi.
+8. **Member banding klaim Pembeli yang salah dan berhasil menang, siapa yang bayar ongkir kirim balik ke Pembeli?** Shopee TIDAK menanggung — kalau banding disetujui karena klaim Pembeli salah, Penjual tetap yang kirim balik barangnya (situasi beda dari kelalaian Penjual, di mana Penjual yang nanggung ongkir pengembalian).
+9. **Pembeli gak kirim balik barang setelah pengajuan pengembalian disetujui, gimana nasib pesanannya?** OTOMATIS DIBATALKAN kalau Pembeli gak kirim dalam 5 hari kalender sejak disetujui — kalau lewat 5 hari tapi belum batal juga, hubungi CS Shopee.
+10. **Member menang banding klaim Pembeli yang salah, apa pesanan tetap masuk Tingkat Pesanan Tidak Terselesaikan?** TIDAK — selama banding diajukan tepat waktu dengan bukti valid dan berhasil, pesanan TIDAK diperhitungkan dalam Tingkat Pesanan Tidak Terselesaikan.
+11. **Barang member rusak karena kesalahan jasa kirim, gak pakai asuransi pengiriman?** Penggantian maks. 10x ongkos kirim yang tertera di Shopee dari nilai barang rusak (atau sesuai kebijakan jasa kirim) — arahkan selalu asuransikan barang bernilai tinggi buat proteksi penuh.

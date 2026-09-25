@@ -11,16 +11,21 @@ valid_as_of: 2026-01
 sources:
   - file: mj---shopee-video/meninjau-performa-video-pada-shopee-video.md
     bagian: "artikel penuh"
+related: [shp-video-003]
 ---
 # Meninjau Performa Video pada Shopee Video
 
 ## Ringkasan
+Fitur Performa Video (aplikasi Shopee & Seller Centre) buat evaluasi performa Shopee Video — data baru muncul H+2 sejak video diposting, update tiap pk. 12.00 WIB. Atribusi penjualan Shopee Video pakai atribusi LANGSUNG saja: checkout dari dalam konten video (langsung atau add-to-cart dalam video lalu checkout maks. 7 hari kemudian) — checkout dari luar alur video (pencarian, halaman toko, dll) TIDAK dihitung sebagai penjualan Shopee Video.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara baca metrik performa video, kenapa penjualan gak ke-track di Shopee Video padahal ada transaksi (cek dulu atribusi langsung di `## Isi` bagian akhir), atau kenapa Demografi Pengguna gak muncul (butuh min. 10 Penonton). Buat cara bikin konten (bukan analisis performa), arahkan ke `shp-video-003`.
+
+## Isi
+
 **Apa itu Fitur Performa Video?**
 
 
-20-01-2026
-
-**Apa itu Fitur Performa Video?**
 
 Performa Video adalah fitur untuk membantu Anda meninjau performa Shopee Video. Fitur ini dapat memudahkan Anda dalam mengevaluasi performa keseluruhan video yang anda telah *upload*.
 
@@ -72,11 +77,11 @@ Dalam halaman **Performa Video**, Anda akan melihat **Data Utama**, **Persebaran
 
 **Data Utama**
 
-  - **\*\*Penonton\*\***
+  - **Penonton**
 
 Data yang berhubungan dengan Penonton dari konten Shopee Video Anda yang memiliki metrik jumlah **Penonton**, **Suka**, **Konten Dibagikan**, **Komentar**, **Kunjungan Profil**, dan **Pengikut Baru**.
 
-  - **\*\*Penjualan\*\***
+  - **Penjualan**
 
 Data yang berhubungan dengan penjualan dari konten Shopee Video Anda yang memiliki metrik berikut:
 
@@ -116,7 +121,7 @@ Data performa pada Data Utama, Persebaran Audiens, dan Video akan tersedia di ha
 
 
 
-**ð¡ Tips**
+**💡 Tips**
 
 Anda disarankan untuk menganalisis performa Shopee Video Anda secara berkala demi meningkatkan strategi konten Anda.
 
@@ -193,7 +198,7 @@ Klik panah atas dan bawah di samping setiap metrik untuk mengurutkan video Anda 
 
 Untuk melihat *detail* lebih lanjut tentang performa dan Persebaran Audiens pada masing-masing video, pilih **Rincian**.
 
- **ð¡Tips**
+ **💡Tips**
 
   - Identifikasi video dengan **Suka** dan **Share** tertinggi untuk memahami jenis konten yang populer di kalangan Pengguna.
   - Rata-rata durasi ditonton sebuah video yang lebih panjang dibandingkan video lain dapat menunjukkan bahwa konten tersebut lebih efektif dalam menarik perhatian Penonton.
@@ -239,3 +244,21 @@ Penjualan yang tidak memenuhi kriteria atribusi langsung tidak akan dihitung seb
       - Halaman toko
       - *Channel* promosi Shopee lainnya
   - *Checkout* dilakukan di luar alur konten Shopee Video
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Data performa baru muncul sejak video diposting | H+2 |
+| Waktu update data | tiap pk. 12.00 WIB |
+| Minimal Penonton buat lihat Demografi Pengguna | 10 Penonton |
+| Window atribusi add-to-cart → checkout (masih dihitung) | maks. 7 hari sejak dari dalam konten video |
+| Pilihan periode data (Seller Centre) | 1, 7, 15, atau 30 hari terakhir, atau per hari/minggu/bulan spesifik |
+
+## Pertanyaan diagnosa
+
+1. **Member komplain penjualan gak ke-track padahal ada transaksi lewat video?** Cek jalur checkout-nya — kalau Pembeli nonton video tapi checkout dari halaman pencarian/toko/channel lain (bukan langsung dari alur video), itu MEMANG gak dihitung sebagai penjualan Shopee Video (bukan bug).
+2. **Video baru di-*upload*, kenapa performanya masih kosong?** Data baru tersedia H+2 sejak video diposting — bukan real-time.
+3. **Tab Demografi Pengguna gak muncul datanya?** Butuh minimal 10 Penonton video dulu.
+4. **Member mau download data buat laporan/analisis lanjutan?** Arahkan ke fitur Export Data (tersedia di tiap halaman metrik, format Excel).
+5. **Beda "Pesanan Dibuat" vs "Pesanan Siap Dikirim"?** Pesanan Dibuat = semua pesanan (termasuk belum dibayar); Pesanan Siap Dikirim = non-COD yang udah dibayar + COD yang udah dikonfirmasi kirim (~30 menit setelah pesanan dibuat).

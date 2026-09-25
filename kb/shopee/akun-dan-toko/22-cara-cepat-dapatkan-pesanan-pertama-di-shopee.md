@@ -11,18 +11,21 @@ valid_as_of: 2026-05
 sources:
   - file: umum--mulai-berjualan/cara-cepat-dapatkan-pesanan-pertama-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-promosi-009, shp-promosi-010, shp-toko-027]
 ---
 # Cara Cepat Dapatkan Pesanan Pertama di Shopee
 
 ## Ringkasan
+Tips dapat pesanan pertama: ikut GOX & Promo XTRA (kena biaya layanan), harga kompetitif (riset pasar dulu), perbanyak variasi produk, Fitur Naikkan Produk (maks. 5 produk/4 jam), Voucher Toko, dan sebar di medsos (JANGAN spam).
+
+## Kapan ini dipakai
+Dipakai kalau member (penjual baru) nanya strategi biar cepat dapat pesanan pertama. Buat detail GOX & Promo XTRA, arahkan ke `shp-promosi-009`/`shp-promosi-010`; buat langkah setelah dapat pesanan pertama, arahkan ke `shp-toko-027`.
+
+## Isi
+
 **Bergabung dalam Program Opsional Gratis Ongkir XTRA**
 
 
-01-05-2026
-
-**Bergabung dalam Program Opsional Gratis Ongkir XTRA**
-
-  
 
 [Program Opsional Gratis Ongkir XTRA](https://seller.shopee.co.id/edu/article/6922) adalah program yang memberikan kesempatan bagi Penjual yang menawarkan min. pembelian untuk mendapatkan Gratis Ongkir yang lebih besar kepada Pembeli dibandingkan Penjual Gratis Ongkir biasa. Bergabung dalam Program Opsional Gratis Ongkir XTRA membantu meningkatkan penjualan secara signifikan.
 
@@ -98,3 +101,17 @@ Buat akun media sosial khusus untuk promosikan toko Anda, seperti di Instagram d
   
 
 Pelajari lebih lanjut terkait[ cara mempromosikan produk ke media sosial](https://seller.shopee.co.id/edu/article/14829).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas Fitur Naikkan Produk | maks. 5 produk, tiap 4 jam sekali |
+
+## Pertanyaan diagnosa
+
+1. **Member baru upload produk, harga segimana biar kompetitif?** Arahkan riset dulu harga pasaran produk sejenis (contoh: hijab voal), sesuaikan supaya sesuai persepsi Pembeli — jangan asal tebak harga.
+2. **Member mau pakai Fitur Naikkan Produk tapi tombolnya gak aktif?** Cek 2 kemungkinan: udah mencapai batas maksimal (5 produk/4 jam) ATAU produknya masih dalam proses pemeriksaan Shopee.
+3. **Member mau promosi toko di media sosial, ada batasannya?** Boleh, TAPI JANGAN SPAM — arahkan buat akun medsos khusus toko (Instagram/Facebook) atau promosi lewat messaging apps (WhatsApp/LINE/Telegram) secara wajar.
+4. **Member ikut Promo XTRA, kok ada potongan biaya?** Wajar — Program Opsional Promo XTRA mengenakan biaya layanan, beda dari GOX yang mekanismenya beda.
+5. **Member mau naikkan konversi tapi cuma jual 1 varian warna?** Arahkan perbanyak variasi produk — makin banyak variasi, makin banyak kesempatan Pembeli nemu yang cocok.

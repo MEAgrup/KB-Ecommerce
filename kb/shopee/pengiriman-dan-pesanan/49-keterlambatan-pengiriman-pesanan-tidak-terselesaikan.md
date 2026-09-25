@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: pp---kebijakan-penyelesaian-pesanan/keterlambatan-pengiriman-pesanan-tidak-terselesaikan.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-047, shp-pengiriman-043]
 ---
 # Keterlambatan Pengiriman & Pesanan Tidak Terselesaikan
 
 ## Ringkasan
+Kirim di hari ke-3 (Reguler) / hari ke-2 (Next Day/Same Day/Instant) = TERLAMBAT. Gak kirim sampai hari ke-4 (Reguler) / hari ke-3 (cepat) = BATAL OTOMATIS. 6 kondisi pembatalan otomatis lainnya (verifikasi pembayaran gagal, gak login 7 hari, dll). 5 cara hindari: kelola stok, pantau batas waktu, Pengingat Stok Menipis, pengemasan tepat (bubble wrap min. 3 lapis buat produk mudah rusak), tambah tenaga kerja pas promo.
+
+## Kapan ini dipakai
+Dipakai kalau member mau tips PRAKTIS hindari keterlambatan/pembatalan pesanan, atau nanya hari keberapa dianggap terlambat/batal. Buat kebijakan resmi Tingkat Keterlambatan/Tidak Terselesaikan, arahkan ke `shp-pengiriman-047`; buat FAQ batas waktu pengiriman, arahkan ke `shp-pengiriman-043`.
+
+## Isi
+
 **Tentang Keterlambatan Pengiriman & Pesanan Tidak Terselesaikan**
 
 
-28-07-2026
-
-**Tentang Keterlambatan Pengiriman & Pesanan Tidak Terselesaikan**
 
 Keterlambatan pengiriman adalah ketika Anda mengirimkan pesanan setelah masa pengemasan. Cek[ masa pengemasan](https://seller.shopee.co.id/edu/article/2011) untuk produk pre-order dan non pre-order untuk memastikan pengiriman pesanan tepat waktu.
 
@@ -83,7 +88,7 @@ Jika lewat dari keenam batas waktu yang disebutkan di atas, maka pengembalian da
 
   
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Untuk meningkatkan efisiensi proses pengiriman, Anda bisa mengemas produk terlaris Anda terlebih dahulu sebelum masa promosi.
 
@@ -105,7 +110,7 @@ Anda dapat melacak jumlah stok yang Anda miliki untuk setiap produk di bawah kol
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Aktifkan[ **Fitur Mode Libur**](https://seller.shopee.co.id/edu/courseDetail/39?lessonId=96) di[ **Pengaturan Toko**](https://seller.shopee.co.id/portal/all-settings/vacation-mode) jika Anda sedang bepergian untuk menghindari keterlambatan pengiriman & pesanan tidak terselesaikan.
 
@@ -157,7 +162,7 @@ Anda dapat meng-*download* daftar pesanan per produk yang harus segera diproses 
   
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda juga bisa melakukan pengemasan dan pengaturan pengiriman secara massal ketika terjadi lonjakan pesanan, di mana terdapat banyak pesanan yang harus segera dikemas dan dikirim.
 
@@ -169,3 +174,30 @@ Pekerjakan lebih banyak tenaga kerja ketika Anda mengantisipasi peningkatan pesa
   
 
 Pastikan tim Anda sudah terlatih untuk mengemas dan mengelola produk secara hati-hati dan efisien. Anda beserta tim Anda juga dianjurkan untuk membiasakan diri dengan situs dan aplikasi Shopee untuk mempercepat proses penyelesaian pesanan.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Hari dianggap TERLAMBAT (Reguler) | hari ke-3 |
+| Hari dianggap TERLAMBAT (Next Day/Same Day/Instant) | hari ke-2 |
+| Hari BATAL OTOMATIS (Reguler) | hari ke-4 |
+| Hari BATAL OTOMATIS (Next Day/Same Day/Instant) | hari ke-3 |
+| Ambang Tingkat Keterlambatan kena penalti | >10% |
+| Batas verifikasi pembayaran umum | 1x24 jam |
+| Batas verifikasi ShopeePay/SPayLater | 1 jam setelah checkout |
+| Batas verifikasi kartu kredit/Akulaku/Kredivo | 3 jam setelah checkout |
+| Batas gak login aplikasi | 7 hari sejak Pembeli bayar |
+| Batas ajukan banding keterlambatan (kesalahan jasa kirim) | 14 hari kalender |
+| Lapisan bubble wrap minimum (produk mudah rusak) | min. 3 lapis |
+| Jumlah cara hindari keterlambatan/tidak terselesaikan | 5 cara |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim pesanan Reguler di hari ke-3, kena dianggap terlambat?** YA — hari ke-3 SUDAH dianggap terlambat buat layanan Reguler; buat Next Day/Same Day/Instant, batasnya lebih ketat (hari ke-2).
+2. **Member gak kirim pesanan Reguler sampai hari ke-4, apa yang terjadi?** OTOMATIS DIBATALKAN — beda dari sekadar "terlambat", ini udah masuk ambang pembatalan otomatis dan dana Pembeli dikembalikan.
+3. **Member sering kehabisan stok mendadak?** Arahkan aktifkan fitur "Pengingat Stok Menipis" di Produk Saya > Lainnya — set Batas Min. Stok biar dapat notifikasi sebelum stok bener-bener habis.
+4. **Member jual produk mudah pecah/rusak, standar pengemasannya gimana?** Minimal bubble wrap 3 LAPIS + bahan kemasan pendukung lainnya, buat cegah kerusakan yang bisa memicu retur & ulasan buruk.
+5. **Member mau liburan tapi masih ada pesanan yang harus diselesaikan?** Aktifkan Mode Libur DULU — TAPI pesanan yang UDAH MASUK sebelum Mode Libur aktif tetap wajib diselesaikan sesuai batas waktu asli.
+6. **Member kena keterlambatan karena kurir yang telat jemput paket?** Ajukan banding via Kesehatan Toko > Tingkat Keterlambatan Pengiriman Pesanan, dalam 14 hari kalender.
+7. **Member mau prioritaskan pesanan mana yang harus dikirim duluan?** Urutkan di menu Pesanan Saya berdasarkan Tanggal Pesanan Siap Dikirim, Batas Pengiriman, atau Tanggal Pesanan Dibuat (terlama ke terbaru atau sebaliknya).

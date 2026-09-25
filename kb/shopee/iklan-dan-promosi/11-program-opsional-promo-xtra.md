@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: mj---program-shopee/program-opsional-promo-xtra.md
     bagian: "artikel penuh"
+related: [shp-promosi-010, shp-promosi-009]
 ---
 # Program Opsional Promo XTRA+
 
 ## Ringkasan
+Promo XTRA+ = versi "upgrade" dari Promo XTRA (`shp-promosi-010`) dengan skema voucher LEBIH BESAR (diskon 7%-33% tergantung kategori, +3% ekstra buat Pembeli ShopeeVIP) dan kampanye spesial tiap Rabu (Serbu Rabu). Biaya Layanan LEBIH TINGGI dari Promo XTRA biasa: 6,5% (maks. Rp80.000/kuantitas produk) vs 4,5% (maks. Rp60.000/kuantitas produk) di Promo XTRA. Syarat kelayakan & proses gabung/berhenti (maks. 2 hari kalender) sama dengan Promo XTRA.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya beda Promo XTRA vs Promo XTRA+, atau besaran diskon/biaya layanan Promo XTRA+ spesifik. Buat program dasarnya (Promo XTRA biasa), arahkan ke `shp-promosi-010`; buat Gratis Ongkir XTRA (program terpisah), arahkan ke `shp-promosi-009`.
+
+## Isi
+
 **Apa itu Program Opsional Promo XTRA+?**
 
 
-31-07-2026
-
-**Apa itu Program Opsional Promo XTRA+?**
 
 **Promo XTRA+** adalah program opsional Promo XTRA terbaru yang memberikan kesempatan bagi seluruh Penjual untuk menawarkan voucher diskon dengan skema yang LEBIH BESAR.
 
@@ -53,17 +58,17 @@ Berikut skema voucher **Promo XTRA+** yang berlaku mulai 27 April 2026:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*DISKON\*\* | \*\*MIN. BELANJA\*\* | \*\*MAKS. DISKON\*\* |
-| \*\*Semua Kategori\*\* | 7% - 15% | Rp30.000 - Rp200.000 | Rp100.000 - Rp1.000.000 |
-| \*\*Fashion\*\* | 12% - 22% | Rp100.000 - Rp300.000 | Rp100.000 |
-| \*\*Kecantikan\*\* | 17% | Rp100.000 | Rp100.000 |
+| **KATEGORI** | **DISKON** | **MIN. BELANJA** | **MAKS. DISKON** |
+| **Semua Kategori** | 7% - 15% | Rp30.000 - Rp200.000 | Rp100.000 - Rp1.000.000 |
+| **Fashion** | 12% - 22% | Rp100.000 - Rp300.000 | Rp100.000 |
+| **Kecantikan** | 17% | Rp100.000 | Rp100.000 |
 
 Tambahan voucher **Beli 2 Gratis 1** yang berlaku pada 1 April 2026 setiap hari Rabu:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*DISKON\*\* | \*\*MIN. BELANJA\*\* | \*\*MAKS. DISKON\*\* |
-| \*\*Fashion\*\* | 33% | 3 Produk | Rp50.000 |
+| **KATEGORI** | **DISKON** | **MIN. BELANJA** | **MAKS. DISKON** |
+| **Fashion** | 33% | 3 Produk | Rp50.000 |
 
 Khusus untuk Pembeli ShopeeVIP akan mendapatkan voucher 3% lebih besar.
 
@@ -143,7 +148,7 @@ Biaya layanan akan dikenakan untuk semua pesanan terselesaikan (dengan atau tanp
 
   
 
-*\*\*\*\*Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965). *\*\*\*\*Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965). 
+**Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965). **Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965). 
 
   
 
@@ -171,7 +176,7 @@ Ilustrasi pengajuan & waktu efektif bergabung/berhenti adalah sebagai berikut:
 
 |  |  |
 | :-: | :-: |
-| \*\*PENGAJUAN BERGABUNG/BERHENTI\*\* | \*\*WAKTU EFEKTIF BERGABUNG/BERHENTI\*\* |
+| **PENGAJUAN BERGABUNG/BERHENTI** | **WAKTU EFEKTIF BERGABUNG/BERHENTI** |
 | Selasa, 5 Agustus 2025 sebelumpk. 17.00 WIB | Rabu, 6 Agustus 2025 pk. 00.00 WIB |
 | Selasa, 5 Agustus 2025 setelahpk. 17.00 WIB | Kamis, 7 Agustus 2025 pk. 00.00 WIB |
 | Dan seterusnya | Dan seterusnya |
@@ -211,3 +216,28 @@ Ya, Anda dapat berhenti dari Program Opsional Promo XTRA+ dengan mengunjungi men
   
 
 Data formulir pengajuan pemberhentian akan ditarik setiap hari oleh Tim Shopee agar Penjual dapat berhenti bergabung paling cepat dua hari setelah pengajuan berhenti diterima.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Biaya Layanan Promo XTRA+ | 6,5%, maks. Rp80.000/kuantitas produk |
+| Diskon Promo XTRA+ — Semua Kategori | 7% - 15%, min. belanja Rp30.000-Rp200.000, maks. diskon Rp100.000-Rp1.000.000 |
+| Diskon Promo XTRA+ — Fashion | 12% - 22%, min. belanja Rp100.000-Rp300.000, maks. diskon Rp100.000 |
+| Diskon Promo XTRA+ — Kecantikan | 17%, min. belanja Rp100.000, maks. diskon Rp100.000 |
+| Bonus voucher khusus Pembeli ShopeeVIP | +3% lebih besar dari voucher standar |
+| Voucher tambahan Beli 2 Gratis 1 (Fashion, tiap Rabu) | diskon 33%, min. 3 produk, maks. diskon Rp50.000 |
+| Syarat toko aktif | terima pesanan dalam 7 hari terakhir |
+| Proses pengajuan gabung/berhenti | maks. 2 hari kalender sejak formulir diterima |
+
+## Pertanyaan diagnosa
+
+1. **Member bingung pilih Promo XTRA atau Promo XTRA+?** Promo XTRA+ = diskon lebih besar + eksposur khusus + kampanye Serbu Rabu, TAPI biaya layanan lebih tinggi (6,5% vs 4,5%, plafon Rp80.000 vs Rp60.000) — trade-off exposure lebih besar dengan biaya lebih besar.
+2. **Member mau tau biaya layanan Promo XTRA+ per pesanan?** 6,5% dari (Harga Asli Produk − Diskon/Voucher Ditanggung Penjual), maks. Rp80.000/kuantitas produk — dikenakan buat SEMUA pesanan selesai, dengan/tanpa voucher.
+3. **Pembeli ShopeeVIP komplain vouchernya beda dari Pembeli biasa?** Memang beda — Pembeli ShopeeVIP dapat voucher 3% LEBIH BESAR dibanding voucher standar Promo XTRA+.
+4. **Member kena biaya layanan padahal pesanan dibatalkan?** TIDAK — biaya cuma dikenakan buat pesanan yang SELESAI.
+5. **Member ikut Promo XTRA, mau upgrade ke Promo XTRA+, apa harus keluar dulu?** Ini 2 program terpisah — arahkan daftar Promo XTRA+ lewat menu Promosi atau formulir pendaftaran Promo XTRA+ (bukan otomatis upgrade dari status Promo XTRA biasa).
+6. **Produk member gak kena voucher Promo XTRA+ walau toko udah ikut?** Sama seperti Promo XTRA — Produk Eksklusif Member, produk yang dilarang, dan produk dari kategori tertentu DIKECUALIKAN.
+
+## Batasan
+Bagian "Biaya Layanan Penjual pada Program Opsional Promo XTRA+" di sumber ini menyebut ilustrasi per tipe Penjual (Non-Star, Star & Star+, Shopee Mall) tapi kontennya kosong/hilang saat scraping (cuma sisa placeholder "Ilustrasi di atas..."). Rumus biaya (6,5%, maks. Rp80.000/kuantitas produk) berlaku SAMA untuk semua tipe Penjual berdasarkan teks yang tersalin, tapi kalau member butuh contoh perhitungan konkret per tipe Penjual, jangan karang angka — arahkan cek langsung di Seller Centre.

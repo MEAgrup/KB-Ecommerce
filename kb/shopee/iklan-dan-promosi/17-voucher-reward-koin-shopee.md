@@ -11,16 +11,21 @@ valid_as_of: 2026-03
 sources:
   - file: mj---shopee-lokal/voucher-reward-koin-shopee.md
     bagian: "artikel penuh"
+related: [shp-promosi-016]
 ---
 # Voucher Reward Koin Shopee
 
 ## Ringkasan
+Voucher Reward Koin Shopee = program (khusus Penjual Terpilih via undangan) buat nominasikan Voucher Toko yang tampil di halaman Reward Koin Shopee — Pembeli klaim voucher pakai Koin Shopee. Syarat voucher: min. diskon Rp10.000, min. persentase diskon 5% dari min. pembelian, min. kuota 150 voucher, HARUS lebih besar dari voucher toko lain di periode sama. Voucher yang berhasil tampil TIDAK BOLEH dinominasikan lagi di periode berikutnya (larangan tampil 2 periode berturut-turut). Pembatalan cuma bisa maks. 3 hari kerja sebelum jam 16:00 WIB sebelum hari pertama periode tampil.
+
+## Kapan ini dipakai
+Dipakai kalau member (Penjual Terpilih) nanya syarat nominasi Voucher Reward Koin Shopee, atau cara batalkan voucher yang udah dinominasikan. Buat Promo Voucher secara umum (bukan yang ditukar pakai Koin Shopee), arahkan ke `shp-promosi-016`.
+
+## Isi
+
 **Apa itu Voucher Reward Koin Shopee?**
 
 
-17-03-2026
-
-**Apa itu Voucher Reward Koin Shopee?**
 
 Voucher Reward Koin Shopee adalah salah satu dari berbagai macam promo yang diselenggarakan oleh Shopee. Melalui Voucher Reward Koin Shopee, Anda bisa menominasikan Voucher Toko Anda untuk ditampilkan pada halaman Reward Koin Shopee di aplikasi dan situs Shopee.
 
@@ -77,7 +82,7 @@ Anda harus menominasikan Voucher dengan ketentuan berikut:
 
 Lihat daftar[ Voucher Reward Koin Shopee yang akan datang](https://seller.shopee.co.id/portal/web-seller-voucher/campaign/) untuk memilih dan menyesuaikan dengan Voucher Toko yang Anda miliki.
 
-**ð¡ Tips**
+**💡 Tips**
 
 Tingkatkan peluang nominasi Anda disetujui dengan menjaga poin penalti dan[ performa toko](https://seller.shopee.co.id/portal/accounthealth/home) Anda.
 
@@ -89,27 +94,27 @@ Anda dapat meningkatkan peluang Voucher Anda disetujui dengan cara meningkatkan 
 
   - Kriteria Toko
       
-      - **\*\*Penjual Luar Negeri\*\***
+      - **Penjual Luar Negeri**
 
 Penjual Luar Negeri merupakan toko yang melakukan penjualan di luar negeri, sedangkan Penjual yang bukan Penjual Luar Negeri adalah toko yang berjualan di negara asal toko.
 
-  - **\*\*Fitur Mode Libur\*\***
+  - **Fitur Mode Libur**
 
 Jika toko Anda mengaktifkan fitur Mode Libur, maka Anda tidak dapat menominasikan Voucher Anda dalam Voucher Reward Koin Shopee yang tersedia.
 
-  - **\*\*Tipe Toko\*\***
+  - **Tipe Toko**
 
 Periksa jika terdapat ketentuan tipe toko, seperti Star, Star+, atau Shopee Mall.
 
-  - **\*\*Penilaian Toko\*\***
+  - **Penilaian Toko**
 
 Periksa apakah kriteria penilaian toko sesuai dengan[ penilaian toko](https://seller.shopee.co.id/edu/courseDetail/285?lessonId=100) Anda.
 
-  - **\*\*Rata-rata Masa Pengemasan\*\***
+  - **Rata-rata Masa Pengemasan**
 
 Periksa apakah kriteria rata-rata masa pengemasan sesuai dengan rata-rata masa pengemasan toko Anda.
 
-  - **\*\*Poin Penalti\*\***
+  - **Poin Penalti**
 
 Periksa apakah kriteria poin penalti sesuai dengan poin penalti yang toko Anda miliki.
 
@@ -117,23 +122,23 @@ Periksa apakah kriteria poin penalti sesuai dengan poin penalti yang toko Anda m
 
   - Kriteria Voucher
       
-      - **\*\*Kuota Pemakaian\*\***
+      - **Kuota Pemakaian**
 
 Jumlah Voucher yang dapat digunakan oleh Pembeli pada toko Anda.
 
-  - **\*\*Minimum Pembelian\*\***
+  - **Minimum Pembelian**
 
 Minimum pembelian yang harus Pembeli capai untuk dapat menggunakan Voucher.
 
-  - **\*\*Tipe Voucher\*\***
+  - **Tipe Voucher**
 
 Tipe Voucher meliputi Voucher Toko dan Voucher Produk.
 
-  - **\*\*Tipe Diskon\*\***
+  - **Tipe Diskon**
 
 Tipe Diskon meliputi Nominal Diskon, Persentase Diskon, dan Cashback Koin.
 
-  - **\*\*Atur Tampilan Voucher\*\***
+  - **Atur Tampilan Voucher**
 
 Tempat Voucher dapat ditampilkan, apakah di seluruh fitur Shopee atau hanya pada fitur tertentu, seperti Shopee Live.
 
@@ -174,7 +179,7 @@ Jika Diskon yang Anda masukkan ditolak oleh sistem, kemungkinan Diskon tersebut 
 
 Anda tidak dapat mengubah jumlah kuota Voucher setelah Anda menominasikan Voucher tersebut. Pastikan Anda menetapkan jumlah kuota Voucher yang sesuai.
 
-ð **Definisi**
+📍 **Definisi**
 
 **Promo**: *Event* utama dimana Anda akan menominasikan Voucher Toko Anda ke dalamnya.
 
@@ -247,7 +252,7 @@ Berikut ini data yang diperlukan untuk mengisi formulir pembatalan:
 
   
 
-**1.** ***Link*** **Toko** (*Link* dapat disalin dari halaman toko)
+**1.** **Link** **Toko** (*Link* dapat disalin dari halaman toko)
 
   
 
@@ -282,3 +287,26 @@ Anda tidak perlu melakukan apa pun jika Voucher yang Anda nominasikan telah dise
   
 
 **Apa Perbedaan Promo Voucher dan Voucher Reward Koin Shopee?**
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Minimal Diskon Voucher | Rp10.000 |
+| Minimal Persentase Diskon | 5% dari harga minimal pembelian |
+| Minimal kuota Voucher | 150 voucher |
+| Larangan tampil berturut-turut | voucher dari Penjual yang sama gak boleh tampil 2 periode berturut-turut |
+| Jadwal Periode 2 | tanggal 25-8 tiap bulan (nominasikan voucher SAMA di semua sesi periode ini) |
+| Batas waktu pembatalan voucher | maks. 3 hari kerja, sebelum jam 16:00 WIB, sebelum hari pertama periode tampil |
+
+## Pertanyaan diagnosa
+
+1. **Member (Penjual Terpilih) mau nominasikan voucher tapi ditolak sistem?** Cek 4 syarat minimum: diskon ≥Rp10.000, persentase diskon ≥5% dari min. pembelian, kuota ≥150 voucher, DAN diskonnya harus lebih besar dari voucher toko lain yang tampil di periode sama.
+2. **Voucher member berhasil tampil bulan ini, mau nominasikan lagi bulan depan?** TIDAK BOLEH — voucher dari Penjual yang sama gak boleh tampil 2 periode BERTURUT-TURUT; kalau tetap dinominasikan, otomatis dibatalkan Shopee.
+3. **Member ikut Periode 2 (tanggal 25-8), boleh pakai voucher beda-beda per sesi?** TIDAK — khusus Periode 2, Penjual WAJIB nominasikan voucher yang SAMA di semua sesi yang tersedia dalam periode itu.
+4. **Member mau batalkan voucher yang udah tampil di halaman Reward Koin Shopee?** TIDAK BISA — pembatalan cuma bisa dilakukan SEBELUM voucher tampil, paling lambat 3 hari kerja & jam 16:00 WIB sebelum hari pertama periode tampil, lewat Formulir Pembatalan Nominasi.
+5. **Member ketahuan bagikan kode voucher ke pihak lain?** Voucher akan LANGSUNG DIBERHENTIKAN — larangan berbagi kode voucher berlaku ketat buat program ini.
+6. **Formulir pembatalan voucher member gak diproses?** Cek data yang diisi — pengajuan pembatalan TIDAK akan diproses kalau ada kesalahan data di formulir (link toko, kode voucher, atau periode voucher).
+
+## Batasan
+Bagian "Apa Perbedaan Promo Voucher dan Voucher Reward Koin Shopee?" di akhir sumber ini gak ada jawabannya (kemungkinan tabel perbandingan hilang saat scraping). Jangan karang perbedaannya — berdasarkan konten yang tersalin di entry ini vs `shp-promosi-016`, bedanya kemungkinan di cara klaim (Koin Shopee vs langsung) dan lokasi tampil (halaman Reward Koin Shopee vs banner umum), tapi kalau member butuh perbandingan resmi lengkap, arahkan cek langsung ke Seller Centre atau kedua artikel sumber aslinya.

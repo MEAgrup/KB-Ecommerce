@@ -15,12 +15,12 @@ sources:
 # Program Akselerasi Usaha Lokal
 
 ## Ringkasan
-**Apa itu Program Akselerasi Produk Lokal?**
+Program Akselerasi Usaha Lokal (3A: Usaha/Operasional/Perlindungan) kasih dukungan buat Penjual dalam negeri — voucher Rp500.000/bulan otomatis buat penjual 100% produk lokal (syarat: min. 5 produk aktif, rekening terverifikasi), plus diskon biaya buat Program Ekspor FLEXI dan Layanan Dikelola Shopee.
 
+## Kapan ini dipakai
+Dipakai buat cek eligibilitas voucher otomatis Rp500rb/bulan (khusus penjual 100% produk lokal terverifikasi) — beda dari dukungan umum (pelatihan Kampus UMKM, diskon biaya ekspor/Dikelola Shopee) yang berlaku buat semua Penjual dalam negeri.
 
-14-08-2026
-
-**Apa itu Program Akselerasi Produk Lokal?**
+## Isi
 
 Program Akselerasi Produk Lokal adalah program yang memberikan berbagai dukungan bagi Penjual dalam negeri untuk mengembangkan bisnisnya dan menarik lebih banyak Pembeli di Shopee.
 
@@ -79,3 +79,24 @@ Berikut dukungan tambahan yang dapat Anda manfaatkan sebagai Penjual dalam neger
   - Pastikan toko tidak memiliki riwayat kejanggalan pesanan/akun dan penyalahgunaan program lainnya untuk kepentingan pribadi.
   - Jika Anda belum membuat toko di Shopee, pelajari[ Berjualan di Shopee](https://seller.shopee.co.id/edu/article/464) untuk mendaftar sebagai Penjual Shopee terlebih dahulu.
   - Jika Anda memiliki pertanyaan lebih lanjut, hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Nominal voucher otomatis | Rp500.000 / bulan |
+| Tanggal distribusi voucher | tiap tanggal 17 |
+| Masa berlaku voucher | sampai hari kalender terakhir bulan yang sama |
+| Min. produk aktif buat syarat | 5 |
+| Diskon biaya Program Ekspor FLEXI | gratis biaya layanan & admin lebih rendah selama 3 bulan |
+| Diskon Layanan Dikelola Shopee | gratis biaya layanan 3 bulan pertama, lebih rendah setelahnya |
+
+## Pertanyaan diagnosa
+
+1. **Toko jual 100% produk lokal yang udah diverifikasi Shopee?** Ini syarat mutlak buat voucher Rp500rb/bulan — kalau ada produk impor campuran, kemungkinan gak eligible.
+2. **Produk aktif udah 5 atau lebih, dan rekening bank udah terverifikasi?** Dua syarat teknis yang sering kelewat.
+3. **Voucher-nya belum kelihatan di toko?** Cek tanggal — didistribusikan tanggal 17, bukan awal bulan.
+4. **Yang ditanya soal voucher otomatis, atau dukungan lain** (pelatihan, diskon ekspor, Brand IP Portal)? Voucher otomatis cuma buat penjual produk lokal terverifikasi; dukungan lain berlaku buat semua Penjual dalam negeri.
+
+## Batasan
+Shopee eksplisit bilang bisa mengubah/menghentikan program ini kapan saja tanpa pemberitahuan — jangan janjikan voucher ini ke member sebagai hal permanen.

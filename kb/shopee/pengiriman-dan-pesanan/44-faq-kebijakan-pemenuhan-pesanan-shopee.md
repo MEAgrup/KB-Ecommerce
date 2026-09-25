@@ -11,16 +11,21 @@ valid_as_of: 2025-09
 sources:
   - file: pp---kebijakan-penyelesaian-pesanan/faq-kebijakan-pemenuhan-pesanan-shopee.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-047, shp-pengiriman-043]
 ---
 # FAQ Kebijakan Pemenuhan Pesanan Shopee
 
 ## Ringkasan
+Tingkat Keterlambatan Pengiriman & Tingkat Pesanan Tidak Terselesaikan = persentase dalam 7 hari terakhir, otomatis dihitung sistem (cek di Kesehatan Toko), aman kalau ≤2%. Kesalahan jasa kirim yang DIDUKUNG Shopee TIDAK kena penalti — bisa banding kalau salah kena. Kebijakan ini TETAP berlaku meski pakai jasa kirim yang gak didukung Shopee. Pembatalan otomatis kalau paket gak diantar/pickup dalam 2 hari (Reguler) atau 1 hari (Next Day/Same Day/Instant) setelah batas waktu pengiriman.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya soal Tingkat Keterlambatan/Tidak Terselesaikan secara FAQ ringkas. Buat kebijakan lengkap, arahkan ke `shp-pengiriman-047`; buat FAQ batas waktu pengiriman, arahkan ke `shp-pengiriman-043`.
+
+## Isi
+
 **1. Apa yang dimaksud dengan Tingkat Keterlambatan Pengiriman Pesanan?**
 
 
-01-09-2025
-
-**1. Apa yang dimaksud dengan Tingkat Keterlambatan Pengiriman Pesanan?**
 
 Tingkat Keterlambatan Pengiriman Pesanan adalah persentase pesanan yang terlambat dikirim oleh Penjual dalam 7 hari terakhir.
 
@@ -80,7 +85,7 @@ Pelajari lebih lanjut tentang[ menghindari pembatalan otomatis](https://seller.s
 
   
 
-**8. Apakah Tingkat Pesanan Tidak Terselesaikan/Tingkat Keterlambatan Pengiriman saya dapat terpengaruh jika jasa kirim yang didukung Shopee gagal atau terlambat** ***pick up*** **pesanan?**
+**8. Apakah Tingkat Pesanan Tidak Terselesaikan/Tingkat Keterlambatan Pengiriman saya dapat terpengaruh jika jasa kirim yang didukung Shopee gagal atau terlambat** **pick up** **pesanan?**
 
 Tidak, Anda tidak akan diberikan poin penalti jika pesanan dibatalkan atau terlambat dikirim karena kesalahan jasa kirim yang didukung Shopee.
 
@@ -89,4 +94,19 @@ Tidak, Anda tidak akan diberikan poin penalti jika pesanan dibatalkan atau terla
 Jika Anda secara salah diberikan poin penalti, Anda dapat[ mengajukan banding](https://seller.shopee.co.id/edu/article/16074/pengajuan-banding-penalti) melalui halaman Kesehatan Toko. Shopee akan menghapus pesanan tertentu dari perhitungan Tingkat Pesanan Tidak Terselesaikan/Tingkat Keterlambatan Pengiriman jika pengajuan banding Anda berhasil.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Periode hitung Tingkat Keterlambatan/Tidak Terselesaikan | 7 hari terakhir |
+| Ambang aman (gak kena pelanggaran Sistem Poin Penalti) | 2% - 10% |
+| Batas paket belum diantar/pickup (jasa kirim Reguler) | 2 hari setelah batas waktu pengiriman |
+| Batas paket belum diantar/pickup (Next Day/Same Day/Instant) | 1 hari setelah batas waktu pengiriman |
+
+## Pertanyaan diagnosa
+
+1. **Member Tingkat Keterlambatan Pengirimannya 5%, kena penalti gak?** BELUM — ambang 2%-10% masih di bawah pelanggaran Sistem Poin Penalti, TAPI angka di atas 2% udah mulai pengaruhi performa & kepercayaan toko.
+2. **Member harus hitung manual Tingkat Keterlambatan/Tidak Terselesaikan-nya?** GAK PERLU — sistem hitung otomatis, cek langsung di halaman Kesehatan Toko (Seller Centre) atau menu Kesehatan Toko (aplikasi Shopee).
+3. **Member pakai jasa kirim yang gak didukung Shopee, apa kebijakan ini tetap berlaku?** TETAP BERLAKU — bahkan kalau ada pengembalian barang/dana terkait jasa kirim (misal paket rusak/hilang di jalan) yang disetujui, itu juga masuk hitungan Tingkat Pesanan Tidak Terselesaikan.
+4. **Jasa kirim yang didukung Shopee gagal/telat pickup pesanan member, kena penalti?** TIDAK — Penjual gak dapat poin penalti kalau penyebabnya kesalahan jasa kirim yang didukung Shopee.
+5. **Member udah atur pengiriman Reguler tepat waktu tapi paket belum diambil kurir?** Masih ada TOLERANSI 2 hari setelah batas waktu pengiriman sebelum dibatalkan otomatis (Next Day/Same Day/Instant cuma 1 hari toleransi).
+6. **Member salah dapat poin penalti padahal itu kesalahan jasa kirim?** Ajukan banding lewat halaman Kesehatan Toko — kalau berhasil, pesanan tersebut DIHAPUS dari perhitungan Tingkat Pesanan Tidak Terselesaikan/Keterlambatan Pengiriman.

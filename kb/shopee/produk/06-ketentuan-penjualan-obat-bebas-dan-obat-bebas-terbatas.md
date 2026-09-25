@@ -11,16 +11,17 @@ valid_as_of: 2026-03
 sources:
   - file: daftar-produk---kebijakan-daftar-produk/ketentuan-penjualan-obat-bebas-dan-obat-bebas-terbatas.md
     bagian: "artikel penuh"
+related: [shp-produk-007, shp-produk-012]
 ---
 # Ketentuan Penjualan Obat Bebas dan Obat Bebas Terbatas
 
 ## Ringkasan
-**Apa itu Obat Bebas dan Obat Bebas Terbatas?**
+Obat Bebas & Obat Bebas Terbatas boleh dijual TANPA resep, tapi wajib: izin edar resmi, info produk lengkap, dan Pelayanan Informasi Obat (edukasi/konsultasi swamedikasi via Chat Penjual) — ini standar pelayanan kefarmasian, bukan opsional. Pengiriman ada 2 opsi: jasa kirim biasa, atau Ambil di Toko (KHUSUS Apotek Shopee Mall, pakai PIN Pengambilan + bukti foto).
 
+## Kapan ini dipakai
+Dipakai buat member yang jual obat bebas/bebas terbatas dan nanya soal kewajiban edukasi Pembeli, mekanisme penjualan, atau opsi pengiriman. Buat panduan teknis upload produk obat, arahkan ke `shp-produk-007`. Buat produk makanan/minuman/suplemen yang overlap sama obat, cek `shp-produk-012`. Kalau soal obat KERAS/resep/terlarang (bukan obat bebas), ini BUKAN entry yang tepat — itu di luar cakupan obat bebas.
 
-12-03-2026
-
-**Apa itu Obat Bebas dan Obat Bebas Terbatas?**
+## Isi
 
 Berikut adalah perbedaan antara Obat Bebas dan Obat Bebas Terbatas:
 
@@ -52,7 +53,7 @@ Terdapat 2 mekanisme penjualan Obat Bebas dan Obat Bebas Terbatas:
 
   
 
-  - **\*\*Penjual memberi konsultasi swamedikasi kepada Pembeli sebelum checkout\*\***
+  - **Penjual memberi konsultasi swamedikasi kepada Pembeli sebelum checkout**
 
   
   
@@ -60,7 +61,7 @@ Terdapat 2 mekanisme penjualan Obat Bebas dan Obat Bebas Terbatas:
   
   
 
-  - **\*\*Pembeli melakukan checkout tanpa menghubungi Penjual/konsultasi swamedikasi\*\***
+  - **Pembeli melakukan checkout tanpa menghubungi Penjual/konsultasi swamedikasi**
 
 Agar penjualan Obat Bebas dan Obat Bebas Terbatas berjalan dengan aman, pastikan Anda mengikuti mekanisme penjualan di atas serta meng-*upload* produk obat Anda sesuai dengan ketentuan yang berlaku. Pelajari selengkapnya melalui[ Panduan Meng-*upload* Produk Obat Bebas dan Obat Bebas Terbatas](https://seller.shopee.co.id/edu/article/27039).
 
@@ -70,13 +71,13 @@ Agar penjualan Obat Bebas dan Obat Bebas Terbatas berjalan dengan aman, pastikan
 
 Setelah Pembeli melakukan pesanan, Anda dapat mulai mengatur pengiriman. Terdapat 2 pilihan metode pengiriman pesanan untuk produk Obat Bebas dan Bebas Terbatas yang dapat dipilih oleh Pembeli yaitu:
 
-1.  **\*\*Mengirimkan pesanan melalui jasa kirim\*\***
+1.  **Mengirimkan pesanan melalui jasa kirim**
 
 Sebelum mengirimkan pesanan, Anda perlu mengatur pengiriman di Seller Centre atau aplikasi Shopee. Pelajari lebih lanjut tentang[ Cara Menyelesaikan Pesanan](https://seller.shopee.co.id/edu/article/11968/Menyelesaikan-Pesanan-Pertama-Anda).
 
   
 
-1.  **\*\*Ambil di Toko\*\***
+1.  **Ambil di Toko**
 
 Metode pengiriman Ambil di Toko hanya tersedia untuk Apotek Shopee Mall. Anda dapat mengaktifkan metode pengiriman Ambil di Toko dengan cara berikut.
 
@@ -106,3 +107,10 @@ Jika Pembeli memilih metode Ambil di Toko, berikut alur yang perlu Anda lakukan:
   
 
 Anda harus meminta **PIN Pengambilan** dari Pembeli dan memasukkan **PIN Pengambilan** serta **Upload Bukti Pengambilan** agar pesanan dapat terkonfirmasi berhasil diambil.
+
+## Pertanyaan diagnosa
+
+1. **Member nanya "obat ini perlu resep gak buat dijual?"** Obat Bebas & Obat Bebas Terbatas TIDAK perlu resep — tapi kalau member nanya soal obat keras/obat resep, itu di luar cakupan entry ini (cek `shp-produk-007` buat panduan upload, atau eskalasi kalau soal obat resep/terlarang).
+2. **Member males kasih edukasi/konsultasi ke Pembeli, bisa langsung jual aja?** Tidak — Pelayanan Informasi Obat itu WAJIB (standar kefarmasian), bukan opsional, meskipun obatnya bebas dibeli tanpa resep. Arahkan pakai fitur Chat Penjual buat edukasi/konsultasi swamedikasi.
+3. **Member Apotek Shopee Mall mau pakai Ambil di Toko — Pembeli komplain gak bisa ambil pesanan?** Cek 2 hal: PIN Pengambilan dari Pembeli udah dimasukkan dengan benar, dan Bukti Pengambilan (foto) udah di-upload — dua-duanya wajib buat konfirmasi pesanan berhasil diambil.
+4. **Member bukan Apotek Shopee Mall tapi mau pakai Ambil di Toko?** Gak bisa — metode ini KHUSUS Apotek Shopee Mall, Penjual biasa cuma bisa pakai jasa kirim biasa.

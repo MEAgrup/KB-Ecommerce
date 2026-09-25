@@ -11,16 +11,21 @@ valid_as_of: 2026-03
 sources:
   - file: umum---akun-dan-keamanan/tentang-keamanan-akun.md
     bagian: "artikel penuh"
+related: [shp-akun-007, shp-akun-006]
 ---
 # Tentang Keamanan Akun
 
 ## Ringkasan
+Panduan lengkap keamanan akun: 2 jenis verifikasi (Verifikasi Akun = lapisan dasar; Proteksi Tindakan Berisiko Tinggi = lapisan ketat buat perubahan data penting/transaksi besar). Verifikasi Kartu Identitas (KTP/KITAS) buka fitur ShopeePay Plus (limit saldo lebih tinggi + transaksi antar-Pengguna). Wajib atur Pertanyaan Keamanan + 1 metode lain biar limit penarikan Saldo Penjual gak diturunkan. Sejak 7 Januari 2026, Verifikasi Wajah TIDAK TERSEDIA sementara. Percobaan verifikasi Proteksi Tindakan Berisiko Tinggi dibatasi maks. 2x/24 jam.
+
+## Kapan ini dipakai
+Dipakai sebagai panduan komprehensif keamanan akun (verifikasi identitas, proteksi tindakan berisiko tinggi, kenali komunikasi mencurigakan). Buat FAQ ringkas keamanan akun, arahkan ke `shp-akun-007`; buat panduan anti-penipuan lengkap, arahkan ke `shp-akun-006`.
+
+## Isi
+
 **Meningkatkan Keamanan Akun Anda**
 
 
-17-03-2026
-
-**Meningkatkan Keamanan Akun Anda**
 
 Untuk menjaga keamanan akun, Anda mungkin akan memerlukan verifikasi tambahan saat terdeteksi adanya aktivitas mencurigakan. Oleh karena itu, Shopee menyarankan untuk mengaktifkan beberapa metode verifikasi agar akun tetap aman dari potensi ancaman. 
 
@@ -58,7 +63,7 @@ Dengan melakukan verifikasi kartu identitas, Anda juga bisa menikmati fitur Shop
 
   
 
-## **Mengatur Verifikasi Telepon, Email, dan** ***Password***
+## **Mengatur Verifikasi Telepon, Email, dan** **Password**
 
   
 
@@ -78,13 +83,13 @@ Anda dapat mengatur metode verifikasi melalui halaman **Pengaturan Akun** di hal
 
 Log in ke Seller Centre, lalu pilih **Pengaturan Akun** di halaman **Pengaturan Umum** untuk menambahkan atau meng-*update* no. telepon, email, dan *password*.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Berikut cara membuat *password* yang kuat:
 
 ## **Mengatur Proteksi Akun**
 
-  - **\*\*Aktifkan Verifikasi Akun\*\***
+  - **Aktifkan Verifikasi Akun**
 
 Demi meningkatkan keamanan akun Anda, fitur metode verifikasi akun kini ditingkatkan dengan Metode Verifikasi SMS. Anda bisa mengaktifkan atau menonaktifkan fitur ini sebagai verifikasi tambahan. Metode verifikasi tambahan lainnya akan dikirim melalui email atau kode QR.
 
@@ -103,7 +108,7 @@ Jika Anda menonaktifkan fitur **Aktifkan Metode SMS untuk Perlindungan Akunmu**,
 
   
 
-  - **\*\*Proteksi Tindakan Berisiko Tinggi\*\***
+  - **Proteksi Tindakan Berisiko Tinggi**
 
 Selain verifikasi Identitas, telepon, email, password, dan akun, Anda juga disarankan untuk mengaktifkan metode tambahan yang lebih aman, terutama untuk tindakan yang berisiko tinggi, seperti perubahan data penting atau transaksi besar. Anda dapat mengatur verifikasi tambahan ini melalui Seller Centre atau aplikasi Shopee.
 
@@ -149,7 +154,7 @@ Melalui **Seller Centre**
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk menggunakan metode verifikasi tambahan, pastikan Anda sudah[ meng-*update* no. handphone](https://seller.shopee.co.id/edu/article/3265) dan[ meng-*update* email](https://seller.shopee.co.id/edu/article/3237).
 
@@ -169,7 +174,7 @@ Adanya teknologi canggih di kehidupan masa kini memudahkan hidup kita semua. Nam
 
 Mohon berhati-hati apabila ada bentuk komunikasi yang mengatasnamakan Shopee karena tidak semua komunikasi berasal dari kami. Demi menjaga keamanan akun dan data Anda, perhatikan ciri-ciri komunikasi palsu sebagai berikut:
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Untuk melihat tujuan *link* yang sebenarnya, arahkan kursor ke *link* di desktop atau sentuh dan tahan *link* jika Anda menggunakan *handphone*. Bahkan *link* seperti https://shopee.co.id/ bisa menyembunyikan *link* berbahaya dan membawa Anda ke situs palsu. Apabila Anda merasa tidak yakin, jangan buka *link* tersebut.
   - Beberapa email dan alamat situs palsu terlihat sangat mirip dengan yang resmi di Shopee. Ketahui cara membedakan situs palsu dari alamat email dan situs Shopee yang asli:
@@ -199,7 +204,7 @@ Informasi pribadi Anda meliputi:
   
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Jangan berikan informasi kode atau *link* verifikasi Anda ke pihak mana pun, termasuk ke Tim Shopee. Tim Shopee tidak akan informasi pribadi Anda.
   - Masukkan kode atau klik *link* verifikasi hanya saat menerima arahan dari situs atau aplikasi Shopee.
@@ -209,3 +214,23 @@ Informasi pribadi Anda meliputi:
 ⚠️**Catatan**
 
 Terdapat beberapa kasus peretasan oleh pihak tidak bertanggung jawab yang mengaku sebagai Tim Shopee atau organisasi lain dan umumnya akan menyatakan bahwa Anda memenangkan hadiah tertentu. Jika Anda merasa tidak yakin terhadap informasi yang diterima, segera hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) untuk memastikan kebenaran informasi tersebut.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah Pertanyaan Keamanan wajib | 3 pertanyaan |
+| Maks. Perangkat Tepercaya terdaftar | 3 perangkat |
+| Batas percobaan verifikasi Proteksi Tindakan Berisiko Tinggi | maks. 2x dalam 24 jam |
+| Tanggal Verifikasi Wajah dihentikan sementara | mulai 7 Januari 2026 |
+| Syarat minimal biar limit penarikan Saldo Penjual gak turun | Pertanyaan Keamanan + 1 metode verifikasi tambahan lainnya |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau kenapa limit penarikan Saldo Penjualnya diturunkan?** Cek metode verifikasi — kalau belum atur Pertanyaan Keamanan DAN minimal 1 metode tambahan lainnya, limit penarikan bisa diturunkan sebagai langkah keamanan.
+2. **Member biasa pakai Verifikasi Wajah, tiba-tiba gak bisa lagi?** Sejak 7 Januari 2026, Verifikasi Wajah DIHENTIKAN SEMENTARA — arahkan aktifkan metode verifikasi tambahan lain (Pertanyaan Keamanan/Perangkat Tepercaya/Email Keamanan).
+3. **Member coba verifikasi Proteksi Tindakan Berisiko Tinggi berkali-kali gagal dalam sehari?** Cek batas — maks. 2x percobaan dalam 24 jam; kalau udah lewat, tunggu atau hubungi CS buat perubahan data.
+4. **Member mau upgrade limit saldo ShopeePay-nya?** Arahkan lakukan Verifikasi Kartu Identitas (upload KTP/KITAS) — ini juga buka fitur ShopeePay Plus + transaksi antar-Pengguna ShopeePay.
+5. **Member ragu suatu link beneran dari Shopee, gimana cek tujuannya?** Di desktop, arahkan kursor ke link (jangan klik) buat lihat tujuan aslinya; di HP, sentuh dan tahan link — bahkan link yang KELIHATAN resmi bisa nyembunyiin tujuan berbahaya.
+6. **Ada yang ngaku Tim Shopee bilang member menang hadiah dan minta data pribadi?** WASPADA — ini pola umum penipuan yang mengatasnamakan Tim Shopee; segera hubungi Customer Service Shopee buat verifikasi kebenarannya.
+7. **Member diminta isi data pribadi lewat WhatsApp/SMS/telepon/formulir online yang ngaku dari Shopee?** JANGAN — data pribadi gak boleh dibagikan lewat platform manapun di luar arahan resmi aplikasi/situs Shopee, termasuk ke "Tim Shopee" sekalipun.

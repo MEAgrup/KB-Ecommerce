@@ -11,16 +11,21 @@ valid_as_of: 2026-08
 sources:
   - file: mj---shopee-video/ketentuan-penggunaan-konten-dihasilkan-ai-di-shopee-video.md
     bagian: "artikel penuh"
+related: [shp-video-003]
 ---
 # Ketentuan Penggunaan Konten Dihasilkan AI di Shopee Video
 
 ## Ringkasan
+Konten AI (foto/video/audio yang dibuat/dimodifikasi signifikan pakai AI) di Shopee Video WAJIB dilabeli — pakai *toggle* "Konten dihasilkan AI" kalau tersedia, atau label/watermark manual kalau belum. Shopee juga bisa deteksi & labeli otomatis (bisa banding kalau salah). ada 6 kategori konten AI yang dilarang total (bukan soal label doang) — lihat daftar di `## Isi`.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya boleh/gak pakai AI buat konten Shopee Video, cara ngasih label AI, atau kena label AI padahal gak pakai AI (banding). Beda dari `shp-video-003` (cara bikin konten Shopee Video secara umum) — ini fokus ke kepatuhan/kebijakan konten AI-nya.
+
+## Isi
+
 Konten dihasilkan AI mencakup teks, foto, video, dan/atau audio yang dibuat atau dimodifikasi secara signifikan menggunakan teknologi AI.
 
 
-11-08-2026
-
-Konten dihasilkan AI mencakup teks, foto, video, dan/atau audio yang dibuat atau dimodifikasi secara signifikan menggunakan teknologi AI.
 
 Contoh konten dihasilkan AI meliputi:
 
@@ -84,9 +89,16 @@ Jika kebijakan ini dilanggar, Shopee dapat mengambil tindakan terhadap konten at
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Selain ketentuan diatas, hindari hal berikut untuk menjaga standar kualitas konten di Shopee Video:
 
   - Kualitas visual atau audio yang buruk
   - Konten yang terlalu repetitif
+
+## Pertanyaan diagnosa
+
+1. **Member pakai AI buat edit/bikin konten produknya — udah dilabeli?** Kalau *toggle* "Konten dihasilkan AI" tersedia, wajib diaktifkan; kalau belum tersedia, arahkan pakai label/watermark manual di caption/teks/stiker.
+2. **Konten member dilabeli "Postingan dilabeli oleh Shopee" padahal gak pakai AI?** Itu deteksi otomatis Shopee (bukan cuma dari toggle member) — bisa banding lewat Customer Service Shopee dengan kasih link Shopee Video-nya.
+3. **Member nanya apakah boleh pakai model/karakter AI buat konten promosi?** Boleh SELAMA dilabeli dan gak masuk 6 kategori terlarang (lihat daftar di `## Isi`) — terutama poin meniru orang nyata/tokoh publik (deepfake) dan HAKI tanpa izin, itu tetap dilarang meskipun sudah dilabeli.
+4. **Konten AI kena tindakan/dihapus Shopee?** Cek dulu masuk kategori mana dari 6 larangan (melanggar kebijakan, menyesatkan, HAKI, meniru orang, anak di bawah umur, berbahaya/ilegal) — tindakannya bisa dari pembatasan visibilitas sampai blokir akses permanen tergantung berat pelanggaran.

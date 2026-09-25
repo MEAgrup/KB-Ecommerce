@@ -11,18 +11,21 @@ valid_as_of: 2024-08
 sources:
   - file: umum---akun-dan-keamanan/penanganan-kendala-aplikasi-shopee-dan-seller-centre.md
     bagian: "artikel penuh"
+related: [shp-toko-007]
 ---
 # Penanganan Kendala Aplikasi Shopee dan Seller Centre
 
 ## Ringkasan
-**Apa yang harus saya lakukan jika mengalami kendala/*****error*****/*****blank page*** **di aplikasi Shopee atau Seller Centre?**
+Troubleshooting kendala teknis: App Shopee (restart app → clear cache → logout/login → update versi → uninstall-reinstall) vs Seller Centre (clear cache browser → mode Incognito). Kalau masih gagal, lampirkan bukti (screenshot/video, spek perangkat, hasil Speed Test, timestamp, + Data API Response khusus buat kendala Seller Centre di PC/laptop).
+
+## Kapan ini dipakai
+Dipakai kalau member ngalamin error/blank page/gagal fitur di aplikasi Shopee atau Seller Centre. Buat cara lapor kendala teknis via Formulir Feedback setelah troubleshooting mandiri gak berhasil, arahkan ke `shp-toko-007`.
+
+## Isi
+
+**Apa yang harus saya lakukan jika mengalami kendala/**error**/**blank page** **di aplikasi Shopee atau Seller Centre?**
 
 
-26-08-2024
-
-**Apa yang harus saya lakukan jika mengalami kendala/*****error*****/*****blank page*** **di aplikasi Shopee atau Seller Centre?**
-
-  
 
 Jika Anda mengalami kendala pada aplikasi Shopee atau Seller Centre, seperti:
 
@@ -69,7 +72,7 @@ Melalui **iOS**
 
 1\. *Clear cache browser* yang Anda gunakan.
 
-2\. Gunakan *browser* pada **Jendela Samaran** atau ***Incognito Mode***
+2\. Gunakan *browser* pada **Jendela Samaran** atau **Incognito Mode**
 
 3\. Jika masih terkendala, mohon lampirkan data pendukung berikut:
 
@@ -83,7 +86,7 @@ Melalui **iOS**
 
 **Cara mendapatkan Data API Response**
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat merekam layar pada perangkat PC/laptop dengan langkah berikut:
 
@@ -124,3 +127,19 @@ Apabila Anda mengalami kendala selama menggunakan Seller Centre atau ingin membe
 **⚠️Catatan**
 
 Jika masalah masih berlanjut, hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) untuk bantuan lebih lanjut dengan melampirkan data *screenshot* atau video kendala yang dialami.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu tunggu sebelum restart HP & login ulang | 1-2 jam |
+| Contoh format versi aplikasi yang perlu dilaporkan | mis. 2.55.13.4.18.3 |
+
+## Pertanyaan diagnosa
+
+1. **Member alami blank page di aplikasi Shopee, urutan troubleshooting apa yang harus dicoba dulu?** Urutan: (1) tutup-buka ulang app/force close, (2) clear cache, (3) logout-login, (4) update ke versi terbaru, (5) uninstall-install ulang — baru lapor kalau masih gagal.
+2. **Member gagal atur pengiriman di Seller Centre lewat browser?** Coba clear cache browser dulu, atau buka pakai mode Incognito/Jendela Samaran — kalau masih gagal, siapkan Data API Response (inspeksi) buat dilampirkan.
+3. **Member disuruh siapkan "Data API Response", gimana caranya di PC/laptop?** Rekam layar dulu — Windows 10 pakai logo Windows + G, Mac pakai QuickTime Player > File > Rekaman Layar Baru > Mulai Merekam.
+4. **Member koneksi WiFi lemot terus pas buka Seller Centre?** Coba restart modem/router, atau kalau pakai data seluler pastikan sinyal stabil — bisa cek kecepatan jaringan pakai Speed Test.
+5. **Member restart HP tapi masalah masih ada?** Tunggu 1-2 JAM sebelum coba login lagi (bukan langsung dicoba lagi detik itu juga), atau coba pakai perangkat lain buat isolasi masalah.
+6. **Member mau lapor kendala ke Shopee, data apa aja yang perlu disiapkan?** Screenshot/video kendala, spesifikasi perangkat (tipe HP/laptop, versi browser/OS, versi aplikasi persis), hasil Speed Test, dan timestamp waktu kejadian.

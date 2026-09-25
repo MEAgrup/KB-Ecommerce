@@ -11,16 +11,17 @@ valid_as_of: 2026-02
 sources:
   - file: analisis-data---analisis-performa-toko/meningkatkan-strategi-dengan-performa-toko.md
     bagian: "artikel penuh"
+related: [shp-performa-001, shp-performa-005]
 ---
 # Meningkatkan Strategi dengan Performa Toko
 
 ## Ringkasan
-**Memahami Performa Toko Anda Secara Keseluruhan**
+Performa Toko punya beberapa tab (Tinjauan, Penjualan, Produk) yang masing-masing bisa dipakai buat evaluasi & susun strategi: baca funnel konversi, bedah komposisi penjualan (kategori/harga/tipe pembeli), identifikasi produk terlaris lewat 5 tag performa otomatis, dan lacak aktivitas operasional (perubahan harga, voucher, iklan) lewat fitur *tag* di Grafik Kriteria per produk.
 
+## Kapan ini dipakai
+Dipakai waktu member udah lewat tahap "baca dashboard doang" dan mau nurunin data itu jadi keputusan strategi — kenapa checkout-nya bocor, kategori mana yang paling kontribusi penjualan, produk mana yang harus dinaikin visibilitasnya atau justru mulai turun performanya.
 
-09-02-2026
-
-**Memahami Performa Toko Anda Secara Keseluruhan**
+## Isi
 
 **Tinjauan**
 
@@ -47,7 +48,7 @@ Metrik **Pesanan Dibatalkan**, **Penjualan Dibatalkan**, **Pesanan Dikembalikan*
 
   
 
-ð¡**Tips**
+💡**Tips**
 
 Arahkan kursor ke *icon*  di samping metrik utama untuk melihat informasi cara perhitungannya. Metrik ini membantu Anda memahami bagaimana Pembeli berinteraksi dengan produk Anda.
 
@@ -59,7 +60,7 @@ Untuk mengetahui dan menganalisis data lebih lanjut, Anda dapat membuka *tab* **
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Sortir data sesuai dengan periode waktu yang Anda inginkan pada menu *dropdown* **Periode Data**, atau berdasarkan jenis pesanan melalui menu *dropdown* **Status Pesanan**.
 
@@ -93,13 +94,13 @@ Bagian **Komposisi Penjualan** membantu Anda memahami penjualan berdasarkan:
 
   
 
-  - **\*\*Komposisi Kategori\*\***
+  - **Komposisi Kategori**
 
 Mengetahui **Kategori** mana yang menghasilkan penjualan paling banyak.
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
   - Manfaatkan fitur[ **Dekorasi Toko**](https://seller.shopee.co.id/edu/article/7323) untuk membuat berbagai kategori produk unggulan toko, seperti produk terlaris, produk pilihan, daftar kategori dan promo pada toko Anda, agar terlihat lebih rapi dan menarik bagi calon Pembeli.
   - Anda juga dapat mengatur promosi produk dengan kategori Terlaris & Terbaru melalui fitur[ **Flash Sale**](https://seller.shopee.co.id/edu/article/6994/Flash-Sale-Shopee) atau potongan harga. Lalu letakkan produk tersebut di Halaman Toko bagian paling atas untuk menarik perhatian calon Pembeli saat mereka berkunjung ke toko Anda.
@@ -107,13 +108,13 @@ Mengetahui **Kategori** mana yang menghasilkan penjualan paling banyak.
   
   
 
-  - **\*\*Komposisi Harga Pesanan\*\***
+  - **Komposisi Harga Pesanan**
 
 Menunjukkan **Rentang Harga** yang populer di kalangan Pembeli
 
   
 
-  - **\*\*Komposisi Pembeli\*\***
+  - **Komposisi Pembeli**
 
 Memberi tahu **Tipe Pembeli** yang paling berkontribusi pada penjualan Anda. Komposisi Pembeli terdiri dari 2 tipe Pembeli yaitu **Pembeli Baru** yang belanja di toko Anda dan **Pembeli Saat Ini** adalah Pembeli yang sudah pernah berbelanja di toko Anda.
 
@@ -129,9 +130,9 @@ Untuk meningkatkan strategi penjualan, Anda perlu memahami produk mana yang suda
 
 Anda dapat melihatnya di **Performa Toko** \> **Tinjauan** \> **Produk** untuk mendapat gambaran umum performa produk Anda yang dibagi ke dalam tiga kategori, yaitu: 
 
-  - **\*\*Produk dengan Performa Terbaik\*\***
-  - **\*\*Produk yang Baru Ditambahkan\*\***
-  - **\*\*Produk dengan Iklan\*\***
+  - **Produk dengan Performa Terbaik**
+  - **Produk yang Baru Ditambahkan**
+  - **Produk dengan Iklan**
 
   
 
@@ -143,7 +144,7 @@ Untuk menganalisis lebih lanjut performa produk Anda, pilih *tab* **Lainnya** un
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk menghasilkan lebih banyak pesanan, terutama untuk produk dan kategori terlaris dengan:
 
@@ -200,11 +201,11 @@ Anda dapat meningkatkan kualitas daftar produk dengan memberikan foto produk yan
 
 Bagian ini dapat membantu mengidentifikasikan kontribusi kunjungan dan penjualan pada produk dan *channel* bagi toko Anda. Berikut adalah 4 *channel* yang ditampilkan di Kunjungan Produk:
 
-  - **\*\*Halaman Produk\*\***
-  - **\*\*Live Penjual\*\***
-  - **\*\*Video Penjual\*\***
-  - **\*\*Affiliate\*\***
-  - **\*\*Iklan Shopee\*\***
+  - **Halaman Produk**
+  - **Live Penjual**
+  - **Video Penjual**
+  - **Affiliate**
+  - **Iklan Shopee**
 
   
 
@@ -234,17 +235,17 @@ Terdapat dua jenis *tag*, yaitu *tag* otomatis dan *tag* manual.
 
   
 
-***Tag*** **Otomatis** akan mencatat secara otomatis aktivitas berupa Nama *Tag* dan Tanggal Dibuat. Jika terdapat aktivitas lainnya yang perlu dicatat, Anda dapat menambahkan secara mandiri menggunakan ***Tag*** **Manual**.
+**Tag** **Otomatis** akan mencatat secara otomatis aktivitas berupa Nama *Tag* dan Tanggal Dibuat. Jika terdapat aktivitas lainnya yang perlu dicatat, Anda dapat menambahkan secara mandiri menggunakan **Tag** **Manual**.
 
   
 
-  - **\*\*\*Tag\*\*\* \*\*otomatis\*\***
+  - **\*Tag**\* **otomatis**
 
 *Tag* akan dibuat secara otomatis oleh sistem ketika terdapat aktivitas berikut:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*AKTIVITAS\*\* | \*\*NAMA\*\* \*\*\*TAG\*\*\* | \*\*KONDISI\*\* | \*\*KETERANGAN\*\* |
+| **AKTIVITAS** | **NAMA** **\*TAG**\* | **KONDISI** | **KETERANGAN** |
 | Mengubah harga jual produk | Perubahan harga | Harga produk yang ditampilkan di Halaman Produk berubah | Hanya akan menampilkan satu \*tag\* perubahan harga di Grafik Kriteria, meskipun perubahan harga terjadi beberapa kali dalam 1 jam |
 | Membuat voucher untuk suatu produk | Voucher: {Nama Voucher} | Terdapat voucher aktif pada produk yang dipilih | Menampilkan \*tag\* untuk voucher yang telah dibuat. \*Tag\* tersedia untuk pilihan waktu hingga 2 tahun terakhir |
 | Memasang Iklan Shopee untuk suatu produk | Iklan Shopee | Terdapat Iklan Shopee yang diklik oleh Pembeli untuk produk tersebut | Hanya akan ada satu \*tag\* 'Iklan Shopee' untuk hari tersebut di Grafik Kriteria dan data laporan yang di-\*download\* |
@@ -253,7 +254,7 @@ Terdapat dua jenis *tag*, yaitu *tag* otomatis dan *tag* manual.
 
   
 
-  - **\*\*\*Tag\*\*\* \*\*Manual\*\***
+  - **\*Tag**\* **Manual**
 
 *Tag* manual dapat Anda tambahkan secara mandiri dengan mengklik tombol "Tambah Tag".
 
@@ -296,10 +297,10 @@ Sumber Kunjungan dibagi ke dalam 2 kategori utama, yaitu:
 
 Kategori ini mencakup penjualan yang berasal dari aktivitas toko secara *real-time*, dengan *channel* sebagai berikut:
 
-  - **\*\*Halaman Produk\*\***
-  - **\*\*Live Penjual\*\***
-  - **\*\*Video Penjual\*\***
-  - **\*\*Affiliate\*\***
+  - **Halaman Produk**
+  - **Live Penjual**
+  - **Video Penjual**
+  - **Affiliate**
 
   
 
@@ -307,7 +308,7 @@ Kategori ini mencakup penjualan yang berasal dari aktivitas toko secara *real-ti
 
 Kategori ini mencakup penjualan yang dihasilkan dari aktivitas promosi:
 
-  - **\*\*Iklan Shopee\*\***
+  - **Iklan Shopee**
 
   
 
@@ -328,3 +329,27 @@ Data ditampilkan berdasarkan bagaimana Pembeli melakukan pembelian di toko Anda.
 1.  **Metrik penjualan produk**: menampilkan data bagaimana Pembeli berinteraksi dengan produk Anda
 2.  **Sumber penjualan**: *channel* dimana produk Anda dibeli
 3.  **Sumber kunjungan**: bagaimana Pembeli diarahkan menuju sumber penjualan Anda (misalnya lewat pencarian atau keranjang).
+
+## Angka & patokan
+
+| Patokan | Nilai | Sumber |
+|---|---|---|
+| Maks. metrik dipilih di tab Tinjauan | 4 | artikel resmi |
+| Jumlah metrik utama di Kriteria Utama | 10 | artikel resmi |
+| Maks. kriteria di *tag* Grafik Kriteria per produk | — | (lihat entry Performa Produk untuk detail kriteria) |
+| "Penjualan Teratas tapi Tren Menurun" (definisi tag) | Penjualan 30 hari terakhir turun ≥50% | artikel resmi |
+| "Penjualan Teratas tapi Penjualan Menurun" / "Penjualan Meningkat tapi Kunjungan Menurun" (definisi tag) | Kunjungan 30 hari terakhir di bawah rata-rata | artikel resmi |
+| Riwayat *tag* voucher yang bisa dilihat | sampai 2 tahun terakhir | artikel resmi |
+| Maks. *tag* manual aktif per hari | 2 | artikel resmi |
+| Rentang tanggal *tag* manual | mulai maks. H-30, berakhir maks. H+30 | artikel resmi |
+
+## Pertanyaan diagnosa
+
+1. **Tingkat Konversi (Pesanan Dibuat ÷ Kunjungan) lebih tinggi dari Tingkat Konversi (Pesanan Siap Dikirim ÷ Pesanan Dibuat)?** Kalau iya, ada kebocoran di checkout — Pembeli masukin ke keranjang tapi gak jadi bayar. Coba tawarin voucher buat dorong checkout.
+2. **Produk toko ini masuk tag performa yang mana** — Penjualan Teratas, Tren Menurun, Penjualan Menurun, Kunjungan Menurun, atau Peluang Produk Baru? Tiap tag punya arah tindakan beda (pertahankan vs benerin vs dorong visibilitas).
+3. **Komposisi Kategori/Harga/Pembeli-nya udah dicek?** Ini nentuin apakah masalahnya di kategori produk yang salah fokus, harga yang gak sesuai ekspektasi pasar, atau ketergantungan ke satu tipe Pembeli (baru vs lama).
+4. **Channel mana yang paling kontribusi penjualan** (Halaman Produk/Live/Video/Affiliate/Iklan)? Kalau cuma satu channel yang jalan, itu risiko konsentrasi — perlu diversifikasi.
+5. **Ada perubahan musiman/kalender yang mungkin jelasin naik-turunnya** (misal mendekati hari besar)? Cek peringkat produk & kategori secara berkala, bukan cuma sekali.
+
+## Batasan
+Entry ini nggabungin beberapa fitur berbeda di Performa Toko (Tinjauan, Penjualan, Produk, *tag*) dalam satu artikel — kalau member cuma tanya satu bagian spesifik (misal cara pakai *tag* manual), jawab bagian itu aja, jangan dump semua isi entry.

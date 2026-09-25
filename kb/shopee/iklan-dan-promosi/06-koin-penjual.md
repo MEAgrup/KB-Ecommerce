@@ -11,18 +11,19 @@ valid_as_of: 2026-01
 sources:
   - file: mj---koin-penjual/koin-penjual.md
     bagian: "artikel penuh"
+related: [shp-live-002]
 ---
 # Koin Penjual
 
 ## Ringkasan
-**Apa itu Koin Penjual?**
+Koin Penjual = saldo yang dibeli Penjual (1.000 Koin = Rp1.000) buat dibagikan sebagai Bonus Koin Shopee ke Pembeli lewat Shopee Live, Game Toko, atau Hadiah Penilaian (khusus Penjual Terpilih). Ada batas maksimum top up harian & batas maksimum saldo total (sistem kasih peringatan kalau mendekati/lewat batas) — TAPI angka pastinya gak tersalin dari sumber (lihat Batasan). Penonton yang JUGA Penjual gak bisa bagi ulang koin yang didapat sebagai hadiah dari Penjual lain.
 
+## Kapan ini dipakai
+Dipakai kalau member nanya cara isi/pakai Koin Penjual, konversi nilai koin, atau jenis transaksi di riwayat. Buat detail teknis pengaturan Bonus Koin saat Livestream, arahkan ke `shp-live-002`.
 
-15-01-2026
+## Isi
 
-**Apa itu Koin Penjual?**
-
-[**Koin Penjual**](https://seller.shopee.co.id/portal/marketing/coins) adalah fitur yang memungkinkan Penjual untuk membeli koin Shopee yang dapat dibagikan ke Pembeli berupa Bonus Koin Shopee dalam kegiatan toko, seperti *live streaming* di[ Shopee Live](https://seller.shopee.co.id/edu/courseDetail/720?lessonId=37), Game Toko, maupun Hadiah Penilaian.
+Pembeli dapat menggunakan Bonus Koin Shopee untuk mengurangi total pembayaran  saat melakukan *checkout*. Pada saat yang sama, Penjual yang membagikan Bonus Koin Shopee dapat menikmati keuntungan berupa:
 
 **Keuntungan Membagikan Koin Penjual**
 
@@ -55,7 +56,7 @@ Anda dapat melihat jumlah yang **Dapat Dipakai** serta **Koin Penjual yang Dikun
 
   
 
-ð**Definisi**
+📍**Definisi**
 
 **Koin Penjual yang Dikunci untuk Promosi**: Jumlah Koin Penjual yang disediakan untuk promosi toko*,* tetapi belum digunakan.
 
@@ -172,6 +173,20 @@ Pilih **Semua Transaksi** untuk melihat riwayat transaksi. Anda dapat melihat ri
   - **Game Toko**: Koin Penjual yang digunakan sebagai hadiah dalam[ Game Toko](https://seller.shopee.co.id/edu/courseDetail/59?lessonId=90).
   - [**Hadiah Penilaian**](https://seller.shopee.co.id/edu/courseDetail/41?lessonId=2067): Koin Penjual yang digunakan sebagai hadiah tambahan saat Pembeli memberikan penilaian.
 
-**  
-  
-**
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Konversi Koin Penjual ke Rupiah | 1.000 Koin = Rp1.000 |
+| Pecahan koin per klaim yang tersedia | 25, 50, 100, 200, atau custom |
+
+## Pertanyaan diagnosa
+
+1. **Member Penjual jadi Penonton di Live Penjual lain, dapat Bonus Koin — bisa bagi ulang ke Pembeli-nya sendiri?** TIDAK BISA — Bonus Koin yang didapat sebagai Penonton gak bisa dibagikan ulang sebagai hadiah. Penjual cuma bisa bagi hadiah dari saldo Koin Penjual MILIK SENDIRI.
+2. **Member mau top up tapi gagal terus?** Cek dulu — kemungkinan udah dekat/lewat batas maksimum top up harian atau batas maksimum saldo total (sistem kasih peringatan otomatis kalau mendekati batas ini).
+3. **Member bingung kenapa ada beberapa kategori transaksi di riwayat (Manual Kredit, Hadiah Koin Misi, dll)?** Itu normal — koin bisa masuk dari berbagai sumber (isi saldo sendiri, kredit manual Shopee, hadiah Misi Penjual) dan keluar ke berbagai pemakaian (Shopee Live, Game Toko, Hadiah Penilaian) — cek tipe transaksi buat lacak asal/pemakaiannya.
+4. **Member mau download riwayat transaksi Koin Penjual buat pembukuan?** Bisa — arahkan pilih Download Data di halaman Koin Penjual Seller Centre buat simpan salinan offline.
+5. **Member mau pakai Hadiah Penilaian tapi fiturnya gak muncul?** Fitur ini KHUSUS Penjual Terpilih — kalau bukan Penjual terpilih, opsi ini gak akan tersedia.
+
+## Batasan
+Sumber ini nyebut ADA batas maksimum top up harian dan batas maksimum saldo total Koin Penjual (lengkap dengan sistem peringatan otomatis kalau mendekati/lewat batas), TAPI angka pastinya gak tersalin dari hasil scraping (kemungkinan tabel/gambar rincian nominal hilang). Jangan tebak angkanya — arahkan member cek langsung di halaman Koin Penjual Seller Centre buat lihat batas aktual akunnya.

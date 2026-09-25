@@ -11,16 +11,21 @@ valid_as_of: 2026-03
 sources:
   - file: pp---kebijakan-penyelesaian-pesanan/faq-masa-pengemasan.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-050, shp-pengiriman-043]
 ---
 # FAQ Masa Pengemasan
 
 ## Ringkasan
+Minggu/libur nasional/non-operasional jasa kirim gak dihitung masa pengemasan (kecuali Instant). Ada perpanjangan otomatis pas hari puncak kampanye. Pre-order TIDAK ikut aturan umum ini (pakai masa pengemasan sendiri) — TAPI disarankan gak lebih dari 300 produk pre-order & gak lebih dari 20% dari total produk. Penalti keterlambatan: 1 poin (≥10% tingkat telat), 2 poin (≥10% DAN ≥50 pesanan telat). Banding kesalahan jasa kirim: 14 hari kalender via Kesehatan Toko.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya soal hitungan masa pengemasan, aturan pre-order, atau besaran poin penalti keterlambatan. Buat penjelasan lengkap masa pengemasan & batas waktu pengiriman, arahkan ke `shp-pengiriman-050`; buat FAQ batas waktu pengiriman umum, arahkan ke `shp-pengiriman-043`.
+
+## Isi
+
 **1. Hari apa saja yang tidak dihitung dalam periode masa pengemasan?**
 
 
-12-03-2026
-
-**1. Hari apa saja yang tidak dihitung dalam periode masa pengemasan?**
 
 Hari Minggu, libur nasional, dan non-operasional jasa kirim tidak termasuk dalam periode masa pengemasan, kecuali untuk semua pengiriman Instant.
 
@@ -46,7 +51,7 @@ Penjual produk *pre-order* juga disarankan untuk memastikan agar tidak memiliki 
 
   
 
-**5. Bagaimana jika saya menjual produk** ***custom*****?**
+**5. Bagaimana jika saya menjual produk** **custom**?**
 
 Jika Anda menjual produk *custom*, informasi produk dapat diubah menjadi pre-order.
 
@@ -77,9 +82,27 @@ Pelajari lebih lanjut tentang[ Sistem & Ketentuan Poin Penalti](https://seller.s
 
   
 
-**8. Bagaimana jika kurir terlambat melakukan** ***pick up*** **atau melakukan** ***scan*** **pesanan Penjual sehingga menyebabkan keterlambatan pesanan?**
+**8. Bagaimana jika kurir terlambat melakukan** **pick up** **atau melakukan** **scan** **pesanan Penjual sehingga menyebabkan keterlambatan pesanan?**
 
 Penjual dapat mengajukan banding pesanan terlambat akibat kesalahan jasa kirim melalui menu **Kesehatan Toko** \>[ **Tingkat Keterlambatan Pengiriman**](https://seller.shopee.co.id/portal/accounthealth/lsr) Pesanan pada Seller Centre dalam 14 hari kalender.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Batas paket belum diantar/pickup (Reguler) | 2 hari kalender setelah batas waktu pengiriman |
+| Batas paket belum diantar/pickup (Next Day/Same Day/Instant) | 1 hari kalender setelah batas waktu pengiriman |
+| Poin penalti — tingkat keterlambatan ≥10% | 1 poin |
+| Poin penalti — tingkat keterlambatan ≥10% DAN ≥50 pesanan telat | 2 poin |
+| Batas produk Pre-order disarankan | <300 produk DAN ≤20% dari total produk toko |
+| Batas ajukan banding keterlambatan karena jasa kirim | 14 hari kalender |
+
+## Pertanyaan diagnosa
+
+1. **Member jual produk pre-order, apa masa pengemasannya ikut aturan umum (gak hitung Minggu/libur)?** TIDAK — Pre-order pakai masa pengemasan SENDIRI yang diatur Penjual di info produk, gak ikut aturan pengecualian hari umum.
+2. **Member punya 350 produk pre-order, ada risikonya?** ADA — disarankan JANGAN lebih dari 300 produk pre-order DAN jangan lebih dari 20% dari total produk toko, buat hindari penalti.
+3. **Member jual produk custom, boleh diset jadi pre-order?** BOLEH — info produk custom bisa diubah jadi pre-order, tapi tetap perhatikan batas 300 produk/20% di atas.
+4. **Member Tingkat Keterlambatan Pengirimannya 12%, kena berapa poin?** Tergantung jumlah pesanan telat — kalau ≥10% SAJA (tanpa capai 50 pesanan telat) kena 1 poin; kalau ≥10% DAN ≥50 pesanan telat, kena 2 poin.
+5. **Member kena penalti keterlambatan padahal kurir yang telat pickup?** Ajukan banding lewat Kesehatan Toko > Tingkat Keterlambatan Pengiriman Pesanan, dalam 14 HARI KALENDER.
+6. **Member Penjual Star/Star+/Mall, apa aturan waktu pembatalan otomatisnya beda?** TIDAK — buat layanan Reguler/Hemat/Next Day, gak ada perubahan waktu pembatalan otomatis buat tipe toko ini, sama dengan Penjual biasa.
+7. **Member mau tau apakah ada kelonggaran pas kampanye besar kayak 11.11?** ADA — Shopee kasih PERPANJANGAN masa pengemasan otomatis pas hari puncak kampanye, diinfokan sebelumnya.

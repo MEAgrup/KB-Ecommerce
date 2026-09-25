@@ -11,16 +11,21 @@ valid_as_of: 2022-12
 sources:
   - file: umum---akun-dan-keamanan/keamanan-akun-shopee.md
     bagian: "artikel penuh"
+related: [shp-akun-002, shp-akun-004]
 ---
 # Keamanan Akun Shopee
 
 ## Ringkasan
+Notifikasi login mencurigakan muncul kalau ada login dari perangkat/lokasi baru, mode penyamaran/hapus cookie, atau orang lain akses akun — kalau itu member sendiri, GAK PERLU aksi lanjutan; kalau BUKAN, segera reset password + PIN dan hubungi Customer Service. Overview keamanan akun: tips password/PIN kuat (lihat detail lengkap di `shp-akun-002`), Shopee TIDAK PERNAH minta password/PIN via telepon/medsos/email/chat, dan langkah kalau curiga akun diretas.
+
+## Kapan ini dipakai
+Dipakai kalau member dapat notifikasi login mencurigakan dan nanya harus ngapain. Buat tips detail bikin password/PIN kuat, arahkan ke `shp-akun-002`; buat modus phishing, arahkan ke `shp-akun-004`.
+
+## Isi
+
 **Apa yang harus saya lakukan jika mendapat peringatan log in mencurigakan dari Shopee?**
 
 
-12-12-2022
-
-**Apa yang harus saya lakukan jika mendapat peringatan log in mencurigakan dari Shopee?**
 
 Untuk melindungi data akun Pengguna, Shopee selalu memberitahukan adanya tindakan/aktivitas penting yang terjadi di akun Anda. Agar membantu menjaga keamanan akun, seluruh aktivitas log in di akun Shopee Anda yang menggunakan perangkat atau berasal dari lokasi yang mencurigakan dan tidak meyakinkan akan diinformasikan.
 
@@ -85,3 +90,18 @@ Jika lupa akan PIN ShopeePay Anda, klik **Ubah PIN ShopeePay** dan ikuti petunju
   
 
 Jika lupa akan PIN Saldo Penjual Anda, klik **Ubah PIN Saldo Penjual** dan ikuti petunjuk yang ada untuk mengatur ulang PIN Anda. Informasi lebih lanjut mengenai cara ubah PIN Saldo Penjual dapat dilihat[ di sini](https://seller.shopee.co.id/edu/article/3622).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Panjang password minimum | min. 8 karakter |
+| Domain login resmi Shopee | shopee.co.id |
+
+## Pertanyaan diagnosa
+
+1. **Member dapat notifikasi login dari lokasi/perangkat asing, tapi itu memang dia sendiri yang login pakai HP baru?** GAK PERLU aksi lanjutan — notifikasi ini normal muncul tiap login pertama kali di perangkat/browser baru, mode penyamaran, atau setelah hapus cookie.
+2. **Member dapat notifikasi login yang BUKAN dia yang lakukan?** SEGERA reset password DAN PIN, lalu hubungi Customer Service Shopee buat bantuan lebih lanjut.
+3. **Member gak bisa login/tarik dana/bayar ShopeePay tiba-tiba tanpa notifikasi jelas?** Bisa jadi Shopee udah ambil tindakan pencegahan karena curiga pelanggaran keamanan — arahkan hubungi Customer Service Shopee.
+4. **Member mau tips detail bikin password/PIN yang kuat?** Arahkan ke `shp-akun-002` buat panduan lengkap kombinasi password/PIN yang aman.
+5. **Member diminta password/PIN lewat telepon yang ngaku dari Shopee?** PENIPUAN — Shopee TIDAK PERNAH minta password/PIN lewat telepon, medsos, email, atau chat dalam kondisi apapun.

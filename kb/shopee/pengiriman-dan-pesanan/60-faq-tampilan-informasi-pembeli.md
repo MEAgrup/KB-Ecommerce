@@ -11,16 +11,21 @@ valid_as_of: 2025-05
 sources:
   - file: pp---penyelesaian-pesanan/faq-tampilan-informasi-pembeli.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-054, shp-pengiriman-063]
 ---
 # FAQ Tampilan Informasi Pembeli
 
 ## Ringkasan
+2 topik dalam 1 entry (sumber tergabung): (1) FAQ soal nama/kontak Pembeli yang disembunyikan — cocokkan pesanan pakai No. Pesanan/No. Resi, bukan nama; produk custom pakai Pre-order (3-30 hari) buat waktu konfirmasi lebih lama. (2) Kelola Pengiriman Gagal — 2 jenis (gagal antar ke Pembeli vs pengajuan retur Pembeli), Kode Pengembalian dikirim via SMS (GoSend) atau Halaman Rincian Pesanan (SPX Express), 4 status pelacakan, 5 Status Klaim barang hilang/rusak, batas ambil paket balikan 7 hari kalender (SPX/JNE/Indopaket) atau 7x24 jam (Ninja Xpress).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya kenapa info Pembeli disembunyikan, ATAU cara tangani paket yang gagal terkirim/dikembalikan. Buat konsep dasar tampilan info Pembeli, arahkan ke `shp-pengiriman-054`; buat detail lengkap Kelola Pengiriman Gagal, arahkan ke `shp-pengiriman-063`.
+
+## Isi
+
 **1. Apa yang harus saya lakukan jika saya perlu segera menghubungi Pembeli dan Pembeli tidak merespons di Chat?**
 
 
-23-05-2025
-
-**1. Apa yang harus saya lakukan jika saya perlu segera menghubungi Pembeli dan Pembeli tidak merespons di Chat?**
 
 Jika pesanan berisiko mengalami[ keterlambatan pengiriman atau pembatalan otomatis](https://seller.shopee.co.id/edu/courseDetail/284?lessonId=133) karena kurangnya respons Pembeli, hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) untuk bantuan ataulakukan[ pengajuan banding melalui Seller Centre](https://seller.shopee.co.id/edu/article/16074/pengajuan-banding-penalti) apabila mendapatkan poin penalti.
 
@@ -30,7 +35,7 @@ Agar proses pengemasan pesanan tidak berkendala, pastikan stok ter-*update*, gun
 
   
 
-**2.**  **Bagaimana jika saya menjual produk** ***custom*** **dan membutuhkan konfirmasi yang cepat dari Pembeli?**
+**2.**  **Bagaimana jika saya menjual produk** **custom** **dan membutuhkan konfirmasi yang cepat dari Pembeli?**
 
 Anda dapat mengaktifkan fitur[ Pre-order](https://seller.shopee.co.id/edu/article/7010) pada produk untuk mengatur masa pengemasan yang lebih lama di antara 3-30 hari kerja. Apabila pesanan sudah siap sebelum masa pengemasan produk Pre-order yang telah ditentukan, Anda tetap dapat mengirim pesanan lebih awal.
 
@@ -146,11 +151,11 @@ Dengan menggunakan *filter* tersebut memungkinkan Anda untuk mengambil tindakan 
 
 Ada berbagai tindakan yang dapat Anda lakukan untuk memeriksa pengiriman yang gagal, tergantung pada status di bawah ini:
 
-  - **\*\*Sedang Dikembalikan ke Penjual\*\***
+  - **Sedang Dikembalikan ke Penjual**
 
 Status ini berguna dalam mengetahui informasi jumlah pengiriman gagal yang Anda miliki dan melacak paket yang sedang dalam perjalanan kembali ke Anda.
 
-  - **\*\*Dikirim ke Penjual\*\***
+  - **Dikirim ke Penjual**
 
 Status ini menunjukkan bahwa paket dari pengiriman gagal telah Anda terima. Setelah menerima paket dari pengiriman yang gagal, penting bagi Anda untuk memeriksa paket dan barang di dalamnya dalam kondisi baik. Barang yang masih dalam kondisi baik dapat digunakan untuk mengisi kembali stok Anda.
 
@@ -196,7 +201,7 @@ Pelajari lebih lanjut tentang proses ganti rugi jika barang rusak/hilang dalam p
 
   
 
-  - **\*\*Gagal Dikembalikan ke Penjual\*\***
+  - **Gagal Dikembalikan ke Penjual**
 
 Jika jasa kirim telah melakukan beberapa upaya untuk mengirimkan paket kepada Anda tetapi tidak berhasil, maka jasa kirim berhak untuk mengambil tindakan terhadap paket tersebut dan status paket Anda di Shopee akan diperbarui sebagai **Gagal Dikembalikan ke Penjual**.
 
@@ -232,3 +237,24 @@ Anda akan menerima notifikasi "Pesanan telah dikembalikan" untuk mengambil paket
   - **SPX Express**, **J\&T Cargo**, dan **JNE Express**: dalam waktu 7 hari kalender di *counter* jasa kirim yang sama dengan tempat Anda melakukan *drop off* paket. Jika melewati batas waktu, maka paket akan dimusnahkan.
   - **Ninja Xpress**: dalam waktu 7x24 jam, hubungi Customer Service Ninja Xpress untuk mengetahui lokasi pengambilan paket. Jika melewati batas waktu, maka paket akan dimusnahkan.
   - **Indopaket (Ambil di Indomaret)**: dalam waktu 7 hari kalender di *counter* jasa kirim yang sama dengan tempat Anda melakukan *drop off* paket. Jika melewati batas waktu, maka paket akan dipindahkan ke alamat HUB INDOPAKET Bogor 2 Jl. Kp. Nangewer No.37, Nanggewer Mekar, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16912.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Masa pengemasan Pre-order (buat produk custom) | 3-30 hari kerja |
+| Jumlah tab pelacakan Pengiriman Gagal (Seller Centre) | 4 (Sedang Dikembalikan, Dikirim ke Penjual, Gagal Dikirimkan, Paket Hilang) |
+| Jumlah Status Klaim barang hilang/rusak | 5 (Sedang Ditinjau, Menunggu Bukti, Disetujui, Dana Dicairkan, Ditolak) |
+| Batas ambil paket balikan (SPX Express/J&T Cargo/JNE Express/Indopaket) | 7 hari kalender |
+| Batas ambil paket balikan (Ninja Xpress) | 7x24 jam |
+| Jumlah alasan umum "Gagal Dikembalikan ke Penjual" | 10 alasan |
+
+## Pertanyaan diagnosa
+
+1. **Member gak bisa hubungi Pembeli lewat Chat, pesanan berisiko batal/telat?** Hubungi Customer Service Shopee buat bantuan, atau ajukan banding lewat Seller Centre kalau udah kena poin penalti.
+2. **Member gak bisa cocokkan pesanan sama resi karena nama Pembeli disembunyikan?** Pakai NO. PESANAN buat mencocokkan, bukan nama — ini disengaja demi jaga privasi Pembeli.
+3. **Member terima paket balikan dari pengiriman gagal, apa yang harus dilakukan?** Cek kondisi barang di tab "Dikirim ke Penjual", lalu pilih "Diterima dengan Kondisi Baik" (bisa restock) atau "Klaim Barang Hilang/Rusak" sebelum batas waktu konfirmasi.
+4. **Member pakai GoSend, gimana dapat Kode Pengembalian buat serahin ke kurir?** Dikirim via SMS (beda dari SPX Express yang muncul di Halaman Rincian Pesanan) — kasih kode ini ke kurir biar status jadi "Berhasil Diterima".
+5. **Member mau cek status klaim barang hilang/rusak yang udah diajukan?** Cuma bisa dicek via SELLER CENTRE (bukan aplikasi) — tab Klaim Diajukan, lihat salah satu dari 5 Status Klaim.
+6. **Paket member gak diambil dari counter SPX Express dalam waktu lama?** Kalau lewat 7 HARI KALENDER, paket DIMUSNAHKAN — beda dari Indopaket yang dipindah ke HUB, bukan dimusnahkan.
+7. **Paket balikan member berstatus "Gagal Dikembalikan ke Penjual", kenapa?** Ada 10 kemungkinan alasan (alamat gak lengkap, toko tutup, penerima gak bisa dihubungi, dll) — cek detail via aplikasi/Seller Centre/hubungi jasa kirim langsung.

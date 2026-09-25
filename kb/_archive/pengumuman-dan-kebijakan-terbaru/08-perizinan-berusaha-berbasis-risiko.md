@@ -15,12 +15,12 @@ sources:
 # Perizinan Berusaha Berbasis Risiko
 
 ## Ringkasan
-## **Mengenal** ***Online Single Submission*** **(OSS) dan Keuntungannya**
+## **Mengenal** **Online Single Submission** **(OSS) dan Keuntungannya**
 
 
 10-08-2022
 
-## **Mengenal** ***Online Single Submission*** **(OSS) dan Keuntungannya**
+## **Mengenal** **Online Single Submission** **(OSS) dan Keuntungannya**
 
 *Online Single Submission* (OSS) adalah sistem perizinan berusaha terintegrasi secara elektronik yang dikelola oleh Lembaga OSS atas nama Kementerian Investasi/BKPM. 
 
@@ -34,7 +34,7 @@ Hanya dengan persyaratan memiliki Nomor Induk Berusaha (NIB), mendapatkan izin b
 
 OSS berbasis risiko memberikan layanan bagi para pelaku usaha dengan kriteria sebagai berikut:
 
-ð **Definisi**
+📍 **Definisi**
 
 **Usaha Mikro dan Kecil (UMK)**
 
@@ -117,11 +117,11 @@ Jika semua dokumen yang diperlukan sudah lengkap, maka tahap selanjutnya adalah 
 
 4\. Masukkan **Kode Verifikasi** yang diterima melalui email atau WhatsApp.
 
-5\. Lengkapi formulir yang diminta, lalu buat ***password***.
+5\. Lengkapi formulir yang diminta, lalu buat **password**.
 
 6\. Lengkapi **Data Pelaku Usaha**, lalu pilih **Daftar**.
 
-7\. Sistem akan mengirimkan ***username*** dan ***password*** ke email yang Anda daftarkan.
+7\. Sistem akan mengirimkan **username** dan **password** ke email yang Anda daftarkan.
 
 8\. Pendaftaran berhasil\! Hak akses Anda sudah bisa digunakan untuk log in ke sistem OSS.
 

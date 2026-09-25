@@ -11,24 +11,27 @@ valid_as_of: 2024-10
 sources:
   - file: umum---akun-dan-keamanan/cegah-penipuan-bersama-shopee.md
     bagian: "artikel penuh"
+related: [shp-akun-003, shp-akun-004, shp-akun-002]
 ---
 # Cegah Penipuan Bersama Shopee
 
 ## Ringkasan
+Panduan lengkap anti-penipuan: 4 tipe modus (Fraud, Scam, ATO/Account Takeover, Phishing) dengan ciri-ciri masing-masing. Shopee TIDAK PERNAH minta OTP/PIN buat hadiah/undian/selesaikan masalah. Cuma percaya 5 nomor WhatsApp resmi Shopee Indonesia (ada centang hijau) dan 3 domain resmi (shopee.co.id, seller.shopee.co.id, mall.shopee.co.id). Kalau terlanjur kasih data/transfer dana: segera hubungi Shopee DAN bank buat blokir.
+
+## Kapan ini dipakai
+Dipakai sebagai panduan komprehensif kalau member curiga kena penipuan tapi belum jelas jenisnya (Fraud/Scam/ATO/Phishing), atau butuh daftar nomor WhatsApp & domain resmi Shopee buat verifikasi. Buat modus Pembeli Fiktif spesifik, arahkan ke `shp-akun-003`; buat phishing spesifik, arahkan ke `shp-akun-004`; buat tips password/PIN kuat, arahkan ke `shp-akun-002`.
+
+## Isi
+
 Shopee mengimbau para Pengguna untuk lebih berhati-hati saat menerima instruksi untuk membagikan kode verifikasi (OTP) atau data pribadi rahasia lainnya dari pihak yang mengatasnamakan Shopee. Shopee **TIDAK PERNAH meminta kode verifikasi (OTP) dan PIN** Anda untuk memberikan hadiah/undian atau menyelesaikan permasalahan.
 
 
-14-10-2024
-
-Shopee mengimbau para Pengguna untuk lebih berhati-hati saat menerima instruksi untuk membagikan kode verifikasi (OTP) atau data pribadi rahasia lainnya dari pihak yang mengatasnamakan Shopee. Shopee **TIDAK PERNAH meminta kode verifikasi (OTP) dan PIN** Anda untuk memberikan hadiah/undian atau menyelesaikan permasalahan.
-
-  
 
 Jika pihak di luar Shopee atau penipu berhasil mendapatkan kode verifikasi (OTP) dan/atau data pribadi rahasia lainnya, maka akun Anda tidak lagi aman. Bahkan, informasi Anda dapat digunakan untuk melakukan berbagai tindakan kriminal oleh pihak yang tidak bertanggung jawab. Kenali lebih lanjut tentang kode verifikasi (OTP) dan PIN di bawah ini
 
   
 
-  - **\*\*Kode verifikasi (OTP)\*\***
+  - **Kode verifikasi (OTP)**
 
 OTP atau *One-Time Password* adalah kode verifikasi atau *password* sekali pakai yang terdiri dari 6 digit karakter (seringkali angka) unik dan bersifat rahasia yang umumnya dikirimkan melalui SMS atau email. Sistem akan memverifikasi dengan kode OTP untuk memproses transaksi tertentu, seperti:
 
@@ -38,7 +41,7 @@ OTP atau *One-Time Password* adalah kode verifikasi atau *password* sekali pakai
 
   
 
-  - **\*\*PIN\*\***
+  - **PIN**
 
 Pembeli dan Penjual di Shopee wajib membuat PIN untuk mengakses ShopeePay dan Saldo Penjual demi menjaga keamanan akun Anda. Mohon bedakan PIN ShopeePay dari password akun Shopee Anda untuk meningkatkan keamanan akun.
 
@@ -74,13 +77,13 @@ Untuk dapat terhindar dari kasus penipuan yang mungkin terjadi, Anda harus menge
 
   
 
-**1.** ***Fraud***
+**1.** **Fraud**
 
 *Fraud* merupakan sebuah aktivitas mencurigakan baik karena penyalahgunaan program Shopee maupun upaya penipuan yang merugikan Pengguna dan Shopee sendiri.
 
   
 
-**Ciri-ciri aktivitas** ***fraud*** **di antaranya:**
+**Ciri-ciri aktivitas** **fraud** **di antaranya:**
 
   - Pemalsuan informasi penjualan
   - Penyalahgunaan voucher
@@ -95,7 +98,7 @@ Untuk dapat terhindar dari kasus penipuan yang mungkin terjadi, Anda harus menge
 
   
 
-**2.** ***Scam***
+**2.** **Scam**
 
 *Scam* merupakan sebuah aktivitas penyalahgunaan akun Pengguna Shopee oleh pihak lain di luar Shopee.
 
@@ -116,7 +119,7 @@ Untuk dapat terhindar dari kasus penipuan yang mungkin terjadi, Anda harus menge
 
   
 
-**3.** **ATO** ***(Account Takeover)***
+**3.** **ATO** **(Account Takeover)**
 
 ATO adalah salah satu jenis dari tindakan scam yang berupa pencurian identitas di mana penipu secara ilegal mendapatkan akses ke akun bank korban, akun *e-commerce*, atau jenis akun lainnya.
 
@@ -132,13 +135,13 @@ ATO adalah salah satu jenis dari tindakan scam yang berupa pencurian identitas d
 
   
 
-**4.** ***Phishing***
+**4.** **Phishing**
 
 *Phishing* adalah bentuk yang paling umum dari *scam*. *Phishing* merupakan suatu usaha untuk mendapatkan akses ke akun Anda dengan mencuri informasi penting seperti *password* dan data diri pribadi.
 
   
 
-***Phishing*** **email/SMS memiliki karakteristik sebagai berikut:**
+**Phishing** **email/SMS memiliki karakteristik sebagai berikut:**
 
   - Permintaan terhadap informasi pribadi seperti no. kartu kredit
   - Terdapat lampiran yang tidak diminta.
@@ -179,3 +182,21 @@ Harap berhati-hati jika Anda dihubungi oleh pihak di luar daftar no. WhatsApp re
 
   - Anda juga dapat[ menemukan informasi seputar Shopee](https://seller.shopee.co.id/edu/article/11520) dan akun resmi Shopee.
   - WhatsApp resmi Shopee memiliki tanda centang hijau dan pesan resmi seperti gambar berikut:
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Panjang kode OTP | 6 digit karakter |
+| Nomor WhatsApp resmi Shopee Indonesia | Shopee Security (+622139504726), Shopee Indonesia (+6281382297246), Shopee Indonesia (+6285574670749), SPayLater (+622150996857), Shopee OTP (+6285574670796) |
+| Domain resmi Shopee | shopee.co.id, seller.shopee.co.id, mall.shopee.co.id |
+
+## Pertanyaan diagnosa
+
+1. **Member dihubungi nomor WhatsApp ngaku dari Shopee, tapi member ragu?** Cocokkan dengan 5 nomor resmi Shopee Indonesia yang terdaftar (Shopee Security, Shopee Indonesia x2, SPayLater, Shopee OTP) DAN cek centang hijaunya — kalau gak cocok/gak ada centang hijau, WASPADA.
+2. **Member terima notifikasi pembatasan akun dengan kode kayak A01/D01?** Ini termasuk ciri aktivitas FRAUD menurut Shopee — kalau kode ini datang dari pihak yang ngaku-ngaku (bukan notifikasi resmi di aplikasi/Seller Centre), curiga penipuan.
+3. **Member dapat pesan status pesanan udah "Selesai" tapi barang belum diterima?** Ini ciri SCAM — jangan konfirmasi penerimaan pesanan kalau barang emang belum diterima, ini modus yang umum dipakai penipu.
+4. **Member dapat pesan upaya login perangkat baru pakai OTP padahal dia gak coba login?** Ini indikator ATO (Account Takeover) — SEGERA amankan akun, jangan share OTP-nya, dan hubungi Customer Service Shopee.
+5. **Member dapat email/SMS dengan sapaan umum kayak "Hai, Sis" dan minta buru-buru klik link?** Ciri khas email/SMS PHISHING — sapaan gak personal + tekanan waktu + link mencurigakan = red flag.
+6. **Member terlanjur kasih data pribadi atau transfer dana ke penipu?** SEGERA hubungi Shopee DAN bank/e-wallet terkait buat minta pemblokiran — jangan tunda, makin cepat makin kecil kerugiannya.
+7. **Member mau verifikasi apakah situs yang diakses itu Shopee asli?** Cuma percaya 3 domain: shopee.co.id, seller.shopee.co.id, mall.shopee.co.id — di luar itu, WASPADA.

@@ -11,16 +11,21 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/program-cod-cek-dulu.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-008, shp-pengiriman-009]
 ---
 # Program COD Cek Dulu
 
 ## Ringkasan
+COD Cek Dulu = Pembeli buka paket DULU sebelum bayar, retur langsung di tempat kalau gak sesuai. Otomatis aktif kalau Penjual sudah aktifkan COD + jasa kirim SPX Hemat/Standard/Sameday (Sameday khusus Penjual Dikelola Shopee). Syarat Pembeli: WAJIB direkam saat buka paket (tanpa wajah) — kalau nolak direkam, harus bayar biasa dan gak bisa retur di tempat. Retur HARUS seluruh isi paket dalam 1 resi (gak bisa sebagian) — kecuali mystery box (gak bisa dibuka sama sekali). Gak pengaruh ke Tingkat Pesanan Tidak Terselesaikan. Klaim rusak/hilang: 10x ongkir atau harga barang maks Rp1.000.000 (ambil terendah). Pembeli bermasalah berulang diblokir 60 hari dari COD; pulih pakai COD biasa setelah 60 hari, COD Cek Dulu setelah 30 hari. Paket retur dikemas ulang pakai lakban oranye Shopee, dikirim ke Alamat Pengembalian Penjual.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara kerja, syarat, atau klaim Program COD Cek Dulu. Buat konsep dasar COD, arahkan ke `shp-pengiriman-008`; buat FAQ detail COD, arahkan ke `shp-pengiriman-009`.
+
+## Isi
+
 **Apa itu Program COD Cek Dulu?**
 
 
-05-08-2026
-
-**Apa itu Program COD Cek Dulu?**
 
 COD Cek Dulu adalah program yang memungkinkan Pembeli membuka paket terlebih dahulu sebelum membayar pesanan. Jika isi paket tidak sesuai dengan deskripsi/foto produk, Pembeli dapat langsung mengembalikannya di tempat. Fitur ini dirancang untuk meningkatkan kepercayaan Pembeli sekaligus memperluas jangkauan Penjual ke pelanggan baru.
 
@@ -30,19 +35,19 @@ COD Cek Dulu adalah program yang memungkinkan Pembeli membuka paket terlebih dah
 
 Dengan mengikuti Program COD Cek Dulu, Penjual dapat memperoleh berbagai keuntungan, seperti:
 
-  - **\*\*Menjangkau lebih banyak Pembeli\*\***
+  - **Menjangkau lebih banyak Pembeli**
 
 Program ini membantu meningkatkan penjualan dengan menarik Pembeli baru yang lebih nyaman menggunakan metode COD Cek Dulu.
 
   
 
-  - **\*\*Tidak memengaruhi Tingkat Pesanan Tidak Terselesaikan\*\***
+  - **Tidak memengaruhi Tingkat Pesanan Tidak Terselesaikan**
 
 Pembatalan dari pesanan COD Cek Dulu tidak dihitung dalam metrik ini.
 
   
 
-  - **\*\*Perlindungan terhadap Pembeli bermasalah\*\***
+  - **Perlindungan terhadap Pembeli bermasalah**
 
 1\. Pembeli yang berulang kali bermasalah (tidak bisa dihubungi, tidak membayar, atau menolak paket) **akan diblokir otomatis 60 hari dari metode pembayaran ini**.
 
@@ -217,4 +222,24 @@ Untuk paket yang dikembalikan dari program COD Cek Dulu akan dikemas ulang denga
 Penjual dapat mengajukan banding jika pengembalian barang disebabkan kesalahan kurir (barang rusak, hilang/tidak lengkap, atau tertukar). Pelajari lebih lanjut[ Cara Mengajukan & Memeriksa Hasil Banding Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/article/24725).
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Blokir Pembeli bermasalah dari COD biasa | 60 hari kalender |
+| Blokir Pembeli bermasalah dari COD Cek Dulu | 30 hari kalender |
+| Klaim barang rusak/hilang | 10x ongkir ATAU harga barang, maks. Rp1.000.000 (ambil terendah) |
+| Layanan yang dukung COD Cek Dulu | 3: SPX Hemat, SPX Standard, SPX Sameday (khusus Penjual Dikelola Shopee) |
+| Tanda paket retur | dikemas ulang pakai lakban oranye Shopee |
+
+## Pertanyaan diagnosa
+
+1. **Pembeli nolak direkam pas buka paket COD Cek Dulu?** Tetap harus bayar seperti biasa (gak bisa retur di tempat) — perekaman (tanpa wajah) itu syarat wajib buat ikut program ini.
+2. **Pembeli terima 3 baju, cuma 1 yang rusak, mau retur yang rusak doang di tempat?** GAK BISA lewat COD Cek Dulu — retur harus SELURUH isi paket dalam 1 resi. Kalau mau retur sebagian, ajukan lewat jalur Pengembalian Barang/Dana biasa di Rincian Pesanan.
+3. **Member jual mystery box, Pembeli mau buka dulu pakai COD Cek Dulu?** GAK BISA — mystery box dikecualikan, paket gak bisa dibuka sama sekali dalam program ini.
+4. **Toko member sering kena retur COD Cek Dulu, pengaruh ke Tingkat Pesanan Tidak Terselesaikan?** GAK — pembatalan dari COD Cek Dulu gak dihitung dalam metrik Tingkat Pesanan Tidak Terselesaikan.
+5. **Pembeli diblokir dari COD Cek Dulu karena sering bermasalah, kapan bisa pakai lagi?** COD Cek Dulu bisa dipakai lagi setelah 30 hari kalender, sedangkan COD biasa baru bisa setelah 60 hari kalender — beda durasi blokirnya.
+6. **Member terima paket retur COD Cek Dulu yang rusak/hilang di jalan?** Bisa klaim: 10x ongkir atau harga barang, maks. Rp1.000.000 (ambil nominal terendah), lapor via Formulir Barang Rusak Saat Diterima/Pengembalian Tidak Diterima.
+7. **Member curiga produk yang dikembalikan udah ditukar Pembeli sebelum retur?** Cek lakban — paket retur COD Cek Dulu resminya dikemas ulang pakai lakban ORANYE khas Shopee, bukan lakban biasa.
+
+## Batasan
+Bagian "Hal yang Perlu Diketahui Terkait Perbedaan Program COD Cek Dulu dengan COD (Bayar di Tempat)" TIDAK punya isi/tabel perbandingan yang tersalin — cuma judul section yang tersisa. Jangan karang detail perbedaannya di luar yang sudah disebut eksplisit di bagian lain artikel ini — arahkan member ke sumber asli buat perbandingan lengkap.

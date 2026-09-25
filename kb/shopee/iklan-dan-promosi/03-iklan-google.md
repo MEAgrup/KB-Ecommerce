@@ -11,16 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: mj---iklan-eksternal-shopee/iklan-google.md
     bagian: "artikel penuh"
+related: [shp-iklan-001]
 ---
 # Iklan Google
 
 ## Ringkasan
-**Apa itu Iklan Google?**
+Panduan cara daftar & bikin Iklan Google: 2 jalur (Google Ads Manager via email, atau Seller Centre langsung — lebih simpel). Ada insentif voucher toko: Pengguna Baru (khusus Shopee Mall yang belum pernah pakai 6 bulan terakhir) dapat voucher hingga Rp4,5jt dengan min. pakai Rp5jt CMN; Pengguna Lama (aktif pakai di 90 hari terakhir) dapat hingga 75% dari total pemakaian CMN — TAPI insentif ini CUMA buat Penjual yang diundang Shopee. Dana harian min. Rp144.000, rekomendasi Rp350.000, durasi min. 14 hari.
 
+## Kapan ini dipakai
+Dipakai buat panduan TEKNIS daftar & bikin Iklan Google (2 jalur pendaftaran, cara isi campaign) serta insentif voucher-nya. Buat FAQ umum (biaya, penargetan, troubleshoot performa), arahkan ke `shp-iklan-001` yang lebih komprehensif.
 
-18-08-2026
-
-**Apa itu Iklan Google?**
+## Isi
 
 Iklan Google Shopee adalah kerja sama antara Shopee dan Google untuk menampilkan produk Anda di hasil pencarian Google, Google Shopping, dan YouTube. Dengan iklan ini, calon Pembeli dapat melihat informasi produk saat mencari kata kunci terkait. Hal ini membantu Anda menjangkau lebih banyak pengguna di luar aplikasi Shopee dan mendorong mereka untuk berbelanja di toko Anda.
 
@@ -28,11 +29,11 @@ Iklan Google Shopee adalah kerja sama antara Shopee dan Google untuk menampilkan
 
 **Insentif Iklan Google**
 
-  - **\*\*Pengguna Baru Iklan Google\*\***
+  - **Pengguna Baru Iklan Google**
 
 Bagi pengguna baru Iklan Google bisa mendapatkan insentif berupa voucher toko hingga Rp4.500.000 dengan min. penggunaan Iklan Google tipe *Commerce Media Network (CMN)* sebanyak Rp5.000.000 pada kampanye pertama selama periode program.
 
-  - **\*\*Pengguna Lama Iklan Google\*\***
+  - **Pengguna Lama Iklan Google**
 
 Pengguna lama Iklan Google berkesempatan mendapat voucher toko hingga 75% dari total pemakaian Iklan Google tipe *Commerce Media Networks (CMN*) selama periode insentif apabila berhasil memenuhi target yang ditentukan untuk toko Anda selama periode program.
 
@@ -93,7 +94,7 @@ Shopee merekomendasikan durasi iklan min. 14 hari kalender untuk memberikan wakt
 
   
 
-ð¡ **Tips** 
+💡 **Tips** 
 
   - Dana iklan harian min. adalah Rp144.000, sementara dana harian yang direkomendasikan adalah Rp350.000.
   - Hindari mengubah dana harian terlalu sering, lakukan perubahan maksimal sekali setiap 3 hari agar fase pembelajaran iklan tetap optimal.
@@ -136,4 +137,32 @@ Jika produk Anda ditolak, tinjau alasannya dari produk dan lakukan perubahan yan
 Pada halaman[ Iklan Google](https://seller.shopee.co.id/portal/web-shopping-ads/dashboard), geser ke bawah sampai menampilkan Semua Promo.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Insentif Pengguna Baru — voucher toko | hingga Rp4.500.000, min. pemakaian CMN Rp5.000.000 di kampanye pertama |
+| Insentif Pengguna Lama — voucher toko | hingga 75% dari total pemakaian CMN (syarat target tercapai) |
+| Syarat "Pengguna Baru" | Shopee Mall, belum pakai Iklan Google 6 bulan terakhir |
+| Syarat "Pengguna Lama" | ada pengeluaran iklan di 90 hari terakhir |
+| Voucher insentif diberikan | 1 minggu setelah periode program berakhir |
+| Respons Tim Shopee (jalur Google Ads Manager) | dalam 2 hari kerja |
+| Waktu proses akun Iklan Google (jalur Seller Centre) | ~15 menit setelah klik Memulai |
+| Waktu sinkronisasi produk ke pengaturan iklan | hingga 1 hari kalender |
+| Durasi iklan yang direkomendasikan | min. 14 hari kalender |
+| Dana harian minimum | Rp144.000 |
+| Dana harian yang direkomendasikan | Rp350.000 |
+| Frekuensi ubah dana harian yang disarankan | maks. 1x per 3 hari |
+| Min. produk kalau pilih "Pilih produk tertentu" | min. 5 produk |
+| Waktu tinjauan produk oleh Google | hingga 5 hari kerja |
+| Efek perubahan produk (dilakukan pk. 00.00-07.00 WIB) | dalam 24 jam |
+| Efek perubahan produk (dilakukan pk. 07.01-23.59 WIB) | dalam 48 jam |
+| Produk dihapus toko → hilang dari iklan | dalam 24 jam (atau 1 jam kalau stok di-set 0 dulu) |
+
+## Pertanyaan diagnosa
+
+1. **Member mau daftar Iklan Google, jalur mana yang lebih cocok?** Google Ads Manager = kontrol penuh tapi ribet (kirim email, tunggu 2 hari kerja); Seller Centre = lebih simpel & cepat (~15 menit proses), cocok buat kebanyakan Penjual.
+2. **Member udah punya akun Google Ads pribadi, bisa dipakai di Seller Centre?** TIDAK BISA — wajib bikin akun baru khusus lewat proses pendaftaran Shopee, akun lama gak bisa dipakai ulang.
+3. **Member Non-Mall mau klaim insentif "Pengguna Baru"?** TIDAK BISA — insentif Pengguna Baru KHUSUS Penjual Shopee Mall yang belum pernah pakai Iklan Google 6 bulan terakhir.
+4. **Member merasa berhak dapat insentif tapi gak dapat undangan?** Insentif Iklan Google HANYA berlaku buat Penjual yang diundang Tim Shopee — gak ada jalur daftar sendiri buat insentif ini, meski udah penuhi syarat teknis.
+5. **Member ubah dana harian tiap hari biar performa naik?** JANGAN — disarankan maks. 1x per 3 hari, perubahan terlalu sering ganggu fase pembelajaran iklan.
+6. **Member ubah judul/harga produk, kapan keliatan di iklan?** Tergantung jam perubahan — sebelum pk. 07.00 WIB → 24 jam; setelah itu → 48 jam. Beda dari perubahan harga/stok biasa yang biasanya lebih cepat.

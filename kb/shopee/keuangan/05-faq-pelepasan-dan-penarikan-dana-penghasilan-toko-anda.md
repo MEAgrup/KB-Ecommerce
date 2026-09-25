@@ -11,16 +11,17 @@ valid_as_of: 2026-01
 sources:
   - file: keuangan---keuangan/faq-pelepasan-dan-penarikan-dana-penghasilan-toko-anda.md
     bagian: "artikel penuh"
+related: [shp-keuangan-006]
 ---
 # FAQ Pelepasan dan Penarikan Dana Penghasilan Toko Anda
 
 ## Ringkasan
-**1. Kapan Shopee akan meneruskan dana pembayaran Pembeli ke Saldo Penjual saya?**
+Dana dilepas ke Saldo Penjual maks. 1x24 jam setelah pesanan Selesai (sejak 28 Jan 2026, status Selesai otomatis 2 hari setelah barang tiba — tombol "Pesanan Selesai" gak lagi ditampilkan ke Pembeli). Penarikan ke SeaBank/BCA/BNI/BRI/Mandiri gratis, bank lain kena Rp3.000, maks. 1x/hari.
 
+## Kapan ini dipakai
+Ini entry RUJUKAN buat semua pertanyaan "kok dana saya belum cair" — cek dulu status pesanan (udah Selesai?), lalu penyebab tertunda (5 kemungkinan di FAQ #2), baru cek soal penarikan ke bank.
 
-27-01-2026
-
-**1. Kapan Shopee akan meneruskan dana pembayaran Pembeli ke Saldo Penjual saya?**
+## Isi
 
 Jika tidak ada kendala pada pesanan Anda, maka dana akan dilepaskan ke Penjual pada saat:
 
@@ -95,4 +96,21 @@ Ya. Anda dapat melakukan penarikan dana berulang kali dalam seminggu dengan maks
 Pastikan Anda telah menyiapkan detail rekening bank yang benar untuk dapat melakukan penarikan dana penghasilan. Jika Anda masih belum menerima dana penghasilan dan telah melewati estimasi[ Durasi Penarikan Dana](https://seller.shopee.co.id/edu/article/3530), maka Anda dapat menghubungi tim[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) untuk pengecekan lebih lanjut.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Pelepasan dana setelah Pesanan Selesai | maks. 1x24 jam |
+| Auto-selesai sejak barang tiba (Non-Mall, sejak 28 Jan 2026) | 2 hari |
+| Pelepasan dana Non-Mall (sebelum ada auto-selesai) | 2-3 hari sejak barang tiba |
+| Pelepasan dana Shopee Mall | 7-8 hari sejak barang tiba |
+| Biaya penarikan (SeaBank/BCA/BNI/BRI/Mandiri) | Gratis |
+| Biaya penarikan (bank lain) | Rp3.000, min. penarikan Rp13.000 |
+| Frekuensi penarikan | maks. 1x/hari |
+
+## Pertanyaan diagnosa
+
+1. **Pesanan udah beneran berstatus "Selesai"?** Sejak 28 Jan 2026, status ini otomatis 2 hari setelah barang tiba — Pembeli gak perlu klik tombol lagi. Kalau belum 2 hari, itu bukan pelepasan tertunda.
+2. **Kalau udah lewat 1x24 jam dari Selesai tapi dana belum cair — cek 5 kemungkinan:** Pembeli ajukan retur, indikasi pelanggaran S&K, akun sedang dibatasi/ditinjau, atau belum lewat estimasi waktu (2-3 hari Non-Mall / 7-8 hari Mall dari barang tiba kalau belum status Selesai).
+3. **Penarikan ke bank mana?** SeaBank/BCA/BNI/BRI/Mandiri gratis; bank lain kena Rp3.000 dan minimal Rp13.000.
+4. **Udah tarik dana hari ini sebelumnya?** Maks. 1x penarikan per hari — kalau udah pernah, harus tunggu besok.
+5. **Toko Shopee Mall atau bukan?** Estimasi waktu pelepasan (kalau belum ada status Selesai) beda jauh: 2-3 hari (Non-Mall) vs 7-8 hari (Mall).

@@ -1774,6 +1774,86 @@ Member bisa mengejar status Mall dengan ekspektasi kenaikan order yang gak sesua
 
 ---
 
+### S-D-CONFLICT-004 · Dua nomor SKB PPh 23 berbeda di dua entry resmi (`shp-biaya-006` vs `shp-keuangan-003`)
+
+**Status:** terbuka
+**Entry terdampak:** `shp-biaya-006` (Ketentuan Biaya untuk Penjual Shopee Mall, `valid_as_of: 2026-07`), `shp-keuangan-003` (Bagaimana cara mengajukan pengembalian PPh 23?, `valid_as_of: 2026-01`)
+
+**Masalahnya:**
+Ketemu waktu ngerjain full-template pass `shp-biaya-006`. Dua entry resmi Shopee (dari batch scraping yang sama) nyebut nomor & periode SKB PPh 23 yang beda:
+- `shp-biaya-006` (di-*scrape* lebih baru, Juli 2026): SKB No. **KET-00012**/PPUT-CT/KPP.3010/**2025**, berlaku **3 Feb–31 Des 2025**.
+- `shp-keuangan-003` (di-*scrape* lebih lama, Januari 2026): SKB No. **KET-00002**/PPUT-CT/KPP.3010/**2026**, berlaku **15 Jan–31 Des 2026**.
+
+Dua SKB itu masuk akal kalau memang berurutan (SKB 2025 habis masa berlaku, diganti SKB baru buat 2026) — tapi anehnya entry yang `valid_as_of`-nya LEBIH BARU (`shp-biaya-006`, Juli 2026) justru nyebut SKB yang LEBIH LAMA (2025), bukan yang 2026. Kemungkinan besar konten `shp-biaya-006` gak keupdate pas artikel sumbernya di-*refresh* Juli 2026 — cuma bagian lain artikelnya yang berubah, bagian SKB-nya kelewat.
+
+**Kalau salah diputuskan:**
+Kalau tim jawab pertanyaan soal SKB PPh 23 pakai nomor/periode dari `shp-biaya-006`, member/mentor bisa dikasih info SKB yang udah expired (periode 2025) padahal ada SKB baru yang aktif (2026) — bisa bikin kebingungan soal kewajiban pajak.
+
+**Opsi:**
+- **A** — Anggap `shp-keuangan-003` sebagai sumber kebenaran (lebih spesifik topiknya + prosedur reimbursement-nya konsisten), dan edit `shp-biaya-006` supaya nomor/periode SKB-nya disamakan/redirect ke situ.
+- **B** — Biarkan dua-duanya apa adanya, cukup ditandai lewat Batasan (sudah dilakukan) — anggap ini sekadar snapshot dua waktu scraping berbeda, bukan konflik yang perlu diresolusi konten-nya.
+- **C** — Cek ke sumber resmi Shopee terbaru buat konfirmasi nomor SKB yang benar-benar aktif saat ini, baru update kedua entry.
+
+**Rekomendasi:** B untuk sekarang (sudah ditandai jelas di Batasan `shp-biaya-006`, mengarahkan pembaca ke `shp-keuangan-003`) — C kalau ada akses buat verifikasi ke sumber resmi Shopee terkini, karena skill ini gak boleh nebak nomor SKB yang benar.
+
+**Keputusan Yohan:** _(kosong)_
+
+---
+
+### S-D-CONFLICT-005 · Frekuensi update Username beda di dua entry resmi (`shp-akun-012` vs `shp-toko-003`)
+
+**Status:** terbuka
+**Entry terdampak:** `shp-akun-012` (Mengelola Akun Shopee, `valid_as_of: 2026-06`), `shp-toko-003` (Bagaimana Cara Menemukan Detail Toko dan Produk Saya?, `valid_as_of: 2024-03`)
+
+**Masalahnya:**
+Ketemu waktu ngerjain full-template pass `shp-akun-012` di folder `akun-dan-toko`. Dua entry resmi Shopee nyebut aturan berbeda soal berapa kali Username toko boleh di-update:
+- `shp-akun-012` (di-*scrape* lebih baru, Juni 2026): "Anda dapat meng-*update* username sebanyak **1 kali setiap 30 hari**" — menyiratkan bisa update berulang, asal jeda 30 hari.
+- `shp-toko-003` (di-*scrape* lebih lama, Maret 2024): "Anda hanya dapat meng-*update* username Anda **1 kali** [total]. Jika Anda telah meng-*update* username Anda 1 kali dan ingin meng-*update* kembali, Anda dapat menghubungi Customer Service Shopee" — menyiratkan cuma 1x seumur akun, setelahnya wajib lewat CS.
+
+Kemungkinan kebijakan Shopee memang berubah antara Maret 2024 dan Juni 2026 (dari "1x seumur akun" jadi "1x/30 hari"), tapi bisa juga salah satu artikel sumber belum ter-*update* konsisten.
+
+**Update:** Ketemu sumber ketiga saat ngerjain `shp-toko-032` (Membuat Profil Toko yang Baik, `valid_as_of: 2026-01`) yang JUGA nyebut pola "1x/30 hari, lebih dari itu hubungi CS" — sama dengan `shp-akun-012`. Jadi sekarang 2 dari 3 sumber (`shp-akun-012` + `shp-toko-032`) konsisten dengan "1x/30 hari", cuma `shp-toko-003` (scraping paling lama, Maret 2024) yang beda sendiri dengan "1x total". Ini nge-tip probabilitas ke arah `shp-toko-003` yang udah usang, TAPI belum cukup buat mastiin tanpa cek sumber resmi Shopee terkini — opsi C (verifikasi langsung) masih jadi cara paling aman buat nutup keputusan ini.
+
+**Kalau salah diputuskan:**
+Kalau tim jawab pertanyaan "boleh ganti username lagi gak?" pakai aturan yang salah, member bisa dikasih ekspektasi keliru — disuruh coba update sendiri padahal harus ke CS, atau sebaliknya diarahkan ke CS padahal sebenarnya bisa self-service asal nunggu 30 hari.
+
+**Opsi:**
+- **A** — Anggap `shp-akun-012` (lebih baru) sebagai aturan yang berlaku sekarang, edit `shp-toko-003` supaya konsisten/redirect ke situ.
+- **B** — Biarkan dua-duanya apa adanya, ditandai lewat Batasan di `shp-akun-012` (sudah dilakukan) — anggap snapshot dua waktu scraping berbeda.
+- **C** — Cek ke sumber resmi Shopee terbaru buat konfirmasi aturan yang benar-benar aktif, baru update entry yang salah.
+
+**Rekomendasi:** B untuk sekarang (sudah ditandai di Batasan `shp-akun-012`) — C kalau ada akses verifikasi ke sumber resmi Shopee terkini, karena skill ini gak boleh nebak aturan mana yang aktif.
+
+**Keputusan Yohan:** _(kosong)_
+
+---
+
+### S-D-CONFLICT-006 · Jarak jangkauan Bluebird Kirim beda di 2 bagian artikel yang sama (`shp-pengiriman-006`)
+
+**Status:** terbuka
+**Entry terdampak:** `shp-pengiriman-006` (Bluebird Kirim, `valid_as_of: 2026-08`)
+
+**Masalahnya:**
+Ketemu waktu ngerjain full-template pass `shp-pengiriman-006` di folder `pengiriman-dan-pesanan/jasa-kirim`. Dalam SATU artikel sumber yang sama, ada dua angka berbeda soal jarak maksimum jangkauan Bluebird Kirim:
+- Tabel "Detail Ketentuan" nyebut baris **Jarak Pengiriman: 60km**.
+- Bagian catatan lain di artikel yang sama bilang: "Jika Anda tidak bisa memilih jasa kirim Bluebird Kirim, area Anda mungkin belum masuk jangkauan layanan jasa kirim Bluebird Kirim atau **melebihi 80km**."
+
+Dua angka ini beda (60km vs 80km) padahal sumbernya sama persis (satu artikel, satu tanggal scraping). Kemungkinan salah satu bagian belum di-update konsisten saat Shopee mengubah batas jangkauan, atau salah satu angka adalah typo dari penulis artikel aslinya.
+
+**Kalau salah diputuskan:**
+Kalau tim jawab pertanyaan "toko saya jaraknya 70km dari titik kurir, bisa pakai Bluebird Kirim gak?" pakai angka yang salah, member bisa dikasih ekspektasi keliru (dibilang bisa padahal gak, atau sebaliknya).
+
+**Opsi:**
+- **A** — Anggap 60km (angka di tabel resmi ketentuan) sebagai yang berlaku, catatan 80km dianggap keliru/ketinggalan update.
+- **B** — Biarkan dua-duanya apa adanya, ditandai lewat Batasan di `shp-pengiriman-006` (sudah dilakukan) — jangan pilih salah satu tanpa konfirmasi.
+- **C** — Cek ke sumber resmi Shopee/Bluebird terbaru buat konfirmasi angka mana yang benar-benar aktif.
+
+**Rekomendasi:** B untuk sekarang (sudah ditandai di Batasan `shp-pengiriman-006`) — C kalau ada akses verifikasi ke sumber resmi Shopee/Bluebird terkini.
+
+**Keputusan Yohan:** _(kosong)_
+
+---
+
 ## 2. Indikasi usang (D-OUTDATED)
 
 ### S-D-OUTDATED-001 · Seluruh folder `pengumuman-dan-kebijakan-terbaru` (15 entry)

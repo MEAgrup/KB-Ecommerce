@@ -11,16 +11,21 @@ valid_as_of: 2026-07
 sources:
   - file: pp---kebijakan-penyelesaian-pesanan/memahami-masa-pengemasan-dan-batas-waktu-pengiriman.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-047, shp-pengiriman-045, shp-pengiriman-043]
 ---
 # Memahami Masa Pengemasan dan Batas Waktu Pengiriman
 
 ## Ringkasan
+Masa Pengemasan = rata-rata waktu siapkan+kirim pesanan dalam 30 HARI TERAKHIR. Sabtu DIHITUNG masa pengemasan sejak 1 Mar 2026 (Star/Star+) / 1 Mei 2026 (Mall); Minggu/libur nasional/non-operasional jasa kirim TETAP DIKECUALIKAN. Jam Operasional Instant default: Senin-Jumat 10.00-15.00 WIB, Sabtu 10.00-13.00 WIB. Instant (Versi Lama) DIHENTIKAN mulai 1 September 2026. Pre-order: 3-30 hari kerja, gak masuk hitungan Masa Pengemasan toko keseluruhan.
+
+## Kapan ini dipakai
+Dipakai sebagai referensi lengkap Masa Pengemasan & Batas Waktu Pengiriman (perhitungan, tips mempersingkat, cara cek performa). Buat kebijakan Tingkat Keterlambatan/Tidak Terselesaikan, arahkan ke `shp-pengiriman-047`; buat FAQ masa pengemasan ringkas, arahkan ke `shp-pengiriman-045`; buat FAQ batas waktu pengiriman, arahkan ke `shp-pengiriman-043`.
+
+## Isi
+
 **Apa itu Masa Pengemasan?**
 
 
-28-07-2026
-
-**Apa itu Masa Pengemasan?**
 
 Masa Pengemasan adalah perkiraan waktu yang dibutuhkan Penjual untuk menyiapkan dan mengirimkan pesanan. Semakin cepat Anda mengemas pesanan, pengalaman berbelanja Pembeli akan semakin meningkat karena potensi pesanan sampai ke Pembeli juga lebih cepat.
 
@@ -128,7 +133,7 @@ Shopee akan membatalkan pesanan secara langsung dan mengembalikan dana Pembeli j
 
 Jika lewat dari keenam batas waktu yang disebutkan di atas, maka pengembalian dana akan secara otomatis diproses kepada Pembeli. Pelajari lebih lanjut tentang[ cara menghindari Pembatalan Pesanan](https://seller.shopee.co.id/edu/article/1092/Menghindari-Pembatalan-Pesanan-Secara-Otomatis).
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Untuk meningkatkan efisiensi proses pengiriman, Anda bisa mengemas produk terlaris Anda terlebih dahulu sebelum masa promosi.
 
@@ -173,3 +178,27 @@ Masa pengemasan dapat diperpanjang dalam keadaan tertentu jika dibutuhkan. Shope
   
 
 Jika Anda membutuhkan masa pengemasan yang lebih lama, Anda dapat mengaktifkan fitur[ Pre-order](https://seller.shopee.co.id/edu/article/7010).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Periode hitung rata-rata Masa Pengemasan | 30 hari terakhir |
+| Tanggal Sabtu mulai dihitung (Star/Star+) | 1 Maret 2026 |
+| Tanggal Sabtu mulai dihitung (Shopee Mall) | 1 Mei 2026 |
+| Jam Operasional Instant default — Senin-Jumat | 10.00-15.00 WIB (min. 5 jam) |
+| Jam Operasional Instant default — Sabtu | 10.00-13.00 WIB (min. 3 jam) |
+| Tanggal Instant (Versi Lama) dihentikan | mulai 1 September 2026 |
+| Masa Pengemasan Pre-order | 3-30 hari kerja |
+| Ambang Tingkat Keterlambatan kena penalti | >10% |
+| Batas ajukan banding keterlambatan | 14 hari kalender |
+
+## Pertanyaan diagnosa
+
+1. **Member Star+ heran kenapa Sabtu tiba-tiba dihitung masa pengemasan?** Sejak 1 Maret 2026, Sabtu MEMANG dihitung buat Penjual Star/Star+ (Shopee Mall menyusul 1 Mei 2026) — Minggu & libur nasional tetap dikecualikan.
+2. **Member gak atur Jam Operasional Instant, apa dampaknya?** Sistem otomatis terapkan jam DEFAULT: Senin-Jumat 10.00-15.00 WIB, Sabtu 10.00-13.00 WIB — arahkan atur manual kalau mau jam operasional beda.
+3. **Member masih pakai layanan Instant (Versi Lama), amankah?** Cuma sampai 1 September 2026 — setelah itu, pesanan Instant CUMA bisa diproses via layanan Instant biasa dan Instant Prioritas.
+4. **Member Star/Star+/Mall mau perpanjang Masa Pengemasan Pre-order buat kategori khusus?** BISA — khusus 3 tipe Penjual ini, Masa Pengemasan Pre-order bisa diperpanjang buat kategori yang butuh penanganan khusus.
+5. **Member mau tau kenapa Masa Pengemasan tokonya lebih lama dari target?** Cek 2 faktor umum: banyak produk Pre-order, atau pakai jasa kirim yang GAK DIDUKUNG Shopee — keduanya bikin Masa Pengemasan lebih panjang secara wajar.
+6. **Member mau mempersingkat Masa Pengemasan tokonya?** 6 tips: kurangi produk Pre-order, pakai Jasa Kirim yang Didukung Shopee, kirim sebelum batas waktu, atur pengiriman sesuai jam pickup jasa kirim, tambah karyawan pas promo, dan pakai fitur Performa Toko buat identifikasi produk populer yang perlu dikemas duluan.
+7. **Member mau tau Masa Pengemasan tokonya saat ini berapa?** Cek di halaman Kesehatan Toko, bagian Pesanan Terselesaikan (Seller Centre atau aplikasi Shopee).

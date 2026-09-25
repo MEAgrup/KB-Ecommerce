@@ -15,12 +15,12 @@ sources:
 # Mengenal Big Campaign Shopee
 
 ## Ringkasan
-**Apa itu Big Campaign Shopee?**
+Big Campaign Shopee (Ramadan Sale, 9.9/11.11/12.12, dst) punya 2 jenis program: **Promo Produk & Voucher Shopee** (opt-in mandiri via Seller Centre, syarat: toko Normal, gak Mode Libur, maks. 2 poin penalti, aktif 30 hari terakhir) dan **Paket Kampanye** (cuma via undangan Shopee, bisa kena komisi tambahan).
 
+## Kapan ini dipakai
+Dipakai waktu member nanya "kenapa gak bisa ikut campaign ini" (cek syarat toko dulu) atau "kena komisi campaign ini kenapa" (mekanisme Komisi Penjualan Bersih beda dari biaya admin biasa).
 
-14-08-2026
-
-**Apa itu Big Campaign Shopee?**
+## Isi
 
 Big Campaign Shopee adalah promosi berskala besar dari Shopee yang menghadirkan berbagai penawaran dan aktivitas promosi, seperti Big Ramadan Sale dan kampanye tanggal kembar seperti 11.11 dan 12.12.
 
@@ -43,9 +43,9 @@ Dengan mengikuti Big Campaign Shopee, Anda dapat memperoleh berbagai keuntungan 
 
 |  |  |
 | :-: | :-: |
-| \*\*KEUNTUNGAN MENGIKUTI BIG CAMPAIGN SHOPEE\*\* |  |
-| \*\*Dampak ke Performa Toko\*\* | • Meningkatkan visibilitas produk di berbagai halaman dan media promosi Shopee.• Menjangkau lebih banyak Pembeli dan memperluas exposure toko.• Memanfaatkan momentum kampanye untuk meningkatkan potensi penjualan |
-| \*\*Dukungan & Fitur Selama Kampanye Berlangsung\*\* | • Akses ke paket kampanye dan nominasi produk sesuai kriteria yang berlaku.• \*Exposure\* tambahan di halaman kampanye Shopee.• Dukungan promosi seperti voucher kampanye atau saldo iklan.• Pemantauan performa toko secara \*real-time\* melalui\[ Dashboard Performa Toko\](https://seller.shopee.co.id/edu/article/14897) yang tersedia. |
+| **KEUNTUNGAN MENGIKUTI BIG CAMPAIGN SHOPEE** |  |
+| **Dampak ke Performa Toko** | • Meningkatkan visibilitas produk di berbagai halaman dan media promosi Shopee.• Menjangkau lebih banyak Pembeli dan memperluas exposure toko.• Memanfaatkan momentum kampanye untuk meningkatkan potensi penjualan |
+| **Dukungan & Fitur Selama Kampanye Berlangsung** | • Akses ke paket kampanye dan nominasi produk sesuai kriteria yang berlaku.• \*Exposure\* tambahan di halaman kampanye Shopee.• Dukungan promosi seperti voucher kampanye atau saldo iklan.• Pemantauan performa toko secara \*real-time\* melalui\[ Dashboard Performa Toko\](https://seller.shopee.co.id/edu/article/14897) yang tersedia. |
 
   
 
@@ -67,7 +67,7 @@ Penjual dapat berpartisipasi dalam Big Campaign Shopee melalui mekanisme yang be
 
 |  |  |
 | :-: | :-: |
-| \*\*PROGRAM BIG CAMPAIGN\*\* | \*\*CARA BERPARTISIPASI\*\* |
+| **PROGRAM BIG CAMPAIGN** | **CARA BERPARTISIPASI** |
 | Promo Produk & Voucher Shopee | Melalui Seller Centre |
 | Paket Kampanye | Diundang oleh Tim Shopee |
 
@@ -207,3 +207,20 @@ Tidak semua program Big Campaign dikenakan biaya. Untuk program yang melibatkan 
 **5. Bagaimana mekanisme potongan atau komisi kampanye?**
 
 Ketentuan mengenai biaya atau komisi bergantung pada program Big Campaign yang diikuti. Jika terdapat biaya atau komisi yang berlaku, informasi tersebut akan tersedia pada halaman kampanye saat Anda menerima undangan.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Syarat toko ikut Promo Produk & Voucher Shopee | Status Normal, Mode Libur tidak aktif, maks. 2 poin penalti, aktif 30 hari terakhir |
+| Contoh jadwal 9.9 Super Shopping Day 2026 | Periode kampanye 25 Agu–10 Sep; Promo Puncak 9 Sep; Nominasi produk 6 Agu–10 Sep |
+
+## Pertanyaan diagnosa
+
+1. **Toko gak bisa ikut Promo Produk & Voucher Shopee — cek 4 syarat dulu:** status toko Normal? Mode Libur nonaktif? Poin penalti ≤2? Toko aktif 30 hari terakhir?
+2. **Ini pertanyaan soal Promo Produk & Voucher Shopee (opt-in mandiri) atau Paket Kampanye (undangan)?** Dua jalur beda — mandiri lewat Seller Centre vs nunggu diundang Shopee.
+3. **Produk yang mau dinominasikan masuk daftar Produk Diblokir dari Promosi atau kategori terlarang?** Kalau iya, gak bisa dinominasikan.
+4. **Kena Komisi Penjualan Bersih — udah paham itu dihitung dari Penjualan Bersih (setelah diskon/voucher), bukan dari harga jual awal?** Dan gak termasuk biaya Gratis Ongkir XTRA/Promo XTRA/admin — itu ditagih terpisah.
+
+## Batasan
+Contoh jadwal 9.9 Super Shopping Day 2026 di entry ini cuma buat ilustrasi format jadwal — bukan patokan tanggal buat kampanye lain atau tahun berikutnya. Shopee eksplisit bilang bisa mengubah ketentuan kriteria Big Campaign kapan saja tanpa pemberitahuan.

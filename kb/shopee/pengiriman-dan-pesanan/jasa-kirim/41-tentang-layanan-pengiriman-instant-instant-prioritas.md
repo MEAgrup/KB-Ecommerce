@@ -11,16 +11,21 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/tentang-layanan-pengiriman-instant-instant-prioritas.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-015, shp-pengiriman-029]
 ---
 # Tentang Layanan Pengiriman Instant & Instant Prioritas
 
 ## Ringkasan
+Instant/Instant Prioritas = paket tiba dalam hitungan menit s.d. maks. 4 jam sejak pick-up, didukung GoSend/GrabExpress/SPX Express. Wajib kemas+jadwal pickup maks. 1 jam setelah pesanan baru diterima. Estimasi kurir jemput: Instant Prioritas maks. 90 menit, Instant maks. 3 jam sejak request pickup. Per 1 SEPTEMBER 2026, layanan Instant (Versi Lama) DIHENTIKAN — semua pesanan cepat wajib lewat Instant/Instant Prioritas baru (Penjual Non-Shopee Mall masih bisa pakai versi lama s.d. 31 Agustus 2026). Instant & Instant Prioritas = 1 kesatuan, aktif BARENGAN otomatis (gak bisa pisah), dan otomatis MATIKAN Instant Versi Lama (begitu juga sebaliknya). Kalau gak atur Jam Operasional Instant sendiri, sistem pakai default minimum: Senin-Jumat pk. 10.00-15.00 WIB (min. 5 jam), Sabtu pk. 10.00-13.00 WIB (min. 3 jam). Bonus: keringanan hapus poin penalti Keterlambatan Pengiriman hingga 2 poin/minggu khusus pesanan Instant/Instant Prioritas. Mass Upload/Update WAJIB aktifkan/nonaktifkan Instant & Instant Prioritas BARENGAN, kalau enggak sistem gagal proses ('Invalid Logistic').
+
+## Kapan ini dipakai
+Dipakai kalau member nanya konsep dasar, keuntungan, atau cara aktivasi layanan Instant/Instant Prioritas termasuk transisi dari versi lama. Buat FAQ ringkas, arahkan ke `shp-pengiriman-015`; buat panduan operasional lengkap, arahkan ke `shp-pengiriman-029`.
+
+## Isi
+
 **Mengenal Layanan Pengiriman Instant & Instant Prioritas**
 
 
-06-08-2026
-
-**Mengenal Layanan Pengiriman Instant & Instant Prioritas**
 
 Tipe layanan pengiriman Instant dan Instant Prioritas merupakan opsi pengiriman tercepat yang memastikan paket tiba di ke alamat tujuan dalam hitungan menit hingga maks. 4 jam sejak paket di-*pickup* oleh kurir.
 
@@ -117,3 +122,27 @@ Jika Anda tidak mengatur Jam Operasional Instant, maka sistem akan menerapkan la
       - Layanan pengiriman Instant (Versi Lama) dapat digunakan hingga 31 Agustus 2026. Kedepannya, Anda dapat mengaktifkan layanan pengiriman Instant dan Instant Prioritas melalui halaman Pengaturan Pengiriman di Seller Centre atau aplikasi Seller Centre Shopee.
       - Jika Anda pengguna[ *Independent Software Vendors* (ISV)](https://seller.shopee.co.id/edu/article/20013), permintaan perubahan tipe layanan pengiriman akan otomatis terganti setelah permintaan perubahan diterima. 
   - Jika menggunakan fitur[ Mass Upload](https://seller.shopee.co.id/edu/courseDetail/49?lessonId=92) atau[ Mass Update](https://seller.shopee.co.id/edu/courseDetail/49?lessonId=98), Anda harus mengaktifkan/menonaktifkan tipe layanan pengiriman Instant dan Instant Prioritas secara bersamaan. Jika tidak, sistem akan gagal memproses dan menampilkan pesan ‘*Invalid Logistic*’.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Estimasi tiba Instant/Instant Prioritas | menit s.d. maks. 4 jam sejak pick-up |
+| Batas kemas+jadwal pickup setelah pesanan baru | maks. 1 jam |
+| Estimasi kurir jemput — Instant Prioritas | maks. 90 menit sejak request pickup |
+| Estimasi kurir jemput — Instant | maks. 3 jam sejak request pickup |
+| Instant (Versi Lama) dihentikan total | per 1 September 2026 |
+| Instant Versi Lama masih dipakai Penjual Non-Shopee Mall s.d. | 31 Agustus 2026 |
+| Default Jam Operasional Instant — Senin-Jumat | pk. 10.00-15.00 WIB (min. 5 jam) |
+| Default Jam Operasional Instant — Sabtu | pk. 10.00-13.00 WIB (min. 3 jam) |
+| Keringanan hapus poin penalti Keterlambatan Pengiriman | maks. 2 poin/minggu (khusus pesanan Instant/Instant Prioritas) |
+
+## Pertanyaan diagnosa
+
+1. **Member masih pakai Instant (Versi Lama) di toko Shopee Mall, kapan wajib pindah?** Per 1 September 2026, Instant Versi Lama DIHENTIKAN total — semua toko (termasuk Shopee Mall) wajib pindah ke Instant/Instant Prioritas baru.
+2. **Member Non-Shopee Mall masih pakai Instant Versi Lama, sampai kapan boleh?** Bisa dipakai sampai 31 Agustus 2026 — setelah itu tetap harus pindah ke layanan baru seperti semua Penjual lain.
+3. **Member mau aktifkan Instant doang tanpa Instant Prioritas?** GAK BISA — keduanya satu kesatuan yang aktif BARENGAN otomatis, gak bisa dipisah aktivasinya.
+4. **Member gak sempat atur Jam Operasional Instant sendiri, apa dampaknya?** Sistem otomatis pakai default minimum: Senin-Jumat pk. 10.00-15.00 WIB, Sabtu pk. 10.00-13.00 WIB — toko tetap bisa layani Instant tapi dengan jam lebih terbatas dari yang bisa diatur manual.
+5. **Member pakai Mass Update, aktifkan Instant doang tanpa Instant Prioritas lewat template?** Sistem GAGAL proses dan tampilkan pesan 'Invalid Logistic' — kedua tipe layanan wajib diaktifkan/nonaktifkan BARENGAN lewat Mass Upload/Update.
+6. **Toko member kena banyak poin penalti Keterlambatan Pengiriman dari pesanan Instant minggu ini?** Ada keringanan — Shopee hapus otomatis hingga 2 poin/minggu KHUSUS buat pesanan Instant/Instant Prioritas (bukan semua jenis pesanan).
+7. **Kurir Instant Prioritas member belum datang setelah 2 jam sejak request pickup?** Masih dalam batas wajar (maks. 90 menit itu ESTIMASI, bukan garansi mutlak) — tapi kalau memang gak kunjung datang, laporkan via formulir Kendala Pengiriman Instant.

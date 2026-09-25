@@ -11,22 +11,19 @@ valid_as_of: 2026-04
 sources:
   - file: pel-pembeli---shopee-certified-enablers/shopee-certified-enablers-program-informasi-untuk-enabler.md
     bagian: "artikel penuh"
+related: [shp-enabler-001, shp-enabler-003]
 ---
 # Shopee-Certified Enablers Program: Informasi untuk Enabler
 
 ## Ringkasan
-**Apa itu Shopee-Certified Enablers Program?**
+Shopee-Certified Enablers Program menilai enabler/agency (kayak MEA) berdasarkan 4 metrik Operasional (keterlambatan pengiriman, chat dibalas, poin penalti, masa pengemasan) dan 7 metrik Engagement (Flash Sale, Voucher, Iklan, Promo, Live, Video, SKU aktif AMS) dari seluruh Penjual yang dikelola — hasilnya nentuin tingkatan Premium/Certified/Not Certified/Below Expectation.
 
+## Kapan ini dipakai
+Dipakai waktu perlu tahu detail teknis penilaian (rumus poin, contoh perhitungan) — buat FAQ singkat soal eligibilitas/aturan umum, pakai `shp-enabler-001`.
 
-13-04-2026
+## Isi
 
-**Apa itu Shopee-Certified Enablers Program?**
-
-Shopee-Certified Enablers Program merupakan program penghargaan bagi para Enabler yang memberikan layanan operasional dengan sangat baik dan secara aktif mengembangkan bisnis mitranya di Shopee.
-
-  
-
-ð **Definisi**
+📍 **Definisi**
 
 **Enabler**: Mitra yang mendukung Penjual Shopee dengan memberikan layanan operasional dan/atau komersial seperti jasa pergudangan, jasa penyelesaian pesanan, jasa operasional toko, jasa marketing/pemasaran, jasa pelayanan Pembeli, dan lainnya.
 
@@ -101,14 +98,14 @@ Mulai Q1 2026, terdapat *update* pada kriteria penilaian mingguan untuk Shopee-C
 
 |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*NO.\*\* | \*\*METRIK\*\* | \*\*SANGAT BAIK\*\* | \*\*BURUK\*\* |  |  |
-| \*\*KRITERIA\*\* | \*\*NILAI\*\* | \*\*KRITERIA\*\* | \*\*NILAI\*\* |  |  |  |
-| \*\*Operasional\*\* | 1 | Tingkat Keterlambatan Pengiriman Pesanan | \\\< 1% | \\+1 | ≥ 1% | \\-1 |
+| **KATEGORI** | **NO.** | **METRIK** | **SANGAT BAIK** | **BURUK** |  |  |
+| **KRITERIA** | **NILAI** | **KRITERIA** | **NILAI** |  |  |  |
+| **Operasional** | 1 | Tingkat Keterlambatan Pengiriman Pesanan | \\\< 1% | \\+1 | ≥ 1% | \\-1 |
 | Tingkat Keterlambatan Pengiriman Pesanan setelah \*big campain\* | \\\< 1% | \\+0.5 | \\- | \\- |  |  |
 | 2 | Persentase Chat Dibalas | \\\> 85% | \\+1 | ≤ 85% | \\-1 |  |
 | 3 | Poin Penalti | \\\< 1 | \\+1 | ≥ 1 | \\-1 |  |
 | 4 | Masa Pengemasan | \\\< 0.5 hari | \\+1 | ≥ 0.5 hari | \\-1 |  |
-| \*\*\*Engagement\*\*\* | 5 | Flash Sale Shopee/Flash Sale Shopee Mall/Flash Sale Toko Saya | Min. 5x/minggu | \\+2 | \\- | \\- |
+| **\*Engagement**\* | 5 | Flash Sale Shopee/Flash Sale Shopee Mall/Flash Sale Toko Saya | Min. 5x/minggu | \\+2 | \\- | \\- |
 | 6 | Voucher Toko | Min. 3 hari/minggu | \\+2 | \\- | \\- |  |
 | 7 | Iklan Shopee | Min. 75 USD/minggu | \\+2 | \\- | \\- |  |
 | 8 | Promo Toko | Min. 5 hari/minggu | \\+2 | \\- | \\- |  |
@@ -133,13 +130,13 @@ Enabler X mengelola 5 Penjual di Shopee, tetapi tidak menangani metrik *Engageme
 
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| \*\*Penjual yang dikelola\*\* | \*\*Operasional\*\* | \*\*\*Engagement\*\*\* |  |  |
-| \*\*Nilai minggu ke-1\*\* | \*\*Jumlah metrik dinilai\*\* | \*\*Nilai minggu ke-1\*\* | \*\*Jumlah metrik dinilai\*\* |  |
-| \*\*Penjual A\*\* | 5 | 5 | 12 | 7 |
-| \*\*Penjual B\*\* | 3 | 5 | 10 | 7 |
-| \*\*Penjual C\*\* | \\-1 | 5 | 5 | 7 |
-| \*\*Penjual D\*\* | 4 | 5 | \\- | \\- |
-| \*\*Penjual E\*\* | 4 | 4 | \\- | \\- |
+| **Penjual yang dikelola** | **Operasional** | **\*Engagement**\* |  |  |
+| **Nilai minggu ke-1** | **Jumlah metrik dinilai** | **Nilai minggu ke-1** | **Jumlah metrik dinilai** |  |
+| **Penjual A** | 5 | 5 | 12 | 7 |
+| **Penjual B** | 3 | 5 | 10 | 7 |
+| **Penjual C** | \\-1 | 5 | 5 | 7 |
+| **Penjual D** | 4 | 5 | \\- | \\- |
+| **Penjual E** | 4 | 4 | \\- | \\- |
 
   
   
@@ -163,11 +160,11 @@ Anda akan dikategorisasikan ke dalam 4 tingkatan performa berdasarkan jumlah poi
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*Tingkat\*\* | \*\*Nilai\*\* \*\*Operasional\*\* \*\*rata-rata di akhir kuartal\*\* | \*\*Nilai\*\* \*\*\*Engagement\*\*\* \*\*rata-rata di akhir kuartal\*\* | \*\*Jumlah Penjual yang dikelola\*\* |
-| \*\*Premium\*\*Performa operasional dan \*engagement\* yang sangat baik | ≥ 0.85 poin | ≥ 0.85 poin | 10 |
-| \*\*Certified\\\*\*\*Performa operasional dan \*engagement\* yang baik | ≥ 0.7 poin | ≥ 0.7 poin | 3 |
-| \*\*Not Certified\*\*Tidak memenuhi kriteria | ≥ 0.35 poin | \\- | 3 |
-| \*\*Below Expectation\*\*Kelemahan operasional yang signifikan | \\\< 0.35 poin | \\- | \\- |
+| **Tingkat** | **Nilai** **Operasional** **rata-rata di akhir kuartal** | **Nilai** **\*Engagement**\* **rata-rata di akhir kuartal** | **Jumlah Penjual yang dikelola** |
+| **Premium**Performa operasional dan \*engagement\* yang sangat baik | ≥ 0.85 poin | ≥ 0.85 poin | 10 |
+| **Certified\\**\*Performa operasional dan \*engagement\* yang baik | ≥ 0.7 poin | ≥ 0.7 poin | 3 |
+| **Not Certified**Tidak memenuhi kriteria | ≥ 0.35 poin | \\- | 3 |
+| **Below Expectation**Kelemahan operasional yang signifikan | \\\< 0.35 poin | \\- | \\- |
 
   
 
@@ -191,7 +188,7 @@ Anda akan dikategorisasikan ke dalam 4 tingkatan performa berdasarkan jumlah poi
   - Mencapai \< 0,7 poin untuk metrik *Engagement*.
   - Mengelola kurang dari 3 Penjual untuk metrik *Engagement*.
 
-**2. Certified (*****Engagement*** **saja)**
+**2. Certified (**Engagement** **saja)**
 
 1.  Memenuhi kedua persyaratan untuk metrik *Engagement*, diantaranya:
 
@@ -239,14 +236,14 @@ Berikut adalah contoh bagaimana penilaian mingguan akan berkontribusi pada tingk
 
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| \*\*Penjual yang dikelola\*\* | \*\*Operasional\*\* | \*\*\*Engagement\*\*\* |  |  |
-| \*\*Nilai\*\* | \*\*Jumlah Penjual\*\* | \*\*Nilai\*\* | \*\*Jumlah Penjual\*\* |  |
-| \*\*Minggu 1\*\* | 0.63 | 10 | 1.5 | 5 |
-| \*\*Minggu 2\*\* | 0.89 | 12 | 0.96 | 6 |
+| **Penjual yang dikelola** | **Operasional** | **\*Engagement**\* |  |  |
+| **Nilai** | **Jumlah Penjual** | **Nilai** | **Jumlah Penjual** |  |
+| **Minggu 1** | 0.63 | 10 | 1.5 | 5 |
+| **Minggu 2** | 0.89 | 12 | 0.96 | 6 |
 | ... | \\-- | \\-- | \\-- | \\-- |
-| \*\*Minggu 12\*\* | 0.91 | 12 | 0.97 | 6 |
-| \*\*Minggu 13\*\* | 0.95 | 10 | 0.86 | 5 |
-| \*\*Nilai di akhir kuartal\*\* | \*\*0.86\*\* | \*\*11.0\*\* | \*\*0.96\*\* | \*\*5.8\*\* |
+| **Minggu 12** | 0.91 | 12 | 0.97 | 6 |
+| **Minggu 13** | 0.95 | 10 | 0.86 | 5 |
+| **Nilai di akhir kuartal** | **0.86** | **11.0** | **0.96** | **5.8** |
 
   
 
@@ -258,4 +255,24 @@ Jika Enabler X berhasil mengaktifkan setidaknya ≥ 3 toko baru dalam satu kuart
 
   
 
-Enabler X mengelola lebih dari 10 Penjual untuk Operasional, tetapi kurang dari 10 Penjual untuk *Engagement*, maka mereka tidak memenuhi syarat untuk menjadi Enabler **Premium** dan hanya akan diberi peringkat sebagai Enabler **Certified**.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+Enabler X mengelola lebih dari 10 Penjual untuk Operasional, tetapi kurang dari 10 Penjual untuk *Engagement*, maka mereka tidak memenuhi syarat untuk menjadi Enabler **Premium** dan hanya akan diberi peringkat sebagai Enabler **Certified**.
+
+## Angka & patokan
+
+| Tingkat | Operasional | Engagement | Min. Penjual dikelola |
+|---|---|---|---|
+| Premium | ≥ 0,85 poin | ≥ 0,85 poin | 10 |
+| Certified | ≥ 0,7 poin | ≥ 0,7 poin | 3 |
+| Not Certified | ≥ 0,35 poin | — | 3 |
+| Below Expectation | < 0,35 poin | — | — |
+
+**Catatan penting:** tingkat **Premium butuh min. 10 Penjual di KEDUA kategori** (Operasional & Engagement) — kalau salah satu di bawah 10, otomatis turun ke Certified walau poinnya udah cukup (lihat contoh Enabler X di atas).
+
+## Pertanyaan diagnosa
+
+1. **Enabler-nya kelola berapa Penjual di masing-masing kategori (Operasional vs Engagement)?** Ini sering jadi penyebab "kenapa gak Premium padahal poin udah tinggi" — butuh min. 10 Penjual di DUA-duanya, bukan cuma salah satu.
+2. **Poin operasional lagi turun — dari metrik mana?** 4 kemungkinan: keterlambatan pengiriman, persentase chat dibalas, poin penalti, atau masa pengemasan. Masing-masing bisa dicek terpisah di laporan mingguan.
+3. **Ini pertanyaan soal aturan umum atau butuh contoh hitungan poin?** Kalau cuma soal aturan umum/eligibilitas, arahkan ke `shp-enabler-001` yang lebih ringkas.
+
+## Batasan
+Tabel kriteria penilaian berlaku mulai Q1 2026 dan eksplisit disebut "*update*" — kemungkinan besar berubah lagi tiap kuartal/tahun. Selalu cek `valid_as_of` sebelum kasih angka pasti ke enabler soal skor kuartal berjalan.

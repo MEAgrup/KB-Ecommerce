@@ -11,16 +11,21 @@ valid_as_of: 2022-10
 sources:
   - file: umum---akun-dan-keamanan/tentang-fitur-keamanan-toko.md
     bagian: "artikel penuh"
+related: [shp-akun-001, shp-akun-015]
 ---
 # Tentang Fitur Keamanan Toko
 
 ## Ringkasan
+Fitur Keamanan Toko = butuh Akun Utama Sistem Sub Akun (`shp-akun-001`) buat atur "Pemeriksa" (anggota yang approve/tolak aktivitas berisiko kayak tambah/ubah rekening bank). 2 mode: "Butuh Persetujuan" (WAJIB approval Pemeriksa) vs "Infokan Semua Pemeriksa" (cuma notifikasi, gak perlu approval) — aktifkan Butuh Persetujuan otomatis aktifkan juga Infokan Semua Pemeriksa. Tiket permintaan persetujuan berlaku 7 HARI KALENDER, Kirim Ulang Email cuma bisa 1x24 JAM.
+
+## Kapan ini dipakai
+Dipakai kalau member mau proteksi toko dari perubahan rekening bank tanpa sepengetahuan, atau nanya cara jadi/atur Pemeriksa. Buat Sistem Sub Akun secara umum, arahkan ke `shp-akun-001`; buat proses verifikasi data identitas toko (termasuk validasi nama rekening), arahkan ke `shp-akun-015`.
+
+## Isi
+
 **Apa itu Fitur Keamanan Toko?**
 
 
-21-10-2022
-
-**Apa itu Fitur Keamanan Toko?**
 
 Fitur Keamanan Toko dapat digunakan untuk meningkatkan keamanan toko Anda dengan menambahkan proses persetujuan dari Pemeriksa apabila terdapat permintaan tambah/ubah akun rekening bank.
 
@@ -96,3 +101,21 @@ Anda juga dapat pilih **Batalkan** untuk membatalkan permintaan persetujuan, ata
   - **Kirim Ulang Email** hanya bisa dilakukan 1x24 jam.
   - Jika permintaan persetujuan sudah selesai diperiksa, Anda akan menerima notifikasi pada *icon* **Notifikasi** di Seller Centre.
   - Batas waktu tiket permintaan persetujuan adalah 7 hari kalender.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas waktu tiket permintaan persetujuan | 7 hari kalender |
+| Jeda Kirim Ulang Email persetujuan | 1x24 jam |
+| Aktivitas yang terdampak proses persetujuan | penambahan rekening bank (aplikasi Shopee/Seller Centre) + penambahan rekening bank SPinjam untuk Penjual |
+
+## Pertanyaan diagnosa
+
+1. **Member mau aktifkan "Butuh Persetujuan" tapi gak nemu opsinya?** Cek dulu — fitur ini cuma bisa diakses lewat Akun Utama di Sistem Sub Akun; kalau belum punya Akun Utama, harus bikin dulu.
+2. **Member mau nonaktifkan "Butuh Persetujuan", kok gak bisa?** Cek dulu ada tiket permintaan persetujuan yang belum diproses — Butuh Persetujuan GAK BISA dinonaktifkan kalau masih ada tiket pending; nonaktivasi sendiri juga perlu approval Pemeriksa.
+3. **Member cuma mau notifikasi doang, gak mau approval WAJIB?** Aktifkan "Infokan Semua Pemeriksa" SAJA (tanpa "Butuh Persetujuan") — TAPI kalau "Butuh Persetujuan" diaktifkan, "Infokan Semua Pemeriksa" otomatis ikut aktif juga (gak bisa pisah kalau Butuh Persetujuan nyala).
+4. **Ada yang minta jadi Pemeriksa tapi kok gak langsung aktif?** Normal — permintaan jadi Pemeriksa perlu APPROVAL dari Pemeriksa yang udah ada dulu, gak otomatis berhasil.
+5. **Permintaan persetujuan tambah rekening udah 8 hari belum direspons Pemeriksa?** Kemungkinan tiketnya udah KEDALUWARSA — batas waktu tiket cuma 7 HARI KALENDER.
+6. **Member udah kirim email persetujuan ke Pemeriksa, mau kirim ulang karena kelupaan?** Bisa, TAPI cuma boleh 1x setiap 24 JAM — gak bisa spam kirim ulang.
+7. **Member mau lihat riwayat siapa aja yang pernah minta ubah rekening bank?** Cek "Riwayat Aktivitas Beresiko" — ada Kode Tiket, Jenis Aktivitas, Waktu Permintaan, Pemeriksa, Status, dan Tindakan yang bisa diambil.

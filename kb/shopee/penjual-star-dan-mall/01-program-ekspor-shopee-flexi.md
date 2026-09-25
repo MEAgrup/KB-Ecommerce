@@ -11,17 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: peng-toko---program-ekspor-shopee/program-ekspor-shopee-flexi.md
     bagian: "artikel penuh"
+related: [shp-ekspor-002]
 decisions: []
 ---
 # Program Ekspor Shopee FLEXI
 
 ## Ringkasan
-**Apa itu Program Ekspor Shopee FLEXI?**
+Program Ekspor Shopee FLEXI = versi "kendali penuh" dari Program Ekspor Shopee biasa (yang operasionalnya dikelola Shopee) — Penjual atur sendiri strategi toko luar negerinya. Baru tersedia ke Brunei, Filipina, Malaysia, Singapura, Thailand, lewat Seller Centre PC saja. Syarat gabung ketat (11 kriteria toko dalam negeri) dan biaya admin per negara beda-beda (lihat tabel di Isi).
 
+## Kapan ini dipakai
+Dipakai buat 2 kebutuhan beda: (1) cek eligibilitas gabung (11 syarat toko), dan (2) cari angka spesifik per negara (biaya admin, threshold penalti keterlambatan/pesanan tidak terselesaikan) — jawab bagian yang relevan aja, jangan dump semua isi entry yang panjang.
 
-14-08-2026
-
-**Apa itu Program Ekspor Shopee FLEXI?**
+## Isi
 
 Program Ekspor Shopee adalah program yang memungkinkan Anda untuk menjual produk langsung ke luar negeri serta membuka peluang besar untuk memperluas jangkauan bisnis.
 
@@ -64,12 +65,12 @@ Seluruh pesanan yang masuk akan diproses melalui satu Toko Program Ekspor Shopee
 
 |  |  |  |
 | :-: | :-: | :-: |
-|   | \*\*PROGRAM EKSPOR SHOPEE\*\* | \*\*PROGRAM EKSPOR SHOPEE FLEXI\*\* |
-| \*\*Definisi\*\* | Program yang memungkinkanAnda untuk menjual produk keluar negeri di mana semuaoperasional toko dikelola olehShopee. | Program yang memungkinkanAnda untuk menjual produk keluar negeri di mana semuaoperasional toko dikelola olehPenjual. |
-| \*\*Akses terhadap\*\*\*\*Seller Centre\*\* | Akses terbatas ke Seller Centre,hanya dapat melihat performatoko luar negeri. | Memiliki kendali penuh ataspengelolaan toko luar negerimelalui Seller Centre, termasuk \*chat\* dengan Pembeli. |
-| \*\*Pengaturan\*\*\*\*Harga Jual\*\*\*\*Produk\*\* | Menyesuaikan denganperaturan harga minimum dari\*platform\*. | Memiliki fleksibilitas untukmengatur harga dan margindengan harga rekomendasi dariShopee sebagai referensi. |
-| \*\*Promosi dan\*\*\*\*Iklan\*\* | Anda tidak dapat mengatursendiri promosi toko, termasukIklan Shopee dan kampanye. | Anda dapat mengatur sendiripromosi toko, termasuk IklanShopee dan kampanye. |
-| \*\*Operasional Toko\*\* | Toko di luar negeri dikelolaoleh Shopee secarakeseluruhan. | Toko di luar negeri dapat dikelolaoleh Anda secara mandiri melaluiSeller Centre. Shopee akan tetapmembantu mengelola pengiriman. |
+|   | **PROGRAM EKSPOR SHOPEE** | **PROGRAM EKSPOR SHOPEE FLEXI** |
+| **Definisi** | Program yang memungkinkanAnda untuk menjual produk keluar negeri di mana semuaoperasional toko dikelola olehShopee. | Program yang memungkinkanAnda untuk menjual produk keluar negeri di mana semuaoperasional toko dikelola olehPenjual. |
+| **Akses terhadap**Seller Centre** | Akses terbatas ke Seller Centre,hanya dapat melihat performatoko luar negeri. | Memiliki kendali penuh ataspengelolaan toko luar negerimelalui Seller Centre, termasuk \*chat\* dengan Pembeli. |
+| **Pengaturan**Harga Jual**Produk** | Menyesuaikan denganperaturan harga minimum dari\*platform\*. | Memiliki fleksibilitas untukmengatur harga dan margindengan harga rekomendasi dariShopee sebagai referensi. |
+| **Promosi dan**Iklan** | Anda tidak dapat mengatursendiri promosi toko, termasukIklan Shopee dan kampanye. | Anda dapat mengatur sendiripromosi toko, termasuk IklanShopee dan kampanye. |
+| **Operasional Toko** | Toko di luar negeri dikelolaoleh Shopee secarakeseluruhan. | Toko di luar negeri dapat dikelolaoleh Anda secara mandiri melaluiSeller Centre. Shopee akan tetapmembantu mengelola pengiriman. |
 
 **Keuntungan Program Ekspor Shopee FLEXI**
 
@@ -148,8 +149,8 @@ Lihat informasi rincian biaya pada tabel di bawah ini:
 
 |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*NEGARA EKSPOR\*\* | \*\*BIAYA PENJUALAN\\\*\*\* | \*\*RINCIAN BIAYA PENJUALAN\*\* | \*\*BIAYA PROMOSI\*\* |  |  |  |
-| \*\*BIAYA ADMINISTRASI\\\*\\\*\*\* | \*\*BIAYA PENANGANAN\\\*\\\*\\\*\*\* | \*\*BIAYA LAYANAN\*\* | \*\*BIAYA PROMOSI\*\* \*\*\*CASHBACK KOIN\*\*\* | \*\*BIAYA PROMOSI GRATIS ONGKIR\*\* |  |  |
+| **NEGARA EKSPOR** | **BIAYA PENJUALAN\\**\* | **RINCIAN BIAYA PENJUALAN** | **BIAYA PROMOSI** |  |  |  |
+| **BIAYA ADMINISTRASI\\\*\\**\* | **BIAYA PENANGANAN\\\*\\\*\\**\* | **BIAYA LAYANAN** | **BIAYA PROMOSI** **\*CASHBACK KOIN**\* | **BIAYA PROMOSI GRATIS ONGKIR** |  |  |
 | Filipina | 24.34% | 16.50% | 2.24% | 0% | 0%(sudah termasuk Biaya Administrasi) | 5.60% |
 | Malaysia & Brunei Darussalam | 27.64% | 23.86% | 3.78% | 0% | 0%(sudah termasuk Biaya Administrasi) |  |
 | Singapura | 22.50% | 19.50% | 3% | 0% | 0%(sudah termasuk Biaya Administrasi) |  |
@@ -157,9 +158,9 @@ Lihat informasi rincian biaya pada tabel di bawah ini:
 
 \*Biaya Penjualan adalah hitungan dari Biaya Administrasi, Biaya Penanganan, dan Biaya Layanan.
 
-\*\*Biaya Administrasi termasuk Biaya Promosi dan sudah termasuk PPN sesuai dengan peraturan Pemerintah tentang Perpajakan yang berlaku.
+**Biaya Administrasi termasuk Biaya Promosi dan sudah termasuk PPN sesuai dengan peraturan Pemerintah tentang Perpajakan yang berlaku.
 
-\*\*\*Biaya penanganan sudah termasuk pajak yang berlaku di masing-masing negara Program Ekspor Shopee FLEXI. Besaran biaya penanganan dapat berubah sewaktu-waktu, tergantung metode pembayaran yang digunakan oleh Pembeli luar negeri.
+**\*Biaya penanganan sudah termasuk pajak yang berlaku di masing-masing negara Program Ekspor Shopee FLEXI. Besaran biaya penanganan dapat berubah sewaktu-waktu, tergantung metode pembayaran yang digunakan oleh Pembeli luar negeri.
 
 
 
@@ -179,12 +180,12 @@ Berikut informasi rincian biaya penjualan setelah Anda mendapatkan tarif spesial
 
 |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*NEGARA EKSPOR\*\* | \*\*BIAYA PENJUALAN\*\* | \*\*RINCIAN BIAYA PENJUALAN\*\* | \*\*BIAYA PROMOSI\*\* |  |  |  |
-| \*\*BIAYA ADMINISTRASI\*\* | \*\*BIAYA PENANGANAN\*\* | \*\*BIAYA LAYANAN\*\* | \*\*BIAYA PROMOSI\*\* \*\*\*CASHBACK KOIN\*\*\* | \*\*BIAYA PROMOSI GRATIS ONGKIR\*\* |  |  |
-| Filipina | \*\*13.34%\*\* | 5.50% | 2.24% | 0% | 0%(sudah termasuk Biaya Administrasi) | 5.60% |
-| Malaysia & Brunei Darussalam | \*\*9.28%\*\* | 5.50% | 3.78% | 0% | 0%(sudah termasuk Biaya Administrasi) |  |
-| Singapura | \*\*8.50%\*\* | 5.50% | 3% | 0% | 0%(sudah termasuk Biaya Administrasi) |  |
-| Thailand | \*\*8.71%\*\* | 5.50% | 3.21% | 0% | 0%(sudah termasuk Biaya Administrasi) |  |
+| **NEGARA EKSPOR** | **BIAYA PENJUALAN** | **RINCIAN BIAYA PENJUALAN** | **BIAYA PROMOSI** |  |  |  |
+| **BIAYA ADMINISTRASI** | **BIAYA PENANGANAN** | **BIAYA LAYANAN** | **BIAYA PROMOSI** **\*CASHBACK KOIN**\* | **BIAYA PROMOSI GRATIS ONGKIR** |  |  |
+| Filipina | **13.34%** | 5.50% | 2.24% | 0% | 0%(sudah termasuk Biaya Administrasi) | 5.60% |
+| Malaysia & Brunei Darussalam | **9.28%** | 5.50% | 3.78% | 0% | 0%(sudah termasuk Biaya Administrasi) |  |
+| Singapura | **8.50%** | 5.50% | 3% | 0% | 0%(sudah termasuk Biaya Administrasi) |  |
+| Thailand | **8.71%** | 5.50% | 3.21% | 0% | 0%(sudah termasuk Biaya Administrasi) |  |
 
   
 
@@ -202,7 +203,7 @@ Cek tabel di bawah ini untuk mengetahui zona pengiriman di negara Brunei Darussa
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*BERAT PRODUK (GRAM)\*\* | \*\*TOTAL BIAYA PENGIRIMAN (MYR)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PEMBELI (MYR)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PENJUAL (MYR)\*\* |
+| **BERAT PRODUK (GRAM)** | **TOTAL BIAYA PENGIRIMAN (MYR)** | **BIAYA PENGIRIMAN DITANGGUNG PEMBELI (MYR)** | **BIAYA PENGIRIMAN DITANGGUNG PENJUAL (MYR)** |
 | 10 - 250 | 27.10 | 25.00 | 2.10 |
 | 300 | 27.33 | 2.33 |  |
 | 400 | 27.78 | 2.78 |  |
@@ -223,8 +224,8 @@ Cek tabel di bawah ini untuk mengetahui zona pengiriman di negara Filipina.
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*NEGARA BAGIAN/AREA\*\* | \*\*ZONA\*\* |
-| \*\*Filipina\*\* | Metro Manila | A |
+| **NEGARA** | **NEGARA BAGIAN/AREA** | **ZONA** |
+| **Filipina** | Metro Manila | A |
 | North Luzon, Bulacan |  |  |
 | South Luzon, Cavite |  |  |
 | South Luzon, Laguna, Binan City |  |  |
@@ -245,11 +246,11 @@ Cek tabel di bawah ini untuk mengetahui zona pengiriman di negara Filipina.
   
   
 
-  - **\*\*Zona A\*\***
+  - **Zona A**
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*BERAT PRODUK\*\*\*\*(GRAM)\*\* | \*\*TOTAL BIAYA PENGIRIMAN (PHP)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PEMBELI\*\*\*\*(PHP)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PENJUAL\*\*\*\*(PHP)\*\* |
+| **BERAT PRODUK**(GRAM)** | **TOTAL BIAYA PENGIRIMAN (PHP)** | **BIAYA PENGIRIMAN DITANGGUNG PEMBELI**(PHP)** | **BIAYA PENGIRIMAN DITANGGUNG PENJUAL**(PHP)** |
 | 10 | 60.00 | 40.00 | 20.00 |
 | 20 | 62.20 | 22.20 |  |
 | 30 | 64.40 | 24.20 |  |
@@ -283,7 +284,7 @@ Cek tabel di bawah ini untuk mengetahui zona pengiriman di negara Filipina.
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*BERAT PRODUK\*\*\*\*(GRAM)\*\* | \*\*TOTAL BIAYA PENGIRIMAN (PHP)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PEMBELI\*\*\*\*(PHP)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PENJUAL\*\*\*\*(PHP)\*\* |
+| **BERAT PRODUK**(GRAM)** | **TOTAL BIAYA PENGIRIMAN (PHP)** | **BIAYA PENGIRIMAN DITANGGUNG PEMBELI**(PHP)** | **BIAYA PENGIRIMAN DITANGGUNG PENJUAL**(PHP)** |
 | 10 | 80.00 | 60.00 | 20.00 |
 | 20 | 82.20 | 60.00 | 22.20 |
 | 30 | 84.40 | 60.00 | 24.40 |
@@ -316,11 +317,11 @@ Lihat[ daftar biaya pengiriman Program Ekspor Shopee FLEXI Filipina](https://deo
 
 **3. Malaysia**
 
-  - **\*\*Malaysia bagian Barat\*\***
+  - **Malaysia bagian Barat**
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*BERAT PRODUK (GRAM)\*\* | \*\*TOTAL BIAYA PENGIRIMAN\*\*\*\*(RM)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PEMBELI\*\*\*\*(RM)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PENJUAL\*\*\*\*(RM)\*\* |
+| **BERAT PRODUK (GRAM)** | **TOTAL BIAYA PENGIRIMAN**(RM)** | **BIAYA PENGIRIMAN DITANGGUNG PEMBELI**(RM)** | **BIAYA PENGIRIMAN DITANGGUNG PENJUAL**(RM)** |
 | \\\< 200 | 7.00 | 4.90 | 2.10 |
 | 300 | 7.23 | 2.33 |  |
 | 400 | 7.68 | 2.78 |  |
@@ -333,11 +334,11 @@ Lihat[ daftar biaya pengiriman Program Ekspor Shopee FLEXI Filipina](https://deo
 
   
 
-  - **\*\*Malaysia bagian Timur\*\***
+  - **Malaysia bagian Timur**
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*BERAT PRODUK\*\*\*\*(GRAM)\*\* | \*\*TOTAL BIAYA PENGIRIMAN\*\*\*\*(RM)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PEMBELI\*\*\*\*(RM)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PENJUAL\*\*\*\*(RM)\*\* |
+| **BERAT PRODUK**(GRAM)** | **TOTAL BIAYA PENGIRIMAN**(RM)** | **BIAYA PENGIRIMAN DITANGGUNG PEMBELI**(RM)** | **BIAYA PENGIRIMAN DITANGGUNG PENJUAL**(RM)** |
 | \\\< 200 | 10.10 | 8.00 | 2.10 |
 | 300 | 10.33 | 2.33 |  |
 | 400 | 10.78 | 2.78 |  |
@@ -357,7 +358,7 @@ Lihat[ daftar biaya pengiriman Program Ekspor Shopee FLEXI Malaysia](https://deo
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*BERAT PRODUK\*\*\*\*(GRAM)\*\* | \*\*TOTAL BIAYA PENGIRIMAN\*\*\*\*(SGD)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PEMBELI\*\*\*\*(SGD)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PENJUAL\*\*\*\*(SGD)\*\* |
+| **BERAT PRODUK**(GRAM)** | **TOTAL BIAYA PENGIRIMAN**(SGD)** | **BIAYA PENGIRIMAN DITANGGUNG PEMBELI**(SGD)** | **BIAYA PENGIRIMAN DITANGGUNG PENJUAL**(SGD)** |
 | 10 | 3.05 | 1.99 | 1.06 |
 | 20 | 3.07 | 1.08 |  |
 | 30 | 3.08 | 1.09 |  |
@@ -394,8 +395,8 @@ Cek tabel berikut untuk zona pengiriman di Thailand.
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*NEGARA BAGIAN/AREA\*\* | \*\*ZONE\*\* |
-| \*\*Thailand\*\* | Provinsi Bangkok | A |
+| **NEGARA** | **NEGARA BAGIAN/AREA** | **ZONE** |
+| **Thailand** | Provinsi Bangkok | A |
 | Provinsi Nonthaburi |  |  |
 | Provinsi Pathum Thani |  |  |
 | Provinsi Samut Prakan |  |  |
@@ -474,11 +475,11 @@ Cek tabel di bawah ini untuk mengetahui zona pengiriman di negara Thailand.
 
   
 
-  - **\*\*Zona A\*\***
+  - **Zona A**
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*BERAT PRODUK\*\*\*\*(GRAM)\*\* | \*\*TOTAL BIAYA PENGIRIMAN (THB)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PEMBELI\*\*\*\*(THB)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PENJUAL\*\*\*\*(THB)\*\* |
+| **BERAT PRODUK**(GRAM)** | **TOTAL BIAYA PENGIRIMAN (THB)** | **BIAYA PENGIRIMAN DITANGGUNG PEMBELI**(THB)** | **BIAYA PENGIRIMAN DITANGGUNG PENJUAL**(THB)** |
 | 10 | 41.00 | 27.00 | 14.00 |
 | 20 | 42.30 | 27.00 | 15.30 |
 | 30 | 43.60 | 27.00 | 16.60 |
@@ -503,11 +504,11 @@ Cek tabel di bawah ini untuk mengetahui zona pengiriman di negara Thailand.
 
   
 
-  - **\*\*Zona B\*\***
+  - **Zona B**
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*BERAT PRODUK\*\*\*\*(GRAM)\*\* | \*\*TOTAL BIAYA PENGIRIMAN\*\*\*\*(THB)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PEMBELI\*\*\*\*(THB)\*\* | \*\*BIAYA PENGIRIMAN DITANGGUNG PENJUAL\*\*\*\*(THB)\*\* |
+| **BERAT PRODUK**(GRAM)** | **TOTAL BIAYA PENGIRIMAN**(THB)** | **BIAYA PENGIRIMAN DITANGGUNG PEMBELI**(THB)** | **BIAYA PENGIRIMAN DITANGGUNG PENJUAL**(THB)** |
 | 10 | 44.00 | 30 | 14.00 |
 | 20 | 45.30 | 30 | 15.30 |
 | 30 | 46.60 | 30 | 16.60 |
@@ -533,7 +534,7 @@ Cek tabel di bawah ini untuk mengetahui zona pengiriman di negara Thailand.
 Lihat[ daftar biaya pengiriman Program Ekspor Shopee FLEXI Thailand](https://deo.shopeemobile.com/shopee/cms_cdn_bucket/86fc3c086a3c4eedb6a270ea6561e57c_Rincian%20Biaya%20Pengiriman%20Ekspor%20Shopee%20FLEXI%20%20-%20TH.pdf) lebih lengkap hingga 30 kg.
 
   
-**ð Definisi**
+**📍 Definisi**
 
   - **Total Biaya Pengiriman** adalah total biaya pengiriman yang sebenarnya dari alamat Penjual ke alamat Pembeli.
   - **Biaya Pengiriman Pembeli** adalah biaya pengiriman yang dibayarkan oleh Pembeli untuk pengiriman dari lokasi transit ke alamat Pembeli.
@@ -608,12 +609,12 @@ Berikut adalah rincian penjelasan untuk informasi produk yang dapat disinkronkan
 
 |  |  |
 | :-: | :-: |
-| \*\*INFORMASI YANG DAPAT DISINKRONKAN\*\* | \*\*KETERANGAN\*\* |
-| \*\*Nama Produk & Deskripsi Produk\*\* | Sistem mensinkronkan dan menerjemahkan ulang Nama Produk serta Deskripsi Produk sesuai perubahan di toko Indonesia. |
-| \*\*Variasi\*\* | Sistem mensinkronkan dan menerjemahkan ulang \*detail\* Variasi produk sesuai perubahan di toko Indonesia. |
-| \*\*Harga\*\* | Sistem mensinkronkan harga sebelum promosi (sesuai dengan aturan harga rekomendasi Shopee yang berlaku) di toko Ekspor Shopee FLEXI sesuai perubahan di toko Indonesia. |
-| \*\*Batas Waktu Pengiriman\*\*\*\*\*(Days To Ship)\*\*\* | Sistem mensinkronkan pengaturan Batas Waktu Pengiriman produk atau per variasi produk di toko Ekspor Shopee FLEXI sesuai perubahan di toko Indonesia. |
-| \*\*Informasi Media\*\* | Sistem mensinkronkan atribut media seperti Foto, Video, dan Panduan Ukuran Produk di toko Ekspor Shopee FLEXI sesuai perubahan di toko Indonesia. |
+| **INFORMASI YANG DAPAT DISINKRONKAN** | **KETERANGAN** |
+| **Nama Produk & Deskripsi Produk** | Sistem mensinkronkan dan menerjemahkan ulang Nama Produk serta Deskripsi Produk sesuai perubahan di toko Indonesia. |
+| **Variasi** | Sistem mensinkronkan dan menerjemahkan ulang \*detail\* Variasi produk sesuai perubahan di toko Indonesia. |
+| **Harga** | Sistem mensinkronkan harga sebelum promosi (sesuai dengan aturan harga rekomendasi Shopee yang berlaku) di toko Ekspor Shopee FLEXI sesuai perubahan di toko Indonesia. |
+| **Batas Waktu Pengiriman**\*(Days To Ship)**\* | Sistem mensinkronkan pengaturan Batas Waktu Pengiriman produk atau per variasi produk di toko Ekspor Shopee FLEXI sesuai perubahan di toko Indonesia. |
+| **Informasi Media** | Sistem mensinkronkan atribut media seperti Foto, Video, dan Panduan Ukuran Produk di toko Ekspor Shopee FLEXI sesuai perubahan di toko Indonesia. |
 
   
 
@@ -641,7 +642,7 @@ Pada halaman Tinjau Harga Produk, Anda dapat melakukan:
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Atur harga produk Anda secara mandiri dengan memilih **Cek Harga dan Tampilkan** agar Anda dapat meninjau dan menyesuaikan harga jual toko luar negeri dengan biaya administrasi yang berlaku di Program Ekspor Shopee FLEXI sebelum di *upload*.
 
@@ -653,7 +654,7 @@ Jika terdapat produk yang termasuk dalam[ produk yang dilarang dijual di Shopee]
 
 Setelah produk berhasil di-*upload*, Anda dapat melihat status produk di halaman **Produk Saya**.
 
-**ð¡ Tips**
+**💡 Tips**
 
 Anda dapat lihat pada kolom Analisis Produk untuk mengetahui informasi yang wajib dilengkapi pada setiap produk agar rekomendasi produk semakin optimal dan penjualan meningkat.
 
@@ -673,11 +674,11 @@ Berikut adalah informasi produk yang dapat Anda ubah secara massal ke toko Ekspo
 
 |  |  |
 | :-: | :-: |
-| \*\*TEMPLATE\*\* | \*\*INFORMASI\*\* |
-| \*\*Informasi Dasar\*\* | \*\*•\*\* Nama Produk\*\*•\*\* Deskripsi Produk |
-| \*\*Informasi Penjualan\*\* | \*\*•\*\* Min. Jumlah Pembelian\*\*•\*\* Harga |
-| \*\*Informasi Dikirim Dalam\*\* | \*\*•\*\* Dikirim Dalam |
-| \*\*Informasi Media\*\* | \*\*•\*\* Foto Produk\*\*•\*\* Panduan Ukuran |
+| **TEMPLATE** | **INFORMASI** |
+| **Informasi Dasar** | **•** Nama Produk**•** Deskripsi Produk |
+| **Informasi Penjualan** | **•** Min. Jumlah Pembelian**•** Harga |
+| **Informasi Dikirim Dalam** | **•** Dikirim Dalam |
+| **Informasi Media** | **•** Foto Produk**•** Panduan Ukuran |
 
 Selanjutnya, Anda dapat mengisi **Template Mass Update** yang telah di-*download*, dan *upload template* pada *tab* **Upload** di halaman Mass Update. Pelajari lebih lanjut tentang[ fitur Mass Update](https://seller.shopee.co.id/edu/article/100).
 
@@ -693,13 +694,13 @@ Agar Iklan dapat berjalan dengan optimal, pastikan Anda memiliki Saldo Iklan yan
 
   
 
-  - **\*\*Melalui Seller Centre\*\***
+  - **Melalui Seller Centre**
 
 ⚠️**Catatan**
 
   - Saldo Iklan yang telah di *top up* untuk toko dalam negeri tidak dapat digunakan untuk toko Ekspor FLEXI karena pengaturan Seller Centre toko Ekspor FLEXI dan toko dalam negeri yang berbeda.
   - Saat ini, metode pembayaran untuk *top up* saldo Iklan melalui Seller Centre toko Ekspor FLEXI hanya dapat menggunakan kartu kredit.
-  - **\*\*Melalui toko Shopee Ekspor - Iklan\*\***
+  - **Melalui toko Shopee Ekspor - Iklan**
 
 Log in akun toko dalam negeri Anda dan *top up* dengan melakukan pembelian di toko resmi [Shopee Ekspor - Iklan](https://shopee.co.id/id_sip_ads).
 
@@ -780,9 +781,9 @@ Dengan mode ini, Anda hanya dapat melihat semua *chat* yang masuk dari Pembeli (
 
 |  |
 | :-: |
-| \*\*CARA MENGGANTI MODE CHAT PENJUAL DI SELLER CENTRE\*\* |
+| **CARA MENGGANTI MODE CHAT PENJUAL DI SELLER CENTRE** |
 |  |
-| \*\*CARA MENGGANTI MODE CHAT PENJUAL DI WEBCHAT\*\* |
+| **CARA MENGGANTI MODE CHAT PENJUAL DI WEBCHAT** |
 |  |
 
 **⚠️Catatan**
@@ -807,7 +808,7 @@ Anda dapat melihat penghasilan dan melakukan penarikan dana untuk pesanan dari P
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Pending**: dana penghasilan untuk pesanan yang belum selesai.
   - **Sudah Dilepas**: dana penghasilan dari pesanan yang sudah selesai.
@@ -878,8 +879,8 @@ Berikut rincian pelanggaran dan poin penalti yang akan didapatkan jika Anda tida
 
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| \*\*PELANGGARAN\*\* | \*\*POIN PENALTI YANG DIBERIKAN PER MINGGU\*\* |  |  |  |
-| \*\*FILIPINA\*\* | \*\*MALAYSIA\\\*\*\* | \*\*SINGAPURA\*\* | \*\*THAILAND\*\* |  |
+| **PELANGGARAN** | **POIN PENALTI YANG DIBERIKAN PER MINGGU** |  |  |  |
+| **FILIPINA** | **MALAYSIA\\**\* | **SINGAPURA** | **THAILAND** |  |
 | Tingkat Pesanan Tidak Terselesaikan ≥10% (jumlah pesanan dalam 7 hari terakhir) | 2 | 1 | 1 | 1 |
 | Tingkat Pesanan Tidak Terselesaikan ≥10% dan memiliki ≥30 pesanan yang tidak terselesaikan (jumlah pesanan dalam 7 hari terakhir) | 3 | 2 | 2 | 2 |
 | Tingkat Pesanan Tidak Terselesaikan ≥60% dan memiliki \\\<30 pesanan yang tidak terselesaikan (jumlah pesanan dalam 7 hari terakhir) | \\- | 3 | 3 | 3 |
@@ -902,7 +903,7 @@ Berikut rincian pelanggaran dan poin penalti yang didapatkan jika Anda tidak mem
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*PELANGGARAN\*\* | \*\*POIN PENALTI YANG DIBERIKAN PER MINGGU\*\* |
+| **NEGARA** | **PELANGGARAN** | **POIN PENALTI YANG DIBERIKAN PER MINGGU** |
 | Filipina | Keterlambatan Pengiriman ≥10% | 2 |
 | Keterlambatan Pengiriman ≥10% dan jumlah pesanan terlambat dikirimkan ≥30 | 3 |  |
 | Malaysia\\\* | Keterlambatan Pengiriman ≥10% dan jumlah pesanan terlambat dikirimkan \\\<50 | 1 |
@@ -926,24 +927,24 @@ Berikut perkiraan waktu yang dibutuhkan untuk menyerahkan pesanan ke jasa kirim:
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*WAKTU PESANAN MASUK\*\* | \*\*BATAS PENGIRIMAN CEPAT\*\* |
-| \*\*Filipina\*\* | Sebelum pk. 16.00\\\*\\\* | Diserahkan ke jasa kirim di hari kerja yang sama pk. 23.59\\\*\\\* |
+| **NEGARA** | **WAKTU PESANAN MASUK** | **BATAS PENGIRIMAN CEPAT** |
+| **Filipina** | Sebelum pk. 16.00\\\*\\\* | Diserahkan ke jasa kirim di hari kerja yang sama pk. 23.59\\\*\\\* |
 | Setelah pk. 16.00\\\*\\\* | Diserahkan ke jasa kirim di hari kerja berikutnya pk. 23.59\\\*\\\* |  |
-| \*\*Malaysia\\\*\*\* | Sebelum pk. 14.00\\\*\\\* | Diserahkan ke jasa kirim di hari kerja yang sama pk. 23.59\\\*\\\* |
+| **Malaysia\\**\* | Sebelum pk. 14.00\\\*\\\* | Diserahkan ke jasa kirim di hari kerja yang sama pk. 23.59\\\*\\\* |
 | Setelah pk. 14.00\\\*\\\* | Diserahkan ke jasa kirim di hari kerja berikutnya pk. 23.59\\\*\\\* |  |
-| \*\*Singapura\*\* | Sebelum pk. 14.00\\\*\\\* | Diserahkan ke jasa kirim di hari kerja yang sama pk. 23.59\\\*\\\* |
+| **Singapura** | Sebelum pk. 14.00\\\*\\\* | Diserahkan ke jasa kirim di hari kerja yang sama pk. 23.59\\\*\\\* |
 | Setelah pk. 14.00\\\*\\\* | Diserahkan ke jasa kirim di hari kerja berikutnya pk. 23.59\\\*\\\* |  |
 
 *\*Termasuk wilayah Brunei Darussalam*
 
-*\*\*Zona waktu negara tujuan*
+**Zona waktu negara tujuan*
 
 *  
 *Khusus negara Malaysia, Tingkat Pengiriman Cepat diterapkan sebagai salah satu indikator wajib pemenuhan pesanan. Berikut rincian pelanggaran dan poin penalti yang didapatkan jika Anda tidak memenuhi target.
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*PELANGGARAN\*\* | \*\*POIN PENALTI YANG DIBERIKAN PER MINGGU\*\* |
+| **NEGARA** | **PELANGGARAN** | **POIN PENALTI YANG DIBERIKAN PER MINGGU** |
 | Malaysia\\\* | Tingkat Pengiriman Cepat \\\<80% | 1 |
 
 *\*Termasuk wilayah Brunei Darussalam*
@@ -968,9 +969,9 @@ Berikut adalah rincian batasan jumlah produk Pre-Order aktif untuk toko Ekspor S
 
 |  |  |
 | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*BATASAN PRODUK PRE-ORDER\*\* |
+| **NEGARA** | **BATASAN PRODUK PRE-ORDER** |
 | Filipina | \\\>10% dari jumlah produk di toko Ekspor Shopee FLEXI |
-| Malaysia\\\* | Anda dapat mengecek batasan produk Pre-Order di menu \*\*Kesehatan Toko\*\* dan \*\*Produk Saya\*\* sesuai tipe Penjual Anda di Seller Centre toko Ekspor Shopee FLEXI Malaysia |
+| Malaysia\\\* | Anda dapat mengecek batasan produk Pre-Order di menu **Kesehatan Toko** dan **Produk Saya** sesuai tipe Penjual Anda di Seller Centre toko Ekspor Shopee FLEXI Malaysia |
 | Singapura | \\\>5% dari jumlah produk di toko Ekspor Shopee FLEXI |
 | Thailand | \\\>10% dari jumlah produk di toko Ekspor Shopee FLEXI |
 
@@ -992,14 +993,14 @@ Berikut adalah batas maksimal jumlah produk yang dapat di-*upload* di toko FLEXI
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*TIPE PENJUAL\*\* | \*\*MAKSIMAL JUMLAH PRODUK\*\* |  |  |
-| \*\*FILIPINA\*\* | \*\*MALAYSIA\\\*\*\* | \*\*SINGAPURA\*\* | \*\*THAILAND\*\* |
+| **TIPE PENJUAL** | **MAKSIMAL JUMLAH PRODUK** |  |  |
+| **FILIPINA** | **MALAYSIA\\**\* | **SINGAPURA** | **THAILAND** |
 | Terdaftar di Shopee \\\<120 hari | 1.000 |  |  |
-| Terdaftar di Shopee ≥120 hari;\*\*dan\*\*Pesanan selesai = 0 dalam 90 hari terakhir;\*\*atau\*\*Produk yang menghasilkan pesanan =0 dalam 30 hari terakhir | 100 |  |  |
-| Terdaftar di Shopee ≥120 hari;\*\*dan\*\*Pesanan selesai ≥1;\*\*dan\*\*Produk yang menghasilkan pesanan ≥1 (jumlah pesanan dalam 30 hari terakhir) | 500 |  |  |
-| Terdaftar di Shopee ≥30 hari;\*\*dan\*\*Pesanan selesai ≥5;\*\*dan\*\*Produk yang menghasilkan pesanan ≥10 (jumlah pesanan dalam 30 hari terakhir) | 1.000   |  |  |
-| Terdaftar di Shopee ≥ 30 hari;\*\*dan\*\*Pesanan selesai ≥30;\*\*dan\*\*Pesanan selesai dari Pembeli yang berbeda ≥5;\*\*dan\*\*Produk yang menghasilkan pesanan ≥50 (jumlah pesanan dalam 30 hari terakhir) | 3.000   |  |  |
-| Terdaftar di Shopee ≥30 hari;\*\*dan\*\*Pesanan selesai ≥50,\*\*dan\*\*Pesanan selesai dari Pembeli yang berbeda ≥100;\*\*dan\*\*Produk yang menghasilkan pesanan ≥100 (jumlah pesanan dalam 30 hari terakhir) | 5.000   |  |  |
+| Terdaftar di Shopee ≥120 hari;**dan**Pesanan selesai = 0 dalam 90 hari terakhir;**atau**Produk yang menghasilkan pesanan =0 dalam 30 hari terakhir | 100 |  |  |
+| Terdaftar di Shopee ≥120 hari;**dan**Pesanan selesai ≥1;**dan**Produk yang menghasilkan pesanan ≥1 (jumlah pesanan dalam 30 hari terakhir) | 500 |  |  |
+| Terdaftar di Shopee ≥30 hari;**dan**Pesanan selesai ≥5;**dan**Produk yang menghasilkan pesanan ≥10 (jumlah pesanan dalam 30 hari terakhir) | 1.000   |  |  |
+| Terdaftar di Shopee ≥ 30 hari;**dan**Pesanan selesai ≥30;**dan**Pesanan selesai dari Pembeli yang berbeda ≥5;**dan**Produk yang menghasilkan pesanan ≥50 (jumlah pesanan dalam 30 hari terakhir) | 3.000   |  |  |
+| Terdaftar di Shopee ≥30 hari;**dan**Pesanan selesai ≥50,**dan**Pesanan selesai dari Pembeli yang berbeda ≥100;**dan**Produk yang menghasilkan pesanan ≥100 (jumlah pesanan dalam 30 hari terakhir) | 5.000   |  |  |
 | Penjual Star/Star+ | 10.000 |  |  |
 | Penjual Shopee Mall | 20.000 |  |  |
 
@@ -1011,7 +1012,7 @@ Jika toko Anda melanggar batasan maks. jumlah produk di setiap toko Ekspor Shope
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*POIN PENALTI YANG DIBERIKAN\*\* | \*\*PEMBATASAN JUMLAH UPLOAD PRODUK\*\* |
+| **NEGARA** | **POIN PENALTI YANG DIBERIKAN** | **PEMBATASAN JUMLAH UPLOAD PRODUK** |
 | Filipina, Malaysia\\\*, Singapura, Thailand | ≥3 s.d \\\<6 | 200 |
 | ≥6 | 50 |  |
 
@@ -1031,7 +1032,7 @@ Cek tabel berikut untuk mengetahui ketentuan maks. berat dan ukuran produk.
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*BERAT MAKSIMUM\*\* | \*\*BATAS UKURAN\*\* |
+| **NEGARA** | **BERAT MAKSIMUM** | **BATAS UKURAN** |
 | Brunei Darussalam | 30kg | 100x100x100cm |
 | Filipina | 120x120x120cm |  |
 | Malaysia | 150x150x150cm |  |
@@ -1072,11 +1073,11 @@ Pembeli luar negeri dapat mengajukan Pengembalian Barang/Dana dengan berbagai al
 Penjual yang menjual produk yang dilarang dalam Program Ekspor Shopee FLEXI tidak dapat mengajukan Pengembalian Barang/Dana. Jenis produk yang dilarang dalam Program Ekspor Shopee FLEXI mengikuti ketentuan yang sama dengan Program Ekspor Shopee. Pelajari lebih lanjut terkait[ Produk yang Dilarang untuk Dijual dalam Program Ekspor Shopee](https://seller.shopee.co.id/edu/article/3680).
 
 *  
-***Penanganan Pengembalian Barang/Dana**
+**Penanganan Pengembalian Barang/Dana**
 
 Penanganan permintaan Pengembalian Barang/Dana oleh Pembeli luar negeri akan disesuaikan dengan status pengiriman pesanan, yaitu:
 
-  - **\*\*Pengembalian barang jika pesanan belum tiba di luar negeri\*\***
+  - **Pengembalian barang jika pesanan belum tiba di luar negeri**
 
 Permintaan pengembalian barang tidak dapat diproses, jika:
 
@@ -1090,7 +1091,7 @@ Penjual dapat mengajukan pengembalian barang paling lambat tanggal 14 di bulan b
 
   
 
-  - **\*\*Pengembalian dana jika pesanan sudah tiba di luar negeri\*\***
+  - **Pengembalian dana jika pesanan sudah tiba di luar negeri**
 
 Jika pesanan sudah tiba di luar negeri, Penjual tidak dapat mengajukan Pengembalian Barang, dan barang tidak akan dikirim kembali ke Penjual. Namun, Penjual akan tetap menerima Pengembalian Dana sesuai dengan kebijakan yang berlaku.
 
@@ -1121,7 +1122,7 @@ Berikut ketentuan jumlah pengembalian dana:
 
 |  |  |
 | :-: | :-: |
-| \*\*NILAI PESANAN\*\* | \*\*JUMLAH PENGEMBALIAN DANA\*\* |
+| **NILAI PESANAN** | **JUMLAH PENGEMBALIAN DANA** |
 | USD \\\< 20 | Sesuai dengan nilai pesanan |
 | USD = 20 | USD 20 |
 | USD \\\> 20 | USD 20 |
@@ -1182,7 +1183,7 @@ Tingkat Pengembalian Barang/Dana yang tinggi dapat menyebabkan Toko Luar Negeri 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk memastikan Pembeli menerima pesanan dalam kondisi baik serta mengurangi risiko Pengembalian Barang/Dana, Penjual diwajibkan menggunakan bahan dan metode pengemasan yang sesuai. Pelajari lebih lanjut mengenai[ cara mengemas pesanan dengan benar](https://seller.shopee.co.id/edu/article/7099#:~:text=Pilih%20bahan%20kemasan%20yang%20tepat%20%26%20sesuai%20dengan%20jenis%20produk%20Anda.).
 
@@ -1380,3 +1381,32 @@ Penjual dapat mengajukan banding melalui *chat* Customer Service Shopee Ekspor (
   
 
 Setiap pengajuan banding akan ditinjau berdasarkan kondisi masing-masing pesanan. Keputusan atas hasil pengajuan banding merupakan keputusan akhir dari Shopee.
+
+## Angka & patokan
+
+Syarat gabung (toko dalam negeri harus penuhi SEMUA 11 poin):
+
+| Kriteria | Ambang |
+|---|---|
+| Produk aktif | min. 1, stok min. 1 |
+| Akumulasi poin penalti | < 3 |
+| Tingkat pembatalan pesanan (90 hari) | ≤ 3% |
+| Toko aktif sejak upload produk pertama | ≥ 1 bulan |
+| Penilaian Toko | ≥ 4,6 |
+| Tingkat Pengembalian (90 hari) | < 1% |
+| Status Dikelola Shopee | tidak boleh ikut |
+| Penjualan (30 hari terakhir) | ≥ 3 |
+| Jasa kirim aktif | Anteraja/ID Express/JNE Reguler/Ninja Xpress/SiCepat REG/SPX Standard |
+| Mode Libur | tidak boleh aktif |
+
+Negara tujuan tersedia: **Brunei Darussalam, Filipina, Malaysia, Singapura, Thailand.** Biaya administrasi normal vs tarif spesial (daftar sebelum tanggal 20, berlaku 3 bulan flat 5,5%), poin penalti keterlambatan/pesanan tidak terselesaikan per negara — semua beda per negara, lihat tabel lengkap di bagian Isi (jangan dihafal/ditebak, angkanya banyak dan spesifik per negara).
+
+## Pertanyaan diagnosa
+
+1. **Toko udah penuhi ke-11 syarat gabung?** Yang paling sering jadi ganjalan: penilaian toko ≥4,6, poin penalti <3, dan gak boleh lagi ikut Dikelola Shopee.
+2. **Negara tujuan yang ditanya yang mana?** Biaya admin, threshold penalti keterlambatan, dan tingkat pengiriman cepat SEMUA beda per negara (Brunei/Filipina/Malaysia/Singapura/Thailand) — jangan kasih angka satu negara buat pertanyaan negara lain.
+3. **Daftarnya sebelum atau sesudah tanggal 20 bulan ini?** Nentuin dapet tarif spesial 5,5% (3 bulan) atau tarif normal.
+4. **Ini soal toko dalam negeri (syarat gabung) atau toko ekspor yang udah jalan (operasional/penalti/dana)?** Dua fase beda, jawab sesuai konteks yang ditanya.
+
+## Batasan
+Entry ini panjang (>6.000 kata) karena menggabungkan overview, biaya per negara, cara gabung/berhenti, sinkronisasi produk, top up saldo iklan, dan kebijakan penalti dalam satu artikel — per keputusan Yohan (`S-D-DEPTH-shp-ekspor-001/-002/shp-mall-003`, DECISIONS.md), dibiarkan utuh dan cuma dipecah kalau ke depan kelihatan sering "dikutip sepotong". Kalau member cuma butuh satu bagian spesifik, jawab bagian itu aja.

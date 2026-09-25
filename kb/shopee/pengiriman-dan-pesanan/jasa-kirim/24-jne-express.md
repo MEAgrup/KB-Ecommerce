@@ -11,18 +11,23 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/jne-express.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-012]
 ---
 # JNE Express
 
 ## Ringkasan
+JNE Express, 4 kategori layanan: **Reguler** (JNE Reguler Cashless — ongkir dipotong dari pelepasan dana; JNE Reguler Non-Cashless/JOB — bayar online, khusus Penjual terpilih), **Hemat Kargo** (JNE Trucking/JTR — Cashless, mulai 3kg, dihitung dari 5kg, per kg mulai 6kg, biaya tambahan kalau >250kg), **Next Day** (JNE YES — tiba besok termasuk Minggu/libur nasional, cut-off jam 16.00 WIB). Kriteria pick-up (Reguler & YES) dievaluasi bulanan berdasar rata-rata pesanan bersih harian, sama seperti jasa kirim lain — dihapus kalau gak penuhi syarat 1 bulan berturut-turut. Paket gagal kirim: via pick-up balik ke Alamat Pengembalian; via drop-off balik ke Agen/Counter asal (7 hari kalender buat ambil, lewat itu JNE berhak musnahkan). 6 kategori produk dilarang.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya jenis layanan, kriteria pick-up, jadwal, atau kendala JNE Express. Buat FAQ teknis JNE (JOB vs Reguler, resi salah, dll.), arahkan ke `shp-pengiriman-012`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim JNE Express**
 
 
-05-08-2026
 
-**Jenis Layanan Jasa Kirim JNE Express**
-
-  - **\*\*Reguler\*\***
+  - **Reguler**
 
 **1. JNE Reguler**
 
@@ -43,7 +48,7 @@ Layanan jasa kirim JNE Express di mana Anda dapat mengisi no. resi pengiriman da
 
   
 
-  - **\*\*Hemat Kargo\*\***
+  - **Hemat Kargo**
 
 **1. JNE Trucking (JTR)**
 
@@ -51,7 +56,7 @@ Layanan JNE Express secara *cashless* (non-tunai) yang mendukung pengiriman dala
 
   
 
-  - **\*\*Next Day\*\***
+  - **Next Day**
 
 **1. JNE YES**
 
@@ -63,7 +68,7 @@ Dengan layanan ini, paket Anda akan sampai tujuan keesokan harinya (termasuk har
 
   
 
-**Berikut** ***detail*** **ketentuan menggunakan jasa kirim JNE Express:**
+**Berikut** **detail** **ketentuan menggunakan jasa kirim JNE Express:**
 
 **⚠️Catatan**
 
@@ -73,7 +78,7 @@ Dengan layanan ini, paket Anda akan sampai tujuan keesokan harinya (termasuk har
   - Apabila biaya ongkos kirim Jasa kirim JNE Trucking (JTR) lebih dari 250kg maka akan terdapat tambahan biaya. Pelajari lebih lanjut tentang[ tambahan biaya pengiriman JNE Trucking (JTR)](https://seller.shopee.co.id/edu/article/17835).
 
 **  
-****Area Jangkauan Penjual JNE Express**
+**Area Jangkauan Penjual JNE Express**
 
 **Area Jangkauan JNE Reguler**
 
@@ -109,7 +114,7 @@ Untuk menjaga konsistensi layanan *pick up* pada pengiriman JNE Reguler & JNE YE
 
 Cara hitung rata-rata pesanan harian JNE Reguler & JNE YES: 
 
-ð **Definisi**
+📍 **Definisi**
 
 Jumlah pesanan bersih adalah jumlah pesanan terbayar yang tidak termasuk:
 
@@ -118,7 +123,7 @@ Jumlah pesanan bersih adalah jumlah pesanan terbayar yang tidak termasuk:
 
   
 
-**Ketentuan Layanan** ***Pick up*** **JNE Express**
+**Ketentuan Layanan** **Pick up** **JNE Express**
 
 Performa pesanan harian di toko Anda akan dievaluasi setiap bulan. Jika toko Anda belum memiliki layanan *pick up* dan telah memenuhi kriteria yang ditentukan, maka layanan *pick up* akan otomatis tersedia pada akun Anda di **minggu pertama bulan berikutnya**.
 
@@ -190,3 +195,25 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Berikan perlindungan terhadap produk yang Anda kirim dari kehilangan/kerusakan selama pengiriman. Pelajari lebih lanjut tentang[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345).
   - Untuk mendapatkan informasi seputar pengiriman pesanan atau kendala dalam proses pengiriman, Anda dapat[ Menghubungi Pihak Jasa Kirim](https://seller.shopee.co.id/edu/article/14227).
   - Apabila terdapat pengajuan pengembalian barang/dana, pelajari lebih lanjut terkait[ FAQ Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/article/17055/faq-pengembalian-barang-dan-dana).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Berat minimum layanan JTR | mulai 3kg |
+| Berat dasar hitung biaya JTR | dari 5kg |
+| Perhitungan biaya JTR di atas | per kg, mulai 6kg |
+| Ambang biaya tambahan JTR | >250kg |
+| Estimasi durasi JNE YES | 1 hari (termasuk Minggu & libur nasional) |
+| Batas waktu serah terima (cut-off) JNE YES | pk. 16.00 WIB |
+| Batas ambil paket gagal (drop-off) | 7 hari kalender sejak notifikasi "Pesanan telah dikembalikan" |
+| Jumlah kategori produk dilarang | 6 kategori |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim paket JTR 2kg, bisa gak?** GAK BISA — JNE Trucking (JTR) layani pengiriman minimum mulai 3kg.
+2. **Member kirim JTR 4kg, dihitung ongkirnya sebagai berapa kg?** Dihitung sebagai 5kg (berat dasar minimum perhitungan biaya JTR), meski beratnya cuma 4kg.
+3. **Member serahkan paket JNE YES ke kurir jam 17.00 WIB, apa tetap sampai besok?** Berisiko TELAT — cut-off time JNE YES adalah pk. 16.00 WIB; lewat dari itu biasanya baru diproses di siklus berikutnya.
+4. **Member drop-off paket JNE, gagal kirim, paket balik ke lokasi sortir, kapan batas ambilnya?** 7 hari kalender sejak notifikasi "Pesanan telah dikembalikan" — kalau lewat, JNE berhak ambil tindakan termasuk MEMUSNAHKAN paket.
+5. **Member mau kirim paket via pick-up, gagal kirim, kemana paket baliknya?** Ke Alamat Pengembalian yang sudah diatur Penjual — beda dengan metode drop-off yang balik ke Agen/Counter asal.
+6. **Member kirim emas pakai JNE Express?** GAK BISA — emas termasuk dalam 6 kategori produk yang dilarang dikirim via JNE Express (bersama uang asli/palsu, cek/giro, perangko).

@@ -11,16 +11,21 @@ valid_as_of: 2026-03
 sources:
   - file: pp---jasa-kirim/faq-cod-bayar-di-tempat.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-008, shp-pengiriman-033]
 ---
 # FAQ COD (Bayar di Tempat)
 
 ## Ringkasan
+FAQ COD: GRATIS buat Penjual (kirim maupun retur). Batas total pembayaran/pesanan: Instant maks Rp500.000; Reguler/Hemat Kargo (kecuali Pos Reguler) maks Rp5.000.000; Pos Reguler maks Rp1.000.000. Pembeli yang batalkan 2x dalam 60 hari kalender → COD dinonaktifkan sementara, otomatis aktif lagi setelah 60 hari. Penjual dapat 7 hari kalender buat konfirmasi kondisi barang retur yang gak sesuai. Klaim rusak/hilang: Reguler/Hemat Kargo = 10x ongkir/harga barang maks Rp1.000.000 (ambil terendah); Instant = harga barang maks Rp10.000.000. Dana cair 1x24 jam setelah Pesanan Selesai ATAU periode pengajuan retur berakhir.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail teknis COD: batas nominal, syarat aktivasi Instant, penanganan Pembeli bermasalah, klaim, pelepasan dana, atau selisih ongkir. Buat konsep dasar COD, arahkan ke `shp-pengiriman-008`; buat Program COD Cek Dulu, arahkan ke `shp-pengiriman-033`.
+
+## Isi
+
 **FAQ Umum**
 
 
-27-03-2026
-
-**FAQ Umum**
 
 **1. Apakah ada biaya yang harus Penjual keluarkan untuk menggunakan fitur COD (Bayar di Tempat)?**
 
@@ -140,4 +145,24 @@ Penanganan perbedaan/selisih ongkos kirim akan mengikuti ketentuan berikut:
 Pastikan untuk selalu mengacu pada[ Rincian Penghasilan](https://seller.shopee.co.id/edu/article/2033) sebagai sumber informasi resmi terkait perhitungan ongkos kirim.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Batas total pembayaran COD — semua layanan Instant | maks. Rp500.000/pesanan |
+| Batas total pembayaran COD — Reguler/Hemat Kargo (kecuali Pos Reguler) | maks. Rp5.000.000/pesanan |
+| Batas total pembayaran COD — Pos Reguler | maks. Rp1.000.000/pesanan |
+| Nonaktif COD Pembeli setelah 2x batal dalam 60 hari | otomatis aktif lagi setelah 60 hari |
+| Batas waktu Penjual konfirmasi kondisi barang retur yang gak sesuai | 7 hari kalender sejak Pembeli mengembalikan barang |
+| Klaim Reguler/Hemat Kargo | 10x ongkir ATAU harga barang, maks. Rp1.000.000 (ambil terendah) |
+| Klaim Instant | harga barang, maks. Rp10.000.000 |
+| Waktu pelepasan dana | 1x24 jam sejak Pesanan Selesai / periode retur berakhir |
+
+## Pertanyaan diagnosa
+
+1. **Member mau aktifkan COD di layanan Instant tapi belum aktif di Reguler?** Gak bisa langsung — syaratnya COD harus SUDAH aktif dulu di layanan Reguler/Hemat Kargo DAN SPX Instant (Versi Lama) sebelum bisa diaktifkan di semua layanan Instant.
+2. **Pembeli mau checkout COD senilai Rp2 juta pakai layanan Instant?** GAK BISA — batas maks. total pembayaran COD buat semua layanan Instant cuma Rp500.000/pesanan.
+3. **Member terima barang retur COD dalam kondisi rusak, gak sesuai saat dikirim?** Member punya waktu 7 hari kalender sejak barang dikembalikan buat lampirkan foto bukti dan ajukan konfirmasi ke Tim Shopee buat investigasi.
+4. **Member merasa dana penghasilan COD-nya terpotong karena selisih ongkir?** Kalau selisih karena berat/dimensi yang di-input Penjual gak sesuai kondisi asli, itu jadi tanggungan Penjual. Tapi kalau selisih karena kendala Shopee/jasa kirim, Shopee bantu penyesuaian dana — laporkan ke CS Shopee dengan username & nomor pesanan.
+5. **Member nanya kapan dana COD-nya cair ke Saldo Penjual?** 1x24 jam sejak Pembeli klik "Pesanan Selesai" ATAU sejak periode pengajuan Pengembalian Barang/Dana berakhir (mana yang berlaku).
+6. **Pembeli member gak bisa dihubungi & gak bayar pas kurir COD datang, kena sanksi gak?** Pesanan otomatis dikembalikan ke Penjual, dan kalau Pembeli itu udah 2x batalkan pesanan COD dalam 60 hari kalender, akun COD-nya dinonaktifkan sementara (otomatis pulih setelah 60 hari).
+7. **Member mau ajukan klaim video pengemasan buat barang COD yang ternyata rusak?** Siapkan No. pesanan, No. resi, DAN video yang rekam kemasan dari semua sisi sebelum dibuka + kerusakan barangnya — bukan cuma foto.
