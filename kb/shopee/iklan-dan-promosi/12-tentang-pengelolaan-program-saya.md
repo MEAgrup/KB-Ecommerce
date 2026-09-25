@@ -11,10 +11,18 @@ valid_as_of: 2026-06
 sources:
   - file: mj---program-shopee/tentang-pengelolaan-program-saya.md
     bagian: "artikel penuh"
+related: [shp-promosi-009, shp-promosi-010, shp-promosi-011]
 ---
 # Tentang Pengelolaan Program Saya
 
 ## Ringkasan
+Pengelolaan Program Saya = halaman hub di Seller Centre (juga tersedia di aplikasi Shopee & Shopee Seller Centre app) buat pantau semua program opsional yang diikuti (status, keuntungan, biaya layanan) DAN cari rekomendasi program opsional baru yang toko udah memenuhi syarat. Status program ada 3: Aktif, Proses Keluar, Sedang Berjalan (proses gabung). Keikutsertaan program yang direkomendasikan tetap OPSIONAL.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara cek status keikutsertaan program opsional (GOX, Promo XTRA, dll) di satu tempat, atau cara cari program baru yang cocok buat tokonya. Buat detail masing-masing program, arahkan ke entry spesifiknya (`shp-promosi-009` GOX, `shp-promosi-010` Promo XTRA, `shp-promosi-011` Promo XTRA+).
+
+## Isi
+
 Pengelolaan Program Saya adalah halaman untuk melihat dan memantau program opsional yang Anda ikuti, termasuk informasi dan rincian dari setiap program. Anda juga dapat menemukan rekomendasi program opsional lain yang sesuai untuk membantu mengembangkan bisnis Anda di Shopee.
 
 
@@ -110,3 +118,20 @@ Untuk ketentuan biaya lain selain biaya layanan, seperti biaya administrasi, aka
 **4. Apakah saya wajib mengikuti program yang direkomendasikan?**
 
 Partisipasi dalam program yang direkomendasikan bersifat opsional. Anda dapat memilih untuk bergabung atau tidak sesuai dengan kebutuhan dan strategi bisnis masing-masing.
+
+## Angka & patokan
+
+| Status Program | Arti |
+|---|---|
+| Aktif | Berhasil tergabung pada program tersebut |
+| Proses Keluar | Pengajuan pemberhentian program sedang diproses Shopee |
+| Sedang Berjalan | Pengajuan pendaftaran program sedang diproses Shopee |
+| Memenuhi Syarat (rekomendasi) | Toko sudah penuhi syarat & kriteria buat mendaftar program yang direkomendasikan |
+
+## Pertanyaan diagnosa
+
+1. **Member mau cek semua program opsional yang lagi diikuti dalam 1 tempat?** Arahkan ke halaman Pengelolaan Program Saya di Seller Centre — bagian "Program Opsional yang Sudah Tergabung" nampilin daftar lengkap + tanggal gabung, keuntungan, biaya layanan, dan status.
+2. **Member bingung status "Sedang Berjalan" vs "Proses Keluar"?** Sedang Berjalan = LAGI DIPROSES buat GABUNG. Proses Keluar = LAGI DIPROSES buat BERHENTI. Keduanya sementara sampai Shopee selesaikan prosesnya.
+3. **Member mau cari program baru yang cocok buat tokonya?** Arahkan ke bagian "Rekomendasi Program untuk Bergabung" — kalau status tampil "Memenuhi Syarat", tinggal klik Gabung Program.
+4. **Member nanya kenapa biaya layanan yang tampil di halaman ini beda dari yang kepotong di pesanan?** Angka yang ditampilkan di halaman ini cuma persentase biaya layanan + plafon maks. per kuantitas produk — belum termasuk biaya administrasi atau biaya lain sesuai tipe Penjual, jadi wajar kalau beda dari potongan aktual.
+5. **Member cari halaman ini di aplikasi Shopee tapi gak ketemu?** Pastikan aplikasi Shopee/Shopee Seller Centre app sudah di-update ke versi terbaru — halaman ini tersedia di Seller Centre, aplikasi Shopee (Toko Saya), dan aplikasi Shopee Seller Centre.

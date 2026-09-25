@@ -11,10 +11,18 @@ valid_as_of: 2026-02
 sources:
   - file: mj---tips-jualan-di-bulan-ramadhan/maksimalkan-potensi-toko-di-big-ramadan-sale.md
     bagian: "artikel penuh"
+related: [shp-promosi-001]
 ---
 # Maksimalkan Potensi Toko di Big Ramadan Sale
 
 ## Ringkasan
+Panduan tips (bukan kebijakan wajib) buat siapkan toko jelang Big Ramadan Sale: dekorasi toko bernuansa Ramadan (warna hijau-kuning, kategori khusus kayak Hampers Berkah/Sahur Sehat), persiapan operasional (stok + safety stock, manajemen gudang, tambahan karyawan/shift, proses packing efisien), dan strategi promosi (medsos + template Shopee, promosi khusus Ramadan). Artikel sumber TERPOTONG di bagian strategi promosi poin 2 (lihat Batasan).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya tips persiapan toko buat Big Ramadan Sale — dekorasi, stok, operasional, atau promosi medsos. Ini panduan best-practice, BUKAN syarat wajib ikut kampanye — buat syarat teknis Flash Sale/kampanye Shopee, arahkan ke `shp-promosi-001`.
+
+## Isi
+
 **Membangun Nuansa Ramadan di Toko Anda**
 
 
@@ -113,3 +121,17 @@ Gunakan *template* khusus Shopee Big Ramadan Sale untuk konten media sosial Anda
 **2. Buat Promosi Khusus Ramadan**
 
 Ramadan menjadi momen terbaik untuk saling berbagi. Anda dapat memudahkan Pembeli dalam mencari produk mana yang cocok untuk dibeli bersama dan laya
+
+## Angka & patokan
+Artikel ini adalah panduan tips/best-practice, bukan kebijakan dengan angka/patokan wajib. Gak ada nilai numerik konkret (persentase, nominal, atau batas waktu) yang disebutkan di sumber — semua poin bersifat rekomendasi kualitatif (warna, jenis konten, cara kelola gudang, dll).
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau warna dekorasi toko yang cocok buat Ramadan?** Rekomendasi Shopee: kombinasi warna hijau dan kuning — arahkan ke fitur Dekorasi Toko buat terapkan.
+2. **Member khawatir stok habis pas lonjakan pesanan Ramadan?** Arahkan siapkan *safety stock* (stok tambahan buat jaga-jaga) — arahkan ke artikel "Mengenal Lead Time Demand dan Safety Stock" buat cara hitungnya.
+3. **Member kewalahan proses pesanan pas Ramadan?** Beberapa opsi: sistem overtime, rekrut pekerja sementara, atau sistem shifting — pilih sesuai skala kenaikan pesanan tokonya.
+4. **Member mau bikin kategori toko khusus Ramadan tapi bingung idenya apa?** Contoh dari sumber: Kategori Diskon Ramadan, Hampers Berkah, Berbuka Manis, Sahur Sehat — sesuaikan dengan jenis produk toko.
+5. **Member mau kurangi retur/komplain Pembeli pas Ramadan?** 3 langkah dari sumber: tulis nama karyawan di label pengiriman, lengkapi deskripsi produk biar ekspektasi Pembeli sesuai, dan tulis syarat & ketentuan dengan jelas di deskripsi/halaman toko.
+
+## Batasan
+Sumber ini TERPOTONG di tengah kalimat pada bagian "2. Buat Promosi Khusus Ramadan" (kalimat terakhir yang tersalin: "...produk mana yang cocok untuk dibeli bersama dan laya" — terputus, kemungkinan lanjutan soal bundling produk hilang saat scraping). Isi lengkap strategi promosi poin 2 dan seterusnya (kalau ada poin 3+) TIDAK tersedia di entry ini. Jangan karang lanjutannya — kalau member butuh strategi promosi Ramadan lebih lengkap, arahkan cek artikel aslinya di Seller Centre atau tunggu update entry ini.

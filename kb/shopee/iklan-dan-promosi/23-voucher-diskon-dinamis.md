@@ -11,10 +11,18 @@ valid_as_of: 2026-02
 sources:
   - file: mj---voucher-toko-saya/voucher-diskon-dinamis.md
     bagian: "artikel penuh"
+related: [shp-promosi-021]
 ---
 # Voucher Diskon Dinamis
 
 ## Ringkasan
+Voucher Diskon Dinamis = voucher otomatis-personalisasi (tampil di halaman produk/pop-up/keranjang/checkout) dengan 2 tujuan: Memaksimalkan Penjualan atau Menjangkau Pembeli Baru — cuma bisa pilih SATU tujuan & SATU voucher aktif per periode. Modal Harian min. Rp10.000, ditanggung SEPENUHNYA Penjual; voucher berhenti tampil begitu modal harian habis, jalan lagi otomatis jam 00:00 WIB besoknya. Voucher berlaku 1 jam sejak Pembeli klik pop-up di halaman produk, TANPA perlu klaim manual.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara setting Modal Harian Voucher Diskon Dinamis, beda 2 tujuan promosinya, atau kenapa vouchernya berhenti tampil di tengah hari. Buat Voucher Toko Saya secara umum (voucher manual biasa), arahkan ke `shp-promosi-021`.
+
+## Isi
+
 **Apa itu Voucher Diskon Dinamis?**
 
 
@@ -148,4 +156,22 @@ Anda juga dapat melihat riwayat voucher yang telah Anda buat melalui halaman **D
 7.  Dengan membuat Voucher Diskon Dinamis, Anda menyatakan bahwa menyetujui seluruh Syarat & Ketentuan di atas.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Modal Harian minimum | Rp10.000 |
+| Contoh ilustrasi Modal Harian | Rp30.000/hari |
+| Masa berlaku voucher setelah diklik Pembeli | 1 jam sejak klik pop-up di halaman produk |
+| Batas Voucher Diskon Dinamis aktif bersamaan | maks. 1 voucher per periode |
+| Waktu voucher jalan lagi setelah modal harian habis | pk. 00:00 WIB keesokan harinya |
+| Lokasi tampil voucher | halaman produk, pop-up halaman produk, keranjang belanja, halaman checkout |
+| Pilihan masa berlaku promosi | Tak terbatas ATAU Dengan batas waktu |
+
+## Pertanyaan diagnosa
+
+1. **Member set Modal Harian Rp30.000, voucher berhenti tampil siang hari, kenapa?** Normal — modal harian udah HABIS TERPAKAI (contoh: tercapai jam 13:00 WIB). Voucher berhenti tampil sampai jam 23:59 WIB, lalu OTOMATIS jalan lagi mulai jam 00:00 WIB besoknya.
+2. **Member mau bikin 2 Voucher Diskon Dinamis sekaligus buat 2 tujuan promosi beda?** TIDAK BISA — Penjual cuma boleh atur SATU Voucher Diskon Dinamis dalam satu periode, dan cuma bisa pilih SATU tujuan promosi.
+3. **Pembeli klaim Voucher Diskon Dinamis, berapa lama vouchernya berlaku?** 1 JAM sejak Pembeli klik pop-up di halaman produk — Pembeli gak perlu klaim manual, voucher otomatis muncul & bisa langsung dipakai dalam jendela waktu itu.
+4. **Member mau set Modal Harian di bawah Rp10.000?** TIDAK BISA — Modal Harian minimum adalah Rp10.000.
+5. **Member pilih tujuan "Menjangkau Pembeli Baru", metrik apa yang bisa dilihat khusus?** Metrik "Pembeli Baru" (jumlah Pembeli yang pakai voucher di pesanan PERTAMA mereka) HANYA muncul kalau tujuan promosi yang dipilih "Menjangkau Pembeli Baru" — gak muncul kalau pilih "Memaksimalkan Penjualan".
+6. **Member mau nonaktifkan voucher sebelum periode promosi selesai?** Pilih "Berhenti" di halaman Voucher Toko Saya — voucher LANGSUNG dinonaktifkan dan gak akan muncul lagi di tampilan Pembeli.

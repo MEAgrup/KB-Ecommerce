@@ -1256,7 +1256,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-002, shp-afiliasi-003, shp-afiliasi-004",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/01-10-tentang-affiliate-marketing-solution-ams.md"
   },
@@ -1269,7 +1269,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-iklan-003",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/01-faq-iklan-google.md"
   },
@@ -1282,7 +1282,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-promosi-002, shp-promosi-003",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/01-flash-sale-shopee.md"
   },
@@ -1308,7 +1308,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/02-31-sampel-gratis-di-affiliate-marketing-solution-ams.md"
   },
@@ -1321,7 +1321,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-iklan-004, shp-iklan-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/02-faq-iklan-meta-cpas.md"
   },
@@ -1334,7 +1334,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-promosi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/02-performa-flash-sale-shopee.md"
   },
@@ -1347,7 +1347,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/03-35-youtube-shopping-di-affiliate-marketing-solution-ams.md"
   },
@@ -1360,7 +1360,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-001, shp-promosi-004",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/03-faq-flash-sale-toko-saya.md"
   },
@@ -1373,7 +1373,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-iklan-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/03-iklan-google.md"
   },
@@ -1386,7 +1386,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/04-iklan-affiliate-facebook-di-affiliate-marketing-solution-ams.md"
   },
@@ -1399,7 +1399,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-iklan-002",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/04-iklan-meta-cpas.md"
   },
@@ -1412,7 +1412,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-003",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/04-syarat-dan-kriteria-produk-dan-penjual-flash-sale-toko-saya.md"
   },
@@ -1425,7 +1425,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-afiliasi-006",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/05-keranjang-instagram-feeds-dan-reels-untuk-penjual.md"
   },
@@ -1451,7 +1451,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-008",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/05-promo-khusus-pengguna-iklan-shopee.md"
   },
@@ -1464,7 +1464,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-live-002",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/06-koin-penjual.md"
   },
@@ -1477,7 +1477,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-afiliasi-001, shp-afiliasi-005",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/06-tentang-program-afiliasi-penjual-shopee.md"
   },
@@ -1555,7 +1555,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-008",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/07-program-garansi-harga-terbaik.md"
   },
@@ -1568,7 +1568,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-007",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/08-program-nominasi-pintar.md"
   },
@@ -1581,7 +1581,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-biaya-007, shp-biaya-008, shp-iklan-005",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/09-program-opsional-gratis-ongkir-xtra.md"
   },
@@ -1594,7 +1594,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-009, shp-promosi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/10-program-opsional-promo-xtra.md"
   },
@@ -1607,7 +1607,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-010, shp-promosi-009",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/11-program-opsional-promo-xtra.md"
   },
@@ -1620,7 +1620,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-promosi-009, shp-promosi-010, shp-promosi-011",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/12-tentang-pengelolaan-program-saya.md"
   },
@@ -1633,7 +1633,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-promosi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/13-cara-membeli-paket-promosi-online-di-seller-centre.md"
   },
@@ -1659,7 +1659,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-009",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/14-tentang-program-shopee-pilih-lokal.md"
   },
@@ -1685,7 +1685,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-promosi-001, shp-promosi-014",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/15-tentang-promo-shopee.md"
   },
@@ -1711,7 +1711,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-015, shp-promosi-021",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/16-tentang-promo-voucher.md"
   },
@@ -1724,7 +1724,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-016",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/17-voucher-reward-koin-shopee.md"
   },
@@ -1737,7 +1737,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-promosi-001",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/18-maksimalkan-potensi-toko-di-big-ramadan-sale.md"
   },
@@ -1750,7 +1750,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-promosi-015",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/19-program-promosi-vip.md"
   },
@@ -1763,7 +1763,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-promosi-016, shp-promosi-021",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/20-syarat-ketentuan-menominasikan-voucher-toko-dalam-flash-voucher.md"
   },
@@ -1776,7 +1776,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-promosi-016, shp-promosi-020",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/21-tentang-voucher-toko-saya.md"
   },
@@ -1789,7 +1789,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-promosi-014",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/22-voucher-akselerasi-usaha-lokal.md"
   },
@@ -1802,7 +1802,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-promosi-021",
     "decisions": "",
     "path": "shopee/iklan-dan-promosi/23-voucher-diskon-dinamis.md"
   },

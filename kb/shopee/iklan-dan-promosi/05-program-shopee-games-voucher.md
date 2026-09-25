@@ -15,11 +15,14 @@ sources:
 # Program Shopee Games Voucher
 
 ## Ringkasan
-**Apa itu Program Shopee Games Voucher?**
+Shopee Games Voucher = Voucher Diskon Rp10.000 (min. belanja Rp20.000) yang muncul di game-game Shopee (Shopee Tanam, Pets, Candy, dll), BUKAN di halaman toko. Khusus Penjual terpilih via undangan, biaya sepenuhnya ditanggung Penjual: Basic (maks. Rp500rb), Extended (maks. Rp1jt), Premium (maks. Rp5jt) — Extended/Premium dapat bonus slot Flash Sale Shopee. Biaya ditarik dari Saldo Penjual SETELAH kampanye berakhir, Rp10.000/voucher terpakai. PENTING: sekali isi formulir, GAK BISA DIBATALKAN.
 
+## Kapan ini dipakai
+Dipakai kalau member (yang udah diundang) nanya soal paket, biaya, atau cara ikut Shopee Games Voucher. Ingatkan SELALU bahwa keikutsertaan gak bisa dibatalkan setelah isi formulir — pastikan member paham komitmen biaya sebelum daftar.
 
+## Isi
 
-Program Shopee Games Voucher memungkinkan Anda untuk mempromosikan produk dan toko Anda dengan membuat Voucher Toko yang dapat diklaim oleh Pengguna di halaman Shopee Games. Shopee Games Voucher dapat diklaim dengan waktu dan kuota yang terbatas.
+Saat ini, Program Shopee Games Voucher hanya tersedia untuk Penjual terpilih. Apabila Anda memenuhi kriteria untuk mengikuti program Shopee Games Voucher, Anda akan mendapatkan undangan melalui notifikasi di Seller Centre dan aplikasi Shopee yang berisi *link* formulir pendaftaran Shopee Games Voucher untuk menominasikan Voucher Toko Anda.
 
   
 
@@ -92,4 +95,25 @@ Biaya yang dikenakan ke Penjual adalah Rp10.000/voucher dan akan ditarik melalui
 Total biaya yang dikenakan ke Penjual akan didasarkan pada total voucher yang digunakan Pengguna hingga periode kampanye selesai. Berikut adalah ilustrasinya:
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Nilai voucher | Diskon Rp10.000, min. belanja Rp20.000 |
+| Biaya per voucher terpakai | Rp10.000 |
+| Paket Basic — maks. biaya | Rp500.000 |
+| Paket Extended — maks. biaya | Rp1.000.000 (+ slot Flash Sale Shopee) |
+| Paket Premium — maks. biaya | Rp5.000.000 (+ slot Flash Sale Shopee) |
+| Konfirmasi Status Nominasi | maks. 1 hari kerja sebelum voucher tampil |
+| Frekuensi isi formulir | maks. 1x/bulan/undangan |
+| Penilaian toko minimum | min. 4 |
+| Batas poin penalti | tidak lebih dari 2 |
+| Jeda ikut program lagi | gak boleh ikut dalam 60 hari terakhir |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau paket mana yang cocok?** Basic = cuma voucher (maks. Rp500rb). Extended/Premium = voucher + BONUS slot Flash Sale Shopee (maks. Rp1jt/Rp5jt) — makin tinggi paket, makin besar potensi biaya TAPI juga makin besar exposure.
+2. **Member khawatir biaya bengkak kalau voucher-nya laris?** Total biaya dibatasi MAKS. sesuai paket yang dipilih — kalau kuota klaim/pemakaian ngelewatin maks. biaya paket, Shopee yang nanggung kelebihannya, bukan Penjual.
+3. **Member mau batalkan keikutsertaan setelah isi formulir?** GAK BISA — begitu formulir diisi, keikutsertaan FINAL, gak ada opsi mundur.
+4. **Member cari voucher-nya di halaman toko sendiri, gak ketemu?** Normal — Shopee Games Voucher CUMA muncul di halaman Shopee Games (Shopee Tanam, Pets, Candy, dll), BUKAN di halaman toko Penjual.
+5. **Toko member baru aja ikut program ini bulan lalu, mau ikut lagi?** Cek dulu — ada jeda WAJIB 60 hari sebelum bisa ikut program ini lagi.
+6. **Kapan biaya program ini ditarik dari Saldo Penjual?** SETELAH periode kampanye berakhir (bukan di muka), dihitung Rp10.000 × jumlah voucher yang benar-benar terpakai Pengguna.

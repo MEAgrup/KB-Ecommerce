@@ -11,13 +11,17 @@ valid_as_of: 2026-03
 sources:
   - file: mj---flash-sale-toko-saya/syarat-dan-kriteria-produk-dan-penjual-flash-sale-toko-saya.md
     bagian: "artikel penuh"
+related: [shp-promosi-003]
 ---
 # Syarat dan Kriteria Produk dan Penjual Flash Sale Toko Saya
 
 ## Ringkasan
-**Syarat dan Kriteria Penjual Flash Sale Toko Saya**
+Entry RUJUKAN lengkap 2 daftar syarat Flash Sale Toko Saya: (1) syarat TOKO (terdaftar min. 14 hari, aktif 7 hari terakhir, penilaian ≥3.5, dst — 8 kriteria) dan (2) syarat PRODUK (bukan Pre-order, masa pengemasan maks. 3 hari, stok 5-300, harga gak boleh di-mark-up dulu, kategori tertentu wajib BPOM/izin usaha, dst — ~20 kriteria). Semua kriteria di sini identik dengan yang ada di FAQ (`shp-promosi-003`), tapi disajikan sebagai checklist murni tanpa Q&A.
 
+## Kapan ini dipakai
+Dipakai sebagai CHECKLIST cepat buat cek satu-satu apakah toko/produk member memenuhi syarat Flash Sale Toko Saya — lebih cocok buat verifikasi sistematis dibanding FAQ. Buat troubleshooting kasus spesifik (kenapa gak bisa akses/nambah produk), arahkan ke `shp-promosi-003` yang formatnya Q&A.
 
+## Isi
 
 Akses fitur Flash Sale Toko Saya terbuka untuk seluruh Penjual yang memenuhi kriteria di bawah ini:
 
@@ -76,4 +80,29 @@ Berikut adalah kriteria produk yang dapat ditampilkan dalam Flash Sale Toko Saya
   - Produk bukan merupakan produk khusus dewasa berusia 21 tahun ke atas.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Syarat Toko | Nilai |
+|---|---|
+| Lama terdaftar | min. 14 hari |
+| Aktivitas | aktif 7 hari terakhir, gak sedang Mode Libur |
+| Penilaian toko | ≥3.5, dengan min. 5 penilaian |
+| Persentase chat dibalas | min. 50% |
+| Poin penalti | tidak lebih dari 2 |
+| Tingkat Keterlambatan Pengiriman | maks. 20% |
+| Tingkat Pesanan Tidak Terselesaikan | maks. 20% |
+
+| Syarat Produk | Nilai |
+|---|---|
+| Masa pengemasan | maks. 3 hari |
+| Jeda promosi ulang | 1 hari setelah tampil |
+| Stok per variasi | min. 5, maks. 300 |
+| Diskon minimum disarankan (Handphone & Tablet) | min. 1% |
+| Diskon minimum disarankan (kategori lain) | min. 5% |
+| Kedaluwarsa minimum (kategori wajib BPOM) | ≥1 bulan dari tanggal jual |
+
+## Pertanyaan diagnosa
+
+1. **Member mau cek cepat apakah tokonya memenuhi syarat Flash Sale Toko Saya?** Cocokkan satu-satu ke 7 syarat toko di `## Angka & patokan` — kalau satu aja gak terpenuhi, gak bisa akses fitur ini.
+2. **Member mau cek satu produk lolos syarat atau enggak?** Cocokkan ke daftar ~20 kriteria produk di `## Isi` — kalau butuh troubleshoot spesifik kenapa produk ditolak, format Q&A di `shp-promosi-003` lebih mudah dipakai.
+3. **Produk kategori Makanan/Kesehatan/Kebersihan/Ibu & Bayi mau ikut Flash Sale Toko Saya?** WAJIB cantumkan izin usaha, BPOM, DAN tanggal kedaluwarsa (≥1 bulan dari tanggal jual) — 3 syarat sekaligus, bukan cuma salah satu.
+4. **Member naikin harga produk dulu sebelum bikin Flash Sale biar diskonnya kelihatan gede?** DILARANG — itu masuk kategori "harga mark-up", lihat contoh perhitungannya di `## Isi` (harga asli Rp10.000 dinaikkan jadi Rp15.000 lalu "didiskon" balik ke Rp10.000 — itu bukan diskon sungguhan dan melanggar syarat).

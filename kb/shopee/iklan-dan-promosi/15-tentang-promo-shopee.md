@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: mj---shopee-lokal/tentang-promo-shopee.md
     bagian: "artikel penuh"
+related: [shp-promosi-001, shp-promosi-014]
 ---
 # Tentang Promo Shopee
 
 ## Ringkasan
+Promo Shopee = promosi resmi Shopee (tampil di halaman utama situs/aplikasi selama periode musiman/perayaan) yang produknya dipilih tim Shopee lewat nominasi. Kriteria seleksi mencakup poin penalti, masa pengemasan, penilaian toko, harga diskon dalam rentang tertentu, tingkat konversi, dll — beda-beda per sesi. Konsep kunci: Harga Sebelum Diskon − Harga Net Penjual (yang Penjual mau terima) + Subsidi Shopee (opsional, ditanggung Shopee) = Harga Diskon (yang dilihat Pembeli). Nominasi bisa manual (Seller Centre/app) atau massal (Excel, maks. 1.000 variasi/file).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara nominasikan produk ke Promo Shopee, cara baca kolom Harga Net Penjual/Subsidi Shopee/Harga Diskon, atau cara upload nominasi massal via Excel. Buat Flash Sale Shopee spesifik, arahkan ke `shp-promosi-001`; buat Promo Shopee Pilih Lokal (salah satu jenis Promo Shopee), arahkan ke `shp-promosi-014`.
+
+## Isi
+
 **Apa itu Promo Shopee?**
 
 
@@ -494,4 +502,24 @@ Tidak ada pilihan massal yang tersedia untuk *tab* **Dinominasikan** dan **Ditol
 Anda juga dapat mengubah **Diskon**, **Stok Promo** dan **Batas Pembelian** melalui halaman **Rincian Produk** di aplikasi Seller Centre Shopee.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Contoh ilustrasi Harga Sebelum Diskon | Rp100.000 |
+| Contoh ilustrasi Harga Net Penjual (harga yang Penjual mau terima) | Rp90.000 |
+| Contoh ilustrasi Subsidi Shopee (tambahan dari Shopee) | Rp5.000 |
+| Contoh ilustrasi Harga Diskon (dilihat Pembeli = Net Penjual − Subsidi Shopee) | Rp85.000 |
+| Batas variasi produk per file Excel nominasi massal | maks. 1.000 variasi/file |
+| Kategori Pre-Order (masa pengemasan) | 7 hari atau lebih |
+| Tingkatan Promo Shopee | Big Campaign, Slot Terbatas, Trafik Tinggi, Subsidi Shopee, Campaign |
+| Status Nominasi yang tersedia | Menunggu Konfirmasi Shopee, Disetujui, Ditolak, Ditolak oleh Penjual |
+
+## Pertanyaan diagnosa
+
+1. **Member bingung beda Harga Net Penjual, Subsidi Shopee, dan Harga Diskon?** Harga Net Penjual = harga yang Penjual MAU TERIMA (tanpa subsidi). Subsidi Shopee = tambahan potongan DARI Shopee (kalau ada). Harga Diskon = yang DILIHAT Pembeli = Net Penjual − Subsidi Shopee. Contoh: Net Rp90.000 − Subsidi Rp5.000 = Harga Diskon Rp85.000 buat Pembeli.
+2. **Member nanya kapan Subsidi Shopee dicairkan ke rekeningnya?** SETELAH transaksi selesai (bukan di muka) — Penjual terima Harga Diskon dulu dari Pembeli (Rp85.000 di contoh), baru terima Subsidi Shopee (Rp5.000) belakangan dari Shopee.
+3. **Member mau upload nominasi massal tapi tokonya punya >1.000 variasi?** Template Excel yang ter-download otomatis PECAH jadi lebih dari 1 file — upload satu per satu, jangan gabung manual.
+4. **Nominasi produk member gagal/sukses sebagian saat upload Excel?** Cek kolom "Alasan Gagal" di template yang di-download ulang — penyebab umum: kode produk gak valid, produk sama dinominasikan dobel dalam 1 sesi, lebih dari batas nominasi maksimal, atau harga diskon di luar rentang yang diizinkan.
+5. **Member mau ubah rincian produk yang udah disetujui Shopee?** Beberapa info produk TERKUNCI otomatis setelah nominasi disetujui — cek artikel "Mengapa Saya Tidak Dapat Mengubah Rincian Produk" buat detail lebih lanjut.
+6. **Member mau tau produk yang mana masuk kategori "Pre-Order" buat kriteria promo?** Produk dengan masa pengemasan 7 hari ATAU LEBIH masuk kategori Pre-Order — beberapa sesi Promo Shopee punya kriteria khusus buat kategori ini.
+7. **Member gagal hapus produk dari promo yang udah disetujui, opsi "Take Down Produk" gak muncul?** Kalau opsi ini gak ada di halaman Nominasi Produk, arahkan hubungi Customer Service Shopee — bukan bug yang bisa diselesaikan sendiri lewat Seller Centre.

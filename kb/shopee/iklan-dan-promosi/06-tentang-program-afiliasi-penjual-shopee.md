@@ -11,15 +11,19 @@ valid_as_of: 2026-07
 sources:
   - file: mj---program-afiliasi-penjual/tentang-program-afiliasi-penjual-shopee.md
     bagian: "artikel penuh"
+related: [shp-afiliasi-001, shp-afiliasi-005]
 ---
 # Tentang Program Afiliasi Penjual Shopee
 
 ## Ringkasan
-**Apa itu Program Afiliasi Penjual?**
+Program Afiliasi Penjual = Penjual jadi "Affiliate" buat produknya SENDIRI — dapat komisi (10% maks. Rp10rb/pesanan buat Pembeli Baru, 5% maks. Rp10rb buat Pembeli Setia) dari link khusus yang dibagikan ke medsos. Syarat: min. 2 produk aktif, BELUM PERNAH terdaftar sebagai Affiliate Shopee biasa. Window klik→checkout 7 hari, lalu verifikasi 2 minggu (mulai Senin berikutnya), dibayar ke Saldo Penjual tiap Kamis setelah verifikasi selesai.
 
+## Kapan ini dipakai
+Dipakai kalau Penjual mau promosikan produknya sendiri via link afiliasi (beda dari AMS yang ngundang Affiliate LUAR buat promosiin produk Penjual — di sini Penjual sendiri jadi promotornya). Buat konsep AMS/komisi ke Affiliate eksternal, arahkan ke `shp-afiliasi-001`. Buat fitur tag produk Instagram, arahkan ke `shp-afiliasi-005`.
 
+## Isi
 
-Program Afiliasi Penjual adalah program yang memungkinkan Penjual untuk mendapatkan penghasilan tambahan berupa komisi atas pesanan selesai dari *link* produk/toko khusus yang Penjual bagikan di media sosial.
+Berikut jumlah komisi yang bisa didapatkan Penjual berdasarkan tipe Pembeli:
 
   
 
@@ -276,3 +280,27 @@ Laporan Klik digunakan oleh Penjual untuk melihat performa terkait klik untuk *l
 2.  **Waktu Klik**: Waktu Pembeli melakukan klik
 3.  **Wilayah Klik**: Wilayah dimana Pembeli melakukan klik
 4.  **Pakai Tag**: Jika Penjual membuat Custom Link, performa dapat di cek per-Custom Link
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Komisi Pembeli Baru | 10%, maks. Rp10.000/pesanan |
+| Komisi Pembeli Setia | 5%, maks. Rp10.000/pesanan |
+| Syarat produk aktif minimum | min. 2 produk |
+| Window klik link → checkout dianggap sah | 7 hari kalender |
+| Mulai verifikasi pesanan | Senin setelah window 7 hari |
+| Durasi proses verifikasi | 2 minggu |
+| Komisi dibayar ke Saldo Penjual | tiap hari Kamis setelah verifikasi selesai |
+| Maks. link diubah jadi Link Afiliasi sekaligus | maks. 5 link |
+| Update Laporan Performa | tiap hari pk. 15.30 WIB |
+
+## Pertanyaan diagnosa
+
+1. **Member udah terdaftar sebagai Affiliate Shopee biasa, mau ikut Program Afiliasi Penjual juga?** GAK BISA — salah satu syarat program ini adalah BELUM PERNAH terdaftar sebagai Affiliate Shopee, jadi kalau udah pernah daftar Affiliate biasa, gak bisa ikut program ini.
+2. **Member mau tau kapan komisinya cair?** Alurnya: klik link → checkout dalam 7 hari → verifikasi mulai Senin berikutnya (2 minggu) → dibayar ke Saldo Penjual hari Kamis setelah verifikasi kelar. Jadi total bisa 3+ minggu dari klik pertama sampai cair.
+3. **Member bingung kenapa komisi Pembeli Baru lebih tinggi dari Pembeli Setia?** Itu emang skemanya — 10% (maks. Rp10rb) buat Pembeli yang BELUM PERNAH transaksi di Shopee, 5% (maks. Rp10rb) buat yang UDAH PERNAH — insentif buat narik pelanggan baru lebih tinggi.
+4. **Member mau bagikan link dari web browser, bukan dari aplikasi?** Wajib diubah dulu jadi Link Afiliasi (via aplikasi Shopee atau situs Program Afiliasi Penjual) — link web browser biasa gak bisa dilacak buat komisi kalau belum di-convert.
+5. **Member mau lacak performa link per-platform media sosial (misal Instagram vs TikTok)?** Arahkan ke Laporan Pesanan Affiliate, filter **Platform** — bisa breakdown per-platform yang dipakai buat promosi.
+6. **Status komisi member "Ditolak", kenapa?** Cek alasan penolakan di data laporan yang tertera — bisa macam-macam alasan, arahkan lihat detail di Laporan Komisi.
+7. **Status pembayaran komisi member "Perlu Lengkapi"?** Data Pengaturan Pembayaran belum lengkap/gak sesuai — WAJIB lengkapi dulu supaya pembayaran bisa diproses, gak akan cair otomatis kalau data belum lengkap.

@@ -11,10 +11,18 @@ valid_as_of: 2026-06
 sources:
   - file: mj---voucher-toko-saya/tentang-voucher-toko-saya.md
     bagian: "artikel penuh"
+related: [shp-promosi-016, shp-promosi-020]
 ---
 # Tentang Voucher Toko Saya
 
 ## Ringkasan
+Voucher Toko Saya = fitur BEBAS BIAYA ADMINISTRASI buat bikin voucher toko sendiri (bukan lewat nominasi Shopee), 6 tipe: Voucher Toko, Voucher Produk, Voucher Live, Voucher Khusus Streamer, Voucher Video, Voucher Khusus Kreator. 3 jenis hadiah: Nominal Diskon, Persentase Diskon, Cashback Koin (semua biaya ditanggung Penjual kalau dipakai Pembeli). Durasi voucher maks. 3 bulan; kode voucher yang sama harus tunggu 30 hari setelah berakhir buat dipakai lagi. Jumlah Maks. per Pembeli bisa sampai 5x pakai voucher sama, tapi 1 voucher/pesanan.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara bikin/kelola Voucher Toko Saya, beda tipe voucher, atau cara baca metrik performa voucher. Buat Promo Voucher (nominasi ke kampanye Shopee), arahkan ke `shp-promosi-016`; buat Flash Voucher (khusus undangan), arahkan ke `shp-promosi-020`.
+
+## Isi
+
 **Apa itu Voucher Toko Saya?**
 
 
@@ -475,4 +483,27 @@ Urutkan voucher dengan menambahkan atau mengurangi urutan Kriteria Utama yang di
   - **Duplikat** voucher yang performanya baik jika voucher tersebut efektif dan hemat biaya.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Durasi voucher maksimum | 3 bulan |
+| Jeda pakai ulang kode voucher yang sama | 30 hari setelah voucher sebelumnya berakhir |
+| Jumlah Maks. per Pembeli (pakai voucher sama) | s.d. 5 kali |
+| Batas voucher per pesanan | 1 voucher/pesanan |
+| Karakter kustom pada Kode Voucher | maks. 5 huruf/angka di belakang kode otomatis |
+| Contoh skema Nominal Diskon | Diskon Rp5.000, min. belanja Rp200.000 |
+| Contoh skema Persentase Diskon | Diskon 10%, min. belanja Rp200.000, maks. diskon Rp5.000 |
+| Contoh skema Cashback Koin | Cashback 10%, min. belanja Rp200.000, maks. Rp10.000 (setara 1.000 Koin) |
+| Konversi Koin Shopee | 100 Koin = Rp100 |
+| Rentang performa voucher default | 7 hari terakhir |
+| Cakupan tampilan aplikasi Shopee | Voucher Toko, Voucher Produk, Voucher Live, Voucher Video saja |
+
+## Pertanyaan diagnosa
+
+1. **Member bingung pilih tipe voucher yang mana?** Voucher Toko = buat naikin penjualan keseluruhan. Voucher Produk = tujuan spesifik (cuci gudang produk musiman). Voucher Live/Khusus Streamer = promosi selama Shopee Live. Voucher Video/Khusus Kreator = promosi lewat Shopee Video/kreator pilihan.
+2. **Member mau pakai kode voucher yang sama lagi setelah voucher lama berakhir?** Harus TUNGGU 30 hari dulu setelah voucher lama berakhir sebelum kode yang sama bisa dipakai ulang.
+3. **Member set voucher durasi 6 bulan, kenapa ditolak sistem?** Durasi voucher MAKS. 3 bulan — gak bisa lebih dari itu.
+4. **Member mau tau kenapa gak bisa ubah Kode Voucher/Tipe Voucher-nya lagi?** Cek dulu apakah fitur "Tampilkan Voucher Lebih Awal" aktif — kalau aktif, Kode Voucher, Tampilkan Voucher Lebih Awal, Tipe Voucher, Jumlah Maks. per Pembeli, dan Pengaturan Tampilan Voucher JADI TERKUNCI, gak bisa diubah lagi.
+5. **Member pilih Cashback Koin, terus produknya diretur Pembeli, gimana koinnya?** Biaya Koin Shopee yang udah diberikan ke Pembeli akan DIKEMBALIKAN ke Penjual — bukan kerugian permanen buat Penjual.
+6. **Member mau share link voucher tapi tombol Share gak muncul?** Cek 2 syarat: voucher harus berstatus "Sedang Berjalan" DAN pengaturan tampilannya "Tampilkan di semua halaman" — voucher yang "Tidak Ditampilkan" atau "Akan Datang" gak bisa di-share.
+7. **Member mau analisa kenapa Kuota Pemakaian vouchernya rendah?** Kalau Kuota Pemakaian di bawah 10% DAN Penjualan per Pembeli kurang lebih sama dengan Minimum Pembelian, coba turunkan nominal Minimum Pembelian buat naikin pemakaian.

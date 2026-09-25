@@ -11,13 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: mj---affiliate-marketing-solution-ams/31-sampel-gratis-di-affiliate-marketing-solution-ams.md
     bagian: "artikel penuh"
+related: [shp-afiliasi-001]
 ---
 # 3.1 Sampel Gratis di Affiliate Marketing Solution (AMS)
 
 ## Ringkasan
-**Apa itu Fitur Sampel Gratis di Affiliate Marketing Solution?**
+Sampel Gratis = kirim produk gratis (Penjual tanggung ongkir, gak bisa COD) ke Affiliate biar bikin konten. Alur status: Perlu Disetujui (3 hari) → Perlu Dikirim (5 hari) → Dikirim (7 hari, auto-dianggap diterima kalau gak ada respons) → Menunggu Diposting (7 hari) → Selesai/Tidak Terpenuhi. Affiliate yang gak posting bukti kena poin penalti. Ada juga Sampel Dana Kembali (khusus Shopee Mall/Star/Star+): Affiliate BELI dulu, biaya dikembalikan otomatis kalau capai target penjualan (min. 1 - maks. 30 pesanan dalam 60 hari) — gak balik kalau target gak tercapai.
 
+## Kapan ini dipakai
+Dipakai kalau member mau kirim sampel produk ke Affiliate atau nanya soal Sampel Dana Kembali. Cek dulu Sampel Gratis (Penjual rugi biaya+ongkir, gak ada syarat balik modal) vs Sampel Dana Kembali (Affiliate beli duluan, cuma buat Mall/Star/Star+, ada target penjualan) — dua skema beda jauh. Buat konsep dasar AMS/jenis komisi, arahkan ke `shp-afiliasi-001`.
 
+## Isi
 
 Fitur Sampel Gratis adalah fitur untuk Penjual memberikan sampel produk gratis kepada Affiliate agar dapat lebih memahami produk dan menghasilkan konten rekomendasi yang lebih menarik dan informatif.
 
@@ -335,3 +339,28 @@ Jika *Affiliate* berhasil memenuhi target penjualan, sistem akan melakukan penye
 **5. Apakah pesanan** **Affiliate** **akan dicatat sebagai penjualan (Gross Merchandise Value/GMV)?**
 
 Ya, pesanan *Affiliate* akan tetap dihitung sebagai penjualan karena *Affiliate* tetap melakukan pembayaran saat melakukan pembelian.
+
+## Angka & patokan
+
+| Status Sampel Gratis | Jangka waktu |
+|---|---|
+| Perlu Disetujui | 3 hari |
+| Perlu Dikirim | 5 hari |
+| Dikirim (auto-dianggap diterima kalau gak ada respons) | 7 hari |
+| Menunggu Diposting | 7 hari |
+
+| Sampel Dana Kembali | Nilai |
+|---|---|
+| Target pesanan yang bisa diatur | min. 1 - maks. 30 pesanan |
+| Window waktu capai target | 60 hari |
+| Siapa yang bisa pakai fitur ini | khusus Penjual Shopee Mall, Star, Star+ |
+
+## Pertanyaan diagnosa
+
+1. **Member bingung beda Sampel Gratis vs Sampel Dana Kembali?** Sampel Gratis = Penjual kirim GRATIS, ongkir ditanggung Penjual, Affiliate gak bayar apa-apa. Sampel Dana Kembali = Affiliate BELI dulu produknya, baru dapat refund kalau capai target penjualan dalam 60 hari (kalau gagal, uangnya HANGUS buat Affiliate).
+2. **Member toko biasa (bukan Mall/Star/Star+) mau pakai Sampel Dana Kembali?** GAK BISA — fitur ini khusus Penjual Shopee Mall, Star, dan Star+.
+3. **Affiliate udah terima sampel tapi gak posting konten?** Kena poin penalti per permintaan yang gak diselesaikan — status berubah jadi "Tidak Terpenuhi" kalau lewat batas waktu Menunggu Diposting (7 hari).
+4. **Member wajib terima semua permintaan Sampel Gratis dari Affiliate?** TIDAK — Penjual bebas nolak, dan itu GAK MEMPENGARUHI performa toko. Tapi disarankan terima buat maksimalkan konten & brand awareness, terutama dari Affiliate dengan label "Penyelesaian Sampel Baik".
+5. **Member kirim sampel pakai SPX Express, kena biaya kapan?** Gak perlu bayar di awal saat pickup — ongkir ditarik OTOMATIS dari Saldo Penjual setelah status "Terkirim". Kalau saldo gak cukup, Shopee coba tarik berkala, dan bisa membekukan Saldo Penjual kalau tetap gagal.
+6. **Member mau kirim sampel pakai metode COD ke Affiliate?** GAK BISA — ongkir sampel gratis WAJIB ditanggung Penjual sepenuhnya, gak ada opsi COD/ditagihkan ke Affiliate lewat sistem resmi.
+7. **Affiliate berhasil capai target Sampel Dana Kembali, gimana dana balik?** Otomatis — Affiliate terima kembali jumlah PENUH yang dibayar, dan komisi platform yang dikenakan ke sampel itu dikembalikan ke PENJUAL (bukan ke Affiliate).

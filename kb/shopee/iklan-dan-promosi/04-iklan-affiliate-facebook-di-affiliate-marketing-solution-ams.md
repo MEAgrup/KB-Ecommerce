@@ -11,11 +11,19 @@ valid_as_of: 2026-07
 sources:
   - file: mj---affiliate-marketing-solution-ams/iklan-affiliate-facebook-di-affiliate-marketing-solution-ams.md
     bagian: "artikel penuh"
+related: [shp-afiliasi-001]
 ---
 # Iklan Affiliate Facebook di Affiliate Marketing Solution (AMS)
 
 ## Ringkasan
-Perluas jangkauan promosi Anda dalam skala besar dan secara efisien menggunakan Iklan Affiliate. Iklan Affiliate adalah fitur di Affiliate Marketing Solution yang memungkinkan Penjual memaksimalkan konten dari *Affiliate* sebagai Iklan Facebook untuk menjangkau lebih banyak calon Pembeli.
+Iklan Affiliate = pakai konten Affiliate (CUMA Facebook Reels & Videos, masih rollout bertahap) sebagai Iklan Facebook TANPA perlu minta izin satu-satu ke tiap Affiliate. 2 mode pilih konten: Otomatis (sistem pilih performa terbaik, update harian) atau Manual (Penjual pilih sendiri, bisa tambah/hapus saat iklan jalan). Target audiens SELALU otomatis, gak bisa diatur manual. Butuh top up Saldo Iklan Facebook terpisah. Durasi rekomendasi min. 14 hari.
+
+## Kapan ini dipakai
+Dipakai kalau member mau iklankan konten Affiliate-nya sendiri di Facebook (bukan bikin campaign iklan Facebook biasa). Kalau member belum punya konten Affiliate sama sekali, arahkan bikin Komisi XTRA Khusus dulu biar Affiliate tertarik promosiin produk. Buat konsep dasar AMS/komisi, arahkan ke `shp-afiliasi-001`.
+
+## Isi
+
+⚠️ **Catatan**
 
 
 
@@ -85,3 +93,19 @@ Jika Penjual belum memiliki konten yang dapat diiklankan di Facebook, Penjual da
 **4. Berapa durasi iklan yang direkomendasikan?**
 
 Shopee merekomendasikan iklan berjalan min. **14 hari** agar sistem Iklan Facebook memiliki waktu yang cukup untuk mempelajari performa iklan dan mengoptimalkan hasil penayangannya.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Format konten yang didukung | Facebook Reels & Facebook Videos saja |
+| Durasi iklan yang direkomendasikan | min. 14 hari |
+
+## Pertanyaan diagnosa
+
+1. **Member mau iklankan konten Affiliate yang berupa foto/postingan biasa (bukan video)?** GAK BISA saat ini — cuma Facebook Reels & Facebook Videos yang didukung fitur ini.
+2. **Member pakai mode Otomatis, mau ganti-ganti konten manual?** GAK PERLU/gak bisa diubah manual — sistem update pemilihan konten SETIAP HARI otomatis berdasarkan performa terbaik.
+3. **Member pakai mode Manual, mau tambah konten baru di tengah iklan jalan?** BISA — beda dari mode Otomatis, mode Manual bisa tambah/hapus seleksi konten kapan aja meski iklan sedang berjalan.
+4. **Member mau atur target audiens spesifik (misal usia/lokasi tertentu)?** GAK BISA — target audiens SELALU ditentukan otomatis oleh sistem Iklan Facebook, gak ada kontrol manual sama sekali.
+5. **Member belum punya konten Affiliate sama sekali buat diiklankan?** Arahkan bikin Komisi XTRA Khusus dulu di Seller Centre buat narik minat Affiliate promosiin produk — baru bisa lanjut ke Iklan Affiliate setelah ada kontennya.
+6. **Member nanya fitur ini tersedia buat semua Penjual?** Belum tentu — fitur ini masih rollout BERTAHAP, jadi mungkin belum tersedia di akun member.

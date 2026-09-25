@@ -15,11 +15,14 @@ sources:
 # Shopee Service Partner Program
 
 ## Ringkasan
-**Apa itu Shopee Service Partner?**
+Shopee Service Partner = daftar ISV (Independent Software Vendors) PIHAK KETIGA bersertifikat Shopee yang bantu operasional toko (manajemen produk, pemasaran, analisis data, akuntansi, logistik, gudang, layanan Pembeli). Dinilai tiap 3 bulan, 2 tingkat: Premium & Good. Kerja sama & biaya dinegosiasikan LANGSUNG dengan ISV, bukan lewat Shopee.
 
+## Kapan ini dipakai
+Dipakai kalau member nanya soal software/vendor pihak ketiga bersertifikat Shopee buat bantu operasional toko (mirip pola Shopee Shop Partners di Live, tapi ini buat software operasional bukan jasa Livestream). Arahkan hubungi kontak resmi ISV yang diminati buat detail biaya & kerja sama — bukan proses lewat Shopee langsung.
 
+## Isi
 
-Shopee Service Partner adalah *Independent Software Vendors* (ISV) atau vendor *software* pihak ketiga yang menyediakan operasional menyeluruh dan bersifat komersial kepada Penjual Shopee.
+ISV dapat membantu meringankan kendala operasional Penjual (misalnya: tenaga kerja, manajemen data) untuk meningkatkan efisiensi dalam manajemen toko sehari-hari dan mengurangi risiko terkena[ poin penalti dari Tingkat Pesanan Tidak Terselesaikan/Tingkat Keterlambatan Pengiriman](https://seller.shopee.co.id/edu/article/6868).
 
   
 
@@ -57,3 +60,10 @@ Untuk bekerjasama dengan ISV dari Shopee Service Partner, Anda dapat langsung me
   
 
 Berikut adalah gambaran proses cara bekerjasama dengan ISV dari Shopee Service Partner sesuai kebutuhan Anda:
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau biaya kerja sama dengan ISV Shopee Service Partner?** Gak ada tarif tetap dari Shopee — biaya dinegosiasikan LANGSUNG dengan ISV yang dipilih, arahkan hubungi kontak resmi ISV tersebut.
+2. **Member nanya beda tingkat Premium vs Good?** Sumber ini gak jelasin kriteria pembeda detailnya, cuma nyebut ISV dinilai tiap 3 bulan dan diurutkan ke 2 tingkat itu.
+3. **Member butuh software buat manajemen gudang/akuntansi/analisis data toko-nya?** Arahkan cek daftar ISV di Shopee Service Partner — mereka bisa nyediain satu atau kombinasi beberapa layanan operasional sekaligus.
+4. **Member khawatir soal keamanan data kalau pakai ISV pihak ketiga?** Shopee menyatakan memastikan data Penjual & Pembeli diproses di lingkungan aman sebagai bagian dari evaluasi program ini — tapi tetap disarankan cek kebijakan privasi ISV spesifik sebelum kerja sama.

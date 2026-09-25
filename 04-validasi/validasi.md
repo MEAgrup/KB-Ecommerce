@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **1015**
+- PERINGATAN: **950**
 
 ## Status entry
 
@@ -587,117 +587,83 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/iklan-dan-promosi/01-10-tentang-affiliate-marketing-solution-ams.md` · shp-afiliasi-001
 
 - sumber tanpa penunjuk bagian: file: mj---affiliate-marketing-solution-ams/10-tentang-affiliate-marke
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2211 kata — kemungkinan dua topik yang belum dipisah
+- 2694 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/01-faq-iklan-google.md` · shp-iklan-001
 
 - sumber tanpa penunjuk bagian: file: mj---iklan-eksternal-shopee/faq-iklan-google.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2706 kata — kemungkinan dua topik yang belum dipisah
+- 3175 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/01-flash-sale-shopee.md` · shp-promosi-001
 
 - sumber tanpa penunjuk bagian: file: mj---flash-sale-shopee/flash-sale-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1620 kata — kemungkinan dua topik yang belum dipisah
+- 2073 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/01-shopee-service-partner-program.md` · shp-partner-001
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-service-partner/shopee-service-partner-program.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/02-31-sampel-gratis-di-affiliate-marketing-solution-ams.md` · shp-afiliasi-002
 
 - sumber tanpa penunjuk bagian: file: mj---affiliate-marketing-solution-ams/31-sampel-gratis-di-affili
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1814 kata — kemungkinan dua topik yang belum dipisah
+- 2231 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/02-faq-iklan-meta-cpas.md` · shp-iklan-002
 
 - sumber tanpa penunjuk bagian: file: mj---iklan-eksternal-shopee/faq-iklan-meta-cpas.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1325 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/02-performa-flash-sale-shopee.md` · shp-promosi-002
 
 - sumber tanpa penunjuk bagian: file: mj---flash-sale-shopee/performa-flash-sale-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/03-35-youtube-shopping-di-affiliate-marketing-solution-ams.md` · shp-afiliasi-003
 
 - sumber tanpa penunjuk bagian: file: mj---affiliate-marketing-solution-ams/35-youtube-shopping-di-aff
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/03-faq-flash-sale-toko-saya.md` · shp-promosi-003
 
 - sumber tanpa penunjuk bagian: file: mj---flash-sale-toko-saya/faq-flash-sale-toko-saya.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1238 kata — kemungkinan dua topik yang belum dipisah
+- 1643 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/03-iklan-google.md` · shp-iklan-003
 
 - sumber tanpa penunjuk bagian: file: mj---iklan-eksternal-shopee/iklan-google.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/04-iklan-affiliate-facebook-di-affiliate-marketing-solution-ams.md` · shp-afiliasi-004
 
 - sumber tanpa penunjuk bagian: file: mj---affiliate-marketing-solution-ams/iklan-affiliate-facebook-d
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/04-iklan-meta-cpas.md` · shp-iklan-004
 
 - sumber tanpa penunjuk bagian: file: mj---iklan-eksternal-shopee/iklan-meta-cpas.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1560 kata — kemungkinan dua topik yang belum dipisah
+- 2018 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/04-syarat-dan-kriteria-produk-dan-penjual-flash-sale-toko-saya.md` · shp-promosi-004
 
 - sumber tanpa penunjuk bagian: file: mj---flash-sale-toko-saya/syarat-dan-kriteria-produk-dan-penjual
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/05-keranjang-instagram-feeds-dan-reels-untuk-penjual.md` · shp-afiliasi-005
 
 - sumber tanpa penunjuk bagian: file: mj---program-afiliasi-penjual/keranjang-instagram-feeds-dan-reel
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/05-program-shopee-games-voucher.md` · shp-promosi-005
 
 - sumber tanpa penunjuk bagian: file: mj---game-toko/program-shopee-games-voucher.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/05-promo-khusus-pengguna-iklan-shopee.md` · shp-iklan-005
 
 - sumber tanpa penunjuk bagian: file: mj---iklan-shopee/promo-khusus-pengguna-iklan-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/06-koin-penjual.md` · shp-promosi-006
 
 - sumber tanpa penunjuk bagian: file: mj---koin-penjual/koin-penjual.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1232 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/06-tentang-program-afiliasi-penjual-shopee.md` · shp-afiliasi-006
 
 - sumber tanpa penunjuk bagian: file: mj---program-afiliasi-penjual/tentang-program-afiliasi-penjual-s
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1227 kata — kemungkinan dua topik yang belum dipisah
+- 1615 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/06a-apa-itu-iklan-shopee-jenis-syarat-kebijakan-konten.md` · shp-iklan-006
 
@@ -727,47 +693,35 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/iklan-dan-promosi/07-program-garansi-harga-terbaik.md` · shp-promosi-007
 
 - sumber tanpa penunjuk bagian: file: mj---program-shopee/program-garansi-harga-terbaik.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2287 kata — kemungkinan dua topik yang belum dipisah
+- 2728 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/08-program-nominasi-pintar.md` · shp-promosi-008
 
 - sumber tanpa penunjuk bagian: file: mj---program-shopee/program-nominasi-pintar.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1671 kata — kemungkinan dua topik yang belum dipisah
+- 2090 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/09-program-opsional-gratis-ongkir-xtra.md` · shp-promosi-009
 
 - sumber tanpa penunjuk bagian: file: mj---program-shopee/program-opsional-gratis-ongkir-xtra.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1638 kata — kemungkinan dua topik yang belum dipisah
+- 2100 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/10-program-opsional-promo-xtra.md` · shp-promosi-010
 
 - sumber tanpa penunjuk bagian: file: mj---program-shopee/program-opsional-promo-xtra-2.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1581 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/11-program-opsional-promo-xtra.md` · shp-promosi-011
 
 - sumber tanpa penunjuk bagian: file: mj---program-shopee/program-opsional-promo-xtra.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1435 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/12-tentang-pengelolaan-program-saya.md` · shp-promosi-012
 
 - sumber tanpa penunjuk bagian: file: mj---program-shopee/tentang-pengelolaan-program-saya.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/13-cara-membeli-paket-promosi-online-di-seller-centre.md` · shp-promosi-013
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-lokal/cara-membeli-paket-promosi-online-di-seller-ce
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/14-cara-kerja-gmv-max-observasi-lapangan.md` · shp-iklan-101
 
@@ -776,8 +730,6 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/iklan-dan-promosi/14-tentang-program-shopee-pilih-lokal.md` · shp-promosi-014
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-lokal/tentang-program-shopee-pilih-lokal.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/15-cac-vs-ltv-supaya-campaign-gak-boncos.md` · shp-iklan-102
 
@@ -788,9 +740,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/iklan-dan-promosi/15-tentang-promo-shopee.md` · shp-promosi-015
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-lokal/tentang-promo-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2619 kata — kemungkinan dua topik yang belum dipisah
+- 3026 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/16-mindset-sebelum-pasang-iklan.md` · shp-iklan-103
 
@@ -801,53 +751,38 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/iklan-dan-promosi/16-tentang-promo-voucher.md` · shp-promosi-016
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-lokal/tentang-promo-voucher.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1478 kata — kemungkinan dua topik yang belum dipisah
+- 1855 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/17-voucher-reward-koin-shopee.md` · shp-promosi-017
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-lokal/voucher-reward-koin-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1463 kata — kemungkinan dua topik yang belum dipisah
+- 1898 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/18-maksimalkan-potensi-toko-di-big-ramadan-sale.md` · shp-promosi-018
 
 - sumber tanpa penunjuk bagian: file: mj---tips-jualan-di-bulan-ramadhan/maksimalkan-potensi-toko-di-b
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/19-program-promosi-vip.md` · shp-promosi-019
 
 - sumber tanpa penunjuk bagian: file: mj---voucher-toko-saya/program-promosi-vip.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1615 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/20-syarat-ketentuan-menominasikan-voucher-toko-dalam-flash-voucher.md` · shp-promosi-020
 
 - sumber tanpa penunjuk bagian: file: mj---voucher-toko-saya/syarat-ketentuan-menominasikan-voucher-to
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/21-tentang-voucher-toko-saya.md` · shp-promosi-021
 
 - sumber tanpa penunjuk bagian: file: mj---voucher-toko-saya/tentang-voucher-toko-saya.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2536 kata — kemungkinan dua topik yang belum dipisah
+- 2920 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/iklan-dan-promosi/22-voucher-akselerasi-usaha-lokal.md` · shp-promosi-022
 
 - sumber tanpa penunjuk bagian: file: mj---voucher-toko-saya/voucher-akselerasi-usaha-lokal.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/23-voucher-diskon-dinamis.md` · shp-promosi-023
 
 - sumber tanpa penunjuk bagian: file: mj---voucher-toko-saya/voucher-diskon-dinamis.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/iklan-dan-promosi/33-pilih-sku-yang-siap-diiklankan-sebelum-nambah-budget.md` · shp-iklan-104
 

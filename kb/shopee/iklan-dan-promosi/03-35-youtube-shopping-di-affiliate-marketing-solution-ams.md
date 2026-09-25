@@ -11,15 +11,19 @@ valid_as_of: 2026-07
 sources:
   - file: mj---affiliate-marketing-solution-ams/35-youtube-shopping-di-affiliate-marketing-solution-ams.md
     bagian: "artikel penuh"
+related: [shp-afiliasi-001]
 ---
 # 3.5 YouTube Shopping di Affiliate Marketing Solution (AMS)
 
 ## Ringkasan
-**Apa itu YouTube Shopping?**
+YouTube Shopping = promosi produk via tag "Lihat produk" di video/Live/Short YouTube. Buat manfaatkan ini, WAJIB pilih Affiliate username **youtube_shopping_id** (harus bertanda Golden Tick) di Komisi XTRA Produk (semua Affiliate termasuk YouTube) atau Komisi XTRA Khusus — TAPI saat ini gak bisa target Kreator YouTube TERTENTU, Komisi XTRA Khusus buat username ini otomatis berlaku ke SEMUA Kreator YouTube. Performa cuma bisa dilihat AGREGAT (semua Kreator YouTube), gak per-kreator individual.
 
+## Kapan ini dipakai
+Dipakai kalau member mau promosikan produk via YouTube atau Kreator YouTube-nya sendiri mau ikut program ini (cek 5 syarat kelayakan channel: YPP aktif, min. 10.000 subscriber, lokasi Indonesia, bukan channel musik/Made for Kids). Buat konsep dasar AMS/jenis komisi, arahkan ke `shp-afiliasi-001`.
 
+## Isi
 
-YouTube Shopping adalah program untuk mempromosikan produk melalui video di YouTube. Program ini memfasilitasi Kreator YouTube untuk menjual produk Anda melalui *tag* yang Penonton dapat akses di dalam video.
+Program ini tersedia untuk YouTube Video, YouTube Live dan YouTube Short. Saat menonton video YouTube, tombol **Lihat produk** akan muncul di bagian kiri bawah video. Ketika tombol tersebut dipilih, maka Penonton dapat melihat produk yang ditampilkan dalam video.
 
   
 
@@ -86,3 +90,20 @@ Kreator akan mendapatkan komisi untuk setiap penjualan dari konten YouTube merek
 Performa Youtube Shopping dapat dilihat di Seller Centre melalui fitur[ Performa Affiliate](https://seller.shopee.co.id/edu/article/24754) dengan memasukkan Nama Affiliate **youtube\_shopping\_id**. 
 
 Anda tidak dapat melihat performa masing-masing Kreator di YouTube, tetapi Anda bisa melihat performa Kreator YouTube secara keseluruhan.
+
+## Angka & patokan
+
+| Syarat channel YouTube (buat Kreator sendiri) | Nilai |
+|---|---|
+| Status monetisasi | wajib tergabung Program Partner YouTube (YPP) |
+| Jumlah subscriber minimum | min. 10.000 |
+| Lokasi channel | Indonesia |
+| Jenis channel yang dikecualikan | musik, artis resmi/mitra musik, "Made for Kids" |
+
+## Pertanyaan diagnosa
+
+1. **Member mau promosikan produk via YouTube, gimana caranya?** Atur Komisi XTRA Produk (semua Affiliate termasuk YouTube) atau Komisi XTRA Khusus, dan PASTIKAN username **youtube_shopping_id** (bertanda Golden Tick) ikut ditambahkan/dipilih — kalau gak, produk gak bisa dipromosikan Kreator YouTube.
+2. **Member mau kerja sama cuma dengan Kreator YouTube TERTENTU (bukan semua)?** SAAT INI belum bisa — Komisi XTRA Khusus yang diatur ke username youtube_shopping_id otomatis berlaku ke SEMUA Kreator YouTube, gak bisa dipilih satu-satu.
+3. **Member mau lihat performa Kreator YouTube A vs Kreator YouTube B?** GAK BISA per-individu — Performa Affiliate cuma nampilin data AGREGAT semua Kreator YouTube di bawah nama youtube_shopping_id, bukan breakdown per kreator.
+4. **Kreator YouTube member sendiri mau gabung program ini?** Cek 5 syarat kelayakan channel dulu (lihat Angka & patokan) — kalau salah satu gak terpenuhi (misal subscriber di bawah 10.000 atau channel-nya "Made for Kids"), gak bisa ikut.
+5. **Member nanya kapan komisi ke Kreator YouTube dibayar?** Sama seperti AMS pada umumnya — komisi cuma dibayar kalau pesanan SELESAI (sistem pembayaran aman, gak dibayar di muka).

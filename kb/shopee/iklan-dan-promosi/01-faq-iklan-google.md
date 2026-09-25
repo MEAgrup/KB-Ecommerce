@@ -11,13 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: mj---iklan-eksternal-shopee/faq-iklan-google.md
     bagian: "artikel penuh"
+related: [shp-iklan-003]
 ---
 # FAQ Iklan Google
 
 ## Ringkasan
-**FAQ Umum**
+FAQ lengkap Iklan Google (biaya per klik, muncul di Google Pencarian tab Semua/Shopping, arahkan ke halaman produk Shopee). Saldo TERPISAH dari Iklan Shopee, isi cuma 1x/hari, gak bisa refund. Rekomendasi dana harian Rp350.000/hari, durasi min. 4 minggu (2-3 minggu sebelum event besar kayak 11.11/12.12). Ada tabel besar alasan penolakan Google (watermark, produk palsu, konten terlarang, dll) di `## Isi`.
 
+## Kapan ini dipakai
+Entry RUJUKAN buat semua pertanyaan Iklan Google — cara kerja, biaya, pengaturan, optimasi performa, pembayaran, dan alasan produk ditolak Google. Buat spesifikasi teknis/cara bikin campaign Iklan Google, arahkan ke `shp-iklan-003`. Beda dari Iklan Meta CPAS (`shp-iklan-002`/`004`) yang platform-nya Meta/Facebook, bukan Google.
 
+## Isi
 
 **1. Di mana Iklan Google saya akan ditampilkan?**
 
@@ -333,3 +337,33 @@ Saldo Iklan Google terpisah dari Saldo Iklan Shopee. Dana yang sama tidak dapat 
 **6. Apakah riwayat transaksi menunjukkan riwayat pengisian saldo yang dilakukan hanya untuk Iklan Google?**
 
 Ya, riwayat transaksi Saldo Iklan Google hanya untuk transaksi yang dilakukan pada Iklan Google. Riwayat transaksi Iklan Shopee dapat dilihat di halaman[ Tagihan Biaya](https://seller.shopee.co.id/portal/marketing/pas/account).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Frekuensi isi saldo Iklan Google | maks. 1x/hari |
+| Dana harian yang direkomendasikan | Rp350.000/hari |
+| Durasi promosi ideal | min. 4 minggu |
+| Mulai promosi sebelum event besar (11.11/12.12) | 2-3 minggu sebelumnya |
+| Waktu produk baru tersinkronisasi (akun baru) | hingga 24 jam |
+| Waktu tinjauan produk baru oleh Google | hingga 5 hari kerja |
+| Efek perubahan harga/stok di iklan | dalam 1 jam |
+| Efek perubahan judul/deskripsi/gambar (sebelum pk. 08.00 WIB) | dalam 24 jam |
+| Efek perubahan judul/deskripsi/gambar (setelah pk. 08.00 WIB) | dalam 48 jam |
+| Produk dihapus dari toko → hilang dari iklan | hari berikutnya (atau dalam 1 jam kalau stok di-set 0 dulu) |
+| Resolusi gambar produk minimum | 250×250 piksel |
+| Waktu minimal algoritma belajar sebelum optimal | min. 2 minggu |
+| Rekomendasi jumlah produk minimum | min. 5 produk (boleh kurang tapi gak disarankan) |
+| Frekuensi update dana harian yang disarankan | tiap 2-3 hari sekali (jangan terlalu sering) |
+
+## Pertanyaan diagnosa
+
+1. **Member cek iklannya sendiri di Google Pencarian, kena biaya gak?** Kalau CUMA muncul di hasil pencarian tanpa diklik, TIDAK kena biaya — biaya cuma dikenakan kalau member sendiri KLIK iklannya.
+2. **Member sering cek iklan sendiri tapi lama-lama gak muncul lagi?** Normal — Google deteksi IP address yang berulang kali nyari tanpa klik, dianggap gak berminat, jadi berhenti nampilin ke IP itu.
+3. **Member mau isi saldo Iklan Google tapi gagal?** Cek — cuma bisa isi 1x per hari, dan saldo Iklan Google TERPISAH dari saldo Iklan Shopee (gak bisa share dana).
+4. **Produk member ditolak Google, kenapa?** Cari alasan penolakan spesifik di tabel besar `## Isi` (watermark, produk palsu, landing page gak lengkap, konten gak pantas, kategori terlarang Google, gambar invalid, dll) — tiap alasan punya cara perbaikan beda.
+5. **Iklan baru jalan tapi tayangannya dikit?** Tunggu MIN. 2 minggu dulu sebelum evaluasi performa — di bawah itu, cek 5 faktor: dana harian rendah, judul/deskripsi kurang detail, traffic pencarian rendah buat produk itu, produk kesedikit dalam promosi, atau ada pelanggaran Kebijakan Iklan Google.
+6. **Member ubah dana harian tiap hari biar performa naik?** JANGAN — disarankan update paling sering tiap 2-3 hari sekali, perubahan terlalu sering malah bisa ganggu performa sistem.
+7. **Saldo Iklan Google habis di tengah promo?** Iklan otomatis berhenti dan lanjut lagi begitu saldo tersedia — TAPI gak bisa bikin promosi BARU sampai saldo terisi lagi.
+8. **Member salah isi saldo, mau refund?** TIDAK BISA — saldo Iklan Google yang udah masuk gak bisa dikembalikan/refund.

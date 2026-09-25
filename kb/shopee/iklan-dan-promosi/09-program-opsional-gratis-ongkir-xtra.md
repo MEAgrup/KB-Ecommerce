@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: mj---program-shopee/program-opsional-gratis-ongkir-xtra.md
     bagian: "artikel penuh"
+related: [shp-biaya-007, shp-biaya-008, shp-iklan-005]
 ---
 # Program Opsional Gratis Ongkir XTRA
 
 ## Ringkasan
+Gratis Ongkir XTRA (GOX) = program opsional buat kasih promosi Gratis Ongkir ke Pembeli, biaya 1,00%-8,00% (produk ukuran biasa)/2,50%-9,50% (ukuran khusus) sesuai kategori A-H, plafon Rp40rb/Rp60rb per kuantitas produk. Syarat: aktifkan min. 1 jasa kirim pendukung + gak ada riwayat pesanan janggal/penyalahgunaan. Pengajuan gabung/keluar diproses maks. 2 hari kalender. Seller baru dapat bebas biaya sampai 500-1.000 pesanan pertama atau 6-12 bulan (tergantung tanggal upload produk pertama).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara gabung/keluar GOX, syarat kelayakan, atau skema ongkos gratis per area pengiriman. Buat rincian biaya GOX per kategori produk secara detail, arahkan ke `shp-biaya-007`/`shp-biaya-008`; buat diskon biaya GOX lewat pemakaian iklan, arahkan ke `shp-iklan-005`.
+
+## Isi
+
 **Apa itu Program Opsional Gratis Ongkir XTRA?**
 
 
@@ -300,3 +308,28 @@ Voucher Gratis Ongkir XTRA dapat digunakan dengan layanan pengiriman **Rekomenda
 **2. Mengapa saya diberhentikan dari Program Opsional Gratis Ongkir XTRA?**
 
 Anda akan diberhentikan secara otomatis dari Program Opsional Gratis Ongkir XTRA jika sistem mendeteksi bahwa Anda sudah tidak memenuhi kriteria. Namun, Anda akan bergabung kembali dalam Program Opsional Gratis Ongkir XTRA setelah kembali memenuhi kriteria.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Biaya program (produk ukuran biasa, kategori A-H) | 1,00% - 8,00%, berlaku mulai 2 Mei 2026 |
+| Biaya program (produk ukuran khusus, kategori A-H) | 2,50% - 9,50%, berlaku mulai 2 Mei 2026 |
+| Plafon biaya (produk ukuran biasa) | Rp40.000/kuantitas produk |
+| Plafon biaya (produk ukuran khusus) | Rp60.000/kuantitas produk |
+| Ambang berat Produk Ukuran Khusus | ≥5kg ATAU salah satu sisi ≥60cm ATAU dimensi ≥20.000 cm³ |
+| Proses pengajuan gabung/berhenti | maks. 2 hari kalender sejak formulir diterima |
+| Bebas biaya GOX (upload produk pertama sebelum 30 Apr 2026) | 500 pesanan pertama ATAU 6 bulan (180 hari), mana lebih dulu |
+| Bebas biaya GOX (upload produk pertama 1 Mei-30 Jun 2026) | 1.000 pesanan pertama ATAU 1 tahun (365 hari), mana lebih dulu |
+| Bebas biaya GOX (upload produk pertama 1-31 Jul 2026) | 500 pesanan pertama ATAU 6 bulan (180 hari), mana lebih dulu |
+| Min. jasa kirim aktif buat ikut program | 1 dari daftar jasa kirim pendukung |
+
+## Pertanyaan diagnosa
+
+1. **Member baru upload produk pertama, mau tau kapan bebas biaya GOX habis?** Cek tanggal upload produk pertama — sebelum 30 Apr 2026 dan 1-31 Jul 2026: bebas biaya s.d. 500 pesanan/6 bulan; 1 Mei-30 Jun 2026: bebas biaya s.d. 1.000 pesanan/1 tahun (mana lebih dulu tercapai).
+2. **Member mau tau biaya GOX toko-nya berapa persen?** Tergantung kategori produk (A-H) dan ukuran (biasa/khusus) — arahkan cek tabel biaya di `## Isi` atau ke `shp-biaya-007`/`shp-biaya-008` buat rincian per kategori.
+3. **Member gabung GOX hari Selasa sebelum jam 17.00 WIB, kapan efektifnya?** Efektif keesokan harinya jam 00:00 WIB (lihat tabel ilustrasi waktu efektif di `## Isi`) — kalau daftar SETELAH jam 17.00 WIB, efektifnya mundur 1 hari lagi.
+4. **Pembeli member gak dapat Voucher GOX walau tokonya udah ikut program?** Cek jasa kirim yang dipilih Pembeli — voucher GOX cuma berlaku buat jasa kirim Rekomendasi Shopee atau yang masuk daftar Pilihan Kurir, bukan semua jasa kirim.
+5. **Member kena biaya GOX padahal pesanannya dibatalkan?** Seharusnya TIDAK — biaya program gak dikenakan buat pesanan yang dibatalkan.
+6. **Toko member tiba-tiba keluar dari GOX tanpa member ajukan berhenti?** Sistem otomatis berhentikan keikutsertaan kalau kriteria (riwayat pesanan janggal/gak ada jasa kirim aktif) udah gak terpenuhi — begitu kriteria terpenuhi lagi, toko otomatis gabung kembali.
+7. **Member mau cek status keikutsertaan GOX?** Seller Centre: Pusat Promosi > Promosi > Nominasi Promo > tab Gratis Ongkir XTRA. Aplikasi Shopee: Toko Saya > Promosi Toko > Gratis Ongkir XTRA di tab Promo Shopee.

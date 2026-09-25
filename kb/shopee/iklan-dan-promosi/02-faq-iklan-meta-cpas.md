@@ -11,13 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: mj---iklan-eksternal-shopee/faq-iklan-meta-cpas.md
     bagian: "artikel penuh"
+related: [shp-iklan-004, shp-iklan-001]
 ---
 # FAQ Iklan Meta CPAS
 
 ## Ringkasan
-**FAQ Umum**
+FAQ Iklan Meta (Facebook & Instagram), format banner aja, arahkan ke halaman produk Shopee kalau diklik. Conversion Window: klik 7 hari, tayangan 1 hari. Saldo TERPISAH dari Iklan Shopee & Iklan Google (gak bisa share dana), gak bisa refund, gak ada kedaluwarsa. Rekomendasi: bikin akun min. 14 hari sebelum mulai, durasi min. 14 hari, dana harian min. Rp144.000. Penargetan otomatis (gak bisa diatur manual), maks. 10 produk tampil per banner (dipilih algoritma Facebook).
 
+## Kapan ini dipakai
+Entry RUJUKAN buat semua pertanyaan Iklan Meta — biaya, pengaturan, performa, pembayaran. Beda dari Iklan Google (`shp-iklan-001`) yang platform-nya Google, bukan Meta. Buat spesifikasi teknis/cara bikin campaign Iklan Meta, arahkan ke `shp-iklan-004`.
 
+## Isi
 
 **1. Di mana iklan saya akan ditampilkan?**
 
@@ -211,3 +215,25 @@ Jika Anda melihat tayangan yang sangat sedikit untuk iklan Anda setelah jangka w
 **3. Mengapa produk saya mendapatkan sangat sedikit jumlah klik?**
 
 Produk Anda mungkin tidak cukup menarik untuk menarik klik. Untuk meningkatkan jumlah klik, pertimbangkan untuk meningkatkan kualitas produk Anda, terutama foto produk.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Conversion Window — klik | 7 hari |
+| Conversion Window — tayangan | 1 hari |
+| Waktu buat akun sebelum mulai iklan | min. 14 hari kalender sebelumnya |
+| Durasi iklan yang direkomendasikan | min. 14 hari kalender |
+| Dana harian minimum | Rp144.000 |
+| Produk yang tampil per banner | 10 produk (dipilih otomatis oleh algoritma Facebook) |
+| Efek update produk (harga/stok/foto) di iklan | hari berikutnya |
+| Kedaluwarsa Saldo Iklan Meta | tidak ada |
+
+## Pertanyaan diagnosa
+
+1. **Member mau danai Iklan Meta pakai Saldo Penjual?** GAK BISA — wajib isi Saldo Iklan Meta terpisah, gak bisa pakai Saldo Penjual atau Saldo Iklan Shopee/Google.
+2. **Member baru mau mulai Iklan Meta besok, buru-buru bikin akun?** Sebaiknya jangan mepet — rekomendasi bikin akun Iklan Meta MIN. 14 hari sebelum mulai kampanye pertama.
+3. **Member nanya kenapa cuma bisa pakai format banner?** Saat ini itu satu-satunya format yang tersedia buat Iklan Meta di Seller Centre — gak ada opsi lain.
+4. **Member mau atur sendiri target audiens iklannya?** GAK BISA — penargetan dikonfigurasi OTOMATIS oleh sistem, gak ada kontrol manual buat pilih lokasi/demografi.
+5. **Produk member gak disetujui masuk Iklan Meta?** Cek 2 hal: produk harus TERSEDIA (stok ada) dan harga WAJAR, plus harus penuhi panduan periklanan Facebook sendiri (bukan cuma kebijakan Shopee).
+6. **Saldo Iklan Meta member gak kepake, takut hangus?** Gak perlu khawatir — Saldo Iklan Meta TIDAK PUNYA tanggal kedaluwarsa, beda dari beberapa saldo promo lain yang biasanya ada masa berlaku.

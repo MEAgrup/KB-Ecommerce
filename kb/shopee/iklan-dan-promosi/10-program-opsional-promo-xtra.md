@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: mj---program-shopee/program-opsional-promo-xtra-2.md
     bagian: "artikel penuh"
+related: [shp-promosi-009, shp-promosi-001]
 ---
 # Program Opsional Promo XTRA
 
 ## Ringkasan
+Promo XTRA = program opsional voucher potongan harga dengan minimum belanja LEBIH RENDAH dari toko biasa (diskon 5%-33% tergantung kategori, min. belanja Rp30.000-Rp300.000/3 produk). Biaya Layanan = (Harga Asli - Diskon/Voucher Ditanggung Penjual) × 4,5% (maks. Rp60.000/kuantitas produk), berlaku sama buat Penjual Non-Star/Star/Star+/Mall. Syarat: toko aktif & terima pesanan 7 hari terakhir, gak sedang Mode Libur, gak ada riwayat pesanan janggal. Proses gabung/berhenti maks. 2 hari kalender.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara gabung Promo XTRA, besaran diskon voucher per kategori, atau cara hitung Biaya Layanan-nya. Buat Gratis Ongkir XTRA (program terpisah), arahkan ke `shp-promosi-009`; buat Flash Sale Shopee, arahkan ke `shp-promosi-001`.
+
+## Isi
+
 **Apa itu Program Opsional Promo XTRA?**
 
 
@@ -231,3 +239,25 @@ Ya, Anda dapat berhenti dari Program Opsional Promo XTRA dengan mengunjungi menu
   
 
 Data formulir pengajuan pemberhentian akan ditarik setiap hari oleh Tim Shopee agar Penjual dapat berhenti bergabung paling cepat dua hari setelah pengajuan berhenti diterima.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Diskon Promo XTRA — Semua Kategori | 5% - 12%, min. belanja Rp30.000-Rp100.000, maks. diskon Rp100.000-Rp1.000.000 |
+| Diskon Promo XTRA — Fashion | 12% - 20%, min. belanja Rp100.000-Rp300.000, maks. diskon Rp100.000 |
+| Diskon Promo XTRA — Kecantikan | 15%, min. belanja Rp100.000, maks. diskon Rp100.000 |
+| Voucher tambahan Beli 2 Gratis 1 (Fashion, tiap Rabu) | diskon 33%, min. 3 produk, maks. diskon Rp50.000 |
+| Diskon maks. via ShopeePay/SPaylater/SeaBank/COD | s.d. Rp1.000.000 |
+| Rumus Biaya Layanan (semua tipe Penjual) | (Harga Asli Produk − Diskon/Voucher Ditanggung Penjual) × 4,5%, maks. Rp60.000/kuantitas produk |
+| Syarat toko aktif | terima pesanan dalam 7 hari terakhir |
+| Proses pengajuan gabung/berhenti | maks. 2 hari kalender sejak formulir diterima |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau diskon Promo XTRA-nya berapa persen?** Tergantung kategori produk — cek tabel skema (Semua Kategori/Fashion/Kecantikan) di `## Isi`, masing-masing beda diskon, min. belanja, dan maks. diskon.
+2. **Member mau hitung Biaya Layanan Promo XTRA per pesanan?** Rumus sama buat semua tipe Penjual (Non-Star/Star/Star+/Mall): (Harga Asli − Diskon/Voucher Ditanggung Penjual) × 4,5%, dengan plafon Rp60.000/kuantitas produk — belum termasuk Biaya Proses Pesanan & Biaya Administrasi tipe Penjualnya.
+3. **Member kena Biaya Layanan padahal pesanan dibatalkan?** Seharusnya TIDAK — biaya cuma dikenakan buat pesanan yang SELESAI, bukan yang dibatalkan.
+4. **Member gak masuk kriteria tapi udah isi formulir pendaftaran?** Akan dapat notifikasi PENOLAKAN otomatis — cek dulu 3 kriteria: toko aktif 7 hari terakhir, gak sedang Mode Libur, gak ada riwayat pesanan janggal.
+5. **Produk member gak kena voucher Promo XTRA walau toko udah ikut program?** Cek jenis produknya — Produk Eksklusif Member, produk yang dilarang, dan produk dari kategori tertentu DIKECUALIKAN dari voucher Promo XTRA.
+6. **Member gabung hari Selasa sebelum jam 17.00 WIB, kapan efektifnya?** Efektif keesokan harinya jam 00:00 WIB; kalau daftar SETELAH jam 17.00 WIB, efektifnya mundur 1 hari lagi (sama polanya dengan Gratis Ongkir XTRA — lihat `shp-promosi-009`).

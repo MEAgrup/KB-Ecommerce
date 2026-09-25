@@ -11,15 +11,19 @@ valid_as_of: 2026-08
 sources:
   - file: mj---flash-sale-shopee/flash-sale-shopee.md
     bagian: "artikel penuh"
+related: [shp-promosi-002, shp-promosi-003]
 ---
 # Flash Sale Shopee
 
 ## Ringkasan
-**Apa itu Flash Sale Shopee?**
+Flash Sale Shopee = promo yang DIATUR SHOPEE (bukan bikin sendiri seperti Flash Sale Toko Saya), khusus Penjual terpilih via undangan. Syarat ketat: toko gak lagi penalti/Mode Libur, penilaian toko ≥20 & rata-rata ≥3, produk min. 4 bintang & 10 penilaian & 1 pesanan/30 hari. Harga promo WAJIB min. 6% lebih rendah dari harga terendah 14 hari terakhir. Nominasi Selasa-Jumat 23:59 WIB. Setelah disetujui, rincian produk (foto/nama/stok/harga) GAK BISA diubah sampai promo berakhir.
 
+## Kapan ini dipakai
+Dipakai buat member yang UDAH DIUNDANG ikut Flash Sale Shopee (bukan Flash Sale Toko Saya yang bisa dibuat sendiri) — cek syarat kelayakan toko/produk, jadwal nominasi, atau kenapa produknya ditolak. Kalau member belum pernah diundang, arahkan tingkatkan performa toko dulu via Flash Sale Toko Saya (`shp-promosi-003`/`004`). Buat cek performa Flash Sale yang udah jalan, arahkan ke `shp-promosi-002`.
 
+## Isi
 
-Flash Sale Shopee merupakan promo terbaik dari Shopee yang memberikan penawaran secara eksklusif untuk jangka waktu terbatas.
+Nominasi Flash Sale Shopee terbuka hanya untuk Penjual terpilih yang diberi akses untuk menominasikan produknya. Jika Anda belum terpilih untuk berpartisipasi dalam promo Flash Sale Shopee, Anda dapat meningkatkan performa toko dengan membuat[ Flash Sale Toko Saya](https://seller.shopee.co.id/edu/article/6998) terlebih dahulu.
 
   
 
@@ -253,3 +257,31 @@ Saat ini, pembelian Paket Slot Boosting pada Flash Sale Shopee hanya tersedia un
 Pelajari lebih lanjut tentang[ FAQ Pembelian Paket Slot Flash Sale Boosting Shopee](https://seller.shopee.co.id/edu/article/21081).
 
 Setelah membeli paket yang diinginkan, Anda akan diarahkan kembali ke halaman Nominasi Produk untuk mulai menominasikan produk Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Periode nominasi | Selasa (setelah undangan) s.d. Jumat pk. 23:59 WIB |
+| Maks. masa pengemasan (Maks. Dikirim Dalam) | maks. 2 hari |
+| Penilaian toko minimum | ≥20 |
+| Rata-rata penilaian toko minimum | ≥3 |
+| Penilaian produk minimum | min. 4 bintang |
+| Jumlah penilaian produk minimum | min. 10 penilaian |
+| Riwayat pesanan produk | min. 1 pesanan dalam 30 hari terakhir |
+| Harga promo vs harga terendah 14 hari terakhir | min. 6% lebih rendah |
+| Min. stok produk buat nominasi | min. 5 |
+| Maks. stok per variasi | maks. 350 |
+| Batas maks. belanja per produk yang bisa diatur | maks. 12 |
+| Kedaluwarsa min. (Kesehatan/Kecantikan/Ibu & Bayi) | ≥3 bulan sejak tampil di Flash Sale |
+| Kedaluwarsa min. (Makanan & Minuman) | ≥1 bulan sejak tampil di Flash Sale |
+| Format & ukuran foto produk | PNG 800×800px, maks. 300 KB |
+
+## Pertanyaan diagnosa
+
+1. **Member bingung beda Flash Sale Shopee vs Flash Sale Toko Saya?** Flash Sale Shopee = Shopee yang pilih produk & undang Penjual terpilih, tampil di halaman utama app. Flash Sale Toko Saya = Penjual bikin & atur sendiri, tampil di toko sendiri, terbuka buat semua Penjual yang penuhi kriteria.
+2. **Member udah disetujui ikut Flash Sale, mau ubah harga/foto/stok produknya?** GAK BISA — begitu produk disetujui, rincian produk TERKUNCI sampai promo berakhir. Masa pengemasan pun gak bisa diubah lagi setelah disetujui.
+3. **Produk member ditolak nominasi, kenapa?** Cek banyak kemungkinan: kategori Kesehatan/Kecantikan tanpa Izin Edar BPOM, kategori Elektronik tanpa Sertifikasi APT, produk bekas/preloved/refurbished/share-in-jar/MLM, atau kedaluwarsa kurang dari syarat minimum kategorinya.
+4. **Member coba naikin harga produk dulu sebelum ikutan Flash Sale biar diskonnya kelihatan gede?** DILARANG KERAS — itu manipulasi harga, sistem bandingkan sama harga TERENDAH 14 hari terakhir, bukan harga yang baru dinaikkan.
+5. **Member gak diundang Flash Sale Shopee, gimana caranya biar diundang?** Gak ada cara daftar manual — jaga poin penalti tetap 0 dan Kesehatan Toko baik, itu ningkatin peluang DIUNDANG oleh Shopee.
+6. **Member mau ikut tapi stok produknya cuma 3?** Gak memenuhi syarat — minimal stok buat nominasi adalah 5.

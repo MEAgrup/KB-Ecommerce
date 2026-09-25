@@ -11,15 +11,19 @@ valid_as_of: 2026-07
 sources:
   - file: mj---iklan-shopee/promo-khusus-pengguna-iklan-shopee.md
     bagian: "artikel penuh"
+related: [shp-biaya-008]
 ---
 # Promo Khusus Pengguna Iklan Shopee
 
 ## Ringkasan
-**Promo Khusus Pengguna Iklan**
+Promo Khusus Pengguna Iklan = diskon biaya layanan Gratis Ongkir XTRA (per kategori A-H, s.d. 1,5% lebih rendah) buat toko yang aktif pasang iklan. Syarat Ads Take Rate (Biaya Iklan Bersih ÷ Total Penjualan 30 hari): min. 3% buat kebanyakan kategori, TAPI cuma min. 0,5% buat toko yang ≥50% penjualannya dari Elektronik (Komputer/Laptop/Handphone/Tablet dll) atau Fashion (Perhiasan Berharga/Logam Mulia). Biaya Iklan Bersih = Biaya Iklan + Bonus Saldo Iklan + Bonus Saldo dari Proteksi ROAS.
 
+## Kapan ini dipakai
+Dipakai kalau member nanya cara dapat biaya Gratis Ongkir XTRA yang lebih murah lewat pemakaian iklan, atau cara hitung Ads Take Rate toko sendiri. Buat detail persentase biaya Gratis Ongkir XTRA per kategori tanpa promo iklan, arahkan ke `shp-biaya-008`.
 
+## Isi
 
-Promo Khusus Pengguna Iklan adalah salah satu bentuk promo yang memungkinkan Penjual untuk dapat menikmati biaya layanan Program Opsional Gratis Ongkir XTRA yang lebih rendah lewat penggunaan Biaya Iklan Bersih di Toko Penjual. 
+Partisipasi program Gratis Ongkir XTRA dan Iklan Shopee bersifat opsional. Penjual memiliki kebebasan untuk berpartisipasi/tidak berpartisipasi dalam kedua program tersebut sesuai dengan strategi bisnis masing-masing. 
 
   
 
@@ -144,3 +148,24 @@ Dapatkan data melalui halaman[ Performa Toko](https://seller.shopee.co.id/datace
 **Ilustrasi Perhitungan Persentase Biaya Iklan Bersih terhadap Penjualan (Ads Take Rate)**
 
 Untuk membantu memahami cara kerja program ini, berikut contoh simulasi perhitungan Persentase Biaya Iklan Bersih terhadap Penjualan (*Ads Take Rate*).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Ads Take Rate minimum (kategori umum) | min. 3% dari total penjualan 30 hari terakhir |
+| Ads Take Rate minimum (kategori Elektronik/Fashion tertentu, ≥50% penjualan) | min. 0,5% dari total penjualan 30 hari terakhir |
+| Diskon biaya Gratis Ongkir XTRA vs skema reguler | s.d. 1,5% lebih rendah |
+| Plafon biaya (produk ukuran biasa) | maks. Rp40.000/kuantitas produk |
+| Plafon biaya (produk ukuran khusus) | maks. Rp60.000/kuantitas produk |
+| Komponen Biaya Iklan Bersih | Biaya Iklan (per klik & per 1000x dilihat) + Bonus Saldo Iklan + Bonus Saldo dari Proteksi ROAS |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau Ads Take Rate minimum buat tokonya berapa?** Cek dulu komposisi kategori penjualan toko (via Seller Centre) — kalau ≥50% penjualan dari Elektronik (Komputer/Laptop/Handphone/Tablet) atau Fashion (Perhiasan Berharga/Logam Mulia), cukup min. 0,5%; selain itu min. 3%.
+2. **Member nanya cara hitung Ads Take Rate manual?** Rumus: (Biaya Iklan + Bonus Saldo Iklan + Bonus Saldo Proteksi ROAS) ÷ Total Penjualan, keduanya dari periode 30 hari terakhir — data Biaya Iklan dari halaman Iklan Shopee, Total Penjualan dari halaman Performa Toko.
+3. **Member mau tau biaya Gratis Ongkir XTRA-nya berapa persen buat kategori spesifik?** Cari kode huruf kategori (A-H) di tabel `## Isi`, cocokkan produk ukuran biasa/khusus — TAPI kalau butuh tau kategori mana yang masuk huruf apa, arahkan cek link "Biaya Layanan Gratis Ongkir XTRA Per Kategori Produk" karena mapping detailnya gak lengkap tersalin di entry ini.
+4. **Member gak pasang iklan sama sekali, masih bisa dapat diskon ini?** TIDAK — program ini KHUSUS Pengguna Iklan aktif yang penuhi ambang Ads Take Rate minimum.
+
+## Batasan
+Bagian "Ilustrasi Perhitungan Persentase Biaya Iklan Bersih terhadap Penjualan" di akhir sumber ini gak ada isinya (kemungkinan tabel/gambar contoh perhitungan hilang saat scraping) — kalau member butuh contoh perhitungan konkret, jangan karang angka, arahkan hitung manual pakai rumus di Pertanyaan diagnosa #2 atau cek data asli di Seller Centre.

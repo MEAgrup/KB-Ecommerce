@@ -11,15 +11,19 @@ valid_as_of: 2026-07
 sources:
   - file: mj---affiliate-marketing-solution-ams/10-tentang-affiliate-marketing-solution-ams.md
     bagian: "artikel penuh"
+related: [shp-afiliasi-002, shp-afiliasi-003, shp-afiliasi-004]
 ---
 # 1.0 Tentang Affiliate Marketing Solution (AMS)
 
 ## Ringkasan
-**Apa itu Affiliate Marketing Solution (AMS)?**
+AMS = kerja sama Penjual-Affiliate berbasis komisi (2 jenis: Komisi XTRA Produk buat semua Affiliate, Komisi XTRA Khusus buat Affiliate pilihan, wajib lebih tinggi dari Produk). Komisi cuma dibayar buat Pesanan Sah (gak dibatalkan/dikembalikan/melanggar S&K). Pesanan Langsung (klik link → checkout langsung) dapat komisi penuh; Pesanan Tidak Langsung (via rekomendasi Shopee setelah klik link) cuma setengahnya. Ada Proteksi Komisi XTRA (7 hari) yang lindungi Affiliate dari penurunan komisi mendadak. Gak tersedia buat Produk Digital & Obat Bebas (OTC).
 
+## Kapan ini dipakai
+Entry MASTER/RUJUKAN AMS — dipakai buat pertanyaan konsep dasar, jenis komisi, mekanisme pembayaran/pemotongan, atau FAQ umum AMS. Buat topik spesifik (Sampel Gratis, YouTube Shopping, Iklan Affiliate Facebook), arahkan ke entry terkait (`shp-afiliasi-002`/`003`/`004`).
 
+## Isi
 
-﻿﻿﻿﻿﻿Affiliate Marketing Solution adalah program yang membantu mempromosikan produk secara lebih luas melalui kolaborasi dengan jutaan mitra *Affiliate* Shopee, sehingga dapat menjangkau lebih banyak Pembeli dan meningkatkan penjualan.
+Affiliate Marketing Solution adalah program yang membantu mempromosikan produk secara lebih luas melalui kolaborasi dengan jutaan mitra *Affiliate* Shopee, sehingga dapat menjangkau lebih banyak Pembeli dan meningkatkan penjualan.
 
 **Keuntungan Menggunakan Affiliate Marketing Solution (AMS)**
 
@@ -420,3 +424,32 @@ Berikut adalah jenis laporan yang dapat Anda akses di Seller Centre:
 **11. Dimana saya dapat meng-**download** **Faktur Pajak AMS saya?**
 
 Faktur Pajak dari AMS akan diterima oleh Penjual melalui email selambat-lambatnya tanggal 15 di bulan berikutnya. Apabila Penjual belum mendapatkan Faktur Pajak biaya AMS, Anda dapat menghubungi Tim Shopee atau[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Komisi Pesanan Langsung | 100% dari komisi yang diatur |
+| Komisi Pesanan Tidak Langsung | 50% dari komisi yang diatur |
+| Window transaksi dianggap milik Affiliate (klik link → checkout) | 7 hari |
+| Maks. produk per pengaturan Komisi XTRA Khusus | 1.000 produk |
+| Maks. Affiliate per pengaturan Komisi XTRA Khusus | 200 Affiliate |
+| Masa aktif komisi setelah dihapus/dihentikan | tetap aktif 7 hari ke depan (pesanan periode itu tetap kena komisi) |
+| Waktu validasi Pesanan Sah | ~36 jam setelah pesanan terselesaikan |
+| Batas waktu percobaan potong Saldo Penjual otomatis | H+7 sejak pesanan tervalidasi |
+| Link Pembayaran diterbitkan | tanggal 18 bulan berikutnya (kalau potongan Saldo Penjual gagal) |
+| Refund komisi kalau pesanan dikembalikan setelah selesai | maks. 60 hari kerja ke Saldo Penjual |
+| Proteksi Komisi XTRA (Affiliate tetap dapat komisi lama) | 7 hari kalender sejak komisi diturunkan |
+| Faktur Pajak AMS diterima | selambatnya tanggal 15 bulan berikutnya |
+| PPN atas biaya komisi | 11% |
+
+## Pertanyaan diagnosa
+
+1. **Member bingung beda Komisi XTRA Produk vs Khusus?** Produk = buat SEMUA Affiliate, gak bisa pilih; Khusus = Penjual PILIH Affiliate spesifik (maks. 200) & produk (maks. 1.000), dan WAJIB komisinya lebih tinggi dari Komisi XTRA Produk.
+2. **Member turunkan komisi, tapi Affiliate protes masih dapat komisi lama?** Itu Proteksi Komisi XTRA — kalau Affiliate memenuhi syarat, mereka tetap dapat komisi LAMA selama 7 hari kalender sejak penurunan, bukan bug.
+3. **Member hapus/hentikan komisi, kenapa masih kena biaya komisi buat pesanan baru?** Komisi yang dihapus TETAP aktif 7 hari ke depan — pesanan yang masuk dalam window itu tetap kena biaya komisi, gak langsung berhenti begitu diklik Hapus.
+4. **Member nanya kenapa potongan komisinya beda dari yang diatur?** Cek 2 kemungkinan: (a) produk punya beberapa komisi aktif bersamaan → dipotong pakai yang PALING TINGGI, (b) pesanan Tidak Langsung → cuma setengah dari komisi yang diatur.
+5. **Member gak nemu Saldo Penjual buat bayar komisi, gimana?** Sistem coba potong otomatis sampai H+7, kalau masih gagal Shopee terbitkan Link Pembayaran (tanggal 18 bulan depan) — kalau gak dibayar, Saldo Penjual DIBEKUKAN sampai lunas.
+6. **Member nanya kenapa transaksi gak kehitung sebagai transaksi Affiliate?** Cek urutan klik — kalau Pembeli klik link LAIN (bukan link Affiliate) sebelum checkout, transaksi itu gak dihitung sebagai punya Affiliate itu, meski sebelumnya sempat klik link Affiliate.
+7. **Pesanan AMS dikembalikan Pembeli setelah selesai, komisi yang udah kepotong gimana?** Dikembalikan ke Saldo Penjual, maks. 60 hari kerja sejak pesanan selesai — bukan otomatis instan.
+8. **Member jual Produk Digital atau Obat Bebas (OTC), bisa ikut AMS?** TIDAK — 2 kategori ini dikecualikan total dari program AMS.
