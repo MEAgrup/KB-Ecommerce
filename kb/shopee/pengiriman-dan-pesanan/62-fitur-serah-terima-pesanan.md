@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: pp---penyelesaian-pesanan/fitur-serah-terima-pesanan.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-051, shp-pengiriman-055]
 ---
 # Fitur Serah Terima Pesanan
 
 ## Ringkasan
+Fitur monitoring pick-up/drop-off: rumus Pickup Terjadwal = Pickup Selesai + Menunggu Pickup (buat rekonsiliasi). Pickup Selesai dihitung dari jam 06.00 WIB hari ini SAMPAI 06.00 WIB besok. Bisa download laporan pick-up/drop-off selesai dalam 3 HARI TERAKHIR. Paket yang belum di-scan kurir = "Menunggu Pickup", berisiko dibatalkan kalau gak selesai dalam batas waktu.
+
+## Kapan ini dipakai
+Dipakai kalau member mau pantau/rekonsiliasi status pick-up atau drop-off pesanan secara detail. Buat cetak resi otomatis/manual, arahkan ke `shp-pengiriman-051`; buat Pengiriman Massal, arahkan ke `shp-pengiriman-055`.
+
+## Isi
+
 **Tentang Fitur Serah Terima Pesanan**
 
 
@@ -136,3 +144,21 @@ Pantau jumlah paket yang harus Anda kirimkan untuk setiap kurir.
 **2.** **Download** **laporan untuk pengantaran yang telah selesai**
 
 *Export* laporan pengantaran yang telah selesai dalam 3 hari terakhir untuk catatan Anda sendiri. Laporan tersebut akan mencakup informasi penting seperti nomor pesanan, nomor pelacakan, kurir, jasa kirim, dan waktu pengantaran untuk referensi Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jendela hitung Pickup Selesai | pk. 06.00 WIB hari ini s.d. pk. 06.00 WIB hari berikutnya |
+| Rumus rekonsiliasi | Pickup Terjadwal = Pickup Selesai + Menunggu Pickup |
+| Rentang laporan Pickup Selesai/Drop Off Selesai yang bisa di-download | 3 hari terakhir |
+| Contoh ilustrasi rekonsiliasi | Pickup Terjadwal 300, Pickup Selesai 298 → Menunggu Pickup 2 |
+
+## Pertanyaan diagnosa
+
+1. **Member Pickup Terjadwal 300, Pickup Selesai cuma 298, artinya apa?** Ada 2 paket yang MASIH "Menunggu Pickup" — segera serahkan ke kurir atau tunggu proses hari berikutnya, sesuai rumus Pickup Terjadwal = Pickup Selesai + Menunggu Pickup.
+2. **Member bingung kenapa paket yang udah di-pickup kurir belum keupdate statusnya?** Wajar — beberapa kurir gak scan paket di tempat, update status bisa BARU muncul sampai pukul 06:00 WIB keesokan harinya.
+3. **Member curiga jumlah Pickup Selesai di sistem gak sesuai kenyataan?** Hubungi LANGSUNG kurir atau pihak jasa kirim buat konfirmasi, jangan cuma andalkan angka di sistem.
+4. **Member mau download bukti pick-up buat pembukuan bulan lalu?** GAK BISA — laporan Pickup Selesai/Drop Off Selesai cuma bisa di-download buat 3 HARI TERAKHIR.
+5. **Paket member statusnya "Menunggu Pickup" udah lama gak berubah?** Cek label peringatan potensi pembatalan — kalau pick-up gak selesai dalam jangka waktu tertentu, pesanan berisiko batal.
+6. **Member mau cari counter drop-off terdekat buat jasa kirim tertentu?** Cek kolom "Counter Terdekat" di tab Perlu Antar ke Counter — beberapa jasa kirim ada link langsung ke situs mereka buat cari lokasi lain.

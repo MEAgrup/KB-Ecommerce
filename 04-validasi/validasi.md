@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **800**
+- PERINGATAN: **783**
 
 ## Status entry
 
@@ -969,59 +969,42 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/pengiriman-dan-pesanan/55-mengatur-pengiriman-massal.md` · shp-pengiriman-055
 
 - sumber tanpa penunjuk bagian: file: pp---pengiriman-massal/mengatur-pengiriman-massal.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1585 kata — kemungkinan dua topik yang belum dipisah
+- 1929 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/56-apa-itu-thermal-printer.md` · shp-pengiriman-056
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/apa-itu-thermal-printer.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/57-apa-perbedaan-antara-mengatur-pengiriman-dan-mengirimkan-pesanan.md` · shp-pengiriman-057
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/apa-perbedaan-antara-mengatur-pengirim
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/58-bagaimana-cara-melacak-pengiriman-saya.md` · shp-pengiriman-058
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/bagaimana-cara-melacak-pengiriman-saya
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/59-bagaimana-cara-saya-menempelkan-resi.md` · shp-pengiriman-059
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/bagaimana-cara-saya-menempelkan-resi.m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/60-faq-tampilan-informasi-pembeli.md` · shp-pengiriman-060
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/faq-tampilan-informasi-pembeli.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1619 kata — kemungkinan dua topik yang belum dipisah
+- 2019 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/61-faq-thermal-printer.md` · shp-pengiriman-061
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/faq-thermal-printer.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/62-fitur-serah-terima-pesanan.md` · shp-pengiriman-062
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/fitur-serah-terima-pesanan.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1233 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/63-kelola-pengiriman-yang-gagal.md` · shp-pengiriman-063
 
 - sumber tanpa penunjuk bagian: file: pp---penyelesaian-pesanan/kelola-pengiriman-yang-gagal.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1240 kata — kemungkinan dua topik yang belum dipisah
+- 1725 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/64-mencetak-resi-dengan-optimal.md` · shp-pengiriman-064
 

@@ -2686,7 +2686,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-066, shp-pengiriman-051",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/55-mengatur-pengiriman-massal.md"
   },
@@ -2699,7 +2699,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2025-06",
-    "related": "",
+    "related": "shp-pengiriman-061, shp-pengiriman-064",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/56-apa-itu-thermal-printer.md"
   },
@@ -2712,7 +2712,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-051, shp-pengiriman-053",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/57-apa-perbedaan-antara-mengatur-pengiriman-dan-mengirimkan-pesanan.md"
   },
@@ -2725,7 +2725,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-09",
-    "related": "",
+    "related": "shp-pengiriman-057, shp-pengiriman-052",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/58-bagaimana-cara-melacak-pengiriman-saya.md"
   },
@@ -2738,7 +2738,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-09",
-    "related": "",
+    "related": "shp-pengiriman-064, shp-pengiriman-051",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/59-bagaimana-cara-saya-menempelkan-resi.md"
   },
@@ -2751,7 +2751,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-05",
-    "related": "",
+    "related": "shp-pengiriman-054, shp-pengiriman-063",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/60-faq-tampilan-informasi-pembeli.md"
   },
@@ -2764,7 +2764,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-09",
-    "related": "",
+    "related": "shp-pengiriman-056, shp-pengiriman-064",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/61-faq-thermal-printer.md"
   },
@@ -2777,7 +2777,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-051, shp-pengiriman-055",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/62-fitur-serah-terima-pesanan.md"
   },
@@ -2790,7 +2790,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-060, shp-pesanan-006",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/63-kelola-pengiriman-yang-gagal.md"
   },

@@ -11,10 +11,18 @@ valid_as_of: 2025-09
 sources:
   - file: pp---penyelesaian-pesanan/bagaimana-cara-melacak-pengiriman-saya.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-057, shp-pengiriman-052]
 ---
 # Bagaimana Cara Melacak Pengiriman Saya?
 
 ## Ringkasan
+Tab "Perlu Dikirim" punya 4 sub-tab: Semua, Perlu diproses, Telah diproses, Tertunda (cuma muncul kalau ada). Status "Status | Hitungan Mundur": Perlu Dikirim → Dikirim → Selesai. Bisa cari pesanan yang udah dikirim berdasarkan No. Pesanan/Nama Pembeli/Produk/No. Resi. Aplikasi Shopee punya filter tambahan "Tipe Pemrosesan Pesanan" (Diproses oleh Shopee vs Penjual).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara lacak status pesanan/pengiriman di Seller Centre atau aplikasi. Buat beda atur pengiriman vs mengirimkan pesanan, arahkan ke `shp-pengiriman-057`; buat status "Tertunda" spesifik, arahkan ke `shp-pengiriman-052`.
+
+## Isi
+
 Anda dapat melacak pengiriman melalui Seller Centre di menu **Pesanan** pada halaman **Pesanan Saya** atau di bawah *tab* **Perlu Dikirim** dan **Dikirim** melalui aplikasi Shopee.
 
 
@@ -120,3 +128,18 @@ Lihat pesanan yang memerlukan pengiriman dengan mengakses *tab* **Saya** \> **To
   
 
 Gunakan *tab* **Dikirim** untuk melihat rincian pesanan yang telah Anda kirim.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah sub-tab di dalam "Perlu Dikirim" (Seller Centre) | 4 (Semua, Perlu diproses, Telah diproses, Tertunda) |
+| Jumlah status di kolom Status/Hitungan Mundur | 3 (Perlu Dikirim, Dikirim, Selesai) |
+
+## Pertanyaan diagnosa
+
+1. **Member mau cek pesanan yang udah lama dibuat, pending diproses duluan?** Urutkan berdasarkan "Pesanan Dibuat" — atau pakai "Batas Pengiriman" buat prioritaskan yang mepet deadline.
+2. **Member gak nemu tab "Tertunda" di halaman Perlu Dikirim?** Normal — tab ini CUMA muncul kalau member LAGI PUNYA pesanan yang statusnya tertunda (sedang diverifikasi Shopee).
+3. **Member mau cari 1 pesanan spesifik di antara banyak pesanan yang udah dikirim?** Bisa cari berdasarkan No. Pesanan, Nama Pembeli, Produk, atau No. Resi di tab Dikirim.
+4. **Member (yang ikut Dikelola Shopee) mau bedain pesanan yang diproses Shopee vs diproses sendiri?** Di aplikasi Shopee, pakai filter "Tipe Pemrosesan Pesanan" — pilih "Diproses oleh Shopee" atau "Diproses oleh Penjual".
+5. **Member mau tau estimasi kapan dana penjualan pesanan tertentu dilepas?** Cek kolom "Status | Hitungan Mundur" di tab Dikirim — ada estimasi pelepasan dana penjualan di situ.

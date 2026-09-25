@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: pp---pengiriman-massal/mengatur-pengiriman-massal.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-066, shp-pengiriman-051]
 ---
 # Mengatur Pengiriman Massal
 
 ## Ringkasan
+Pengiriman Massal buat proses banyak pesanan sekaligus, filter lengkap (Batas Pengiriman, Jasa Kirim, Status, Tipe Pesanan, Pre-Order, dll). Jam Pickup oleh kurir CUMA tersedia buat SPX Standard. Fitur Pesanan Gabungan otomatis gabung pesanan dari Pembeli+alamat SAMA (syarat: tanggal sama, gudang sama, jasa kirim sama, BUKAN COD, BUKAN pre-order) — 1 resi buat semua, TIDAK BISA dipisah setelah diatur pengiriman.
+
+## Kapan ini dipakai
+Dipakai kalau member mau proses banyak pesanan sekaligus (Pengiriman Massal), atau nanya soal Fitur Pesanan Gabungan otomatis. Buat fitur Multi-Gudang, arahkan ke `shp-pengiriman-066`; buat cara cetak resi dasar, arahkan ke `shp-pengiriman-051`.
+
+## Isi
+
 **Tentang Proses Pengiriman Massal**
 
 
@@ -234,3 +242,22 @@ Anda juga dapat memisahkan pesanan secara massal untuk dikemas dan dikirimkan ma
 **Menerima Pembatalan Pesanan untuk Pesanan Gabungan**
 
 Jika Pembeli membatalkan pesanan setelah Anda mengatur pengiriman untuk pesanan gabungan, Anda tetap dapat melanjutkan pengiriman untuk pesanan lainnya dengan mengkonfirmasi pembatalan.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jasa kirim yang dukung Jam Pickup oleh Kurir (Selain Instant) | SPX Standard saja |
+| Tanggal larangan ubah alamat toko saat atur pengiriman | mulai 22 Oktober 2025 |
+| Jumlah resi per Pesanan Gabungan | 1 resi (mewakili semua pesanan individual) |
+| Jumlah syarat kriteria Pesanan Gabungan otomatis | 7 kriteria |
+
+## Pertanyaan diagnosa
+
+1. **Member pakai jasa kirim selain SPX Standard, mau atur Jam Pickup oleh Kurir?** GAK BISA — fitur ini CUMA tersedia buat jasa kirim SPX Standard.
+2. **Pembeli pesan 3 produk terpisah tapi mau digabung jadi 1 paket?** Sistem otomatis gabung KALAU penuhi 7 syarat: Pembeli & alamat sama, tanggal pesan sama, gudang sama (kalau pakai Multi-Gudang), tanggal kirim sama, jasa kirim & tipe layanan sama, BUKAN COD, dan BUKAN pre-order.
+3. **Member udah atur pengiriman pesanan gabungan, mau pisah lagi karena berubah pikiran?** TIDAK BISA — Pesanan Gabungan gak bisa dipisahkan SETELAH pengiriman diatur; pisahkan DULU sebelum atur pengiriman kalau memang perlu.
+4. **Member cetak resi Pesanan Gabungan 2x karena takut hilang?** JANGAN — 1 pesanan gabungan cuma punya 1 resi, cetak dobel berisiko DUPLIKASI pengiriman paket.
+5. **Salah satu pesanan dalam Pesanan Gabungan dibatalkan Pembeli setelah pengiriman diatur?** Member TETAP BISA lanjutkan pengiriman buat pesanan lainnya dengan konfirmasi pembatalan yang masuk.
+6. **Member mau kirim pesanan tanpa no. resi (Jasa Kirim Lainnya) biar cepat?** BISA tapi SANGAT TIDAK DIANJURKAN — no. resi penting buat pelacakan pengiriman dari awal sampai selesai.
+7. **Member mau atur alamat pick-up beda dari alamat toko terdaftar pas Pengiriman Massal?** Sejak 22 Oktober 2025, alamat toko GAK BISA diubah saat atur pengiriman — kalau kirim dari lokasi beda, selisih ongkir DITANGGUNG PENJUAL.

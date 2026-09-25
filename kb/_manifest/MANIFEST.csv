@@ -205,15 +205,15 @@ shp-pengiriman-051,Memproses & Mengirimkan Pesanan,shopee,pengiriman-dan-pesanan
 shp-pengiriman-052,Mengelola Pesanan Tertunda,shopee,pengiriman-dan-pesanan,1,canonical,true,2025-11,"shp-pengiriman-047, shp-pesanan-002",,shopee/pengiriman-dan-pesanan/52-mengelola-pesanan-tertunda.md
 shp-pengiriman-053,Menyelesaikan Pesanan Pertama Anda,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-07,"shp-pengiriman-051, shp-pengiriman-052",,shopee/pengiriman-dan-pesanan/53-menyelesaikan-pesanan-pertama-anda.md
 shp-pengiriman-054,Tampilan Informasi Pembeli,shopee,pengiriman-dan-pesanan,1,canonical,true,2026-02,"shp-pengiriman-060, shp-pengiriman-048",,shopee/pengiriman-dan-pesanan/54-tampilan-informasi-pembeli.md
-shp-pengiriman-055,Mengatur Pengiriman Massal,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-03,,,shopee/pengiriman-dan-pesanan/55-mengatur-pengiriman-massal.md
-shp-pengiriman-056,Apa Itu Thermal Printer?,shopee,pengiriman-dan-pesanan,1,canonical,false,2025-06,,,shopee/pengiriman-dan-pesanan/56-apa-itu-thermal-printer.md
-shp-pengiriman-057,Apa Perbedaan antara Mengatur Pengiriman dan Mengirimkan Pesanan?,shopee,pengiriman-dan-pesanan,1,canonical,true,2026-03,,,shopee/pengiriman-dan-pesanan/57-apa-perbedaan-antara-mengatur-pengiriman-dan-mengirimkan-pesanan.md
-shp-pengiriman-058,Bagaimana Cara Melacak Pengiriman Saya?,shopee,pengiriman-dan-pesanan,2,canonical,true,2025-09,,,shopee/pengiriman-dan-pesanan/58-bagaimana-cara-melacak-pengiriman-saya.md
-shp-pengiriman-059,Bagaimana Cara Saya Menempelkan Resi?,shopee,pengiriman-dan-pesanan,1,canonical,false,2022-09,,,shopee/pengiriman-dan-pesanan/59-bagaimana-cara-saya-menempelkan-resi.md
-shp-pengiriman-060,FAQ Tampilan Informasi Pembeli,shopee,pengiriman-dan-pesanan,2,canonical,true,2025-05,,,shopee/pengiriman-dan-pesanan/60-faq-tampilan-informasi-pembeli.md
-shp-pengiriman-061,FAQ Thermal Printer,shopee,pengiriman-dan-pesanan,1,canonical,false,2022-09,,,shopee/pengiriman-dan-pesanan/61-faq-thermal-printer.md
-shp-pengiriman-062,Fitur Serah Terima Pesanan,shopee,pengiriman-dan-pesanan,2,canonical,false,2026-07,,,shopee/pengiriman-dan-pesanan/62-fitur-serah-terima-pesanan.md
-shp-pengiriman-063,Kelola Pengiriman yang Gagal,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-07,,,shopee/pengiriman-dan-pesanan/63-kelola-pengiriman-yang-gagal.md
+shp-pengiriman-055,Mengatur Pengiriman Massal,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-03,"shp-pengiriman-066, shp-pengiriman-051",,shopee/pengiriman-dan-pesanan/55-mengatur-pengiriman-massal.md
+shp-pengiriman-056,Apa Itu Thermal Printer?,shopee,pengiriman-dan-pesanan,1,canonical,false,2025-06,"shp-pengiriman-061, shp-pengiriman-064",,shopee/pengiriman-dan-pesanan/56-apa-itu-thermal-printer.md
+shp-pengiriman-057,Apa Perbedaan antara Mengatur Pengiriman dan Mengirimkan Pesanan?,shopee,pengiriman-dan-pesanan,1,canonical,true,2026-03,"shp-pengiriman-051, shp-pengiriman-053",,shopee/pengiriman-dan-pesanan/57-apa-perbedaan-antara-mengatur-pengiriman-dan-mengirimkan-pesanan.md
+shp-pengiriman-058,Bagaimana Cara Melacak Pengiriman Saya?,shopee,pengiriman-dan-pesanan,2,canonical,true,2025-09,"shp-pengiriman-057, shp-pengiriman-052",,shopee/pengiriman-dan-pesanan/58-bagaimana-cara-melacak-pengiriman-saya.md
+shp-pengiriman-059,Bagaimana Cara Saya Menempelkan Resi?,shopee,pengiriman-dan-pesanan,1,canonical,false,2022-09,"shp-pengiriman-064, shp-pengiriman-051",,shopee/pengiriman-dan-pesanan/59-bagaimana-cara-saya-menempelkan-resi.md
+shp-pengiriman-060,FAQ Tampilan Informasi Pembeli,shopee,pengiriman-dan-pesanan,2,canonical,true,2025-05,"shp-pengiriman-054, shp-pengiriman-063",,shopee/pengiriman-dan-pesanan/60-faq-tampilan-informasi-pembeli.md
+shp-pengiriman-061,FAQ Thermal Printer,shopee,pengiriman-dan-pesanan,1,canonical,false,2022-09,"shp-pengiriman-056, shp-pengiriman-064",,shopee/pengiriman-dan-pesanan/61-faq-thermal-printer.md
+shp-pengiriman-062,Fitur Serah Terima Pesanan,shopee,pengiriman-dan-pesanan,2,canonical,false,2026-07,"shp-pengiriman-051, shp-pengiriman-055",,shopee/pengiriman-dan-pesanan/62-fitur-serah-terima-pesanan.md
+shp-pengiriman-063,Kelola Pengiriman yang Gagal,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-07,"shp-pengiriman-060, shp-pesanan-006",,shopee/pengiriman-dan-pesanan/63-kelola-pengiriman-yang-gagal.md
 shp-pengiriman-064,Mencetak Resi dengan Optimal,shopee,pengiriman-dan-pesanan,2,canonical,true,2025-06,,,shopee/pengiriman-dan-pesanan/64-mencetak-resi-dengan-optimal.md
 shp-pengiriman-065,Mengambil Produk secara Optimal,shopee,pengiriman-dan-pesanan,2,canonical,true,2023-07,,,shopee/pengiriman-dan-pesanan/65-mengambil-produk-secara-optimal.md
 shp-pengiriman-066,Mengelola Beberapa Gudang Saya dengan Fitur Multi-Gudang,shopee,pengiriman-dan-pesanan,2,canonical,false,2026-03,,,shopee/pengiriman-dan-pesanan/66-mengelola-beberapa-gudang-saya-dengan-fitur-multi-gudang.md
