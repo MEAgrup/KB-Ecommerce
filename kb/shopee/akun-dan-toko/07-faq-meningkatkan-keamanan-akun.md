@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: umum---akun-dan-keamanan/faq-meningkatkan-keamanan-akun.md
     bagian: "artikel penuh"
+related: [shp-akun-010, shp-akun-001]
 ---
 # FAQ Meningkatkan Keamanan Akun
 
 ## Ringkasan
+FAQ keamanan akun umum + Metode Verifikasi Tambahan (buat tindakan berisiko tinggi kayak tambah rekening/ganti PIN). 3 opsi metode: Pertanyaan Keamanan (3 pertanyaan wajib, jawaban huruf+angka), Perangkat Tepercaya (maks. 3 perangkat), Email Keamanan. WAJIB aktifkan Pertanyaan Keamanan + minimal 1 metode tambahan lainnya. Aktivasi cuma butuh 1-2 menit. Metode verifikasi tambahan CUMA bisa diatur via akun Penjual langsung (bukan Akun Utama/Sub-Akun Sistem Sub Akun).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya kenapa dapat notifikasi login asing, akun dibatasi, atau cara aktifkan Metode Verifikasi Tambahan. Buat detail lengkap kenapa akun dibatasi, arahkan ke `shp-akun-010`; buat Sistem Sub Akun (kenapa metode verifikasi tambahan gak muncul di Sub Akun), arahkan ke `shp-akun-001`.
+
+## Isi
+
 **Umum**
 
 
@@ -145,3 +153,22 @@ Proses aktivasi membutuhkan waktu sekitar 1-2 menit.
 **7. Bagaimana saya dapat mengetahui apabila metode verifikasi tambahan pada akun saya sudah aktif?**
 
 Status metode verifikasi tambahan akan berubah menjadi '**Telah diatur**'. Anda hanya dapat melihat status verifikasi ini melalui Seller Centre.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah Pertanyaan Keamanan wajib | 3 pertanyaan |
+| Maks. Perangkat Tepercaya terdaftar | 3 perangkat |
+| Metode verifikasi wajib diaktifkan | Pertanyaan Keamanan + minimal 1 metode tambahan lainnya |
+| Waktu proses aktivasi metode tambahan | ~1-2 menit |
+| Frekuensi minimum cek Saldo Penjual (kalau akun dipakai banyak orang & gak ada akses Sub Akun) | minimal 1x sebulan |
+
+## Pertanyaan diagnosa
+
+1. **Member dapat notifikasi login perangkat baru padahal dia gak login?** WASPADA — segera ganti password + PIN Saldo Penjual, lalu hubungi Customer Service Shopee.
+2. **Member mau aktifkan Metode Verifikasi Tambahan tapi opsinya gak muncul di Seller Centre?** Cek — fitur ini CUMA bisa diakses via akun PENJUAL langsung, BUKAN lewat Akun Utama/Sub-Akun di Sistem Sub Akun. Khusus penjual Program Ekspor Shopee FLEXI, atur lewat aplikasi Shopee.
+3. **Member cuma mau aktifkan 1 metode verifikasi tambahan (misal Email Keamanan doang)?** TIDAK CUKUP — wajib aktifkan Pertanyaan Keamanan DULU, baru ditambah minimal 1 metode lain (Perangkat Tepercaya atau Email Keamanan).
+4. **Member udah punya 3 Perangkat Tepercaya, mau tambah lagi?** TIDAK BISA — batas maksimal 3 perangkat tepercaya per akun.
+5. **Member gak yakin metode verifikasi tambahannya udah aktif atau belum?** Cek status di Seller Centre — kalau statusnya "Telah diatur", berarti sudah aktif (status ini CUMA bisa dilihat lewat Seller Centre, bukan aplikasi).
+6. **Akun toko member dipakai beberapa orang tapi gak punya fitur Sub Akun?** Ikuti 3 langkah manual: cek metode verifikasi berkala, cek Saldo Penjual & Rincian Penghasilan minimal sebulan sekali, dan ganti PIN Saldo Penjual berkala.

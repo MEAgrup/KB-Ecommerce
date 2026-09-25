@@ -11,10 +11,18 @@ valid_as_of: 2026-06
 sources:
   - file: umum---akun-dan-keamanan/mengelola-akun-shopee.md
     bagian: "artikel penuh"
+related: [shp-toko-003, shp-akun-009]
 ---
 # Mengelola Akun Shopee
 
 ## Ringkasan
+Panduan lengkap kelola akun: Username bisa di-update 1x/30 hari (CATATAN: entry ini beda dari `shp-toko-003` yang bilang cuma 1x total sepanjang umur akun — lihat Batasan), ditinjau maks. 2x24 jam. No. telepon: 1 nomor cuma 1 akun; ubah dalam kondisi login = verifikasi instan, dalam kondisi logout = 3x24 jam. Password 8-16 karakter, min. 1 huruf besar + 1 huruf kecil. Follow: gak ada batas pengikut, TAPI maks. 5.000 akun yang bisa diikuti + maks. 50.000 aksi follow/unfollow per hari. Hapus akun: maks. 2x per nomor HP, GAK BISA kalau masih ada produk aktif/pesanan belum selesai/saldo ShopeePay/tagihan SPayLater-SPinjam/akun dibatasi.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara ubah username/no.telepon/email/password, atau cara hapus akun & kenapa ditolak. Buat cara cari detail toko (ID/link/username), arahkan ke `shp-toko-003`; buat kendala login umum, arahkan ke `shp-akun-009`.
+
+## Isi
+
 **Cara Meng-update Username**
 
 
@@ -417,4 +425,28 @@ Anda hanya dapat melakukan penghapusan akun sebanyak 2x untuk 1 nomor handphone 
 Untuk mengajukan penghapusan akun, pastikan Anda tidak memiliki tunggakan/tagihan pada SPayLater/SPinjam di Shopee. Segera lakukan pelunasan terlebih dahulu apabila Anda memiliki tagihan SPayLater/SPinjam untuk Penjual.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Frekuensi update Username (per entry ini) | 1x setiap 30 hari — TAPI lihat Batasan, ada konflik sumber |
+| Waktu tinjau perubahan Username | maks. 2x24 jam |
+| Waktu proses ubah no. telepon (kondisi logout) | 3x24 jam sejak pelaporan |
+| Waktu tunggu retry ubah no. telepon yang gagal | 1x24 jam sejak percobaan terakhir |
+| Waktu proses laporan nomor sudah terdaftar di akun lain | 3x24 jam sejak laporan diajukan |
+| Panjang password | 8-16 karakter, min. 1 huruf besar + 1 huruf kecil |
+| Maks. pilihan metode verifikasi keamanan | 3 dari beberapa opsi (Verifikasi Wajah, PIN ShopeePay, Password, Link Email, Verifikasi OTP) |
+| Batas akun yang bisa diikuti | maks. 5.000 akun (jumlah pengikut TIDAK dibatasi) |
+| Batas aktivitas follow/unfollow | maks. 50.000 kali/hari |
+| Batas penghapusan akun | maks. 2x untuk 1 nomor handphone |
+
+## Pertanyaan diagnosa
+
+1. **Member mau ganti username lagi, udah pernah ganti sebulan lalu?** Menurut entry ini BISA (1x/30 hari) — TAPI ada entry lain (`shp-toko-003`) yang bilang cuma 1x seumur akun. Arahkan coba dulu lewat aplikasi/Seller Centre; kalau ditolak sistem, berarti aturan "1x total" yang berlaku dan harus hubungi CS (lihat Batasan).
+2. **Member mau daftar no. HP yang ternyata udah pernah dipakai akun lain?** Bisa jadi nomor DIDAUR ULANG operator seluler — coba login pakai nomor itu dulu (pemilik lama gak akan punya akses), atau siapkan data lengkap (nama, username, email, no. HP baru, foto identitas+selfie) buat lapor ke CS.
+3. **Member ubah no. telepon dalam kondisi logout, berapa lama diproses?** 3x24 JAM sejak pelaporan — beda dari kondisi login yang bisa langsung selesai kalau verifikasi berhasil.
+4. **Member mau hapus akun tapi pengajuan ditolak terus?** Cek 6 kemungkinan penyebab: akun dibatasi, no. HP terdaftar di akun lain, ada pesanan belum selesai (dana belum dilepas), masih ada saldo ShopeePay/transaksi berjalan, udah lewat batas 2x penghapusan per nomor HP, atau masih ada tagihan SPayLater/SPinjam.
+5. **Member ikuti 5.000 akun, mau follow 1 lagi?** GAK BISA — itu sudah batas maksimal 5.000 akun yang bisa diikuti (beda dari jumlah PENGIKUT yang gak dibatasi).
+6. **Member set password cuma 6 karakter semua huruf kecil?** DITOLAK — password wajib 8-16 karakter DAN kombinasi minimal 1 huruf besar + 1 huruf kecil.
+
+## Batasan
+Entry ini bilang Username bisa di-update **1x/30 hari**, TAPI entry lain (`shp-toko-003`, hasil scraping lebih lama) bilang Username cuma bisa diupdate **1x TOTAL** seumur akun (setelah itu wajib hubungi CS). Ini kemungkinan perubahan kebijakan antar waktu scraping, TAPI gak bisa dipastikan mana yang aktif sekarang tanpa cek sumber resmi terkini — dicatat sebagai konflik terbuka di `DECISIONS.md` (S-D-CONFLICT-005). Jangan asumsikan salah satu benar; arahkan member coba dulu di aplikasi/Seller Centre, dan kalau gagal, hubungi Customer Service Shopee buat kepastian.

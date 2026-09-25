@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: umum---poin-penalti/apa-kebijakan-shopee-tentang-paket-kosong.md
     bagian: "artikel penuh"
+related: [shp-penalti-002, shp-penalti-003]
 ---
 # Apa Kebijakan Shopee Tentang Paket Kosong?
 
 ## Ringkasan
+Paket kosong (gak ada isi, atau isinya cuma resi/catatan/barang gak bernilai kayak batu/kertas) = ZERO TOLERANCE, kena poin penalti sampai pembatasan akun — TIDAK ADA pengecualian, bahkan kalau Pembeli setuju. Kalau kirim paket kosong DISENGAJA + pakai resi/jasa kirim di luar sistem Shopee, penalti berlaku juga. Buat masalah operasional yang beresiko bikin paket kosong (stok habis, barang kebesaran, produk minimum order), ada jalan keluar resmi — jangan kirim paket kosong.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya kenapa kena penalti kirim paket kosong, atau lagi kesulitan operasional (stok habis, barang kebesaran, minimum order) yang berisiko bikin kirim paket kosong. Buat detail Sistem Poin Penalti secara umum, arahkan ke `shp-penalti-002`/`shp-penalti-003`.
+
+## Isi
+
 **Tentang Paket Kosong**
 
 
@@ -69,3 +77,19 @@ Jika menghadapi masalah berikut, Anda dapat menyelesaikannya dengan cara:
 3\. Produk hanya dapat dijual dengan minimum jumlah pembelian
 
   - Hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) untuk meminta akses ke fitur[ Min. Jumlah Pembelian](https://seller.shopee.co.id/edu/article/5431). Melalui fitur ini, Anda dapat menetapkan minimum jumlah pembelian, sehingga jumlah minimum harus ditambahkan ke keranjang belanja agar Pembeli dapat melakukan pemesanan.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Toleransi kirim paket kosong | NOL — gak ada toleransi sama sekali |
+| Batas pembatalan pesanan bebas penalti | pesanan tidak terselesaikan gak mencapai 10% dalam 7 hari terakhir |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim paket cuma isi nota/nomor resi doang, kena penalti gak?** KENA — itu termasuk definisi paket kosong menurut Shopee, meski ada "isi" berupa kertas.
+2. **Member minta persetujuan Pembeli dulu sebelum kirim paket kosong (misal buat testimoni)?** TETAP DILARANG — persetujuan Pembeli TIDAK menghapus pelanggaran ini dalam kondisi apapun.
+3. **Member kehabisan stok mendadak, takut kena penalti paket kosong?** JANGAN kirim paket kosong — batalkan pesanan (gak kena penalti selama pesanan tidak terselesaikan gak mencapai 10% dalam 7 hari terakhir), TAPI jangan minta Pembeli yang batalkan (itu pelanggaran terpisah).
+4. **Produk member butuh waktu persiapan lama (custom), gimana caranya biar gak dianggap telat/paket kosong?** Arahkan atur sebagai produk Pre-order lewat pengaturan produk.
+5. **Barang member kegedean buat jasa kirim standar Shopee?** Ajukan aktivasi Jasa Kirim Toko buat pakai jasa kirim yang gak didukung Shopee secara default.
+6. **Produk member cuma bisa dijual dalam jumlah minimum tertentu (grosir)?** Hubungi Customer Service Shopee buat minta akses fitur Min. Jumlah Pembelian — bukan solusi dengan kirim paket setengah kosong.

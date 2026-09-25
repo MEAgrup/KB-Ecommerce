@@ -11,10 +11,18 @@ valid_as_of: 2026-01
 sources:
   - file: umum--mulai-berjualan/membuat-profil-toko-yang-baik.md
     bagian: "artikel penuh"
+related: [shp-toko-025, shp-toko-026, shp-toko-016]
 ---
 # Membuat Profil Toko yang Baik
 
 ## Ringkasan
+3 elemen profil toko: Logo (representasi produk), Nama Toko (5-30 karakter, 12 aturan larangan — vulgar/nama platform/merek resmi tanpa izin/nomor HP/dll), Deskripsi Toko (maks. 499 karakter, gak boleh info kontak pribadi/link luar Shopee). Nama toko bisa diubah 1x/30 hari via app/Seller Centre (lebih dari itu wajib hubungi CS), ditinjau maks. 2x24 jam. Pelanggaran nama toko = poin penalti, makin tinggi poinnya makin besar risiko (larangan ikut promosi, posisi produk turun, pembatasan akun).
+
+## Kapan ini dipakai
+Dipakai kalau member mau bikin/optimalkan Logo, Nama Toko, atau Deskripsi Toko yang baik & sesuai kebijakan. Buat FAQ nama & logo toko, arahkan ke `shp-toko-025`; buat FAQ pelanggaran nama toko spesifik, arahkan ke `shp-toko-026`; buat Profil Toko di Seller Centre secara umum, arahkan ke `shp-toko-016`.
+
+## Isi
+
 Membuat Profil Toko yang Menarik
 
 
@@ -324,3 +332,27 @@ Perhatikan ketentuan di bawah ini untuk menunjukkan kredibilitas deskripsi toko 
   - Deskripsi toko harus menjelaskan informasi seputar toko, seperti jam operasional, promosi, atau pengumuman toko.
   - Deskripsi toko tidak boleh mengandung kata-kata vulgar (tidak pantas), kasar, terlarang, menyinggung, atau sensitif.
   - Deskripsi toko tidak boleh mencantumkan nama, *link* situs atau aplikasi belanja lain selain Shopee, maupun kontak pribadi (contoh: nomor *handphone*, nomor WhatsApp, alamat, atau akun media sosial).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Panjang Nama Toko | 5-30 karakter |
+| Panjang maksimal Deskripsi Toko | 499 karakter |
+| Jeda ubah nama toko (self-service) | 1x per 30 hari (lebih dari itu via CS) |
+| Waktu tinjau perubahan nama toko | maks. 2x24 jam |
+| Jumlah aturan larangan nama toko | 12 aturan |
+| Jumlah contoh kategori nama toko melanggar | 4 kategori (vulgar/terlarang, nama platform, merek resmi tanpa izin, nomor HP) |
+
+## Pertanyaan diagnosa
+
+1. **Member mau nama tokonya mengandung kata "Shopee" biar keliatan resmi?** DILARANG — salah satu dari 12 aturan nama toko, gak boleh mengandung kata "Shopee" sama sekali.
+2. **Member (bukan pemilik merek) mau pakai nama brand terkenal di nama tokonya?** DILARANG kecuali member BENERAN pemilik merek tersebut (perlu dokumen pendukung sebagai bukti) — contoh pelanggaran: official_apple_store, my_xiaomi_flagship.
+3. **Member mau cantumin nomor WhatsApp di deskripsi toko biar gampang dihubungi?** DILARANG — deskripsi toko gak boleh mencantumkan kontak pribadi (no. HP/WhatsApp/alamat/medsos) atau link ke situs/aplikasi belanja lain.
+4. **Member nulis deskripsi toko 600 karakter, kok ditolak?** Cek batas — deskripsi toko maks. 499 karakter.
+5. **Member mau ubah nama toko 2x dalam sebulan?** TIDAK BISA lewat aplikasi/Seller Centre sendiri — kalau mau ubah lebih dari 1x dalam 30 hari, wajib hubungi Customer Service Shopee.
+6. **Member ubah nama toko lewat aplikasi tapi gak bisa, padahal di Seller Centre bisa?** Cek dulu — perubahan nama toko via APLIKASI cuma bisa dilakukan kalau member udah upload MIN. 1 produk di tokonya.
+7. **Member mau cantumin "gratis ongkos kirim" di nama tokonya buat promosi?** DILARANG — nama toko gak boleh mengandung promosi komersial.
+
+## Batasan
+Entry ini menyebut aturan "ubah nama toko lebih dari 1x dalam 30 hari, hubungi CS" — ini SEJALAN dengan `shp-akun-012` (1x/30 hari) tapi BERBEDA dari `shp-toko-003` (yang bilang cuma 1x TOTAL seumur akun). Karena 2 dari 3 sumber (entry ini + `shp-akun-012`) konsisten dengan pola "1x/30 hari", kemungkinan `shp-toko-003` yang sudah usang (scraping lebih lama, Maret 2024) — tapi tetap gak dipastikan tanpa cek sumber resmi terkini. Lihat konflik terbuka `S-D-CONFLICT-005` di `DECISIONS.md`.

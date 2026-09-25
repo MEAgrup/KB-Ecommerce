@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: mt---sub-akun/sistem-sub-akun.md
     bagian: "artikel penuh"
+related: [shp-akun-013, shp-akun-016]
 ---
 # Sistem Sub Akun
 
 ## Ringkasan
+Sistem Sub Akun = fitur delegasi tugas operasional (chat, pesanan, produk, keuangan, Livestream, dll) ke Anggota tim tanpa bagi akun utama. 2 jenis akun: Akun Utama (kontrol penuh, bikin/atur Sub Akun) dan Sub Akun/Anggota (akses terbatas sesuai Peran). 6 Peran default: Admin, Merchandiser, Penyelesaian Pesanan, Keuangan, Customer Service, KOL Livestreamer — bisa juga bikin Peran custom dengan kombinasi akses. Sistem TIDAK OTOMATIS terhubung ke toko — harus dihubungkan manual. Beberapa fungsi (hubungkan toko, bagi tugas, ubah akses Anggota, kasih akses Livestream) HANYA bisa lewat PC.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara bikin Akun Utama/Sub Akun, cara atur Peran & akses Anggota, atau cara kelola Pembagian Chat tim. Buat keamanan akun secara umum, arahkan ke `shp-akun-013`; buat fitur keamanan toko (Pemeriksa transaksi berisiko), arahkan ke `shp-akun-016`.
+
+## Isi
+
 **Apa Itu Sistem Sub Akun?**
 
 
@@ -433,3 +441,26 @@ Tentukan periode waktu dan masukkan nama atau username Anggota. Pilih **tipe Akt
 **Mengelola Akun Saya**
 
 **Akun Saya** memungkinkan Anda untuk m
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah Peran default | 6 (Admin, Merchandiser, Penyelesaian Pesanan, Keuangan, Customer Service, KOL Livestreamer) |
+| Format login Akun Utama via username | tambahkan `:main` di belakang username (contoh: `selleroperations:main`) |
+| Jendela riwayat chat "Sebelum Penjualan" | pertanyaan produk/pesanan belum dibayar dalam 3 bulan terakhir |
+| Jendela riwayat chat "Sesudah Penjualan" | pesanan dikirim/selesai/retur dalam 3 bulan terakhir |
+| Mode kerja Webchat Shopee | 2 (Mode Cek — lihat semua, gak bisa balas manual; Mode Respon — cuma bisa balas chat yang ditugaskan) |
+
+## Pertanyaan diagnosa
+
+1. **Member bikin toko baru, kenapa Sistem Sub Akun gak otomatis kedeteksi?** Normal — Sistem Sub Akun TIDAK OTOMATIS terhubung ke toko manapun, harus dihubungkan MANUAL lewat menu Toko Saya atau Webchat Shopee setelah Akun Utama dibuat.
+2. **Member mau login Akun Utama pakai username, tapi ditolak sistem?** Cek format — harus tambahkan `:main` di belakang username (contoh: `selleroperations:main`), bukan username biasa.
+3. **Member coba hubungkan toko atau ubah akses Anggota lewat HP, kok gak bisa?** Beberapa fungsi HANYA bisa lewat PC — hubungkan toko ke Akun Utama, bagi tugas ke Anggota, ubah akses/email/password Anggota, dan kasih akses Livestream semuanya WAJIB PC.
+4. **Member khawatir Admin/Anggota bisa ganti rekening bank tanpa sepengetahuannya?** Disarankan JANGAN kasih akses "penggantian nomor telepon" atau "tambah/ubah rekening bank" ke Admin/Anggota — arahkan batasi akses ini secara spesifik buat cegah kerugian materiil.
+5. **Member pilih Peran default (misal Admin), mau ubah aksesnya?** TIDAK BISA — akses Peran default udah ditentukan SISTEM dan gak bisa diubah; kalau butuh kombinasi akses custom, bikin Peran baru lewat Tambah Peran Baru.
+6. **Member punya 2 toko beda negara (Indonesia & Singapura), kenapa cuma satu yang muncul di aplikasi Seller Centre Shopee?** Normal — aplikasi Seller Centre Shopee cuma nampilin toko dengan NEGARA YANG SAMA seperti aplikasi Shopee yang dipakai login.
+7. **Member aktifkan Pembagian Chat, tapi akun toko masih bisa terima chat, kenapa gak bisa balas?** Memang begitu — setelah Pembagian Chat aktif, akun toko TETAP bisa TERIMA chat, tapi TIDAK BISA balas percakapan yang udah ditugaskan ke Akun Utama/Sub Akun (mencegah balasan ganda).
+
+## Batasan
+Sumber ini TERPOTONG di tengah kalimat pada bagian "Mengelola Akun Saya" (kalimat terakhir: "Akun Saya memungkinkan Anda untuk m..." — terputus, kemungkinan lanjutan penjelasan fitur Akun Saya hilang saat scraping). Beberapa bagian lain juga cuma berupa judul tanpa isi lengkap (misalnya beberapa langkah "Membuat Akun Utama", "Menghubungkan Toko", dan tabel akses di bagian awal yang keterangannya sebagian hilang). Jangan karang detail yang hilang — kalau member butuh panduan langkah-demi-langkah yang presisi, arahkan cek langsung ke artikel sumber di Seller Centre.

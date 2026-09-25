@@ -11,10 +11,18 @@ valid_as_of: 2025-11
 sources:
   - file: umum---poin-penalti/faq-sistem-poin-penalti.md
     bagian: "artikel penuh"
+related: [shp-penalti-001, shp-penalti-002, shp-akun-010]
 ---
 # FAQ Sistem Poin Penalti
 
 ## Ringkasan
+Poin Penalti = diberikan kalau toko gak penuhi target performa/melanggar kebijakan, ter-UPDATE di hari yang sama, dicek via Penalti Saya (Kesehatan Toko). Reset ke 0 tiap SENIN TERAKHIR di kuartal (Maret/Juni/September/Desember) — TAPI akumulasi poin tetap SAMA sampai kuartal itu berakhir (gak langsung berkurang di tengah jalan). Jumlah poin menentukan tingkat pembatasan akun (lihat Batasan — tabel rinciannya hilang di sumber ini).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara cek Poin Penalti, kapan resetnya, atau konsekuensi tingkat penalti. Buat kebijakan paket kosong (salah satu penyebab penalti), arahkan ke `shp-penalti-001`; buat cara tau kena penalti hari itu, arahkan ke `shp-penalti-002`; buat kenapa akun dibatasi, arahkan ke `shp-akun-010`.
+
+## Isi
+
 **1. Apa itu Poin Penalti?**
 
 
@@ -50,3 +58,21 @@ Anda perlu memenuhi target performa toko dan mematuhi kebijakan Shopee untuk[ me
 **6. Apa konsekuensi yang saya dapatkan jika diberikan Poin Penalti?**
 
 Akun Anda mungkin akan dibatasi, tergantung pada jumlah Poin Penalti Anda. Lihat tabel berikut untuk rincian tingkatan penalti yang lebih lengkap:
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu update Poin Penalti | hari yang sama saat pelanggaran/kekurangan performa terdeteksi |
+| Jadwal reset Poin Penalti ke 0 | Senin terakhir tiap kuartal (Maret, Juni, September, Desember) |
+| Perilaku akumulasi sebelum reset | poin TETAP SAMA sampai kuartal berakhir, gak berkurang di tengah jalan |
+
+## Pertanyaan diagnosa
+
+1. **Member dapat poin penalti hari Senin, kapan ter-update di akunnya?** HARI YANG SAMA — sistem update poin penalti real-time di hari kejadian, bukan nunggu periode tertentu.
+2. **Member nanya kenapa poin penaltinya belum reset padahal udah lewat sebulan?** Reset CUMA terjadi di Senin terakhir tiap KUARTAL (Maret/Juni/September/Desember), bukan tiap bulan — cek apakah kuartal berjalan udah berakhir.
+3. **Member bingung kenapa poin penalti gak berkurang meski udah gak ada pelanggaran baru?** Normal — akumulasi poin TETAP SAMA sepanjang kuartal berjalan, cuma di-reset ke 0 di Senin terakhir kuartal, bukan berkurang bertahap.
+4. **Member mau tau berapa banyak poin penalti sampai akun dibatasi?** Arahkan ke `shp-akun-010` buat detail tingkat pembatasan — tabel rinci di sumber entry ini hilang saat scraping (lihat Batasan).
+
+## Batasan
+Bagian FAQ #6 ("Apa konsekuensi yang saya dapatkan jika diberikan Poin Penalti?") merujuk ke sebuah TABEL tingkatan penalti yang menentukan level pembatasan akun berdasarkan jumlah poin, TAPI tabel tersebut hilang sepenuhnya saat scraping — sumber cuma berhenti di kalimat pengantar tabel. Jangan karang angka ambang batasnya — arahkan member cek langsung ke `shp-akun-010` (Mengapa Akun Saya Dibatasi) atau ke halaman Kesehatan Toko di Seller Centre buat rincian tingkatan penalti yang akurat.

@@ -359,7 +359,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-akun-013, shp-akun-016",
     "decisions": "",
     "path": "shopee/akun-dan-toko/01-apa-itu-pengaturan-toko-di-seller-centre.md"
   },
@@ -372,7 +372,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-penalti-002, shp-penalti-003",
     "decisions": "",
     "path": "shopee/akun-dan-toko/01-apa-kebijakan-shopee-tentang-paket-kosong.md"
   },
@@ -385,7 +385,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-akun-013, shp-akun-016",
     "decisions": "",
     "path": "shopee/akun-dan-toko/01-sistem-sub-akun.md"
   },
@@ -398,7 +398,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2021-01",
-    "related": "",
+    "related": "shp-akun-013, shp-akun-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/02-amankan-akun-anda-dengan-password-pin-shopeepay-atau-pin-saldo-penjual.md"
   },
@@ -411,7 +411,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "tidak-diketahui",
-    "related": "",
+    "related": "shp-toko-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/02-apa-yang-harus-saya-lakukan-jika-saya-menerima-banyak-notifikasi.md"
   },
@@ -424,7 +424,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-09",
-    "related": "",
+    "related": "shp-penalti-001, shp-penalti-003",
     "decisions": "",
     "path": "shopee/akun-dan-toko/02-bagaimana-saya-mengetahui-jika-saya-telah-diberikan-poin-penalti.md"
   },
@@ -437,7 +437,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-03",
-    "related": "",
+    "related": "shp-akun-004, shp-akun-002",
     "decisions": "",
     "path": "shopee/akun-dan-toko/03-apa-itu-pembeli-fiktif.md"
   },
@@ -450,7 +450,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2024-03",
-    "related": "",
+    "related": "shp-akun-016, shp-toko-032",
     "decisions": "",
     "path": "shopee/akun-dan-toko/03-bagaimana-cara-menemukan-detail-toko-dan-produk-saya.md"
   },
@@ -463,7 +463,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-11",
-    "related": "",
+    "related": "shp-penalti-001, shp-penalti-002, shp-akun-010",
     "decisions": "",
     "path": "shopee/akun-dan-toko/03-faq-sistem-poin-penalti.md"
   },
@@ -476,7 +476,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-03",
-    "related": "",
+    "related": "shp-akun-003, shp-akun-002",
     "decisions": "",
     "path": "shopee/akun-dan-toko/04-apa-itu-penipuan-dengan-phishing.md"
   },
@@ -489,7 +489,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2020-09",
-    "related": "",
+    "related": "shp-toko-002, shp-toko-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/04-bagaimana-cara-mengelola-notifikasipemberitahuan.md"
   },
@@ -502,7 +502,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-12",
-    "related": "",
+    "related": "shp-penalti-002, shp-penalti-003",
     "decisions": "",
     "path": "shopee/akun-dan-toko/04-pengajuan-banding-penalti.md"
   },
@@ -515,7 +515,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-11",
-    "related": "",
+    "related": "shp-toko-011, shp-akun-013",
     "decisions": "",
     "path": "shopee/akun-dan-toko/05-bagaimana-cara-memverifikasi-apakah-kode-verifikasi-otp-saya-asli.md"
   },
@@ -528,7 +528,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2020-09",
-    "related": "",
+    "related": "shp-toko-023",
     "decisions": "",
     "path": "shopee/akun-dan-toko/05-bagaimana-cara-mengganti-negara-tempat-tinggal-saya.md"
   },
@@ -541,7 +541,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-penalti-001, shp-penalti-003, shp-penalti-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/05-sistem-ketentuan-poin-penalti.md"
   },
@@ -554,7 +554,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-10",
-    "related": "",
+    "related": "shp-akun-003, shp-akun-004, shp-akun-002",
     "decisions": "",
     "path": "shopee/akun-dan-toko/06-cegah-penipuan-bersama-shopee.md"
   },
@@ -567,7 +567,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-toko-009, shp-penalti-005",
     "decisions": "",
     "path": "shopee/akun-dan-toko/06-faq-fitur-mode-libur.md"
   },
@@ -580,7 +580,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-akun-010, shp-akun-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/07-faq-meningkatkan-keamanan-akun.md"
   },
@@ -593,7 +593,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-toko-015",
     "decisions": "",
     "path": "shopee/akun-dan-toko/07-menavigasi-formulir-feedback-dan-laporan-penjual.md"
   },
@@ -606,7 +606,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2022-12",
-    "related": "",
+    "related": "shp-akun-002, shp-akun-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/08-keamanan-akun-shopee.md"
   },
@@ -619,7 +619,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-03",
-    "related": "",
+    "related": "shp-toko-009",
     "decisions": "",
     "path": "shopee/akun-dan-toko/08-mengapa-toko-saya-dinonaktifkan-atau-tidak-aktif.md"
   },
@@ -632,7 +632,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-06",
-    "related": "",
+    "related": "shp-akun-005, shp-akun-010",
     "decisions": "",
     "path": "shopee/akun-dan-toko/09-kendala-log-in-akun-shopee-dan-kode-verifikasi-otp.md"
   },
@@ -645,7 +645,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-toko-006, shp-toko-008",
     "decisions": "",
     "path": "shopee/akun-dan-toko/09-menggunakan-fitur-mode-libur.md"
   },
@@ -658,7 +658,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "shp-akun-104",
+    "related": "shp-akun-104, shp-penalti-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/10-mengapa-akun-saya-dibatasi.md"
   },
@@ -671,7 +671,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-toko-025",
     "decisions": "",
     "path": "shopee/akun-dan-toko/10-tentang-penyalahgunaan-label-shopee.md"
   },
@@ -684,7 +684,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2025-06",
-    "related": "",
+    "related": "shp-akun-005, shp-akun-006",
     "decisions": "",
     "path": "shopee/akun-dan-toko/11-apa-saja-akun-rekening-resmi-shopee.md"
   },
@@ -697,7 +697,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-toko-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/11-mengatur-alamat-dan-titik-lokasi-toko.md"
   },
@@ -710,7 +710,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-toko-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/12-bagaimana-saya-menghubungi-customer-service-shopee.md"
   },
@@ -723,7 +723,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-toko-003, shp-akun-009",
     "decisions": "",
     "path": "shopee/akun-dan-toko/12-mengelola-akun-shopee.md"
   },
@@ -736,7 +736,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2022-11",
-    "related": "",
+    "related": "shp-akun-010",
     "decisions": "",
     "path": "shopee/akun-dan-toko/13-di-mana-saya-dapat-menemukan-kebijakan-peraturan-dan-pemberitahuan-yan.md"
   },
@@ -749,7 +749,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2019-08",
-    "related": "",
+    "related": "shp-akun-002, shp-akun-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/13-menjaga-keamanan-akun.md"
   },
@@ -762,7 +762,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-11",
-    "related": "",
+    "related": "shp-toko-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/14-formulir-suara-penjual.md"
   },
@@ -775,7 +775,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-08",
-    "related": "",
+    "related": "shp-toko-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/14-penanganan-kendala-aplikasi-shopee-dan-seller-centre.md"
   },
@@ -788,7 +788,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-toko-018",
     "decisions": "",
     "path": "shopee/akun-dan-toko/15-proses-verifikasi-data-identitas-toko.md"
   },
@@ -801,7 +801,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-toko-007, shp-toko-012",
     "decisions": "",
     "path": "shopee/akun-dan-toko/15-tentang-fitur-asisten-penjual.md"
   },
@@ -814,7 +814,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-08",
-    "related": "",
+    "related": "shp-toko-003, shp-toko-032",
     "decisions": "",
     "path": "shopee/akun-dan-toko/16-apa-itu-profil-toko-di-seller-centre.md"
   },
@@ -840,7 +840,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2022-10",
-    "related": "",
+    "related": "shp-akun-001, shp-akun-015",
     "decisions": "",
     "path": "shopee/akun-dan-toko/16-tentang-fitur-keamanan-toko.md"
   },
@@ -853,7 +853,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-10",
-    "related": "",
+    "related": "shp-toko-001, shp-toko-019",
     "decisions": "",
     "path": "shopee/akun-dan-toko/17-apa-itu-seller-centre.md"
   },
@@ -879,7 +879,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-akun-007, shp-akun-006",
     "decisions": "",
     "path": "shopee/akun-dan-toko/17-tentang-keamanan-akun.md"
   },
@@ -892,7 +892,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-08",
-    "related": "",
+    "related": "shp-akun-010, shp-akun-015",
     "decisions": "",
     "path": "shopee/akun-dan-toko/18-berapa-jumlah-toko-yang-dapat-saya-miliki-di-shopee.md"
   },
@@ -918,7 +918,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-toko-017, shp-toko-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/19-berjualan-di-aplikasi-dan-seller-centre-shopee.md"
   },
@@ -931,7 +931,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-12",
-    "related": "",
+    "related": "shp-toko-023, shp-akun-015",
     "decisions": "",
     "path": "shopee/akun-dan-toko/20-berjualan-di-shopee.md"
   },
@@ -944,7 +944,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-penalti-005, shp-penalti-001",
     "decisions": "",
     "path": "shopee/akun-dan-toko/21-cara-agar-terhindar-dari-poin-penalti.md"
   },
@@ -957,7 +957,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-promosi-009, shp-promosi-010, shp-toko-027",
     "decisions": "",
     "path": "shopee/akun-dan-toko/22-cara-cepat-dapatkan-pesanan-pertama-di-shopee.md"
   },
@@ -970,7 +970,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-toko-020",
     "decisions": "",
     "path": "shopee/akun-dan-toko/23-daftar-dan-buat-akun-toko-di-shopee.md"
   },
@@ -983,7 +983,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-09",
-    "related": "",
+    "related": "shp-toko-018, shp-toko-020",
     "decisions": "",
     "path": "shopee/akun-dan-toko/24-faq-berjualan-di-shopee.md"
   },
@@ -996,7 +996,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-09",
-    "related": "",
+    "related": "shp-toko-026, shp-toko-034",
     "decisions": "",
     "path": "shopee/akun-dan-toko/25-faq-nama-dan-logo-toko.md"
   },
@@ -1009,7 +1009,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2022-07",
-    "related": "",
+    "related": "shp-toko-025, shp-penalti-004",
     "decisions": "",
     "path": "shopee/akun-dan-toko/26-faq-pelanggaran-nama-toko-yang-tidak-tepattidak-pantas.md"
   },
@@ -1022,7 +1022,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-toko-022",
     "decisions": "",
     "path": "shopee/akun-dan-toko/27-hal-hal-yang-perlu-dilakukan-untuk-menyelesaikan-pesanan-pertama.md"
   },
@@ -1035,7 +1035,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-toko-020, shp-toko-022",
     "decisions": "",
     "path": "shopee/akun-dan-toko/28-ketahui-pentingnya-buka-toko-online-di-shopee.md"
   },
@@ -1048,7 +1048,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2024-08",
-    "related": "",
+    "related": "shp-toko-030",
     "decisions": "",
     "path": "shopee/akun-dan-toko/29-lihat-penghasilan-toko-anda-di-halaman-penghasilan-saya.md"
   },
@@ -1061,7 +1061,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-penalti-003, shp-toko-029",
     "decisions": "",
     "path": "shopee/akun-dan-toko/30-memantau-performa-toko-melalui-fitur-kesehatan-toko.md"
   },
@@ -1074,7 +1074,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-toko-032",
     "decisions": "",
     "path": "shopee/akun-dan-toko/31-membuat-halaman-toko-lebih-menarik-dengan-fitur-dekorasi-toko.md"
   },
@@ -1087,7 +1087,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-toko-025, shp-toko-026, shp-toko-016",
     "decisions": "",
     "path": "shopee/akun-dan-toko/32-membuat-profil-toko-yang-baik.md"
   },
@@ -1100,7 +1100,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2023-02",
-    "related": "",
+    "related": "shp-akun-013, shp-akun-007",
     "decisions": "",
     "path": "shopee/akun-dan-toko/33-pentingnya-menjaga-keamanan-toko-anda.md"
   },
@@ -1113,7 +1113,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-09",
-    "related": "",
+    "related": "shp-toko-010, shp-toko-025, shp-toko-032",
     "decisions": "",
     "path": "shopee/akun-dan-toko/34-tentang-kebijakan-logo-banner-toko.md"
   },
@@ -1139,7 +1139,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-star-002, shp-akun-104",
     "decisions": "",
     "path": "shopee/akun-dan-toko/35-tipe-tipe-penjual-di-shopee.md"
   },

@@ -11,10 +11,18 @@ valid_as_of: 2026-04
 sources:
   - file: umum---sumber-informasi-untuk-penjual/tentang-fitur-asisten-penjual.md
     bagian: "artikel penuh"
+related: [shp-toko-007, shp-toko-012]
 ---
 # Tentang Fitur Asisten Penjual
 
 ## Ringkasan
+Asisten Penjual (Chatbot Choki) = fitur AI di Seller Centre/app buat: jawab pertanyaan (topik terstruktur/chat bebas), sambungkan ke CS manusia (ketik "Hubungi CS Shopee"), kasih rekomendasi fitur/promo (maks. 3 pilihan campaign), sajikan ringkasan data toko + diagnosa penyebab kendala (kunjungan rendah/konversi turun), dan bikin/atur Iklan Shopee langsung dari chat. Sesi HILANG kalau gak dilanjutkan dalam 5 MENIT setelah tombol Kecilkan dipencet.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara pakai Asisten Penjual buat cari jawaban/diagnosa toko, atau kenapa sesi chat-nya hilang. Buat Formulir Feedback & Laporkan Masalah (fitur terpisah), arahkan ke `shp-toko-007`; buat cara hubungi CS langsung, arahkan ke `shp-toko-012`.
+
+## Isi
+
 Tingkatkan pengalaman berjualan yang lebih baik menggunakan fitur **Asisten Penjual**. Fitur ini membantu Anda memberikan jawaban atas kendala atau informasi yang Anda butuhkan secara lebih rinci serta dilengkapi dengan analisis data, diagnosa, serta rekomendasi langkah yang perlu Anda lakukan untuk perbaikan pada toko Anda.
 
 
@@ -113,3 +121,20 @@ Saat Anda mengakhiri *chat* dengan Asisten Penjual, Anda dapat memberikan masuka
   - Tombol **Pesanan**
 
 Tombol **Pesanan** digunakan untuk membantu Penjual menanyakan pesanan secara spesifik yang ada di toko Anda dengan lebih mudah.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Maks. pilihan campaign yang direkomendasikan | hingga 3 pilihan |
+| Waktu sesi hilang setelah dikecilkan tanpa lanjut | 5 menit |
+| Jumlah topik pertanyaan terstruktur | 5 (Pengiriman, Konten dan Produk, Klaim, Akun dan Keamanan, Pengembangan Bisnis, Pembayaran) |
+
+## Pertanyaan diagnosa
+
+1. **Member klik tombol Kecilkan pas lagi chat sama Asisten Penjual, terus lupa balik lagi 10 menit kemudian?** Sesi udah HILANG — kalau gak dilanjutkan dalam 5 MENIT setelah dikecilkan, percakapan Chatbot reset.
+2. **Member mau langsung ngomong sama CS manusia tanpa basa-basi sama Chatbot?** Ketik "Hubungi CS Shopee" — Asisten Penjual akan tanya kendala dulu sebelum sambungkan ke CS; kalau jawabannya belum cukup, pilih "Tidak" atau ketik "Tidak, tetap menunggu terhubung CS".
+3. **Member mau tau kenapa kunjungan tokonya turun?** Tanya langsung ke Asisten Penjual — fitur ini bisa analisa data performa toko dan kasih diagnosa penyebab + rekomendasi langkah (misal aktifkan Iklan Shopee atau Voucher).
+4. **Member mau ikut promosi tapi bingung campaign mana yang cocok?** Ketik instruksi kayak "Saya ingin join promosi" — Asisten Penjual kasih maks. 3 PILIHAN campaign beserta langkah selanjutnya.
+5. **Member mau bikin Iklan Shopee tapi males buka menu terpisah?** Bisa langsung dari kolom chat Asisten Penjual — cukup masukkan instruksi yang jelas dan spesifik.
+6. **Member mau kasih masukan soal kualitas layanan Chatbot?** Pas akhiri chat, isi survey layanan dengan pilihan "Buruk" (jelasin apa yang harus diperbaiki) atau "Cukup" (kasih tau apa yang bisa ditingkatkan).

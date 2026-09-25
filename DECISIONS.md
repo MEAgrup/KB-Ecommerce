@@ -1800,6 +1800,34 @@ Kalau tim jawab pertanyaan soal SKB PPh 23 pakai nomor/periode dari `shp-biaya-0
 
 ---
 
+### S-D-CONFLICT-005 · Frekuensi update Username beda di dua entry resmi (`shp-akun-012` vs `shp-toko-003`)
+
+**Status:** terbuka
+**Entry terdampak:** `shp-akun-012` (Mengelola Akun Shopee, `valid_as_of: 2026-06`), `shp-toko-003` (Bagaimana Cara Menemukan Detail Toko dan Produk Saya?, `valid_as_of: 2024-03`)
+
+**Masalahnya:**
+Ketemu waktu ngerjain full-template pass `shp-akun-012` di folder `akun-dan-toko`. Dua entry resmi Shopee nyebut aturan berbeda soal berapa kali Username toko boleh di-update:
+- `shp-akun-012` (di-*scrape* lebih baru, Juni 2026): "Anda dapat meng-*update* username sebanyak **1 kali setiap 30 hari**" — menyiratkan bisa update berulang, asal jeda 30 hari.
+- `shp-toko-003` (di-*scrape* lebih lama, Maret 2024): "Anda hanya dapat meng-*update* username Anda **1 kali** [total]. Jika Anda telah meng-*update* username Anda 1 kali dan ingin meng-*update* kembali, Anda dapat menghubungi Customer Service Shopee" — menyiratkan cuma 1x seumur akun, setelahnya wajib lewat CS.
+
+Kemungkinan kebijakan Shopee memang berubah antara Maret 2024 dan Juni 2026 (dari "1x seumur akun" jadi "1x/30 hari"), tapi bisa juga salah satu artikel sumber belum ter-*update* konsisten.
+
+**Update:** Ketemu sumber ketiga saat ngerjain `shp-toko-032` (Membuat Profil Toko yang Baik, `valid_as_of: 2026-01`) yang JUGA nyebut pola "1x/30 hari, lebih dari itu hubungi CS" — sama dengan `shp-akun-012`. Jadi sekarang 2 dari 3 sumber (`shp-akun-012` + `shp-toko-032`) konsisten dengan "1x/30 hari", cuma `shp-toko-003` (scraping paling lama, Maret 2024) yang beda sendiri dengan "1x total". Ini nge-tip probabilitas ke arah `shp-toko-003` yang udah usang, TAPI belum cukup buat mastiin tanpa cek sumber resmi Shopee terkini — opsi C (verifikasi langsung) masih jadi cara paling aman buat nutup keputusan ini.
+
+**Kalau salah diputuskan:**
+Kalau tim jawab pertanyaan "boleh ganti username lagi gak?" pakai aturan yang salah, member bisa dikasih ekspektasi keliru — disuruh coba update sendiri padahal harus ke CS, atau sebaliknya diarahkan ke CS padahal sebenarnya bisa self-service asal nunggu 30 hari.
+
+**Opsi:**
+- **A** — Anggap `shp-akun-012` (lebih baru) sebagai aturan yang berlaku sekarang, edit `shp-toko-003` supaya konsisten/redirect ke situ.
+- **B** — Biarkan dua-duanya apa adanya, ditandai lewat Batasan di `shp-akun-012` (sudah dilakukan) — anggap snapshot dua waktu scraping berbeda.
+- **C** — Cek ke sumber resmi Shopee terbaru buat konfirmasi aturan yang benar-benar aktif, baru update entry yang salah.
+
+**Rekomendasi:** B untuk sekarang (sudah ditandai di Batasan `shp-akun-012`) — C kalau ada akses verifikasi ke sumber resmi Shopee terkini, karena skill ini gak boleh nebak aturan mana yang aktif.
+
+**Keputusan Yohan:** _(kosong)_
+
+---
+
 ## 2. Indikasi usang (D-OUTDATED)
 
 ### S-D-OUTDATED-001 · Seluruh folder `pengumuman-dan-kebijakan-terbaru` (15 entry)

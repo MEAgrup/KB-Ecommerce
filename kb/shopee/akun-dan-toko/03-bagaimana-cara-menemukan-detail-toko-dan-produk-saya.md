@@ -11,10 +11,18 @@ valid_as_of: 2024-03
 sources:
   - file: umum---pengaturan-toko/bagaimana-cara-menemukan-detail-toko-dan-produk-saya.md
     bagian: "artikel penuh"
+related: [shp-akun-016, shp-toko-032]
 ---
 # Bagaimana Cara Menemukan Detail Toko dan Produk Saya?
 
 ## Ringkasan
+Cara temukan detail toko/produk: ID Toko & Link Toko cuma bisa dilihat via WEB BROWSER (gak muncul di app). Username = identitas login, cuma bisa diubah 1 KALI (setelah itu harus hubungi CS), review Tim Shopee maks. 2x24 jam, gak boleh pakai spasi (pakai "_"). Nama Toko = nama tampil ke Pembeli, beda dari Username, bisa diubah tiap 30 HARI SEKALI. Kode Produk bisa ditemukan lewat URL produk di situs Shopee (satu per satu) atau download massal — TETAP bisa ditemukan meski produk udah Dihapus/Diblokir.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara cari ID Toko/Link Toko/Username/Kode Produk, atau beda Username vs Nama Toko. Buat fitur keamanan toko lainnya, arahkan ke `shp-akun-016`; buat cara bikin profil toko yang baik, arahkan ke `shp-toko-032`.
+
+## Isi
+
 Menemukan *detail* seperti kode produk, ID toko, *link* toko, username, dan nama toko adalah hal yang penting ketika Anda perlu memberikan informasi pada saat berikut:
 
 
@@ -111,3 +119,21 @@ Buka *file* yang telah Anda *download* dan lihat kode produk pada kolom **Kode P
 ⚠️ **Catatan**
 
 Kode produk juga masih dapat Anda temukan jika status produk Anda telah Dihapus/Diblokir oleh Shopee. Pelajari lebih lanjut terkait[ cara mengecek kode produk untuk produk yang dihapus/diblokir oleh Shopee](https://seller.shopee.co.id/edu/article/15615).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas update Username | 1 kali (setelah itu wajib hubungi Customer Service) |
+| Waktu review perubahan Username | maks. 2x24 jam |
+| Jeda ubah Nama Toko | setiap 30 hari sekali |
+| Akses ID Toko & Link Toko | HANYA lewat web browser (gak muncul di app) |
+
+## Pertanyaan diagnosa
+
+1. **Member mau ubah Username lagi setelah sebelumnya udah ganti sekali?** TIDAK BISA sendiri lewat aplikasi — kuota update Username cuma 1x, kalau mau ganti lagi harus hubungi Customer Service Shopee.
+2. **Member cari ID Toko/Link Toko lewat aplikasi Shopee, gak ketemu?** Normal — ID Toko dan Link Toko HANYA bisa dilihat lewat web browser, gak tersedia di tampilan aplikasi.
+3. **Member bingung beda Username vs Nama Toko?** Username = buat LOGIN (gak boleh spasi, pakai "_"), muncul di akhir Tautan Toko & di Chat. Nama Toko = yang DILIHAT Pembeli di halaman toko, bisa pakai spasi/titik/angka.
+4. **Member baru ganti Nama Toko kemarin, mau ganti lagi hari ini?** TIDAK BISA — jeda perubahan Nama Toko adalah 30 hari sekali.
+5. **Member mau banding produk yang udah Dihapus/Diblokir tapi gak nemu Kode Produknya?** Kode Produk TETAP bisa ditemukan meski status produk Dihapus/Diblokir — arahkan cek artikel cara cek kode produk buat produk yang dihapus/diblokir.
+6. **Member ajukan perubahan Username, berapa lama diproses?** Ditinjau Tim Shopee maks. 2x24 jam sejak pengajuan — bukan langsung berubah instan.

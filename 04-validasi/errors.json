@@ -261,9 +261,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/apa-itu-pengaturan-toko-di-seller-centre.",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/apa-itu-pengaturan-toko-di-seller-centre."
     ]
   },
   {
@@ -272,9 +270,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---poin-penalti/apa-kebijakan-shopee-tentang-paket-kosong.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---poin-penalti/apa-kebijakan-shopee-tentang-paket-kosong.md"
     ]
   },
   {
@@ -284,9 +280,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: mt---sub-akun/sistem-sub-akun.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "2161 kata — kemungkinan dua topik yang belum dipisah"
+      "2691 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -295,9 +289,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/amankan-akun-anda-dengan-password-pin-s",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/amankan-akun-anda-dengan-password-pin-s"
     ]
   },
   {
@@ -307,8 +299,6 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/apa-yang-harus-saya-lakukan-jika-saya-men",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
       "valid_as_of tidak diketahui — pastikan ada baris D-OUTDATED buat entry ini"
     ]
   },
@@ -318,9 +308,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---poin-penalti/bagaimana-saya-mengetahui-jika-saya-telah-di",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---poin-penalti/bagaimana-saya-mengetahui-jika-saya-telah-di"
     ]
   },
   {
@@ -329,9 +317,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/apa-itu-pembeli-fiktif.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/apa-itu-pembeli-fiktif.md"
     ]
   },
   {
@@ -340,9 +326,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/bagaimana-cara-menemukan-detail-toko-dan-",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/bagaimana-cara-menemukan-detail-toko-dan-"
     ]
   },
   {
@@ -351,9 +335,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---poin-penalti/faq-sistem-poin-penalti.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---poin-penalti/faq-sistem-poin-penalti.md"
     ]
   },
   {
@@ -362,9 +344,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/apa-itu-penipuan-dengan-phishing.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/apa-itu-penipuan-dengan-phishing.md"
     ]
   },
   {
@@ -373,10 +353,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/bagaimana-cara-mengelola-notifikasipember",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "cuma 48 kata untuk entry canonical — cek kelengkapannya"
+      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/bagaimana-cara-mengelola-notifikasipember"
     ]
   },
   {
@@ -385,9 +362,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---poin-penalti/pengajuan-banding-penalti.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---poin-penalti/pengajuan-banding-penalti.md"
     ]
   },
   {
@@ -396,9 +371,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/bagaimana-cara-memverifikasi-apakah-kod",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/bagaimana-cara-memverifikasi-apakah-kod"
     ]
   },
   {
@@ -407,10 +380,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/bagaimana-cara-mengganti-negara-tempat-ti",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "cuma 41 kata untuk entry canonical — cek kelengkapannya"
+      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/bagaimana-cara-mengganti-negara-tempat-ti"
     ]
   },
   {
@@ -420,8 +390,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum---poin-penalti/sistem-ketentuan-poin-penalti.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1232 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -433,8 +402,7 @@
     ],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/cegah-penipuan-bersama-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1299 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -443,9 +411,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/faq-fitur-mode-libur.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/faq-fitur-mode-libur.md"
     ]
   },
   {
@@ -454,9 +420,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/faq-meningkatkan-keamanan-akun.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/faq-meningkatkan-keamanan-akun.md"
     ]
   },
   {
@@ -465,9 +429,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/menavigasi-formulir-feedback-dan-laporan-",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/menavigasi-formulir-feedback-dan-laporan-"
     ]
   },
   {
@@ -476,9 +438,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/keamanan-akun-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/keamanan-akun-shopee.md"
     ]
   },
   {
@@ -487,9 +447,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/mengapa-toko-saya-dinonaktifkan-atau-tida",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/mengapa-toko-saya-dinonaktifkan-atau-tida"
     ]
   },
   {
@@ -499,8 +457,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/kendala-log-in-akun-shopee-dan-kode-ver",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1256 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -509,9 +466,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/menggunakan-fitur-mode-libur.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/menggunakan-fitur-mode-libur.md"
     ]
   },
   {
@@ -521,9 +476,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/mengapa-akun-saya-dibatasi.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1214 kata — kemungkinan dua topik yang belum dipisah"
+      "1599 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -532,9 +485,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/tentang-penyalahgunaan-label-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/tentang-penyalahgunaan-label-shopee.md"
     ]
   },
   {
@@ -545,9 +496,7 @@
       "bahasa hype: 'rahasia'"
     ],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/apa-saja-akun-rekening-res",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/apa-saja-akun-rekening-res"
     ]
   },
   {
@@ -556,9 +505,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/mengatur-alamat-dan-titik-lokasi-toko.m",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/mengatur-alamat-dan-titik-lokasi-toko.m"
     ]
   },
   {
@@ -567,9 +514,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/bagaimana-saya-menghubungi",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/bagaimana-saya-menghubungi"
     ]
   },
   {
@@ -579,9 +524,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/mengelola-akun-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1696 kata — kemungkinan dua topik yang belum dipisah"
+      "2183 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -590,9 +533,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/di-mana-saya-dapat-menemuk",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/di-mana-saya-dapat-menemuk"
     ]
   },
   {
@@ -603,9 +544,7 @@
       "bahasa hype: 'rahasia'"
     ],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/menjaga-keamanan-akun.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/menjaga-keamanan-akun.md"
     ]
   },
   {
@@ -617,8 +556,7 @@
     ],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/formulir-suara-penjual.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sensitif_waktu=false tapi isinya nyentuh fee/menu/tier — kemungkinan salah tandai"
     ]
   },
   {
@@ -627,9 +565,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/penanganan-kendala-aplikasi-shopee-dan-",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/penanganan-kendala-aplikasi-shopee-dan-"
     ]
   },
   {
@@ -639,8 +575,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/proses-verifikasi-data-identitas-toko.m",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1268 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -649,9 +584,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/tentang-fitur-asisten-penj",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/tentang-fitur-asisten-penj"
     ]
   },
   {
@@ -660,9 +593,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/apa-itu-profil-toko-di-seller-centre.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/apa-itu-profil-toko-di-seller-centre.md"
     ]
   },
   {
@@ -682,9 +613,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/tentang-fitur-keamanan-toko.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/tentang-fitur-keamanan-toko.md"
     ]
   },
   {
@@ -693,9 +622,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/apa-itu-seller-centre.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/apa-itu-seller-centre.md"
     ]
   },
   {
@@ -705,7 +632,6 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: transkrip-yohan-youtube/tanda-tanda-sukses-jualan-di-shopee.md",
-      "gak ada '## Kapan ini dipakai'",
       "valid_as_of tidak diketahui — pastikan ada baris D-OUTDATED buat entry ini"
     ]
   },
@@ -716,8 +642,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/tentang-keamanan-akun.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1358 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -726,9 +651,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/berapa-jumlah-toko-yang-dapat-saya-miliki-",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/berapa-jumlah-toko-yang-dapat-saya-miliki-"
     ]
   },
   {
@@ -738,7 +661,6 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: transkrip-yohan-youtube/waspada-ini-fase-fase-terberat-jualan-di",
-      "gak ada '## Kapan ini dipakai'",
       "valid_as_of tidak diketahui — pastikan ada baris D-OUTDATED buat entry ini"
     ]
   },
@@ -749,9 +671,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/berjualan-di-aplikasi-dan-seller-centre-sh",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1264 kata — kemungkinan dua topik yang belum dipisah"
+      "1590 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -760,9 +680,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/berjualan-di-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/berjualan-di-shopee.md"
     ]
   },
   {
@@ -771,9 +689,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/cara-agar-terhindar-dari-poin-penalti.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/cara-agar-terhindar-dari-poin-penalti.md"
     ]
   },
   {
@@ -782,9 +698,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/cara-cepat-dapatkan-pesanan-pertama-di-sho",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/cara-cepat-dapatkan-pesanan-pertama-di-sho"
     ]
   },
   {
@@ -793,9 +707,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/daftar-dan-buat-akun-toko-di-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/daftar-dan-buat-akun-toko-di-shopee.md"
     ]
   },
   {
@@ -804,9 +716,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/faq-berjualan-di-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/faq-berjualan-di-shopee.md"
     ]
   },
   {
@@ -815,9 +725,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/faq-nama-dan-logo-toko.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/faq-nama-dan-logo-toko.md"
     ]
   },
   {
@@ -826,9 +734,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/faq-pelanggaran-nama-toko-yang-tidak-tepat",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/faq-pelanggaran-nama-toko-yang-tidak-tepat"
     ]
   },
   {
@@ -836,10 +742,7 @@
     "id": "shp-toko-027",
     "status": "canonical",
     "error": [],
-    "peringatan": [
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
-    ]
+    "peringatan": []
   },
   {
     "file": "shopee/akun-dan-toko/28-ketahui-pentingnya-buka-toko-online-di-shopee.md",
@@ -847,9 +750,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/ketahui-pentingnya-buka-toko-online-di-sho",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/ketahui-pentingnya-buka-toko-online-di-sho"
     ]
   },
   {
@@ -857,11 +758,7 @@
     "id": "shp-toko-029",
     "status": "canonical",
     "error": [],
-    "peringatan": [
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "cuma 37 kata untuk entry canonical — cek kelengkapannya"
-    ]
+    "peringatan": []
   },
   {
     "file": "shopee/akun-dan-toko/30-memantau-performa-toko-melalui-fitur-kesehatan-toko.md",
@@ -869,9 +766,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/memantau-performa-toko-melalui-fitur-keseh",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/memantau-performa-toko-melalui-fitur-keseh"
     ]
   },
   {
@@ -879,10 +774,7 @@
     "id": "shp-toko-031",
     "status": "canonical",
     "error": [],
-    "peringatan": [
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
-    ]
+    "peringatan": []
   },
   {
     "file": "shopee/akun-dan-toko/32-membuat-profil-toko-yang-baik.md",
@@ -891,9 +783,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/membuat-profil-toko-yang-baik.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1819 kata — kemungkinan dua topik yang belum dipisah"
+      "2255 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -902,9 +792,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/pentingnya-menjaga-keamanan-toko-anda.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/pentingnya-menjaga-keamanan-toko-anda.md"
     ]
   },
   {
@@ -915,9 +803,7 @@
       "bahasa hype: 'dijamin'"
     ],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/tentang-kebijakan-logo-banner-toko.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/tentang-kebijakan-logo-banner-toko.md"
     ]
   },
   {
@@ -935,9 +821,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/tipe-tipe-penjual-di-shopee.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/tipe-tipe-penjual-di-shopee.md"
     ]
   },
   {

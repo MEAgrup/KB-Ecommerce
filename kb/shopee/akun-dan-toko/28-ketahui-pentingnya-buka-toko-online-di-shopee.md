@@ -11,10 +11,18 @@ valid_as_of: 2023-02
 sources:
   - file: umum--mulai-berjualan/ketahui-pentingnya-buka-toko-online-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-toko-020, shp-toko-022]
 ---
 # Ketahui Pentingnya Buka Toko Online di Shopee
 
 ## Ringkasan
+Artikel promosi (bukan kebijakan) soal alasan jualan di Shopee: dukungan Seller Centre, fitur promosi gratis (Shopee Live, Promo Voucher, Promo Shopee, Flash Sale, Voucher Ikuti Toko), Jasa Kirim yang Didukung Shopee, kampanye besar tahunan (9.9/11.11/12.12), CS & Sistem Layanan Penjual, Pusat Edukasi Penjual gratis. Klaim posisi pasar ("platform pertama di Indonesia untuk jumlah download & pengguna aktif") berdasarkan DATA 2021 — sudah agak lama, jangan dianggap angka terkini.
+
+## Kapan ini dipakai
+Dipakai kalau member (calon Penjual) nanya kenapa harus jualan di Shopee / keuntungan apa aja yang didapat. Ini materi motivasi/promosi, BUKAN kebijakan wajib — buat langkah konkret mulai jualan, arahkan ke `shp-toko-020`; buat strategi dapat pesanan pertama, arahkan ke `shp-toko-022`.
+
+## Isi
+
 ## **Mengapa Berjualan Online di Shopee?**
 
 
@@ -91,6 +99,16 @@ Keuntungan berjualan di Shopee sudah dirasakan langsung oleh banyak Penjual Shop
 
   - **Grandiest Deca Kartika Dewi, pemilik toko Sehelai Benang**
 
-**  
-  
-**
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Kampanye tahunan yang disebut | 9.9 Super Shopping Day, 11.11 Big Sale, 12.12 Birthday Sale |
+| Klaim posisi pasar (basis data) | tahun 2021 — platform pertama di Indonesia utk jumlah download & pengguna aktif bulanan |
+
+## Pertanyaan diagnosa
+
+1. **Member ragu apa untungnya jualan di Shopee dibanding platform lain?** Poin utama dari artikel ini: dukungan Seller Centre, fitur promosi GRATIS (Shopee Live, voucher, Flash Sale), integrasi jasa kirim, dan akses kampanye besar tahunan (9.9/11.11/12.12).
+2. **Member mau tau data terbaru posisi Shopee di pasar Indonesia?** HATI-HATI — klaim "platform pertama" di entry ini berbasis data TAHUN 2021, bukan angka terkini; jangan sajikan sebagai fakta terbaru tanpa verifikasi.
+3. **Member nanya di mana bisa belajar jualan gratis?** Arahkan ke Pusat Edukasi Penjual — sedia panduan, webinar, dan pelatihan gratis.
+4. **Member mau tau cara ikut kampanye besar Shopee?** Arahkan sebagai gambaran umum ke sini, tapi buat syarat teknis tiap kampanye, arahkan ke entry promosi spesifik (Flash Sale Shopee, dll).

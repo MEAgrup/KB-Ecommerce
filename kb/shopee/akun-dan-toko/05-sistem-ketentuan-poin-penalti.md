@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: umum---poin-penalti/sistem-ketentuan-poin-penalti.md
     bagian: "artikel penuh"
+related: [shp-penalti-001, shp-penalti-003, shp-penalti-004]
 ---
 # Sistem & Ketentuan Poin Penalti
 
 ## Ringkasan
+Performa toko dievaluasi MINGGUAN, hasil + poin penalti update tiap hari SENIN. Poin dari produk terlarang/imitasi/spam = 2 poin; tiap kelipatan 3 poin pelanggaran produk = pembatasan tampil jadi 100 produk selama 28 hari; ≥12 poin = gak bisa ubah info produk. Keuntungan eksklusif balik setelah 28 hari kalau performa membaik, TAPI akumulasi poin TETAP SAMA dalam kuartal berjalan — reset ke 0 cuma di Senin terakhir kuartal (Maret/Juni/September/Desember). Banding cuma diterima buat poin di KUARTAL YANG SAMA.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara kerja Sistem Poin Penalti secara mendalam (jadwal evaluasi, ambang, reset, banding). Buat kebijakan paket kosong, arahkan ke `shp-penalti-001`; buat FAQ ringkas, arahkan ke `shp-penalti-003`; buat cara ajukan banding, arahkan ke `shp-penalti-004`.
+
+## Isi
+
 **Tentang Sistem Poin Penalti**
 
 
@@ -110,3 +118,31 @@ Pelajari lebih lanjut terkait[ Pengajuan Banding Penalti](https://seller.shopee.
 
   - Pengajuan banding hanya diperbolehkan untuk poin penalti yang didapatkan pada kuartal yang sama.
   - Poin penalti akan diatur ulang menjadi 0 pada hari Senin terakhir di setiap kuartal (Senin terakhir di bulan Maret, Juni, September dan Desember).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Frekuensi evaluasi performa toko | mingguan, hasil rilis tiap hari Senin |
+| Waktu update Poin Penalti | hari yang sama dengan hasil evaluasi (Senin) |
+| Poin penalti produk terlarang/imitasi/spam volume tinggi | 2 Poin Penalti |
+| Pembatasan tampil produk Pre-order yang melanggar | maks. 500 produk selama 7 hari |
+| Pembatasan tampil produk (tiap kelipatan 3 poin pelanggaran produk) | maks. 100 produk selama 28 hari |
+| Ambang gak bisa ubah info produk | ≥12 Poin Penalti |
+| Waktu pemulihan keuntungan eksklusif | 28 hari (kalau performa membaik & capai target) |
+| Jadwal reset Poin Penalti ke 0 | Senin terakhir tiap kuartal (Maret, Juni, September, Desember) |
+| Cakupan banding yang diterima | hanya poin penalti di KUARTAL YANG SAMA |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau kapan hasil evaluasi performa tokonya keluar?** SETIAP HARI SENIN — performa dievaluasi mingguan dan poin penalti update di hari yang sama.
+2. **Member upload produk terlarang dalam jumlah banyak, langsung kena berapa poin?** 2 Poin Penalti buat pelanggaran produk terlarang/imitasi/spam volume tinggi.
+3. **Member kena pembatasan produk yang bisa ditampilkan, kenapa cuma 100 produk?** Ini terjadi TIAP KELIPATAN 3 poin pelanggaran produk — pembatasan berlaku 28 hari, beda dari pembatasan Pre-order (500 produk/7 hari) yang punya aturan sendiri.
+4. **Member gak bisa ubah info produknya, kenapa?** Cek total Poin Penalti — kalau udah ≥12 poin, fitur ubah info produk otomatis TERKUNCI.
+5. **Member perbaiki performa toko, kapan keuntungan eksklusifnya balik?** 28 HARI setelah performa membaik & capai target — TAPI akumulasi poin tetap SAMA sepanjang kuartal, cuma reset di Senin terakhir kuartal.
+6. **Member dapat 3 poin cuma 1 minggu sebelum kuartal baru mulai, apa pembatasannya langsung ilang pas kuartal baru?** TIDAK — pembatasan TETAP berlaku 28 hari penuh meski itu artinya lanjut sampai ke kuartal berikutnya; poin-nya sendiri baru reset ke 0 di Senin terakhir kuartal.
+7. **Member mau banding poin penalti dari 4 bulan lalu (kuartal sebelumnya)?** TIDAK BISA — banding cuma diterima buat poin penalti yang didapat DI KUARTAL YANG SAMA.
+8. **Toko member ikut Program Ekspor Shopee, aturan poin penaltinya sama?** BELUM TENTU — toko luar negeri ikut aturan/kebijakan poin penalti negara masing-masing, arahkan cek artikel dampak poin penalti toko luar negeri.
+
+## Batasan
+Kalimat "Berikut rincian penalti yang didapatkan jika Anda tidak memenuhi target performa toko/Anda melakukan pelanggaran:" di awal entry ini merujuk ke TABEL rincian penalti per jenis pelanggaran yang HILANG saat scraping (langsung lompat ke bagian target performa toko tanpa tabelnya). Jangan karang rincian per jenis pelanggaran — arahkan member cek langsung ke artikel sumber di Seller Centre atau ke `shp-penalti-004` (Pengajuan Banding Penalti) untuk konteks tambahan.

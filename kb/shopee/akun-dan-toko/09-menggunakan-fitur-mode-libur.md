@@ -11,10 +11,18 @@ valid_as_of: 2026-04
 sources:
   - file: umum---pengaturan-toko/menggunakan-fitur-mode-libur.md
     bagian: "artikel penuh"
+related: [shp-toko-006, shp-toko-008]
 ---
 # Menggunakan Fitur Mode Libur
 
 ## Ringkasan
+Panduan praktis pakai Mode Libur: aktifkan MINIMAL 3 HARI sebelum libur (biar ada waktu proses pesanan tertunda), pastikan gak ada promo aktif (Flash Sale/Promo Livestream Affiliate/Brand Membership/Program Garansi Harga Terbaik) dulu sebelum aktifkan. Mode Libur CUMA cegah pesanan BARU — pesanan yang udah masuk tetap wajib diproses & direspons (kalau gak direspons, pembatalan/retur OTOMATIS disetujui). Atur Auto-Reply/Pesan Pembuka buat kasih tau Pembeli durasi libur.
+
+## Kapan ini dipakai
+Dipakai kalau member mau AKTIFKAN Mode Libur dan butuh panduan praktis (timing, cara jaga performa toko, atur auto-reply). Buat FAQ konsep dasar Mode Libur (apa yang terjadi saat aktif/nonaktif), arahkan ke `shp-toko-006`; buat konsekuensi toko idle/nonaktif, arahkan ke `shp-toko-008`.
+
+## Isi
+
 **Tentang Fitur Mode Libur**
 
 
@@ -113,3 +121,18 @@ Pesan *auto-reply* yang baik saat Anda libur harus menyertakan rincian penting y
   - Berapa lama Anda akan libur.
   - Waktu yang Anda butuhkan untuk menghubungi Pembeli kembali.
   - Ucapan terima kasih atas ketertarikan Pembeli pada produk Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu ideal aktivasi sebelum libur | minimal 3 hari sebelum toko libur |
+
+## Pertanyaan diagnosa
+
+1. **Member mau aktifkan Mode Libur besok pagi buat liburan besok siang?** KURANG IDEAL — disarankan aktifkan MINIMAL 3 HARI sebelumnya biar ada waktu cukup buat proses pesanan yang tertunda.
+2. **Member masih ada Flash Sale/Program Garansi Harga Terbaik aktif, bisa langsung aktifkan Mode Libur?** CEK DULU — pastikan gak ada promo yang sedang berlangsung (Flash Sale Shopee, Promo Livestream Affiliate, Brand Membership, Program Garansi Harga Terbaik) sebelum aktifkan Mode Libur.
+3. **Member khawatir kena penalti karena banyak pesanan gak terselesaikan pas libur?** WAJIB tetap respons cepat permintaan pembatalan/pengembalian selama Mode Libur aktif — kalau gak direspons, otomatis disetujui sistem dan bisa nambah Tingkat Pesanan Tidak Terselesaikan.
+4. **Member mau kasih tau Pembeli kapan tokonya buka lagi?** Atur Auto-Reply/Pesan Pembuka — sertakan durasi libur, estimasi waktu respons, dan ucapan terima kasih.
+5. **Member gak sempat aktifkan Mode Libur tepat waktu dan udah kena keterlambatan pengiriman?** Langkah pemulihan: minta maaf ke Pembeli terdampak, dan pertimbangkan kirim voucher/diskon buat dorong Pembeli order ulang setelah toko normal lagi.
+6. **Member bingung Auto-Reply diatur di mana?** Bisa lewat "Atur Sekarang" di Pengaturan Toko saat aktifkan Mode Libur, ATAU (buat sebagian Penjual) lewat Pesan Pembuka di halaman Asisten AI Toko — ada opsi Default Pesan Pembuka (jam kerja) dan Pesan Pembuka di luar jam kerja.

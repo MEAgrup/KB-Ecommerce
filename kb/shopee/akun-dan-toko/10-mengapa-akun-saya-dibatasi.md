@@ -11,11 +11,18 @@ valid_as_of: 2026-05
 sources:
   - file: umum---akun-dan-keamanan/mengapa-akun-saya-dibatasi.md
     bagian: "artikel penuh"
-related: [shp-akun-104]
+related: [shp-akun-104, shp-penalti-004]
 ---
 # Mengapa Akun Saya Dibatasi?
 
 ## Ringkasan
+15 jenis pelanggaran yang bikin akun dibatasi (>3 toko data sama, percobaan peretasan, pemalsuan info penjualan, penyalahgunaan voucher/GOX, penipuan, spam, produk duplikat, pesanan palsu, transaksi di luar Shopee, pelanggaran Chat, tagihan SPayLater nunggak, jual barang dilarang, produk dihapus >20x, pelanggaran kebijakan logo/media, Gesek Tunai). Banding via Customer Service, lampiran tergantung kasus (KTP, izin usaha, bukti pengiriman, dll) + Surat Pernyataan khusus buat 15 kategori produk terlarang (obat/suplemen, alkohol, hewan, tembakau, pakaian bekas impor, Minyakita, perjudian, jasa terlarang, bahan kimia berbahaya, pornografi, produk mistis, uang digital/kripto, makanan/vitamin palsu, toko lokal palsu, Gesek Tunai). Akun DITUTUP PERMANEN dalam 30 hari sejak notifikasi kalau gak banding/bandingnya gagal.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya kenapa akunnya dibatasi dan dokumen apa yang perlu disiapkan buat banding. Buat versi ringkas "cek poin penalti dulu", arahkan ke `shp-akun-104`; buat cara ajukan banding poin penalti (beda dari banding pembatasan akun), arahkan ke `shp-penalti-004`.
+
+## Isi
+
 Pembatasan akun diberikan ketika Penjual yang diduga terlibat dalam salah satu aktivitas berikut:
 
 
@@ -118,3 +125,21 @@ Akun yang dibatasi akan ditutup secara permanen dalam 30 hari setelah Notifikasi
   
 
 Apabila ada pertanyaan lebih lanjut, Anda dapat menghubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas kepemilikan toko dengan data pribadi sama | maks. 3 toko |
+| Ambang produk dihapus Shopee | >20 kali |
+| Batas ajukan banding sebelum penutupan permanen | 30 hari sejak notifikasi pembatasan dikirim |
+| Jumlah jenis Surat Pernyataan khusus produk terlarang | 15 kategori |
+
+## Pertanyaan diagnosa
+
+1. **Member punya 4 toko pakai data pribadi (KTP/rekening) yang sama, kena batasan?** BISA — batas kepemilikan toko dengan data pribadi sama adalah MAKS. 3 toko; lebih dari itu berisiko kena pembatasan akun.
+2. **Produk member udah dihapus Shopee berkali-kali, apa dampaknya ke akun?** Kalau udah LEBIH DARI 20 KALI produk dihapus, ini jadi salah satu alasan pembatasan akun secara keseluruhan, bukan cuma per-produk.
+3. **Member kena pembatasan akun karena jual obat terlarang, dokumen apa yang perlu disiapkan buat banding?** Selain dokumen umum (KTP, bukti pengiriman, dll), WAJIB isi Surat Pernyataan spesifik sesuai jenis pelanggaran — untuk obat/suplemen terlarang, ada Surat Pernyataan No. 1 yang harus diisi dan ditandatangani.
+4. **Member gak ajukan banding dalam waktu yang ditentukan, apa yang terjadi?** Akun DITUTUP PERMANEN dalam 30 hari sejak notifikasi pembatasan dikirim — baik karena gak mengajukan banding sama sekali, atau bandingnya diajukan tapi GAGAL.
+5. **Member toko lokal tapi kirim produk langsung dari luar negeri?** Ini termasuk pelanggaran Kebijakan Persaingan Tidak Sehat (Toko Lokal Palsu) — Surat Pernyataan No. 14 relevan buat kasus ini kalau kena pembatasan.
+6. **Member kena batasan karena toko terindikasi Gesek Tunai?** Perlu upload + hapus SEMUA produk terkait Gesek Tunai secara mandiri DAN isi Surat Pernyataan No. 15 sesuai Kebijakan Penjualan Produk/Jasa Gesek Tunai.

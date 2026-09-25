@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: umum--mulai-berjualan/berjualan-di-aplikasi-dan-seller-centre-shopee.md
     bagian: "artikel penuh"
+related: [shp-toko-017, shp-toko-001]
 ---
 # Berjualan di Aplikasi dan Seller Centre Shopee
 
 ## Ringkasan
+Seller Centre (komputer/laptop) unggul buat volume pesanan besar: 4 fitur utama — Optimalkan Daftar Produk, Pusat Promosi (+analisis efektivitas), Mass Upload/Update/Edit Atribut + Pengiriman Massal, Performa Toko (3 aspek: Tinjauan/Performa/Analisis, + performa Layanan & Penjualan). Aplikasi Shopee unggul buat pantau toko di mana aja: 5 fitur utama — Pengaturan & Profil Toko, Shopee Live/Video (media sosial), Produk Saya, Fitur Chat Penjual, Status Pesanan. Fitur Performa Toko ada di KEDUANYA, tapi data LEBIH SPESIFIK di Seller Centre.
+
+## Kapan ini dipakai
+Dipakai kalau member bingung mending pakai Seller Centre atau aplikasi Shopee buat tugas tertentu, atau nanya fitur spesifik ada di mana. Buat overview Seller Centre lebih ringkas, arahkan ke `shp-toko-017`; buat detail Pengaturan Toko (7 tab), arahkan ke `shp-toko-001`.
+
+## Isi
+
 **Keuntungan Berjualan melalui Seller Centre**
 
 
@@ -207,3 +215,20 @@ Fitur **Status Pesanan** akan memudahkan Anda untuk bertindak atau merespons sec
 **⚠️ Catatan**
 
 Pelajari cara[ mendaftar sebagai Penjual Shopee melalui aplikasi Shopee](https://seller.shopee.co.id/edu/article/464).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah fitur utama Seller Centre | 4 (Optimalkan Daftar Produk, Pusat Promosi, Kelola Produk & Pesanan Massal, Evaluasi Performa Toko) |
+| Jumlah fitur utama aplikasi Shopee | 5 (Kelola Toko, Media Sosial/Live-Video, Produk Saya, Fitur Chat Penjual, Status Pesanan) |
+| Jumlah aspek analisis Performa Toko | 3 (Tinjauan, Performa, Analisis) |
+
+## Pertanyaan diagnosa
+
+1. **Member punya ratusan produk yang mau di-update sekaligus, pakai apa?** Arahkan ke Seller Centre — fitur Mass Update di halaman Produk Saya khusus buat ubah banyak produk sekaligus, gak tersedia sepraktis itu di aplikasi.
+2. **Member mau mulai Shopee Live atau bikin Shopee Video?** Arahkan ke aplikasi Shopee — fitur Live/Video adalah bagian dari 5 fitur utama aplikasi, gak disebutkan tersedia di Seller Centre.
+3. **Member mau lihat data performa produk yang lebih detail (bukan cuma sekilas)?** Fitur Performa Toko ADA di kedua platform, TAPI data yang LEBIH SPESIFIK cuma didapat lewat Seller Centre.
+4. **Member lagi di luar kantor, mau cek/balas chat Pembeli cepat?** Arahkan ke aplikasi Shopee — Fitur Chat Penjual dirancang buat respons cepat di mana pun.
+5. **Member mau cek produk mana yang "Kualitas Informasi"-nya perlu ditingkatkan?** Arahkan ke Seller Centre — tab Tinjau Rincian Produk di halaman Produk Saya, pakai filter Kualitas Informasi Produk.
+6. **Member mau proses banyak pesanan sekaligus buat kirim?** Arahkan ke Fitur Pengiriman Massal di Seller Centre.

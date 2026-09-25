@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **950**
+- PERINGATAN: **837**
 
 ## Status entry
 
@@ -184,224 +184,155 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/akun-dan-toko/01-apa-itu-pengaturan-toko-di-seller-centre.md` · shp-toko-001
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/apa-itu-pengaturan-toko-di-seller-centre.
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/01-apa-kebijakan-shopee-tentang-paket-kosong.md` · shp-penalti-001
 
 - sumber tanpa penunjuk bagian: file: umum---poin-penalti/apa-kebijakan-shopee-tentang-paket-kosong.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/01-sistem-sub-akun.md` · shp-akun-001
 
 - sumber tanpa penunjuk bagian: file: mt---sub-akun/sistem-sub-akun.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2161 kata — kemungkinan dua topik yang belum dipisah
+- 2691 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/02-amankan-akun-anda-dengan-password-pin-shopeepay-atau-pin-saldo-penjual.md` · shp-akun-002
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/amankan-akun-anda-dengan-password-pin-s
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/02-apa-yang-harus-saya-lakukan-jika-saya-menerima-banyak-notifikasi.md` · shp-toko-002
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/apa-yang-harus-saya-lakukan-jika-saya-men
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 - valid_as_of tidak diketahui — pastikan ada baris D-OUTDATED buat entry ini
 
 ### `shopee/akun-dan-toko/02-bagaimana-saya-mengetahui-jika-saya-telah-diberikan-poin-penalti.md` · shp-penalti-002
 
 - sumber tanpa penunjuk bagian: file: umum---poin-penalti/bagaimana-saya-mengetahui-jika-saya-telah-di
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/03-apa-itu-pembeli-fiktif.md` · shp-akun-003
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/apa-itu-pembeli-fiktif.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/03-bagaimana-cara-menemukan-detail-toko-dan-produk-saya.md` · shp-toko-003
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/bagaimana-cara-menemukan-detail-toko-dan-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/03-faq-sistem-poin-penalti.md` · shp-penalti-003
 
 - sumber tanpa penunjuk bagian: file: umum---poin-penalti/faq-sistem-poin-penalti.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/04-apa-itu-penipuan-dengan-phishing.md` · shp-akun-004
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/apa-itu-penipuan-dengan-phishing.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/04-bagaimana-cara-mengelola-notifikasipemberitahuan.md` · shp-toko-004
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/bagaimana-cara-mengelola-notifikasipember
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- cuma 48 kata untuk entry canonical — cek kelengkapannya
 
 ### `shopee/akun-dan-toko/04-pengajuan-banding-penalti.md` · shp-penalti-004
 
 - sumber tanpa penunjuk bagian: file: umum---poin-penalti/pengajuan-banding-penalti.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/05-bagaimana-cara-memverifikasi-apakah-kode-verifikasi-otp-saya-asli.md` · shp-akun-005
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/bagaimana-cara-memverifikasi-apakah-kod
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/05-bagaimana-cara-mengganti-negara-tempat-tinggal-saya.md` · shp-toko-005
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/bagaimana-cara-mengganti-negara-tempat-ti
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- cuma 41 kata untuk entry canonical — cek kelengkapannya
 
 ### `shopee/akun-dan-toko/05-sistem-ketentuan-poin-penalti.md` · shp-penalti-005
 
 - sumber tanpa penunjuk bagian: file: umum---poin-penalti/sistem-ketentuan-poin-penalti.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1232 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/06-cegah-penipuan-bersama-shopee.md` · shp-akun-006
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/cegah-penipuan-bersama-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1299 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/06-faq-fitur-mode-libur.md` · shp-toko-006
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/faq-fitur-mode-libur.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/07-faq-meningkatkan-keamanan-akun.md` · shp-akun-007
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/faq-meningkatkan-keamanan-akun.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/07-menavigasi-formulir-feedback-dan-laporan-penjual.md` · shp-toko-007
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/menavigasi-formulir-feedback-dan-laporan-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/08-keamanan-akun-shopee.md` · shp-akun-008
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/keamanan-akun-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/08-mengapa-toko-saya-dinonaktifkan-atau-tidak-aktif.md` · shp-toko-008
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/mengapa-toko-saya-dinonaktifkan-atau-tida
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/09-kendala-log-in-akun-shopee-dan-kode-verifikasi-otp.md` · shp-akun-009
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/kendala-log-in-akun-shopee-dan-kode-ver
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1256 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/09-menggunakan-fitur-mode-libur.md` · shp-toko-009
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/menggunakan-fitur-mode-libur.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/10-mengapa-akun-saya-dibatasi.md` · shp-akun-010
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/mengapa-akun-saya-dibatasi.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1214 kata — kemungkinan dua topik yang belum dipisah
+- 1599 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/10-tentang-penyalahgunaan-label-shopee.md` · shp-toko-010
 
 - sumber tanpa penunjuk bagian: file: umum---pengaturan-toko/tentang-penyalahgunaan-label-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/11-apa-saja-akun-rekening-resmi-shopee.md` · shp-toko-011
 
 - sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/apa-saja-akun-rekening-res
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/11-mengatur-alamat-dan-titik-lokasi-toko.md` · shp-akun-011
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/mengatur-alamat-dan-titik-lokasi-toko.m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/12-bagaimana-saya-menghubungi-customer-service-shopee.md` · shp-toko-012
 
 - sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/bagaimana-saya-menghubungi
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/12-mengelola-akun-shopee.md` · shp-akun-012
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/mengelola-akun-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1696 kata — kemungkinan dua topik yang belum dipisah
+- 2183 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/13-di-mana-saya-dapat-menemukan-kebijakan-peraturan-dan-pemberitahuan-yan.md` · shp-toko-013
 
 - sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/di-mana-saya-dapat-menemuk
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/13-menjaga-keamanan-akun.md` · shp-akun-013
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/menjaga-keamanan-akun.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/14-formulir-suara-penjual.md` · shp-toko-014
 
 - sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/formulir-suara-penjual.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- sensitif_waktu=false tapi isinya nyentuh fee/menu/tier — kemungkinan salah tandai
 
 ### `shopee/akun-dan-toko/14-penanganan-kendala-aplikasi-shopee-dan-seller-centre.md` · shp-akun-014
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/penanganan-kendala-aplikasi-shopee-dan-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/15-proses-verifikasi-data-identitas-toko.md` · shp-akun-015
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/proses-verifikasi-data-identitas-toko.m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1268 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/15-tentang-fitur-asisten-penjual.md` · shp-toko-015
 
 - sumber tanpa penunjuk bagian: file: umum---sumber-informasi-untuk-penjual/tentang-fitur-asisten-penj
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/16-apa-itu-profil-toko-di-seller-centre.md` · shp-toko-016
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/apa-itu-profil-toko-di-seller-centre.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/16-penyebab-toko-dibanned-tiba-tiba.md` · shp-akun-101
 
@@ -410,134 +341,83 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/akun-dan-toko/16-tentang-fitur-keamanan-toko.md` · shp-akun-016
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/tentang-fitur-keamanan-toko.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/17-apa-itu-seller-centre.md` · shp-toko-017
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/apa-itu-seller-centre.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/17-empat-kemampuan-yang-menentukan-sukses-jangka-panjang.md` · shp-akun-102
 
 - sumber tanpa penunjuk bagian: file: transkrip-yohan-youtube/tanda-tanda-sukses-jualan-di-shopee.md
-- gak ada '## Kapan ini dipakai'
 - valid_as_of tidak diketahui — pastikan ada baris D-OUTDATED buat entry ini
 
 ### `shopee/akun-dan-toko/17-tentang-keamanan-akun.md` · shp-akun-017
 
 - sumber tanpa penunjuk bagian: file: umum---akun-dan-keamanan/tentang-keamanan-akun.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1358 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/18-berapa-jumlah-toko-yang-dapat-saya-miliki-di-shopee.md` · shp-toko-018
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/berapa-jumlah-toko-yang-dapat-saya-miliki-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/18-tiga-fase-terberat-dan-sifat-pasif-shopee.md` · shp-akun-103
 
 - sumber tanpa penunjuk bagian: file: transkrip-yohan-youtube/waspada-ini-fase-fase-terberat-jualan-di
-- gak ada '## Kapan ini dipakai'
 - valid_as_of tidak diketahui — pastikan ada baris D-OUTDATED buat entry ini
 
 ### `shopee/akun-dan-toko/19-berjualan-di-aplikasi-dan-seller-centre-shopee.md` · shp-toko-019
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/berjualan-di-aplikasi-dan-seller-centre-sh
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1264 kata — kemungkinan dua topik yang belum dipisah
+- 1590 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/20-berjualan-di-shopee.md` · shp-toko-020
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/berjualan-di-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/21-cara-agar-terhindar-dari-poin-penalti.md` · shp-toko-021
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/cara-agar-terhindar-dari-poin-penalti.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/22-cara-cepat-dapatkan-pesanan-pertama-di-shopee.md` · shp-toko-022
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/cara-cepat-dapatkan-pesanan-pertama-di-sho
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/23-daftar-dan-buat-akun-toko-di-shopee.md` · shp-toko-023
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/daftar-dan-buat-akun-toko-di-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/24-faq-berjualan-di-shopee.md` · shp-toko-024
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/faq-berjualan-di-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/25-faq-nama-dan-logo-toko.md` · shp-toko-025
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/faq-nama-dan-logo-toko.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/26-faq-pelanggaran-nama-toko-yang-tidak-tepattidak-pantas.md` · shp-toko-026
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/faq-pelanggaran-nama-toko-yang-tidak-tepat
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-
-### `shopee/akun-dan-toko/27-hal-hal-yang-perlu-dilakukan-untuk-menyelesaikan-pesanan-pertama.md` · shp-toko-027
-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/28-ketahui-pentingnya-buka-toko-online-di-shopee.md` · shp-toko-028
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/ketahui-pentingnya-buka-toko-online-di-sho
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-
-### `shopee/akun-dan-toko/29-lihat-penghasilan-toko-anda-di-halaman-penghasilan-saya.md` · shp-toko-029
-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- cuma 37 kata untuk entry canonical — cek kelengkapannya
 
 ### `shopee/akun-dan-toko/30-memantau-performa-toko-melalui-fitur-kesehatan-toko.md` · shp-toko-030
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/memantau-performa-toko-melalui-fitur-keseh
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-
-### `shopee/akun-dan-toko/31-membuat-halaman-toko-lebih-menarik-dengan-fitur-dekorasi-toko.md` · shp-toko-031
-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/32-membuat-profil-toko-yang-baik.md` · shp-toko-032
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/membuat-profil-toko-yang-baik.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1819 kata — kemungkinan dua topik yang belum dipisah
+- 2255 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/akun-dan-toko/33-pentingnya-menjaga-keamanan-toko-anda.md` · shp-toko-033
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/pentingnya-menjaga-keamanan-toko-anda.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/34-tentang-kebijakan-logo-banner-toko.md` · shp-toko-034
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/tentang-kebijakan-logo-banner-toko.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/akun-dan-toko/35-kenapa-akun-toko-dibatasi-cek-poin-penalti-dulu.md` · shp-akun-104
 
@@ -546,8 +426,6 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/akun-dan-toko/35-tipe-tipe-penjual-di-shopee.md` · shp-toko-035
 
 - sumber tanpa penunjuk bagian: file: umum--mulai-berjualan/tipe-tipe-penjual-di-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/analisis-performa-toko/01-memahami-performa-produk.md` · shp-performa-001
 

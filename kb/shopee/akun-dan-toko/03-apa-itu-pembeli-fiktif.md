@@ -11,10 +11,18 @@ valid_as_of: 2023-03
 sources:
   - file: umum---akun-dan-keamanan/apa-itu-pembeli-fiktif.md
     bagian: "artikel penuh"
+related: [shp-akun-004, shp-akun-002]
 ---
 # Apa itu Pembeli Fiktif?
 
 ## Ringkasan
+Pembeli fiktif = modus penipuan yang nyamar jadi Pembeli bermasalah (pembayaran/pengiriman), sering incar toko jelang jam operasional berakhir. 2 modus utama: (1) minta scan Kode QR palsu buat "verifikasi" — padahal itu approve LOGIN PENIPU ke akun Penjual, (2) kirim link/kode QR phishing via SMS/email yang mengarah ke halaman login palsu buat curi data. Kalau udah kejadian: segera ganti password + hubungi Customer Service Shopee, dan hubungi bank/e-wallet kalau data rekening ikut bocor.
+
+## Kapan ini dipakai
+Dipakai kalau member curiga lagi dihubungi Pembeli fiktif, atau nanya cara lindungi diri dari modus scan QR/phishing. Buat penipuan phishing secara umum (bukan cuma modus Pembeli), arahkan ke `shp-akun-004`; buat tips bikin password/PIN kuat, arahkan ke `shp-akun-002`.
+
+## Isi
+
 **Apa itu Pembeli Fiktif?**
 
 
@@ -91,3 +99,14 @@ Untuk mempelajari lebih lanjut tentang melindungi diri Anda dari penipuan, pelaj
   - [Tentang Keamanan Akun](https://seller.shopee.co.id/edu/article/10801)
   - [Apa itu penipuan dengan *phishing*?](https://seller.shopee.co.id/edu/article/18207)
   - [FAQ Meningkatkan Keamanan Akun](https://seller.shopee.co.id/edu/article/10787)
+
+## Angka & patokan
+Entry ini bersifat edukasi/tips keamanan, gak ada patokan numerik (nominal/persentase/batas waktu) di sumber — polanya kualitatif (ciri-ciri modus penipuan & langkah pencegahan).
+
+## Pertanyaan diagnosa
+
+1. **Pembeli minta member scan kode QR buat "verifikasi pesanan"?** WASPADA — ini modus penipuan Pembeli fiktif. Scan kode QR dari orang lain = APPROVE LOGIN PENIPU ke akun member, bukan verifikasi pesanan.
+2. **Member udah terlanjur scan kode QR mencurigakan atau isi data di link asing?** SEGERA ganti password Shopee dan hubungi Customer Service Shopee — kalau data rekening bank/e-wallet ikut kebagikan, hubungi juga bank/penyedia e-wallet-nya.
+3. **Member ragu apakah masalah pembayaran/pengiriman yang diadukan Pembeli itu asli atau modus penipuan?** Arahkan bagikan FAQ Pembayaran resmi ke Pembeli dan sarankan Pembeli hubungi Customer Service Shopee langsung — jangan proses sendiri kalau ragu.
+4. **Kenapa penipu sering incar toko menjelang tutup jam operasional?** Karena Penjual cenderung LEBIH GAMPANG menerima permintaan mendadak saat mepet waktu tutup — waspada ekstra di jam-jam ini.
+5. **Pembeli minta transaksi/pembayaran DI LUAR Shopee?** JANGAN — hindari transaksi di luar platform Shopee, ini salah satu langkah pencegahan utama dari modus Pembeli fiktif.

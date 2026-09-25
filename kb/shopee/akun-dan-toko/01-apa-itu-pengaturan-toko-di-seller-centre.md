@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: umum---pengaturan-toko/apa-itu-pengaturan-toko-di-seller-centre.md
     bagian: "artikel penuh"
+related: [shp-akun-013, shp-akun-016]
 ---
 # Apa itu Pengaturan Toko di Seller Centre?
 
 ## Ringkasan
+Halaman Pengaturan Toko di Seller Centre = hub konfigurasi toko dengan 7 tab: Akun & Keamanan, Pengiriman (4 sub-tab), Pembayaran, Chat, Notifikasi, Mode Libur, Aplikasi Pihak Ketiga. Tampilan tab bisa beda-beda tergantung kriteria masing-masing Penjual.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya di mana letak pengaturan tertentu di Seller Centre (alamat, jasa kirim, PIN Saldo, notifikasi email, dll) — arahkan ke tab yang sesuai. Buat detail keamanan akun spesifik, arahkan ke `shp-akun-013`; buat fitur keamanan toko, arahkan ke `shp-akun-016`.
+
+## Isi
+
 Pengaturan Toko di Seller Centre adalah halaman yang dapat membantu Anda mengatur dan mengkonfigurasikan  berbagai pengaturan yang dibutuhkan toko. Sesuai dengan kriteria setiap Penjual, Anda bisa melihat jenis-jenis informasi berbeda yang tersedia di halaman Pengaturan Toko.
 
 
@@ -78,3 +86,19 @@ Jika Anda ingin berlibur dan menonaktifkan toko untuk sementara, aktifkan Fitur 
 **7. Aplikasi Pihak Ketiga**
 
 Aplikasi Pihak Ketiga menyimpan informasi partner yang telah Anda berikan izin dan hubungkan. Anda juga bisa memilih untuk Pisahkan di *tab* Aplikasi Pihak Ketiga
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah tab pengaturan | 7 (Akun & Keamanan, Pengiriman, Pembayaran, Chat, Notifikasi, Mode Libur, Aplikasi Pihak Ketiga) |
+| Jumlah sub-tab Pengiriman | 6 (Pengaturan Alamat, Jasa Kirim, Dokumen Pengiriman, Jam Operasional, Asuransi Pengiriman, Program Hemat Biaya Kirim) |
+
+## Pertanyaan diagnosa
+
+1. **Member mau ubah alamat toko atau jasa kirim yang aktif?** Arahkan ke tab Pengiriman > sub-tab Pengaturan Alamat atau Jasa Kirim.
+2. **Member mau aktifkan PIN Saldo Penjual atau penarikan otomatis?** Arahkan ke tab Pembayaran.
+3. **Member gak mau nerima notifikasi chat penawaran harga dari Pembeli acak?** Arahkan ke tab Chat > Penerimaan Chat buat sesuaikan tipe pesan yang diterima.
+4. **Member mau liburan tapi gak mau performa toko turun karena telat respons?** Arahkan ke tab Mode Libur — mengaktifkan fitur ini menghentikan pesanan masuk sementara.
+5. **Member curiga ada aplikasi pihak ketiga yang gak dikenal terhubung ke tokonya?** Arahkan cek tab Aplikasi Pihak Ketiga — bisa lihat daftar partner yang punya akses dan pilih Pisahkan buat cabut aksesnya.
+6. **Member gak nemu salah satu dari 7 tab di akunnya?** Normal — tampilan tab BISA BEDA per Penjual tergantung kriteria masing-masing toko, bukan berarti error.

@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: umum---akun-dan-keamanan/tentang-keamanan-akun.md
     bagian: "artikel penuh"
+related: [shp-akun-007, shp-akun-006]
 ---
 # Tentang Keamanan Akun
 
 ## Ringkasan
+Panduan lengkap keamanan akun: 2 jenis verifikasi (Verifikasi Akun = lapisan dasar; Proteksi Tindakan Berisiko Tinggi = lapisan ketat buat perubahan data penting/transaksi besar). Verifikasi Kartu Identitas (KTP/KITAS) buka fitur ShopeePay Plus (limit saldo lebih tinggi + transaksi antar-Pengguna). Wajib atur Pertanyaan Keamanan + 1 metode lain biar limit penarikan Saldo Penjual gak diturunkan. Sejak 7 Januari 2026, Verifikasi Wajah TIDAK TERSEDIA sementara. Percobaan verifikasi Proteksi Tindakan Berisiko Tinggi dibatasi maks. 2x/24 jam.
+
+## Kapan ini dipakai
+Dipakai sebagai panduan komprehensif keamanan akun (verifikasi identitas, proteksi tindakan berisiko tinggi, kenali komunikasi mencurigakan). Buat FAQ ringkas keamanan akun, arahkan ke `shp-akun-007`; buat panduan anti-penipuan lengkap, arahkan ke `shp-akun-006`.
+
+## Isi
+
 **Meningkatkan Keamanan Akun Anda**
 
 
@@ -206,3 +214,23 @@ Informasi pribadi Anda meliputi:
 ⚠️**Catatan**
 
 Terdapat beberapa kasus peretasan oleh pihak tidak bertanggung jawab yang mengaku sebagai Tim Shopee atau organisasi lain dan umumnya akan menyatakan bahwa Anda memenangkan hadiah tertentu. Jika Anda merasa tidak yakin terhadap informasi yang diterima, segera hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) untuk memastikan kebenaran informasi tersebut.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah Pertanyaan Keamanan wajib | 3 pertanyaan |
+| Maks. Perangkat Tepercaya terdaftar | 3 perangkat |
+| Batas percobaan verifikasi Proteksi Tindakan Berisiko Tinggi | maks. 2x dalam 24 jam |
+| Tanggal Verifikasi Wajah dihentikan sementara | mulai 7 Januari 2026 |
+| Syarat minimal biar limit penarikan Saldo Penjual gak turun | Pertanyaan Keamanan + 1 metode verifikasi tambahan lainnya |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau kenapa limit penarikan Saldo Penjualnya diturunkan?** Cek metode verifikasi — kalau belum atur Pertanyaan Keamanan DAN minimal 1 metode tambahan lainnya, limit penarikan bisa diturunkan sebagai langkah keamanan.
+2. **Member biasa pakai Verifikasi Wajah, tiba-tiba gak bisa lagi?** Sejak 7 Januari 2026, Verifikasi Wajah DIHENTIKAN SEMENTARA — arahkan aktifkan metode verifikasi tambahan lain (Pertanyaan Keamanan/Perangkat Tepercaya/Email Keamanan).
+3. **Member coba verifikasi Proteksi Tindakan Berisiko Tinggi berkali-kali gagal dalam sehari?** Cek batas — maks. 2x percobaan dalam 24 jam; kalau udah lewat, tunggu atau hubungi CS buat perubahan data.
+4. **Member mau upgrade limit saldo ShopeePay-nya?** Arahkan lakukan Verifikasi Kartu Identitas (upload KTP/KITAS) — ini juga buka fitur ShopeePay Plus + transaksi antar-Pengguna ShopeePay.
+5. **Member ragu suatu link beneran dari Shopee, gimana cek tujuannya?** Di desktop, arahkan kursor ke link (jangan klik) buat lihat tujuan aslinya; di HP, sentuh dan tahan link — bahkan link yang KELIHATAN resmi bisa nyembunyiin tujuan berbahaya.
+6. **Ada yang ngaku Tim Shopee bilang member menang hadiah dan minta data pribadi?** WASPADA — ini pola umum penipuan yang mengatasnamakan Tim Shopee; segera hubungi Customer Service Shopee buat verifikasi kebenarannya.
+7. **Member diminta isi data pribadi lewat WhatsApp/SMS/telepon/formulir online yang ngaku dari Shopee?** JANGAN — data pribadi gak boleh dibagikan lewat platform manapun di luar arahan resmi aplikasi/situs Shopee, termasuk ke "Tim Shopee" sekalipun.

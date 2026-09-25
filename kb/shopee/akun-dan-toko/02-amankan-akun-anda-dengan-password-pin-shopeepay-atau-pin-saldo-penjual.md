@@ -11,10 +11,18 @@ valid_as_of: 2021-01
 sources:
   - file: umum---akun-dan-keamanan/amankan-akun-anda-dengan-password-pin-shopeepay-atau-pin-saldo-penjual-yang-kuat.md
     bagian: "artikel penuh"
+related: [shp-akun-013, shp-akun-004]
 ---
 # Amankan akun Anda dengan password, PIN ShopeePay, atau PIN Saldo Penjual yang kuat
 
 ## Ringkasan
+Tips bikin password/PIN kuat: min. 8 karakter, campuran huruf besar-kecil, unik per platform, hindari info pribadi (no. HP/tanggal lahir) dan urutan gampang tebak ("abcd", "0000", "qwerty"). Shopee TIDAK PERNAH minta password/PIN lewat telepon/medsos/email/chat — cuma login resmi lewat shopee.co.id. Curiga akun diretas? Reset password/PIN via "Lupa Password"/"Ubah PIN", atau hubungi Customer Service kalau gak bisa login.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya tips bikin password/PIN kuat, atau curiga akunnya kena phishing/diretas. Buat panduan lengkap keamanan akun (2FA, dll), arahkan ke `shp-akun-013`; buat kenali modus phishing, arahkan ke `shp-akun-004`.
+
+## Isi
+
 Seperti kebanyakan situs dan media sosial lainnya, Shopee menyarankan Anda untuk menggunakan password, PIN ShopeePay, atau PIN Saldo Penjual yang kuat. Hal ini dapat meningkatkan keamanan akun Anda.
 
 
@@ -62,3 +70,20 @@ Jika lupa akan PIN ShopeePay Anda, klik **Ubah PIN ShopeePay** dan ikuti petunju
   
 
 Jika lupa akan PIN Saldo Penjual Anda, klik **Ubah PIN Saldo Penjual** dan ikuti petunjuk yang ada untuk mengatur ulang PIN Anda. Informasi lebih lanjut mengenai cara ubah PIN Saldo Penjual dapat dilihat[ di sini](https://seller.shopee.co.id/edu/article/3622).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Panjang password minimum | min. 8 karakter |
+| Kombinasi karakter yang disarankan | huruf besar + huruf kecil |
+| Contoh pola yang HARUS dihindari | "abcd", "0000", "qwerty", "147852" |
+| Domain login resmi Shopee | shopee.co.id |
+
+## Pertanyaan diagnosa
+
+1. **Member dapat telepon/chat ngaku dari Shopee minta password/PIN?** PENIPUAN — Shopee TIDAK PERNAH minta password/PIN/kode OTP lewat telepon, medsos, email, atau chat, dalam kondisi apapun.
+2. **Member gak bisa login/tarik dana/bayar ShopeePay tiba-tiba?** Bisa jadi Shopee udah CURIGA ada pelanggaran keamanan dan ambil tindakan pencegahan — arahkan segera hubungi Customer Service Shopee.
+3. **Member udah kasih password ke orang lain (gak sengaja/kepepet)?** Segera LOGIN dan reset password + PIN — kalau udah gak bisa login lagi, langsung hubungi Customer Service Shopee.
+4. **Member lupa PIN ShopeePay atau PIN Saldo Penjual?** Beda tombol reset — pakai "Ubah PIN ShopeePay" buat PIN ShopeePay, "Ubah PIN Saldo Penjual" buat PIN Saldo Penjual (dua sistem terpisah, gak bisa disamakan resetnya).
+5. **Member diarahkan login ke situs selain shopee.co.id buat "verifikasi"?** JANGAN — Shopee gak pernah minta login di situs lain atau download sesuatu; ini ciri khas phishing.

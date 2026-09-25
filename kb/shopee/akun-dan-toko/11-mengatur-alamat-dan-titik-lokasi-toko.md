@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: umum---akun-dan-keamanan/mengatur-alamat-dan-titik-lokasi-toko.md
     bagian: "artikel penuh"
+related: [shp-toko-001]
 ---
 # Mengatur Alamat dan Titik Lokasi Toko
 
 ## Ringkasan
+3 jenis alamat per akun (masing-masing cuma 1): Alamat Utama/Pribadi, Alamat Toko (dasar hitung ongkir + titik pick-up), Alamat Pengembalian. Alamat maks. 90 KARAKTER. Per 22 Oktober 2025: TIDAK BISA ubah alamat toko saat atur pengiriman atau untuk pesanan di tab Dikemas. Kalau kirim dari lokasi beda dari alamat toko terdaftar, selisih ongkir DITANGGUNG PENJUAL. Titik lokasi toko yang salah bikin telat pick-up, jasa kirim gak support, atau ongkir salah tampil ke Pembeli.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara ubah alamat toko/titik lokasi, atau kenapa gak bisa ubah alamat toko pas lagi proses pesanan. Buat pengaturan toko lainnya, arahkan ke `shp-toko-001`.
+
+## Isi
+
 **Bagaimana Cara Menambah atau Mengubah Alamat Saya?**
 
 
@@ -127,3 +135,21 @@ Cara menghapus alamat akun adalah:
 
   - Pastikan alamat yang akan dihapus bukan alamat utama/pribadi, alamat toko, maupun alamat pengembalian.
   - Untuk menghapus alamat utama/pribadi, alamat toko, atau alamat pengembalian, Anda harus mengubah alamat akun. Pelajari[ di sini](https://seller.shopee.co.id/edu/article/3241) untuk informasi selengkapnya.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah jenis alamat per akun | 3 (Alamat Utama/Pribadi, Alamat Toko, Alamat Pengembalian) |
+| Batas jumlah tiap jenis alamat | 1 alamat/jenis per akun |
+| Panjang maksimal alamat | 90 karakter |
+| Tanggal berlaku aturan larangan ubah alamat toko saat proses pengiriman | 22 Oktober 2025 |
+
+## Pertanyaan diagnosa
+
+1. **Member mau ubah Alamat Toko pas lagi proses kirim pesanan yang statusnya Dikemas?** TIDAK BISA — sejak 22 Oktober 2025, alamat toko gak bisa diubah saat mengatur pengiriman atau untuk pesanan yang ada di tab Dikemas.
+2. **Member ketikin alamat lengkap tapi ditolak sistem karena kepanjangan?** Batas maks. 90 karakter — arahkan singkat elemen alamat (Jalan → Jl., Nomor → No.) tanpa hilangin info penting.
+3. **Member kirim paket dari gudang berbeda dari Alamat Toko yang terdaftar, Pembeli komplain ongkir gak sesuai?** Wajar — ongkir dihitung dari lokasi ASLI penyerahan paket ke jasa kirim, bukan dari Alamat Toko terdaftar; kalau ada selisih, itu DITANGGUNG PENJUAL.
+4. **Member mau punya 2 Alamat Toko buat 2 gudang berbeda?** TIDAK BISA — setiap akun cuma boleh punya 1 Alamat Toko (dan 1 masing-masing buat Alamat Utama & Alamat Pengembalian).
+5. **Member sering kena telat pick-up kurir?** Cek titik lokasi toko — kalau gak akurat, bisa nyebabin keterlambatan pick-up, layanan pengiriman tertentu gak kedukung, atau ongkir yang tampil ke Pembeli jadi salah.
+6. **Member dapat notifikasi "Update titik lokasi toko" saat login Seller Centre?** Itu rekomendasi OTOMATIS dari sistem — bisa pilih "Pakai Rekomendasi" kalau udah sesuai, atau "Update Titik Lokasi" buat atur manual sendiri.

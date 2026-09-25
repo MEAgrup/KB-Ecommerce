@@ -21,6 +21,9 @@ related: [shp-produk-102, fnd-analisa-002]
 ## Ringkasan
 Shopee dikategorikan sebagai model jualan "pasif" — begitu produk di-upload, seller relatif menunggu (dibanding TikTok Shop yang "aktif", seller harus terus kejar penonton lewat live/konten). Karena sifat pasif ini, tiga fase paling berat yang biasa dialami seller: fase awal (belum ngerti apa-apa), fase drop setelah sempat ramai, dan fase butuh produk baru terus-menerus karena satu produk gak akan laris selamanya.
 
+## Kapan ini dipakai
+Dipakai kalau member nanya kenapa toko yang dulu ramai tiba-tiba sepi, atau lagi di fase mana dalam perjalanan jualan di Shopee. Framework diagnosa praktis (bukan kebijakan resmi Shopee) — buat pola drop produk terkait siklus hidup produk, arahkan ke `shp-produk-102`; buat kerangka analisa bisnis lebih luas, arahkan ke `fnd-analisa-002`.
+
 ## Isi
 
 ### Fase 1: Awal (newbie)
