@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **1176**
+- PERINGATAN: **1167**
 
 ## Status entry
 
@@ -552,33 +552,24 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/analisis-performa-toko/01-memahami-performa-produk.md` · shp-performa-001
 
 - sumber tanpa penunjuk bagian: file: analisis-data---analisis-performa-toko/memahami-performa-produk.
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/analisis-performa-toko/02-mengapa-data-penjualan-saya-berubah-ubah.md` · shp-performa-002
 
 - sumber tanpa penunjuk bagian: file: analisis-data---analisis-performa-toko/mengapa-data-penjualan-sa
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/analisis-performa-toko/03-meningkatkan-strategi-dengan-performa-toko.md` · shp-performa-003
 
 - sumber tanpa penunjuk bagian: file: analisis-data---analisis-performa-toko/meningkatkan-strategi-den
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1819 kata — kemungkinan dua topik yang belum dipisah
+- 2192 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/analisis-performa-toko/04-pentingnya-analisis-data.md` · shp-performa-004
 
 - sumber tanpa penunjuk bagian: file: analisis-data---analisis-performa-toko/pentingnya-analisis-data.
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1202 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/analisis-performa-toko/05-tentang-performa-toko.md` · shp-performa-005
 
 - sumber tanpa penunjuk bagian: file: analisis-data---analisis-performa-toko/tentang-performa-toko.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/analisis-performa-toko/06-benchmark-angka-sehat-toko.md` · shp-performa-101
 

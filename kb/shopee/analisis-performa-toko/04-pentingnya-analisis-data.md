@@ -11,13 +11,17 @@ valid_as_of: 2026-03
 sources:
   - file: analisis-data---analisis-performa-toko/pentingnya-analisis-data.md
     bagian: "artikel penuh"
+related: [shp-performa-001, shp-performa-005]
 ---
 # Pentingnya Analisis Data
 
 ## Ringkasan
-**Apa itu Analisis Data?**
+Analisis data adalah proses mengolah data toko jadi informasi buat pengambilan keputusan — bukan sekadar lihat angka penjualan bagus/jelek, tapi paham apa yang harus dilakukan berikutnya. Prosesnya: tentukan tujuan → kumpulkan data → analisis → ambil keputusan.
 
+## Kapan ini dipakai
+Dipakai sebagai framework dasar sebelum masuk ke fitur teknis (Performa Toko, Panduan Penjualan, dll) — cocok buat member yang belum terbiasa analisis data sama sekali, atau buat menjelaskan KENAPA analisis data itu penting sebelum masuk ke CARA-nya.
 
+## Isi
 
 Analisis data adalah metode untuk mengolah data menjadi informasi agar dapat menentukan keputusan terbaik seputar bisnis. Kesuksesan sebuah bisnis dalam jangka panjang tidak hanya datang dari penjualan yang baik, tetapi juga dengan mengetahui apa yang harus Anda lakukan untuk meningkatkan kualitas dengan pengambilan keputusan strategis berbasis data.
 
@@ -94,3 +98,16 @@ Anda telah mempelajari mengapa analisis data penting dalam menjalankan bisnis. D
   
 
 Pelajari lebih lanjut tentang fitur Panduan Penjualan pada modul berikut ini untuk mengetahui dan mengidentifikasi tren yang dapat mengembangkan bisnis Anda.
+
+## Yang bikin gagal
+Ambil keputusan bisnis tanpa dasar data sama sekali — sumbernya bilang ini bikin fondasi bisnis "lebih mudah rapuh". Juga mulai analisis sebelum data cukup terkumpul (butuh histori yang cukup panjang buat bisa ditarik kesimpulan yang berarti).
+
+## Pertanyaan diagnosa
+
+1. **Toko ini sudah jalan berapa lama, dan udah punya cukup data buat dianalisis?** Toko yang baru buka gak akan punya data pembanding yang berarti.
+2. **Analisis-nya udah dilakukan secara berkala (mingguan/bulanan), atau cuma sekali pas ada masalah?** Analisis berkala kasih gambaran tren, bukan snapshot doang.
+3. **Sudah tentukan dulu masalah spesifik apa yang mau dijawab data**, sebelum buka dashboard? (mis. "kenapa kunjungan turun" — bukan asal buka semua tab)
+4. **Setelah promo besar selesai, sudah dianalisis hasilnya buat persiapan promo berikutnya?** Sumbernya nekankan ini momen penting buat evaluasi.
+
+## Batasan
+Entry ini konsep umum/motivational, bukan panduan teknis pakai fitur. Kalau member nanya "caranya gimana", arahkan ke entry teknis spesifik (mis. `shp-performa-001` untuk Performa Produk, `shp-performa-005` untuk navigasi Performa Toko).

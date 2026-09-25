@@ -1152,7 +1152,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-performa-003, shp-performa-005",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/01-memahami-performa-produk.md"
   },
@@ -1178,7 +1178,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-performa-001, shp-performa-005",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/03-meningkatkan-strategi-dengan-performa-toko.md"
   },
@@ -1191,7 +1191,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-performa-001, shp-performa-005",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/04-pentingnya-analisis-data.md"
   },
@@ -1204,7 +1204,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-performa-001, shp-performa-003, shp-performa-004",
     "decisions": "",
     "path": "shopee/analisis-performa-toko/05-tentang-performa-toko.md"
   },

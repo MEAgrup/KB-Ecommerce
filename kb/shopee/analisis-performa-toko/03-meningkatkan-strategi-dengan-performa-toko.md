@@ -11,13 +11,17 @@ valid_as_of: 2026-02
 sources:
   - file: analisis-data---analisis-performa-toko/meningkatkan-strategi-dengan-performa-toko.md
     bagian: "artikel penuh"
+related: [shp-performa-001, shp-performa-005]
 ---
 # Meningkatkan Strategi dengan Performa Toko
 
 ## Ringkasan
-**Memahami Performa Toko Anda Secara Keseluruhan**
+Performa Toko punya beberapa tab (Tinjauan, Penjualan, Produk) yang masing-masing bisa dipakai buat evaluasi & susun strategi: baca funnel konversi, bedah komposisi penjualan (kategori/harga/tipe pembeli), identifikasi produk terlaris lewat 5 tag performa otomatis, dan lacak aktivitas operasional (perubahan harga, voucher, iklan) lewat fitur *tag* di Grafik Kriteria per produk.
 
+## Kapan ini dipakai
+Dipakai waktu member udah lewat tahap "baca dashboard doang" dan mau nurunin data itu jadi keputusan strategi — kenapa checkout-nya bocor, kategori mana yang paling kontribusi penjualan, produk mana yang harus dinaikin visibilitasnya atau justru mulai turun performanya.
 
+## Isi
 
 **Tinjauan**
 
@@ -325,3 +329,27 @@ Data ditampilkan berdasarkan bagaimana Pembeli melakukan pembelian di toko Anda.
 1.  **Metrik penjualan produk**: menampilkan data bagaimana Pembeli berinteraksi dengan produk Anda
 2.  **Sumber penjualan**: *channel* dimana produk Anda dibeli
 3.  **Sumber kunjungan**: bagaimana Pembeli diarahkan menuju sumber penjualan Anda (misalnya lewat pencarian atau keranjang).
+
+## Angka & patokan
+
+| Patokan | Nilai | Sumber |
+|---|---|---|
+| Maks. metrik dipilih di tab Tinjauan | 4 | artikel resmi |
+| Jumlah metrik utama di Kriteria Utama | 10 | artikel resmi |
+| Maks. kriteria di *tag* Grafik Kriteria per produk | — | (lihat entry Performa Produk untuk detail kriteria) |
+| "Penjualan Teratas tapi Tren Menurun" (definisi tag) | Penjualan 30 hari terakhir turun ≥50% | artikel resmi |
+| "Penjualan Teratas tapi Penjualan Menurun" / "Penjualan Meningkat tapi Kunjungan Menurun" (definisi tag) | Kunjungan 30 hari terakhir di bawah rata-rata | artikel resmi |
+| Riwayat *tag* voucher yang bisa dilihat | sampai 2 tahun terakhir | artikel resmi |
+| Maks. *tag* manual aktif per hari | 2 | artikel resmi |
+| Rentang tanggal *tag* manual | mulai maks. H-30, berakhir maks. H+30 | artikel resmi |
+
+## Pertanyaan diagnosa
+
+1. **Tingkat Konversi (Pesanan Dibuat ÷ Kunjungan) lebih tinggi dari Tingkat Konversi (Pesanan Siap Dikirim ÷ Pesanan Dibuat)?** Kalau iya, ada kebocoran di checkout — Pembeli masukin ke keranjang tapi gak jadi bayar. Coba tawarin voucher buat dorong checkout.
+2. **Produk toko ini masuk tag performa yang mana** — Penjualan Teratas, Tren Menurun, Penjualan Menurun, Kunjungan Menurun, atau Peluang Produk Baru? Tiap tag punya arah tindakan beda (pertahankan vs benerin vs dorong visibilitas).
+3. **Komposisi Kategori/Harga/Pembeli-nya udah dicek?** Ini nentuin apakah masalahnya di kategori produk yang salah fokus, harga yang gak sesuai ekspektasi pasar, atau ketergantungan ke satu tipe Pembeli (baru vs lama).
+4. **Channel mana yang paling kontribusi penjualan** (Halaman Produk/Live/Video/Affiliate/Iklan)? Kalau cuma satu channel yang jalan, itu risiko konsentrasi — perlu diversifikasi.
+5. **Ada perubahan musiman/kalender yang mungkin jelasin naik-turunnya** (misal mendekati hari besar)? Cek peringkat produk & kategori secara berkala, bukan cuma sekali.
+
+## Batasan
+Entry ini nggabungin beberapa fitur berbeda di Performa Toko (Tinjauan, Penjualan, Produk, *tag*) dalam satu artikel — kalau member cuma tanya satu bagian spesifik (misal cara pakai *tag* manual), jawab bagian itu aja, jangan dump semua isi entry.

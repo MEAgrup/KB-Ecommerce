@@ -11,15 +11,17 @@ valid_as_of: 2026-03
 sources:
   - file: analisis-data---analisis-performa-toko/memahami-performa-produk.md
     bagian: "artikel penuh"
+related: [shp-performa-003, shp-performa-005]
 ---
 # Memahami Performa Produk
 
 ## Ringkasan
-**Apa itu Performa Produk?**
+Dashboard **Performa Produk** (Seller Centre → Performa Toko → tab Produk) punya 4 bagian: Tinjauan Produk (tren + sumber kunjungan), Kunjungan Produk (breakdown per channel), Performa Produk (metrik detail per produk), dan Analisis Produk (kategori produk bermasalah + tips perbaikan).
 
+## Kapan ini dipakai
+Dipakai waktu member/mentor perlu tahu cara **membaca** dashboard performa produk buat jawab pertanyaan spesifik — kunjungan produk turun, konversi rendah, atau kenapa produk gak laku — bukan strategi jualan, tapi navigasi datanya dulu sebelum ambil keputusan.
 
-
-Data Performa Produk dalam Performa Toko membantu Anda memahami produk mana saja yang lebih diminati oleh Pembeli. Data ini memungkinkan Anda untuk:
+## Isi
 
 Untuk mengakses data Performa Produk, buka halaman **Performa Toko** melalui Seller Centre dan klik *tab* **Produk**.
 
@@ -214,3 +216,19 @@ Menjelaskan masalah dan tips untuk meminimalisir masalah yang dipilih.
 1.  **Rincian Produk**
 
 Menunjukkan semua produk yang sesuai dengan jenis masalah serta link untuk mengubah produk.
+
+## Angka & patokan
+
+| Patokan | Nilai | Sumber |
+|---|---|---|
+| Rentang Tingkat Konversi yang dianggap baik | 0–10% (bervariasi per kategori) | artikel resmi |
+| Maks. kriteria yang bisa dipilih di Kunjungan Produk | 12 | artikel resmi |
+| Maks. kriteria yang bisa dipilih di Performa Produk | 10 | artikel resmi |
+| Periode data yang direkomendasikan buat tinjauan jangka pendek | 30 hari terakhir | artikel resmi |
+
+## Pertanyaan diagnosa
+
+1. **Sudah cek tab Analisis Produk buat tau kategori masalahnya** (penurunan penjualan / ulasan kurang baik / return tinggi / pembatalan tinggi / konversi kurang baik / penurunan kunjungan)? Tiap kategori punya saran perbaikan beda.
+2. **Tingkat konversi "Tambah ke Keranjang" lebih tinggi dari "Pesanan Dibuat"?** Kalau iya, kemungkinan ongkirnya kemahalan — cek Promo Ongkir Toko.
+3. **Sudah dibandingkan data 30 hari ini vs 30 hari sebelumnya?** Angka satu periode doang gak cukup buat nentuin arah tren.
+4. **Produk yang kunjungannya tinggi tapi konversinya rendah — udah diprioritaskan buat dibenerin duluan** dibanding produk yang kunjungannya emang rendah?
