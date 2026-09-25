@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **1152**
+- PERINGATAN: **1131**
 
 ## Status entry
 
@@ -1636,75 +1636,54 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/penjual-star-dan-mall/01-brand-membership.md` · shp-mall-001
 
 - sumber tanpa penunjuk bagian: file: peng-toko---shopee-mall/brand-membership.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1858 kata — kemungkinan dua topik yang belum dipisah
+- 2114 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/penjual-star-dan-mall/01-mengenal-big-campaign-shopee.md` · shp-kampanye-001
 
 - sumber tanpa penunjuk bagian: file: peng-toko---kampanye-shopee/mengenal-big-campaign-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1423 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/penjual-star-dan-mall/01-program-akselerasi-usaha-lokal.md` · shp-edukasi-001
 
 - sumber tanpa penunjuk bagian: file: peng-toko---edukasi-penjual/program-akselerasi-usaha-lokal.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/penjual-star-dan-mall/01-program-ekspor-shopee-flexi.md` · shp-ekspor-001
 
 - sumber tanpa penunjuk bagian: file: peng-toko---program-ekspor-shopee/program-ekspor-shopee-flexi.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 6630 kata — kemungkinan dua topik yang belum dipisah
+- 6987 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/penjual-star-dan-mall/01-program-penjual-star.md` · shp-star-001
 
 - sumber tanpa penunjuk bagian: file: peng-toko---penjual-star/program-penjual-star-2.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2133 kata — kemungkinan dua topik yang belum dipisah
+- 2451 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/penjual-star-dan-mall/02-ketentuan-perubahan-rekening-bank-untuk-penjual-shopee-mall.md` · shp-mall-002
 
 - sumber tanpa penunjuk bagian: file: peng-toko---shopee-mall/ketentuan-perubahan-rekening-bank-untuk-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/penjual-star-dan-mall/02-program-penjual-star.md` · shp-star-002
 
 - sumber tanpa penunjuk bagian: file: peng-toko---penjual-star/program-penjual-star.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 3105 kata — kemungkinan dua topik yang belum dipisah
+- 3495 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/penjual-star-dan-mall/02-program-sukses-umkm-baru.md` · shp-edukasi-002
 
 - sumber tanpa penunjuk bagian: file: peng-toko---edukasi-penjual/program-sukses-umkm-baru.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/penjual-star-dan-mall/02-tentang-program-ekspor-shopee.md` · shp-ekspor-002
 
 - sumber tanpa penunjuk bagian: file: peng-toko---program-ekspor-shopee/tentang-program-ekspor-shopee.
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 5234 kata — kemungkinan dua topik yang belum dipisah
+- 5522 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/penjual-star-dan-mall/03-penjual-shopee-mall.md` · shp-mall-003
 
 - sumber tanpa penunjuk bagian: file: peng-toko---shopee-mall/penjual-shopee-mall.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 5031 kata — kemungkinan dua topik yang belum dipisah
+- 5390 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/penjual-star-dan-mall/04-tentang-shopee-farma.md` · shp-mall-004
 
 - sumber tanpa penunjuk bagian: file: peng-toko---shopee-mall/tentang-shopee-farma.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1830 kata — kemungkinan dua topik yang belum dipisah
+- 2036 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/penjual-star-dan-mall/06-shopee-mall-vs-star-perbandingan-pengalaman-lapangan.md` · shp-mall-101
 

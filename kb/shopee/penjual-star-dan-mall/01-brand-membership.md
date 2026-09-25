@@ -15,9 +15,12 @@ sources:
 # Brand Membership
 
 ## Ringkasan
-**Apa itu Program Brand Membership?**
+Brand Membership adalah fitur loyalitas untuk Penjual: bikin tingkatan member, sistem poin, dan keuntungan eksklusif (voucher, harga khusus, hadiah, produk eksklusif member) buat narik kunjungan berulang dan loyalitas Pembeli.
 
+## Kapan ini dipakai
+Dipakai waktu toko (biasanya Shopee Mall/brand) mau setup program loyalitas member sendiri — bukan sekadar voucher toko biasa, tapi sistem tingkatan + poin yang bikin Pembeli termotivasi belanja berulang buat naik level.
 
+## Isi
 
 Brand Membership adalah fitur untuk Penjual yang berfungsi untuk menarik lebih banyak Pembeli, meningkatkan penjualan toko, serta membangun loyalitas Pembeli. Melalui fitur ini, Anda dapat memberikan berbagai **keuntungan eksklusif** kepada member seperti **voucher khusus**, **harga spesial** dan **hadiah gratis**.
 
@@ -411,3 +414,27 @@ Untuk mendapatkan gambaran umum tentang member dalam program Brand Membership An
 
 1.  Cari tahu detail daftar member brand dari mulai Nama Membership, Username Pembeli, Tingkat, Jumlah Belanja, Poin Sekarang, dan Tanggal Bergabung.
 2.  Pilih Lihat Rincian di kolom Aksi untuk melihat informasi selengkapnya tentang member, seperti Riwayat Aktivitas.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Maks. tingkatan membership | 4 |
+| Min. jenis keuntungan wajib dibuat | 2 (Penukaran Voucher + Voucher Member Baru) |
+| Dimensi Kartu Brand Membership | 1054px x 378px, JPG/JPEG/PNG, maks. 2MB |
+| Rentang poin tambahan disarankan (Promo Kelipatan Poin) | 1–10 |
+| Maks. produk di Promo Kelipatan Poin | 500 |
+| Periode maks. Harga Eksklusif Member | 3 bulan |
+| Jarak min. tanggal promo Harga Eksklusif Member dari tanggal dibuat | 2 bulan |
+| Periode diagnosa performa | 30 hari terakhir |
+
+## Pertanyaan diagnosa
+
+1. **Toko udah nentuin mau pakai sistem tingkatan atau enggak?** Kalau enggak, semua member setara — langsung ke pengaturan poin tanpa perlu atur tingkat.
+2. **Minimum pembelian per tingkat udah proporsional?** Sumbernya nekankan biar member termotivasi naik level — jangan gap-nya kegedean/kekecilan.
+3. **2 keuntungan wajib (Penukaran Voucher, Voucher Member Baru) udah dibuat?** Ini wajib ada sebelum program bisa jalan.
+4. **Mau bikin promo/harga khusus — tipe apa** (Voucher Eksklusif, Hadiah Gratis, Harga Eksklusif Member, Produk Eksklusif Member, Promo Kelipatan Poin)? Masing-masing punya aturan & batasan beda.
+5. **Kalau soal Harga Eksklusif Member — jaraknya dari tanggal pembuatan udah minimal 2 bulan?** Ini syarat yang sering kelewat.
+
+## Batasan
+Entry ini fitur khusus Brand Membership (biasanya relevan buat toko Shopee Mall). Kalau member nanya soal voucher toko biasa (bukan program membership), itu topik beda — arahkan ke entry voucher toko standar.

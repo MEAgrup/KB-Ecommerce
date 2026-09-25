@@ -11,13 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: peng-toko---shopee-mall/tentang-shopee-farma.md
     bagian: "artikel penuh"
+related: [shp-mall-003]
 ---
 # Tentang Shopee Farma
 
 ## Ringkasan
-**Apa itu Shopee Farma?**
+Shopee Farma = platform khusus jual obat via apotek berizin resmi. Wajib udah jadi Penjual Shopee Mall + lengkapi dokumen apotek (SIA, SIPA, SIUP/NIB, NPWP). Obat Keras cuma bisa dijual lewat Shopee Farma dan wajib lewat telekonsultasi + pengkajian resep Apoteker — gak boleh dipromosikan dalam bentuk apapun.
 
+## Kapan ini dipakai
+Niche banget — dipakai kalau ada klien/prospek yang jualan farmasi/apotek. Bukan buat toko biasa. Kalau ada pertanyaan soal obat/kesehatan di luar konteks apotek resmi, ini bukan entry yang relevan.
 
+## Isi
 
 Shopee Farma (SFarma) adalah *platform* layanan kesehatan yang disediakan Shopee untuk pembelian obat melalui apotek resmi dan konsultasi dengan tenaga media profesional secara *online* melalui mitra Shopee.
 
@@ -356,4 +360,23 @@ Penjual dilarang melakukan segala bentuk promosi terhadap obat keras (obat resep
 Pastikan untuk mematuhi aturan ini penting agar toko tetap aman, terpercaya, dan aktif. Pelanggaran dapat berakibat penghapusan produk, pembatasan akun, atau penutupan toko.
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Status Penjual wajib sebelum daftar | Shopee Mall |
+| Masa berlaku resep telekonsultasi | 1x24 jam, hanya bisa dilayani 1x |
+| Batas kedaluwarsa obat yang boleh dijual | minimal 6 bulan tersisa |
+| Kualitas foto gedung apotek | min. 1080p/HD, JPG/PNG, maks. 10MB |
+| Kadar AHA maks. (kosmetik sediaan kulit) | 10% |
+| Kadar hydrogen peroxide maks. (pemutih gigi) | 6% |
+
+## Pertanyaan diagnosa
+
+1. **Toko udah berstatus Shopee Mall?** Ini syarat wajib sebelum bisa daftar Shopee Farma — kalau belum, arahkan ke `shp-mall-003` dulu.
+2. **Ini soal Obat Keras, Obat Bebas, atau Obat Bebas Terbatas?** Obat Keras WAJIB lewat telekonsultasi + resep + pengkajian Apoteker; dua yang lain punya alur beda (lihat entry Ketentuan Penjualan Obat Bebas terpisah).
+3. **Resepnya udah lewat 1x24 jam atau udah pernah dipakai sekali?** Resep otomatis gak berlaku lagi — apotek wajib tolak.
+4. **Apotek mau kasih diskon/promosi ke obat keras?** Itu dilarang total — gak ada pengecualian, termasuk bundling atau penempatan di fitur promosi Shopee.
+5. **Dokumen apotek udah lengkap semua** (SIA, SIPA, SIUP/NIB, NPWP, foto gedung sesuai ketentuan)? Kalau salah satu kurang/gak sesuai format, pendaftaran bakal ditolak.
+
+## Batasan
+Topik ini sangat spesifik (apotek berizin resmi) — kemungkinan besar jarang relevan buat mayoritas member MEA kecuali klien di sektor farmasi/kesehatan.

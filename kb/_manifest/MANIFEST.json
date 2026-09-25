@@ -3518,7 +3518,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-ekspor-002",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/01-program-ekspor-shopee-flexi.md"
   },
@@ -3531,7 +3531,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-star-002",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/01-program-penjual-star.md"
   },
@@ -3557,7 +3557,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-star-001",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/02-program-penjual-star.md"
   },
@@ -3583,7 +3583,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-ekspor-001",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/02-tentang-program-ekspor-shopee.md"
   },
@@ -3596,7 +3596,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-mall-002, shp-mall-101",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/03-penjual-shopee-mall.md"
   },
@@ -3609,7 +3609,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-mall-003",
     "decisions": "",
     "path": "shopee/penjual-star-dan-mall/04-tentang-shopee-farma.md"
   },

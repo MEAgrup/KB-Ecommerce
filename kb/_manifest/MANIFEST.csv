@@ -269,14 +269,14 @@ shp-pengiriman-041,Tentang Layanan Pengiriman Instant & Instant Prioritas,shopee
 shp-mall-001,Brand Membership,shopee,penjual-star-dan-mall,3,canonical,true,2026-08,,,shopee/penjual-star-dan-mall/01-brand-membership.md
 shp-kampanye-001,Mengenal Big Campaign Shopee,shopee,penjual-star-dan-mall,2,canonical,true,2026-08,,,shopee/penjual-star-dan-mall/01-mengenal-big-campaign-shopee.md
 shp-edukasi-001,Program Akselerasi Usaha Lokal,shopee,penjual-star-dan-mall,2,canonical,true,2026-08,,,shopee/penjual-star-dan-mall/01-program-akselerasi-usaha-lokal.md
-shp-ekspor-001,Program Ekspor Shopee FLEXI,shopee,penjual-star-dan-mall,3,canonical,true,2026-08,,,shopee/penjual-star-dan-mall/01-program-ekspor-shopee-flexi.md
-shp-star-001,Program Penjual Star+,shopee,penjual-star-dan-mall,3,canonical,true,2026-07,,,shopee/penjual-star-dan-mall/01-program-penjual-star.md
+shp-ekspor-001,Program Ekspor Shopee FLEXI,shopee,penjual-star-dan-mall,3,canonical,true,2026-08,shp-ekspor-002,,shopee/penjual-star-dan-mall/01-program-ekspor-shopee-flexi.md
+shp-star-001,Program Penjual Star+,shopee,penjual-star-dan-mall,3,canonical,true,2026-07,shp-star-002,,shopee/penjual-star-dan-mall/01-program-penjual-star.md
 shp-mall-002,Ketentuan Perubahan Rekening Bank untuk Penjual Shopee Mall,shopee,penjual-star-dan-mall,1,canonical,true,2026-07,,,shopee/penjual-star-dan-mall/02-ketentuan-perubahan-rekening-bank-untuk-penjual-shopee-mall.md
-shp-star-002,Program Penjual Star,shopee,penjual-star-dan-mall,3,canonical,true,2026-07,,,shopee/penjual-star-dan-mall/02-program-penjual-star.md
+shp-star-002,Program Penjual Star,shopee,penjual-star-dan-mall,3,canonical,true,2026-07,shp-star-001,,shopee/penjual-star-dan-mall/02-program-penjual-star.md
 shp-edukasi-002,Program Sukses UMKM Baru,shopee,penjual-star-dan-mall,2,canonical,true,2026-06,,,shopee/penjual-star-dan-mall/02-program-sukses-umkm-baru.md
-shp-ekspor-002,Tentang Program Ekspor Shopee,shopee,penjual-star-dan-mall,3,canonical,true,2026-07,,,shopee/penjual-star-dan-mall/02-tentang-program-ekspor-shopee.md
-shp-mall-003,Penjual Shopee Mall,shopee,penjual-star-dan-mall,3,canonical,true,2026-08,,,shopee/penjual-star-dan-mall/03-penjual-shopee-mall.md
-shp-mall-004,Tentang Shopee Farma,shopee,penjual-star-dan-mall,2,canonical,true,2026-08,,,shopee/penjual-star-dan-mall/04-tentang-shopee-farma.md
+shp-ekspor-002,Tentang Program Ekspor Shopee,shopee,penjual-star-dan-mall,3,canonical,true,2026-07,shp-ekspor-001,,shopee/penjual-star-dan-mall/02-tentang-program-ekspor-shopee.md
+shp-mall-003,Penjual Shopee Mall,shopee,penjual-star-dan-mall,3,canonical,true,2026-08,"shp-mall-002, shp-mall-101",,shopee/penjual-star-dan-mall/03-penjual-shopee-mall.md
+shp-mall-004,Tentang Shopee Farma,shopee,penjual-star-dan-mall,2,canonical,true,2026-08,shp-mall-003,,shopee/penjual-star-dan-mall/04-tentang-shopee-farma.md
 shp-mall-101,Shopee Mall vs Star vs Reguler — perbandingan dari pengalaman lapangan,shopee,penjual-star-dan-mall,2,canonical,true,tidak-diketahui,shp-mall-001,,shopee/penjual-star-dan-mall/06-shopee-mall-vs-star-perbandingan-pengalaman-lapangan.md
 shp-produk-001,Mengakses Fitur Edit Secara Massal,shopee,produk,1,canonical,false,2026-04,,,shopee/produk/01-mengakses-fitur-edit-secara-massal.md
 shp-produk-002,Tentang Edit Atribut,shopee,produk,1,canonical,false,2026-04,,,shopee/produk/02-tentang-edit-atribut.md

@@ -11,14 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: peng-toko---shopee-mall/penjual-shopee-mall.md
     bagian: "artikel penuh"
+related: [shp-mall-002, shp-mall-101]
 decisions: []
 ---
 # Penjual Shopee Mall
 
 ## Ringkasan
-**Apa itu Shopee Mall?**
+Shopee Mall = toko khusus pemilik merek/distributor resmi, semua produk wajib 100% original (produk imitasi = wajib refund 2x lipat + dikeluarkan). Setelah gabung, performa terus dipantau (Persentase Chat Dibalas ≥60%, Penilaian Toko ≥4,4, produk ≥10, pre-order <5%) — gagal ≥1 kriteria 60 hari berturut-turut = dicabut statusnya. Kena Biaya Pembayaran 1,8% (maks. Rp50.000/kuantitas produk), flat sama rata semua kategori.
 
+## Kapan ini dipakai
+Dipakai buat cek eligibilitas gabung (Official Store vs Authorized Store punya syarat beda), cek kenapa status Mall dicabut (bandingin ke 4 kriteria performa), atau jawab soal biaya (1,8% ini beda dari Biaya Administrasi biasa — baca hati-hati biar gak ketuker).
 
+## Isi
 
 Shopee Mall adalah toko terpilih khusus pemilik merek dan distributor resmi. Produk dari Penjual Shopee Mall akan memiliki label  pada halaman profil toko atau pada semua daftar produk terdaftar.
 
@@ -829,4 +833,31 @@ Tiga jenis pelanggaran produk yang akan ditindaklanjuti oleh Shopee adalah:
 **⚠️ Catatan**
 
   - Produk yang melanggar salah satu panduan pelanggaran produk Shopee atau peraturan pemerintah akan diblokir atau dihapus. Anda dapat memperbaiki informasi produk sesuai dengan ketentuan Shopee maks. 7 hari kalender setelah produk diturunkan. Apabila tidak ada perubahan maka toko Anda akan mendapatkan poin penalti.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Biaya Pembayaran Shopee Mall | 1,8% dari harga jual (maks. Rp50.000/kuantitas produk), flat semua kategori |
+| Waktu peninjauan pendaftaran | 10 hari kerja |
+| Waktu update status toko setelah peninjauan | ±7 hari kerja |
+| Kriteria performa: Persentase Chat Dibalas | ≥60% |
+| Kriteria performa: Penilaian Toko | ≥4,4 |
+| Kriteria performa: Jumlah Produk | ≥10 |
+| Kriteria performa: Persentase Produk Pre-order | <5% |
+| Gagal kriteria → status dicabut | ≥1 kriteria gagal 60 hari berturut-turut (peringatan di 30 hari pertama) |
+| Batas perbaiki produk yang diturunkan | maks. 7 hari kalender |
+| Sanksi jual produk imitasi | refund 2x lipat ke Pembeli + dikeluarkan dari Shopee Mall |
+| Min. foto per produk (standar) | 3 (2 khusus Makanan & Minuman, bisa <3 untuk kategori tertentu kalau dijual ecer) |
+
+## Pertanyaan diagnosa
+
+1. **Toko daftar sebagai Official Store atau Authorized Store?** Syaratnya beda: Official Store cukup 1 kriteria (pemilik brand ATAU distributor brand tunggal), Authorized Store butuh KEDUA kriteria (diotorisasi + jual bareng distributor lain).
+2. **Status Mall dicabut — kriteria mana yang gagal, dan sudah berapa lama?** Cek ke-4 kriteria performa; pencabutan cuma terjadi kalau gagal ≥60 hari berturut-turut, bukan sekali gagal langsung dicabut.
+3. **Biaya yang ditanya itu Biaya Pembayaran Shopee Mall (1,8%) atau Biaya Administrasi biasa?** Dua biaya beda — jangan ketuker pas jawab member soal margin.
+4. **Produk diturunkan/diblokir — udah dalam 7 hari kalender buat diperbaiki?** Kalau lewat tanpa perubahan, toko kena poin penalti.
+5. **Kasusnya soal jual produk imitasi?** Ini konsekuensi terberat — bukan cuma penalti, tapi wajib refund 2x lipat ke Pembeli plus dikeluarkan dari Shopee Mall.
+
+## Batasan
+Entry ini panjang (>3.000 kata) karena gabungin syarat gabung, biaya, kriteria performa, dan panduan lengkap pelanggaran produk (termasuk daftar bahasa/simbol terlarang di nama produk) — per keputusan Yohan (`S-D-DEPTH-shp-ekspor-001/-002/shp-mall-003`, DECISIONS.md), dibiarkan utuh. Kalau member cuma butuh satu bagian, jawab bagian itu aja.
   - Produk yang terdeteksi lewat tanggal kedaluwarsa akan diturunkan. Mohon periksa dan perbaiki rincian produk Anda maks. 7 hari kalender setelah produk diturunkan. Apabila tidak ada perubahan maka toko Anda akan mendapatkan poin penalti.

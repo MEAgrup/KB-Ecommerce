@@ -11,14 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: peng-toko---program-ekspor-shopee/program-ekspor-shopee-flexi.md
     bagian: "artikel penuh"
+related: [shp-ekspor-002]
 decisions: []
 ---
 # Program Ekspor Shopee FLEXI
 
 ## Ringkasan
-**Apa itu Program Ekspor Shopee FLEXI?**
+Program Ekspor Shopee FLEXI = versi "kendali penuh" dari Program Ekspor Shopee biasa (yang operasionalnya dikelola Shopee) — Penjual atur sendiri strategi toko luar negerinya. Baru tersedia ke Brunei, Filipina, Malaysia, Singapura, Thailand, lewat Seller Centre PC saja. Syarat gabung ketat (11 kriteria toko dalam negeri) dan biaya admin per negara beda-beda (lihat tabel di Isi).
 
+## Kapan ini dipakai
+Dipakai buat 2 kebutuhan beda: (1) cek eligibilitas gabung (11 syarat toko), dan (2) cari angka spesifik per negara (biaya admin, threshold penalti keterlambatan/pesanan tidak terselesaikan) — jawab bagian yang relevan aja, jangan dump semua isi entry yang panjang.
 
+## Isi
 
 Program Ekspor Shopee adalah program yang memungkinkan Anda untuk menjual produk langsung ke luar negeri serta membuka peluang besar untuk memperluas jangkauan bisnis.
 
@@ -1377,3 +1381,32 @@ Penjual dapat mengajukan banding melalui *chat* Customer Service Shopee Ekspor (
   
 
 Setiap pengajuan banding akan ditinjau berdasarkan kondisi masing-masing pesanan. Keputusan atas hasil pengajuan banding merupakan keputusan akhir dari Shopee.
+
+## Angka & patokan
+
+Syarat gabung (toko dalam negeri harus penuhi SEMUA 11 poin):
+
+| Kriteria | Ambang |
+|---|---|
+| Produk aktif | min. 1, stok min. 1 |
+| Akumulasi poin penalti | < 3 |
+| Tingkat pembatalan pesanan (90 hari) | ≤ 3% |
+| Toko aktif sejak upload produk pertama | ≥ 1 bulan |
+| Penilaian Toko | ≥ 4,6 |
+| Tingkat Pengembalian (90 hari) | < 1% |
+| Status Dikelola Shopee | tidak boleh ikut |
+| Penjualan (30 hari terakhir) | ≥ 3 |
+| Jasa kirim aktif | Anteraja/ID Express/JNE Reguler/Ninja Xpress/SiCepat REG/SPX Standard |
+| Mode Libur | tidak boleh aktif |
+
+Negara tujuan tersedia: **Brunei Darussalam, Filipina, Malaysia, Singapura, Thailand.** Biaya administrasi normal vs tarif spesial (daftar sebelum tanggal 20, berlaku 3 bulan flat 5,5%), poin penalti keterlambatan/pesanan tidak terselesaikan per negara — semua beda per negara, lihat tabel lengkap di bagian Isi (jangan dihafal/ditebak, angkanya banyak dan spesifik per negara).
+
+## Pertanyaan diagnosa
+
+1. **Toko udah penuhi ke-11 syarat gabung?** Yang paling sering jadi ganjalan: penilaian toko ≥4,6, poin penalti <3, dan gak boleh lagi ikut Dikelola Shopee.
+2. **Negara tujuan yang ditanya yang mana?** Biaya admin, threshold penalti keterlambatan, dan tingkat pengiriman cepat SEMUA beda per negara (Brunei/Filipina/Malaysia/Singapura/Thailand) — jangan kasih angka satu negara buat pertanyaan negara lain.
+3. **Daftarnya sebelum atau sesudah tanggal 20 bulan ini?** Nentuin dapet tarif spesial 5,5% (3 bulan) atau tarif normal.
+4. **Ini soal toko dalam negeri (syarat gabung) atau toko ekspor yang udah jalan (operasional/penalti/dana)?** Dua fase beda, jawab sesuai konteks yang ditanya.
+
+## Batasan
+Entry ini panjang (>6.000 kata) karena menggabungkan overview, biaya per negara, cara gabung/berhenti, sinkronisasi produk, top up saldo iklan, dan kebijakan penalti dalam satu artikel — per keputusan Yohan (`S-D-DEPTH-shp-ekspor-001/-002/shp-mall-003`, DECISIONS.md), dibiarkan utuh dan cuma dipecah kalau ke depan kelihatan sering "dikutip sepotong". Kalau member cuma butuh satu bagian spesifik, jawab bagian itu aja.

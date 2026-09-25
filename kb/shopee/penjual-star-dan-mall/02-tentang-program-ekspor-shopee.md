@@ -11,14 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: peng-toko---program-ekspor-shopee/tentang-program-ekspor-shopee.md
     bagian: "artikel penuh"
+related: [shp-ekspor-001]
 decisions: []
 ---
 # Tentang Program Ekspor Shopee
 
 ## Ringkasan
-**Apa itu Program Ekspor Shopee?**
+Program Ekspor Shopee (beda dari FLEXI di `shp-ekspor-001`) — versi "full-managed": Shopee yang urus semua operasional toko luar negeri (produk, harga, chat, pengiriman), Penjual tinggal terima pesanan tanpa biaya tambahan. Setiap negara tujuan punya pajak impor sendiri (Brazil 37-60%, Malaysia 10-15,2%, Thailand PPN 7% + bea masuk 5-60%, dst) yang ditanggung sesuai kebijakan negara masing-masing.
 
+## Kapan ini dipakai
+Dipakai buat bedain dari FLEXI ("siapa yang ngatur toko luar negerinya"), atau buat jawab soal pajak impor per negara tujuan dan syarat gabung.
 
+## Isi
 
 Program Ekspor Shopee memungkinkan Anda untuk menjual produk ke Pembeli di luar negeri & memperluas bisnis dengan cara yang mudah tanpa dikenakan biaya apa pun. Pesanan dari Program Ekspor Shopee hanya akan berasal dari  beberapa wilayah di Asia Tenggara, Asia Timur, dan Amerika Latin. Secara bertahap, Anda akan bisa menerima pesanan dari negara-negara lainnya.
 
@@ -728,3 +732,32 @@ Anda dapat meminta pengembalian barang/dana melalui akun[ Official Program Ekspo
   - **Jika pesanan sudah sampai di luar negeri**
 
 Anda tidak dapat meminta pengembalian barang. Namun, Anda akan tetap dapat menerima pengembalian dana penuh karena pesanan yang sudah sampai di luar negeri akan diproses dengan ketentuan Shopee di negara tujuan.
+
+## Angka & patokan
+
+| Negara | Pajak impor | Berlaku sejak |
+|---|---|---|
+| Brazil | 37% (<$50) / >60% (≥$50) | Jul 2024 |
+| Brunei Darussalam | 6% | Jan 2026 |
+| Malaysia | 10% (≤RM500) / 15,2% (>RM500) | Jan 2024 |
+| Meksiko | 19% | Des 2024 |
+| Singapura | 9% | Jan 2024 |
+| Taiwan | 5–10% | Apr 2023 |
+| Thailand | PPN 7% + Bea Masuk 5–60% | Jan 2026 |
+| Vietnam | 8–10% (+PPh 1% badan usaha/individu) | Jun 2026 |
+
+| Patokan operasional | Nilai |
+|---|---|
+| Tingkat Pesanan Tidak Terselesaikan yang dianggap baik | <8–10% |
+| Tingkat Keterlambatan Pengiriman yang dianggap baik | <2% (kena penalti kalau tembus 10% dalam 7 hari) |
+| Batas pembatalan sebelum toko dinonaktifkan dari program | ≥30% (30 hari terakhir) |
+
+## Pertanyaan diagnosa
+
+1. **Ini pertanyaan soal Program Ekspor biasa (Shopee kelola semua) atau FLEXI (Penjual kendali penuh)?** Dua program beda — cek `shp-ekspor-001` kalau soal FLEXI.
+2. **Negara tujuan yang ditanya yang mana?** Pajak impornya beda-beda drastis (Brazil bisa >60%, Brunei cuma 6%) — jangan kasih angka satu negara buat negara lain.
+3. **Toko kena keterlambatan/pembatalan tinggi di toko luar negeri?** Cek dulu apakah udah nembus ambang 10% (keterlambatan, kena penalti) atau 30% (pembatalan, toko bisa dinonaktifkan dari program).
+4. **Pesanan bermasalah — udah sampai luar negeri belum?** Nentuin bisa minta retur barang (belum sampai) atau cuma refund dana penuh (udah sampai).
+
+## Batasan
+Entry ini panjang (>3.500 kata) karena gabungin overview, pajak per negara, benchmark performa, dan sistem exp/level toko luar negeri — per keputusan Yohan (`S-D-DEPTH-shp-ekspor-001/-002/shp-mall-003`, DECISIONS.md), dibiarkan utuh. Angka pajak impor per negara berubah-ubah (ada yang baru berlaku Jan/Jun 2026) — selalu cek `valid_as_of` sebelum kasih angka pasti.

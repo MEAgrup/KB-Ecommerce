@@ -15,9 +15,14 @@ sources:
 # Ketentuan Perubahan Rekening Bank untuk Penjual Shopee Mall
 
 ## Ringkasan
+Penjual Shopee Mall **gak bisa** ubah rekening bank sendiri via aplikasi/Seller Centre — wajib ajukan manual ke Shopee lewat Formulir Perubahan Data Penjual Shopee (ditandatangani Direktur/Pemilik + stempel perusahaan), diverifikasi maks. 5 hari kerja. Rekening baru harus atas nama sesuai KTP/NIB yang terdaftar.
+
+## Kapan ini dipakai
+Dipakai waktu Penjual Shopee Mall nanya kenapa gak ada opsi ubah rekening di aplikasi (memang sengaja dibatasi, beda dari toko biasa), atau lagi proses ganti rekening karena perubahan struktur perusahaan.
+
+## Isi
+
 Untuk meningkatkan keamanan akun dan memastikan penarikan dana dari Saldo Penjual hanya dilakukan oleh pihak yang sah, Shopee menerapkan **langkah verifikasi tambahan** dalam proses penambahan atau perubahan rekening bank bagi Penjual Shopee Mall.
-
-
 
 Berikut hal-hal yang perlu diketahui:
 
@@ -34,3 +39,17 @@ Berikut hal-hal yang perlu diketahui:
   - Penambahan no.rekening bank baru karena alasan perubahan kepemilikan/struktur organisasi perusahaan, maka penarikan Saldo Penjual Anda akan dibatasi selama 7 hari kedepan. Informasi penambahan no.rekening bank baru juga akan dikirimkan ke email Direktur/Pemilik Toko lama.
   - Data no.rekening lama yang sudah tidak sesuai dengan data kepemilikan terbaru di Akta Perusahaan akan dihapus.
   - Pelajari lebih lanjut terkait[ Kebijakan Validasi Nama Rekening Bank](https://seller.shopee.co.id/edu/article/27645).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu verifikasi manual | maks. 5 hari kerja (sejak dokumen lengkap) |
+| Pembatasan penarikan Saldo Penjual (kalau rekening baru karena perubahan kepemilikan/struktur) | 7 hari |
+
+## Pertanyaan diagnosa
+
+1. **Nama pemilik rekening baru udah sesuai KTP/NIB yang terdaftar di Verifikasi Data Identitas Toko Shopee Mall?** Ini syarat mutlak — rekening atas nama lain gak akan diproses.
+2. **Formulir udah lengkap ditandatangani Direktur/Pemilik + stempel perusahaan, dan dikirim dari email resmi toko?** Kalau salah satu kurang, proses gak bisa mulai.
+3. **Perubahan ini karena ganti kepemilikan/struktur perusahaan?** Kalau iya, penarikan Saldo Penjual otomatis dibatasi 7 hari — kasih tau member ini normal, bukan error.
+4. **Udah lewat 5 hari kerja sejak dokumen lengkap dikirim?** Kalau belum, itu masih dalam batas waktu wajar verifikasi manual Shopee.
