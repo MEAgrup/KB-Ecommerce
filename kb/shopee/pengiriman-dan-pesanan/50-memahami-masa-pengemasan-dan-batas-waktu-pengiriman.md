@@ -18,9 +18,6 @@ sources:
 **Apa itu Masa Pengemasan?**
 
 
-28-07-2026
-
-**Apa itu Masa Pengemasan?**
 
 Masa Pengemasan adalah perkiraan waktu yang dibutuhkan Penjual untuk menyiapkan dan mengirimkan pesanan. Semakin cepat Anda mengemas pesanan, pengalaman berbelanja Pembeli akan semakin meningkat karena potensi pesanan sampai ke Pembeli juga lebih cepat.
 

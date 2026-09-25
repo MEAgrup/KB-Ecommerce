@@ -18,11 +18,6 @@ sources:
 **Memahami Opsi Pengiriman**
 
 
-26-06-2026
-
-**Memahami Opsi Pengiriman**
-
-  
 
 ð **Definisi**
 
@@ -105,7 +100,7 @@ Fitur ini memungkinkan Anda untuk[ mengaktifkan/menonaktifkan **Cetak Mode Therm
 
 Operasional toko Anda semakin fleksibel dengan 2 pengaturan pengiriman yang dapat membantu kelancaran bisnis Anda, yaitu:
 
-  - **\*\*Jam Pickup oleh Kurir (Selain Instant)\*\***
+  - **Jam Pickup oleh Kurir (Selain Instant)**
 
 Fitur ini memungkinkan Anda untuk mengatur preferensi jam *pick up* oleh kurir untuk semua jenis pengiriman selain layanan Instant. Jika fitur ini tidak diaktifkan, kurir dapat mengambil paket Anda kapan saja.
 
@@ -132,7 +127,7 @@ Berikut tampilan halaman **Atur Pengiriman** jika Anda telah mengatur Jam Pickup
 
 Setelah tanggal dikonfirmasi, sistem akan mengalokasikan waktu *pick up* secara otomatis sesuai ketersediaan kurir.
 
-  - **\*\*Jam Operasional Instant\*\***
+  - **Jam Operasional Instant**
 
 Untuk Penjual yang memiliki jam operasional Instant, Instant (Versi Lama), Instant Prioritas yang lebih panjang dibandingkan masa pengemasan Shopee, pesanan berpotensi meningkat akibat waktu tiba ke Pembeli lebih cepat. Anda dapat mengatur jam operasional Instant toko Anda langsung melalui[ Seller Centre](https://seller.shopee.co.id/portal/all-settings/shipping/preferred-pickup-time/setup-instant-hours). Pelajari lebih lanjut terkait[ cara mengaktifkan layanan pengiriman Instant dan Instant Prioritas](https://seller.shopee.co.id/edu/article/25972).
 

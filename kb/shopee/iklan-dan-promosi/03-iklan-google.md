@@ -18,9 +18,6 @@ sources:
 **Apa itu Iklan Google?**
 
 
-18-08-2026
-
-**Apa itu Iklan Google?**
 
 Iklan Google Shopee adalah kerja sama antara Shopee dan Google untuk menampilkan produk Anda di hasil pencarian Google, Google Shopping, dan YouTube. Dengan iklan ini, calon Pembeli dapat melihat informasi produk saat mencari kata kunci terkait. Hal ini membantu Anda menjangkau lebih banyak pengguna di luar aplikasi Shopee dan mendorong mereka untuk berbelanja di toko Anda.
 
@@ -28,11 +25,11 @@ Iklan Google Shopee adalah kerja sama antara Shopee dan Google untuk menampilkan
 
 **Insentif Iklan Google**
 
-  - **\*\*Pengguna Baru Iklan Google\*\***
+  - **Pengguna Baru Iklan Google**
 
 Bagi pengguna baru Iklan Google bisa mendapatkan insentif berupa voucher toko hingga Rp4.500.000 dengan min. penggunaan Iklan Google tipe *Commerce Media Network (CMN)* sebanyak Rp5.000.000 pada kampanye pertama selama periode program.
 
-  - **\*\*Pengguna Lama Iklan Google\*\***
+  - **Pengguna Lama Iklan Google**
 
 Pengguna lama Iklan Google berkesempatan mendapat voucher toko hingga 75% dari total pemakaian Iklan Google tipe *Commerce Media Networks (CMN*) selama periode insentif apabila berhasil memenuhi target yang ditentukan untuk toko Anda selama periode program.
 

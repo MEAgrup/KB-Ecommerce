@@ -18,11 +18,6 @@ sources:
 **Biaya Administrasi Penjual Shopee Mall**
 
 
-31-07-2026
-
-**Biaya Administrasi Penjual Shopee Mall**
-
-  
 
 Biaya Administrasi Final Shopee Mall = (Harga Asli Produk – Diskon Produk dan/atau Voucher Diskon Ditanggung oleh Penjual Shopee Mall) x 11,70%/10,45%/10,20%/9,95%/7,70%/7,20%/6,20%/4,70%/4,20%/3,20%/2,50%\*
 
@@ -55,13 +50,13 @@ Biaya Administrasi Star/Star+ adalah biaya yang dibebankan kepada Penjual yang t
 
   
 
-Biaya Administrasi Final Penjual Star & Star+\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 10,00\*\*%/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%.
+Biaya Administrasi Final Penjual Star & Star+\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 10,00**%/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%.
 
   
 
 *\*Biaya yang berlaku didasarkan pada kategori produk. Cek*[ *rincian Biaya Administrasi per kategori produk*](https://seller.shopee.co.id/edu/article/15965).
 
-*\*\*20% lebih rendah dari Biaya Administrasi dasar sebesar 12,50%*
+**20% lebih rendah dari Biaya Administrasi dasar sebesar 12,50%*
 
 ⚠️**Catatan**
 
@@ -84,13 +79,13 @@ Biaya Administrasi Final Penjual Star & Star+\* = (Harga Asli Produk - Diskon Pr
 
 Penjual berstatus Non-Star akan dikenakan Biaya Administrasi sebagai berikut:
 
-Biaya Administrasi Final Penjual Non-Star\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 10,00\*\*%/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%.
+Biaya Administrasi Final Penjual Non-Star\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 10,00**%/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%.
 
   
 
 *\*Biaya yang berlaku tergantung dari kategori produk. Cek*[ *rincian Biaya Administrasi per kategori produk*](https://seller.shopee.co.id/edu/article/15965).
 
-*\*\*20% lebih rendah dari Biaya Administrasi dasar sebesar 12,5%.*
+**20% lebih rendah dari Biaya Administrasi dasar sebesar 12,5%.*
 
   
 
@@ -121,7 +116,7 @@ Anda dapat mengecek total pesanan yang telah terselesaikan pada **Pesanan Saya**
 
   
 
-**2. Penjual yang meng-*****upload*** **produk pertama mulai 1 Agustus 2026**
+**2. Penjual yang meng-**upload** **produk pertama mulai 1 Agustus 2026**
 
 Biaya Administrasi Penjual Non-Star akan diberlakukan kepada semua Penjual yang tidak tergabung dalam program Star/Star+ atau Shopee Mall.
 

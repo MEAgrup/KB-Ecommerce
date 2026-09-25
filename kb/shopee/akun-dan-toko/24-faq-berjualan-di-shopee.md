@@ -18,9 +18,6 @@ sources:
 **1. Bagaimana cara saya untuk mulai berjualan di Shopee?**
 
 
-09-09-2022
-
-**1. Bagaimana cara saya untuk mulai berjualan di Shopee?**
 
 Pertama, Anda perlu[ mendaftar akun Shopee](https://mall.shopee.co.id/buyer/signup?next=https%3A%2F%2Fseller.shopee.co.id). Setelah akun Anda dibuat, Anda dapat[ mulai meng-*upload* daftar produk](https://seller.shopee.co.id/edu/courseDetail/282?lessonId=782) untuk dijual di Seller Centre dan aplikasi Shopee\!
 
@@ -32,7 +29,7 @@ Anda hanya dapat membuat 1 toko pada 1 akun Shopee. Anda disarankan untuk mendaf
 
   
 
-**3.** ***Platform*** **apa saja yang bisa saya gunakan untuk menjual produk saya di Shopee?**
+**3.** **Platform** **apa saja yang bisa saya gunakan untuk menjual produk saya di Shopee?**
 
 Anda dapat menjual produk Anda di Shopee Marketplace, Shopee Mall, dan Shopee Supermarket.
 

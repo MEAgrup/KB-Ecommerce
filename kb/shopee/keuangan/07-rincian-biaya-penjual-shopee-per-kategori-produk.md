@@ -18,15 +18,12 @@ sources:
 **Rincian Kategori Produk Penjual Non-Star dan Star/Star+**
 
 
-31-07-2026
-
-**Rincian Kategori Produk Penjual Non-Star dan Star/Star+**
 
 **Kategori Fashion**
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Aksesoris Fashion | Aksesoris Rambut | Bando & Bandana, Ikat Rambut, Pita & Scrunchie, Jepitan & Pin Rambut, Rambut Palsu & Extension, Hiasan Kepala, Tiara & Mahkota Bunga, Aksesoris Rambut Lainnya | 9,00% |
 | Aksesoris Tambahan | Bros & Pin, Bordir, Liontin, Kancing Manset, Tato Temporer, Sapu Tangan, Aksesoris Tambahan Lainnya |  |  |
 | Anting | Anting |  |  |
@@ -153,7 +150,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Ibu & Bayi     | Mainan | Inflatable & Perosotan | 10,00%\\\* |
 | Keamanan Bayi | Baby Monitor, Kelambu, Bumper, Rail, & Guard, Pelindung Sudut, Pintu & Pagar Bayi, Pengaman Laci & Lemari, Alat Keamanan Bayi Lainnya | 9,50%      |  |
 | Kesehatan Kehamilan | Susu Ibu Hamil, Vitamin & Suplemen Ibu Hamil, Pelembab & Cream, Kesehatan Kehamilan Lainnya |  |  |
@@ -217,7 +214,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Audio | Media Player | MP3 & MP4 Player, CD, DVD, & Blu-ray Player, Voice Recorders, Radio & Pemutar Kaset, Media Player Lainnya | 9,50% |
 | Amplifier & Mixer | Amplifier & Mixer | 9,00% |  |
 | Kabel & Konverter Audio & Video | Kabel & Konverter Audio & Video |  |  |
@@ -286,7 +283,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Buku & Alat Tulis     | Perlengkapan Menggambar | Pensil Warna, Krayon & Pastel, Cat Air & Cat Poster, Cat Minyak, Cat Akrilik, Kuas Lukis, Palet Lukis, Kanvas Lukis & Easel, Buku Gambar & Sketsa, Perlengkapan Menggambar Lainnya | 10,00%\\\* |
 | Pembungkus Kado & Kemasan | Bubble Wrap | 9,50% |  |
 | Perlengkapan Sekolah & Kantor | Kalkulator, Pisau Ukir & Cutter, Tali & Selotip, Lem, Printer Label, Lanyard & Name Tag, Klip Kertas, Push Pin, & Paku Payung, Pembolong Kertas, Gunting, Stempel & Bak Stempel, Stapler & Staples, Kalender, Folder, Organizer Kertas, & Aksesoris |  |  |
@@ -370,7 +367,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI NON STAR, STAR/STAR+\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI NON STAR, STAR/STAR+** |
 | Tiket, Voucher, & Layanan   | Belanja | Ritel | 9,50% |
 | Layanan | Layanan |  |  |
 | Listrik, Gas, & Air | Listrik, Gas, & Air |  |  |
@@ -399,7 +396,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Aksesoris Fashion   | Aksesoris Tambahan | Masker | 10,45% |
 | Aksesoris Rambut | Bando & Bandana, Ikat Rambut, Pita & Scrunchie, Jepitan & Pin Rambut, Rambut Palsu & Extension, Hiasan Kepala, Tiara & Mahkota Bunga, Aksesoris Rambut Lainnya | 10,20% |  |
 | Dasi | Dasi |  |  |
@@ -524,7 +521,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Ibu & Bayi           | Mainan | Inflatable & Perosotan | 11,70% |
 | Kamar Bayi | Boks & Matras Tidur Bayi, Ayunan Bayi, Baby Walker, Selimut & Bedong, Bantal & Guling, Sprei, Tempat Penyimpanan, Kamar Bayi Lainnya, Matras & Sprei Lainnya | 10,20% |  |
 | Keamanan Bayi | Baby Monitor, Kelambu, Bumper, Rail, & Guard, Pelindung Sudut, Pintu & Pagar Bayi, Pengaman Laci & Lemari, Alat Keamanan Bayi Lainnya |  |  |
@@ -589,7 +586,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Audio       | Kabel & Konverter Audio & Video | Kabel & Konverter Audio & Video | 9,95% |
 | Media Player | MP3 & MP4 Player, CD, DVD, & Blu-ray Player, Voice Recorders, Radio & Pemutar Kaset, Media Player Lainnya | 7,70% |  |
 | Amplifier & Mixer | Amplifier & Mixer | 7,20%     |  |
@@ -655,7 +652,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Buku & Alat Tulis          | Perlengkapan Menggambar | Pensil Warna, Krayon & Pastel, Cat Air & Cat Poster, Cat Minyak, Cat Akrilik, Kuas Lukis, Palet Lukis, Kanvas Lukis & Easel, Buku Gambar & Sketsa, Perlengkapan Menggambar Lainnya | 11,70% |
 | Buku Tulis & Kertas | Art Paper & Art Board | 9,95% |  |
 | Pembungkus Kado & Kemasan | Bubble Wrap | 7,70%  |  |
@@ -735,7 +732,7 @@ sources:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA ADMINISTRASI SHOPEE MALL\*\* |
+| **KATEGORI** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA ADMINISTRASI SHOPEE MALL** |
 | Tiket, Voucher, & Layanan | Belanja | Ritel | 7,70% |
 | E-Money | E-Money |  |  |
 | Layanan | Layanan |  |  |

@@ -18,9 +18,6 @@ sources:
 **Proses Penarikan Dana Penghasilan Shopee**
 
 
-26-05-2026
-
-**Proses Penarikan Dana Penghasilan Shopee**
 
 Jika tidak ada kendala pada pesanan, dana akan dilepaskan ke Penjual berdasarkan 2 skenario berikut:
 
@@ -79,14 +76,14 @@ Pelepasan dana dapat tertunda karena beberapa alasan, di antaranya:
 
   - Penyesuaian dana\*
   - Pengembalian Barang/Dana yang belum selesai
-  - Transaksi yang terindikasi melanggar ketentuan Shopee\*\*
+  - Transaksi yang terindikasi melanggar ketentuan Shopee**
   - Belum melewati 2 hari sejak pesanan tiba di Pembeli (hanya berlaku untuk Pembeli yang tidak memiliki tombol **Pesanan Selesai**).
 
   
 
 \*Jika terdapat pengembalian barang/dana setelah pesanan berstatus Selesai dan pengajuan tersebut disetujui, maka dana penghasilan yang telah masuk ke Saldo Penjual akan disesuaikan secara otomatis oleh sistem Shopee.
 
-\*\*Akun yang terindikasi melanggar Syarat & Ketentuan yang berlaku dapat dibatasi atau diblokir. Langkah ini merupakan bagian dari upaya Shopee untuk meningkatkan keamanan akun dan mengidentifikasi potensi transaksi mencurigakan.
+**Akun yang terindikasi melanggar Syarat & Ketentuan yang berlaku dapat dibatasi atau diblokir. Langkah ini merupakan bagian dari upaya Shopee untuk meningkatkan keamanan akun dan mengidentifikasi potensi transaksi mencurigakan.
 
   
 
@@ -271,7 +268,7 @@ Masuk ke halaman[ Saldo Saya](https://seller.shopee.co.id/portal/finance/wallet/
 
   
 
-**Penarikan ke Rekening SeaBank melalui** ***banner*** **SeaBank**
+**Penarikan ke Rekening SeaBank melalui** **banner** **SeaBank**
 
   
 
@@ -302,7 +299,7 @@ Durasi penarikan dana Saldo Penjual bergantung pada jenis rekening bank yang And
 
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| \*\*TUJUAN\*\* | \*\*HARI\*\*\*\*OPERASIONAL\*\* | \*\*WAKTU OPERASIONAL\*\* | \*\*ESTIMASI DANA MASUK KE REKENING\*\* | \*\*MINIMUM PENARIKAN DANA\*\* |
+| **TUJUAN** | **HARI**OPERASIONAL** | **WAKTU OPERASIONAL** | **ESTIMASI DANA MASUK KE REKENING** | **MINIMUM PENARIKAN DANA** |
 | ShopeePay | Senin-Minggu | Sepanjang Hari | \*Real-time\* (Instan) | Rp1 |
 | SeaBank | Senin-Minggu | Sepanjang Hari | \*Real-time\* (Instan) | Rp10.000 |
 | BCA | Senin-Minggu | Pk. 03.10-23.50 WIB | 1x12 Jam | Rp10.000 |

@@ -18,11 +18,6 @@ sources:
 Jasa kirim yang tidak didukung Shopee tidak terintegrasi dengan sistem Shopee. Berikut ini adalah 3 hal yang harus Anda perhatikan untuk melancarkan proses pemenuhan pesanan:
 
 
-09-01-2023
-
-Jasa kirim yang tidak didukung Shopee tidak terintegrasi dengan sistem Shopee. Berikut ini adalah 3 hal yang harus Anda perhatikan untuk melancarkan proses pemenuhan pesanan:
-
-  
 
 **1. Persyaratan Produk**
 

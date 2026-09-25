@@ -18,9 +18,6 @@ sources:
 **Melengkapi Informasi Halal untuk Produk Anda**
 
 
-06-04-2026
-
-**Melengkapi Informasi Halal untuk Produk Anda**
 
 Anda dapat melengkapi informasi Halal dan Non-Halal untuk produk Anda melalui **Seller Centre**.
 
@@ -70,5 +67,5 @@ Untuk mulai mendaftarkan sertifikasi halal, pilih **Create an account** jika And
 
   - Ada 2 alur pendaftaran sertifikasi halal melalui halaman SiHalal yang bisa dipilih oleh Penjual, yaitu:
       
-      - Alur ***Self Declare*** (khusus Penjual UMK), dan
+      - Alur **Self Declare** (khusus Penjual UMK), dan
       - Alur **Reguler** (khusus Penjual non-UMK atau Penjual UMK yang telah mendapatkan 3 sertifikasi pertama gratis).

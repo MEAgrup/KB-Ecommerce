@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Garansi Harga Terbaik?**
 
 
-27-07-2026
-
-**Apa itu Program Garansi Harga Terbaik?**
 
 Program Garansi Harga Terbaik adalah program yang menampilkan produk-produk berkualitas baik dengan harga terbaik dari Penjual Shopee.
 
@@ -202,7 +199,7 @@ Berikut hal-hal yang dapat Anda lakukan untuk bergabung dalam Program Garansi Ha
 
   
 
-**1. Menominasikan produk pada** ***tab*** **'Pendaftaran Program’**
+**1. Menominasikan produk pada** **tab** **'Pendaftaran Program’**
 
 Anda dapat menominasikan beberapa/seluruh Variasi Produk berdasarkan kriteria produk Program Garansi Harga Terbaik dengan cara berikut:
 
@@ -233,7 +230,7 @@ Jika Anda tidak menemukan produk rekomendasi, Anda dapat menominasikan produk de
 
   
 
-**2. Meninjau produk yang sudah dinominasikan pada** ***tab '*****Dinominasikan’**
+**2. Meninjau produk yang sudah dinominasikan pada** **tab '**Dinominasikan’**
 
 Setelah berhasil menominasikan produk, cek kolom **Status Nominasi** dalam waktu maks. 48 jam untuk mengetahui apakah produk berhasil menjadi 'Terbaik' atau masih dalam peninjauan.
 
@@ -244,10 +241,10 @@ Jika status nominasi "**Belum Kompetitif**", kemungkinan disebabkan oleh beberap
 
 |  |  |
 | :-: | :-: |
-| \*\*KENDALA\*\* | \*\*SOLUSI\*\* |
-| \*\*Variasi tidak sesuai\*\* | Sesuaikan \*\*Variasi Saya\*\* dengan mengikuti\*\*Variasi Produk\*\* yang tertera di halaman\[\*\*Rincian Program\*\*\](https://seller.shopee.co.id/portal/marketing/realtime-bidding/list?tracker\_source=8) sebagai rekomendasi.Untuk mengubah variasi, Anda dapatmengikuti panduan pada poin ke-3 dibawah tabel ini. |
-| \*\*Harga belum kompetitif\*\* | Ubah \*\*Harga Terbaik Saya\*\* sesuai atau lebihrendah dari \*\*Harga Terbaik Program\*\* agarharga menjadi lebih kompetitif. |
-| \*\*Stok tidak mencukupi\*\* | Menambahkan stok produk melaluihalaman \*\*Rincian Produk\*\*. |
+| **KENDALA** | **SOLUSI** |
+| **Variasi tidak sesuai** | Sesuaikan **Variasi Saya** dengan mengikuti**Variasi Produk** yang tertera di halaman\[**Rincian Program**\](https://seller.shopee.co.id/portal/marketing/realtime-bidding/list?tracker\_source=8) sebagai rekomendasi.Untuk mengubah variasi, Anda dapatmengikuti panduan pada poin ke-3 dibawah tabel ini. |
+| **Harga belum kompetitif** | Ubah **Harga Terbaik Saya** sesuai atau lebihrendah dari **Harga Terbaik Program** agarharga menjadi lebih kompetitif. |
+| **Stok tidak mencukupi** | Menambahkan stok produk melaluihalaman **Rincian Produk**. |
 
   
 

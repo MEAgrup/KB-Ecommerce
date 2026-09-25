@@ -18,9 +18,6 @@ sources:
 **Tentang Proses Pick up**
 
 
-12-05-2026
-
-**Tentang Proses Pick up**
 
 Proses *pick up* mengacu pada ketika pihak jasa kirim mengambil paket Anda untuk dikirim ke Pembeli.
 
@@ -30,7 +27,7 @@ Penting untuk mencegah kegagalan dalam proses *pick up* (contoh: ketika terdapat
 
   
 
-**Menjadwalkan Proses** ***Pick up*** **dan Menyiapkan Pesanan**
+**Menjadwalkan Proses** **Pick up** **dan Menyiapkan Pesanan**
 
 Untuk bagian pertama dari proses *pick up*, Anda diwajibkan untuk menjadwalkan *pick up* dan menyiapkan pesanan Anda untuk selanjutnya diambil oleh pihak jasa kirim. Ikuti tahapan di bawah ini saat Anda menjadwalkan *pick up* dan menyiapkan pesanan:
 
@@ -52,7 +49,7 @@ Pastikan toko Anda mengikuti cara terbaik menyerahkan pesanan selama proses *pic
 
   
 
-**Menyerahkan Pesanan saat Menjadwalkan** ***Pick up***
+**Menyerahkan Pesanan saat Menjadwalkan** **Pick up**
 
   
 

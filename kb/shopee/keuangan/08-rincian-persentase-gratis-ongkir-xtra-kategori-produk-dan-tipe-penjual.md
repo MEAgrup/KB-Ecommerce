@@ -18,9 +18,6 @@ sources:
 **Kategori Produk Gratis Ongkir XTRA**
 
 
-31-07-2026
-
-**Kategori Produk Gratis Ongkir XTRA**
 
 Berikut rincian biaya[ Program Opsional Gratis Ongkir XTRA](https://seller.shopee.co.id/edu/article/6922) per kategori produk efektif per 2 Mei 2026:
 
@@ -28,8 +25,8 @@ Berikut rincian biaya[ Program Opsional Gratis Ongkir XTRA](https://seller.shope
 
 |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*KATEGORI PRODUK\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA PROGRAM\*\*\*\*GRATIS ONGKIR XTRA\*\* |  |
-| \*\*PRODUK UKURAN BIASA\*\* | \*\*PRODUK UKURAN KHUSUS\*\* |  |  |  |  |
+| **KATEGORI** | **KATEGORI PRODUK** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA PROGRAM**GRATIS ONGKIR XTRA** |  |
+| **PRODUK UKURAN BIASA** | **PRODUK UKURAN KHUSUS** |  |  |  |  |
 | Audio | D | Amplifier & Mixer | Amplifier & Mixer | 5,5% (maks. Rp40.000 per kuantitas produk) | 7% (maks. Rp60.000 per kuantitas produk) |
 | Earphone, Headphone, & Headset | Earphone, Headphone, & Headset |  |  |  |  |
 | Kabel & Konverter Audio & Video | Kabel & Konverter Audio & Video |  |  |  |  |
@@ -88,8 +85,8 @@ Berikut rincian biaya[ Program Opsional Gratis Ongkir XTRA](https://seller.shope
 
 |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*KATEGORI PRODUK\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA PROGRAM\*\*\*\*GRATIS ONGKIR XTRA\*\* |  |
-| \*\*PRODUK UKURAN BIASA\*\* | \*\*PRODUK UKURAN KHUSUS\*\* |  |  |  |  |
+| **KATEGORI** | **KATEGORI PRODUK** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA PROGRAM**GRATIS ONGKIR XTRA** |  |
+| **PRODUK UKURAN BIASA** | **PRODUK UKURAN KHUSUS** |  |  |  |  |
 | Aksesoris Fashion | B | Logam Mulia | Berlian, Logam Mulia Lainnya, Perak, Permata, Platinum & Emas | 2% (maks. Rp40.000 per kuantitas produk) | 3,5% (maks. Rp60.000 per kuantitas produk) |
 | Perhiasan Berharga | Anting, Bros & Pin, Cincin, Gelang Kaki, Gelang Tangan, Kalung, Liontin, Perhiasan Berharga Lainnya, Set Perhiasan |  |  |  |  |
 | G | Aksesoris Tambahan | Masker | 7,5% (maks. Rp40.000 per kuantitas produk) | 9% (maks. Rp60.000 per kuantitas produk) |  |
@@ -215,8 +212,8 @@ Berikut rincian biaya[ Program Opsional Gratis Ongkir XTRA](https://seller.shope
 
 |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*KATEGORI PRODUK\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA PROGRAM\*\*\*\*GRATIS ONGKIR XTRA\*\* |  |
-| \*\*PRODUK UKURAN BIASA\*\* | \*\*PRODUK UKURAN KHUSUS\*\* |  |  |  |  |
+| **KATEGORI** | **KATEGORI PRODUK** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA PROGRAM**GRATIS ONGKIR XTRA** |  |
+| **PRODUK UKURAN BIASA** | **PRODUK UKURAN KHUSUS** |  |  |  |  |
 | Ibu & Bayi | D | Kamar Bayi | Ayunan Bayi, Baby Walker, Bantal & Guling, Boks & Matras Tidur Bayi, Kamar Bayi Lainnya, Matras & Sprei Lainnya, Selimut & Bedong, Sprei, Tempat Penyimpanan | 5,5% (maks. Rp40.000 per kuantitas produk) | 7% (maks. Rp60.000 per kuantitas produk) |
 | Keamanan Bayi | Alat Keamanan Bayi Lainnya, Baby Monitor, Bumper, Rail, & Guard, Kelambu, Pelindung Sudut, Pengaman Laci & Lemari, Pintu & Pagar Bayi |  |  |  |  |
 | Kesehatan Bayi | Baby Lotion & Cream, Bedak, Kesehatan Bayi Lainnya, Minyak, Perawatan Hidung & Pernafasan, Perawatan Kulit Bayi Lainnya, Perawatan Mulut Bayi, Sun Care Bayi, Vitamin & Suplemen Bayi |  |  |  |  |
@@ -268,8 +265,8 @@ Berikut rincian biaya[ Program Opsional Gratis Ongkir XTRA](https://seller.shope
 
 |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*KATEGORI PRODUK\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA PROGRAM\*\*\*\*GRATIS ONGKIR XTRA\*\* |  |
-| \*\*PRODUK UKURAN BIASA\*\* | \*\*PRODUK UKURAN KHUSUS\*\* |  |  |  |  |
+| **KATEGORI** | **KATEGORI PRODUK** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA PROGRAM**GRATIS ONGKIR XTRA** |  |
+| **PRODUK UKURAN BIASA** | **PRODUK UKURAN KHUSUS** |  |  |  |  |
 | Buku & Alat Tulis | D | Alat Tulis | Alat Tulis Lainnya, Highlighter, Penghapus & Tipe X, Pensil, Pulpen & Tinta, Spidol | 5,5% (maks. Rp40.0000 per kuantitas produk) | 7% (maks. Rp60.000 per kuantitas produk) |
 | Pembungkus Kado & Kemasan | Bubble Wrap |  |  |  |  |
 | Perlengkapan Menggambar | Buku Gambar & Sketsa, Cat Air & Cat Poster, Cat Akrilik, Cat Minyak, Kanvas Lukis & Easel, Krayon & Pastel, Kuas Lukis, Palet Lukis, Pensil Warna, Perlengkapan Menggambar Lainnya |  |  |  |  |
@@ -348,8 +345,8 @@ Berikut rincian biaya[ Program Opsional Gratis Ongkir XTRA](https://seller.shope
 
 |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*KATEGORI PRODUK\*\* | \*\*SUB KATEGORI\*\* | \*\*JENIS PRODUK\*\* | \*\*BIAYA PROGRAM\*\*\*\*GRATIS ONGKIR XTRA\*\* |  |
-| \*\*PRODUK UKURAN BIASA\*\* | \*\*PRODUK UKURAN KHUSUS\*\* |  |  |  |  |
+| **KATEGORI** | **KATEGORI PRODUK** | **SUB KATEGORI** | **JENIS PRODUK** | **BIAYA PROGRAM**GRATIS ONGKIR XTRA** |  |
+| **PRODUK UKURAN BIASA** | **PRODUK UKURAN KHUSUS** |  |  |  |  |
 | Tiket, Voucher, & Layanan  | D | Belanja | Ritel | 5,5% (maks. Rp40.000 per kuantitas produk) | 7% (maks. Rp60.000 per kuantitas produk)  |
 | Gaming | Gaming |  |  |  |  |
 | Layanan | Layanan |  |  |  |  |
@@ -417,21 +414,21 @@ Biaya Gratis Ongkir XTRA\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher
 
 **Penjual Star & Star+**
 
-Biaya Gratis Ongkir XTRA\*\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x Persentase Biaya Gratis Ongkir XTRA Sesuai Kategori Produk (Produk Ukuran Biasa maks. Rp40.000 dan Produk Ukuran Khusus maks. Rp60.000 per kuantitas produk). 
+Biaya Gratis Ongkir XTRA** = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x Persentase Biaya Gratis Ongkir XTRA Sesuai Kategori Produk (Produk Ukuran Biasa maks. Rp40.000 dan Produk Ukuran Khusus maks. Rp60.000 per kuantitas produk). 
 
   
 
-*\*\*Biaya Program Opsional Gratis Ongkir XTRA belum termasuk Biaya Proses Pesanan, Biaya Administrasi Star/Star+, dan biaya Program Opsional Promo XTRA.*
+**Biaya Program Opsional Gratis Ongkir XTRA belum termasuk Biaya Proses Pesanan, Biaya Administrasi Star/Star+, dan biaya Program Opsional Promo XTRA.*
 
 **Penjual Shopee Mall**
 
-Biaya Gratis Ongkir XTRA\*\*\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x Persentase Biaya Gratis Ongkir XTRA Sesuai Kategori Produk (Produk Ukuran Biasa maks. Rp40.000 dan Produk Ukuran Khusus maks. Rp60.000 per kuantitas produk).
+Biaya Gratis Ongkir XTRA**\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x Persentase Biaya Gratis Ongkir XTRA Sesuai Kategori Produk (Produk Ukuran Biasa maks. Rp40.000 dan Produk Ukuran Khusus maks. Rp60.000 per kuantitas produk).
 
   
 
-*\*\*\*Biaya Program Opsional Gratis Ongkir XTRA belum termasuk Biaya Proses Pesanan, Biaya Administrasi Shopee Mall, Biaya Pembayaran Shopee Mall & biaya program lain yang diikuti Penjual.*
+**\*Biaya Program Opsional Gratis Ongkir XTRA belum termasuk Biaya Proses Pesanan, Biaya Administrasi Shopee Mall, Biaya Pembayaran Shopee Mall & biaya program lain yang diikuti Penjual.*
 
-*\*\*\*\*Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965).
+**Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965).
 
   
 

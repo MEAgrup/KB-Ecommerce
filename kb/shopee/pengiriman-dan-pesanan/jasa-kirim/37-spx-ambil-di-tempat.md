@@ -18,9 +18,6 @@ sources:
 **Jenis Layanan Pengiriman SPX Ambil di Tempat**
 
 
-20-07-2026
-
-**Jenis Layanan Pengiriman SPX Ambil di Tempat**
 
 SPX Ambil di Tempat adalah layanan pengiriman dari jasa kirim SPX Express, yang menyediakan lokasi sebagai titik pengiriman (*drop off*) bagi Penjual sekaligus titik pengambilan paket bagi Pembeli.
 
@@ -30,7 +27,7 @@ Penjual yang memilih *drop off* ke lokasi ini hanya dapat mengirimkan paket deng
 
   
 
-***Detail*** **Ketentuan Layanan SPX Ambil di Tempat**
+**Detail** **Ketentuan Layanan SPX Ambil di Tempat**
 
 Berikut *detail* ketentuan menggunakan layanan SPX Ambil di Tempat untuk memudahkan proses sortir dan distribusi:
 

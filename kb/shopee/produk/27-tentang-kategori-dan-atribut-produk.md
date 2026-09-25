@@ -18,9 +18,6 @@ sources:
 **Memahami Kategori Produk**
 
 
-05-08-2026
-
-**Memahami Kategori Produk**
 
 Di Shopee, kategori produk diatur dalam bentuk pohon kategori. Setiap kategori utama memiliki tingkatan sub-kategori yang berbeda.
 
@@ -94,7 +91,7 @@ Terdapat 2 cara untuk mengisi informasi atribut untuk produk Anda.
 
   
 
-**1.** ***Upload*** **Manual**
+**1.** **Upload** **Manual**
 
 Saat meng-*upload* produk baru, Anda akan dapat mengisi informasi atribut produk Anda, seperti Merek atau Bahan di bagian **Spesifikasi**.
 
@@ -155,11 +152,11 @@ Produk Custom adalah produk yang dibuat atau disesuaikan secara khusus sesuai de
 
 Anda dapat mengatur Produk Custom dalam daftar produk baik secara satu per satu atau massal.
 
-  - **\*\*Satu per satu\*\***
+  - **Satu per satu**
 
   
 
-  - **\*\*Massal\*\***
+  - **Massal**
 
   
 

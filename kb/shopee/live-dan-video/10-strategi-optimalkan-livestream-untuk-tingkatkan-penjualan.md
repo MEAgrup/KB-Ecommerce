@@ -19,9 +19,6 @@ related: [shp-live-101]
 **Tingkatkan Aktivitas Livestream di Shopee Live**
 
 
-13-05-2026
-
-**Tingkatkan Aktivitas Livestream di Shopee Live**
 
 Dengan rutin melakukan Livestream, Anda dapat menjangkau lebih banyak audiens secara langsung. Hal ini juga memberi peluang untuk meningkatkan konversi penjualan secara efektif.
 
@@ -29,10 +26,10 @@ Berikut adalah beberapa tips yang dapat Anda lakukan untuk meningkatkan aktivita
 
 |  |  |
 | :-: | :-: |
-| \*\*TIPS MENINGKATKAN AKTIVITAS LIVESTREAM\*\* |  |
-|  | \*\*Buat Jadwal Livestream\*\* \*\*•\*\* Livestream secara rutin membantu menjangkausegmen Penonton yang berbeda di setiap sesisesuai waktu tayangnya.\*\*•\*\* Rutin lakukan Livestream min. 5 hari seminggu. |
-|  | \*\*Maksimalkan Durasi Livestream\*\* \*\*•\*\* Aktif Livestream dengan rekomendasi durasi danwaktu berikut:\*\*•\*\* \*\*Waktu\*\*:a. \*\*Jam ramai\*\*:\*\*•\*\* \*\*Pk.\*\* \*\*12.00 - 14.00 WIB\*\* \*\*•\*\* \*\*Pk. 19.00 - 22.00 WIB\*\*b. \*\*Jam ramai tambahan\*\* :\*\*•\*\* \*\*Pk. 11.00 - 12.00 WIB\*\*\*\*•\*\* \*\*Pk. 14.00 - 15.00 WIB\*\*\*\*•\*\* \*\*Pk. 18.00 - 19.00 WIB\*\*c. \*\*Jam tambahan lainnya\*\*: di luar jam ramai dan jam ramai tambahan﻿• \*\*Durasi\*\*:a. Min. 5 jam/hari di jam ramaib. 8 jam/hari di jam ramai dan jam ramai tambahanc. \\\>12 jam/hari di jam ramai, jam ramai tambahan, dan jam tambahan lainnya. Anda dapat melakukan Livestream dengan gaya\[CS Mode\](https://shopee.co.id/m/shopee-live-cs-mode) di jam tambahan untuk tetap dapatmenjangkau Penonton. |
-|  | \*\*Manfaatkan Program untuk Memaksimalkan\*\*\*\*Eksposur\*\* Gunakan berbagai program di Shopee Live untukmemaksimalkan eksposur Livestream Anda salahsatunya yaitu\[ Iklan Live\](https://seller.shopee.co.id/edu/article/21328). Pelajari lebih lanjut tentang cara\[ membuat Iklan\](https://seller.shopee.co.id/edu/article/19908)\[Live\](https://seller.shopee.co.id/edu/article/19908). |
+| **TIPS MENINGKATKAN AKTIVITAS LIVESTREAM** |  |
+|  | **Buat Jadwal Livestream** **•** Livestream secara rutin membantu menjangkausegmen Penonton yang berbeda di setiap sesisesuai waktu tayangnya.**•** Rutin lakukan Livestream min. 5 hari seminggu. |
+|  | **Maksimalkan Durasi Livestream** **•** Aktif Livestream dengan rekomendasi durasi danwaktu berikut:**•** **Waktu**:a. **Jam ramai**:**•** **Pk.** **12.00 - 14.00 WIB** **•** **Pk. 19.00 - 22.00 WIB**b. **Jam ramai tambahan** :**•** **Pk. 11.00 - 12.00 WIB**•** **Pk. 14.00 - 15.00 WIB**•** **Pk. 18.00 - 19.00 WIB**c. **Jam tambahan lainnya**: di luar jam ramai dan jam ramai tambahan﻿• **Durasi**:a. Min. 5 jam/hari di jam ramaib. 8 jam/hari di jam ramai dan jam ramai tambahanc. \\\>12 jam/hari di jam ramai, jam ramai tambahan, dan jam tambahan lainnya. Anda dapat melakukan Livestream dengan gaya\[CS Mode\](https://shopee.co.id/m/shopee-live-cs-mode) di jam tambahan untuk tetap dapatmenjangkau Penonton. |
+|  | **Manfaatkan Program untuk Memaksimalkan**Eksposur** Gunakan berbagai program di Shopee Live untukmemaksimalkan eksposur Livestream Anda salahsatunya yaitu\[ Iklan Live\](https://seller.shopee.co.id/edu/article/21328). Pelajari lebih lanjut tentang cara\[ membuat Iklan\](https://seller.shopee.co.id/edu/article/19908)\[Live\](https://seller.shopee.co.id/edu/article/19908). |
 
   
 
@@ -52,8 +49,8 @@ Gunakan **Fitur Kelola Acara Live** di aplikasi Shopee untuk mengatur pengingat 
 
 Pengingat yang Anda buat dapat ditujukan untuk:
 
-  - **\*\*Pengikut/Pembeli\*\***
-  - **Anda (Penjual)** dan ***Streamer***
+  - **Pengikut/Pembeli**
+  - **Anda (Penjual)** dan **Streamer**
 
   
 
@@ -133,7 +130,7 @@ Buat tampilan Livestream lebih menarik dengan menggunakan berbagai fitur-fitur d
 
   
 
-  - **\*\*Green Screen\*\***
+  - **Green Screen**
 
 Fitur Green Screen memungkinkan Anda untuk atur latar atau background dengan *template* dari Shopee atau foto dari handphone Anda saat Livestream. 
 
@@ -143,13 +140,13 @@ Berikut adalah cara mengaktifkan fitur Green Screen:
 
   
 
-  - **\*\*Filter Wajah dan Magic\*\***
+  - **Filter Wajah dan Magic**
 
 Percantik tampilan Livestream dengan berbagai efek wajah (seperti, mencerahkan, kulit lebih halus, dsb). Filter Wajah dan Magic dapat diatur sebelum atau saat Livestream.
 
   
 
-  - **\*\*Mirorring\*\***
+  - **Mirorring**
 
 Memungkinkan Anda menyesuaikan tampilan video kepada Penonton saat Livestream menggunakan kamera depan handphone Anda.
 
@@ -157,7 +154,7 @@ Memungkinkan Anda menyesuaikan tampilan video kepada Penonton saat Livestream me
 
   
 
-  - **\*\*Stiker\*\***
+  - **Stiker**
 
 Gunakan Stiker berupa gambar dan teks yang disediakan oleh Shopee untuk ditampilkan saat Livestream.
 

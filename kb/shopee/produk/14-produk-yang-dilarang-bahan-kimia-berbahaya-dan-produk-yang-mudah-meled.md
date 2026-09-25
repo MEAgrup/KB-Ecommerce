@@ -15,12 +15,9 @@ sources:
 # Produk yang Dilarang: Bahan Kimia Berbahaya dan Produk yang Mudah Meledak Beserta Turunannya
 
 ## Ringkasan
-**Apa yang terjadi jika saya meng-*****upload*** **dan menjual produk bahan kimia berbahaya, produk mudah meledak, bahan peledak dan turunan lainnya?**
+**Apa yang terjadi jika saya meng-**upload** **dan menjual produk bahan kimia berbahaya, produk mudah meledak, bahan peledak dan turunan lainnya?**
 
 
-24-06-2026
-
-**Apa yang terjadi jika saya meng-*****upload*** **dan menjual produk bahan kimia berbahaya, produk mudah meledak, bahan peledak dan turunan lainnya?**
 
 Shopee memiliki kebijakan ketat untuk membatasi produk dengan bahan yang diklasifikasikan sebagai bahan berbahaya berdasarkan Peraturan Menteri Perdagangan dan kebijakan penjualan produk berbahaya di Shopee. Seperti bahan radioaktif, bahan kimia berbahaya, bahan peledak dan turunan lainnya (contoh: *borax/natrium tetraborat, potassium perchlorate*, *hidrogen peroksida (H₂O₂), hidrogen klorida (HCl), hidrogen fluorida (HF), bismuth, titanium, phenol (C6H5OH),* dll) demi keselamatan dan keamanan bertransaksi melalui Shopee serta mematuhi peraturan yang berlaku.
 

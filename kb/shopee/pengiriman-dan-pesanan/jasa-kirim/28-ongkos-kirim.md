@@ -18,9 +18,6 @@ sources:
 **Apakah Harga di Halaman Produk Saya Sudah Termasuk Ongkos Kirim?**
 
 
-27-07-2026
-
-**Apakah Harga di Halaman Produk Saya Sudah Termasuk Ongkos Kirim?**
 
 Harga di halaman **Produk Saya** belum termasuk ongkos kirim.
 

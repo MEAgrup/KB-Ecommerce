@@ -18,9 +18,6 @@ sources:
 **1. Apa itu Jasa Kirim yang Tidak Didukung Shopee?**
 
 
-12-01-2026
-
-**1. Apa itu Jasa Kirim yang Tidak Didukung Shopee?**
 
 Jasa Kirim yang Tidak Didukung Shopee mengacu pada penyedia jasa kirim pihak ketiga yang belum mengintegrasikan sistem mereka dengan Shopee. Hal ini mencakup:
 

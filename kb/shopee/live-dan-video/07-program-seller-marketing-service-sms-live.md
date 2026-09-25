@@ -18,9 +18,6 @@ sources:
 **Apa itu Seller Marketing Service (SMS) Live?**
 
 
-10-04-2026
-
-**Apa itu Seller Marketing Service (SMS) Live?**
 
 Seller Marketing Service (SMS) Live adalah program yang membantu Penjual menjalankan sesi Livestream secara lebih optimal. Melalui program ini, Penjual akan mendapatkan bantuan mulai dari *Host* profesional, perlengkapan dan fasilitas Livestream, hingga strategi untuk meningkatkan performa Live toko Anda.
 
@@ -46,18 +43,18 @@ Dengan bergabung program SMS Live, Penjual dapat meningkatkan daya tarik Livestr
 
 |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*Nama Paket\*\* | \*\*Durasi Livestream\*\* | \*\*Harga per Jam\\\*\*\* | \*\*Keuntungan Bulan Pertama\*\* |  |  |
-| \*\*\*Cashback\*\*\* \*\*Saldo Iklan Live s.d. 50%\*\* | \*\*Voucher\*\*\*\*﻿﻿Live XTRA\*\* | \*\*Tambahan Penonton Livestream\\\*\\\*\*\* |  |  |  |
-| \*\*Basic Tier\*\* | 2 jam/hari | Rp70.000 | Rp2.100.000 | BEBAS biaya layanan | Penonton s.d. 5RB/hari |
+| **Nama Paket** | **Durasi Livestream** | **Harga per Jam\\**\* | **Keuntungan Bulan Pertama** |  |  |
+| **\*Cashback**\* **Saldo Iklan Live s.d. 50%** | **Voucher**﻿﻿Live XTRA** | **Tambahan Penonton Livestream\\\*\\**\* |  |  |  |
+| **Basic Tier** | 2 jam/hari | Rp70.000 | Rp2.100.000 | BEBAS biaya layanan | Penonton s.d. 5RB/hari |
 | 4 jam/hari | Rp63.000 | Rp3.750.000 |  |  |  |
 | 6 jam/hari | Rp57.000 | Rp5.000.000 |  |  |  |
-| \*\*Medium Tier\*\* | 2 jam/hari | Rp140.000 | Rp3.800.000 |  |  |
+| **Medium Tier** | 2 jam/hari | Rp140.000 | Rp3.800.000 |  |  |
 | 4 jam/hari | Rp113.000 | Rp4.300.000 |  |  |  |
 | 6 jam/hari | Rp95.000 | Rp5.000.000 |  |  |  |
-|  \*\*High Tier\*\*  | 2 jam/hari | Rp155.000 | Rp4.000.000 |  |  |
+|  **High Tier**  | 2 jam/hari | Rp155.000 | Rp4.000.000 |  |  |
 | 4 jam/hari | Rp4.500.000 |  |  |  |  |
 | 6 jam/hari | Rp5.000.000 |  |  |  |  |
-| \*\\\*Harga per jam sudah termasuk PPN.\*\*\\\*\\\*Distribusi tambahan Penonton dilakukan secara bertahap selama 60 menit saat sesi Livestream berlangsung.\* |  |  |  |  |  |
+| \*\\\*Harga per jam sudah termasuk PPN.**\\\*\\\*Distribusi tambahan Penonton dilakukan secara bertahap selama 60 menit saat sesi Livestream berlangsung.\* |  |  |  |  |  |
 
   
 
@@ -88,7 +85,7 @@ Jadwal Livestream akan ditentukan berdasarkan tanggal pendaftaran program.
 
 |  |  |
 | :-: | :-: |
-| \*\*TANGGAL PENDAFTARAN\*\* | \*\*LIVESTREAM DIMULAI\*\* |
+| **TANGGAL PENDAFTARAN** | **LIVESTREAM DIMULAI** |
 | Tanggal 11-26 | Tanggal 1 setiap bulan |
 | Tanggal 27-10 | Tanggal 15 setiap bulan |
 
@@ -132,7 +129,7 @@ Program SMS Live akan berlanjut secara otomatis. Jika ingin berhenti dari progra
 
 3\. **Khusus Pengguna Baru** akan mendapatkan keuntungan berikut pada bulan pertama:
 
-  - ***Cashback*** **saldo Iklan Live s.d. 50%** dari total biaya layanan program (setelah PPN)
+  - **Cashback** **saldo Iklan Live s.d. 50%** dari total biaya layanan program (setelah PPN)
   - **Voucher Live XTRA** akan otomatis ditampilkan selama sesi Livestream berlangsung dengan **bebas biaya layanan**[ program Shopee Live XTRA](https://seller.shopee.co.id/edu/article/19969).
 
 Jika tidak mengisi formulir[ Berhenti Program Shopee Live XTRA](https://shopee.co.id/program/form/5321), Penjual akan otomatis terdaftar dan dikenakan[ biaya layanan program Shopee Live XTRA](https://seller.shopee.co.id/edu/article/19968) pada bulan berikutnya atas pesanan berhasil dari sesi Livestream.

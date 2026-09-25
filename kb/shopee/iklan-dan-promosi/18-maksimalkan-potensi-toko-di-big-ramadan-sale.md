@@ -18,9 +18,6 @@ sources:
 **Membangun Nuansa Ramadan di Toko Anda**
 
 
-23-02-2026
-
-**Membangun Nuansa Ramadan di Toko Anda**
 
 Manfaatkan momentum Ramadan dengan menyesuaikan tampilan toko agar lebih relevan dan menarik.
 
@@ -34,8 +31,8 @@ Ada beberapa hal yang dapat dilakukan untuk membangun nuansa Ramadan di toko And
 Berikut hal-hal yang harus diperhatikan dalam membuat desain dekorasi toko:
 
 1.  **Warna**: Ubah kombinasi warna toko Shopee Anda sesuai dengan palet warna Ramadan (kombinasi warna hijau dan kuning).
-2.  ***Font***: Pilih jenis *font* yang cocok dengan desain dekorasi Ramadan toko Shopee Anda.
-3.  ***Icon*****/Ilustrasi**: Sisipkan *icon* dan ilustrasi untuk membangun nuansa Ramadan.
+2.  **Font**: Pilih jenis *font* yang cocok dengan desain dekorasi Ramadan toko Shopee Anda.
+3.  **Icon**/Ilustrasi**: Sisipkan *icon* dan ilustrasi untuk membangun nuansa Ramadan.
 4.  **Foto produk yang menarik**: Selain foto utama, Anda perlu menampilkan foto tambahan yang unik dan lebih unggul dibandingkan produk kompetitor.
 5.  **Video produk**: Umumnya digunakan untuk menunjukkan fungsi produk dan menarik perhatian Pembeli. Pelajari lebih lanjut terkait[ membuat video produk yang menarik](https://seller.shopee.co.id/edu/article/17538).
 
@@ -101,7 +98,7 @@ Berikut adalah beberapa hal yang dapat Anda lakukan untuk menarik lebih banyak P
 
 **1**. **Memanfaatkan media sosial**
 
-Selama Ramadan, Anda dapat memanfaatkan media sosial untuk tarik Pembeli berbelanja dengan *upload* konten bernuansa Ramadan. Jangan lupa untuk **menyematkan** ***link*** **produk** agar Pembeli dapat dengan mudah menemukan produk Anda.
+Selama Ramadan, Anda dapat memanfaatkan media sosial untuk tarik Pembeli berbelanja dengan *upload* konten bernuansa Ramadan. Jangan lupa untuk **menyematkan** **link** **produk** agar Pembeli dapat dengan mudah menemukan produk Anda.
 
   
 

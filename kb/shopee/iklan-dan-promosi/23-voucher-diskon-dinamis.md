@@ -18,9 +18,6 @@ sources:
 **Apa itu Voucher Diskon Dinamis?**
 
 
-10-02-2026
-
-**Apa itu Voucher Diskon Dinamis?**
 
 Voucher Diskon Dinamis adalah fitur promosi yang memungkinkan Penjual untuk mengatur voucher berdasarkan dua tujuan promosi, yaitu memaksimalkan penjualan atau menjangkau Pembeli baru.
 
@@ -146,7 +143,7 @@ Anda juga dapat melihat riwayat voucher yang telah Anda buat melalui halaman **D
     1.  **Memaksimalkan Penjualan**: Mengalokasikan modal ke area yang dapat meningkatkan potensi penjualan.
     2.  **Menjangkau Pembeli Baru**: Menjangkau pengunjung yang belum pernah melakukan pembelian di toko Anda untuk mendorong transaksi pertama.
 4.  Penjual **hanya dapat mengatur satu Voucher Diskon Dinamis** dalam satu periode voucher.
-5.  Voucher Diskon Dinamis akan **ditampilkan pada halaman produk,** ***pop-up*** **di halaman produk, keranjang belanja Pembeli,** dan **halaman checkout**. Pembeli dapat menggunakan voucher tersebut tanpa perlu meng-klaim **dengan masa berlaku 1 jam** terhitung sejak Pembeli meng-klik *pop-up* di halaman produk.
+5.  Voucher Diskon Dinamis akan **ditampilkan pada halaman produk,** **pop-up** **di halaman produk, keranjang belanja Pembeli,** dan **halaman checkout**. Pembeli dapat menggunakan voucher tersebut tanpa perlu meng-klaim **dengan masa berlaku 1 jam** terhitung sejak Pembeli meng-klik *pop-up* di halaman produk.
 6.  Jika Penjual ingin **menonaktifkan Voucher Diskon Dinamis** sebelum periode promosi selesai, Anda dapat memilih **Berhenti** di halaman Voucher Toko Saya dan voucher akan segera dinonaktifkan.
 7.  Dengan membuat Voucher Diskon Dinamis, Anda menyatakan bahwa menyetujui seluruh Syarat & Ketentuan di atas.
 

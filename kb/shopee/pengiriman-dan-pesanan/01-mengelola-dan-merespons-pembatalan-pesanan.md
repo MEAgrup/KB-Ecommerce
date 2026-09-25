@@ -18,9 +18,6 @@ sources:
 Mengelola Pembatalan Pesanan dari Penjual
 
 
-30-06-2026
-
-Mengelola Pembatalan Pesanan dari Penjual
 
 Sebagai Penjual, menjaga ketersediaan stok adalah kunci utama dalam memberikan pengalaman belanja yang baik bagi Pembeli. Namun, jika terjadi kendala operasional seperti produk rusak atau stok habis yang belum terupdate di Produk Saya, Anda dapat melakukan pembatalan pesanan secara mandiri sebelum paket dikirim.
 

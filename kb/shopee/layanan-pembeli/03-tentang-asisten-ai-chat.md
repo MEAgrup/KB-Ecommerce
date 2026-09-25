@@ -18,9 +18,6 @@ sources:
 Apa itu Fitur Asisten AI Chat?
 
 
-20-08-2026
-
-Apa itu Fitur Asisten AI Chat?
 
 Asisten AI Chat adalah *chatbot*/*chat* otomatis yang menggunakan kapabilitas *Artificial Intelligence* (AI) atau kecerdasan buatan untuk membalas pertanyaan secara otomatis di halaman *chat*. Asisten AI Chat dapat memberikan layanan 24 jam setiap harinya kepada Pembeli, memastikan bahwa calon Pembeli dapat segera dilayani dan mendapat informasi yang mereka butuhkan secara instan.
 
@@ -169,7 +166,7 @@ Saat ini, fitur Saran Balasan dan Pengingat Otomatis hanya tersedia untuk Penjua
 
 **Bagaimana Cara Melihat Riwayat Chat Asisten AI Chat dengan Pembeli?**
 
-**Melihat** ***Chat*** **yang Telah Direspons Asisten AI Chat**
+**Melihat** **Chat** **yang Telah Direspons Asisten AI Chat**
 
 Masuk ke Chat Penjual \> pilih *tab* **Chat Hari Ini** \> pilih **Dibalas Otomatis** untuk melihat *chat* yang sedang berlangsung dan telah direspons oleh Asisten AI Chat. *Chat* yang dikirim oleh Asisten AI Chat akan ditandai sebagai "Dikirim oleh Asisten AI Chat" di bawah *chat*.
 

@@ -18,11 +18,6 @@ sources:
 Anda perlu[ mengatur pengiriman](https://seller.shopee.co.id/edu/article/1988/Mengatur-Pengiriman) untuk setiap pesanan masuk dan pastikan tidak melewati[ batas waktu pengiriman](https://seller.shopee.co.id/edu/article/7093) untuk menghindari keterlambatan pesanan atau pembatalan pesanan otomatis.
 
 
-06-03-2026
-
-Anda perlu[ mengatur pengiriman](https://seller.shopee.co.id/edu/article/1988/Mengatur-Pengiriman) untuk setiap pesanan masuk dan pastikan tidak melewati[ batas waktu pengiriman](https://seller.shopee.co.id/edu/article/7093) untuk menghindari keterlambatan pesanan atau pembatalan pesanan otomatis.
-
-  
 
 Jika Anda ingin memilih opsi *pick up* pada saat atur pengiriman, cek informasi[ jam operasional Jasa Kirim yang Didukung Shopee](https://seller.shopee.co.id/edu/article/14180) berdasarkan jasa kirim dan layanan pengiriman yang digunakan pada pesanan tersebut.
 
@@ -32,7 +27,7 @@ Apabila terjadi kendala saat proses *pick up*, solusi yang dapat dilakukan akan 
 
   
 
-**Kendala** ***pick up*** **untuk jasa kirim SPX Express dan jasa kirim lainnya (layanan pengiriman Regular, Hemat, Kargo, dan Next Day)**
+**Kendala** **pick up** **untuk jasa kirim SPX Express dan jasa kirim lainnya (layanan pengiriman Regular, Hemat, Kargo, dan Next Day)**
 
   
 
@@ -45,7 +40,7 @@ Jika Anda telah mengatur jadwal *pick up* namun terdapat kendala seperti kurir t
 
 Atau jika *pick up* gagal dilakukan karena tidak ada kurir yang aktif dalam waktu tertentu, Anda dapat memilih **Atur Ulang Pickup** untuk dapat mencari kurir kembali.
 
-**Kendala** ***pick up*** **khusus untuk layanan pengiriman Instant dan Instant Prioritas**
+**Kendala** **pick up** **khusus untuk layanan pengiriman Instant dan Instant Prioritas**
 
 Tombol **Atur Ulang Pickup** juga muncul saat Anda mengelola pesanan dengan pengiriman Instant atau Instant Prioritas.
 

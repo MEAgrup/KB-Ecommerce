@@ -18,9 +18,6 @@ sources:
 **Apa itu Voucher Akselerasi Usaha Lokal?**
 
 
-15-05-2026
-
-**Apa itu Voucher Akselerasi Usaha Lokal?**
 
 Voucher Akselerasi Usaha Lokal adalah dukungan voucher toko yang dihadirkan oleh Shopee untuk memperkuat daya saing usaha lokal. Kehadiran voucher ini diharapkan dapat membantu usaha lokal menarik lebih banyak Pembeli di Shopee.
 

@@ -18,9 +18,6 @@ sources:
 **Mengatur Profil Shopee Video yang Menarik**
 
 
-16-07-2026
-
-**Mengatur Profil Shopee Video yang Menarik**
 
 Profil di Shopee Video berpengaruh pada visibilitas dan kepercayaan audiens. Pengaturan profil bukan hanya untuk estetika, tetapi berdampak ke performa bisnis. Meskipun konten tetap menjadi faktor utama, namun profil adalah titik kontak pertama yang membentuk persepsi, sehingga mempengaruhi setiap Pengguna dalam menilai identitas Penjual atau Kreator sebelum memutuskan untuk *follow*, menonton, atau membeli.
 
@@ -120,12 +117,12 @@ Anda juga dapat membuat video dengan menggunakan **Template**. Pilih dari berbag
 
 Berikut adalah contoh tampilan fitur **Tambah Produk dan Voucher** di Shopee Video:
 
-  - **\*\*1 Produk\*\***
+  - **1 Produk**
 
   
   
 
-  - **\*\*Lebih dari 1 Produk\*\***
+  - **Lebih dari 1 Produk**
 
   
 
@@ -147,11 +144,11 @@ Dengan memposting Shopee Video melalui Seller Centre, Anda dapat memanfaatkan fi
 
 Berikut langkah-langkahnya:
 
-  - **\*\*Secara satu per satu\*\***
+  - **Secara satu per satu**
 
   
 
-  - **\*\*Secara massal\*\***
+  - **Secara massal**
 
 Anda dapat meng-*upload* dan memposting hingga 30 video sekaligus.
 
@@ -185,14 +182,14 @@ Pelajari[ cara mengakses Sub Akun melalui aplikasi Shopee/Seller Centre](https:/
 
   
 
-  - **\*\*Aplikasi Shopee\*\***
+  - **Aplikasi Shopee**
 
   
 
   
   
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
   
 
@@ -205,7 +202,7 @@ Untuk memberikan pengalaman berbelanja yang aman dan sesuai ketentuan, Shopee me
 
 |  |  |
 | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*JENIS PRODUK\*\* |
+| **KATEGORI** | **JENIS PRODUK** |
 | Produk Dewasa | \\- Alat bantu/mainan seks\\- Kondom\\- Obat kuat\\- Penunjang performa seks\\- Konten dewasa (meskipun sudah berlisensi) |
 | Obat-obatan dan Suplemen | \\- Obat dengan resep dokter\\- Obat berlogo ‘K’ merah ()\\- Narkotika, Psikotropika, dan Zat Adiktif (NAPZA)\\- Obat palsu\\- Obat yang dilarang dan dibatasi peredarannya oleh pemerintah dan/atau Pemilik merek |
 | Tembakau dan Nikotin | \\- Rokok\\- Daun tembakau\\- Nikotin\\- Rokok elektronik (Vape)\\- Shisha |

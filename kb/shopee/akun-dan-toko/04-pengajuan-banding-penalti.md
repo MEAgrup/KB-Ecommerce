@@ -18,9 +18,6 @@ sources:
 **Kapan Saya Dapat Mengajukan Banding Poin Penalti?**
 
 
-05-12-2025
-
-**Kapan Saya Dapat Mengajukan Banding Poin Penalti?**
 
 Anda dapat mengajukan banding poin penalti jika terbukti bahwa pelanggaran yang dilakukan bukan karena kesalahan Anda. Berikut adalah contoh skenario:
 
@@ -121,7 +118,7 @@ Berikut adalah dua contoh deskripsi banding yang jelas:
 
   
 
-## ***Upload*** **dokumen pendukung**
+## **Upload** **dokumen pendukung**
 
 Lihat tabel di bawah untuk mengetahui dokumen pendukung apa yang harus di-*upload* selama proses pengajuan banding berdasarkan jenis pelanggaran dan alasan pengajuan banding:
 

@@ -18,9 +18,6 @@ sources:
 **Apa itu Produk Berukuran Khusus?**
 
 
-06-04-2026
-
-**Apa itu Produk Berukuran Khusus?**
 
 Produk Berukuran Khusus adalah produk yang memiliki min. salah satu dari kriteria berikut:
 
@@ -63,7 +60,7 @@ Pelajari lebih lanjut tentang[ cara meng-*upload* daftar produk](https://seller.
 
   
 
-**Mengisi informasi Dimensi (P x L x T) di** ***tab*** **Spesifikasi**
+**Mengisi informasi Dimensi (P x L x T) di** **tab** **Spesifikasi**
 
 Untuk memberikan informasi yang lengkap dan akurat di halaman produk, Penjual yang menjual produk berukuran khusus **wajib** melengkapi atribut **Dimensi (P x L x T)** pada *tab* **Spesifikasi** saat *upload* atau *update* produk.
 
@@ -72,7 +69,7 @@ Untuk memberikan informasi yang lengkap dan akurat di halaman produk, Penjual ya
 Informasi atribut produk Anda akan ditampilkan pada bagian **Spesifikasi** di halaman produk seperti berikut:   
   
 
-**Mengisi informasi Ukuran Paket (P x L x T) di** ***tab*** **Pengiriman**
+**Mengisi informasi Ukuran Paket (P x L x T) di** **tab** **Pengiriman**
 
 Berat dan Ukuran Paket juga digunakan untuk menentukan besaran biaya[ ongkos kirim](https://seller.shopee.co.id/edu/article/16188) pada saat Pembeli melakukan checkout (jika Penjual menggunakan jasa kirim yang didukung Shopee). 
 

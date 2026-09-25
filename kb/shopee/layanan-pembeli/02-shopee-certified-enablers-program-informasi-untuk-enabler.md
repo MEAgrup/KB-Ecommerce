@@ -18,9 +18,6 @@ sources:
 **Apa itu Shopee-Certified Enablers Program?**
 
 
-13-04-2026
-
-**Apa itu Shopee-Certified Enablers Program?**
 
 Shopee-Certified Enablers Program merupakan program penghargaan bagi para Enabler yang memberikan layanan operasional dengan sangat baik dan secara aktif mengembangkan bisnis mitranya di Shopee.
 
@@ -101,14 +98,14 @@ Mulai Q1 2026, terdapat *update* pada kriteria penilaian mingguan untuk Shopee-C
 
 |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*NO.\*\* | \*\*METRIK\*\* | \*\*SANGAT BAIK\*\* | \*\*BURUK\*\* |  |  |
-| \*\*KRITERIA\*\* | \*\*NILAI\*\* | \*\*KRITERIA\*\* | \*\*NILAI\*\* |  |  |  |
-| \*\*Operasional\*\* | 1 | Tingkat Keterlambatan Pengiriman Pesanan | \\\< 1% | \\+1 | ≥ 1% | \\-1 |
+| **KATEGORI** | **NO.** | **METRIK** | **SANGAT BAIK** | **BURUK** |  |  |
+| **KRITERIA** | **NILAI** | **KRITERIA** | **NILAI** |  |  |  |
+| **Operasional** | 1 | Tingkat Keterlambatan Pengiriman Pesanan | \\\< 1% | \\+1 | ≥ 1% | \\-1 |
 | Tingkat Keterlambatan Pengiriman Pesanan setelah \*big campain\* | \\\< 1% | \\+0.5 | \\- | \\- |  |  |
 | 2 | Persentase Chat Dibalas | \\\> 85% | \\+1 | ≤ 85% | \\-1 |  |
 | 3 | Poin Penalti | \\\< 1 | \\+1 | ≥ 1 | \\-1 |  |
 | 4 | Masa Pengemasan | \\\< 0.5 hari | \\+1 | ≥ 0.5 hari | \\-1 |  |
-| \*\*\*Engagement\*\*\* | 5 | Flash Sale Shopee/Flash Sale Shopee Mall/Flash Sale Toko Saya | Min. 5x/minggu | \\+2 | \\- | \\- |
+| **\*Engagement**\* | 5 | Flash Sale Shopee/Flash Sale Shopee Mall/Flash Sale Toko Saya | Min. 5x/minggu | \\+2 | \\- | \\- |
 | 6 | Voucher Toko | Min. 3 hari/minggu | \\+2 | \\- | \\- |  |
 | 7 | Iklan Shopee | Min. 75 USD/minggu | \\+2 | \\- | \\- |  |
 | 8 | Promo Toko | Min. 5 hari/minggu | \\+2 | \\- | \\- |  |
@@ -133,13 +130,13 @@ Enabler X mengelola 5 Penjual di Shopee, tetapi tidak menangani metrik *Engageme
 
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| \*\*Penjual yang dikelola\*\* | \*\*Operasional\*\* | \*\*\*Engagement\*\*\* |  |  |
-| \*\*Nilai minggu ke-1\*\* | \*\*Jumlah metrik dinilai\*\* | \*\*Nilai minggu ke-1\*\* | \*\*Jumlah metrik dinilai\*\* |  |
-| \*\*Penjual A\*\* | 5 | 5 | 12 | 7 |
-| \*\*Penjual B\*\* | 3 | 5 | 10 | 7 |
-| \*\*Penjual C\*\* | \\-1 | 5 | 5 | 7 |
-| \*\*Penjual D\*\* | 4 | 5 | \\- | \\- |
-| \*\*Penjual E\*\* | 4 | 4 | \\- | \\- |
+| **Penjual yang dikelola** | **Operasional** | **\*Engagement**\* |  |  |
+| **Nilai minggu ke-1** | **Jumlah metrik dinilai** | **Nilai minggu ke-1** | **Jumlah metrik dinilai** |  |
+| **Penjual A** | 5 | 5 | 12 | 7 |
+| **Penjual B** | 3 | 5 | 10 | 7 |
+| **Penjual C** | \\-1 | 5 | 5 | 7 |
+| **Penjual D** | 4 | 5 | \\- | \\- |
+| **Penjual E** | 4 | 4 | \\- | \\- |
 
   
   
@@ -163,11 +160,11 @@ Anda akan dikategorisasikan ke dalam 4 tingkatan performa berdasarkan jumlah poi
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*Tingkat\*\* | \*\*Nilai\*\* \*\*Operasional\*\* \*\*rata-rata di akhir kuartal\*\* | \*\*Nilai\*\* \*\*\*Engagement\*\*\* \*\*rata-rata di akhir kuartal\*\* | \*\*Jumlah Penjual yang dikelola\*\* |
-| \*\*Premium\*\*Performa operasional dan \*engagement\* yang sangat baik | ≥ 0.85 poin | ≥ 0.85 poin | 10 |
-| \*\*Certified\\\*\*\*Performa operasional dan \*engagement\* yang baik | ≥ 0.7 poin | ≥ 0.7 poin | 3 |
-| \*\*Not Certified\*\*Tidak memenuhi kriteria | ≥ 0.35 poin | \\- | 3 |
-| \*\*Below Expectation\*\*Kelemahan operasional yang signifikan | \\\< 0.35 poin | \\- | \\- |
+| **Tingkat** | **Nilai** **Operasional** **rata-rata di akhir kuartal** | **Nilai** **\*Engagement**\* **rata-rata di akhir kuartal** | **Jumlah Penjual yang dikelola** |
+| **Premium**Performa operasional dan \*engagement\* yang sangat baik | ≥ 0.85 poin | ≥ 0.85 poin | 10 |
+| **Certified\\**\*Performa operasional dan \*engagement\* yang baik | ≥ 0.7 poin | ≥ 0.7 poin | 3 |
+| **Not Certified**Tidak memenuhi kriteria | ≥ 0.35 poin | \\- | 3 |
+| **Below Expectation**Kelemahan operasional yang signifikan | \\\< 0.35 poin | \\- | \\- |
 
   
 
@@ -191,7 +188,7 @@ Anda akan dikategorisasikan ke dalam 4 tingkatan performa berdasarkan jumlah poi
   - Mencapai \< 0,7 poin untuk metrik *Engagement*.
   - Mengelola kurang dari 3 Penjual untuk metrik *Engagement*.
 
-**2. Certified (*****Engagement*** **saja)**
+**2. Certified (**Engagement** **saja)**
 
 1.  Memenuhi kedua persyaratan untuk metrik *Engagement*, diantaranya:
 
@@ -239,14 +236,14 @@ Berikut adalah contoh bagaimana penilaian mingguan akan berkontribusi pada tingk
 
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| \*\*Penjual yang dikelola\*\* | \*\*Operasional\*\* | \*\*\*Engagement\*\*\* |  |  |
-| \*\*Nilai\*\* | \*\*Jumlah Penjual\*\* | \*\*Nilai\*\* | \*\*Jumlah Penjual\*\* |  |
-| \*\*Minggu 1\*\* | 0.63 | 10 | 1.5 | 5 |
-| \*\*Minggu 2\*\* | 0.89 | 12 | 0.96 | 6 |
+| **Penjual yang dikelola** | **Operasional** | **\*Engagement**\* |  |  |
+| **Nilai** | **Jumlah Penjual** | **Nilai** | **Jumlah Penjual** |  |
+| **Minggu 1** | 0.63 | 10 | 1.5 | 5 |
+| **Minggu 2** | 0.89 | 12 | 0.96 | 6 |
 | ... | \\-- | \\-- | \\-- | \\-- |
-| \*\*Minggu 12\*\* | 0.91 | 12 | 0.97 | 6 |
-| \*\*Minggu 13\*\* | 0.95 | 10 | 0.86 | 5 |
-| \*\*Nilai di akhir kuartal\*\* | \*\*0.86\*\* | \*\*11.0\*\* | \*\*0.96\*\* | \*\*5.8\*\* |
+| **Minggu 12** | 0.91 | 12 | 0.97 | 6 |
+| **Minggu 13** | 0.95 | 10 | 0.86 | 5 |
+| **Nilai di akhir kuartal** | **0.86** | **11.0** | **0.96** | **5.8** |
 
   
 

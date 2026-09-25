@@ -18,9 +18,6 @@ sources:
 **1. Apa itu proses penyelesaian pesanan?**
 
 
-18-05-2026
-
-**1. Apa itu proses penyelesaian pesanan?**
 
 Setelah Pembeli melakukan pemesanan, berikut[ proses penyelesaian pesanan](https://seller.shopee.co.id/edu/courseDetail/284?lessonId=122):
 
@@ -83,7 +80,7 @@ Anda dapat mengikuti[ Standar & Praktik Terbaik Pengemasan Produk di Shopee](htt
 
 Untuk Jasa Kirim yang Didukung Shopee, Anda dapat[ meng-*download* dan mencetak resi](https://seller.shopee.co.id/edu/article/3846/Menempelkan-Resi-pada-Paket) dari Seller Centre (komputer/laptop) atau aplikasi Shopee (handphone).
 
-**10. Dapatkah saya mencetak resi tanpa** ***thermal printer*****?**
+**10. Dapatkah saya mencetak resi tanpa** **thermal printer**?**
 
 Ya. Anda dapat menggunakan *printer* biasa untuk mencetak resi, meskipun Anda sangat disarankan untuk menggunakan *thermal printer* untuk mencetak resi.
 

@@ -18,11 +18,6 @@ sources:
 **FAQ Umum**
 
 
-17-03-2026
-
-**FAQ Umum**
-
-  
 
 **1. Apa itu Persentase Chat Dibalas?**
 
@@ -36,7 +31,7 @@ Anda dapat[ melihat Persentase Chat Dibalas Anda](https://seller.shopee.co.id/ed
 
   
 
-**3. Apa yang terjadi jika saya membutuhkan waktu lebih dari 12 jam untuk merespons** ***chat*** **atau penawaran baru?**
+**3. Apa yang terjadi jika saya membutuhkan waktu lebih dari 12 jam untuk merespons** **chat** **atau penawaran baru?**
 
 Persentase Chat Dibalas Anda akan terkena dampak negatif jika Anda merespons *chat* lebih dari 12 jam setelah menerimanya.
 
@@ -86,7 +81,7 @@ Pesan yang dikirim melalui[ **Pesan Otomatis**](https://seller.shopee.co.id/edu/
 
   
 
-**10. Bagaimana pengaruh pada Persentase Chat Dibalas ketika saya** ***chat*** **dengan Penjual lainnya?**
+**10. Bagaimana pengaruh pada Persentase Chat Dibalas ketika saya** **chat** **dengan Penjual lainnya?**
 
 Persentase Chat Dibalas akan terpengaruh jika Penjual lain mengirim Anda pesan.
 
@@ -130,10 +125,10 @@ Ya. Beberapa[ keuntungan eksklusif Penjual akan dihentikan](https://seller.shope
 
 Untuk mempertahankan Persentase Chat Dibalas, Anda perlu membalas pesan:
 
-  - ***Chat*** **Manual**, termasuk pesan yang dikirimkan sebagai respons terhadap pesan Chat Broadcast Anda
-  - ***Chat*** **dari Shopee Games** salinan dari Hadiah Shopee dan dikirimkan secara manual kepada Anda oleh orang lain
-  - **\*\*Pesan berupa Stiker\*\***
-  - ***Chat*** **dengan Penjual** yang dikirimkan oleh Pembeli ketika mereka berinteraksi dengan FAQ, walaupun Pembeli tidak mengirim pesan apapun setelah itu
+  - **Chat** **Manual**, termasuk pesan yang dikirimkan sebagai respons terhadap pesan Chat Broadcast Anda
+  - **Chat** **dari Shopee Games** salinan dari Hadiah Shopee dan dikirimkan secara manual kepada Anda oleh orang lain
+  - **Pesan berupa Stiker**
+  - **Chat** **dengan Penjual** yang dikirimkan oleh Pembeli ketika mereka berinteraksi dengan FAQ, walaupun Pembeli tidak mengirim pesan apapun setelah itu
   - Pesan yang terkirim menggunakan[ **Template Pesan**](https://seller.shopee.co.id/edu/courseDetail/47?lessonId=3383) di Asisten Chat
 
   
@@ -144,15 +139,15 @@ Tipe pesan di atas yang diterima dalam 30 hari terakhir diperhitungkan dalam per
 
 |  |  |
 | :-: | :-: |
-| \*\*TIPE PESAN YANG ANDA TERIMA DAN\*\*\*\*BERPENGARUH PADA PERSENTASE CHAT DIBALAS\*\* |  |
-| \*\*Anda Harus Merespons Tipe\*\* \*\*\*Chat\*\*\* \*\*yang\*\*\*\*Ditandai dengan Kotak Berwarna\*\* \*\*\*Orange\*\*\* |  |
-| 1\\. \*\*Chat Manual\*\*, termasuk yang dikirim sebagai respons terhadap pesan Chat Broadcast Anda |  |
+| **TIPE PESAN YANG ANDA TERIMA DAN**BERPENGARUH PADA PERSENTASE CHAT DIBALAS** |  |
+| **Anda Harus Merespons Tipe** **\*Chat**\* **yang**Ditandai dengan Kotak Berwarna** **\*Orange**\* |  |
+| 1\\. **Chat Manual**, termasuk yang dikirim sebagai respons terhadap pesan Chat Broadcast Anda |  |
 |  |  |
-| 2\\. \*Chat\* dari \*\*Shopee Games\*\* disalin dari \*\*Hadiah Shopee\*\* dan dikirimkan secara manual kepada Anda oleh Pengguna lain | 3\\. \*\*Stiker\*\* |
+| 2\\. \*Chat\* dari **Shopee Games** disalin dari **Hadiah Shopee** dan dikirimkan secara manual kepada Anda oleh Pengguna lain | 3\\. **Stiker** |
 |    |  |
-| 4\\. Perintah \*\*Chat dengan Penjual\*\* atau \*\*Penjual\*\* dikirim oleh Pembeli saat mereka berinteraksi dengan FAQ |  |
+| 4\\. Perintah **Chat dengan Penjual** atau **Penjual** dikirim oleh Pembeli saat mereka berinteraksi dengan FAQ |  |
 |  |  |
-| 5\\. \*Chat\* yang dikirim menggunakan \*\*Template Pesan\*\* |  |
+| 5\\. \*Chat\* yang dikirim menggunakan **Template Pesan** |  |
 |  |  |
 
   
@@ -171,7 +166,7 @@ Tidak, untuk mempertahankan Persentase Chat Dibalas Anda tidak perlu membalas ti
   - Pesan yang diterima dari **akun yang tidak normal** seperti akun yang diblokir sementara, dibatasi, dihapus, dan diblokir.
   - **Chat Broadcast** promosi toko/produk atau *update* pesanan dari Penjual lainnya
   - **Pesan Otomatis** pada Asisten Chat dari Penjual lainnya
-  - ***Chat*** **dari Shopee Games** yang dikirim oleh Shopee Games
+  - **Chat** **dari Shopee Games** yang dikirim oleh Shopee Games
   - Pesan yang diterima setelah Anda mengaktifkan **Fitur Mode Libur**
   - Pertanyaan yang tersimpan di FAQ Toko
 
@@ -182,15 +177,15 @@ Tidak, untuk mempertahankan Persentase Chat Dibalas Anda tidak perlu membalas ti
 
 |  |  |
 | :-: | :-: |
-| \*\*TIPE PESAN YANG ANDA TERIMA DAN BERPENGARUH PADA\*\*\*\*PERSENTASE CHAT DIBALAS\*\* |  |
-| \*\*Anda Harus Merespons Semua\*\* \*\*\*Chat\*\*\* \*\*yang Ditandai dengan Kotak Berwarna\*\* \*\*\*Orange\*\*\* |  |
-| \*\*1. Penawaran\*\* | \*\*2. Chat Manual yang dikirim untuk merespons Chat Broadcast Anda\*\* |
+| **TIPE PESAN YANG ANDA TERIMA DAN BERPENGARUH PADA**PERSENTASE CHAT DIBALAS** |  |
+| **Anda Harus Merespons Semua** **\*Chat**\* **yang Ditandai dengan Kotak Berwarna** **\*Orange**\* |  |
+| **1. Penawaran** | **2. Chat Manual yang dikirim untuk merespons Chat Broadcast Anda** |
 |   |   |
-| \*\*3.\*\* \*\*\*Chat\*\*\* \*\*dari Shopee Games yang dikirimkan secara manual kepada Anda dari Pengguna lain\*\* | \*\*4. Pesan berupa stiker\*\* |
+| **3.** **\*Chat**\* **dari Shopee Games yang dikirimkan secara manual kepada Anda dari Pengguna lain** | **4. Pesan berupa stiker** |
 |   |   |
-| \*\*5. Penggunaan Chat dengan Penjual pada FAQ\*\* |  |
+| **5. Penggunaan Chat dengan Penjual pada FAQ** |  |
 |   |   |
-| \*\*6. Penggunaan Pesan yang dikirim Pembeli\*\*\*\*dengan menggunakan Template Pesan\*\* |  |
+| **6. Penggunaan Pesan yang dikirim Pembeli**dengan menggunakan Template Pesan** |  |
 |  |  |
 
   
@@ -217,7 +212,7 @@ Selama Anda menerima pesan secara manual, Persentase Chat Dibalas Anda akan terp
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*TIPE BALASAN YANG ANDA TERIMA\*\* | \*\*BERDAMPAK PADA PERSENTASE CHAT DIBALAS\*\* | \*\*SARAN TINDAKAN UNTUK ANDA\*\* |
+| **TIPE BALASAN YANG ANDA TERIMA** | **BERDAMPAK PADA PERSENTASE CHAT DIBALAS** | **SARAN TINDAKAN UNTUK ANDA** |
 | Chat Manual, baik dari Penjual atau Pembeli | Ya | Respons dalam waktu 12 jam sejak pesanan terakhir diterima |
 | Chat Broadcast diikuti dengan Chat Manual dari Penjual |  |  |
 | Chat Broadcast dari Penjual | Tidak | Tidak ada tindakan yang diperlukan |

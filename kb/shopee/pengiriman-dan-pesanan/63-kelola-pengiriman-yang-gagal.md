@@ -18,9 +18,6 @@ sources:
 **Tentang Pengiriman yang Gagal**
 
 
-27-07-2026
-
-**Tentang Pengiriman yang Gagal**
 
 Berdasarkan prosesnya, pengiriman pesanan kembali ke Penjual terbagi menjadi 2 jenis, yaitu:
 
@@ -107,13 +104,13 @@ Dengan menggunakan *filter* tersebut memungkinkan Anda untuk mengambil tindakan 
 
 Ada berbagai tindakan yang dapat Anda lakukan untuk memeriksa pengiriman yang gagal, tergantung pada status di bawah ini:
 
-  - **\*\*Sedang Dikembalikan ke Penjual\*\***
+  - **Sedang Dikembalikan ke Penjual**
 
 Status ini berguna dalam mengetahui informasi jumlah pengiriman gagal yang Anda miliki dan melacak paket yang sedang dalam perjalanan kembali ke Anda.
 
   
 
-  - **\*\*Dikirim ke Penjual\*\***
+  - **Dikirim ke Penjual**
 
 Status ini menunjukkan bahwa paket dari pengiriman gagal telah Anda terima. Setelah menerima paket dari pengiriman yang gagal, penting bagi Anda untuk memeriksa paket dan barang di dalamnya dalam kondisi baik. Barang yang masih dalam kondisi baik dapat digunakan untuk mengisi kembali stok Anda.
 
@@ -158,7 +155,7 @@ Pelajari lebih lanjut tentang proses ganti rugi jika barang rusak/hilang dalam p
 
   
 
-  - **\*\*Gagal Dikembalikan ke Penjual\*\***
+  - **Gagal Dikembalikan ke Penjual**
 
 Jika jasa kirim telah melakukan beberapa upaya untuk mengirimkan paket kepada Anda tetapi tidak berhasil, maka jasa kirim berhak untuk mengambil tindakan terhadap paket tersebut dan status paket Anda di Shopee akan diperbarui sebagai **Gagal Dikembalikan ke Penjual**.
 

@@ -18,14 +18,11 @@ sources:
 **Apa itu Pos Reguler?**
 
 
-05-08-2026
-
-**Apa itu Pos Reguler?**
 
 Pos Reguler adalah jasa kirim yang menawarkan pengiriman dengan tipe layanan Reguler di Shopee dengan beberapa dukungan dan ketentuan seperti:
 
   - **Jaminan dan ganti rugi** jika terjadi kehilangan atau kerusakan selama pengiriman.
-  - **Layanan penjemputan (*****pick up*****)** untuk Penjual tertentu.
+  - **Layanan penjemputan (**pick up**)** untuk Penjual tertentu.
 
   
 
@@ -67,7 +64,7 @@ Jumlah pesanan bersih adalah jumlah pesanan terbayar yang tidak termasuk:
 
   
 
-**Ketentuan Layanan** ***Pick up*** **Pos Reguler**
+**Ketentuan Layanan** **Pick up** **Pos Reguler**
 
 Performa pesanan harian di toko Anda akan dievaluasi setiap bulan. Jika toko Anda belum memiliki layanan *pick up* dan telah memenuhi kriteria yang ditentukan, maka layanan *pick up* akan otomatis tersedia pada akun Anda di minggu pertama bulan berikutnya.
 

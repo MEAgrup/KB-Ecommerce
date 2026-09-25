@@ -18,9 +18,6 @@ sources:
 **Apa itu Produk Pre-order?**
 
 
-09-04-2026
-
-**Apa itu Produk Pre-order?**
 
 Produk Pre-order memungkinkan Anda mengatur proses produksi dan pengiriman dengan lebih fleksibel, terutama untuk produk yang membutuhkan waktu dan penanganan khusus.
 
@@ -34,7 +31,7 @@ Terdapat batasan pada kepemilikan produk Pre-order untuk setiap toko, Anda dihar
 
 ⚠️ **Catatan**
 
-  - Per 1 Januari 2026, tidak ada batasan untuk jumlah produk Pre-order **yang dibuat berdasarkan pesanan atau produk buatan tangan (*****custom*****)** di toko Penjual. Pembatasan pada jumlah produk produk Pre-order aktif lainnya (*non-custom)* tetap berlaku.
+  - Per 1 Januari 2026, tidak ada batasan untuk jumlah produk Pre-order **yang dibuat berdasarkan pesanan atau produk buatan tangan (**custom**)** di toko Penjual. Pembatasan pada jumlah produk produk Pre-order aktif lainnya (*non-custom)* tetap berlaku.
   - Jika produk Pre-order yang Anda miliki melebihi batas yang ditentukan, maka jumlah produk yang dapat ditampilkan akan dibatasi hingga 500 produk selama 28 hari.
 
   
@@ -51,10 +48,10 @@ Dengan demikian, Shopee merekomendasikan produk Pre-order pada toko Anda adalah 
 
 ⚠️ **Catatan**
 
-  - **\*\*Pengajuan Pengecualian dari Kebijakan Pembatasan Jumlah Produk Pre-order\*\***  
+  - **Pengajuan Pengecualian dari Kebijakan Pembatasan Jumlah Produk Pre-order**  
       - Anda dapat mengajukan pengecualian dari kebijakan pembatasan jumlah produk Pre-order dengan mengisi[ formulir](https://help.shopee.co.id/portal/webform/ff6918b2f66c4123a90281647d85bba8). Pengajuan Anda akan diproses maks. 7 hari kerja dan hasil pengajuan akan diinformasikan melalui email yang terdaftar.
       - Pengajuan tersebut tidak mempengaruhi penerapan biaya administrasi pada produk Pre-order, sehingga biaya administrasi tetap dikenakan sesuai dengan ketentuan yang berlaku.
-  - **\*\*Pengajuan Perpanjangan Waktu Pre-order\*\***
+  - **Pengajuan Perpanjangan Waktu Pre-order**
 
 Jika Anda membutuhkan perpanjangan waktu Pre-order lebih dari 30 hari kerja dengan alasan tertentu, Anda dapat mengajukan perpanjangan waktu Pre-order dengan mengisi[ formulir](https://help.shopee.co.id/portal/webform/143ec17d3e36413a8802e3ca2636e2d3). Pengajuan Anda akan diproses maks. 7 hari kerja dan hasil pengajuan akan diinformasikan melalui email yang terdaftar.
 

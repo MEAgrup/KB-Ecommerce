@@ -18,9 +18,6 @@ sources:
 **Apa itu Jasa Kirim Toko?**
 
 
-24-09-2024
-
-**Apa itu Jasa Kirim Toko?**
 
 Jasa Kirim Toko adalah salah satu pilihan jasa kirim yang diberikan oleh penyedia jasa kirim (pihak ketiga) dan belum terintegrasi dengan sistem Shopee, sehingga pelacakan pengiriman pesanan tidak akan muncul di aplikasi Shopee Pembeli maupun Penjual.
 
@@ -40,7 +37,7 @@ Per Agustus 2023, jasa kirim "Termasuk Ongkos Kirim" berubah menjadi "Jasa Kirim
 
   
 
-**﻿﻿﻿﻿﻿﻿﻿﻿﻿****Bagaimana cara mengajukan aktivasi pilihan Jasa Kirim Toko?**
+**﻿﻿﻿﻿﻿﻿﻿﻿﻿**Bagaimana cara mengajukan aktivasi pilihan Jasa Kirim Toko?**
 
 Anda dapat mengisi formulir untuk mengajukan[ aktivasi pilihan Jasa Kirim Toko](https://help.shopee.co.id/portal/webform/d9c1b508ee7f41e592c6cf9cbca1980a). Apabila Anda membutuhkan penanganan khusus pada pengiriman seperti produk dengan dimensi yang besar, elektronik, atau barang dengan nilai jual tinggi lainnya, Anda juga dapat mengaktifkan pilihan jasa kirim tersebut.
 
@@ -89,7 +86,7 @@ Anda dapat masuk ke halaman **Pengaturan Pengiriman** untuk mengaktifkan Jasa Ki
   
 **
 
-***Update*** **secara massal melalui Seller Centre**: 
+**Update** **secara massal melalui Seller Centre**: 
 
   
 

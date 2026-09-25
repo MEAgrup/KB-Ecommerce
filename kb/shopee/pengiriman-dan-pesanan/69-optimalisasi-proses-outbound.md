@@ -19,9 +19,6 @@ related: [shp-pengiriman-101]
 **Pentingnya Area Outbound**
 
 
-04-04-2025
-
-**Pentingnya Area Outbound**
 
 [Area *outbound*](https://seller.shopee.co.id/edu/article/13409) digunakan untuk menyimpan produk-produk yang telah dikemas dan siap untuk dikirim. Area ini akan ramai dikunjungi oleh pihak jasa kirim untuk mengambil produk siap kirim. Lakukan penyerahan produk ke pihak jasa kirim hanya di area *outbound*.
 
@@ -31,7 +28,7 @@ Pisahkan area *outbound* dari area *inbound* agar proses keluar dan masuknya pro
 
   
 
-**PERBEDAAN AREA** ***INBOUND*** **DAN AREA** ***OUTBOUND*** 
+**PERBEDAAN AREA** **INBOUND** **DAN AREA** **OUTBOUND** 
 
 Proses *inbound* akan membutuhkan tenaga ekstra dan bisa saja memecah fokus karyawan. Meski *inbound* barang tidak dilakukan setiap hari, namun area *inbound* dan *outbound* yang digabungkan dapat memicu penumpukan serta menghambat proses operasional secara keseluruhan. Mengingat kedua area ini merupakan area yang kerap dikunjungi pihak eksternal, dengan memberi batas area khusus dapat membantu Anda meminimalisir kerusakan dan kehilangan barang. 
 

@@ -18,9 +18,6 @@ sources:
 **Tentang Fitur Mode Libur**
 
 
-02-04-2026
-
-**Tentang Fitur Mode Libur**
 
 Fitur Mode Libur memungkinkan untuk menghentikan penerimaan pesanan yang masuk ke toko Anda untuk sementara. Dengan mengaktifkan fitur ini, produk dan toko Anda tidak dapat dicari oleh Pengguna lain, sehingga Pembeli tidak dapat membuat pesanan baru. Hal ini membantu Anda menghindari batas waktu pengiriman yang terlewat saat Anda libur.
 

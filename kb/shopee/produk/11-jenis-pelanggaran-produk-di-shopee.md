@@ -19,9 +19,6 @@ related: [shp-produk-107]
 **Apa itu Pelanggaran Penggunaan Bahasa Asing dan Font Unik?**
 
 
-06-02-2026
-
-**Apa itu Pelanggaran Penggunaan Bahasa Asing dan Font Unik?**
 
 Penggunaan bahasa asing dan *font* unik atau unik karakter (termasuk karakter dan simbol unik) pada nama, deskripsi, spesifikasi, variasi, foto, audio dan video produk merupakan salah satu bentuk pelanggaran kebijakan Shopee.
 
@@ -30,7 +27,7 @@ Penggunaan bahasa asing dan *font* unik atau unik karakter (termasuk karakter da
 **⚠️ Catatan**
 
   - Sesuai ketentuan yang berlaku, bahasa yang boleh digunakan pada nama, deskripsi, spesifikasi, variasi, foto, audio dan video produk hanya Bahasa Indonesia dan Bahasa Inggris.
-  - Penggunaan bahasa asing dan *font* unik (termasuk karakter dan simbol unik) di luar ketentuan akan menyebabkan **produk Anda gagal di-*****upload***.
+  - Penggunaan bahasa asing dan *font* unik (termasuk karakter dan simbol unik) di luar ketentuan akan menyebabkan **produk Anda gagal di-**upload**.
 
   
 
@@ -251,7 +248,7 @@ Berikut adalah contoh foto produk yang tidak layak dan layak untuk digunakan:
 
   
 
-Jika terindikasi melanggar kebijakan pelanggaran foto tidak pantas, produk Anda akan diturunkan sementara. Anda perlu memperbarui informasi produk agar sesuai dengan kebijakan Shopee dalam **batas waktu yang ditentukan** yang dapat Anda lihat di Seller Centre untuk melalui proses ***quality control*** **(QC)** oleh Tim Shopee.
+Jika terindikasi melanggar kebijakan pelanggaran foto tidak pantas, produk Anda akan diturunkan sementara. Anda perlu memperbarui informasi produk agar sesuai dengan kebijakan Shopee dalam **batas waktu yang ditentukan** yang dapat Anda lihat di Seller Centre untuk melalui proses **quality control** **(QC)** oleh Tim Shopee.
 
   
 

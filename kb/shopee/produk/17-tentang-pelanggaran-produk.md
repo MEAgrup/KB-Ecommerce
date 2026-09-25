@@ -19,9 +19,6 @@ related: [shp-produk-107]
 **Apa itu Pelanggaran Produk?**
 
 
-26-01-2026
-
-**Apa itu Pelanggaran Produk?**
 
 Pelanggaran produk adalah daftar produk yang melanggar kebijakan Shopee. Untuk memastikan pengalaman berbelanja yang aman bagi Pembeli, Shopee mengawasi semua produk yang di-*upload* oleh Penjual dan akan mengambil tindakan terhadap Penjual yang melakukan pelanggaran produk berikut:
 
@@ -82,13 +79,13 @@ Produk yang melanggar panduan pelanggaran produk akan dikenakan salah satu dari 
 
   
 
-  - **\*\*Diturunkan\*\***
+  - **Diturunkan**
 
 Hal ini hanya berlaku bagi jenis pelanggaran kategori produk yang salah dan pelanggaran foto produk mengandung unsur pornografi/konten vulgar dan foto tidak pantas. Produk yang diturunkan tetap ditampilkan dan dapat dicari oleh Pembeli, namun peringkat pencarian akan mengalami penurunan sementara. Anda dapat memperbaiki dan menyelesaikan pelanggaran tersebut agar peringkat pencarian produk meningkat kembali.
 
   
 
-  - **\*\*Diblokir dan/atau dihapus\*\***
+  - **Diblokir dan/atau dihapus**
 
 Produk akan **dihapus** jika melanggar[ kebijakan barang yang dilanggar dan dibatasi Shopee](https://help.shopee.co.id/portal/article/71189?source=4&previousPage=other%20articles) dan regulasi tertentu dari pemerintah. Toko dengan produk yang dihapus oleh Shopee akan mendapatkan poin penalti berdasarkan[ Sistem Poin Penalti](https://seller.shopee.co.id/edu/article/1762/Kapan-Poin-Penalti-Diberikan). Pelajari lebih lanjut tentang[ akun Shopee](https://seller.shopee.co.id/edu/article/6856) dan[ pengajuan banding penalti](https://seller.shopee.co.id/edu/article/16074/pengajuan-banding-penalti).
 
@@ -211,7 +208,7 @@ Anda juga dapat **Hapus** produk secara massal.
 
   
 
-***Upload*** **Dokumen Pendukung**
+**Upload** **Dokumen Pendukung**
 
 Pilih **Upload** **Lisensi** dan *upload* dokumen terkait. Anda dapat *upload* hingga 10 dokumen untuk setiap produk yang diblokir.
 

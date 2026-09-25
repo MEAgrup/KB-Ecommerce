@@ -18,9 +18,6 @@ sources:
 **Bagaimana Cara Menambah atau Mengubah Alamat Saya?**
 
 
-10-03-2026
-
-**Bagaimana Cara Menambah atau Mengubah Alamat Saya?**
 
 Demi memudahkan proses pengiriman pesanan, Anda bisa menambahkan atau mengubah alamat di aplikasi Shopee maupun Seller Centre. Saat ini terdapat tiga jenis alamat yang ada di dalam satu akun Shopee:
 

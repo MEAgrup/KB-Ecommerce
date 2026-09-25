@@ -19,9 +19,6 @@ decisions: []
 **Apa itu Shopee Mall?**
 
 
-11-08-2026
-
-**Apa itu Shopee Mall?**
 
 Shopee Mall adalah toko terpilih khusus pemilik merek dan distributor resmi. Produk dari Penjual Shopee Mall akan memiliki label  pada halaman profil toko atau pada semua daftar produk terdaftar.
 
@@ -75,7 +72,7 @@ Saat ini, tampilan pada Brand Portal hanya tersedia dalam bahasa Inggris.
 
   
 
-c. ***Reserved Keywords*** *-* Kata kunci yang terdiri dari **nama toko** dan ***username*** toko untuk memudahkan Pembeli menemukan toko di hasil pencarian Shopee.
+c. **Reserved Keywords** *-* Kata kunci yang terdiri dari **nama toko** dan **username** toko untuk memudahkan Pembeli menemukan toko di hasil pencarian Shopee.
 
 Contoh:
 
@@ -152,7 +149,7 @@ Bukti orisinalitas berupa:
 
   
 
-**3. Distributor Resmi Non-Eksklusif/Multi-brand/*****Retailer***
+**3. Distributor Resmi Non-Eksklusif/Multi-brand/**Retailer**
 
 Pemegang hak distribusi satu atau lebih dari merek dengan izin resmi tertulis dari beberapa pemilik merek terdaftar di sertifikat HAKI, dengan periode perjanjian tertentu.
 
@@ -447,7 +444,7 @@ Pastikan Anda mencantumkan bukti pemenuhan standar dengan dokumen yang mencantum
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*TIPE\*\* | \*\*NOMOR\*\* | \*\*SITUS RESMI\*\* |
+| **TIPE** | **NOMOR** | **SITUS RESMI** |
 | Nomor SNI | SNI 7609:2011SNI ISO 9001:2015SNI IEC 60335-2-49-2009 | \[BANG BENI\](https://bangbeni.bsn.go.id/barang-ber-sni) |
 | Nomor Sertifikat SNI | xxx/LSP/QI/02-IX/2023xx/xx.xx.xx/xx/LSPro/X/2019 |  |
 
@@ -565,7 +562,7 @@ Status Kesehatan Toko (misal: Sangat Baik, Baik, dll) di halaman[ Kesehatan Toko
 
 |  |  |
 | :-: | :-: |
-| \*\*KRITERIA\*\* | \*\*TARGET\*\* |
+| **KRITERIA** | **TARGET** |
 | Persentase Chat Dibalas | ≥60% |
 | Poin Penalti | \\\<2 |
 | Penilaian Toko | ≥4.4 |
@@ -607,10 +604,10 @@ Shopee memiliki 2 jenis toko Shopee Mall, yaitu:
 
 |  |  |  |
 | :-: | :-: | :-: |
-|   | \*\*OFFICIAL STORE\*\* | \*\*AUTHORIZED STORE\*\* |
-| \*\*Toko\*\* | Anda harus memenuhi min. 1 kriteria di bawah ini. Official Store dikelola oleh:• Pemilik \*brand\*.• Distributor \*brand\* yang menjual produk \*brand\* tunggal di Shopee. | Anda harus memenuhi kedua kriteria di bawah ini. Authorized Store dikelola oleh pemilik non-\*brand\* yang:• Diotorisasi oleh pemilik \*brand\* untuk menjual produk satu atau beberapa \*brand\* di Shopee.• Menjual bersama distributor lain. |
-| \*\*Penamaan\*\* | Nama \*brand\* + \*\*Official Store\*\*.Misalnya, DEF\\\* Official Store. | • \*Brand\* tunggal:Nama \*brand\* + \*\*Authorized Store\*\*+ Lokasi. Misalnya, DEF\\\* Authorized Store Jakarta.• Berbagai \*brand\*:Nama toko + \*\*Authorized Store\*\*. Misalnya, Seller Operations\\\* Authorized Store. |
-| ⚠️ \*\*Catatan\*\*Menunjukkan \*\*lokasi\*\* toko Anda dapat membantu Pembeli untuk membedakan antara toko dengan \*brand\* yang sama di berbagai kabupaten/kota. Misalnya, DEF Authorized Store Jakarta & DEF Authorized Store Yogyakarta. Namun hal ini bersifat \*\*opsional\*\* jika tidak ada toko lain yang menjual \*brand\* yang sama. \\\*Hal yang harus diperhatikan oleh Penjual Shopee Mall:• \*\*DEF\*\* adalah contoh nama \*brand\*.• \*\*Seller Operations\*\* adalah contoh nama toko. |  |  |
+|   | **OFFICIAL STORE** | **AUTHORIZED STORE** |
+| **Toko** | Anda harus memenuhi min. 1 kriteria di bawah ini. Official Store dikelola oleh:• Pemilik \*brand\*.• Distributor \*brand\* yang menjual produk \*brand\* tunggal di Shopee. | Anda harus memenuhi kedua kriteria di bawah ini. Authorized Store dikelola oleh pemilik non-\*brand\* yang:• Diotorisasi oleh pemilik \*brand\* untuk menjual produk satu atau beberapa \*brand\* di Shopee.• Menjual bersama distributor lain. |
+| **Penamaan** | Nama \*brand\* + **Official Store**.Misalnya, DEF\\\* Official Store. | • \*Brand\* tunggal:Nama \*brand\* + **Authorized Store**+ Lokasi. Misalnya, DEF\\\* Authorized Store Jakarta.• Berbagai \*brand\*:Nama toko + **Authorized Store**. Misalnya, Seller Operations\\\* Authorized Store. |
+| ⚠️ **Catatan**Menunjukkan **lokasi** toko Anda dapat membantu Pembeli untuk membedakan antara toko dengan \*brand\* yang sama di berbagai kabupaten/kota. Misalnya, DEF Authorized Store Jakarta & DEF Authorized Store Yogyakarta. Namun hal ini bersifat **opsional** jika tidak ada toko lain yang menjual \*brand\* yang sama. \\\*Hal yang harus diperhatikan oleh Penjual Shopee Mall:• **DEF** adalah contoh nama \*brand\*.• **Seller Operations** adalah contoh nama toko. |  |  |
 
   
 
@@ -642,10 +639,10 @@ Pelajari syarat foto produk yang harus dipenuhi khusus Penjual Shopee Mall untuk
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*ELEMEN\*\* | \*\*SYARAT\*\* | \*\*PENGECUALIAN\*\* |
-| \*\*Semua Foto\*\* | • Setiap daftar produk memiliki min. 3  foto yang terlihat profesional.• Untuk setiap foto, produk yang dijual harus jelas, tajam, tidak pecah, dan difoto dengan warna realistis.• Foto sebaiknya tidak memiliki bayangan orang atau objek lain.• Tidak boleh menduplikat foto produk. | • Produk dalam kategori dewasa harus mengikuti panduan tambahan.• Produk berupa kartu SIM, stiker, buku, & pulpen bisa berjumlah \\\< 3 foto jika Penjual menjual secara ecer.• Foto produk Makanan & Minuman harus min. 2 foto. Contoh: Tampak depan & belakang, dibungkus & terbuka. |
-| \*\*Foto Sampul\*\* | • Foto sampul harus memiliki latar belakang warna solid (sebaiknya putih).• Produk yang dijual harus terlihat jelas & atribut lain tidak boleh lebih besar dari produk.• Boleh menunjukkan beberapa produk dalam satu foto yang diambil secara profesional (bukan berbentuk collage atau grid).• Boleh memasukkan teks atau grafik di ujung foto sebagai informasi tambahan, asalkan tidak menghalangi gambar produk (disarankan untuk ditempatkan di kedua sisi ujung foto).• Boleh memasukkan teks atau grafik yang berguna untuk melengkapi spesifikasi produk (Contoh: Swatch warna lipstik atau cat).• Boleh memasukkan teks atau grafik untuk menjelaskan hadiah, asalkan tidak lebih besar dari produk utama.• Penggunaan border/bingkai foto diperbolehkan jika hanya garis sederhana (bukan garis dekoratif) yang tidak terlalu tebal.• Seluruh produk harus dimuat pada foto dan tidak terpotong.• Tidak ada model di foto sampul kecuali produk dalam kategori Fashion, Perawatan & Kecantikan, Olahraga dan kategori Outdoor.• Produk tidak dibungkus (ada pengecualian). | • Produk boleh dibungkus apabila barang bisa dipakai (Contoh: Makanan, popok bayi).• Produk dalam kategori Pakaian, Tas, Sepatu, Perlengkapan Rumah, dan Otomotif dapat menggunakan foto dengan latar belakang alam.• Produk dalam kategori Makanan & Minuman boleh menggunakan latar belakang bukan warna solid selama foto diambil secara profesional & dengan pencahayaan yang baik.• Bagian yang boleh dipotong dalam foto:° Elektronik: Kabel earphone, hair dryer, catokan.° Aksesoris Fashion: Liontin.° FMCG: Boleh memotong gambar kemasan selama merek dan variasi produk terlihat jelas.° Kecantikan: Kuas makeup |
-| \*\*Foto lainnya\*\* | • Latar belakang diperbolehkan untuk foto selain sampul untuk memperlihatkan skala atau kegunaan produk.• Konten produk harus mengisi sebagian besar bagian foto, jelas, dan tidak blur.• Boleh menggunakan foto yang dipotong atau diambil dari jarak dekat.• Boleh menggunakan model.• Setiap foto harus menunjukkan sudut berbeda dari produk. |   |
+| **ELEMEN** | **SYARAT** | **PENGECUALIAN** |
+| **Semua Foto** | • Setiap daftar produk memiliki min. 3  foto yang terlihat profesional.• Untuk setiap foto, produk yang dijual harus jelas, tajam, tidak pecah, dan difoto dengan warna realistis.• Foto sebaiknya tidak memiliki bayangan orang atau objek lain.• Tidak boleh menduplikat foto produk. | • Produk dalam kategori dewasa harus mengikuti panduan tambahan.• Produk berupa kartu SIM, stiker, buku, & pulpen bisa berjumlah \\\< 3 foto jika Penjual menjual secara ecer.• Foto produk Makanan & Minuman harus min. 2 foto. Contoh: Tampak depan & belakang, dibungkus & terbuka. |
+| **Foto Sampul** | • Foto sampul harus memiliki latar belakang warna solid (sebaiknya putih).• Produk yang dijual harus terlihat jelas & atribut lain tidak boleh lebih besar dari produk.• Boleh menunjukkan beberapa produk dalam satu foto yang diambil secara profesional (bukan berbentuk collage atau grid).• Boleh memasukkan teks atau grafik di ujung foto sebagai informasi tambahan, asalkan tidak menghalangi gambar produk (disarankan untuk ditempatkan di kedua sisi ujung foto).• Boleh memasukkan teks atau grafik yang berguna untuk melengkapi spesifikasi produk (Contoh: Swatch warna lipstik atau cat).• Boleh memasukkan teks atau grafik untuk menjelaskan hadiah, asalkan tidak lebih besar dari produk utama.• Penggunaan border/bingkai foto diperbolehkan jika hanya garis sederhana (bukan garis dekoratif) yang tidak terlalu tebal.• Seluruh produk harus dimuat pada foto dan tidak terpotong.• Tidak ada model di foto sampul kecuali produk dalam kategori Fashion, Perawatan & Kecantikan, Olahraga dan kategori Outdoor.• Produk tidak dibungkus (ada pengecualian). | • Produk boleh dibungkus apabila barang bisa dipakai (Contoh: Makanan, popok bayi).• Produk dalam kategori Pakaian, Tas, Sepatu, Perlengkapan Rumah, dan Otomotif dapat menggunakan foto dengan latar belakang alam.• Produk dalam kategori Makanan & Minuman boleh menggunakan latar belakang bukan warna solid selama foto diambil secara profesional & dengan pencahayaan yang baik.• Bagian yang boleh dipotong dalam foto:° Elektronik: Kabel earphone, hair dryer, catokan.° Aksesoris Fashion: Liontin.° FMCG: Boleh memotong gambar kemasan selama merek dan variasi produk terlihat jelas.° Kecantikan: Kuas makeup |
+| **Foto lainnya** | • Latar belakang diperbolehkan untuk foto selain sampul untuk memperlihatkan skala atau kegunaan produk.• Konten produk harus mengisi sebagian besar bagian foto, jelas, dan tidak blur.• Boleh menggunakan foto yang dipotong atau diambil dari jarak dekat.• Boleh menggunakan model.• Setiap foto harus menunjukkan sudut berbeda dari produk. |   |
 
   
 
@@ -707,7 +704,7 @@ Berikut syarat deskripsi produk yang baik berdasarkan kategori produk:
 
 |  |  |
 | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SYARAT\*\* |
+| **KATEGORI** | **SYARAT** |
 | Fashion | Panduan ukuran |
 | Ukuran pakaian yang dipakai model (jika ada) |  |
 | Bahan |  |
@@ -730,15 +727,15 @@ Berikut syarat deskripsi produk yang baik berdasarkan kategori produk:
 
 Atribut produk adalah rincian dan/atau karakteristik yang mendeskripsikan produk Anda. Manfaat yang akan didapatkan jika menggunakan atribut produk yang akurat, yaitu: 
 
-  - **\*\*Meningkatkan visibilitas produk\*\***
+  - **Meningkatkan visibilitas produk**
 
 Produk dengan atribut yang akurat memiliki kemungkinan lebih besar untuk ditampilkan di posisi teratas halaman pencarian.
 
-  - **\*\*Mengurangi\*\* \*\*\*chat\*\*\* \*\*masuk\*\***
+  - **Mengurangi** **\*chat**\* **masuk**
 
 Menambahkan atribut pada produk Anda memberikan pengetahuan lebih bagi Pembeli dan dapat mengurangi *chat* Pembeli yang masuk.
 
-  - **\*\*Mengatur ekspektasi dan mengurangi pengembalian\*\***
+  - **Mengatur ekspektasi dan mengurangi pengembalian**
 
 Atribut membantu Pembeli untuk membuat keputusan pembelian, sehingga mengurangi risiko pengembalian produk.
 
@@ -752,7 +749,7 @@ Berikut adalah contoh atribut merek yang wajib dilengkapi untuk beberapa kategor
 
 |  |  |
 | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*ATRIBUT\*\* |
+| **KATEGORI** | **ATRIBUT** |
 | Fashion Pria | Merek, Bahan, Motif |
 | Handphone & Aksesoris | Merek, Kapasitas Penyimpanan, Masa Garansi, Jenis Garansi |
 | Perawatan & Kecantikan | Merek, Masa Penyimpanan |
@@ -815,14 +812,14 @@ Tiga jenis pelanggaran produk yang akan ditindaklanjuti oleh Shopee adalah:
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*PELANGGARAN PRODUK\*\* | \*\*JENIS PELANGGARAN\*\* | \*\*KETERANGAN\*\* |
-| \*\*Produk Dilarang\*\* | Produk dilarang | Menjual produk yang dilarang berdasarkan undang-undang atau kebijakan Shopee |
+| **PELANGGARAN PRODUK** | **JENIS PELANGGARAN** | **KETERANGAN** |
+| **Produk Dilarang** | Produk dilarang | Menjual produk yang dilarang berdasarkan undang-undang atau kebijakan Shopee |
 | Iklan | Mengiklankan jasa/produk lain pada rincian produk |  |
 | Penggunaan halaman produk lama untuk produk baru | Menggunakan halaman produk lama untuk menjual produk baru |  |
 | Menaikkan harga sebelum promosi | Menaikkan harga sebelum promosi Shopee |  |
-| \*\*Produk Imitasi\*\* | Pelanggaran Hak Kekayaan Intelektual | Menjual produk yang mengandung merek dagang terdaftar tanpa izin dari pemegang merek dagang |
+| **Produk Imitasi** | Pelanggaran Hak Kekayaan Intelektual | Menjual produk yang mengandung merek dagang terdaftar tanpa izin dari pemegang merek dagang |
 | Produk imitasi | Menjual produk imitasi dari merek yang sudah ada |  |
-| \*\*\*Spam\*\*\* | Produk duplikat | Meng-\*upload\* produk yang sama berkali-kali |
+| **\*Spam**\* | Produk duplikat | Meng-\*upload\* produk yang sama berkali-kali |
 | \*Spam\* harga | Menjual produk dengan harga yang jauh lebih rendah/tinggi dari harga pasaran |  |
 | \*Spam\* kata pencarian | Penggunaan kata pencarian yang tidak relevan pada nama dan rincian produk |  |
 | \*Spam\* atribut | Memasukkan atribut dengan informasi yang tidak akurat |  |

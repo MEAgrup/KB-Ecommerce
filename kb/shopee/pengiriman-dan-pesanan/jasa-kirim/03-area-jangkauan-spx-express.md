@@ -18,11 +18,6 @@ sources:
 **Area Jangkauan Penjual SPX Express**
 
 
-07-08-2026
-
-**Area Jangkauan Penjual SPX Express**
-
-  
 
 **SPX Standard**
 

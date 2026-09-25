@@ -18,9 +18,6 @@ sources:
 **1. Apa itu Poin Penalti?**
 
 
-18-11-2025
-
-**1. Apa itu Poin Penalti?**
 
 Poin penalti diberikan kepada Penjual yang tidak memenuhi target performa toko Shopee.
 
@@ -32,7 +29,7 @@ Anda dapat melihat Poin Penalti melalui **Penalti Saya** pada halaman[ **Kesehat
 
   
 
-**3. Kapan Poin Penalti saya akan ter-*****update*****?**
+**3. Kapan Poin Penalti saya akan ter-**update**?**
 
 Poin Penalti yang dikenakan pada toko Anda akan ter-*update* pada hari yang sama.
 

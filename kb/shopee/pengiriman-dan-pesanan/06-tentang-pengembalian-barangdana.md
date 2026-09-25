@@ -18,9 +18,6 @@ sources:
 **Pengembalian Barang/Dana di Shopee**
 
 
-20-04-2026
-
-**Pengembalian Barang/Dana di Shopee**
 
 Pengembalian Barang/Dana adalah proses ketika Pembeli tidak puas dengan pesanannya karena beberapa alasan. Semua Pembeli dapat mengajukan pengembalian barang/dana baik melakukan pembelian dari toko Non-Mall atau Shopee Mall.
 

@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Brand Membership?**
 
 
-05-08-2026
-
-**Apa itu Program Brand Membership?**
 
 Brand Membership adalah fitur untuk Penjual yang berfungsi untuk menarik lebih banyak Pembeli, meningkatkan penjualan toko, serta membangun loyalitas Pembeli. Melalui fitur ini, Anda dapat memberikan berbagai **keuntungan eksklusif** kepada member seperti **voucher khusus**, **harga spesial** dan **hadiah gratis**.
 

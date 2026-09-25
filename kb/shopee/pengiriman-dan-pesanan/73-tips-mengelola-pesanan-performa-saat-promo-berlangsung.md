@@ -18,9 +18,6 @@ sources:
 **Pantau Pesanan Selama Promo Shopee Berlangsung**
 
 
-17-03-2026
-
-**Pantau Pesanan Selama Promo Shopee Berlangsung**
 
 Melacak data penjualan selama promo berlangsung adalah langkah penting untuk memantau performa produk Anda. Hal ini memungkinkan Anda mengidentifikasi produk dengan performa rendah, mendapatkan tips untuk meningkatkan performa produk, serta memanfaatkan produk dengan performa tinggi.
 
@@ -104,11 +101,11 @@ Anda dapat menggunakan fitur[ **Data Real-Time**](https://seller.shopee.co.id/da
 
   
 
-  - **\*\*Ketersediaan produk\*\***
+  - **Ketersediaan produk**
 
 Selalu perbarui jumlah stok produk Anda untuk mencegah situasi kehabisan stok dan keterlambatan dalam proses *restock* yang dapat mempengaruhi tingkat penjualan serta penyelesaian pesanan Anda.
 
-  - **\*\*Ketersediaan tenaga kerja\*\***
+  - **Ketersediaan tenaga kerja**
 
 Sebelum memutuskan untuk terus menerima lebih banyak pesanan, Anda harus memperkirakan jumlah karyawan yang dapat mengemas dan mengalokasikan tanggung jawab yang sesuai. 
 

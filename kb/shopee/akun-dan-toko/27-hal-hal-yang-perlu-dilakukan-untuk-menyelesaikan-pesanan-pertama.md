@@ -18,8 +18,5 @@ sources:
 Anda dapat masuk ke menu Pesanan Saya di[ Seller Centre](https://seller.shopee.co.id/) atau halaman Toko Saya di aplikasi Shopee untuk melihat pesanan yang perlu dikirim. Berikut adalah yang perlu Anda lakukan saat mendapatkan pesanan pertama di toko Anda:
 
 
-27-02-2023
-
-Anda dapat masuk ke menu Pesanan Saya di[ Seller Centre](https://seller.shopee.co.id/) atau halaman Toko Saya di aplikasi Shopee untuk melihat pesanan yang perlu dikirim. Berikut adalah yang perlu Anda lakukan saat mendapatkan pesanan pertama di toko Anda: 
 
 Penjual juga dapat bergabung di layanan[ Dikelola Shopee](https://seller.shopee.co.id/edu/article/6935) untuk mempermudah Anda memproses pesanan serta menjual barang langsung melalui Shopee. Nikmati pula berbagai keuntungan yang bisa Anda nikmati dengan mendaftarkan produk Anda pada layanan Dikelola Shopee.

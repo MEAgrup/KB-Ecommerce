@@ -19,9 +19,6 @@ related: [shp-akun-104]
 Pembatasan akun diberikan ketika Penjual yang diduga terlibat dalam salah satu aktivitas berikut:
 
 
-13-05-2026
-
-Pembatasan akun diberikan ketika Penjual yang diduga terlibat dalam salah satu aktivitas berikut:
 
   - Memiliki \>3 toko dengan data pribadi yang sama
   - Terdapat percobaan peretasan akun, sehingga akun dibatasi untuk alasan keamanan. Ketahui lebih lanjut tips mudah untuk[ menjaga akun Anda](https://shopee.co.id/m/scam-awareness?smtt=9&deep_and_deferred=1)

@@ -18,9 +18,6 @@ sources:
 **FAQ Umum**
 
 
-27-03-2026
-
-**FAQ Umum**
 
 **1. Apakah ada biaya yang harus Penjual keluarkan untuk menggunakan fitur COD (Bayar di Tempat)?**
 

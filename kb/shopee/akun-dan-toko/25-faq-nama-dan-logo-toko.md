@@ -18,16 +18,13 @@ sources:
 1\. **Bagaimana cara melihat nama dan logo toko?**
 
 
-03-09-2025
-
-1\. **Bagaimana cara melihat nama dan logo toko?**
 
   - Melalui aplikasi Shopee, pilih **Saya** \> pilih **Toko Saya**.
   - Melalui Seller Centre, masuk ke[ **Profil Toko**](https://seller.shopee.co.id/portal/settings/shop/profile) di menu **Toko**.
 
   
 
-2\. **Di mana saya dapat menemukan tautan (*****link*****) toko?**
+2\. **Di mana saya dapat menemukan tautan (**link**) toko?**
 
 Anda dapat[ mengakses tautan (*link*) toko Anda](https://seller.shopee.co.id/edu/article/3104) melalui aplikasi Shopee. Tautan (*link*) toko Anda berada di paling bawah halaman **Toko Saya**.
 

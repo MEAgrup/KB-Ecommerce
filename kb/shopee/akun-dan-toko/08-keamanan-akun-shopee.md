@@ -18,9 +18,6 @@ sources:
 **Apa yang harus saya lakukan jika mendapat peringatan log in mencurigakan dari Shopee?**
 
 
-12-12-2022
-
-**Apa yang harus saya lakukan jika mendapat peringatan log in mencurigakan dari Shopee?**
 
 Untuk melindungi data akun Pengguna, Shopee selalu memberitahukan adanya tindakan/aktivitas penting yang terjadi di akun Anda. Agar membantu menjaga keamanan akun, seluruh aktivitas log in di akun Shopee Anda yang menggunakan perangkat atau berasal dari lokasi yang mencurigakan dan tidak meyakinkan akan diinformasikan.
 

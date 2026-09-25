@@ -18,9 +18,6 @@ sources:
 **1. Apakah semua Penjual diberlakukan biaya administrasi, pembayaran, layanan, dan proses pesanan?**
 
 
-31-07-2026
-
-**1. Apakah semua Penjual diberlakukan biaya administrasi, pembayaran, layanan, dan proses pesanan?**
 
 **a. Biaya Administrasi**
 
@@ -54,11 +51,11 @@ Pelajari lebih lanjut tentang[ **Jenis Biaya untuk Berjualan di Shopee**](https:
 
 **2. Kapan Biaya Administrasi berlaku di toko saya?**
 
-  - **\*\*Penjual Non-Star\*\***
+  - **Penjual Non-Star**
 
 Biaya Administrasi Non-Star akan berlaku bagi Penjual Non-Star yang telah terdaftar di Shopee.
 
-  - **\*\*Penjual Star/ Star+\*\***
+  - **Penjual Star/ Star+**
 
 Biaya Administrasi akan berlaku bagi Penjual Star/Star+ saat efektif bergabung dalam program Star/Star+.
 
@@ -72,25 +69,25 @@ Biaya Administrasi akan berlaku bagi Penjual Shopee Mall saat efektif menjadi Pe
 
 Biaya administrasi dihitung setelah promosi berupa Diskon Produk dan/atau Voucher Diskon yang ditanggung Penjual dikurangi harga asli produk dengan rincian sebagai berikut:
 
-  - **\*\*Penjual Non-Star\*\***
+  - **Penjual Non-Star**
 
-Biaya Administrasi Final\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon ditanggung Penjual) x 10,00%\*\*/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%
-
-  
-
-  - **\*\*Penjual Star dan Star+\*\***
-
-Biaya Administrasi Final\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon ditanggung Penjual) x 10,00%\*\*/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%
+Biaya Administrasi Final\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon ditanggung Penjual) x 10,00%**/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%
 
   
 
-  - **\*\*Penjual Shopee Mall\*\***
+  - **Penjual Star dan Star+**
+
+Biaya Administrasi Final\* = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon ditanggung Penjual) x 10,00%**/9,50%/9,00%/8,25%/6,75%/6,50%/5,25%/4,25%/2,50%
+
+  
+
+  - **Penjual Shopee Mall**
 
 Biaya Administrasi Final\* = (Harga Asli Produk – Diskon Produk dan/atau Voucher Diskon ditanggung oleh Penjual Shopee Mall) x 11,70%/10,45%/10,20%/9,95%/7,70%/7,20%/6,20%/4,70%/4,20%/3,20%/2,50%
 
 *\*Biaya yang berlaku untuk Penjual Non-Star, Star/Star+ dan Shopee Mall ditentukan berdasarkan kategori produk. Pelajari lebih lanjut*[ *Tentang Rincian Biaya per Kategori Produk*](https://seller.shopee.co.id/edu/article/15965)*.*
 
-*\*\*20% lebih rendah dari Biaya Administrasi dasar sebesar 12,50%*
+**20% lebih rendah dari Biaya Administrasi dasar sebesar 12,50%*
 
   
 

@@ -18,9 +18,6 @@ sources:
 Menemukan *detail* seperti kode produk, ID toko, *link* toko, username, dan nama toko adalah hal yang penting ketika Anda perlu memberikan informasi pada saat berikut:
 
 
-12-03-2024
-
-Menemukan *detail* seperti kode produk, ID toko, *link* toko, username, dan nama toko adalah hal yang penting ketika Anda perlu memberikan informasi pada saat berikut:
 
   - Mendaftar untuk acara atau[ webinar](https://seller.shopee.co.id/edu/article/17942) Shopee.
   - Menyampaikan kendala melalui[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) atau Tim Shopee.
@@ -40,11 +37,11 @@ ID Toko hanya dapat Anda lihat jika mengakses toko melalui *web browser*.
 
   
 
-***Link*** **Toko**
+**Link** **Toko**
 
 Sama seperti ID Toko, *Link* Toko juga hanya dapat Anda lihat jika mengakses toko melalui *web browser*.
 
-## ***Username***
+## **Username**
 
 *Username* merupakan identitas toko dan berfungsi untuk log in ke akun Anda. Meskipun tidak ditampilkan secara mencolok seperti nama toko, Pembeli dapat melihatnya di halaman berikut pada aplikasi Shopee dan situs Shopee:
 
@@ -68,7 +65,7 @@ Anda dapat meng-*update username* dan tautan toko Anda akan menyesuaikan dengan 
 
 **Nama Toko**
 
-**Nama Toko** adalah nama yang ditampilkan secara jelas dan dapat membangun kesan Pembeli terhadap toko Anda, sedangkan ***Username*** adalah nama yang Anda gunakan untuk log in ke akun Anda.
+**Nama Toko** adalah nama yang ditampilkan secara jelas dan dapat membangun kesan Pembeli terhadap toko Anda, sedangkan **Username** adalah nama yang Anda gunakan untuk log in ke akun Anda.
 
   
 

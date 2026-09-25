@@ -18,9 +18,6 @@ sources:
 **Kebijakan Shopee Tentang Klaim Barang Rusak/Hilang**
 
 
-03-08-2026
-
-**Kebijakan Shopee Tentang Klaim Barang Rusak/Hilang**
 
 Anda dapat mengajukan klaim atas produk yang rusak selama pengiriman. Namun, Shopee tidak bertanggung jawab jika:
 

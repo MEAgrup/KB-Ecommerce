@@ -18,9 +18,6 @@ sources:
 **Jenis Layanan Jasa Kirim SiCepat Ekspres**
 
 
-06-08-2026
-
-**Jenis Layanan Jasa Kirim SiCepat Ekspres**
 
 SiCepat Ekspres merupakan[ jasa kirim didukung Shopee](https://seller.shopee.co.id/edu/article/3384) yang menyediakan 3 layanan pengiriman yang dapat disesuaikan dengan kebutuhan operasional Anda, yaitu Reguler, Hemat Kargo, dan Next Day. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
@@ -49,7 +46,7 @@ Berikut *detail* ketentuan menggunakan jasa kirim SiCepat Ekspres:
 Pelajari lebih lanjut terkait[ perhitungan berat volumetrik](https://seller.shopee.co.id/edu/article/9796).
 
 **  
-****Area Jangkauan Penjual SiCepat Ekspres**
+**Area Jangkauan Penjual SiCepat Ekspres**
 
   
 
@@ -85,7 +82,7 @@ Cara hitung rata-rata pesanan harian SiCepat REG, SiCepat Halu, dan SiCepat BEST
 
   
 
-**Ketentuan Layanan** ***Pickup*** **SiCepat REG, SiCepat Halu, dan SiCepat BEST**
+**Ketentuan Layanan** **Pickup** **SiCepat REG, SiCepat Halu, dan SiCepat BEST**
 
 Performa pesanan harian di toko Anda akan dievaluasi setiap bulan. Jika toko Anda belum memiliki layanan *pickup* dan telah memenuhi kriteria yang ditentukan, maka layanan *pickup* akan otomatis tersedia pada akun Anda di **minggu pertama bulan berikutnya**.
 
@@ -159,10 +156,10 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
 
 |  |  |
 | :-: | :-: |
-| \*\*KENDALA\*\* | \*\*SOLUSI\*\* |
-|   \*\*Tidak bisa memproses\*\* \*\*\*pickup\*\*\*  | Pastikan alamat toko sudah benar dan tidak menggunakan tanda baca (-) agar nomor resi dapat ditampilkan. Kurir SiCepat Ekspres akan datang untuk \*pickup\* pesanan jika alamat toko sudah benar.  |
-| \*\*Apakah ada asuransi untuk jasa kirim SiCepat Ekspres?\*\*  | Tidak ada. SiCepat Ekspres tidak menyediakan asuransi.  |
-|   \*\*Apakah jasa kirim SiCepat Ekspres mendukung pengiriman produk berbahaya?\*\*  | Tidak. SiCepat Ekspres tidak menerima pengiriman produk berbahaya seperti barang yang mudah terbakar/meledak, pistol, senjata tajam, dan produk berbahaya lainnya. Pelajari lebih lanjut tentang\[ Pengiriman Produk Berbahaya (Cairan, Baterai, Magnet, dll)\](https://seller.shopee.co.id/edu/article/5442).  |
+| **KENDALA** | **SOLUSI** |
+|   **Tidak bisa memproses** **\*pickup**\*  | Pastikan alamat toko sudah benar dan tidak menggunakan tanda baca (-) agar nomor resi dapat ditampilkan. Kurir SiCepat Ekspres akan datang untuk \*pickup\* pesanan jika alamat toko sudah benar.  |
+| **Apakah ada asuransi untuk jasa kirim SiCepat Ekspres?**  | Tidak ada. SiCepat Ekspres tidak menyediakan asuransi.  |
+|   **Apakah jasa kirim SiCepat Ekspres mendukung pengiriman produk berbahaya?**  | Tidak. SiCepat Ekspres tidak menerima pengiriman produk berbahaya seperti barang yang mudah terbakar/meledak, pistol, senjata tajam, dan produk berbahaya lainnya. Pelajari lebih lanjut tentang\[ Pengiriman Produk Berbahaya (Cairan, Baterai, Magnet, dll)\](https://seller.shopee.co.id/edu/article/5442).  |
 
   
 

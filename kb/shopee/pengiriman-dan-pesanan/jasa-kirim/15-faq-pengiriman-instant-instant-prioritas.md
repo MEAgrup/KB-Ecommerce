@@ -18,9 +18,6 @@ sources:
 **1. Bagaimana saya dapat mengaktifkan dan menonaktifkan semua pengiriman Instant?**
 
 
-27-07-2026
-
-**1. Bagaimana saya dapat mengaktifkan dan menonaktifkan semua pengiriman Instant?**
 
 Anda dapat[ mengaktifkan layanan pengiriman Instant dan Instant Prioritas](https://seller.shopee.co.id/edu/article/25972) pada pengaturan toko di aplikasi Shopee dan Seller Centre.
 
@@ -50,7 +47,7 @@ Segera laporkan melalui[ formulir Kendala Pengiriman Instant](https://help.shope
 
   
 
-**4. Bagaimana jika terdapat biaya parkir saat kurir melakukan** ***pickup*** **paket ke alamat Penjual?**
+**4. Bagaimana jika terdapat biaya parkir saat kurir melakukan** **pickup** **paket ke alamat Penjual?**
 
 Penjual wajib membayar biaya parkir selama proses *pickup* paket dan pengembalian paket ke Penjual apabila paket tidak diterima Pembeli. Penggantian biaya parkir kepada kurir dapat dilakukan secara langsung oleh Penjual dengan metode pembayaran yang telah disepakati kedua belah pihak.
 
@@ -120,9 +117,9 @@ Penjual harus menyiapkan dokumen pendukung berikut untuk mengajukan proses klaim
 
 |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*JASA KIRIM\*\* | \*\*ASURANSI\*\* | \*\*TANPA ASURANSI\*\* | \*\*MAKS. KLAIM\*\* | \*\*BIAYA ASURANSI\*\* | \*\*CARA KLAIM\*\* |
-| \*\*GoSend\*\*(semua layanan pengiriman Instant) |       Senilai harga barang maks. Rp10.000.000  |       Sudah otomatis terhitung dengan asuransi  | 7 hari kalender setelah paket berstatus terkirim  |       Gratis (dengan kelengkapan dokumen pendukung)  |       Ajukan klaim dengan\[ mengisi formulir\](https://help.shopee.co.id/portal/webform/5025a235cbca45548cfccdffcf4e6ff1)  |
-| \*\*GrabExpress\*\*(semua layanan pengiriman instant) | 3 hari kalender setelah paket diambil oleh kurir  |  |  |  |  |
-| \*\*SPX Express\*\*(semua layanan pengiriman Instant) | 7 hari kalender setelah paket diambil oleh kurir  |  |  |  |  |
+| **JASA KIRIM** | **ASURANSI** | **TANPA ASURANSI** | **MAKS. KLAIM** | **BIAYA ASURANSI** | **CARA KLAIM** |
+| **GoSend**(semua layanan pengiriman Instant) |       Senilai harga barang maks. Rp10.000.000  |       Sudah otomatis terhitung dengan asuransi  | 7 hari kalender setelah paket berstatus terkirim  |       Gratis (dengan kelengkapan dokumen pendukung)  |       Ajukan klaim dengan\[ mengisi formulir\](https://help.shopee.co.id/portal/webform/5025a235cbca45548cfccdffcf4e6ff1)  |
+| **GrabExpress**(semua layanan pengiriman instant) | 3 hari kalender setelah paket diambil oleh kurir  |  |  |  |  |
+| **SPX Express**(semua layanan pengiriman Instant) | 7 hari kalender setelah paket diambil oleh kurir  |  |  |  |  |
 
 ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Pelajari lebih lanjut terkait[ cara mudah klaim barang hilang/rusak](https://shopee.co.id/m/klaim-barang-hilang-rusak) selama pengiriman.

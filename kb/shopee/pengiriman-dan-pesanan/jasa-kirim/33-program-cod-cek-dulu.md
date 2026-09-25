@@ -18,9 +18,6 @@ sources:
 **Apa itu Program COD Cek Dulu?**
 
 
-05-08-2026
-
-**Apa itu Program COD Cek Dulu?**
 
 COD Cek Dulu adalah program yang memungkinkan Pembeli membuka paket terlebih dahulu sebelum membayar pesanan. Jika isi paket tidak sesuai dengan deskripsi/foto produk, Pembeli dapat langsung mengembalikannya di tempat. Fitur ini dirancang untuk meningkatkan kepercayaan Pembeli sekaligus memperluas jangkauan Penjual ke pelanggan baru.
 
@@ -30,19 +27,19 @@ COD Cek Dulu adalah program yang memungkinkan Pembeli membuka paket terlebih dah
 
 Dengan mengikuti Program COD Cek Dulu, Penjual dapat memperoleh berbagai keuntungan, seperti:
 
-  - **\*\*Menjangkau lebih banyak Pembeli\*\***
+  - **Menjangkau lebih banyak Pembeli**
 
 Program ini membantu meningkatkan penjualan dengan menarik Pembeli baru yang lebih nyaman menggunakan metode COD Cek Dulu.
 
   
 
-  - **\*\*Tidak memengaruhi Tingkat Pesanan Tidak Terselesaikan\*\***
+  - **Tidak memengaruhi Tingkat Pesanan Tidak Terselesaikan**
 
 Pembatalan dari pesanan COD Cek Dulu tidak dihitung dalam metrik ini.
 
   
 
-  - **\*\*Perlindungan terhadap Pembeli bermasalah\*\***
+  - **Perlindungan terhadap Pembeli bermasalah**
 
 1\. Pembeli yang berulang kali bermasalah (tidak bisa dihubungi, tidak membayar, atau menolak paket) **akan diblokir otomatis 60 hari dari metode pembayaran ini**.
 

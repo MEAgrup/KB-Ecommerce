@@ -18,9 +18,6 @@ sources:
 Anda dapat menemukan kebijakan, peraturan, dan pemberitahuan yang berlaku untuk berjualan di Shopee, serta informasi penting lainnya melalui[ Kebijakan Shopee](https://help.shopee.co.id/portal/category/18-Informasi-Umum/418-Kebijakan?page=1) dan[ Pusat Edukasi Penjual](https://seller.shopee.co.id/edu/home). Kebijakan tersebut meliputi:
 
 
-21-11-2022
-
-Anda dapat menemukan kebijakan, peraturan, dan pemberitahuan yang berlaku untuk berjualan di Shopee, serta informasi penting lainnya melalui[ Kebijakan Shopee](https://help.shopee.co.id/portal/category/18-Informasi-Umum/418-Kebijakan?page=1) dan[ Pusat Edukasi Penjual](https://seller.shopee.co.id/edu/home). Kebijakan tersebut meliputi:
 
   - **Kebijakan Umum**, seperti:
       

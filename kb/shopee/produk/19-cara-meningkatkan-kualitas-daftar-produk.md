@@ -18,9 +18,6 @@ sources:
 **Memilih Kategori yang Tepat**
 
 
-20-04-2026
-
-**Memilih Kategori yang Tepat**
 
 Meng-*upload* produk dengan kategori yang tepat dapat memudahkan Pembeli untuk menemukan produk Anda ketika sedang mencari di kategori tersebut. Apabila produk dimasukkan ke dalam kategori/sub kategori yang tidak sesuai, maka produk akan diturunkan. Anda dapat melihat produk yang diturunkan karena menggunakan kategori yang salah di *tab* **Diturunkan** pada halaman[ **Produk Saya**](https://seller.shopee.co.id/portal/product/list/violation/deboosted).
 
@@ -94,7 +91,7 @@ Produk fashion, seperti pakaian dan aksesoris, akan terlihat lebih menarik di ma
 
   
 
-**4. Tambahkan** ***watermark***
+**4. Tambahkan** **watermark**
 
 Tambahkan *watermark* untuk menandai bahwa foto produk tersebut adalah milik Anda. Anda dapat menempatkan *watermark* di tengah produk untuk memastikan bahwa foto produk Anda tidak dicuri oleh orang lain. Penempatan *watermark* di pojok foto memudahkan orang lain untuk menghapusnya. Pastikan juga tingkat transparasi *watermark* tidak akan mengganggu foto produk Anda. Selain untuk alasan keamanan, toko yang memiliki foto produk dengan watermark akan terlihat lebih profesional.
 
@@ -173,7 +170,7 @@ Penjual terpilih dapat meng-*upload* gambar sebagai bagian dari deskripsi produk
 
 Saat meng-*upload* gambar ke deskripsi produk, pertimbangkan tips berikut untuk meningkatkan kualitas daftar produk Anda:
 
-1.  **\*\*Sesuaikan deskripsi produk dengan gambar\*\***
+1.  **Sesuaikan deskripsi produk dengan gambar**
 
 Penting untuk menyajikan gambar yang sesuai dengan deskripsi produk Anda, sehingga Pembeli memiliki pandangan yang lebih komprehensif tentang nilai jual produk Anda.
 

@@ -18,9 +18,6 @@ sources:
 Artikel ini mencakup pertanyaan umum seputar,
 
 
-21-05-2026
-
-Artikel ini mencakup pertanyaan umum seputar,
 
   - Shopee Live
   - Ketentuan dan Jenis Pelanggaran Konten Livestream
@@ -45,7 +42,7 @@ Anda dapat melakukan sesi Livestream melalui komputer/laptop dengan menggunakan 
 
   
 
-**2.** **Bagaimana cara memberikan akses Livestream Shopee kepada anggota tim atau KOL (*****Key Opinion Leader*****)?**
+**2.** **Bagaimana cara memberikan akses Livestream Shopee kepada anggota tim atau KOL (**Key Opinion Leader**)?**
 
 Anda dapat memberikan peran khusus sebagai KOL Livestreamer pada Sub Akun melalui aplikasi Shopee termasuk bagi Anda yang bekerja sama dengan[ Shopee Shop Partner](https://seller.shopee.co.id/edu/article/19496) untuk melakukan Livestream atas nama toko Anda dengan cara berikut:
 
@@ -81,7 +78,7 @@ Ketika Anda sedang tidak Livestream, maka Shopee akan otomatis menampilkan Lives
 
   
 
-**7. Mengapa konten Livestream dan tampilan produk saya terlihat** ***blur*** **untuk sebagian Penonton?**
+**7. Mengapa konten Livestream dan tampilan produk saya terlihat** **blur** **untuk sebagian Penonton?**
 
 Sesuai dengan peraturan pemerintah yang berlaku terkait penjualan produk dewasa, Shopee menerapkan sistem perlindungan konten secara otomatis pada Livestream yang memuat kategori produk dewasa (21+).
 
@@ -100,7 +97,7 @@ Berikut adalah produk yang termasuk dalam kategori produk dewasa (21+):
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*SUB-KATEGORI\*\* | \*\*KATEGORI TINGKAT 3\*\* |
+| **KATEGORI** | **SUB-KATEGORI** | **KATEGORI TINGKAT 3** |
 | Makanan & Minuman | Minuman Alkohol | Bir & Cider |
 | Makanan & Minuman | Minuman Alkohol | Wine & Champagne |
 | Makanan & Minuman | Minuman Alkohol | Liquor & Spirits |
@@ -211,7 +208,7 @@ Shopee juga tidak memperbolehkan adanya konten tentang ketelanjangan dan aktivit
 
 Kegiatan yang dilarang dan berkaitan dengan keamanan anak di bawah umur namun tidak terbatas pada:
 
-  - ***Host*** **di bawah umur**: *Host* berusia di bawah 17 tahun.
+  - **Host** **di bawah umur**: *Host* berusia di bawah 17 tahun.
   - **Ketelanjangan dan aktivitas seksual untuk anak di bawah umur**: Memperlihatkan kegiatan seksual yang dilakukan oleh anak di bawah umur atau terdapat unsur ketelanjangan.
   - **Tindakan tidak pantas untuk anak di bawah umur**: Tindakan yang termasuk tidak pantas oleh anak di bawah umur termasuk diantaranya konsumsi rokok atau alkohol, memperlihatkan gerakan-gerakan sensual yang dianggap terlalu vulgar, atau tindakan *bullying* terhadap anak di bawah umur.
   - **Bagian sensitif terlihat sepenuhnya atau sebagia**n: Terlihatnya bagian sensitif anak seperti payudara, alat kelamin, anus, atau bokong.
@@ -313,7 +310,7 @@ Shopee mengakui pentingnya data pribadi yang telah Anda percayakan kepada Shopee
 Berikut hal yang termasuk pelanggaran privasi adalah:
 
   - **Penyebaran informasi milik orang lain**: Menyebarkan data pribadi orang lain dengan atau tanpa konsen seperti dokumen KTP (kartu tanda penduduk), NPWP, atau data lainnya yang dianggap sensitif.
-  - **Keamanan** ***platform***: Kebijakan kami melarang kegiatan yang mengganggu keamanan dan keandalan layanan Shopee, seperti memperlihatkan tata cara peretasan akun, menggunakan skrip otomatis untuk keuntungan pribadi, dan lain-lain.
+  - **Keamanan** **platform**: Kebijakan kami melarang kegiatan yang mengganggu keamanan dan keandalan layanan Shopee, seperti memperlihatkan tata cara peretasan akun, menggunakan skrip otomatis untuk keuntungan pribadi, dan lain-lain.
 
   
 
@@ -328,13 +325,13 @@ Berikut hal yang termasuk konten berkualitas rendah adalah:
   - **Livestream tidak stabil**: Sesi Livestream terdeteksi tidak stabil yang mengakibatkan audio/suara tidak terdengar dan visual/gambar tidak terlihat oleh Penonton.
   - **Kualitas Livestream yang kurang baik**: Visual/gambar video tidak baik, tidak ada gambar di layar, Livestream terputus atau *error*.
   - **Kualitas suara yang kurang baik**: Kualitas audio tidak baik/jernih.
-  - **Terindikasi menggunakan** ***clickbait***: Menggunakan judul atau *cover* sebagai *clickbait* yang tidak sesuai antara konten dengan *cover* untuk menarik minat Penonton (contoh: menggunakan *covercampaign* tanggal ganda walaupun sudah melewati tanggal tersebut) dan menggunakan *cover* yang dianggap kontroversial atau provokatif untuk menarik Penonton yang tidak berkaitan dengan konten.
+  - **Terindikasi menggunakan** **clickbait**: Menggunakan judul atau *cover* sebagai *clickbait* yang tidak sesuai antara konten dengan *cover* untuk menarik minat Penonton (contoh: menggunakan *covercampaign* tanggal ganda walaupun sudah melewati tanggal tersebut) dan menggunakan *cover* yang dianggap kontroversial atau provokatif untuk menarik Penonton yang tidak berkaitan dengan konten.
   - **Tidak ada interaksi saat Livestream**: *Host* tidak melakukan interaksi atau diam saat Livestream berlangsung baik ada atau tidak ada Penonton. 
-  - ***Streaming*** **menggunakan rekaman suara**: *Host* melakukan manipulasi dengan tidak menggunakan suara asli/menggunakan rekaman suara saat Livestream. 
-  - ***Host*** **tidak muncul saat Livestream**: *Host* tidak memperlihatkan wajah atau bagian badan sama sekali di layar Livestream, *host* tidak muncul di layar Livestream dengan alasan sedang istirahat, *host* hanya menggunakan suara untuk mempromosikan produk tanpa memperlihatkan identitas (wajah atau bagian badan), dan *host* keluar dari fitur Shopee Live atau aplikasi Shopee tanpa menghentikan sementara atau menghentikan sesi Livestream saat sesi sedang berlangsung. 
-  - ***Host*** **Tidak Menampilkan atau Memperkenalkan Produk**:
-  - ***Host*** **tidak menampilkan produk**: *Host* tidak menampilkan produk pada saat Livestream.
-  - ***Host*** **tidak memperkenalkan produk**: *Host* tidak berinteraksi dengan Penonton, tidak memperkenalkan produk yang dijual saat Livestream, atau menjanjikan hal palsu untuk mendapatkan kepercayaan Penonton, (contoh: menjanjikan pemberian uang melalui transfer selama Livestream).
+  - **Streaming** **menggunakan rekaman suara**: *Host* melakukan manipulasi dengan tidak menggunakan suara asli/menggunakan rekaman suara saat Livestream. 
+  - **Host** **tidak muncul saat Livestream**: *Host* tidak memperlihatkan wajah atau bagian badan sama sekali di layar Livestream, *host* tidak muncul di layar Livestream dengan alasan sedang istirahat, *host* hanya menggunakan suara untuk mempromosikan produk tanpa memperlihatkan identitas (wajah atau bagian badan), dan *host* keluar dari fitur Shopee Live atau aplikasi Shopee tanpa menghentikan sementara atau menghentikan sesi Livestream saat sesi sedang berlangsung. 
+  - **Host** **Tidak Menampilkan atau Memperkenalkan Produk**:
+  - **Host** **tidak menampilkan produk**: *Host* tidak menampilkan produk pada saat Livestream.
+  - **Host** **tidak memperkenalkan produk**: *Host* tidak berinteraksi dengan Penonton, tidak memperkenalkan produk yang dijual saat Livestream, atau menjanjikan hal palsu untuk mendapatkan kepercayaan Penonton, (contoh: menjanjikan pemberian uang melalui transfer selama Livestream).
   - **Mengarahkan transaksi diluar Shopee**: Mengarahkan transaksi di luar Shopee secara verbal, komentar maupun judul, menampilkan media sosial selain Shopee secara rinci dengan tujuan mengarahkan transaksi atau interaksi.
   - **Kualitas konten yang kurang baik**: Menggunakan rekaman profesional yang digunakan untuk sesiLivestream (contoh: *bumper* pada sesi iklan di televisi, cuplikan film, dll.)
   - **Merokok atau konsumsi alkohol**: Terdapat indikasi kegiatan merokok atau mengkonsumsi alkohol pada sesi Livestream seperti terlihat asap atau botol alkohol.
@@ -376,11 +373,11 @@ Berikut adalah jenis konten yang termasuk jenis konten dengan ketelanjangan dan 
 Pada *platform* Shopee Live, Shopee ingin memastikan bahwa terdapat beberapa ketentuan khusus yang tidak diperbolehkan dilakukan pada sesi Livestream dan pelanggaran terhadap ketentuan khusus Shopee Live akan berakibat pada pembatasan dan pemberhentian Livestream. Beberapa ketentuan khusus lainnya adalah:
 
   - **Melanggar ketentuan khusus Shopee Live**: Menjual produk dewasa baik yang belum ataupun sudah mendapatkan lisensi, menjual benda mistis (Contoh: Parfum penggoda, boneka penyihir, keris, dll.), menjual lencana resmi POLRI dan TNI, manipulasi harga untuk menghindari biaya admin atau manipulasi voucher gratis ongkir.
-  - **Diduga menjual produk bekas/*****preloved***: Terindikasi melakukan penjualan barang bekas/*preloved* sesuai dengan ketentuan pemerintah yang berlaku. 
-  - **Menjual produk impor bekas atau** ***preloved***: Shopee melarang penjualan barang impor bekas sesuai dengan ketentuan pemerintah yang berlaku.
+  - **Diduga menjual produk bekas/**preloved**: Terindikasi melakukan penjualan barang bekas/*preloved* sesuai dengan ketentuan pemerintah yang berlaku. 
+  - **Menjual produk impor bekas atau** **preloved**: Shopee melarang penjualan barang impor bekas sesuai dengan ketentuan pemerintah yang berlaku.
   - **Tidak menggunakan Bahasa Indonesia pada sebagian besar sesi Livestream**: *Streamer* tidak menggunakan Bahasa Indonesia/dialek/bahasa daerah di Indonesia lainnya pada sebagian besar sesi Livestream.
   - **Penyalahgunaan voucher pada produk dengan kategori yang tidak sesuai**: Produk di Keranjang Oren di-*upload* pada kategori produk yang salah (Contoh: Produk kaos wanita di-*upload* di kategori Handphone & Aksesoris yang seharusnya di-*upload* di kategori Pakaian Wanita).
-  - **Jasa titip** ***link*** **atau titip** ***link*** **sendiri**: Melakukan pembelian produk dari keranjang dalam sesi Livestream yang dilakukan *Streamer* sendiri. 
+  - **Jasa titip** **link** **atau titip** **link** **sendiri**: Melakukan pembelian produk dari keranjang dalam sesi Livestream yang dilakukan *Streamer* sendiri. 
   - **Praktik jasa jual beli yang dilarang Shopee**: Dengan sengaja mengajak Penonton untuk melakukan penyalahgunaan voucher apapun di Shopee Live yang dilakukan dengan sadar oleh *Streamer* dan Penonton demi keuntungan pribadi yang menyebabkan adanya kerugian bagi pihak Shopee. Shopee berhak untuk melakukan tindakan apabila Shopee menilai, mempercayai, atau menemukan bukti bahwa Pengguna melakukan pelanggaran ketentuan Livestream di Shopee Live.
 
   
@@ -398,7 +395,7 @@ Terdapat 2 kemungkinan mengapa hal ini terjadi:
 
   
 
-**2. Mengapa data performa Livestream di Shopee Live Dashboard terus ter-*****update*** **setelah sesi berakhir?**
+**2. Mengapa data performa Livestream di Shopee Live Dashboard terus ter-**update** **setelah sesi berakhir?**
 
 Sistem membutuhkan waktu hingga 15 menit untuk memperbarui performa Livestream, sehingga data bisa berubah setelah siaran berakhir.
 
@@ -419,7 +416,7 @@ Hal tersebut karena:
 
   
 
-**5. Mengapa data keseluruhan tidak ter-*****update*** **pada waktu yang sama?**
+**5. Mengapa data keseluruhan tidak ter-**update** **pada waktu yang sama?**
 
 Data datang dari beberapa sumber yang dapat menyebabkan beberapa perbedaan pada waktu *update*.
 
@@ -517,7 +514,7 @@ Ya, Anda dapat menggunakan kedua fitur tersebut sebelum memulai dan selama Lives
 
   
 
-**7. Dapatkah saya menyimpan pengaturan** ***filter*** **pada video sebelumnya untuk Filter Wajah?**
+**7. Dapatkah saya menyimpan pengaturan** **filter** **pada video sebelumnya untuk Filter Wajah?**
 
 Saat ini fitur Shopee Live belum mendukung hal tersebut.
 

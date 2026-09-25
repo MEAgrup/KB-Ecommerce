@@ -18,9 +18,6 @@ sources:
 **Apa itu Big Campaign Shopee?**
 
 
-14-08-2026
-
-**Apa itu Big Campaign Shopee?**
 
 Big Campaign Shopee adalah promosi berskala besar dari Shopee yang menghadirkan berbagai penawaran dan aktivitas promosi, seperti Big Ramadan Sale dan kampanye tanggal kembar seperti 11.11 dan 12.12.
 
@@ -43,9 +40,9 @@ Dengan mengikuti Big Campaign Shopee, Anda dapat memperoleh berbagai keuntungan 
 
 |  |  |
 | :-: | :-: |
-| \*\*KEUNTUNGAN MENGIKUTI BIG CAMPAIGN SHOPEE\*\* |  |
-| \*\*Dampak ke Performa Toko\*\* | • Meningkatkan visibilitas produk di berbagai halaman dan media promosi Shopee.• Menjangkau lebih banyak Pembeli dan memperluas exposure toko.• Memanfaatkan momentum kampanye untuk meningkatkan potensi penjualan |
-| \*\*Dukungan & Fitur Selama Kampanye Berlangsung\*\* | • Akses ke paket kampanye dan nominasi produk sesuai kriteria yang berlaku.• \*Exposure\* tambahan di halaman kampanye Shopee.• Dukungan promosi seperti voucher kampanye atau saldo iklan.• Pemantauan performa toko secara \*real-time\* melalui\[ Dashboard Performa Toko\](https://seller.shopee.co.id/edu/article/14897) yang tersedia. |
+| **KEUNTUNGAN MENGIKUTI BIG CAMPAIGN SHOPEE** |  |
+| **Dampak ke Performa Toko** | • Meningkatkan visibilitas produk di berbagai halaman dan media promosi Shopee.• Menjangkau lebih banyak Pembeli dan memperluas exposure toko.• Memanfaatkan momentum kampanye untuk meningkatkan potensi penjualan |
+| **Dukungan & Fitur Selama Kampanye Berlangsung** | • Akses ke paket kampanye dan nominasi produk sesuai kriteria yang berlaku.• \*Exposure\* tambahan di halaman kampanye Shopee.• Dukungan promosi seperti voucher kampanye atau saldo iklan.• Pemantauan performa toko secara \*real-time\* melalui\[ Dashboard Performa Toko\](https://seller.shopee.co.id/edu/article/14897) yang tersedia. |
 
   
 
@@ -67,7 +64,7 @@ Penjual dapat berpartisipasi dalam Big Campaign Shopee melalui mekanisme yang be
 
 |  |  |
 | :-: | :-: |
-| \*\*PROGRAM BIG CAMPAIGN\*\* | \*\*CARA BERPARTISIPASI\*\* |
+| **PROGRAM BIG CAMPAIGN** | **CARA BERPARTISIPASI** |
 | Promo Produk & Voucher Shopee | Melalui Seller Centre |
 | Paket Kampanye | Diundang oleh Tim Shopee |
 

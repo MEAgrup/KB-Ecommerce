@@ -18,9 +18,6 @@ sources:
 **Layanan Jasa Kirim Sentral Cargo**
 
 
-05-08-2026
-
-**Layanan Jasa Kirim Sentral Cargo**
 
 Sentral Cargo merupakan[ jasa kirim didukung Shopee](https://seller.shopee.co.id/edu/article/3384) yang melayani pengiriman dengan berat min. 3kg hingga paket berukuran besar melalui transportasi darat dan laut. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 

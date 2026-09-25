@@ -18,9 +18,6 @@ sources:
 Sesuai dengan[ Kebijakan Barang yang dilarang dan dibatasi di Shopee](https://help.shopee.co.id/portal/article/71189), terdapat syarat dan ketentuan yang mengatur tentang produk dewasa penunjang kegiatan seksual termasuk namun tidak terbatas pada:
 
 
-02-04-2026
-
-Sesuai dengan[ Kebijakan Barang yang dilarang dan dibatasi di Shopee](https://help.shopee.co.id/portal/article/71189), terdapat syarat dan ketentuan yang mengatur tentang produk dewasa penunjang kegiatan seksual termasuk namun tidak terbatas pada:
 
 1.  Kebijakan Produk Pornografi Anak-anak
 2.  Kebijakan Media Cetak dan Media Elektronik yang Mengandung Unsur Pornografi 
@@ -110,9 +107,9 @@ Shopee memiliki kebijakan terkait produk yang mengandung unsur pornografi dan/at
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*NO\*\* | \*\*TIPE PRODUK\*\* | \*\*DESKRIPSI/GAMBAR PRODUK\*\* | \*\*TINDAKAN\*\* |
-| 1 | Produk DewasaPenunjang KegiatanSeksual | \*\*•\*\* Produk dewasa yangperedarannya dibatasi.\*\*•\*\* Menampilkan gambarberbentuk dan/ataumenyerupai sebagiandan/atau seluruh alatkelamin serta bagian intimlainnya.\*\*•\*\* Menampilkanmodel/ilustrasi pemakaian.\*\*•\*\* Menampilkan posisiseksual dan/atau posevulgar.\*\*•\*\* Mengandung kata-katavulgar dan tidak pantasyang menjabarkan tindakanseksual dan/ataumengarahkan padatindakan ilegal. | Produk dihapusdan/atau diblokirdan pemblokiranperangkathandphone. |
-| 2 | Produk yang tidakdibatasi dan dilarangnamun mengandungunsur pornografidan/atau konten vulgar | \*\*•\*\* Menampilkan gambarberbentuk dan/ataumenyerupai sebagiandan/atau seluruh alatkelamin serta bagian intimlainnya.\*\*•\*\* Menggunakan gambarmodel/ilustrasi dari posisiseksual dan/atau posevulgar.\*\*•\*\* Mengandung kata-katavulgar dan tidak pantasyang menjabarkan tindakanseksual dan/ataumengarahkan padatindakan ilegal.\*\*•\*\* Gambar siluet yangmenunjukkan alat kelaminserta bagian intim lainnyamelalui pakaian. | Produk diturunkanhingga dihapusdan/atau diblokirdan pemblokiranperangkathan |
+| **NO** | **TIPE PRODUK** | **DESKRIPSI/GAMBAR PRODUK** | **TINDAKAN** |
+| 1 | Produk DewasaPenunjang KegiatanSeksual | **•** Produk dewasa yangperedarannya dibatasi.**•** Menampilkan gambarberbentuk dan/ataumenyerupai sebagiandan/atau seluruh alatkelamin serta bagian intimlainnya.**•** Menampilkanmodel/ilustrasi pemakaian.**•** Menampilkan posisiseksual dan/atau posevulgar.**•** Mengandung kata-katavulgar dan tidak pantasyang menjabarkan tindakanseksual dan/ataumengarahkan padatindakan ilegal. | Produk dihapusdan/atau diblokirdan pemblokiranperangkathandphone. |
+| 2 | Produk yang tidakdibatasi dan dilarangnamun mengandungunsur pornografidan/atau konten vulgar | **•** Menampilkan gambarberbentuk dan/ataumenyerupai sebagiandan/atau seluruh alatkelamin serta bagian intimlainnya.**•** Menggunakan gambarmodel/ilustrasi dari posisiseksual dan/atau posevulgar.**•** Mengandung kata-katavulgar dan tidak pantasyang menjabarkan tindakanseksual dan/ataumengarahkan padatindakan ilegal.**•** Gambar siluet yangmenunjukkan alat kelaminserta bagian intim lainnyamelalui pakaian. | Produk diturunkanhingga dihapusdan/atau diblokirdan pemblokiranperangkathan |
 
   
 

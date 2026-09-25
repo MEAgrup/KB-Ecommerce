@@ -18,9 +18,6 @@ sources:
 **Tentang Penyelesaian Pesanan**
 
 
-27-07-2026
-
-**Tentang Penyelesaian Pesanan**
 
 Setelah Pembeli melakukan pesanan, proses penyelesaian biasanya akan dimulai dengan:
 
@@ -37,27 +34,27 @@ Setelah Pembeli melakukan pesanan, proses penyelesaian biasanya akan dimulai den
 
 Kenali Status Pesanan sebelum Anda melakukan proses penyelesaian pesanan:
 
-  - **\*\*Belum Bayar\*\***
+  - **Belum Bayar**
 
-Pesanan yang sudah di ***Checkout*** oleh Pembeli, namun masih menunggu proses pembayaran.
+Pesanan yang sudah di **Checkout** oleh Pembeli, namun masih menunggu proses pembayaran.
 
-  - **\*\*Perlu Dikirim\*\***
+  - **Perlu Dikirim**
 
 Pesanan yang sudah dibayar oleh Pembeli atau pesanan COD (Bayar di Tempat), untuk selanjutnya diproses dan dikirimkan oleh Penjual.
 
-  - **\*\*Dikirim\*\***
+  - **Dikirim**
 
 Pesanan yang sudah diserahkan ke pihak jasa kirim dan sedang dalam proses pengiriman.
 
-  - **\*\*Selesai\*\***
+  - **Selesai**
 
 Pesanan yang sudah diterima dan dikonfirmasi oleh Pembeli.
 
-  - **\*\*Pengembalian/Pembatalan\*\***
+  - **Pengembalian/Pembatalan**
 
 Pesanan yang terdapat pengajuan pengembalian/pembatalan dari Pembeli/Penjual/Shopee dengan alasan tertentu. Pelajari lebih lanjut terkait[ Pembatalan & Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/courseDetail/55).
 
-  - **\*\*Pengiriman Gagal\*\***
+  - **Pengiriman Gagal**
 
 Pihak jasa kirim tidak berhasil mengirimkan paket kepada Pembeli. Hal ini terjadi karena berbagai alasan, seperti Pembeli menolak untuk menerima paket pesanan COD (Bayar di Tempat), alamat salah, atau kendala pengiriman lainnya, sehingga paket dikembalikan ke Penjual. Pelajari lebih lanjut terkait[ Mengelola Pengiriman yang Gagal](https://seller.shopee.co.id/edu/courseDetail/54?lessonId=2309).
 
@@ -79,7 +76,7 @@ Untuk mengatur pengiriman pesanan, Anda perlu memahami 2 opsi pengiriman dari ja
 
   
 
-**Antar ke Counter** **(*****Drop off*****)**
+**Antar ke Counter** **(**Drop off**)**
 
 Ketika mengatur pengiriman, Anda dapat mengantarkan paket ke counter jasa kirim. Jasa kirim akan menerima dan mengantarkan paket kepada pihak Pembeli.
 
@@ -87,7 +84,7 @@ Ketika mengatur pengiriman, Anda dapat mengantarkan paket ke counter jasa kirim.
 
   
 
-***Pick up***
+**Pick up**
 
   
 
@@ -143,7 +140,7 @@ Angka yang tampil di *tab* **Perlu Dikirim** adalah total pesanan yang perlu dip
 
   
 
-Untuk mengatur pengiriman pesanan Anda dengan **antar ke counter** atau ***pick up***, pilih **Atur Pengiriman** di bawah kolom **Aksi**.
+Untuk mengatur pengiriman pesanan Anda dengan **antar ke counter** atau **pick up**, pilih **Atur Pengiriman** di bawah kolom **Aksi**.
 
 ⚠️ **Catatan**
 

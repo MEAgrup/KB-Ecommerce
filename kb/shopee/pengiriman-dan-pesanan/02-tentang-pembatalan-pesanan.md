@@ -18,9 +18,6 @@ sources:
 **Pembatalan Pesanan di Shopee**
 
 
-27-07-2026
-
-**Pembatalan Pesanan di Shopee**
 
 Pembatalan pesanan adalah proses di mana pesanan yang dibuat oleh Pembeli dibatalkan sebelum selesai diproses.
 
@@ -78,19 +75,19 @@ Berikut proses dari masing-masing jenis pembatalan pesanan di Shopee:
 
   
 
-  - **\*\*Kasus 1 (Kurang 1 jam - Layanan pengiriman Instant\*\***
+  - **Kasus 1 (Kurang 1 jam - Layanan pengiriman Instant**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Instant, lalu Pembeli mengajukan pembatalan pk. 10:45 WIB -\> Pesanan dibatalkan otomatis oleh sistem.
 
   
 
-  - **\*\*Kasus 2 (Lewat 1 jam - Layanan pengiriman Same Day)\*\***
+  - **Kasus 2 (Lewat 1 jam - Layanan pengiriman Same Day)**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Sameday, lalu Pembeli mengajukan pembatalan pk. 11.30 WIB -\> Pembatalan memerlukan respons Penjual.
 
   
 
-  - **\*\*Kasus 3 (Kapan saja/tanpa batas waktu - Produk Pre-Order)\*\***
+  - **Kasus 3 (Kapan saja/tanpa batas waktu - Produk Pre-Order)**
 
 Pesanan Pre-order masuk pk. 10.00 WIB, lalu Pembeli mengajukan pembatalan keesokan harinya -\> Pesanan dibatalkan otomatis oleh sistem.
 
@@ -111,13 +108,13 @@ Pesanan Pre-order masuk pk. 10.00 WIB, lalu Pembeli mengajukan pembatalan keesok
 
 **A. Penjual belum mengatur pengiriman**
 
-  - **\*\*Kasus 1 (Lewat 1 jam – Layanan pengiriman Same Day)\*\***
+  - **Kasus 1 (Lewat 1 jam – Layanan pengiriman Same Day)**
 
 Pesanan masuk pk. 10.00 WIB, lalu Pembeli mengajukan pembatalan pk. 11.30 WIB -\> Pembatalan memerlukan respons Penjual.
 
   
 
-  - **\*\*Kasus 2 (Lewat 1 jam – Produk Pre-order)\*\***
+  - **Kasus 2 (Lewat 1 jam – Produk Pre-order)**
 
 Pesanan masuk pk. 10.00 WIB untuk produk Pre-order, lalu Pembeli mengajukan pembatalan pk. 13.00 WIB -\> Pembatalan memerlukan respons Penjual.
 
@@ -125,7 +122,7 @@ Pesanan masuk pk. 10.00 WIB untuk produk Pre-order, lalu Pembeli mengajukan pemb
 
 **B. Penjual sudah mengatur pengiriman**
 
-  - **\*\*Kasus 3 (Belum diserahkan ke jasa kirim)\*\***
+  - **Kasus 3 (Belum diserahkan ke jasa kirim)**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Standard, lalu Pembeli mengajukan pembatalan setelah Penjual sudah mengatur pengiriman -\> Pembatalan memerlukan respons Penjual dalam 1x24 jam. Jika tidak ada respons, pesanan akan dibatalkan otomatis dalam 1x24 jam berikutnya.
 
@@ -155,7 +152,7 @@ Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Standard, lalu Pembeli mengaju
 
 **A. Penjual belum mengatur pengiriman**
 
-  - **\*\*Kasus 1 (Batas waktu pengiriman 2 hari)\*\***
+  - **Kasus 1 (Batas waktu pengiriman 2 hari)**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Standard. Penjual belum mengatur pengiriman hingga melewati batas waktu pengiriman (2 hari) -\> Pesanan dibatalkan otomatis oleh sistem.
 
@@ -163,7 +160,7 @@ Pesanan masuk pk. 10.00 WIB dengan jasa kirim SPX Standard. Penjual belum mengat
 
 **B. Penjual sudah mengatur pengiriman**
 
-  - **\*\*Kasus 2 (Batas waktu pengiriman 1 hari)\*\***
+  - **Kasus 2 (Batas waktu pengiriman 1 hari)**
 
 Pesanan masuk pk. 10.00 WIB dengan jasa kirim GoSend Same Day. Penjual sudah mengatur pengiriman, namun hingga 1 hari paket belum diserahkan ke pihak jasa kirim -\> Pesanan dibatalkan otomatis oleh sistem.
 

@@ -18,9 +18,6 @@ sources:
 **1. Bagaimana batas waktu pengiriman saya dihitung?**
 
 
-13-03-2026
-
-**1. Bagaimana batas waktu pengiriman saya dihitung?**
 
 [Batas waktu pengiriman](https://seller.shopee.co.id/edu/courseDetail/284?lessonId=133) Anda dihitung berdasarkan masa pengemasan (Dikirim dalam) yang sudah Anda atur pada setiap produk. Informasi masa pengemasan "Dikirim dalam" mengacu pada jumlah hari untuk Anda harus mengirimkan pesanan, di mana hari Minggu, libur nasional, dan non-operasional jasa kirim tidak termasuk dalam periode masa pengemasan, kecuali untuk semua pengiriman Instant.
 

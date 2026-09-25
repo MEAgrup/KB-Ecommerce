@@ -18,13 +18,8 @@ sources:
 **Eligibilitas**
 
 
-15-07-2024
 
-**Eligibilitas**
-
-  
-
-**1. Dapatkah saya bergabung dengan Shopee-Certified Enablers Program jika saya hanya mengelola performa** ***Engagement*** **dari mitra Penjual dan bukan performa operasional?**
+**1. Dapatkah saya bergabung dengan Shopee-Certified Enablers Program jika saya hanya mengelola performa** **Engagement** **dari mitra Penjual dan bukan performa operasional?**
 
 Ya, Enabler berhak untuk bergabung dengan Shopee-Certified Enablers Program selama Anda mengelola min. 3 Penjual. Mohon diperhatikan bahwa seluruh Enabler juga harus memiliki situs, halaman Facebook, atau halaman LinkedIn resmi perusahaan yang menjabarkan secara jelas tentang layanan yang Anda berikan.
 
@@ -63,7 +58,7 @@ Anda harus mengelola setidaknya 10 Penjual di suatu negara pada setiap kategori 
 
   
 
-**2. Apa yang terjadi jika saya hanya mengelola performa Operasional atau** ***Engagement*** **Penjual?**
+**2. Apa yang terjadi jika saya hanya mengelola performa Operasional atau** **Engagement** **Penjual?**
 
 Anda hanya akan memenuhi syarat untuk tingkat Certified (Operasional saja) atau Certified (*Engagement* saja). Silakan mengacu pada no. 11 untuk informasi lebih lengkap.
 
@@ -93,7 +88,7 @@ Mulai Q2 2024, metrik ini akan dihapus dari kriteria evaluasi.
 
   
 
-**7. Jika saya hanya memenuhi salah satu syarat nilai tingkatan Certified untuk metrik Operasional atau** ***Engagement*** **saja, apakah saya akan mendapatkan Badge Enabler?**
+**7. Jika saya hanya memenuhi salah satu syarat nilai tingkatan Certified untuk metrik Operasional atau** **Engagement** **saja, apakah saya akan mendapatkan Badge Enabler?**
 
 Pada tingkatan **Certified**, Enabler bisa mendapatkan sertifikasi parsial jika hanya memenuhi nilai yang disyaratkan untuk metrik Operasional atau *Engagement*, yaitu sebagai berikut:
 
@@ -116,7 +111,7 @@ Pada tingkatan **Certified**, Enabler bisa mendapatkan sertifikasi parsial jika 
 
 <!-- end list -->
 
-1.  **Certified (*****Engagement*** **saja)**
+1.  **Certified (**Engagement** **saja)**
 2.  Memenuhi kedua persyaratan untuk metrik *Engagement*, diantaranya:
 
 <!-- end list -->

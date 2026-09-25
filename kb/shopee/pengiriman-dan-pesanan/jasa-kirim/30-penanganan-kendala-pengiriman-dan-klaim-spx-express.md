@@ -18,9 +18,6 @@ sources:
 **Proses Pengembalian Barang ke Penjual Jika Pengiriman SPX Express Gagal**
 
 
-27-07-2026
-
-**Proses Pengembalian Barang ke Penjual Jika Pengiriman SPX Express Gagal**
 
 Dalam perjalanan menuju Pembeli, proses pengiriman dapat mengalami kegagalan pengiriman. Gagalnya pengiriman dapat disebabkan karena beberapa alasan. Pelajari lebih lanjut terkait[ Menangani Pengiriman yang Gagal](https://seller.shopee.co.id/edu/article/14715).
 
@@ -117,13 +114,13 @@ Untuk menghindari perbedaan nominal ongkos kirim, pastika Anda mengisi volumetri
 
 Apabila terdapat pertanyaan atau kendala dalam pengiriman menggunakan jasa kirim SPX Express, Anda dapat menghubungi Tim SPX Express Support dibawah ini:
 
-***Live Chat*** **- Melalui aplikasi Shopee**
+**Live Chat** **- Melalui aplikasi Shopee**
 
 Silakan ikuti langkah-langkah ini untuk *chat* dengan Tim SPX Express Support di aplikasi Shopee agar mendapat respons lebih cepat.
 
   
 
-***Live Chat*** **- Melalui Seller Centre dan Pusat Edukasi Penjual**
+**Live Chat** **- Melalui Seller Centre dan Pusat Edukasi Penjual**
 
 Silakan ikuti langkah-langkah ini untuk *chat* dengan Tim SPX Express Support:
 

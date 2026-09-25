@@ -18,9 +18,6 @@ sources:
 **Pentingnya Mengoptimalkan Daftar Produk**
 
 
-13-08-2026
-
-**Pentingnya Mengoptimalkan Daftar Produk**
 
 Banyaknya rincian yang perlu diisi saat mendaftarkan suatu produk seringkali menjadi alasan mengapa produk tersebut tidak memiliki informasi produk yang lengkap. Oleh karena itu, Shopee telah mengembangkan sistem yang akan membantu Anda mengidentifikasi masalah umum pada daftar produk dan memberikan panduan langkah sederhana untuk memperbaikinya agar daftar produk lebih optimal untuk menarik penjualan.
 
@@ -53,14 +50,14 @@ Berikut rincian dari masing-masing kendala tersebut berdasarkan jenisnya:
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KENDALA INFORMASI PRODUK\*\* | \*\*APA YANG TERJADI?\*\* | \*\*SOLUSI\*\* |
-|        \*\*Nilai/Kategori Salah\*\*   | Produk berada dalam kategori yang salah  | Pilih\[ kategori produk yang tepat\](https://seller.shopee.co.id/edu/article/349) untuk membantu produk Anda muncul di halaman pencarian yang relevan.  |
+| **KENDALA INFORMASI PRODUK** | **APA YANG TERJADI?** | **SOLUSI** |
+|        **Nilai/Kategori Salah**   | Produk berada dalam kategori yang salah  | Pilih\[ kategori produk yang tepat\](https://seller.shopee.co.id/edu/article/349) untuk membantu produk Anda muncul di halaman pencarian yang relevan.  |
 | Berat produk tidak akurat  | Masukkan\[ berat produk secara akurat\](https://seller.shopee.co.id/edu/article/21581) agar biaya ongkos kirim yang dikenakan sesuai. Pelajari selengkapnya terkait\[ penagihan biaya ongkos kirim yang lebih besar ketika berat/dimensi paket aktual tidak sesuai dengan estimasi\](https://seller.shopee.co.id/edu/article/3534). |  |
-|   \*\*Foto\*\*  |   Foto produk terlalu sedikit  | \*Upload\* minimal 3 foto untuk setiap produk. Pelajari selengkapnya tentang\[ panduan \*upload\* foto produk yang baik\](https://seller.shopee.co.id/edu/article/16726). |
-|                \*\*Informasi kurang lengkap\*\*  | Tidak ada tabel ukuran yang tersedia (khusus produk kategori Fashion) atau tidak adanya merek  | \[Tambahkan tabel ukuran ke produk\](https://seller.shopee.co.id/edu/article/13166) serta\[ masukkan merek produk Anda\](https://seller.shopee.co.id/edu/courseDetail/282?lessonId=2614).  |
+|   **Foto**  |   Foto produk terlalu sedikit  | \*Upload\* minimal 3 foto untuk setiap produk. Pelajari selengkapnya tentang\[ panduan \*upload\* foto produk yang baik\](https://seller.shopee.co.id/edu/article/16726). |
+|                **Informasi kurang lengkap**  | Tidak ada tabel ukuran yang tersedia (khusus produk kategori Fashion) atau tidak adanya merek  | \[Tambahkan tabel ukuran ke produk\](https://seller.shopee.co.id/edu/article/13166) serta\[ masukkan merek produk Anda\](https://seller.shopee.co.id/edu/courseDetail/282?lessonId=2614).  |
 | Tidak ada video produk  | Tambahkan video tentang produk untuk meningkatkan kepercayaan Pembeli akan produk Anda. Pelajari lebih lanjut tentang\[ cara membuat video produk yang menarik\](https://seller.shopee.co.id/edu/courseDetail/812?lessonId=2841). |  |
 | Atribut produk terlalu sedikit  | Tambahkan minimal 3 atribut agar Pembeli bisa melihat deskripsi yang lebih lengkap dari produk Anda. Gunakan\[ fitur Edit Atribut\](https://seller.shopee.co.id/edu/courseDetail/63?lessonId=101) untuk mengedit deskripsi beberapa produk sekaligus. |  |
-|           \*\*Lainnya\*\*  | Nama produk terlalu pendek/terlalu panjang  | Pastikan nama produk Anda berkisar antara 25-100 karakter. Pelajari selengkapnya terkait\[ cara membuat nama produk yang baik\](https://seller.shopee.co.id/edu/article/1906). |
+|           **Lainnya**  | Nama produk terlalu pendek/terlalu panjang  | Pastikan nama produk Anda berkisar antara 25-100 karakter. Pelajari selengkapnya terkait\[ cara membuat nama produk yang baik\](https://seller.shopee.co.id/edu/article/1906). |
 | Deskripsi produk terlalu pendek  | Pastikan deskripsi produk memiliki minimal 100 karakter. Pelajari lebih lanjut terkait\[ cara penulisan deskripsi produk yang informatif\](https://seller.shopee.co.id/edu/article/1911). |  |
 | \\\[Hanya untuk produk kategori Fashion\\\] Tidak menggunakan nama variasi standar  | Buat nama variasi produk berdasarkan standar Shopee yang bisa dipilih dari menu \*dropdown\*. Pelajari selengkapnya terkait\[ pengaturan variasi produk\](https://seller.shopee.co.id/edu/article/16445). |  |
 
@@ -113,11 +110,11 @@ Dengan meng-*upload* informasi penting produk, seperti tabel panduan ukuran, atr
 
 Anda dapat mengakses fitur Optimasi AI melalui 2 cara, yaitu pada menu **Optimasi AI** atau menu **Produk Saya**:
 
-  - **\*\*Menu Optimasi AI\*\***
+  - **Menu Optimasi AI**
 
   
 
-  - **\*\*Menu Produk Saya\*\***
+  - **Menu Produk Saya**
 
   
 Di halaman utama Optimasi AI, Anda dapat melengkapi informasi produk secara bertahap dengan mudah hanya dalam beberapa langkah.
@@ -140,7 +137,7 @@ Pilih **Atribut Utama** untuk melengkapi spesifikasi produk Anda. Atribut ini me
 
   
 
-***Background*** **foto polos**
+**Background** **foto polos**
 
 Pilih **Background foto polos** untuk mengoptimalkan foto produk Anda. *Upload* foto produk tanpa *watermark*, dengan komposisi tampilan produk min. 60% dan *background* polos.
 

@@ -18,9 +18,6 @@ sources:
 **Apa itu Produk yang Mudah Rusak?**
 
 
-05-06-2026
-
-**Apa itu Produk yang Mudah Rusak?**
 
 **Produk mudah rusak** menurut versi Shopee adalah produk yang memiliki waktu simpan tertentu dan kondisinya dapat berubah dikarenakan faktor lingkungan (suhu, kelembapan, dll.)
 

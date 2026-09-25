@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Pengiriman Kilat?**
 
 
-28-07-2026
-
-**Apa itu Program Pengiriman Kilat?**
 
 Pengiriman Kilat adalah program Shopee di mana Penjual mengirimkan produk tertentu ke lokasi sortir sebelum adanya pesanan dari Pembeli, agar pesanan dapat lebih cepat sampai ke Pembeli. Saat ini, produk yang dapat mengikuti Pengiriman Kilat adalah produk dengan masa pengemasan non pre-order.
 
@@ -153,7 +150,7 @@ Laporan Pengiriman Kilat dapat digunakan oleh Penjual untuk berbagai keperluan o
 
 Penjual dapat men-*download* laporan Pengiriman Kilat pada status pesanan di *tab* **Perlu Dikirim**, **Dikirim**, dan **Selesai**.
 
-##### ***Download*** **laporan pada** ***tab***[ **Perlu Dikirim**](https://seller.shopee.co.id/portal/sale/shipment?type=toship&source=to_process) **dan**[ **Dikirim**](https://seller.shopee.co.id/portal/sale/order?type=shipping)
+##### **Download** **laporan pada** **tab**[ **Perlu Dikirim**](https://seller.shopee.co.id/portal/sale/shipment?type=toship&source=to_process) **dan**[ **Dikirim**](https://seller.shopee.co.id/portal/sale/order?type=shipping)
 
 Laporan yang di-*download* pada *tab* Perlu Dikirim menampilkan daftar pesanan yang dibagi menjadi 2 kategori yaitu pesanan biasa dan pesanan dari Pengiriman Kilat.
 
@@ -169,7 +166,7 @@ Sedangkan pada *tab* **Dikirim**, Anda dapat memilih tipe pesanan Pengiriman Kil
 
   
 
-##### ***Download*** **laporan pada** ***tab***[ **Selesai**](https://seller.shopee.co.id/portal/sale/order?type=completed)
+##### **Download** **laporan pada** **tab**[ **Selesai**](https://seller.shopee.co.id/portal/sale/order?type=completed)
 
 Anda dapat membedakan antara pesanan biasa dan pesanan Pengiriman Kilat melalui kolom **Shipped by Advance Fulfillment**.
 
@@ -218,7 +215,7 @@ Namun, jika ada stok dari Pengiriman Kilat yang telah berhasil diproses sebagai 
 
   
 
-**3. Apa yang harus dilakukan saat menerima pesanan dengan** ***tag*** **'Pengiriman Kilat?**
+**3. Apa yang harus dilakukan saat menerima pesanan dengan** **tag** **'Pengiriman Kilat?**
 
 Jenis pesanan Pengiriman Kilat akan masuk ke sistem Seller Centre secara otomatis.
 
@@ -256,7 +253,7 @@ Jumlah produk untuk stok Pengiriman Kilat dalam sehari tidak akan melebihi 20% d
 
 Contoh ilustrasinya:
 
-  - **\*\*Jika stok produk \\\>10pcs\*\***
+  - **Jika stok produk \\\>10pcs**
 
 Saat ini, stok produk A di toko Penjual terdapat 100 pcs.
 
@@ -264,7 +261,7 @@ Maksimum jumlah yang dapat dipesan Shopee adalah 20% x 100 pcs = 20 pcs.
 
   
 
-  - **\*\*Jika stok produk \\\<10pcs\*\***
+  - **Jika stok produk \\\<10pcs**
 
 Shopee tidak akan memesan produk tersebut, karena stok produk tidak memenuhi batas minimal stok.
 
@@ -345,6 +342,6 @@ Apabila setelah periode tersebut masih terdapat sisa stok, Shopee akan mengembal
 
   
 
-**10. Apakah ada perbedaan cara memenuhi pesanan jika saya menggunakan sistem ISV (*****Independent Software Vendors*****)?**
+**10. Apakah ada perbedaan cara memenuhi pesanan jika saya menggunakan sistem ISV (**Independent Software Vendors**)?**
 
 Jika Anda menggunakan sistem ISV, Anda dapat mempelajari lebih lanjut di[ Cara mengirim dan memantau pesanan Pengiriman Kilat di Sistem ISV](https://seller.shopee.co.id/edu/article/22766).

@@ -18,9 +18,6 @@ sources:
 **Apa itu Fitur Performa Toko?**
 
 
-02-02-2026
-
-**Apa itu Fitur Performa Toko?**
 
 **Performa Toko** adalah fitur di Aplikasi Shopee dan Seller Centre untuk memberikan Anda gambaran menyeluruh tentang data penjualan dan performa toko secara menyeluruh.
 
@@ -102,7 +99,7 @@ Pilih **Performa Toko** yang terletak di bagian **Data** pada halaman utama Sell
 
 Saat ini, aplikasi Shopee hanya menyediakan ringkasan data performa toko. Data ini terbagi menjadi 2 halaman, yaitu:
 
-  - **\*\*Halaman Penjualan\*\***
+  - **Halaman Penjualan**
 
 1\. **Periode** memungkinkan Anda untuk memilih periode waktu tertentu, seperti: Real-Time (*update* setiap menit), Kemarin, 7 hari sebelumnya, 30 hari sebelumnya, Per hari, Per Minggu, dan Per Bulan.
 
@@ -116,7 +113,7 @@ Saat ini, aplikasi Shopee hanya menyediakan ringkasan data performa toko. Data i
 
   
 
-  - **\*\*Halaman Produk\*\***
+  - **Halaman Produk**
 
 <!-- end list -->
 

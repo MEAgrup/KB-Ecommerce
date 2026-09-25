@@ -18,9 +18,6 @@ sources:
 **Tentang Fitur Dekorasi Toko**
 
 
-27-02-2023
-
-**Tentang Fitur Dekorasi Toko**
 
 [Dekorasi Toko](https://seller.shopee.co.id/edu/article/6910) adalah fitur yang dapat membuat tampilan halaman toko Anda menjadi lebih menarik untuk menampilkan produk Anda dengan jelas dan efektif ke Pembeli. 
 

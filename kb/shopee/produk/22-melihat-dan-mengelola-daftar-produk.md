@@ -18,9 +18,6 @@ sources:
 **Mengelola Daftar Produk**
 
 
-03-06-2026
-
-**Mengelola Daftar Produk**
 
 Produk yang sudah di-*upload* bisa Anda kelola ulang sesuai dengan apa yang Anda inginkan. Mengelola produk memudahkan Anda untuk mengatur dan mengetahui status produk Anda.
 
@@ -49,11 +46,11 @@ Jika Anda ingin menampilkan atau mengarsipkan produk untuk sementara, Anda dapat
 
 **Apa yang terjadi ketika saya menampilkan/mengarsipkan produk?**
 
-  - **\*\*Tampilkan\*\***
+  - **Tampilkan**
 
 Menu tampilkan mengubah status produk dari Diarsipkan menjadi Live, sehingga Pembeli dapat melihat dan memesan produk tersebut.
 
-  - **\*\*Arsipkan\*\***
+  - **Arsipkan**
 
 Menu arsipkan mengubah status produk dari Live menjadi Diarsipkan, sehingga produk tersebut akan disembunyikan sementara tanpa mengubah rincian produk dan penilaian Pembeli.
 
@@ -108,7 +105,7 @@ Jika Anda meng-*upload* Produk Berbahaya, maka Anda wajib mengisi keterangan pro
 
 **Mengapa produk saya tidak muncul setelah di-upload/di-update?**
 
-Jika produk yang sudah di-*upload*/di-*update* tidak muncul di toko atau pada hasil pencarian, **mohon menunggu dengan estimasi waktu 1x24 jam terhitung sejak produk pertama kali di-*****upload/*****di-*****update*****.** Hal ini dikarenakan **Shopee menerapkan sistem** ***quality control*** **(QC) pada setiap produk yang di-*****upload*** **oleh Penjual untuk memastikan tidak adanya pelanggaran.**
+Jika produk yang sudah di-*upload*/di-*update* tidak muncul di toko atau pada hasil pencarian, **mohon menunggu dengan estimasi waktu 1x24 jam terhitung sejak produk pertama kali di-**upload/**di-**update**.** Hal ini dikarenakan **Shopee menerapkan sistem** **quality control** **(QC) pada setiap produk yang di-**upload** **oleh Penjual untuk memastikan tidak adanya pelanggaran.**
 
   
 

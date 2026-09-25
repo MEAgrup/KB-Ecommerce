@@ -18,11 +18,6 @@ sources:
 Pengaturan Toko di Seller Centre adalah halaman yang dapat membantu Anda mengatur dan mengkonfigurasikan  berbagai pengaturan yang dibutuhkan toko. Sesuai dengan kriteria setiap Penjual, Anda bisa melihat jenis-jenis informasi berbeda yang tersedia di halaman Pengaturan Toko.
 
 
-17-03-2026
-
-Pengaturan Toko di Seller Centre adalah halaman yang dapat membantu Anda mengatur dan mengkonfigurasikan  berbagai pengaturan yang dibutuhkan toko. Sesuai dengan kriteria setiap Penjual, Anda bisa melihat jenis-jenis informasi berbeda yang tersedia di halaman Pengaturan Toko.
-
-  
 
 Berikut adalah 7 jenis pengaturan yang tersedia di halaman Pengaturan Toko:
 

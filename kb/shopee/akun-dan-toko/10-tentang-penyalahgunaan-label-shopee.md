@@ -18,9 +18,6 @@ sources:
 **Apa itu Label Shopee?**
 
 
-06-03-2026
-
-**Apa itu Label Shopee?**
 
 Shopee memberikan penghargaan berupa label resmi Shopee untuk membantu meningkatkan daya tarik produk kepada Penjual yang telah memenuhi kriteria tertentu, seperti label "Star", "Star+", "Promo XTRA", dan "Gratis Ongkir XTRA".
 

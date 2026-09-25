@@ -18,9 +18,6 @@ sources:
 **Apa itu Shopee Live XTRA?**
 
 
-31-07-2026
-
-**Apa itu Shopee Live XTRA?**
 
 Shopee Live XTRA adalah program khusus yang menghadirkan Voucher Diskon Live Tambahan dengan nilai yang lebih besar untuk digunakan selama Livestream. 
 
@@ -85,36 +82,36 @@ Berikut adalah perhitungan biaya layanan Program Shopee Live XTRA:
 
 Berikut adalah ilustrasi perhitungan biaya layanan Program Shopee Live XTRA:
 
-  - **\*\*Penjual bergabung Program Shopee Live XTRA dan tidak bergabung Program Promo XTRA\*\***
+  - **Penjual bergabung Program Shopee Live XTRA dan tidak bergabung Program Promo XTRA**
 
   
 
 |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*ILUSTRASI PERHITUNGAN BIAYA LAYANAN SHOPEE LIVE XTRA UNTUK PENJUAL YANG BERGABUNG PROGRAM SHOPEE LIVE XTRA & TIDAK BERGABUNG PROGRAM PROMO XTRA\*\* |  |  |  |  |  |  |
-| \*\*Pembeli A membeli produk I (Sepatu Anak Laki-laki), produk II (Pakaian Muslim Wanita), dan produk III (Koper) di toko Anda.\*\* |  |  |  |  |  |  |
-| \*\*PEMBELI\*\*\*\*A\*\* | \*\*\*CHANNEL\*\*\* \*\*PENJUALAN\*\* | \*\*KATEGORI PRODUK BERLAKU UNTUK SHOPEE LIVE XTRA\*\* | \*\*HARGA ASLI\*\* | \*\*DISKON PRODUK & VOUCHER PENJUAL\*\* | \*\*TOTAL PEMBAYARAN PEMBELI (SETELAH DISKON & VOUCHER YANG DITANGGUNG PENJUAL)\*\* | \*\*BIAYA LAYANAN SHOPEE LIVE XTRA (3% MAKS. 20RB)\*\* |
-| \*\*Produk I\*\* | \*\*Shopee Live\*\* | \*\*✅\*\* | \*\*Rp100.000\*\* | \*\*Rp15.000\*\* | \*\*Rp85.000\*\* | \*\*Rp2.250\*\* |
-| \*\*Produk II\*\* | \*\*Shopee Live\*\* | \*\*✅\*\* | \*\*Rp1.500.000\*\* | \*\*Rp150.000\*\* | \*\*Rp1.350.000\*\* | \*\*Rp20.000\*\* |
-| \*\*Produk III\*\* | \*\*Non-Shopee Live\*\* | \*\*✅\*\* | \*\*Rp200.000\*\* | \*\*Rp5.000\*\* | \*\*Rp195.000\*\* | \*\*Rp0\*\* |
-| \*\*Total Biaya Layanan Shopee Live XTRA yang Ditanggung Penjual\*\* | \*\*Rp22.250\*\* |  |  |  |  |  |
+| **ILUSTRASI PERHITUNGAN BIAYA LAYANAN SHOPEE LIVE XTRA UNTUK PENJUAL YANG BERGABUNG PROGRAM SHOPEE LIVE XTRA & TIDAK BERGABUNG PROGRAM PROMO XTRA** |  |  |  |  |  |  |
+| **Pembeli A membeli produk I (Sepatu Anak Laki-laki), produk II (Pakaian Muslim Wanita), dan produk III (Koper) di toko Anda.** |  |  |  |  |  |  |
+| **PEMBELI**A** | **\*CHANNEL**\* **PENJUALAN** | **KATEGORI PRODUK BERLAKU UNTUK SHOPEE LIVE XTRA** | **HARGA ASLI** | **DISKON PRODUK & VOUCHER PENJUAL** | **TOTAL PEMBAYARAN PEMBELI (SETELAH DISKON & VOUCHER YANG DITANGGUNG PENJUAL)** | **BIAYA LAYANAN SHOPEE LIVE XTRA (3% MAKS. 20RB)** |
+| **Produk I** | **Shopee Live** | **✅** | **Rp100.000** | **Rp15.000** | **Rp85.000** | **Rp2.250** |
+| **Produk II** | **Shopee Live** | **✅** | **Rp1.500.000** | **Rp150.000** | **Rp1.350.000** | **Rp20.000** |
+| **Produk III** | **Non-Shopee Live** | **✅** | **Rp200.000** | **Rp5.000** | **Rp195.000** | **Rp0** |
+| **Total Biaya Layanan Shopee Live XTRA yang Ditanggung Penjual** | **Rp22.250** |  |  |  |  |  |
 
   
   
 
-  - **\*\*Penjual bergabung Program Shopee Live XTRA dan Promo XTRA\*\***
+  - **Penjual bergabung Program Shopee Live XTRA dan Promo XTRA**
 
   
 
 |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*ILUSTRASI PERHITUNGAN BIAYA LAYANAN SHOPEE LIVE XTRA UNTUK PENJUAL YANG BERGABUNG PROGRAM SHOPEE LIVE XTRA & PROMO XTRA\*\* |  |  |  |  |  |  |
-| \*\*Pembeli A membeli produk I (Sepatu Anak Laki-laki), produk II (Pakaian Muslim Wanita), produk III (Koper) di toko Anda.\*\* |  |  |  |  |  |  |
-| \*\*PEMBELI\*\*\*\*A\*\* | \*\*\*CHANNEL\*\*\* \*\*PENJUALAN\*\* | \*\*KATEGORI PRODUK BERLAKU UNTUK SHOPEE LIVE XTRA\*\* | \*\*HARGA ASLI\*\* | \*\*DISKON PRODUK & VOUCHER PENJUAL\*\* | \*\*TOTAL PEMBAYARAN PEMBELI (SETELAH DISKON & VOUCHER YANG DITANGGUNG PENJUAL)\*\* | \*\*BIAYA LAYANAN SHOPEE LIVE XTRA (2% MAKS. 20RB)\*\* |
-| \*\*Produk I\*\* | \*\*Shopee Live\*\* | \*\*✅\*\* | \*\*Rp100.000\*\* | \*\*Rp15.000\*\* | \*\*Rp85.000\*\* | \*\*Rp1.700\*\* |
-| \*\*Produk II\*\* | \*\*Shopee Live\*\* | \*\*✅\*\* | \*\*Rp1.500.000\*\* | \*\*Rp150.000\*\* | \*\*Rp1.350.000\*\* | \*\*Rp20.000\*\* |
-| \*\*Produk III\*\* | \*\*Non-Shopee Live\*\* | \*\*✅\*\* | \*\*Rp200.000\*\* | \*\*Rp5.000\*\* | \*\*Rp195.000\*\* | \*\*Rp0\*\* |
-| \*\*Total Biaya Layanan Live XTRA yang Ditanggung Penjual =\*\* | \*\*Rp21.700\*\* |  |  |  |  |  |
+| **ILUSTRASI PERHITUNGAN BIAYA LAYANAN SHOPEE LIVE XTRA UNTUK PENJUAL YANG BERGABUNG PROGRAM SHOPEE LIVE XTRA & PROMO XTRA** |  |  |  |  |  |  |
+| **Pembeli A membeli produk I (Sepatu Anak Laki-laki), produk II (Pakaian Muslim Wanita), produk III (Koper) di toko Anda.** |  |  |  |  |  |  |
+| **PEMBELI**A** | **\*CHANNEL**\* **PENJUALAN** | **KATEGORI PRODUK BERLAKU UNTUK SHOPEE LIVE XTRA** | **HARGA ASLI** | **DISKON PRODUK & VOUCHER PENJUAL** | **TOTAL PEMBAYARAN PEMBELI (SETELAH DISKON & VOUCHER YANG DITANGGUNG PENJUAL)** | **BIAYA LAYANAN SHOPEE LIVE XTRA (2% MAKS. 20RB)** |
+| **Produk I** | **Shopee Live** | **✅** | **Rp100.000** | **Rp15.000** | **Rp85.000** | **Rp1.700** |
+| **Produk II** | **Shopee Live** | **✅** | **Rp1.500.000** | **Rp150.000** | **Rp1.350.000** | **Rp20.000** |
+| **Produk III** | **Non-Shopee Live** | **✅** | **Rp200.000** | **Rp5.000** | **Rp195.000** | **Rp0** |
+| **Total Biaya Layanan Live XTRA yang Ditanggung Penjual =** | **Rp21.700** |  |  |  |  |  |
 
   
 
@@ -171,10 +168,10 @@ Berikut skenario **bergabung atau berhenti** pada Program Shopee Live XTRA:
 
 |  |  |
 | :-: | :-: |
-| \*\*SITUASI\*\* | \*\*PROSES\*\* |
-| Penjual mengakses halaman Live Xtra diSeller Centre pada tanggal \*\*21\*\*\*\*Desember, Sabtu pk. 00.00 WIB\*\* | \*\*•\*\* Penjual menerima konfirmasikeikutsertaan pada tanggal \*\*25 Desember,\*\*\*\*Rabu pk. 00.00 WIB\*\*\*\*•\*\* Penjual efektif bergabung atau berhentipada program mulai tanggal \*\*25 Desember,\*\*\*\*Rabu pk. 00.00 WIB\*\* |
-| Penjual mengakses halaman Live Xtra diSeller Centre pada tanggal \*\*24\*\*\*\*Desember, Selasa pk. 16.00 WIB\*\* | \*\*•\*\* Penjual menerima konfirmasikeikutsertaan pada tanggal \*\*25 Desember,\*\*\*\*Rabu pk. 00.00 WIB\*\*\*\*•\*\* Penjual efektif bergabung atau berhentidari program mulai tanggal \*\*25 Desember,\*\*\*\*Rabu pk. 00.00 WIB\*\* |
-| Penjual mengakses halaman Live Xtra diSeller Centre pada tanggal \*\*24\*\*\*\*Desember, Selasa pk. 18.00 WIB\*\* | \*\*•\*\* Penjual menerima konfirmasikeikutsertaan pada tanggal \*\*1 Januari, Rabu\*\*\*\*pk. 00.00 WIB\*\*\*\*•\*\* Penjual efektif bergabung atau berhentipada program mulai tanggal \*\*1 Januari,\*\*\*\*Rabu pk. 00.00 WIB\*\* |
+| **SITUASI** | **PROSES** |
+| Penjual mengakses halaman Live Xtra diSeller Centre pada tanggal **21**Desember, Sabtu pk. 00.00 WIB** | **•** Penjual menerima konfirmasikeikutsertaan pada tanggal **25 Desember,**Rabu pk. 00.00 WIB**•** Penjual efektif bergabung atau berhentipada program mulai tanggal **25 Desember,**Rabu pk. 00.00 WIB** |
+| Penjual mengakses halaman Live Xtra diSeller Centre pada tanggal **24**Desember, Selasa pk. 16.00 WIB** | **•** Penjual menerima konfirmasikeikutsertaan pada tanggal **25 Desember,**Rabu pk. 00.00 WIB**•** Penjual efektif bergabung atau berhentidari program mulai tanggal **25 Desember,**Rabu pk. 00.00 WIB** |
+| Penjual mengakses halaman Live Xtra diSeller Centre pada tanggal **24**Desember, Selasa pk. 18.00 WIB** | **•** Penjual menerima konfirmasikeikutsertaan pada tanggal **1 Januari, Rabu**pk. 00.00 WIB**•** Penjual efektif bergabung atau berhentipada program mulai tanggal **1 Januari,**Rabu pk. 00.00 WIB** |
 
 Jika terdapat kendala atau pertanyaan lebih lanjut mengenai proses pendaftaran dan pemberhentian Program Shopee Live XTRA, Anda dapat menghubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270).
 
@@ -226,6 +223,6 @@ Ya. Penjual yang tergabung dalam program Shopee Live XTRA akan tetap dikenakan b
 
   
 
-**8. Mengapa saya belum mendapatkan** ***exposure*** **Shopee Live XTRA meskipun sudah menerima notifikasi keikutsertaan program?**
+**8. Mengapa saya belum mendapatkan** **exposure** **Shopee Live XTRA meskipun sudah menerima notifikasi keikutsertaan program?**
 
 Bagi Penjual yang baru bergabung dalam program Shopee Live XTRA pada hari Rabu pukul 00.00 WIB, Voucher Live XTRA akan aktif pada saat yang sama. Namun, exposure Shopee Live XTRA baru akan ditampilkan mulai pukul 12.00 WIB pada hari Rabu.

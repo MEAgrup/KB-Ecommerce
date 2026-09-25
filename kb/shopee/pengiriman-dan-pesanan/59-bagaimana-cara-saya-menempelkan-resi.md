@@ -18,9 +18,6 @@ sources:
 Pastikan resi terpasang dengan baik & aman pada bagian luar paket:
 
 
-28-09-2022
-
-Pastikan resi terpasang dengan baik & aman pada bagian luar paket:
 
   - Tempelkan resi secara rata/tidak terlipat pada paket sehingga *barcode*, kode QR, dan rincian penting terlihat jelas oleh pihak jasa kirim
   - Tempelkan resi dengan aman pada paket agar tidak jatuh selama proses pengiriman

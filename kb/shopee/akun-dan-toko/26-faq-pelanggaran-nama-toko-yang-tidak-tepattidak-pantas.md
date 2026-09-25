@@ -18,11 +18,6 @@ sources:
 Berikut adalah jawaban atas beberapa pertanyaan umum yang mungkin Anda miliki tentang pelanggaran nama toko yang tidak tepat/tidak pantas:
 
 
-08-07-2022
-
-Berikut adalah jawaban atas beberapa pertanyaan umum yang mungkin Anda miliki tentang pelanggaran nama toko yang tidak tepat/tidak pantas:
-
-  
 
 **1. Bagaimana saya tahu jika saya melanggar Kebijakan Nama Toko?**
 

@@ -18,9 +18,6 @@ sources:
 **Apa itu Enabler?**
 
 
-30-07-2026
-
-**Apa itu Enabler?**
 
 Enabler merupakan mitra yang mendukung Penjual Shopee dengan memberikan layanan berupa jasa pergudangan, penyelesaian pesanan, operasional toko, manajemen produk, pelayanan interaksi digital, pemasaran, serta pelayanan Pembeli.
 

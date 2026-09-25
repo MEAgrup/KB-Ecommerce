@@ -18,9 +18,6 @@ sources:
 **Apa itu YouTube Shopping?**
 
 
-09-07-2026
-
-**Apa itu YouTube Shopping?**
 
 YouTube Shopping adalah program untuk mempromosikan produk melalui video di YouTube. Program ini memfasilitasi Kreator YouTube untuk menjual produk Anda melalui *tag* yang Penonton dapat akses di dalam video.
 
@@ -65,7 +62,7 @@ Anda juga dapat mengaktifkan YouTube Shopping di akun YouTube sendiri, dengan pe
 
 Untuk mempromosikan produk Anda melalui YouTube, Anda perlu mengatur Komisi XTRA Produk atau Komisi XTRA Khusus melalui[ Affiliate Marketing Solution](https://seller.shopee.co.id/portal/web-seller-affiliate/homepage):
 
-  - Komisi XTRA Produk untuk mengundang kerja sama dengan **seluruh** ***Affiliate*** **termasuk Kreator YouTube**
+  - Komisi XTRA Produk untuk mengundang kerja sama dengan **seluruh** **Affiliate** **termasuk Kreator YouTube**
   - Komisi XTRA Khusus untuk mengundang kerja sama dengan **Kreator YouTube saja**
 
 Saat ini, Anda belum bisa membuat Komisi XTRA Khusus hanya untuk Kreator YouTube tertentu. Komisi XTRA Khusus yang diatur untuk *Affiliate* **youtube\_shopping\_id** akan berlaku untuk **seluruh** Kreator YouTube.

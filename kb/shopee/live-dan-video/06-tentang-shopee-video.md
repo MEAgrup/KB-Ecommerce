@@ -18,9 +18,6 @@ sources:
 **Apa itu Shopee Video?**
 
 
-08-06-2026
-
-**Apa itu Shopee Video?**
 
 Shopee Video adalah fitur yang membantu Penjual mempromosikan produk dan berinteraksi dengan Pengguna Shopee lainnya melalui video pendek. Anda dapat membuat dan membagikan video yang dilengkapi musik, filter, serta elemen pendukung visual lainnya.
 
@@ -51,7 +48,7 @@ Konten video memungkinkan Anda menjelaskan produk secara naratif, sehingga lebih
 
 ﻿﻿﻿
 
-**Memperkuat** ***branding*** **toko**
+**Memperkuat** **branding** **toko**
 
 Shopee Video dapat menjadi etalase visual bagi *brand* Anda. Dengan membuat konten yang konsisten dan relevan, Pembeli akan semakin mengenal karakter toko Anda dan merasa lebih dekat dengan produk yang Anda tawarkan.
 
@@ -122,7 +119,7 @@ Jadi, video yang ditampilkan di halaman **Untuk Anda** milik setiap Pembeli akan
 Setiap konten yang di-*upload* dapat berkesempatan menjadi viral karena Shopee Video membagikan konten Anda ke Pengguna di mana saja, terlepas dari apakah Pengguna tersebut mengikuti akun Anda atau tidak. Maka dari itu, jumlah Penonton konten Shopee Video Anda, sehingga Anda tidak perlu khawatir apabila Anda baru mulai membuat video pertama.
 
   
-**Meningkatkan kunjungan toko melalui** ***exposure***
+**Meningkatkan kunjungan toko melalui** **exposure**
 
 Dengan meng-*upload* video, Anda dapat menjangkau audiens yang lebih luas. Konten video Anda berkesempatan untuk menjadi video pertama yang dilihat Pembeli di halaman **Temukan**, **Video**, **Live** dan **Untuk Anda**. Video Anda yang terekspos langsung ke halaman Pembeli dapat memberikan dampak yang signifikan pada jumlah penonton video dan tingkat kunjungan ke profil toko Anda.
 

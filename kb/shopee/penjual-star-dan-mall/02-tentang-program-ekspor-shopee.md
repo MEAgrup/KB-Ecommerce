@@ -19,9 +19,6 @@ decisions: []
 **Apa itu Program Ekspor Shopee?**
 
 
-20-07-2026
-
-**Apa itu Program Ekspor Shopee?**
 
 Program Ekspor Shopee memungkinkan Anda untuk menjual produk ke Pembeli di luar negeri & memperluas bisnis dengan cara yang mudah tanpa dikenakan biaya apa pun. Pesanan dari Program Ekspor Shopee hanya akan berasal dari  beberapa wilayah di Asia Tenggara, Asia Timur, dan Amerika Latin. Secara bertahap, Anda akan bisa menerima pesanan dari negara-negara lainnya.
 
@@ -67,31 +64,31 @@ Salah satu ketentuan dalam Program Ekspor Shopee adalah memastikan produk yang d
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KELOMPOK\*\* | \*\*KATEGORI\*\* | \*\*CONTOH PRODUK\*\* |
-|  \*\*Fashion\*\*  | Tas Wanita | Timbangan tas/koper |
+| **KELOMPOK** | **KATEGORI** | **CONTOH PRODUK** |
+|  **Fashion**  | Tas Wanita | Timbangan tas/koper |
 | Jam Tangan | Jam tangan pria/wanita, baterai jam |  |
 | Aksesoris Fashion | Emas, perak, dan bahan logam mulia lainnya (termasuk perhiasan berharga) |  |
-|    \*\*Gaya Hidup\*\*   | Otomotif | Sepeda motor, ban mobil/motor, \*shockbreaker\*, perawatan interior berbahankimia, pengkilap & pelapis mobil, perawatan ban & roda berbahan kimia,pasta cat mobil, \*vaporizer\* beserta aksesoris, oli |
+|    **Gaya Hidup**   | Otomotif | Sepeda motor, ban mobil/motor, \*shockbreaker\*, perawatan interior berbahankimia, pengkilap & pelapis mobil, perawatan ban & roda berbahan kimia,pasta cat mobil, \*vaporizer\* beserta aksesoris, oli |
 |  Hobi & Koleksi  | Hewan & tanaman (termasuk bagian tubuh dari hewan & tanaman),makanan atau vitamin hewan peliharaan, senjata imitasi, rokok (termasukrokok elektronik/vape), aksesoris rokok, asbak |  |
 | \*Mystery box\* seperti produk tidak diketahui/\*random\* (termasuk replika uang) |  |  |
 | Mata uang rupiah atau mata uang asing lainnya (termasuk replika uang) |  |  |
 | Olahraga &Outdoor | Lampu \*camping\*, kompor \*camping\*, senter, \*stopwatch\*, pedometer, senjata api(termasuk replika/mainan berbentuk senjata api), aksesoris senjata, peluru,senjata tajam (termasuk replika/mainan berbentuk senjata tajam), bendatajam, dan sejenisnya |  |
 | Buku & Alat Tulis | \*Acrylic paint\*, \*water\* & poster \*colors\*, kalkulator |  |
-| PerlengkapanRumah | Lilin, tempat lilin, pewangi pakaian, pengharum & pewangi ruangan, \*diffuser,\*\*humidifier\* & pembakar minyak, timbangan dapur, peralatan pemadamkebakaran, pompa udara, bor, obeng, penguji listrik & \*multimeter\*, \*levels &\*\*measuring wheels, rangefinders,\* lemari, tempat tidur, sofa, pintu, jendela,ubin, genting atap, tanaman\*,\* bibit, pupuk, tanah, media tanam, insektisida,pembasmi hama atau gulma, furnitur berukuran besar lainnya |  |
-|   \*\*Elektronik\*\*    | Handphone &Aksesoris | \*Handphone, powerbank, tablet, smartwatch, VR, selfie lights, pocket wifi, USB\*\*& mobile fan, USB & mobile lights, earphone\*, aksesoris dengan baterai |
+| PerlengkapanRumah | Lilin, tempat lilin, pewangi pakaian, pengharum & pewangi ruangan, \*diffuser,**humidifier\* & pembakar minyak, timbangan dapur, peralatan pemadamkebakaran, pompa udara, bor, obeng, penguji listrik & \*multimeter\*, \*levels &**measuring wheels, rangefinders,\* lemari, tempat tidur, sofa, pintu, jendela,ubin, genting atap, tanaman\*,\* bibit, pupuk, tanah, media tanam, insektisida,pembasmi hama atau gulma, furnitur berukuran besar lainnya |  |
+|   **Elektronik**    | Handphone &Aksesoris | \*Handphone, powerbank, tablet, smartwatch, VR, selfie lights, pocket wifi, USB**& mobile fan, USB & mobile lights, earphone\*, aksesoris dengan baterai |
 | Gaming & Konsol | Mesin konsol (\*PSP, switch, wii, xbox, gameboy, nintendo, playstation, PS vita)\*,aksesoris dengan baterai |  |
-| Kamera & Drone | Gimbal kamera, stabilisator kamera, \*handheld\* kamera, kamera aksi, kamerawifi, kamera analog, kamera DSLR, kamera instan, kamera \*mirrorless\*, \*point &\*\*shoot camera\*, \*video camcorders\*, kamera \*drone\*, aksesoris dengan baterai |  |
+| Kamera & Drone | Gimbal kamera, stabilisator kamera, \*handheld\* kamera, kamera aksi, kamerawifi, kamera analog, kamera DSLR, kamera instan, kamera \*mirrorless\*, \*point &**shoot camera\*, \*video camcorders\*, kamera \*drone\*, aksesoris dengan baterai |  |
 | Audio | \*Speaker\*, \*amplifier\*, pemutar MP3 & MP4, pemain radio & kaset, perekamsuara, mikrofon, \*earphones\*, \*headphones\* & \*headsets\* |  |
 | Elektronik | Bel pintu, kulkas, AC\*,\* pendingin \*portable\*, \*pointer, remote control,\* telefontanpa kabel, \*water flossers,\* TV, peralatan rumah tangga besar lainnya |  |
 | Komputer &Aksesoris | \*Drawing tablet, mouse\*, laptop, baterai |  |
-|   \*\*Kebutuhan Harian (FMCG)\*\*    | Perawatan &Kecantikan | Alat cukur, pisau cukur, penata rambut berbahan kimia, perawatan rambutberbahan kimia,  perawatan mandi berbahan kimia, aerosol, parfum, catkuku, pembersih cat kuku, toner wajah |
+|   **Kebutuhan Harian (FMCG)**    | Perawatan &Kecantikan | Alat cukur, pisau cukur, penata rambut berbahan kimia, perawatan rambutberbahan kimia,  perawatan mandi berbahan kimia, aerosol, parfum, catkuku, pembersih cat kuku, toner wajah |
 | Ibu & Bayi | Susu, suplemen dan vitamin kesehatan untuk kehamilan, makanan bayi,alat/mainan lainnya dengan baterai |  |
 |   ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿Kesehatan   | Alat monitor & tes kesehatan seperti alat monitor glukosa darah, alatmonitor tekanan darah, oksimeter, termometer, timbangan analisis skala &lemak tubuh |  |
 | Lensa kontak, mesin pijat, sikat gigi & aksesoris listrik, suplemen dengan zatobat kuat, obat perangsang, atau parafilia terkait, obat-obatan (termasukobat herbal/modern/untuk hewan) |  |  |
 | Produk kategori dewasa usia 21 tahun ke atas (Contoh: suplemen yangmengandung zat obat kuat, obat perangsang, atau parafilia terkait) |  |  |
 | Makanan &Minuman | Makanan beku, makanan segar, makanan menimbulkan bau, minuman,minuman beralkohol |  |
-| \*\*Produk Digital\*\* | Tiket, Voucher, &Layanan | \*E-book, game, software\*, voucher, tiket, kartu kredit dan/atau debit, danproduk non fisik lainnya |
-|     \*\*Lainnya\*\*     |     Produk lainnya(tidak terbataspada kategorimanapun)     | Produk \*down payment\* misalnya, harga produk yang dicantumkanmerupakan harga "\*Down Payment\*" dan bukan merupakan harga produksebenarnya. Pada bagian deskripsi produk terdapat informasi bahwa produksebenarnya akan dikirim secara terpisah |
+| **Produk Digital** | Tiket, Voucher, &Layanan | \*E-book, game, software\*, voucher, tiket, kartu kredit dan/atau debit, danproduk non fisik lainnya |
+|     **Lainnya**     |     Produk lainnya(tidak terbataspada kategorimanapun)     | Produk \*down payment\* misalnya, harga produk yang dicantumkanmerupakan harga "\*Down Payment\*" dan bukan merupakan harga produksebenarnya. Pada bagian deskripsi produk terdapat informasi bahwa produksebenarnya akan dikirim secara terpisah |
 | Produk \*booking\*, misalnya hanya boleh di checkout oleh Pembeli tertentukarena sudah melakukan \*booking\* sebelumnya |  |  |
 | Produk berukuran besar/\*bulky\* seperti TV, kulkas, dispenser, mesin cuci,motor, sepeda |  |  |
 | Produk bekas atau \*secondhand\* |  |  |
@@ -132,7 +129,7 @@ Berikut adalah ilustrasi proses pendaftaran toko:
 
 |  |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|   | \*\*SENIN\*\* | \*\*SELASA\*\* | \*\*RABU\*\* | \*\*KAMIS\*\* | \*\*JUMAT\*\* | \*\*SABTU\*\* | \*\*MINGGU\*\* |
+|   | **SENIN** | **SELASA** | **RABU** | **KAMIS** | **JUMAT** | **SABTU** | **MINGGU** |
 | Minggu ke-1 | Pembuatan toko minggu lalu | Periode pengisian formulir pendaftaran |  |  |  |  |  |
 | Minggu ke-2 | Periode pengisian formulir pendaftaran |  |  |  |  |  |  |
 | Minggu ke-3 | Periode pengisian formulir pendaftaran |  |  |  |  |  |  |
@@ -154,7 +151,7 @@ Berikut adalah ilustrasi proses pemberhentian toko:
 
 |  |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|   | \*\*SENIN\*\* | \*\*SELASA\*\* | \*\*RABU\*\* | \*\*KAMIS\*\* | \*\*JUMAT\*\* | \*\*SABTU\*\* | \*\*MINGGU\*\* |
+|   | **SENIN** | **SELASA** | **RABU** | **KAMIS** | **JUMAT** | **SABTU** | **MINGGU** |
 | Minggu ke-1 |   | Periode pengisian formulir pemberhentian |  |  |  |  |  |
 | Minggu ke-2 |   | Pengumpulan data | Proses penonaktifan toko di luar negeri |  |  |  |  |
 | Minggu ke-3 |   |   | Toko telah dinonaktifkan\\\* |   |   |   |  |
@@ -167,7 +164,7 @@ Apabila formulir diisi setelah hari Selasa pk. 23:59 WIB, maka data formulir pem
 
   
 
-Jika mengalami kendala, mohon mengakses[ Pusat Edukasi Penjual](https://seller.shopee.co.id/edu/home) melalui ***browser*** **handphone** agar dapat mengisi formulir pemberhentian program.
+Jika mengalami kendala, mohon mengakses[ Pusat Edukasi Penjual](https://seller.shopee.co.id/edu/home) melalui **browser** **handphone** agar dapat mengisi formulir pemberhentian program.
 
   
 
@@ -179,18 +176,18 @@ Terdapat ketentuan pajak penjualan yang berlaku pada Program Ekspor Shopee sesua
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*KETENTUAN\*\* | \*\*PAJAK\*\* | \*\*WAKTU PEMBERLAKUAN\*\* |
-| \*\*Brazil\*\* | Nilai transaksi pesanan \\\< $50 | 37% | Juli 2024 |
+| **NEGARA** | **KETENTUAN** | **PAJAK** | **WAKTU PEMBERLAKUAN** |
+| **Brazil** | Nilai transaksi pesanan \\\< $50 | 37% | Juli 2024 |
 | Nilai transaksi pesanan \\\>= $50 | \\\>60% |  |  |
-| \*\*Brunei Darussalam\*\* | Semua produk impor | 6% | Januari 2026 |
-| \*\*Malaysia\*\* | Harga produk \\\<= RM 500 | 10% | Januari 2024 |
+| **Brunei Darussalam** | Semua produk impor | 6% | Januari 2026 |
+| **Malaysia** | Harga produk \\\<= RM 500 | 10% | Januari 2024 |
 | Harga produk \\\> RM 500 | 15.2% |  |  |
-| \*\*Meksiko\*\* | Semua produk impor | 19% | Desember 2024 |
-| \*\*Singapura\*\* | 9% | Januari 2024 |  |
-| \*\*Taiwan\*\* | Nilai transaksi pesanan \\\>= NTD 2000, atau transaksi pesanan ke-6 dan seterusnya | 5%-10% | April 2023 |
-| \*\*Thailand\*\* | Pajak Pertambahan Nilai (PPN) untuk semua produk impor | 7% | Januari 2026 |
+| **Meksiko** | Semua produk impor | 19% | Desember 2024 |
+| **Singapura** | 9% | Januari 2024 |  |
+| **Taiwan** | Nilai transaksi pesanan \\\>= NTD 2000, atau transaksi pesanan ke-6 dan seterusnya | 5%-10% | April 2023 |
+| **Thailand** | Pajak Pertambahan Nilai (PPN) untuk semua produk impor | 7% | Januari 2026 |
 | Pajak dan Bea Masuk produk impor | 5-60% |  |  |
-| \*\*Vietnam\*\* | Semua produk impor | 8-10% | Juni 2026 |
+| **Vietnam** | Semua produk impor | 8-10% | Juni 2026 |
 
   
 
@@ -342,12 +339,12 @@ Berikut ketentuan batas jumlah produk di toko luar negeri:
 
 |  |  |
 | :-: | :-: |
-| \*\*MAKS. JUMLAH PRODUK PER TOKO\*\* | \*\*KETENTUAN\*\* |
+| **MAKS. JUMLAH PRODUK PER TOKO** | **KETENTUAN** |
 | 100 | Sudah berjualan di Shopee ≥ 120 hari kalender di toko luar negeri |
-| 500 | \*\*•\*\* Sudah berjualan di Shopee ≥ 120 hari kalender di toko luar negeri\*\*•\*\* Minimal 1 produk aktif dan ada pesanan di toko luar negeri\*\*•\*\* Toko memiliki minimal 1 pesanan selama 90 hari kalender terakhir di toko luar negeri |
-| 1.000 | \*\*•\*\* Sudah berjualan di Shopee ≥ 30 hari kalender di toko luar negeri\*\*•\*\* Minimal 10 produk aktif dan ada pesanan di toko luar negeri\*\*•\*\* Minimal 5 pesanan selama 30 hari kalender terakhir di toko luar negeri |
-| 3.000 | \*\*•\*\* Sudah berjualan di Shopee ≥ 30 hari kalender di toko luar negeri\*\*•\*\* Minimal 50 produk aktif dan ada pesanan di toko luar negeri\*\*•\*\* Minimal 30 pesanan selama 30 hari kalender terakhir di toko luar negeri\*\*•\*\* Minimal memiliki 5 Pembeli berbeda di toko luar negeri |
-| 5.000 | \*\*•\*\* Sudah berjualan di Shopee ≥ 30 hari kalender di toko luar negeri\*\*•\*\* Minimal 100 produk aktif dan ada pesanan di toko luar negeri\*\*•\*\* Minimal 50 pesanan selama 30 hari kalender terakhir di toko luar negeri\*\*•\*\* Minimal memiliki 100 Pembeli berbeda di toko luar negeri |
+| 500 | **•** Sudah berjualan di Shopee ≥ 120 hari kalender di toko luar negeri**•** Minimal 1 produk aktif dan ada pesanan di toko luar negeri**•** Toko memiliki minimal 1 pesanan selama 90 hari kalender terakhir di toko luar negeri |
+| 1.000 | **•** Sudah berjualan di Shopee ≥ 30 hari kalender di toko luar negeri**•** Minimal 10 produk aktif dan ada pesanan di toko luar negeri**•** Minimal 5 pesanan selama 30 hari kalender terakhir di toko luar negeri |
+| 3.000 | **•** Sudah berjualan di Shopee ≥ 30 hari kalender di toko luar negeri**•** Minimal 50 produk aktif dan ada pesanan di toko luar negeri**•** Minimal 30 pesanan selama 30 hari kalender terakhir di toko luar negeri**•** Minimal memiliki 5 Pembeli berbeda di toko luar negeri |
+| 5.000 | **•** Sudah berjualan di Shopee ≥ 30 hari kalender di toko luar negeri**•** Minimal 100 produk aktif dan ada pesanan di toko luar negeri**•** Minimal 50 pesanan selama 30 hari kalender terakhir di toko luar negeri**•** Minimal memiliki 100 Pembeli berbeda di toko luar negeri |
 | 10.000 | Memiliki status Preferred Sellerdi toko luar negeri |
 | 20.000 | Memiliki status Penjual Shopee Mall di toko luar negeri |
 
@@ -359,7 +356,7 @@ Berikut ketentuan batas jumlah produk di toko luar negeri:
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*NEGARA\*\* | \*\*BERAT MAKSIMUM\*\* | \*\*BATAS UKURAN\*\* |
+| **NEGARA** | **BERAT MAKSIMUM** | **BATAS UKURAN** |
 | Brazil | 30kg | 100x90x90cm |
 | Brunei Darussalam | 30kg | 100x100x100cm |
 | Filipina | 30kg | 120x120x120cm |
@@ -387,7 +384,7 @@ Berikut daftar kisaran berat produk berdasarkan kategori yang diizinkan untuk di
 
 |  |  |
 | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*KISARAN BERAT PRODUK\*\* |
+| **KATEGORI** | **KISARAN BERAT PRODUK** |
 | Aksesoris Fashion | 30-80 g |
 | Handphone & Aksesoris | 50-100 g |
 | Kecantikan | 80-130 g |
@@ -447,16 +444,16 @@ Berikut dampak yang diterima Penjual jika toko luar negeri dikenakan poin penalt
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*TOKO DI NEGARA\*\* | \*\*DAMPAK POIN PENALTI\*\* |  |  |
-| \*\*≥1\*\* | \*\*≥2\*\* | \*\*≥3\*\* |  |
-| \*\*Brazil\*\* | \\- | Tidak diperbolehkan mengikuti kampanye |  |
-| \*\*Filipina\*\* | \\- | \\- | Tidak diperbolehkan mengikuti kampanye |
-| \*\*Malaysia\\\*\*\* | \\- | \\- |  |
-| \*\*Meksiko\*\* | \\- | \\- |  |
-| \*\*Singapura\*\* | \\- | \\- |  |
-| \*\*Taiwan\*\* | \\- |   |  |
-| \*\*Thailand\*\* | \\- | \\- |  |
-| \*\*Vietnam\*\* | \\- | \\- |  |
+| **TOKO DI NEGARA** | **DAMPAK POIN PENALTI** |  |  |
+| **≥1** | **≥2** | **≥3** |  |
+| **Brazil** | \\- | Tidak diperbolehkan mengikuti kampanye |  |
+| **Filipina** | \\- | \\- | Tidak diperbolehkan mengikuti kampanye |
+| **Malaysia\\**\* | \\- | \\- |  |
+| **Meksiko** | \\- | \\- |  |
+| **Singapura** | \\- | \\- |  |
+| **Taiwan** | \\- |   |  |
+| **Thailand** | \\- | \\- |  |
+| **Vietnam** | \\- | \\- |  |
 
 *\*Termasuk wilayah Brunei Darussalam*
 
@@ -481,7 +478,7 @@ Stok produk toko Anda di luar negeri yang ditampilkan adalah stok toko yang sama
 
 |  |  |
 | :-: | :-: |
-| \*\*Min. stok per variasi di dalam negeri\*\* | \*\*Stok per variasi yang muncul di toko di luar negeri\*\* |
+| **Min. stok per variasi di dalam negeri** | **Stok per variasi yang muncul di toko di luar negeri** |
 | 20 | 20 |
 | 2 | 2 |
 | 1 | 1 |
@@ -724,10 +721,10 @@ Tampilan toko Anda di luar negeri mungkin tidak sepenuhnya sama persis dengan ta
 
 Penanganan terkait pembatalan atau pengembalian barang/dana tergantung pada status pengiriman barang sebagai berikut:
 
-  - **\*\*Jika pesanan belum sampai di luar negeri\*\***
+  - **Jika pesanan belum sampai di luar negeri**
 
 Anda dapat meminta pengembalian barang/dana melalui akun[ Official Program Ekspor Shopee](https://shopee.co.id/sipbuyerid.cs) dan Shopee akan melakukan penyesuaian Saldo Penjual berdasarkan biaya pengiriman aktual.
 
-  - **\*\*Jika pesanan sudah sampai di luar negeri\*\***
+  - **Jika pesanan sudah sampai di luar negeri**
 
 Anda tidak dapat meminta pengembalian barang. Namun, Anda akan tetap dapat menerima pengembalian dana penuh karena pesanan yang sudah sampai di luar negeri akan diproses dengan ketentuan Shopee di negara tujuan.

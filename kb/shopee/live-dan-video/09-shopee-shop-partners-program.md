@@ -18,9 +18,6 @@ sources:
 **Apa itu Shopee Shop Partners?**
 
 
-12-08-2026
-
-**Apa itu Shopee Shop Partners?**
 
 Shopee Shop Partners Program adalah mitra resmi yang memberikan dukungan dan layanan berupa jasa Livestream di Shopee Live kepada Penjual Shopee.
 

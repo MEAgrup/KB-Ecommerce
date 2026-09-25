@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Hemat Biaya Kirim?**
 
 
-10-07-2026
-
-**Apa itu Program Hemat Biaya Kirim?**
 
 Program Hemat Biaya Kirim memberikan keuntungan bagi Anda yang bergabung dengan tidak membebankan biaya kirim atas setiap Pengembalian Barang/Dana yang diajukan oleh Pembeli karena kelalaian Penjual.
 

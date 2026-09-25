@@ -15,12 +15,9 @@ sources:
 # Produk yang Dilarang: Penjualan Produk Isi Ulang/Top up Saldo Uang Digital
 
 ## Ringkasan
-**Apa itu Penjualan Produk Isi Ulang/*****Top up*** **Saldo Uang Digital?**
+**Apa itu Penjualan Produk Isi Ulang/**Top up** **Saldo Uang Digital?**
 
 
-13-07-2026
-
-**Apa itu Penjualan Produk Isi Ulang/*****Top up*** **Saldo Uang Digital?**
 
 Penjualan produk isi ulang/*top up* saldo uang digital adalah aktivitas penjualan layanan pengisian/*top up* saldo uang atau dompet digital milik Pengguna sesuai nominal yang dipilih dalam transaksi.
 
@@ -28,7 +25,7 @@ Penjualan produk isi ulang/*top up* saldo uang digital adalah aktivitas penjuala
 
 Sesuai dengan[ Kebijakan Barang yang dilarang dan dibatasi di Shopee](https://help.shopee.co.id/portal/article/71189):
 
-  - Penjual **tidak diperbolehkan menjual dan/atau mempromosikan produk atau layanan/jasa isi ulang/*****top up*** dan **pencairan saldo uang atau dompet digital**, termasuk:
+  - Penjual **tidak diperbolehkan menjual dan/atau mempromosikan produk atau layanan/jasa isi ulang/**top up** dan **pencairan saldo uang atau dompet digital**, termasuk:
       
       - Melakukan transaksi yang tidak wajar atau terindikasi penyalahgunaan sistem pembayaran,
       - Pencairan dana,
@@ -38,7 +35,7 @@ Sesuai dengan[ Kebijakan Barang yang dilarang dan dibatasi di Shopee](https://he
 
   
 
-**Menyelesaikan Pembatasan Akun akibat Pelanggaran Penjualan Produk Isi Ulang/*****Top Up*** **Saldo Uang Digital**
+**Menyelesaikan Pembatasan Akun akibat Pelanggaran Penjualan Produk Isi Ulang/**Top Up** **Saldo Uang Digital**
 
 Jika toko Anda terindikasi melakukan aktivitas penjualan produk isi ulang/*top up* saldo uang digital, maka akun Anda akan dikenakan sanksi sesuai dengan ketentuan yang berlaku, termasuk pembatasan akun.
 

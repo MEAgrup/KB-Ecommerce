@@ -18,11 +18,6 @@ sources:
 **Bergabung dalam Program Opsional Gratis Ongkir XTRA**
 
 
-01-05-2026
-
-**Bergabung dalam Program Opsional Gratis Ongkir XTRA**
-
-  
 
 [Program Opsional Gratis Ongkir XTRA](https://seller.shopee.co.id/edu/article/6922) adalah program yang memberikan kesempatan bagi Penjual yang menawarkan min. pembelian untuk mendapatkan Gratis Ongkir yang lebih besar kepada Pembeli dibandingkan Penjual Gratis Ongkir biasa. Bergabung dalam Program Opsional Gratis Ongkir XTRA membantu meningkatkan penjualan secara signifikan.
 

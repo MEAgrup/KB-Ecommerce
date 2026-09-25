@@ -18,19 +18,14 @@ sources:
 Tingkatkan pengalaman berjualan yang lebih baik menggunakan fitur **Asisten Penjual**. Fitur ini membantu Anda memberikan jawaban atas kendala atau informasi yang Anda butuhkan secara lebih rinci serta dilengkapi dengan analisis data, diagnosa, serta rekomendasi langkah yang perlu Anda lakukan untuk perbaikan pada toko Anda.
 
 
-06-04-2026
-
-Tingkatkan pengalaman berjualan yang lebih baik menggunakan fitur **Asisten Penjual**. Fitur ini membantu Anda memberikan jawaban atas kendala atau informasi yang Anda butuhkan secara lebih rinci serta dilengkapi dengan analisis data, diagnosa, serta rekomendasi langkah yang perlu Anda lakukan untuk perbaikan pada toko Anda.
-
-  
 
 Fitur Asisten Penjual dapat diakses melalui **Seller Centre** dan **aplikasi Shopee** dengan cara berikut:
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
   
 
-  - **\*\*Aplikasi Shopee\*\***
+  - **Aplikasi Shopee**
 
   
 

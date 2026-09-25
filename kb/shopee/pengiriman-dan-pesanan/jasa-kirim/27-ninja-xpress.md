@@ -18,9 +18,6 @@ sources:
 **Jenis Layanan Jasa Kirim Ninja Xpress**
 
 
-05-08-2026
-
-**Jenis Layanan Jasa Kirim Ninja Xpress**
 
 Ninja Xpress merupakan[ jasa kirim didukung Shopee](https://seller.shopee.co.id/edu/article/3384). Jika Penjual mengaktifkan jasa kirim Ninja Xpress, maka pengiriman pesanan hanya dapat dilakukan dengan metode *pick up*. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
@@ -82,8 +79,8 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
 
 |  |  |
 | :-: | :-: |
-| \*\*KENDALA\*\* | \*\*SOLUSI\*\* |
-| \*\*Apa yang harus saya lakukan jika terdapat notifikasi paket gagal dikembalikan karena alamat Penjual tidak ditemukan/tidak dapat dihubungi?\*\*  | Untuk mengetahui lokasi pengembalian paket. silakan hubungi\[ Customer Service Ninja Xpress\](https://seller.shopee.co.id/edu/article/14227). Anda diberikan batas waktu hingga 7x24 jam untuk mengambil paket tersebut. Jika melewati batas waktu, maka paket akan dimusnahkan  |
+| **KENDALA** | **SOLUSI** |
+| **Apa yang harus saya lakukan jika terdapat notifikasi paket gagal dikembalikan karena alamat Penjual tidak ditemukan/tidak dapat dihubungi?**  | Untuk mengetahui lokasi pengembalian paket. silakan hubungi\[ Customer Service Ninja Xpress\](https://seller.shopee.co.id/edu/article/14227). Anda diberikan batas waktu hingga 7x24 jam untuk mengambil paket tersebut. Jika melewati batas waktu, maka paket akan dimusnahkan  |
 
   
 

@@ -18,9 +18,6 @@ sources:
 **Verifikasi Data Identitas Toko**
 
 
-22-07-2026
-
-**Verifikasi Data Identitas Toko**
 
 Verifikasi Data Identitas Toko adalah proses verifikasi akun toko menggunakan Kartu Tanda Penduduk (KTP) untuk akun milik individu atau NIB (Nomor Induk Berusaha) untuk akun milik Badan Usaha (PT/CV).
 
@@ -40,12 +37,12 @@ Shopee mewajibkan pemilik akun yang ingin membuka/sudah memiliki toko di Shopee 
 
 1\. Lakukan Verifikasi Data Identitas Toko dengan menggunakan dokumen identitas sesuai dengan pemilik akun (Individu/Badan Usaha). Proses verifikasi dilakukan melalui aplikasi Shopee atau aplikasi Shopee Seller Centre dan dapat diakses melalui:
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
   
 
-  - **\*\*Aplikasi Shopee\*\***  
-      - **\*\*Individu\*\***
+  - **Aplikasi Shopee**  
+      - **Individu**
 
 ⚠️ **Catatan**
 
@@ -54,7 +51,7 @@ Shopee mewajibkan pemilik akun yang ingin membuka/sudah memiliki toko di Shopee 
 
   
 
-  - **\*\*Badan Usaha (PT/CV)\*\***
+  - **Badan Usaha (PT/CV)**
 
 ⚠️ **Catatan**
 
@@ -96,7 +93,7 @@ Berikut persyaratan mengajukan perubahan data identitas toko, yaitu:
 
 Untuk melakukan perubahan Data Identitas Toko, Anda dapat mengakses melalui:
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
   
   
@@ -109,9 +106,9 @@ Untuk melakukan perubahan Data Identitas Toko, Anda dapat mengakses melalui:
   
   
 
-  - **\*\*Aplikasi Shopee\*\***
+  - **Aplikasi Shopee**
 
-  - **\*\*Aplikasi Shopee Seller Centre\*\***
+  - **Aplikasi Shopee Seller Centre**
 
 ⚠️ **Catatan**
 

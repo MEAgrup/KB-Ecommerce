@@ -18,9 +18,6 @@ sources:
 **Mencetak dan menempelkan resi pada paket**
 
 
-13-02-2026
-
-**Mencetak dan menempelkan resi pada paket**
 
 Setelah Anda mengemas pesanan, Anda harus menempel/melampirkan resi dengan aman pada bagian luar paket dan pastikan *barcode* dapat terlihat jelas oleh pihak jasa kirim.
 
@@ -44,7 +41,7 @@ Berikut cara mencetak resi otomatis:
 **Melalui Seller Centre**
 
 **  
-****Melalui aplikasi Shopee** 
+**Melalui aplikasi Shopee** 
 
 Pesanan yang sudah dikonfirmasi pengaturan dan metode pengirimannya secara otomatis akan mempunyai nomor resi pada label pengiriman, tetapi masih dengan status PerluDikirim. Status pesanan akan berubah ketika paket sudah diserahkan ke pihak jasa kirim.
 

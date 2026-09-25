@@ -18,9 +18,6 @@ sources:
 **Syarat dan Kriteria Penjual Flash Sale Toko Saya**
 
 
-17-03-2026
-
-**Syarat dan Kriteria Penjual Flash Sale Toko Saya**
 
 Akses fitur Flash Sale Toko Saya terbuka untuk seluruh Penjual yang memenuhi kriteria di bawah ini:
 

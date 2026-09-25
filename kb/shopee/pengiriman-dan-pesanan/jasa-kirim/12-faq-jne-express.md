@@ -18,9 +18,6 @@ sources:
 **1. Apa perbedaan JNE Online Booking (JOB) dengan JNE Reguler?**
 
 
-19-03-2025
-
-**1. Apa perbedaan JNE Online Booking (JOB) dengan JNE Reguler?**
 
 Perbedaannya terletak pada pembayaran ongkos kirim. JNE Online Booking (JOB) merupakan layanan yang digunakan untuk JNE Reguler (Non-Cashless). Untuk JNE Online Booking (JOB), Penjual tetap harus membayar ongkos kirim ke agen, namun untuk JNE Reguler, Penjual tidak perlu membayar ongkos kirim ke agen secara tunai (*Cashless*).
 
@@ -44,7 +41,7 @@ Ya, jika Anda tidak ingin menggunakan layanan *pick up*, opsi antar ke counter t
 
   
 
-**5. Apakah terdapat minimum jumlah paket untuk melakukan** ***pick up*** **pesanan menggunakan jasa kirim JNE Express?**
+**5. Apakah terdapat minimum jumlah paket untuk melakukan** **pick up** **pesanan menggunakan jasa kirim JNE Express?**
 
 Tidak ada minimum jumlah paket untuk *pick up* pesanan oleh agen JNE Express. Ketentuan ini berlaku untuk semua agen JNE Express.
 
@@ -62,7 +59,7 @@ Pengiriman berat paket dapat dilakukan dengan minimum \<1kg akan tetapi untuk bi
 
   
 
-**7. Apa yang dapat saya lakukan apabila agen JNE Express saya terlambat atau tidak melakukan** ***pick up*****?**
+**7. Apa yang dapat saya lakukan apabila agen JNE Express saya terlambat atau tidak melakukan** **pick up**?**
 
 Apabila mengalami kendala tersebut, Anda dapat *drop off* barang ke counter dengan menginformasikan resi dari Shopee ke Agen JNE Express. Atau Anda dapat menghubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) dengan menginformasikan no. resi pengiriman, nomor telepon yang dapat dihubungi, serta rincian alamat *pick up*.
 

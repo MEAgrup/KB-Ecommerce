@@ -18,11 +18,6 @@ sources:
 **Tingkatkan Keamanan Akun dengan Mengatur Verifikasi Telepon, Email & Password**
 
 
-27-02-2023
-
-**Tingkatkan Keamanan Akun dengan Mengatur Verifikasi Telepon, Email & Password**
-
-  
 
 Anda dapat mengatur metode verifikasi melalui halaman **Profil Saya** di halaman **Pengaturan Akun** pada aplikasi Shopee.
 

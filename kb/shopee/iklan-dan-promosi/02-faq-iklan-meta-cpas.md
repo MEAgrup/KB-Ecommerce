@@ -18,9 +18,6 @@ sources:
 **FAQ Umum**
 
 
-23-07-2026
-
-**FAQ Umum**
 
 **1. Di mana iklan saya akan ditampilkan?**
 
@@ -28,7 +25,7 @@ Iklan Anda akan ditampilkan di halaman utama di Facebook, dan Instagram.
 
   
 
-**2. Dapatkah saya menggunakan format iklan lain selain** ***banner*****?**
+**2. Dapatkah saya menggunakan format iklan lain selain** **banner**?**
 
 Tidak, hanya format *banner* yang tersedia untuk Iklan Meta di Seller Centre untuk saat ini.
 
@@ -161,7 +158,7 @@ Tidak, Anda tidak dapat menggunakan Saldo Penjual untuk Iklan Meta.
 
   
 
-**2. Bisakah saya mendapatkan pengembalian dana dari** ***top up*****?**
+**2. Bisakah saya mendapatkan pengembalian dana dari** **top up**?**
 
 *Top up* tidak dapat dikembalikan setelah masuk ke Saldo Iklan Meta Anda.
 
@@ -183,13 +180,13 @@ Tidak, **Saldo Iklan Meta** yang Anda beli tidak memiliki tanggal kedaluwarsa.
 
   
 
-**6. Apakah** ***top up*** **Saldo Iklan Meta sama dengan Saldo Iklan Shopee? Dapatkah saya menggunakan dana yang sama untuk kedua jenis iklan tersebut?**
+**6. Apakah** **top up** **Saldo Iklan Meta sama dengan Saldo Iklan Shopee? Dapatkah saya menggunakan dana yang sama untuk kedua jenis iklan tersebut?**
 
 Saldo Iklan Meta terpisah dari Saldo Iklan Shopee. Dana yang sama tidak dapat digunakan untuk kedua jenis iklan.
 
   
 
-**7. Apakah riwayat transaksi** ***top up*** **yang dibuat hanya untuk Iklan Meta?**
+**7. Apakah riwayat transaksi** **top up** **yang dibuat hanya untuk Iklan Meta?**
 
 Ya, riwayat transaksi Saldo Iklan Meta hanya untuk transaksi yang dilakukan pada Iklan Meta. Riwayat transaksi Iklan Shopee dapat dilihat di halaman[ Tagihan Biaya](https://seller.shopee.co.id/portal/marketing/pas/account).
 

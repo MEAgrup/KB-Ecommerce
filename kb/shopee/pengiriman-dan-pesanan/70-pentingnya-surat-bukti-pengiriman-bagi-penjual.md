@@ -18,9 +18,6 @@ sources:
 **Apa itu Surat Bukti Pengiriman?**
 
 
-03-02-2023
-
-**Apa itu Surat Bukti Pengiriman?**
 
 Dalam pengiriman barang, terdapat istilah yang sering disebut yaitu Manifes. Manifes adalah dokumen yang berisikan informasi mengenai pengiriman barang atau muatan dari moda transportasi yang digunakan.
 

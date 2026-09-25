@@ -18,9 +18,6 @@ sources:
 **Apa Itu Program Nominasi Pintar?**
 
 
-17-07-2026
-
-**Apa Itu Program Nominasi Pintar?**
 
 Program Nominasi Pintar adalah program yang memungkinkan Anda untuk mengatur produk dan **Harga Terendah Promo** ke berbagai kampanye di Shopee secara sekaligus hanya dengan sekali nominasi. Produk yang memenuhi syarat akan secara otomatis dinominasikan pada **Promo Produk & Voucher Shopee**. Sistem ini memastikan produk Anda dinominasikan untuk promosi yang paling berdampak untuk memaksimalkan eksposur dan potensi penjualan.
 
@@ -142,11 +139,11 @@ Produk yang sudah termasuk dalam promosi yang sedang berlangsung akan tetap akti
 
 Untuk membantu Anda mengelola nominasi dengan lebih optimal, berikut beberapa hal yang perlu diperhatikan:
 
-  - **\*\*Mengelola daftar produk\*\***
+  - **Mengelola daftar produk**
 
 Anda dapat menambahkan atau menghapus produk, mengaktifkan/menonaktifkan variasi, dan memperbarui **Harga Terendah Promo** kapan saja di halaman Program Nominasi Pintar. Perubahan hanya akan berlaku untuk Nominasi Pintar di masa mendatang. Produk yang sudah dinominasikan dalam sesi promosi yang ada tidak akan terpengaruh.
 
-  - **\*\*Memeriksa promosi yang dinominasikan secara otomatis\*\***
+  - **Memeriksa promosi yang dinominasikan secara otomatis**
 
 Anda akan menerima notifikasi di Seller Centre atau email terdaftar saat produk dinominasikan secara otomatis untuk suatu promosi. Produk tersebut dapat diubah atau dihapus sesuai kebutuhan.
 
@@ -161,7 +158,7 @@ Anda juga dapat memeriksa **Riwayat Nominasi** di halaman Program Nominasi Pinta
   - **Waktu** aktivitas dilakukan
   - **Aksi** untuk melihat rincian lebih lanjut
 
-  - **\*\*Meninjau performa\*\***
+  - **Meninjau performa**
 
 Tinjau performa produk yang Anda nominasikan secara otomatis dengan melihat metrik performa yang tersedia: **Penjualan**, **Produk Terjual**, **Pesanan**, dan **Pembeli**. Anda dapat mem-filter berdasarkan rentang tanggal untuk menganalisis performa selama periode tertentu.
 

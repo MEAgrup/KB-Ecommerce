@@ -18,9 +18,6 @@ sources:
 Membuat Profil Toko yang Menarik
 
 
-13-01-2026
-
-Membuat Profil Toko yang Menarik
 
 Di halaman **Profil Toko** terdapat tiga elemen penting yang dapat mendorong Pembeli untuk menelusuri toko Anda.
 
@@ -152,7 +149,7 @@ Nama toko yang profesional dapat membantu Anda dalam meningkatkan kepercayaan Pe
 Nama toko yang tidak tepat/tidak pantas tersebut ditandai dengan:
 
 1.  **Berisi kata-kata vulgar, terlarang, menghina, atau kata-kata sensitif**. Contoh: toko\_bajingan, toko\_cabul, dll.
-2.  **Berisi nama** ***platform***. Contoh: my\_shopee\_shop, myshopeemall, shopeesupermarket\_shop, dll.
+2.  **Berisi nama** **platform**. Contoh: my\_shopee\_shop, myshopeemall, shopeesupermarket\_shop, dll.
 3.  **Menggunakan kata kunci merek yang resmi secara tidak tepat untuk toko tidak resmi**. Contoh: official\_apple\_store, my\_huawei\_shop\_official, my\_xiaomi\_flagship, dll.
 4.  **Berisi nomor handphone**. Contoh: 08123456789shop, 000628123456789a, a0812b3456c789, dll.
 

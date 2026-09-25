@@ -18,9 +18,6 @@ sources:
 Toko Anda mungkin telah dinonaktifkan atau menjadi tidak aktif karena tidak terdapat aktivitas Penjual apapun selama 90 hari kalender atau lebih.
 
 
-13-03-2023
-
-Toko Anda mungkin telah dinonaktifkan atau menjadi tidak aktif karena tidak terdapat aktivitas Penjual apapun selama 90 hari kalender atau lebih.
 
 Anda harus melakukan setidaknya aktivitas berikut agar toko Anda dianggap aktif:
 

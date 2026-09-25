@@ -18,9 +18,6 @@ sources:
 **Apa itu Shopee Service Partner?**
 
 
-12-08-2026
-
-**Apa itu Shopee Service Partner?**
 
 Shopee Service Partner adalah *Independent Software Vendors* (ISV) atau vendor *software* pihak ketiga yang menyediakan operasional menyeluruh dan bersifat komersial kepada Penjual Shopee.
 

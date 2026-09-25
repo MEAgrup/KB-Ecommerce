@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Shopee Games Voucher?**
 
 
-17-03-2026
-
-**Apa itu Program Shopee Games Voucher?**
 
 Program Shopee Games Voucher memungkinkan Anda untuk mempromosikan produk dan toko Anda dengan membuat Voucher Toko yang dapat diklaim oleh Pengguna di halaman Shopee Games. Shopee Games Voucher dapat diklaim dengan waktu dan kuota yang terbatas.
 

@@ -18,9 +18,6 @@ sources:
 **Apa itu Produk Makanan, Minuman, dan Obat, Vitamin dan/atau Suplemen Palsu atau yang Dikemas Ulang?**
 
 
-10-08-2026
-
-**Apa itu Produk Makanan, Minuman, dan Obat, Vitamin dan/atau Suplemen Palsu atau yang Dikemas Ulang?**
 
 Produk yang telah dimanipulasi secara sengaja, seperti penggantian, penambahan, perusakan, *repackaging* (pengemasan ulang), serta penyajian informasi yang salah baik pada isi produk maupun kemasannya.
 
@@ -28,7 +25,7 @@ Produk yang telah dimanipulasi secara sengaja, seperti penggantian, penambahan, 
 
 Sesuai dengan[ Kebijakan Barang yang dilarang dan dibatasi di Shopee](https://help.shopee.co.id/portal/article/71189):
 
-  - Shopee melarang keras seluruh aktivitas jual beli maupun promosi yang berhubungan dengan barang-barang yang berpotensi melanggar, yang termasuk namun tidak terbatas pada, **replika, barang palsu, tiruan produk atau barang tanpa izin yang mungkin membahayakan Pengguna,** ***repackaging*** **(pengemasan ulang), melanggar hak cipta, merek dagang tertentu, atau hak kekayaan intelektual (HAKI) lainnya milik pihak ketiga**.
+  - Shopee melarang keras seluruh aktivitas jual beli maupun promosi yang berhubungan dengan barang-barang yang berpotensi melanggar, yang termasuk namun tidak terbatas pada, **replika, barang palsu, tiruan produk atau barang tanpa izin yang mungkin membahayakan Pengguna,** **repackaging** **(pengemasan ulang), melanggar hak cipta, merek dagang tertentu, atau hak kekayaan intelektual (HAKI) lainnya milik pihak ketiga**.
   - Shopee berhak memberikan sanksi kepada Penjual berupa poin penalti hingga **pembatasan akun** jika tidak memenuhi syarat dan ketentuan yang berlaku.
 
   

@@ -18,9 +18,6 @@ sources:
 **Tentang Keterlambatan Pengiriman & Pesanan Tidak Terselesaikan**
 
 
-28-07-2026
-
-**Tentang Keterlambatan Pengiriman & Pesanan Tidak Terselesaikan**
 
 Keterlambatan pengiriman adalah ketika Anda mengirimkan pesanan setelah masa pengemasan. Cek[ masa pengemasan](https://seller.shopee.co.id/edu/article/2011) untuk produk pre-order dan non pre-order untuk memastikan pengiriman pesanan tepat waktu.
 

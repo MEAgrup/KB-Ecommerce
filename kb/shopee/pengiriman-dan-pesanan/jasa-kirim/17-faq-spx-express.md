@@ -15,18 +15,15 @@ sources:
 # FAQ SPX Express
 
 ## Ringkasan
-**1. Bagaimana cara mengetahui opsi** ***pick up*** **jasa kirim SPX Express telah aktif?**
+**1. Bagaimana cara mengetahui opsi** **pick up** **jasa kirim SPX Express telah aktif?**
 
 
-12-05-2026
-
-**1. Bagaimana cara mengetahui opsi** ***pick up*** **jasa kirim SPX Express telah aktif?**
 
 Jika Anda memenuhi kriteria untuk *pick up* dengan jasa kirim SPX Express, Anda dapat melakukan pengaturan *pick up* melalui Seller Centre.
 
   
 
-**2. Bagaimana cara mengetahui opsi** ***pick up*** **untuk pengiriman SPX Express saya dihapus?**
+**2. Bagaimana cara mengetahui opsi** **pick up** **untuk pengiriman SPX Express saya dihapus?**
 
 Jika Anda tidak memenuhi kriteria selama dua bulan berturut-turut, Anda tidak dapat melakukan pengaturan waktu *pick up* melalui Seller Centre.
 
@@ -77,7 +74,7 @@ Untuk menghindari penghapusan layanan *pick up*, pastikan rata-rata pesanan hari
 
   
 
-**5. Jika saya tidak memenuhi syarat untuk di** ***pick up*** **tetapi memiliki pesanan berukuran besar (di luar kapasitas pengantaran jasa kirim) maka apa yang dapat saya lakukan?**
+**5. Jika saya tidak memenuhi syarat untuk di** **pick up** **tetapi memiliki pesanan berukuran besar (di luar kapasitas pengantaran jasa kirim) maka apa yang dapat saya lakukan?**
 
 Shopee memahami bahwa Penjual mungkin menjual barang berukuran besar dan mengalami kesulitan untuk mengembalikan barang tersebut. Shopee akan meninjau produk Anda dan membuat pengecualian agar toko Anda memiliki akses ke layanan *pick up*. Penjual dapat menghubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) dan Shopee akan meninjau lebih lanjut.
 

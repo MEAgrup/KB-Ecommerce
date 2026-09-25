@@ -18,9 +18,6 @@ sources:
 **Mengenal Layanan Pengiriman Instant & Instant Prioritas**
 
 
-06-08-2026
-
-**Mengenal Layanan Pengiriman Instant & Instant Prioritas**
 
 Tipe layanan pengiriman Instant dan Instant Prioritas merupakan opsi pengiriman tercepat yang memastikan paket tiba di ke alamat tujuan dalam hitungan menit hingga maks. 4 jam sejak paket di-*pickup* oleh kurir.
 

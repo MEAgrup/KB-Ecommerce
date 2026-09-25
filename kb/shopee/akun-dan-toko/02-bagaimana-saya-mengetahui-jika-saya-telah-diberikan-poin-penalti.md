@@ -18,9 +18,6 @@ sources:
 Saat Anda telah diberikan poin penalti untuk pelanggaran, Anda akan mendapat notifikasi pada hari yang sama. Anda dapat memeriksa notifikasi pada Notifikasi Toko melalui *tab* **Notifikasi** di aplikasi
 
 
-01-09-2022
-
-Saat Anda telah diberikan poin penalti untuk pelanggaran, Anda akan mendapat notifikasi pada hari yang sama. Anda dapat memeriksa notifikasi pada Notifikasi Toko melalui *tab* **Notifikasi** di aplikasi 
 
 Shopee, atau melalui *icon* notifikasi di sudut kanan atas Seller Centre.
 

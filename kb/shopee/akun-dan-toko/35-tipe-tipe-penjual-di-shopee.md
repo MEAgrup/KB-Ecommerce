@@ -38,7 +38,7 @@ Pelajari lebih lanjut tentang[ tips memulai berjualan *online* agar produk di to
 
   
 
-**B****erjualan di Shopee sebagai Reseller**
+**B**erjualan di Shopee sebagai Reseller**
 
 *Reseller* adalah model bisnis di mana seseorang membeli barang dengan tujuan untuk menjualnya kembali. Di Shopee, Anda dapat menjalankan model bisnis menjadi seorang *reseller*.
 

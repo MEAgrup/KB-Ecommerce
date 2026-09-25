@@ -18,9 +18,6 @@ sources:
 Anda dapat memasukkan *link* produk Shopee di **Keranjang Instagram Feeds (Post/Carousel)** dan **Reels**. Dengan fitur ini, Penonton dapat langsung klik *link* dan berbelanja produk Anda tanpa perlu keluar dari aplikasi atau mencari *link* secara manual.
 
 
-05-08-2026
-
-Anda dapat memasukkan *link* produk Shopee di **Keranjang Instagram Feeds (Post/Carousel)** dan **Reels**. Dengan fitur ini, Penonton dapat langsung klik *link* dan berbelanja produk Anda tanpa perlu keluar dari aplikasi atau mencari *link* secara manual.
 
 Anda dapat menambahkan *link* produk pada konten yang akan di-posting atau yang sudah di-post.
 

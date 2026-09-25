@@ -18,9 +18,6 @@ sources:
 **FAQ Umum**
 
 
-21-07-2026
-
-**FAQ Umum**
 
 **1. Bagaimana cara sistem Shopee menghitung ongkos kirim?**
 
@@ -84,7 +81,7 @@ Jika Penjual tidak mengisi data berat/ukuran paket atau terdapat perbedaan denga
   - Pastikan produk pesanan sudah dikemas\*
   - Siapkan alat ukur, seperti meteran atau penggaris
   - Ukur produk dari 3 (tiga) sisi yang berbeda (panjang, lebar, dan tinggi)
-  - Saat mengukur, pastikan Anda mengukur kemasan produk menggunakan jarak terpanjang dari masing-masing sisi\*\*
+  - Saat mengukur, pastikan Anda mengukur kemasan produk menggunakan jarak terpanjang dari masing-masing sisi**
   - Masukan hasil pengukuran tersebut pada informasi **Ukuran Paket** di halaman produk
 
   
@@ -93,7 +90,7 @@ Jika Penjual tidak mengisi data berat/ukuran paket atau terdapat perbedaan denga
 
 \*Pengukuran ukuran paket dan pengisian berat harus dilakukan **setelah produk dikemas**, agar sesuai dengan standar jasa kirim dan sistem Shopee.
 
-\*\* 
+** 
 
 **4. Bagaimana proses perhitungan ongkos kirim saat checkout?**
 

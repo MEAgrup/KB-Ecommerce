@@ -18,9 +18,6 @@ sources:
 **1. Berapa banyak opsi jasa kirim yang dapat saya aktifkan?**
 
 
-12-09-2023
-
-**1. Berapa banyak opsi jasa kirim yang dapat saya aktifkan?**
 
 Anda dapat mengaktifkan tipe layanan pengiriman dan jasa kirim yang tersedia di Shopee pada halaman[ Pengaturan Pengiriman](https://seller.shopee.co.id/portal/settings/shop/logistics) seperti **Jasa Kirim yang Didukung Shopee** dan **Jasa Kirim Lainnya**.
 

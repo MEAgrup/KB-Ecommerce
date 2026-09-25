@@ -18,9 +18,6 @@ sources:
 **Apa itu Shopee Pilih Lokal?**
 
 
-09-07-2026
-
-**Apa itu Shopee Pilih Lokal?**
 
 Shopee Pilih Lokal adalah program yang bertujuan untuk menghadirkan pilihan terbaik dari *brand*-*brand* lokal dan membantu Penjual UMKM dalam mengembangkan usahanya agar terus maju dan berdaya.
 
@@ -46,10 +43,10 @@ Dengan mengikuti Program Shopee Pilih Lokal, Penjual dapat memperoleh berbagai k
 
 |  |  |
 | :-: | :-: |
-| \*\*KEUNTUNGAN BERGABUNG PROGRAM SHOPEE PILIH LOKAL\*\* |  |
-|  | \*\*\*Tag\*\*\* \*\*produk\*\* 'Pilih Lokal' untukmeningkatkan kunjungan &penjualan toko |
-|  | \*\*Voucher spesial Gratis Ongkir XTRA\*\*\*\*& diskon\*\* untuk produk 'Pilih Lokal' |
-|  | \*\*\*Exposure\*\*\* di halaman Shopee PilihLokal |
+| **KEUNTUNGAN BERGABUNG PROGRAM SHOPEE PILIH LOKAL** |  |
+|  | **\*Tag**\* **produk** 'Pilih Lokal' untukmeningkatkan kunjungan &penjualan toko |
+|  | **Voucher spesial Gratis Ongkir XTRA**& diskon** untuk produk 'Pilih Lokal' |
+|  | **\*Exposure**\* di halaman Shopee PilihLokal |
 
   
 

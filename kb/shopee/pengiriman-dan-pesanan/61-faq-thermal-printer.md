@@ -18,9 +18,6 @@ sources:
 **1. Apakah resi akan ditampilkan bersama dengan daftar pesanan jika saya mengaktifkan Cetak Mode Thermal di Seller Centre?**
 
 
-28-09-2022
-
-**1. Apakah resi akan ditampilkan bersama dengan daftar pesanan jika saya mengaktifkan Cetak Mode Thermal di Seller Centre?**
 
 Ya. Saat **Cetak Mode Thermal** diaktifkan ataupun tidak, resi dan daftar pesanan akan ditampilkan.
 
@@ -38,6 +35,6 @@ Ya. Anda dapat[ mengaktifkan/menonaktifkan **Cetak Mode Thermal**](https://selle
 
   
 
-**4. Di mana saya dapat membeli** ***thermal printer*** **dan kertas** ***thermal*****?**
+**4. Di mana saya dapat membeli** **thermal printer** **dan kertas** **thermal**?**
 
 Anda dapat membeli[ *thermal printer*](https://shopee.co.id/search?keyword=thermal%20printer) dan[ *kertas thermal*](https://shopee.co.id/search?keyword=kertas%20thermal) baik secara *online* maupun di toko langsung.

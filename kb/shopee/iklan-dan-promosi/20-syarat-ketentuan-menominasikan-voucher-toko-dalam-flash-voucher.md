@@ -18,9 +18,6 @@ sources:
 **Apa Kriteria Penjual untuk Menominasikan Voucher Toko dalam Program Flash Voucher?**
 
 
-17-03-2026
-
-**Apa Kriteria Penjual untuk Menominasikan Voucher Toko dalam Program Flash Voucher?**
 
 1.  Voucher Toko yang dinominasikan memenuhi syarat promo Flash Voucher yang dipilih (Contoh: maksimum diskon).
 2.  Toko berstatus aktif dalam 7 hari terakhir dan tidak sedang mengaktifkan fitur Mode Libur.

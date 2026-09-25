@@ -18,9 +18,6 @@ sources:
 **Memantau Flash Sale Shopee yang Sedang Berlangsung**
 
 
-10-08-2026
-
-**Memantau Flash Sale Shopee yang Sedang Berlangsung**
 
 Jika produk Anda telah disetujui, Anda dapat melihat slot Flash Sale Shopee yang Anda ikuti di bawah *tab* **Dinominasikan**. *Banner* promo akan menampilkan perhitungan waktu mundur hingga promo berakhir.
 

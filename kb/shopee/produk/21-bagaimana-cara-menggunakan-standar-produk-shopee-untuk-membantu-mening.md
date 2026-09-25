@@ -18,11 +18,6 @@ sources:
 Standar Produk Shopee adalah fitur yang dapat membantu Anda mengisi informasi produk yang berkualitas dan terstandarisasi oleh Shopee secara otomatis, sehingga Shopee dapat lebih mudah merekomendasikan produk Anda kepada Pembeli.
 
 
-29-01-2026
-
-Standar Produk Shopee adalah fitur yang dapat membantu Anda mengisi informasi produk yang berkualitas dan terstandarisasi oleh Shopee secara otomatis, sehingga Shopee dapat lebih mudah merekomendasikan produk Anda kepada Pembeli.
-
-  
 
 Dengan fitur Standar Produk Shopee, Anda dapat:
 
@@ -96,9 +91,9 @@ Anda dapat melihat produk yang memenuhi kriteria Standar Produk Shopee di Seller
 
 Arahkan kursor pada tombol **Terapkan** untuk melihat rekomendasi Standar Produk Shopee. Pilih **Terapkan Sekarang** untuk membandingkan beberapa informasi dari produk Anda dengan informasi Standar Produk Shopee, seperti:
 
-  - **\*\*Nama dan Deskripsi Produk\*\***
-  - **\*\*Variasi\*\***
-  - **\*\*Spesifikasi\*\***
+  - **Nama dan Deskripsi Produk**
+  - **Variasi**
+  - **Spesifikasi**
 
   
 

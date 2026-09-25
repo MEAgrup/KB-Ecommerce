@@ -18,9 +18,6 @@ sources:
 **Apa itu Fitur Sampel Gratis di Affiliate Marketing Solution?**
 
 
-20-07-2026
-
-**Apa itu Fitur Sampel Gratis di Affiliate Marketing Solution?**
 
 Fitur Sampel Gratis adalah fitur untuk Penjual memberikan sampel produk gratis kepada Affiliate agar dapat lebih memahami produk dan menghasilkan konten rekomendasi yang lebih menarik dan informatif.
 
@@ -68,7 +65,7 @@ Pilih Tambah Massal di *tab* **Belum menambahkan produk** untuk komisi baru atau
 
 **Sampel Gratis untuk Affiliate Spesifik**
 
-Anda dapat mengirimkan produk sampel secara gratis kepada ***Affiliate*** **tertentu** melalui Seller Centre dan aplikasi Shopee.
+Anda dapat mengirimkan produk sampel secara gratis kepada **Affiliate** **tertentu** melalui Seller Centre dan aplikasi Shopee.
 
   
 
@@ -122,16 +119,16 @@ Berikut adalah tabel informasi dan jangka waktu status permintaan untuk Sampel G
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*STATUS\*\* | \*\*DEFINISI\*\* | \*\*JANGKA WAKTU\*\* |
-| \*\*Perlu Disetujui\*\* | Permintaan yang perlu disetujui atau ditolak oleh Penjual. | 3 hari |
-| \*\*Perlu Dikirim\*\* | Permintaan telah disetujui dan produk sampel siap dikirim\\\*. \*\\\*Penjual harus mengirimkan produk sampel terlebih dahulu sesuai jasa pengiriman yang dipilih, dan memasukkan nomor resi pengiriman yang diperoleh (untuk resi manual) pada rincian permintaan Perlu Dikirim.\* | 5 hari |
-| \*\*Dikirim\*\* | Penjual telah mengirim produk sampel dan menunggu konfirmasi dari \*Affiliate\\\*.\* \*\\\*Apabila tidak ada tindakan dari Affiliate hingga jangka waktu yang ditentukan, maka konfirmasi terhadap penerimaan produk dianggap diterima.\* | 7 hari |
-| \*\*Menunggu Diposting\*\* | \*Affiliate\* diwajibkan untuk membuat promosi dan meng-\*upload\* bukti posting pada permintaan Sampel Gratis. | 7 hari |
-| \*\*Selesai\*\* | \*Affiliate\* telah meng-\*upload\* bukti posting. | \\- |
-| \*\*Tidak Terpenuhi\*\* | \*Affiliate\* tidak meng-\*upload\* bukti posting hingga tenggat waktu. | \\- |
-| \*\*Ditolak\*\* | Penjual menolak/tidak menyetujui permintaan hingga jangka waktu yang ditentukan. | \\- |
-| \*\*Pembatalan\*\* | Penjual tidak mengatur pengiriman produk hingga jangka waktu yang ditentukan. | \\- |
-| \*\*Dibatalkan\*\* | Sistem membatalkan permintaan karena alasan tertentu. | \\- |
+| **STATUS** | **DEFINISI** | **JANGKA WAKTU** |
+| **Perlu Disetujui** | Permintaan yang perlu disetujui atau ditolak oleh Penjual. | 3 hari |
+| **Perlu Dikirim** | Permintaan telah disetujui dan produk sampel siap dikirim\\\*. \*\\\*Penjual harus mengirimkan produk sampel terlebih dahulu sesuai jasa pengiriman yang dipilih, dan memasukkan nomor resi pengiriman yang diperoleh (untuk resi manual) pada rincian permintaan Perlu Dikirim.\* | 5 hari |
+| **Dikirim** | Penjual telah mengirim produk sampel dan menunggu konfirmasi dari \*Affiliate\\\*.\* \*\\\*Apabila tidak ada tindakan dari Affiliate hingga jangka waktu yang ditentukan, maka konfirmasi terhadap penerimaan produk dianggap diterima.\* | 7 hari |
+| **Menunggu Diposting** | \*Affiliate\* diwajibkan untuk membuat promosi dan meng-\*upload\* bukti posting pada permintaan Sampel Gratis. | 7 hari |
+| **Selesai** | \*Affiliate\* telah meng-\*upload\* bukti posting. | \\- |
+| **Tidak Terpenuhi** | \*Affiliate\* tidak meng-\*upload\* bukti posting hingga tenggat waktu. | \\- |
+| **Ditolak** | Penjual menolak/tidak menyetujui permintaan hingga jangka waktu yang ditentukan. | \\- |
+| **Pembatalan** | Penjual tidak mengatur pengiriman produk hingga jangka waktu yang ditentukan. | \\- |
+| **Dibatalkan** | Sistem membatalkan permintaan karena alasan tertentu. | \\- |
 
   
 
@@ -151,11 +148,11 @@ Produk sampel gratis yang dikirim menggunakan SPX Express ataupun jasa kirim lai
 
 |  |  |
 | :-: | :-: |
-| \*\*SPX EXPRESS\*\* | \*\*JASA KIRIM LAIN\*\* |
-| Penjual \*\*tidak perlu\*\* membayar ongkos kirim di awal saat paket diserahkan pada/di \*pick up\* oleh kurir | Penjual \*\*perlu\*\* membayar ongkos kirim di awal saat paket diserahkan pada/di \*pick up\* oleh kurir |
+| **SPX EXPRESS** | **JASA KIRIM LAIN** |
+| Penjual **tidak perlu** membayar ongkos kirim di awal saat paket diserahkan pada/di \*pick up\* oleh kurir | Penjual **perlu** membayar ongkos kirim di awal saat paket diserahkan pada/di \*pick up\* oleh kurir |
 | Ongkos kirim akan ditarik dari Saldo Penjual setelah status pengiriman sampel gratis telah terkirim. | \\- |
 | Apabila Saldo Penjual tidak mencukupi, maka Shopee akan melakukan pengurangan secara berkala hingga ongkos kirim berhasil dibayarkan. | \\- |
-| Apabila pengurangan secara berkala belum berhasil dilakukan, maka Shopee dapat \*\*membekukan Saldo Penjual\*\* sementara/hingga ongkos kirim terbayarkan. | \\- |
+| Apabila pengurangan secara berkala belum berhasil dilakukan, maka Shopee dapat **membekukan Saldo Penjual** sementara/hingga ongkos kirim terbayarkan. | \\- |
 | Apabila terjadi perbedaan biaya ongkos kirim antara estimasi dan biaya aktual, maka Shopee akan membebankan selisih biaya kepada Penjual melalui pemotongan Saldo Penjual | \\- |
 
   
@@ -181,13 +178,13 @@ Label dibagi menjadi 3 *tag* yaitu **Performa Penjualan Baik**, **Sangat Sesuai*
 
 |  |  |
 | :-: | :-: |
-| \*\*Performa Penjualan Baik\*\* | \*Affiliate\* menghasilkan penjualan yang besar di \*platform\* Shopee (Shopee Live & Shopee Video) secara keseluruhan. |
-| \*\*Sangat Sesuai\*\* | \*Affiliate\* sangat cocok untuk produk yang dipromosikan dari segi kategori produk, \*channel\* promosi, harga, dan target audiens. |
-| \*\*Penyelesaian Sampel Baik\*\* | \*Affiliate\* menunjukkan performa penyelesaian sampel gratis yang baik berdasarkan data riwayat permintaan sampel yang dimiliki. |
+| **Performa Penjualan Baik** | \*Affiliate\* menghasilkan penjualan yang besar di \*platform\* Shopee (Shopee Live & Shopee Video) secara keseluruhan. |
+| **Sangat Sesuai** | \*Affiliate\* sangat cocok untuk produk yang dipromosikan dari segi kategori produk, \*channel\* promosi, harga, dan target audiens. |
+| **Penyelesaian Sampel Baik** | \*Affiliate\* menunjukkan performa penyelesaian sampel gratis yang baik berdasarkan data riwayat permintaan sampel yang dimiliki. |
 
   
 
-Anda juga dapat dengan mudah melihat permintaan Sampel Gratis ***Affiliate*** **yang Diundang**.
+Anda juga dapat dengan mudah melihat permintaan Sampel Gratis **Affiliate** **yang Diundang**.
 
   
 
@@ -239,7 +236,7 @@ Untuk memantau pemenuhan kriteria dan proses pengembalian dana, Anda bisa lihat 
 
   
 
-**Cara** ***Affiliate*** **Mengajukan Sampel Dana Kembali**
+**Cara** **Affiliate** **Mengajukan Sampel Dana Kembali**
 
 *Affiliate* dapat melihat kriteria untuk mendapatkan pengembalian dana melalui halaman **Rincian Sampel**.
 
@@ -249,19 +246,19 @@ Untuk memantau pemenuhan kriteria dan proses pengembalian dana, Anda bisa lihat 
 
 **FAQ Umum**
 
-**1. Bagaimana cara mengirimkan undangan Sampel Gratis ke** ***Affiliate*** **tertentu?**
+**1. Bagaimana cara mengirimkan undangan Sampel Gratis ke** **Affiliate** **tertentu?**
 
 Anda dapat mengirimkan undangan Sampel Gratis melalui[ **Komisi XTRA Khusus**](https://seller.shopee.co.id/edu/article/23306) atau[ **Affiliate Marketplace**](https://seller.shopee.co.id/edu/article/24851) di Seller Centre untuk *Affiliate* tertentu.
 
   
 
-**2. Bagaimana** ***Affiliate*** **dapat melihat undangan Sampel Gratis yang telah dikirimkan oleh Penjual?**
+**2. Bagaimana** **Affiliate** **dapat melihat undangan Sampel Gratis yang telah dikirimkan oleh Penjual?**
 
 *Affiliate* yang telah dipilih untuk bekerja sama dalam fitur Sampel Gratis melalui Affiliate Marketplace akan menerima **undangan Sampel Gratis** pada *dashboard* Shopee Affiliate Program di aplikasi Shopee, sehingga *Affiliate* dapat mengajukan permintaan Sampel Gratis. Produk yang tersedia akan memiliki *tag* "Sampel Gratis".
 
   
 
-**3. Bagaimana saya mengirimkan sampel gratis ke** ***Affiliate*****?**
+**3. Bagaimana saya mengirimkan sampel gratis ke** **Affiliate**?**
 
 Anda dapat mengatur pengiriman produk sampel gratis kepada *Affiliate* menggunakan SPX Express atau jasa kirim lainnya.
 
@@ -273,13 +270,13 @@ Anda perlu menanggung ongkos kirim dari pengiriman Sampel Gratis sesuai dengan[ 
 
   
 
-**5. Apakah saya dapat menggunakan pengiriman dengan metode COD (Bayar di Tempat) untuk mengirimkan Sampel Gratis ke** ***Affiliate*****?**
+**5. Apakah saya dapat menggunakan pengiriman dengan metode COD (Bayar di Tempat) untuk mengirimkan Sampel Gratis ke** **Affiliate**?**
 
 Metode COD (Bayar di Tempat) tidak dapat digunakan untuk pengiriman sampel gratis ke *Affiliate*. Ongkos kirim sampel gratis sepenuhnya ditanggung oleh Penjual, sesuai[ Syarat dan Ketentuan Affiliate Marketing Solution](https://help.shopee.co.id/portal/article/73983).
 
   
 
-**6. Bagaimana saya dapat melihat pesanan yang dihasilkan dari** ***Affiliate*** **yang sudah saya kirimkan produk Sampel Gratis?**
+**6. Bagaimana saya dapat melihat pesanan yang dihasilkan dari** **Affiliate** **yang sudah saya kirimkan produk Sampel Gratis?**
 
 Anda dapat melakukan pengecekan pesanan yang dihasilkan dari promosi *Affiliate* yang sudah dikirimkan produk sampel melalui[ Laporan Konversi](https://seller.shopee.co.id/portal/web-seller-affiliate/conversion_report) dengan langkah berikut:
 
@@ -289,7 +286,7 @@ Anda dapat melakukan pengecekan pesanan yang dihasilkan dari promosi *Affiliate*
 
 Anda dapat mengecek bukti posting dan *channel* yang digunakan *Affiliate* pada halaman Rincian Permintaan yang berstatus **Selesai**.
 
-**8. Apakah Penjual wajib menerima setiap permintaan Sampel Gratis yang diajukan** ***Affiliate*****?**
+**8. Apakah Penjual wajib menerima setiap permintaan Sampel Gratis yang diajukan** **Affiliate**?**
 
 Anda tidak diwajibkan untuk menerima semua permintaan Sampel Gratis. Jika Anda menolak permintaan Sampel Gratis dari *Affiliate*, maka tidak akan mempengaruhi performa Penjual.
 
@@ -299,7 +296,7 @@ Namun, Penjual disarankan untuk menerima dan mengirimkan sampel gratis agar mema
 
   
 
-**9. Apakah** ***Affiliate*** **berkewajiban untuk membuat promosi konten dan memposting ke media sosial?**
+**9. Apakah** **Affiliate** **berkewajiban untuk membuat promosi konten dan memposting ke media sosial?**
 
 Berdasarkan tahapan permintaan Sampel Gratis saat ini, *Affiliate* wajib untuk memposting konten dan melampirkan bukti posting di Permintaan Sampel Gratis.
 
@@ -315,13 +312,13 @@ Ya, Penjual dapat menawarkan Sampel Gratis dan Sampel Dana Kembali untuk produk 
 
   
 
-**2. Bagaimana perhitungan pengembalian dana atas pesanan Sampel Dana Kembali** ***Affiliate*****?**
+**2. Bagaimana perhitungan pengembalian dana atas pesanan Sampel Dana Kembali** **Affiliate**?**
 
 Pengembalian dana akan diproses secara otomatis dari akun Penjual setelah kriteria pengembalian dana terpenuhi. *Affiliate* akan menerima jumlah penuh yang dibayarkan sebelumnya dan komisi *platform* yang dikenakan pada sampel akan dikembalikan ke Penjual.
 
   
 
-**3. Apakah** ***Affiliate*** **tetap dapat menikmati diskon atau promo produk yang sedang berlangsung?**
+**3. Apakah** **Affiliate** **tetap dapat menikmati diskon atau promo produk yang sedang berlangsung?**
 
 Ya, *Affiliate* tetap dapat menikmati diskon atau promo yang berlaku saat membeli sampel produk melalui Sampel Dana Kembali.
 
@@ -335,6 +332,6 @@ Jika *Affiliate* berhasil memenuhi target penjualan, sistem akan melakukan penye
 
   
 
-**5. Apakah pesanan** ***Affiliate*** **akan dicatat sebagai penjualan (Gross Merchandise Value/GMV)?**
+**5. Apakah pesanan** **Affiliate** **akan dicatat sebagai penjualan (Gross Merchandise Value/GMV)?**
 
 Ya, pesanan *Affiliate* akan tetap dihitung sebagai penjualan karena *Affiliate* tetap melakukan pembayaran saat melakukan pembelian.

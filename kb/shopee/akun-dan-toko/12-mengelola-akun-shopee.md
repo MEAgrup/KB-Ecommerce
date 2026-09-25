@@ -18,9 +18,6 @@ sources:
 **Cara Meng-update Username**
 
 
-17-06-2026
-
-**Cara Meng-update Username**
 
 Seluruh Penjual dapat meng-*update* username melalui aplikasi Shopee dan Seller Centre. Anda dapat meng-*update* username sebanyak 1 kali setiap 30 hari. Mohon ingat dan perhatikan bahwa username merupakan identitas toko dan akan dilihat oleh para calon Pembeli.
 
@@ -295,7 +292,7 @@ Saat proses verifikasi data untuk keamanan akun, Anda akan dihadapkan pada maks.
 
 Jika Anda lupa password akun, pilih **Lupa?** sebelum masuk ke Akun Shopee. Anda akan diminta untuk memasukkan **No.HP/Email/Username** yang sudah terdaftar.
 
-  - **\*\*Email\*\***
+  - **Email**
 
 Jika memilih **Kirim OTP via Email**, maka Anda akan menerima kode verifikasi melalui email agar dapat melanjutkan proses perubahan password akun Shopee.
 
@@ -303,7 +300,7 @@ Jika memilih **Kirim OTP via Email**, maka Anda akan menerima kode verifikasi me
   
   
 
-  - **\*\*No.Telepon/No.Handphone\*\***
+  - **No.Telepon/No.Handphone**
 
 Jika memilih **Kirim OTP via No.HP**, maka Anda akan diminta untuk memasukkan kode OTP yang dikirimkan ke no.telepon/no.handphone melalui WhatsApp atau SMS untuk verifikasi perubahan password.
 

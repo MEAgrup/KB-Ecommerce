@@ -18,11 +18,6 @@ sources:
 Mengatur pengiriman mengacu pada pilihan **Antar ke counter** (*drop off*) atau **Pick up** sebagai opsi pengiriman untuk pesanan Anda. Kirimkan pesanan Anda dengan menyerahkan paket ke pihak jasa kirim.
 
 
-10-03-2026
-
-Mengatur pengiriman mengacu pada pilihan **Antar ke counter** (*drop off*) atau **Pick up** sebagai opsi pengiriman untuk pesanan Anda. Kirimkan pesanan Anda dengan menyerahkan paket ke pihak jasa kirim.
-
-  
 
 Anda harus mengatur pengiriman sebelum Anda mengirim pesanan. Keduanya harus dilakukan sebelum[ batas waktu pengiriman](https://seller.shopee.co.id/edu/courseDetail/284?lessonId=133). Jika tidak, pesanan akan dianggap terlambat atau[ dibatalkan otomatis](https://seller.shopee.co.id/edu/article/2014).
 

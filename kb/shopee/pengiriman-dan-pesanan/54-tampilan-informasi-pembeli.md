@@ -18,11 +18,6 @@ sources:
 Dalam upaya untuk menjaga privasi, memastikan keamanan, dan mempertahankan kepercayaan pengguna Shopee, akses yang dimiliki oleh Penjual terhadap informasi pribadi Pembeli akan dibatasi selama proses pemenuhan pesanan.
 
 
-09-02-2026
-
-Dalam upaya untuk menjaga privasi, memastikan keamanan, dan mempertahankan kepercayaan pengguna Shopee, akses yang dimiliki oleh Penjual terhadap informasi pribadi Pembeli akan dibatasi selama proses pemenuhan pesanan.
-
-  
 
 Tampilan informasi Pembeli (berupa nama dan no. handphone) akan disembunyikan dalam seluruh tahap proses pemenuhan pesanan. Hal ini berlaku di Seller Centre, aplikasi Shopee, dan aplikasi lainnya yang Anda gunakan untuk mengelola toko Anda.
 

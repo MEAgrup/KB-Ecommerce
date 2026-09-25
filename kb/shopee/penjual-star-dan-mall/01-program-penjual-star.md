@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Penjual Star+?**
 
 
-16-07-2026
-
-**Apa itu Program Penjual Star+?**
 
 Program Penjual Star+ merupakan program dengan tingkatan lebih tinggi untuk Penjual Star terpilih yang memiliki performa, penjualan, dan operasional yang baik dan telah memberikan pengalaman belanja terbaik kepada Pembeli. Melalui program ini, Penjual Star yang memenuhi kriteria akan mendapatkan keuntungan khusus.
 
@@ -30,13 +27,13 @@ Dengan menjadi Penjual Star+, Anda dapat memperoleh berbagai keuntungan, seperti
 
   
 
-**•** ***Tag*** **Star+**
+**•** **Tag** **Star+**
 
 Anda akan mendapatkan *tag* Star+ yang ditampilkan di toko dan daftar produk Anda. *Tag* Star+ merupakan komitmen terhadap standar kualitas produk dan layanan Anda, di mana ini dapat memberikan jaminan tambahan kepada Pembeli.
 
 |  |  |
 | :-: | :-: |
-| \*\*PROFIL TOKO\*\* | \*\*FOTO PRODUK\*\* |
+| **PROFIL TOKO** | **FOTO PRODUK** |
 |    |    |
 
 **• Filter Pencarian Star+**
@@ -53,11 +50,11 @@ Penjual Star+ dapat mengirim Chat Broadcast melalui[ Layanan Pembeli](https://se
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KUOTA CHAT BROADCAST\*\* | \*\*STAR+\*\* |  |
-| \*\*Kuota\*\* \*\*\*Broadcast\*\*\* | Pengikut atau Pembeli | 2x per minggu |
+| **KUOTA CHAT BROADCAST** | **STAR+** |  |
+| **Kuota** **\*Broadcast**\* | Pengikut atau Pembeli | 2x per minggu |
 | Pengingat Pembelian | 1x per minggu |  |
 | Pengingat Penilaian | 1x per minggu |  |
-| \*\*Kuota Penerima\*\* | Seluruh Grup Chat \*Broadcast\* | 2x jumlah pengikut |
+| **Kuota Penerima** | Seluruh Grup Chat \*Broadcast\* | 2x jumlah pengikut |
 
   
 
@@ -77,7 +74,7 @@ Penjual Star+ dapat meng-*upload* maks. 12.000 produk paling lambat 1 minggu set
 
   
 
-**• Peningkatan batas** ***top up*** **Koin Penjual per hari**
+**• Peningkatan batas** **top up** **Koin Penjual per hari**
 
 Penjual Star+ dapat menggunakan fitur ini untuk mengatur tampilan halaman toko & produk agar terlihat lebih menarik. Pelajari lebih lanjut terkait peningkatan fitur Dekorasi Toko.
 
@@ -93,13 +90,13 @@ Penjual Star+ menikmati lebih banyak keuntungan dibandingkan dengan Penjual Star
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KEUNTUNGAN\*\* | \*\*PROGRAM PENJUAL STAR\*\* | \*\*PROGRAM PENJUAL STAR+\*\* |
-| \*Tag\* Star+ | \*\*❌\*\* | \*\*✔\*\* |
-| Filter Pencarian | \*\*✔\*\* | \*\*✔\*\* |
-| \*Upload\* lebih banyak | \*\*✔\*\* | \*\*✔\*\* |
-| Voucher Cashback | \*\*✔\*\* | \*\*✔\*\* |
+| **KEUNTUNGAN** | **PROGRAM PENJUAL STAR** | **PROGRAM PENJUAL STAR+** |
+| \*Tag\* Star+ | **❌** | **✔** |
+| Filter Pencarian | **✔** | **✔** |
+| \*Upload\* lebih banyak | **✔** | **✔** |
+| Voucher Cashback | **✔** | **✔** |
 | Kuota Chat Broadcast | 1x per minggu | 2x per minggu |
-| Koin Penjual Shopee | \*\*✔\*\* | \*\*✔\*\* |
+| Koin Penjual Shopee | **✔** | **✔** |
 
 **Kriteria untuk Menjadi Penjual Star+**
 
@@ -109,7 +106,7 @@ Berikut adalah kritera untuk menjadi Penjual Star+:
 
 |  |  |
 | :-: | :-: |
-| \*\*KRITERIA\*\* | \*\*TARGET\*\* |
+| **KRITERIA** | **TARGET** |
 | Penilaian Toko | ≥ 4,4 |
 | Jumlah Hari dari Pelanggaran Produk Pre-order | ≤ 20%selama maks. 5 hari (perhitungan hanya akan dilakukan jika ada ≥ 300 produk Pre-order di toko) |
 | Pembeli Berbeda 30 Hari Terakhir | ≥ 10 |
@@ -280,13 +277,13 @@ Jika diperlukan informasi/dokumen tambahan, Penjual dapat mengklik **Ubah dan**
 
 Untuk melihat hasil banding secara rinci, pilih Lihat Banding di halaman Penjual Star+ dengan rincian berikut:
 
-  - **\*\*Status banding Disetujui\*\***
+  - **Status banding Disetujui**
 
 Anda akan tetap bergabung dalam Program Star+.
 
   
 
-  - **\*\*Status banding Ditolak\*\*** 
+  - **Status banding Ditolak** 
 
 Status Penjual Star+ Anda akan dinonaktifkan per hari Senin pk.22.00 WIB.
 

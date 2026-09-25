@@ -18,9 +18,6 @@ sources:
 **Tentang Fitur Serah Terima Pesanan**
 
 
-27-07-2026
-
-**Tentang Fitur Serah Terima Pesanan**
 
 Fitur Serah Terima Pesanan menyediakan informasi penting yang diperlukan Penjual untuk memfasilitasi kelancaran serah terima pesanan yang menggunakan opsi pengiriman Antar ke Counter (*drop off*) maupun *pick up*. Beberapa jasa kirim dengan layanan pengiriman Hemat Kargo juga tersedia *drop off* dan *pick up*.
 
@@ -30,7 +27,7 @@ Dengan Fitur Serah Terima Pesanan, Anda akan dapat melakukan pengiriman Antar ke
 
   
 
-**Untuk opsi pengiriman** ***pick up*****, Anda dapat:**
+**Untuk opsi pengiriman** **pick up**, Anda dapat:**
 
   - Memantau apakah paket berhasil di *pick up* oleh kurir
   - Mengidentifikasi paket yang menunggu untuk di *pick up* dan menyiapkan untuk *pick up* berikutnya
@@ -38,7 +35,7 @@ Dengan Fitur Serah Terima Pesanan, Anda akan dapat melakukan pengiriman Antar ke
 
   
 
-**Untuk opsi pengiriman Antar ke Counter (*****drop off*****), Anda dapat:**
+**Untuk opsi pengiriman Antar ke Counter (**drop off**), Anda dapat:**
 
   - Menemukan agen *drop off* terdekat
   - Melacak paket yang berhasil Antar ke Counter (*drop off*)
@@ -49,7 +46,7 @@ Anda dapat mengakses fitur ini pada ke halaman Fitur **Serah Terima Pesanan** di
 
 **Mengelola Opsi Pengiriman Pick up dengan Fitur Serah Terima Pesanan**
 
-Anda dapat mengelola pesanan dengan opsi pengiriman ***Pick up*** menggunakan fitur Serah Terima Pesanan pada *tab* **Pickup**, **Perlu Di-pickup** dan **Pickup Selesai**.
+Anda dapat mengelola pesanan dengan opsi pengiriman **Pick up** menggunakan fitur Serah Terima Pesanan pada *tab* **Pickup**, **Perlu Di-pickup** dan **Pickup Selesai**.
 
   
 
@@ -77,7 +74,7 @@ Berikut cara menggunakan informasi di fitur Serah Terima Pesanan untuk mengelola
 
   
 
-**Lacak perkembangan dan proses penyelesaian** ***pick up***
+**Lacak perkembangan dan proses penyelesaian** **pick up**
 
 Pastikan Anda menyiapkan jumlah paket yang benar pada **Pickup Terjadwal**. Jika ada paket yang tertunda dari hari sebelumnya, maka akan ditampilkan di kolom **Menunggu Pickup**.
 
@@ -116,7 +113,7 @@ Pada tab **Pickup Selesai**, Anda dapat melihat detail *pick up* yang diselesaik
 
 **Mengelola Opsi Pengiriman Drop Off dengan Fitur Serah Terima Pesanan**
 
-Anda dapat mengelola pesanan dengan opsi pengiriman **Antar ke Counter (*****Drop Off*****)** menggunakan fitur Serah Terima Pesanan pada *tab*  **Perlu Antar ke Counter** dan **Antar ke Counter Selesai**.
+Anda dapat mengelola pesanan dengan opsi pengiriman **Antar ke Counter (**Drop Off**)** menggunakan fitur Serah Terima Pesanan pada *tab*  **Perlu Antar ke Counter** dan **Antar ke Counter Selesai**.
 
   
 
@@ -130,12 +127,12 @@ Berikut cara menggunakan informasi di fitur Serah Terima Pesanan untuk mengelola
 
   
 
-**1. Kelola paket yang menunggu diantar ke** ***counter***
+**1. Kelola paket yang menunggu diantar ke** **counter**
 
 Pantau jumlah paket yang harus Anda kirimkan untuk setiap kurir.
 
   
 
-**2.** ***Download*** **laporan untuk pengantaran yang telah selesai**
+**2.** **Download** **laporan untuk pengantaran yang telah selesai**
 
 *Export* laporan pengantaran yang telah selesai dalam 3 hari terakhir untuk catatan Anda sendiri. Laporan tersebut akan mencakup informasi penting seperti nomor pesanan, nomor pelacakan, kurir, jasa kirim, dan waktu pengantaran untuk referensi Anda.

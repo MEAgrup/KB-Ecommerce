@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Sukses UMKM Baru?**
 
 
-26-06-2026
-
-**Apa itu Program Sukses UMKM Baru?**
 
 **Program Sukses UMKM Baru** adalah program yang memberikan berbagai dukungan bagi Penjual UMKM yang baru memulai berjualan di Shopee untuk mengembangkan bisnisnya dan menarik lebih banyak Pembeli di Shopee.
 
@@ -30,16 +27,16 @@ Program ini memberikan berbagai dukungan kepada Penjual UMKM (Non-Shopee Mall) y
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*DUKUNGAN UNTUK PENJUAL UMKM BARU\*\* | \*\*PENJUAL UMKM YANG MEMBUKA TOKO MULAI 1 JANUARI 2025 S.D 31 JULI 2026\*\* |  |
-|    | \*\*Biaya Administrasi\*\* | Gratis\\\* untuk 50 pesanan pertama terselesaikan atau 6 bulan (180 hari) sejak Penjual \*upload\* produk pertama kali di Shopee. |
-|    | \*\*Biaya Proses Pesanan\*\* | Gratis untuk 50 pesanan pertama terselesaikan. |
-|    | \*\*Biaya Gratis Ongkir XTRA\*\* | Gratis\\\*\\\* untuk 500 pesanan pertama terselesaikan atau 6 bulan (180 hari) sejak Penjual \*upload\* produk pertama kali di Shopee. |
-|    | \*\*Kelas\*\* \*\*\*Online\*\*\* \*\*Spesial UMKM Baru\*\* | GRATIS |
-|    | \*\*Dukungan Khusus\*\* | Gratis Voucher Rp2JT/bulan (atau 500RB/minggu) |
+| **DUKUNGAN UNTUK PENJUAL UMKM BARU** | **PENJUAL UMKM YANG MEMBUKA TOKO MULAI 1 JANUARI 2025 S.D 31 JULI 2026** |  |
+|    | **Biaya Administrasi** | Gratis\\\* untuk 50 pesanan pertama terselesaikan atau 6 bulan (180 hari) sejak Penjual \*upload\* produk pertama kali di Shopee. |
+|    | **Biaya Proses Pesanan** | Gratis untuk 50 pesanan pertama terselesaikan. |
+|    | **Biaya Gratis Ongkir XTRA** | Gratis\\\*\\\* untuk 500 pesanan pertama terselesaikan atau 6 bulan (180 hari) sejak Penjual \*upload\* produk pertama kali di Shopee. |
+|    | **Kelas** **\*Online**\* **Spesial UMKM Baru** | GRATIS |
+|    | **Dukungan Khusus** | Gratis Voucher Rp2JT/bulan (atau 500RB/minggu) |
 
 \**Berlaku bagi Penjual baru yang tidak bergabung dalam program opsional Promo XTRA/Promo XTRA+*/*Shopee Live XTRA*/*Shopee Video XTRA.*
 
-*\*\*Berlaku bagi Penjual yang membuka toko sebelum 1 Februari 2026.*
+**Berlaku bagi Penjual yang membuka toko sebelum 1 Februari 2026.*
 
   
 

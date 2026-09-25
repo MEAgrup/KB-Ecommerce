@@ -18,9 +18,6 @@ sources:
 **Apa itu Flash Sale Shopee?**
 
 
-11-08-2026
-
-**Apa itu Flash Sale Shopee?**
 
 Flash Sale Shopee merupakan promo terbaik dari Shopee yang memberikan penawaran secara eksklusif untuk jangka waktu terbatas.
 
@@ -63,7 +60,7 @@ Berikut tampilan promo Flash Sale Shopee di aplikasi:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*No\*\* | \*\*Poin\*\* | \*\*Flash Sale Shopee\*\* | \*\*Flash Sale Toko Saya\*\* |
+| **No** | **Poin** | **Flash Sale Shopee** | **Flash Sale Toko Saya** |
 | 1\\. | Definisi | Fitur yang diaturlangsung oleh Shopeeuntuk Penjual terpilih | Fitur di mana Penjual bisamemilih dan membuatsendiri promo Flash Saleuntuk ditampilkan ditokonya |
 | 2\\. | Pengaturan | Produk diatur dandipilih oleh Tim Shopee | Produk diatur dan dipiliholeh Penjual |
 | 3\\. | Tampilan PadaPembeli | Pembeli bisa melihatproduk Flash Sale diHalaman Utama \\\>Menu "Flash Sale" | Produk akan muncul dihalaman utama tokoPenjual |
@@ -98,35 +95,35 @@ Tingkatkan peluang disetujuinya produk yang Anda nominasikan dengan mempertahank
 
 **Memahami Persyaratan & Rincian Flash Sale Shopee**
 
-  - **\*\*Periode untuk menominasikan produk\*\***
+  - **Periode untuk menominasikan produk**
 
 Periode waktu untuk menominasikan produk tersedia secara terbatas. Periode untuk menominasikan produk adalah hari Selasa (setelah menerima notifikasi undangan mengikuti Flash Sale) sampai dengan hari Jumat pk. 23:59 WIB, kecuali ditentukan berbeda oleh Shopee di waktu tertentu.
 
-  - **\*\*Kategori Tersedia\*\***
+  - **Kategori Tersedia**
 
 Cek kembali apakah produk yang ingin dinominasikan sesuai dengan yang ada di dalam daftar **Kategori Tersedia** untuk setiap promo Flash Sale Shopee.
 
-  - **\*\*Syarat & Ketentuan\*\***
+  - **Syarat & Ketentuan**
 
 Perhatikan rincian Syarat & Ketentuan yang harus dipenuhi oleh toko & produk Anda.
 
-  - **\*\*Rincian promo\*\***
+  - **Rincian promo**
 
 Dapatkan rincian informasi mengenai sesi Flash Sale Shopee.
 
-  - **\*\*Jumlah Diskon Disetujui\*\***
+  - **Jumlah Diskon Disetujui**
 
 Produk yang Anda nominasikan harus berada dalam kisaran **Jumlah Diskon Disetujui** agar memenuhi syarat untuk berpartisipasi.
 
-  - **\*\*Stok Minimal\*\***
+  - **Stok Minimal**
 
 Stok produk minimum yang diperlukan untuk setiap nominasi produk agar memenuhi syarat berpartisipasi.
 
-  - **\*\*Maks. Dikirim Dalam\*\***
+  - **Maks. Dikirim Dalam**
 
 Pastikan masa pengemasan produk mengikuti batas waktu **Maks. Dikirim Dalam** yang sudah ditentukan, yaitu maks. 2 hari.
 
-  - **\*\*Foto Produk untuk Promo Flash Sale\*\***
+  - **Foto Produk untuk Promo Flash Sale**
 
 Anda harus meng-*upload* foto untuk setiap produk yang Anda nominasikan. Foto produk akan diperlihatkan kepada Pembeli di halaman promo Flash Sale Shopee.
 

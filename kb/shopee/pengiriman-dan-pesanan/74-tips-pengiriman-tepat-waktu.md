@@ -19,9 +19,6 @@ related: [shp-pengiriman-101]
 **Mengelola Stok Anda**
 
 
-17-03-2026
-
-**Mengelola Stok Anda**
 
 Dengan memiliki manajemen stok yang baik, Anda bisa lebih siap untuk memenuhi permintaan pesanan yang akan datang, sehingga pengiriman dapat dilakukan tepat waktu.
 
@@ -77,7 +74,7 @@ Ada 4 faktor utama yang perlu dipertimbangkan, yaitu:
 
   - **Tren historis**: Kapan biasanya permintaan produk mencapai puncaknya pada bulan/kuartal/tahun?
   - **Tren pasar**: Bagaimana perubahan permintaan produk dalam setahun terakhir?
-  - **Tren** ***platform***: bagaimana permintaan produk dipengaruhi oleh perubahan platform, seperti kampanye bulanan?
+  - **Tren** **platform**: bagaimana permintaan produk dipengaruhi oleh perubahan platform, seperti kampanye bulanan?
   - **Tren musiman**: Apakah produk dipengaruhi oleh musim, seperti perubahan cuaca?
 
   
@@ -87,7 +84,7 @@ Ada 4 faktor utama yang perlu dipertimbangkan, yaitu:
   
   
 
-**4. Ketahui jumlah stok (*****lead time demand*****) untuk** ***restock*** **produk**
+**4. Ketahui jumlah stok (**lead time demand**) untuk** **restock** **produk**
 
 Untuk menghindari hal tidak terduga seperti kehabisan stok, penting untuk mengetahui waktu tunggu yang diperlukan untuk *restock* produk karena akan memengaruhi kemampuan Anda untuk mengirim pesanan tepat waktu.
 
@@ -126,12 +123,12 @@ Namun, jika produk Anda sedang tidak memiliki stok tetapi sedang dalam proses *r
 
   
 
-**6. Mengatur produk** ***custom*** **sebagai Pre-order dengan masa pengemasan yang lebih lama**
+**6. Mengatur produk** **custom** **sebagai Pre-order dengan masa pengemasan yang lebih lama**
 
 Produk *custom* atau produk yang membutuhkan penanganan khusus memerlukan masa pengemasan yang lebih lama, sehingga berkontribusi pada proses pemenuhan pesanan yang lebih lama secara keseluruhan. Mengatur produk tersebut sebagai[ Pre-order](https://seller.shopee.co.id/edu/courseDetail/46?lessonId=17) dengan[ masa pengemasan](https://seller.shopee.co.id/edu/courseDetail/284?lessonId=133) yang lebih lama memungkinkan Anda memiliki lebih banyak waktu untuk melakukan pemenuhan pesanan.
 
   
-**7. Gunakan vendor** ***software*** **pihak ketiga yang menyediakan operasional menyeluruh (jika ada)**
+**7. Gunakan vendor** **software** **pihak ketiga yang menyediakan operasional menyeluruh (jika ada)**
 
 Jika Anda berjualan *online* di berbagai *platform*, pertimbangkan untuk menggunakan[ vendor *software* pemenuhan pesanan dari pihak ketiga](https://seller.shopee.co.id/edu/article/20013) untuk mendapatkan gambaran yang lebih baik dan mengelola stok Anda dengan mudah.
 
@@ -153,7 +150,7 @@ Berikut tips yang dapat Anda terapkan untuk manajemen gudang:
 
   
 
-**1. Pisahkan area** ***inbound*** **dan** ***outbound*** **dengan jelas**
+**1. Pisahkan area** **inbound** **dan** **outbound** **dengan jelas**
 
 Untuk mempermudah proses masuknya produk, pisahkan area *inbound* (contohnya produk yang masuk dan paket yang diretur) dan produk yang keluar.
 
@@ -243,7 +240,7 @@ Periksa pembatalan yang dilakukan oleh Pembeli secara rutin sebelum mempersiapka
 
   
 
-**5. Mengatur pengiriman secara otomatis menggunakan vendor** ***software*** **pihak ketiga**
+**5. Mengatur pengiriman secara otomatis menggunakan vendor** **software** **pihak ketiga**
 
 Jika Anda menggunakan vendor *software* pihak ketiga, pastikan Anda sudah mengaktifkan pengaturan pengiriman otomatis untuk hari dan jam kerja yang diinginkan.
 
@@ -282,7 +279,7 @@ Tips untuk menyortir dan memberikan pesanan ke *picker* dan *packer*
 
 Pada proses ini, pesanan seharusnya sudah diatur secara massal untuk pengiriman berdasarkan Batas Pengiriman. Berikut cara menyortir pesanan untuk mempercepat *picking* dan *packing*:
 
-  - **Memprioritaskan pesanan dalam setiap** ***batch*** **berdasarkan prioritas** berikut:
+  - **Memprioritaskan pesanan dalam setiap** **batch** **berdasarkan prioritas** berikut:
       
       - Prioritas 1: Pesanan yang sudah mendekati batas waktu pengiriman dan pengiriman instan/hari yang sama/hari berikutnya
       - Prioritas 2: Pesanan yang harus dikirim dalam waktu 24 jam atau melalui batas waktu pengiriman
@@ -298,28 +295,28 @@ Pada proses ini, pesanan seharusnya sudah diatur secara massal untuk pengiriman 
 
   
 
-**Tips dalam proses** ***picking*****/*****packing***
+**Tips dalam proses** **picking**/**packing**
 
   - **Gunakan karton atau kotak/nampan plastik** untuk meletakkan produk yang dipilih untuk setiap pesanan. Simpan resi setiap pesanan di kotaknya masing-masing untuk memudahkan pemeriksaan kualitas produk (*Quality Control*) di kemudian hari sebelum packing dimulai
   - **Simpan semua bahan pengemasan di satu tempat**, pastikan tersedia cukup persediaan untuk minimal 1 putaran proses packing
-  - **Pisah area** ***packing*** **berdasarkan jenis produk**, misalnya produk mudah pecah, produk mudah tumpah, produk bernilai tinggi
+  - **Pisah area** **packing** **berdasarkan jenis produk**, misalnya produk mudah pecah, produk mudah tumpah, produk bernilai tinggi
   - **Ikuti**[ **Panduan Pengemasan untuk Mencegah Kerusakan**](https://seller.shopee.co.id/edu/article/18821)
   - **Periksa kualitas resi yang dicetak** sehingga paket dapat te*rscan* dengan baik saat serah terima ke jasa pengiriman
 
   
 
-**Tips untuk** ***pick up*** **dalam proses serah terima pesanan**
+**Tips untuk** **pick up** **dalam proses serah terima pesanan**
 
-  - **Pastikan pesanan dengan metode pengiriman** ***pick up*** **siap untuk diserahkan** sesuai dengan jadwalnya
-  - **Pastikan alamat** ***pick up*** **dan informasi kontak Anda sudah yang paling terbaru** sehingga kurir memiliki alamat yang sesuai
+  - **Pastikan pesanan dengan metode pengiriman** **pick up** **siap untuk diserahkan** sesuai dengan jadwalnya
+  - **Pastikan alamat** **pick up** **dan informasi kontak Anda sudah yang paling terbaru** sehingga kurir memiliki alamat yang sesuai
   - **Pisahkan paket yang menggunakan jenis pengiriman cepat** (Instant dan Sameday) 
-  - **Pisahkan paket yang akan di*****pick-up*** **oleh kurir dari jasa kirim yang berbeda dan pastikan untuk memberi label keterangan yang jelas**. Jika gudang memiliki ruang, Anda dapat:
+  - **Pisahkan paket yang akan di**pick-up** **oleh kurir dari jasa kirim yang berbeda dan pastikan untuk memberi label keterangan yang jelas**. Jika gudang memiliki ruang, Anda dapat:
       
       - membagi paket berdasarkan waktu *pick up* (misalnya Grup A akan diserahkan hari ini, Grup B untuk besok)
       - memposisikan area *outbound* di dekat pintu keluar/pintu masuk gudang untuk memudahkan akses bagi kurir
-  - **\*\*Pastikan kelengkapan jumlah paket yang akan diserahkan ke kurir\*\***
+  - **Pastikan kelengkapan jumlah paket yang akan diserahkan ke kurir**
   - **Hubungi kurir menggunakan nomor kontak yang tertera di fitur Serah Terima Pesanan** jika kurir belum mengambil paket dan sudah mendekati jam tutup toko
-  - **Catat penjadwalan ulang dan** ***pick up*** **yang gagal** ketika kurir tidak datang untuk *pick up*.
+  - **Catat penjadwalan ulang dan** **pick up** **yang gagal** ketika kurir tidak datang untuk *pick up*.
 
   
 
@@ -331,11 +328,11 @@ Shopee akan memantau jika terdapat kelalaian bukan dari sisi Penjual untuk menge
 
   
 
-**Tips untuk proses** ***Drop-off***
+**Tips untuk proses** **Drop-off**
 
-  - **\*\*Ketahui jam operasional dan lokasi lokasi\*\* \*\*\*drop off\*\*\* \*\*terdekat\*\***
-  - **Antarkan (*****drop off*****) sisa paket yang tidak dapat diambil oleh kurir pada saat di*****pick-up***, agar pesanan dapat dikirimkan sesuai batas waktu pengiriman.
-  - **Pastikan melakukan** ***scan*** **paket di tempat** ***drop off*** untuk melakukan konfirmasi penerimaan.
+  - **Ketahui jam operasional dan lokasi lokasi** **\*drop off**\* **terdekat**
+  - **Antarkan (**drop off**) sisa paket yang tidak dapat diambil oleh kurir pada saat di**pick-up**, agar pesanan dapat dikirimkan sesuai batas waktu pengiriman.
+  - **Pastikan melakukan** **scan** **paket di tempat** **drop off** untuk melakukan konfirmasi penerimaan.
 
   
 **Menghitung kebutuhan tenaga kerja dan jam operasional**

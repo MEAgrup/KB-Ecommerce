@@ -18,11 +18,6 @@ sources:
 Per Januari 2026, Shopee meng-*update* definisi **Penjualan** (di seluruh halaman Seller Centre dan aplikasi Shopee) agar lebih mencerminkan pendapatan yang diterima Penjual. Kini, Penjualan hanya dihitung berdasarkan harga produk setelah diskon dari Penjual, tanpa mencakup biaya Pembeli atau subsidi Shopee.
 
 
-26-01-2026
-
-Per Januari 2026, Shopee meng-*update* definisi **Penjualan** (di seluruh halaman Seller Centre dan aplikasi Shopee) agar lebih mencerminkan pendapatan yang diterima Penjual. Kini, Penjualan hanya dihitung berdasarkan harga produk setelah diskon dari Penjual, tanpa mencakup biaya Pembeli atau subsidi Shopee.
-
-  
 
 *Update* ini bertujuan untuk meningkatkan transparansi dan konsistensi data di seluruh halaman, serta membuat perhitungan ROI (*Return on Investment*) pada iklan yang lebih akurat, meskipun nilainya dapat terlihat lebih kecil.
 
@@ -40,11 +35,11 @@ Dengan definisi dan perhitungan **Penjualan** yang baru, biaya yang dikenakan Pe
 
 Definisi dan perhitungan Penjualan yang baru akan berlaku pada beberapa menu di halaman **Pusat Promosi**, seperti:
 
-  - **\*\*Iklan Shopee\*\***
-  - **\*\*Live & Video\*\***
-  - **\*\*Diskon\*\***
-  - **\*\*Voucher Toko Saya\*\***
-  - **\*\*Flash Sale Toko Saya\*\***
+  - **Iklan Shopee**
+  - **Live & Video**
+  - **Diskon**
+  - **Voucher Toko Saya**
+  - **Flash Sale Toko Saya**
 
 Berikut tampilan definisi Penjualan yang baru di **Live & Video**:
 

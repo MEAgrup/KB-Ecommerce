@@ -18,9 +18,6 @@ sources:
 **Apa itu Voucher Reward Koin Shopee?**
 
 
-17-03-2026
-
-**Apa itu Voucher Reward Koin Shopee?**
 
 Voucher Reward Koin Shopee adalah salah satu dari berbagai macam promo yang diselenggarakan oleh Shopee. Melalui Voucher Reward Koin Shopee, Anda bisa menominasikan Voucher Toko Anda untuk ditampilkan pada halaman Reward Koin Shopee di aplikasi dan situs Shopee.
 
@@ -89,27 +86,27 @@ Anda dapat meningkatkan peluang Voucher Anda disetujui dengan cara meningkatkan 
 
   - Kriteria Toko
       
-      - **\*\*Penjual Luar Negeri\*\***
+      - **Penjual Luar Negeri**
 
 Penjual Luar Negeri merupakan toko yang melakukan penjualan di luar negeri, sedangkan Penjual yang bukan Penjual Luar Negeri adalah toko yang berjualan di negara asal toko.
 
-  - **\*\*Fitur Mode Libur\*\***
+  - **Fitur Mode Libur**
 
 Jika toko Anda mengaktifkan fitur Mode Libur, maka Anda tidak dapat menominasikan Voucher Anda dalam Voucher Reward Koin Shopee yang tersedia.
 
-  - **\*\*Tipe Toko\*\***
+  - **Tipe Toko**
 
 Periksa jika terdapat ketentuan tipe toko, seperti Star, Star+, atau Shopee Mall.
 
-  - **\*\*Penilaian Toko\*\***
+  - **Penilaian Toko**
 
 Periksa apakah kriteria penilaian toko sesuai dengan[ penilaian toko](https://seller.shopee.co.id/edu/courseDetail/285?lessonId=100) Anda.
 
-  - **\*\*Rata-rata Masa Pengemasan\*\***
+  - **Rata-rata Masa Pengemasan**
 
 Periksa apakah kriteria rata-rata masa pengemasan sesuai dengan rata-rata masa pengemasan toko Anda.
 
-  - **\*\*Poin Penalti\*\***
+  - **Poin Penalti**
 
 Periksa apakah kriteria poin penalti sesuai dengan poin penalti yang toko Anda miliki.
 
@@ -117,23 +114,23 @@ Periksa apakah kriteria poin penalti sesuai dengan poin penalti yang toko Anda m
 
   - Kriteria Voucher
       
-      - **\*\*Kuota Pemakaian\*\***
+      - **Kuota Pemakaian**
 
 Jumlah Voucher yang dapat digunakan oleh Pembeli pada toko Anda.
 
-  - **\*\*Minimum Pembelian\*\***
+  - **Minimum Pembelian**
 
 Minimum pembelian yang harus Pembeli capai untuk dapat menggunakan Voucher.
 
-  - **\*\*Tipe Voucher\*\***
+  - **Tipe Voucher**
 
 Tipe Voucher meliputi Voucher Toko dan Voucher Produk.
 
-  - **\*\*Tipe Diskon\*\***
+  - **Tipe Diskon**
 
 Tipe Diskon meliputi Nominal Diskon, Persentase Diskon, dan Cashback Koin.
 
-  - **\*\*Atur Tampilan Voucher\*\***
+  - **Atur Tampilan Voucher**
 
 Tempat Voucher dapat ditampilkan, apakah di seluruh fitur Shopee atau hanya pada fitur tertentu, seperti Shopee Live.
 
@@ -247,7 +244,7 @@ Berikut ini data yang diperlukan untuk mengisi formulir pembatalan:
 
   
 
-**1.** ***Link*** **Toko** (*Link* dapat disalin dari halaman toko)
+**1.** **Link** **Toko** (*Link* dapat disalin dari halaman toko)
 
   
 

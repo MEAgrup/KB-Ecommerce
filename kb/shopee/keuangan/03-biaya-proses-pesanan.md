@@ -18,19 +18,16 @@ sources:
 **Tentang Biaya Proses Pesanan**
 
 
-31-07-2026
-
-**Tentang Biaya Proses Pesanan**
 
 Untuk terus menghadirkan beragam promosi yang lebih menarik guna mendukung pertumbuhan bisnis Penjual, Shopee memberlakukan Biaya Proses Pesanan sebesar Rp1.250 untuk setiap transaksi terselesaikan yang dibuat mulai 20 Juli 2025 dan setelahnya.
 
 Berikut adalah ketentuan Biaya Proses Pesanan:
 
-1.  **\*\*Penjual Non-Star yang meng-\*\*\*\*\*upload\*\*\* \*\*produk pertama sebelum 1 Agustus 2026\*\***
+1.  **Penjual Non-Star yang meng-**\*upload**\* **produk pertama sebelum 1 Agustus 2026**
 
 Biaya Proses Pesanan tidak akan diberlakukan untuk 50 pesanan pertama terselesaikan
 
-1.  **\*\*Penjual Non-Star yang meng-\*\*\*\*\*upload\*\*\* \*\*produk pertama mulai 1 Agustus 2026\*\***
+1.  **Penjual Non-Star yang meng-**\*upload**\* **produk pertama mulai 1 Agustus 2026**
 
 Biaya Proses Pesanan berlaku untuk semua Penjual Shopee (Non-Star, Star, Star+ dan Shopee Mall).
 
@@ -44,7 +41,7 @@ Misalnya, Pembeli checkout di tanggal 20 Juli menggunakan Voucher Toko 20% dan p
 
 |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*PRODUK YANG DI CHECKOUT\*\* | \*\*HARGA ASLI PRODUK\*\* | \*\*KUANTITAS PRODUK\*\* | \*\*DISKON PRODUK DITANGGUNG PENJUAL\*\*\*(PER HARGA PRODUK)\* | \*\*VOUCHER DISKON DITANGGUNG PENJUAL\*\*\*(PER HARGA PRODUK)\* | \*\*TOTAL HARGA PENJUALAN\*\*(SETELAH DISKON DAN/ATAU VOUCHER DISKON DITANGGUNG PENJUAL) |
+| **PRODUK YANG DI CHECKOUT** | **HARGA ASLI PRODUK** | **KUANTITAS PRODUK** | **DISKON PRODUK DITANGGUNG PENJUAL**\*(PER HARGA PRODUK)\* | **VOUCHER DISKON DITANGGUNG PENJUAL**\*(PER HARGA PRODUK)\* | **TOTAL HARGA PENJUALAN**(SETELAH DISKON DAN/ATAU VOUCHER DISKON DITANGGUNG PENJUAL) |
 | Produk A | Rp10.000 | 1 | Rp0 | Rp2.000 | Rp8.000 |
 | Produk B | Rp20.000 | 2 | Rp0 | Rp4.000 | Rp32.000 |
 | Produk C | Rp30.000 | 2 | Rp5.000 | Rp5.000 | Rp40.000 |

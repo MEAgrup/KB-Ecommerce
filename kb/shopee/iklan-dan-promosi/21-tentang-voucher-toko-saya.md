@@ -18,9 +18,6 @@ sources:
 **Apa itu Voucher Toko Saya?**
 
 
-03-06-2026
-
-**Apa itu Voucher Toko Saya?**
 
 Voucher Toko Saya adalah fitur promosi di Seller Centre dan aplikasi Shopee yang memungkinkan Anda mengatur berbagai diskon/*cashback* koin untuk mendorong pembelian.
 
@@ -409,7 +406,7 @@ Jika Anda ingin mempromosikan voucher, Anda juga dapat pilih **Share** untuk mem
 **Seller Centre**
 
 **  
-****Aplikasi Shopee**
+**Aplikasi Shopee**
 
 Pembeli yang membuka *link* voucher akan diarahkan ke aplikasi Shopee untuk meng-klaim voucher.
 

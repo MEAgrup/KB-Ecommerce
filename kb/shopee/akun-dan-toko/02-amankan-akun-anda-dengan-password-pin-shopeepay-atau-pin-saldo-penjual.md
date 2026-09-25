@@ -18,11 +18,6 @@ sources:
 Seperti kebanyakan situs dan media sosial lainnya, Shopee menyarankan Anda untuk menggunakan password, PIN ShopeePay, atau PIN Saldo Penjual yang kuat. Hal ini dapat meningkatkan keamanan akun Anda.
 
 
-11-01-2021
-
-Seperti kebanyakan situs dan media sosial lainnya, Shopee menyarankan Anda untuk menggunakan password, PIN ShopeePay, atau PIN Saldo Penjual yang kuat. Hal ini dapat meningkatkan keamanan akun Anda.
-
-  
 
 Menentukan password atau PIN yang kuat tentu tidak mudah. Anda harus memikirkan kombinasi yang mudah diingat namun sulit ditebak oleh orang lain. Untuk menentukan kombinasi password atau PIN Anda, simak beberapa tips di bawah ini:
 

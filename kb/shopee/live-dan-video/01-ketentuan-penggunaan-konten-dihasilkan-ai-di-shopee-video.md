@@ -18,9 +18,6 @@ sources:
 Konten dihasilkan AI mencakup teks, foto, video, dan/atau audio yang dibuat atau dimodifikasi secara signifikan menggunakan teknologi AI.
 
 
-11-08-2026
-
-Konten dihasilkan AI mencakup teks, foto, video, dan/atau audio yang dibuat atau dimodifikasi secara signifikan menggunakan teknologi AI.
 
 Contoh konten dihasilkan AI meliputi:
 

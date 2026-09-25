@@ -18,9 +18,6 @@ sources:
 Pesanan Tidak Terselesaikan akan dianggap sebagai kesalahan Penjual jika:
 
 
-10-12-2024
-
-Pesanan Tidak Terselesaikan akan dianggap sebagai kesalahan Penjual jika:
 
   - Pembatalan diajukan oleh Penjual
   - Pembatalan otomatis oleh sistem

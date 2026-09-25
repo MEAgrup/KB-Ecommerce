@@ -18,11 +18,6 @@ sources:
 PT Shopee International Indonesia telah memiliki Surat Keterangan Bebas Pajak Penghasilan (SKB PPh 23) dengan nomor KET-00002/PPUT-CT/KPP.3010/2026, yang berlaku sejak 15 Januari 2026 hingga 31 Desember 2026.
 
 
-21-01-2026
-
-PT Shopee International Indonesia telah memiliki Surat Keterangan Bebas Pajak Penghasilan (SKB PPh 23) dengan nomor KET-00002/PPUT-CT/KPP.3010/2026, yang berlaku sejak 15 Januari 2026 hingga 31 Desember 2026.
-
-  
 
 Selama masa berlaku SKB tersebut, Penjual tidak perlu melakukan pemotongan maupun penyetoran PPh 23 atas biaya yang dibayarkan kepada PT Shopee International Indonesia dalam periode 15 Januari 2026–31 Desember 2026. Shopee tidak akan memproses pengembalian (*reimbursement*) PPh 23 apabila pada periode berlakunya SKB, Penjual tetap melakukan pemotongan atau penyetoran PPh 23 atas transaksi dengan Shopee.
 

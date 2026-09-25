@@ -98,7 +98,7 @@ Anda dapat menggunakan gambar/unsur milik Shopee di logo dan *banner* toko tanpa
 
   
 
-**1. Mempercantik logo dan** ***banner*** **toko**
+**1. Mempercantik logo dan** **banner** **toko**
 
 Anda dapat menggunakan gambar/unsur milik Shopee dalam logo dan *banner* toko Anda untuk **menambah atau melengkapi estetika**, bukan sebagai logo toko utama.
 

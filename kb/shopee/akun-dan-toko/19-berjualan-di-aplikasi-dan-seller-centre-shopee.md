@@ -18,9 +18,6 @@ sources:
 **Keuntungan Berjualan melalui Seller Centre**
 
 
-17-03-2026
-
-**Keuntungan Berjualan melalui Seller Centre**
 
 Seller Centre Shopee adalah fitur yang dirancang khusus bagi Penjual untuk mengelola toko dengan lebih mudah melalui komputer/laptop, terutama apabila Anda memiliki pesanan dalam jumlah yang banyak.
 
@@ -138,7 +135,7 @@ Aplikasi Shopee memiliki 5 fitur utama yang memudahkan Anda berjualan di Shopee:
 
 ## **Mengelola Toko dengan Mudah**
 
-  - **\*\*Pengaturan Toko\*\***
+  - **Pengaturan Toko**
 
 Kelola Pengaturan Toko Anda secara instan untuk memudahkan Anda berinteraksi dengan Pembeli.
 
@@ -153,7 +150,7 @@ Kelola Pengaturan Toko Anda secara instan untuk memudahkan Anda berinteraksi den
 
   
 
-  - **\*\*Profil Toko\*\***
+  - **Profil Toko**
 
 Anda dapat mengatur rincian seperti **Nama Toko** dan **Deskripsi Toko** di[ **Profil Toko**](https://seller.shopee.co.id/edu/article/1760) agar toko Anda semakin menarik bagi para Pembeli.
 
@@ -163,7 +160,7 @@ Anda dapat mengatur rincian seperti **Nama Toko** dan **Deskripsi Toko** di[ **P
 
 Pada aplikasi Shopee, Anda dapat menarik Pembeli menggunakan media sosial melalui:
 
-  - **\*\*Shopee Live\*\***
+  - **Shopee Live**
 
 [**Shopee Live**](https://seller.shopee.co.id/edu/courseDetail/720?lessonId=37) merupakan fitur yang memungkinkan Anda melakukan sesi *streaming* untuk mempromosikan toko dan produk Anda secara langsung ke Pembeli. Para Pembeli juga dapat berinteraksi secara langsung dengan Anda dan melakukan pembelian produk saat menonton Live *streaming* tersebut.
 
@@ -174,7 +171,7 @@ Anda dapat memulai *live streaming* dengan mengakses *tab* **Saya** dan pilih **
   
   
 
-  - **\*\*Shopee Video\*\***
+  - **Shopee Video**
 
 [**Shopee Video**](https://seller.shopee.co.id/edu/courseDetail/720?lessonId=2126) merupakan fitur yang memungkinkan Anda membuat video untuk meng-*upload* dan membagikan video pendek yang disertai musik dan *filter* sebagai pendukung. Shopee Video dapat menjadi tempat bagi para Pengguna untuk bersosialisasi dengan sesama Pengguna Shopee, selain itu Penjual juga dapat menambahkan produk & voucher pada video.
 
@@ -188,7 +185,7 @@ Anda dapat membuat Shopee Video dengan mengakses *tab* **Video** dan pilih *icon
 
 Pada aplikasi Shopee, Anda dapat mengelola produk dan pesanan dengan mudah, instan, dan cepat melalui berbagai fitur yaitu:
 
-  - **\*\*Produk Saya\*\***
+  - **Produk Saya**
 
 Anda dapat mengubah daftar produk dan memantau penjualan produk bahkan saat Anda tidak dapat mengakses Seller Centre.
 
@@ -196,13 +193,13 @@ Pilih **Tambah Produk Baru** untuk menambah foto dan[ **video**](https://seller.
 
   
 
-  - **\*\*Fitur Chat Penjual\*\***
+  - **Fitur Chat Penjual**
 
 Gunakan[ **Fitur Chat Penjual**](https://seller.shopee.co.id/edu/article/375) untuk merespons *chat* dari Pembeli kapan pun dan di mana pun, agar Anda tidak melewatkan kesempatan penjualan produk.
 
   
 
-  - **\*\*Status Pesanan\*\***
+  - **Status Pesanan**
 
 Fitur **Status Pesanan** akan memudahkan Anda untuk bertindak atau merespons secara cepat terhadap pesanan yang **Perlu Dikirim**, **Pembatalan**, maupun **Pengembalian** Barang/Dana.
 

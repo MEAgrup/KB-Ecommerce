@@ -18,9 +18,6 @@ sources:
 **Apa itu Dana Cepat?**
 
 
-17-07-2026
-
-**Apa itu Dana Cepat?**
 
 Dana Cepat adalah fasilitas pinjaman yang disediakan kepada Penjual Shopee oleh PT Lentera Dana Nusantara (LDN) selaku Penyedia Pinjaman untuk mempercepat pelepasan dana penjualan setelah resi pengiriman terkonfirmasi, tanpa harus menunggu konfirmasi pesanan selesai oleh Pembeli. PT Lentera Dana Nusantara berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK).
 

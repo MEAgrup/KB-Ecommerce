@@ -18,9 +18,6 @@ sources:
 Perluas jangkauan promosi Anda dalam skala besar dan secara efisien menggunakan Iklan Affiliate. Iklan Affiliate adalah fitur di Affiliate Marketing Solution yang memungkinkan Penjual memaksimalkan konten dari *Affiliate* sebagai Iklan Facebook untuk menjangkau lebih banyak calon Pembeli.
 
 
-23-07-2026
-
-Perluas jangkauan promosi Anda dalam skala besar dan secara efisien menggunakan Iklan Affiliate. Iklan Affiliate adalah fitur di Affiliate Marketing Solution yang memungkinkan Penjual memaksimalkan konten dari *Affiliate* sebagai Iklan Facebook untuk menjangkau lebih banyak calon Pembeli.
 
 ⚠️ **Catatan**
 
@@ -32,15 +29,15 @@ Saat ini, konten yang dapat dijalankan sebagai Iklan Affiliate hanya berlaku unt
 
 Berikut adalah keuntungan yang bisa Anda dapatkan dengan menggunakan Iklan Affiliate:
 
-1.  **\*\*Menggunakan konten Affiliate sebagai iklan dengan lebih mudah\*\***
+1.  **Menggunakan konten Affiliate sebagai iklan dengan lebih mudah**
 
 Anda dapat menggunakan konten dari *Affiliate* sebagai iklan di Facebook, tanpa perlu meminta izin penggunaan konten satu per satu.
 
-1.  **\*\*Mengoptimalkan konten Affiliate organik di Facebook\*\***
+1.  **Mengoptimalkan konten Affiliate organik di Facebook**
 
 Sistem Iklan Facebook membantu Anda mengoptimalkan distribusi konten *Affiliate* organik untuk memaksimalkan keseluruhan konten *Affiliate*
 
-1.  **\*\*Mengoptimalkan performa Iklan Affiliate di Facebook dengan AI Meta\*\***
+1.  **Mengoptimalkan performa Iklan Affiliate di Facebook dengan AI Meta**
 
 Sistem AI pada Iklan Meta secara otomatis memilih konten dengan performa terbaik untuk mengoptimalkan penayangan iklan dan membantu meningkatkan jangkauan produk.
 

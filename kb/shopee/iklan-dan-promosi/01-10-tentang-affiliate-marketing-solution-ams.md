@@ -18,9 +18,6 @@ sources:
 **Apa itu Affiliate Marketing Solution (AMS)?**
 
 
-28-07-2026
-
-**Apa itu Affiliate Marketing Solution (AMS)?**
 
 ﻿﻿﻿﻿﻿Affiliate Marketing Solution adalah program yang membantu mempromosikan produk secara lebih luas melalui kolaborasi dengan jutaan mitra *Affiliate* Shopee, sehingga dapat menjangkau lebih banyak Pembeli dan meningkatkan penjualan.
 
@@ -46,11 +43,11 @@ Affiliate Marketing Solution memiliki 2 jenis komisi yaitu **Komisi XTRA Produk*
 
 |  |  |  |
 | :-: | :-: | :-: |
-|   | \*\*KOMISI XTRA PRODUK\*\* | \*\*KOMISI XTRA KHUSUS\*\* |
-| \*\*TUJUAN PROMOSI\*\* | Menjangkau audiens seluas mungkin | Ideal untuk meraih audiens melalui promosi tepat sasaran sesuai target dan kriteria tertentu |
-| \*\*PEMILIHAN\*\* \*\*\*AFFILIATE\*\*\* | Ditujukan ke semua \*Affiliate\* | Penjual dapat memilih \*Affiliate\* spesifik |
-| \*\*PRODUK YANG DAPAT DIPROMOSIKAN\*\* | Semua/beberapa produk |  |
-| \*\*TINGKAT KOMISI\*\* | Tingkatkan kesempatan untuk bekerja sama dengan \*Affiliate\* dengan memasukkan\[ tingkat komisi yang direkomendasikan\](https://shopee.co.id/m/komisi-affiliate-marketing-solution) |  |
+|   | **KOMISI XTRA PRODUK** | **KOMISI XTRA KHUSUS** |
+| **TUJUAN PROMOSI** | Menjangkau audiens seluas mungkin | Ideal untuk meraih audiens melalui promosi tepat sasaran sesuai target dan kriteria tertentu |
+| **PEMILIHAN** **\*AFFILIATE**\* | Ditujukan ke semua \*Affiliate\* | Penjual dapat memilih \*Affiliate\* spesifik |
+| **PRODUK YANG DAPAT DIPROMOSIKAN** | Semua/beberapa produk |  |
+| **TINGKAT KOMISI** | Tingkatkan kesempatan untuk bekerja sama dengan \*Affiliate\* dengan memasukkan\[ tingkat komisi yang direkomendasikan\](https://shopee.co.id/m/komisi-affiliate-marketing-solution) |  |
 
   
 
@@ -177,9 +174,9 @@ Biaya komisi umumnya dipotong secara otomatis dari hasil penjualan sebelum dilep
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*JENIS PESANAN\*\* | \*\*DEFINISI\*\* | \*\*KOMISI YANG DIBAYARKAN PENJUAL\*\* |
-| \*\*Pesanan Langsung\*\* | Pembeli checkout produk Anda langsung dari \*link Affiliate\* yang mempromosikan toko/produk Anda | Senilai komisi yang diatur |
-| \*\*Pesanan Tidak Langsung\*\* | Pembeli checkout produk Anda melalui rekomendasi Shopee setelah meng-klik \*link Affiliate\* | Setengah dari nilai komisi\\\* yang diatur |
+| **JENIS PESANAN** | **DEFINISI** | **KOMISI YANG DIBAYARKAN PENJUAL** |
+| **Pesanan Langsung** | Pembeli checkout produk Anda langsung dari \*link Affiliate\* yang mempromosikan toko/produk Anda | Senilai komisi yang diatur |
+| **Pesanan Tidak Langsung** | Pembeli checkout produk Anda melalui rekomendasi Shopee setelah meng-klik \*link Affiliate\* | Setengah dari nilai komisi\\\* yang diatur |
 
 *\*Komisi hanya akan dibayarkan Penjual yang mengaktifkan AMS dan produknya dibeli oleh Pembeli.*
 
@@ -195,10 +192,10 @@ Contoh: Jika komisi yang diatur Penjual sebesar 6%
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*Pesanan Langsung\*\* | Harga Pembelian | Rp50.000 |
+| **Pesanan Langsung** | Harga Pembelian | Rp50.000 |
 | Komisi yang Diatur (%) | 6% |  |
 | Komisi yang Dikenakan (Rp) | 6% x Rp50.000 = Rp3.000 |  |
-|  \*\*Pesanan Tidak Langsung\*\*  | Harga Pembelian | Rp50.000 |
+|  **Pesanan Tidak Langsung**  | Harga Pembelian | Rp50.000 |
 | Komisi yang Diatur (%) | 50% x 6% |  |
 | Komisi yang Dikenakan (Rp) | 3% x Rp50.000 = Rp1.500 |  |
 
@@ -214,11 +211,11 @@ Anda dapat melihat pembayaran komisi per pesanan di halaman **Laporan Konversi**
 
 |  |  |
 | :-: | :-: |
-| \*\*METODE PEMOTONGAN\*\* | \*\*DEFINISI\*\* |
-| \*\*Pemotongan dari Pelepasan Dana\*\* | Biaya komisi dipotong secara otomatis setelah pesanan selesai sebelum hasil penjualan dilepaskan ke Saldo Penjual |
-| \*\*Saldo Penjual\*\* | Jika terjadi kegagalan pemotongan dari pelepasan dana penjualan, biaya komisi akan dipotong melalui Saldo Penjual |
-| \*\*Link Pembayaran\*\* | Biaya komisi yang tidak berhasil dipotong melalui Saldo Penjual H+7 setelah pesanan terselesaikan, Penjual harus membayar melalui \*link\* pembayaran yang akan diterbitkan pada tanggal 18 di bulan selanjutnya |
-| \*\*Penyelesaian Offline\*\* | Biaya komisi tidak dibayarkan melalui pemotongan otomatis seperti Pelepasan Dana dan/atau Saldo Penjual, melainkan melalui pembayaran manual\\\* |
+| **METODE PEMOTONGAN** | **DEFINISI** |
+| **Pemotongan dari Pelepasan Dana** | Biaya komisi dipotong secara otomatis setelah pesanan selesai sebelum hasil penjualan dilepaskan ke Saldo Penjual |
+| **Saldo Penjual** | Jika terjadi kegagalan pemotongan dari pelepasan dana penjualan, biaya komisi akan dipotong melalui Saldo Penjual |
+| **Link Pembayaran** | Biaya komisi yang tidak berhasil dipotong melalui Saldo Penjual H+7 setelah pesanan terselesaikan, Penjual harus membayar melalui \*link\* pembayaran yang akan diterbitkan pada tanggal 18 di bulan selanjutnya |
+| **Penyelesaian Offline** | Biaya komisi tidak dibayarkan melalui pemotongan otomatis seperti Pelepasan Dana dan/atau Saldo Penjual, melainkan melalui pembayaran manual\\\* |
 
 *\*Pembayaran dilakukan melalui transfer ke rekening Shopee dari invoice yang diterbitkan. Saat ini hanya berlaku untuk Penjual terpilih.*
 
@@ -248,11 +245,11 @@ Sistem akan mencoba melakukan pemotongan melalui Saldo Penjual sampai dengan H+7
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*SISTEM SUDAH MELEPASKAN DANA ATAS PESANAN\*\*\*\*YANG TELAH DITERIMA DAN DIVALIDASI\*\* |  |  |
-| \*\*Hari ke - 1\*\* | Biaya Komisi AMS = Rp500.000Saldo Penjual = Rp250.000 | Shopee melakukan pengecekan saldo setiap jam |
-| \*\*Hari ke - 1\*\* | Biaya Komisi AMS = Rp250.000Saldo Penjual = Rp250.000 | Pendapatan dari pesanan sebesar Rp200.000 |
-| \*\*Hari ke - 2\*\* | Biaya Komisi AMS = Rp50.000Saldo Penjual = Rp0 | Shopee mencoba untuk memotong Saldo Penjual secara otomatis selama 7 hari |
-| \*\*Hari ke - 7\*\* | Biaya Komisi AMS = Rp50.000Saldo Penjual = Rp0 | Biaya komisi akan diakumulasikan dan perlu dibayar melalui Link Pembayaran oleh Penjual pada tanggal 18 bulan selanjutnya |
+| **SISTEM SUDAH MELEPASKAN DANA ATAS PESANAN**YANG TELAH DITERIMA DAN DIVALIDASI** |  |  |
+| **Hari ke - 1** | Biaya Komisi AMS = Rp500.000Saldo Penjual = Rp250.000 | Shopee melakukan pengecekan saldo setiap jam |
+| **Hari ke - 1** | Biaya Komisi AMS = Rp250.000Saldo Penjual = Rp250.000 | Pendapatan dari pesanan sebesar Rp200.000 |
+| **Hari ke - 2** | Biaya Komisi AMS = Rp50.000Saldo Penjual = Rp0 | Shopee mencoba untuk memotong Saldo Penjual secara otomatis selama 7 hari |
+| **Hari ke - 7** | Biaya Komisi AMS = Rp50.000Saldo Penjual = Rp0 | Biaya komisi akan diakumulasikan dan perlu dibayar melalui Link Pembayaran oleh Penjual pada tanggal 18 bulan selanjutnya |
 
   
 
@@ -286,15 +283,15 @@ Berikut adalah ilustrasi pemotongan komisi saat transaksi pesanan berhasil:
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*ILUSTRASI PEMOTONGAN KOMISI AFFILIATE MARKETING SOLUTION\*\* |  |  |
-|   | \*\*DENGAN VOUCHER PENJUAL\*\* | \*\*TANPA VOUCHER PENJUAL\*\* |
+| **ILUSTRASI PEMOTONGAN KOMISI AFFILIATE MARKETING SOLUTION** |  |  |
+|   | **DENGAN VOUCHER PENJUAL** | **TANPA VOUCHER PENJUAL** |
 | Harga Asli Produk | Rp50.000 | Rp50.000 |
 | Diskon Voucher/Cashback (Voucher Shopee/Voucher Penjual) | \\- Rp5.000 | \\- Rp0 |
-| \*\*Total Pembayaran Pembeli\*\* | \*\*Rp45.000\*\* | \*\*Rp50.000\*\* |
+| **Total Pembayaran Pembeli** | **Rp45.000** | **Rp50.000** |
 | Besaran Komisi AMS | 10% | 10% |
 | Biaya Komisi AMS (Sebelum Pajak) | (10% x Rp45.000) = Rp4.500 | (Rp50.000 x 10%) = Rp5.000 |
 | PPN 11% | (11% x Rp4.500) = Rp495 | (11% x Rp5.000) = Rp550 |
-| \*\*Biaya komisi yang harus dibayarkan Penjual\*\* | \*\*Biaya Komisi AMS (Sebelum Pajak) + PPN 11% (Rp4.500 + Rp495) = Rp4.995\*\* | \*\*Biaya Komisi AMS (Sebelum Pajak) + PPN 11% (Rp5.000 + Rp550) = Rp5.550\*\* |
+| **Biaya komisi yang harus dibayarkan Penjual** | **Biaya Komisi AMS (Sebelum Pajak) + PPN 11% (Rp4.500 + Rp495) = Rp4.995** | **Biaya Komisi AMS (Sebelum Pajak) + PPN 11% (Rp5.000 + Rp550) = Rp5.550** |
 
   
 
@@ -333,7 +330,7 @@ Komisi yang didapatkan oleh *Affiliate* jika menghasilkan pesanan dari produk ya
 
   
 
-**3. Dapatkah saya menentukan tingkat komisi yang berbeda untuk mitra** ***Affiliate*** **tertentu?**
+**3. Dapatkah saya menentukan tingkat komisi yang berbeda untuk mitra** **Affiliate** **tertentu?**
 
 Ya, Anda dapat menentukan tingkat komisi berbeda untuk *Affiliate* yang berbeda melalui **Komisi XTRA Khusus**. Sedangkan untuk **Komisi XTRA Produk**, komisi akan berlaku untuk semua mitra Affiliate.
 
@@ -357,7 +354,7 @@ Proteksi Komisi XTRA untuk *Affiliate* akan berlaku jika Penjual menurunkan komi
 
   
 
-**5. Bagaimana cara menghubungi** ***Affiliate*****?**
+**5. Bagaimana cara menghubungi** **Affiliate**?**
 
 Anda dapat melihat dan menghubungi *Affiliate* secara langsung melalui fitur **Chat Affiliate** dan/atau klik **Hubungi Sekarang** di[ Affiliate Marketplace](https://seller.shopee.co.id/portal/web-seller-affiliate/kol_marketplace). Pelajari lebih lanjut di[ Chat Affiliate](https://seller.shopee.co.id/edu/courseDetail/957?lessonId=3587).
 
@@ -367,7 +364,7 @@ Anda dan *Affiliate* dapat secara langsung berkoordinasi mengenai bentuk Promosi
 
   
 
-**6. Apakah saya bisa membuat Voucher Khusus untuk** ***Affiliate*****?**
+**6. Apakah saya bisa membuat Voucher Khusus untuk** **Affiliate**?**
 
 Anda dapat membuat Voucher Khusus bagi *Affiliate* untuk promosi melalui Shopee Live dan Shopee Video. Pelajari lebih lanjut mengenai[ Voucher Khusus Streamer (Affiliate) di Shopee Live](https://seller.shopee.co.id/edu/article/19879) dan[ Voucher Khusus Kreator di Shopee Video](https://seller.shopee.co.id/edu/article/21283).
 
@@ -381,7 +378,7 @@ Pesanan Sah adalah pesanan yang tidak dibatalkan, tidak dikembalikan, dan tidak 
 
   
 
-**8. Bagaimana transaksi** ***Affiliate*** **dilacak?**
+**8. Bagaimana transaksi** **Affiliate** **dilacak?**
 
 Transaksi *Affiliate* dilacak berdasarkan Pembeli yang meng-klik *link Affiliate*. Jika Pembeli klik *link Affiliate* dan melakukan pesanan dalam 7 hari, pesanan tersebut akan dianggap sebagai transaksi *Affiliate*. 
 
@@ -401,11 +398,11 @@ Berikut adalah jenis laporan yang dapat Anda akses di Seller Centre:
 
 |  |  |
 | :-: | :-: |
-| \*\*Laporan Penghasilan\*\* | Komisi AMS yang telah dibayarkan melalui\[ Pemotongan dari Pelepasan Dana\](https://seller.shopee.co.id/edu/article/11239) di periode yang ditentukan. |
-| \*\*Laporan Konversi\*\* | Pesanan AMS yang belum tervalidasi\\\*. |
-| \*\*Laporan Validasi\*\* | Pesanan AMS yang sudah tervalidasi (pesanan selesai dan terverifikasi oleh sistem). |
-| \*\*Faktur Invoice\*\* | Pesanan AMS yang telah dibayarkan melalui semua metode pembayaran AMS (Pemotongan dari Pelepasan Dana, Saldo Penjual, Link Pembayaran, Penyelesaian Offline). |
-| \*\*Faktur Pajak\*\* | Bukti pungutan pajak atas Faktur Invoice. |
+| **Laporan Penghasilan** | Komisi AMS yang telah dibayarkan melalui\[ Pemotongan dari Pelepasan Dana\](https://seller.shopee.co.id/edu/article/11239) di periode yang ditentukan. |
+| **Laporan Konversi** | Pesanan AMS yang belum tervalidasi\\\*. |
+| **Laporan Validasi** | Pesanan AMS yang sudah tervalidasi (pesanan selesai dan terverifikasi oleh sistem). |
+| **Faktur Invoice** | Pesanan AMS yang telah dibayarkan melalui semua metode pembayaran AMS (Pemotongan dari Pelepasan Dana, Saldo Penjual, Link Pembayaran, Penyelesaian Offline). |
+| **Faktur Pajak** | Bukti pungutan pajak atas Faktur Invoice. |
 
 *\*Pesanan yang berpotensi terdeteksi sebagai fraud dan pesanan dibatalkan.*
 
@@ -420,6 +417,6 @@ Berikut adalah jenis laporan yang dapat Anda akses di Seller Centre:
 
   
 
-**11. Dimana saya dapat meng-*****download*** **Faktur Pajak AMS saya?**
+**11. Dimana saya dapat meng-**download** **Faktur Pajak AMS saya?**
 
 Faktur Pajak dari AMS akan diterima oleh Penjual melalui email selambat-lambatnya tanggal 15 di bulan berikutnya. Apabila Penjual belum mendapatkan Faktur Pajak biaya AMS, Anda dapat menghubungi Tim Shopee atau[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270).

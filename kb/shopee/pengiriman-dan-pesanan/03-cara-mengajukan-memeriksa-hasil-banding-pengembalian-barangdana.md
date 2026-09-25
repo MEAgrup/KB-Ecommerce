@@ -18,9 +18,6 @@ sources:
 **Cara Mengajukan Banding Pengembalian Barang/Dana**
 
 
-10-08-2026
-
-**Cara Mengajukan Banding Pengembalian Barang/Dana**
 
 Anda dapat menemukan permintaan pengembalian dari Pembeli melalui halaman[ **Pengembalian/Pembatalan**](https://seller.shopee.co.id/portal/sale/returnrefundcancel) di Seller Centre dan halaman **Rincian Pengembalian** di Aplikasi Shopee untuk dapat mengajukan banding.
 

@@ -18,11 +18,6 @@ sources:
 [Seller Centre](https://seller.shopee.co.id/) adalah situs Shopee yang memungkinkan Anda untuk mengelola toko dengan lebih mudah.
 
 
-13-10-2023
-
-[Seller Centre](https://seller.shopee.co.id/) adalah situs Shopee yang memungkinkan Anda untuk mengelola toko dengan lebih mudah.
-
-  
 
 Seller Centre menawarkan akses ke rangkaian fitur yang lebih lengkap untuk membantu Anda meningkatkan penjualan dengan lebih baik, seperti:
 

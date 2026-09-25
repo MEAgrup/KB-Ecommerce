@@ -18,9 +18,6 @@ sources:
 **1. Apa yang harus saya lakukan jika saya perlu segera menghubungi Pembeli dan Pembeli tidak merespons di Chat?**
 
 
-23-05-2025
-
-**1. Apa yang harus saya lakukan jika saya perlu segera menghubungi Pembeli dan Pembeli tidak merespons di Chat?**
 
 Jika pesanan berisiko mengalami[ keterlambatan pengiriman atau pembatalan otomatis](https://seller.shopee.co.id/edu/courseDetail/284?lessonId=133) karena kurangnya respons Pembeli, hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) untuk bantuan ataulakukan[ pengajuan banding melalui Seller Centre](https://seller.shopee.co.id/edu/article/16074/pengajuan-banding-penalti) apabila mendapatkan poin penalti.
 
@@ -30,7 +27,7 @@ Agar proses pengemasan pesanan tidak berkendala, pastikan stok ter-*update*, gun
 
   
 
-**2.**  **Bagaimana jika saya menjual produk** ***custom*** **dan membutuhkan konfirmasi yang cepat dari Pembeli?**
+**2.**  **Bagaimana jika saya menjual produk** **custom** **dan membutuhkan konfirmasi yang cepat dari Pembeli?**
 
 Anda dapat mengaktifkan fitur[ Pre-order](https://seller.shopee.co.id/edu/article/7010) pada produk untuk mengatur masa pengemasan yang lebih lama di antara 3-30 hari kerja. Apabila pesanan sudah siap sebelum masa pengemasan produk Pre-order yang telah ditentukan, Anda tetap dapat mengirim pesanan lebih awal.
 
@@ -146,11 +143,11 @@ Dengan menggunakan *filter* tersebut memungkinkan Anda untuk mengambil tindakan 
 
 Ada berbagai tindakan yang dapat Anda lakukan untuk memeriksa pengiriman yang gagal, tergantung pada status di bawah ini:
 
-  - **\*\*Sedang Dikembalikan ke Penjual\*\***
+  - **Sedang Dikembalikan ke Penjual**
 
 Status ini berguna dalam mengetahui informasi jumlah pengiriman gagal yang Anda miliki dan melacak paket yang sedang dalam perjalanan kembali ke Anda.
 
-  - **\*\*Dikirim ke Penjual\*\***
+  - **Dikirim ke Penjual**
 
 Status ini menunjukkan bahwa paket dari pengiriman gagal telah Anda terima. Setelah menerima paket dari pengiriman yang gagal, penting bagi Anda untuk memeriksa paket dan barang di dalamnya dalam kondisi baik. Barang yang masih dalam kondisi baik dapat digunakan untuk mengisi kembali stok Anda.
 
@@ -196,7 +193,7 @@ Pelajari lebih lanjut tentang proses ganti rugi jika barang rusak/hilang dalam p
 
   
 
-  - **\*\*Gagal Dikembalikan ke Penjual\*\***
+  - **Gagal Dikembalikan ke Penjual**
 
 Jika jasa kirim telah melakukan beberapa upaya untuk mengirimkan paket kepada Anda tetapi tidak berhasil, maka jasa kirim berhak untuk mengambil tindakan terhadap paket tersebut dan status paket Anda di Shopee akan diperbarui sebagai **Gagal Dikembalikan ke Penjual**.
 

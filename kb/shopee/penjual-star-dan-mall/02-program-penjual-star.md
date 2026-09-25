@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Penjual Star?**
 
 
-16-07-2026
-
-**Apa itu Program Penjual Star?**
 
 Program Penjual Star memberikan keuntungan kepada Penjual yang dipilih secara khusus oleh Shopee sebagai pengakuan atas penjualan dan layanan Pembeli yang sangat baik. 
 
@@ -40,9 +37,9 @@ Ada beberapa keuntungan yang bisa Anda dapatkan dengan menjadi Penjual Star:
 
 |  |  |
 | :-: | :-: |
-| \*\*PROFIL TOKO\*\* | \*\*HASIL PENCARIAN\*\* |
+| **PROFIL TOKO** | **HASIL PENCARIAN** |
 |  |    |
-| \*\*FOTO PRODUK\*\* | \*\*HALAMAN PRODUK\*\* |
+| **FOTO PRODUK** | **HALAMAN PRODUK** |
 |    |   |
 
   
@@ -86,7 +83,7 @@ Performa Penjual diukur secara adil dan transparan. Anda harus memenuhi target d
 
 |  |  |
 | :-: | :-: |
-| \*\*KRITERIA\*\* | \*\*TARGET\*\* |
+| **KRITERIA** | **TARGET** |
 | \*Detail\* No. KTP telah diterima dandisetujui oleh Shopee | \\- |
 | Pembeli Berbeda 30 Hari Terakhir | ≥10 |
 | Transaksi Berhasil 30 Hari Terakhir | ≥20 pesanan |
@@ -131,7 +128,7 @@ Berikut adalah jenis produk yang dilarang dijual oleh Penjual Star:
 
 *\*Pelajari cara*[ *Meng-upload Daftar Produk*](https://seller.shopee.co.id/edu/article/16726) *dengan benar.*
 
-*\*\*Cek info lengkap mengenai*[ *Kebijakan Barang yang Dilarang dan Dibatasi*](https://help.shopee.co.id/portal/article/71189)*.*
+**Cek info lengkap mengenai*[ *Kebijakan Barang yang Dilarang dan Dibatasi*](https://help.shopee.co.id/portal/article/71189)*.*
 
   
 
@@ -147,11 +144,11 @@ Periksa kriteria terbaru menjadi Penjual Star yang diperlukan serta performa And
 
 Anda dapat memantau performa toko untuk melihat apakah target menjadi Penjual Star telah terpenuhi melalui Seller Centre dan aplikasi Seller Centre Shopee dengan cara berikut:
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
   
 
-  - **\*\*Aplikasi Seller Centre Shopee\*\***
+  - **Aplikasi Seller Centre Shopee**
 
   
 
@@ -422,23 +419,23 @@ Berikut contoh deskripsi banding yang jelas:
 
 |  |  |
 | :-: | :-: |
-| \*\*PANDUAN\*\* | \*\*DESKRIPSI BANDING\*\* |
-| \*\*Apa\*\* | Saya ingin mengajukan banding untuk kriteria\*\*Perbedaan Persentase Chat Dibalas…\*\* |
-| \*\*Mengapa\*\* | … dikarenakan \*\*kekurangan sumber daya untuk\*\*\*\*membalas setiap\*\* \*\*\*chat\*\*\* \*\*Pembeli pada saat\*\* \*\*\*peak\*\*\*\*\*\*day campaign\*\*\* \*\*12.12.\*\* |
-| \*\*Bagaimana\*\* | \*\*Kriteria pada halaman toko dihitung setiap\*\*\*\*hari, sedangkan kriteria pada halaman Penjual\*\*\*\*Star dihitung setiap minggu.\*\* |
+| **PANDUAN** | **DESKRIPSI BANDING** |
+| **Apa** | Saya ingin mengajukan banding untuk kriteria**Perbedaan Persentase Chat Dibalas…** |
+| **Mengapa** | … dikarenakan **kekurangan sumber daya untuk**membalas setiap** **\*chat**\* **Pembeli pada saat** **\*peak**day campaign**\* **12.12.** |
+| **Bagaimana** | **Kriteria pada halaman toko dihitung setiap**hari, sedangkan kriteria pada halaman Penjual**Star dihitung setiap minggu.** |
 
   
 
-**3.** ***Upload*** **dokumen pendukung**
+**3.** **Upload** **dokumen pendukung**
 
 Lihat tabel di bawah untuk mengetahui dokumen pendukung yang perlu Anda *upload* selama proses pengajuan banding berdasarkan kriteria yang tidak terpenuhi:
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KRITERIA\*\* | \*\*ALASAN PENGAJUAN BANDING\*\* | \*\*DOKUMEN PENDUKUNG\*\* |
-| \*\*Poin Penalti\*\* | Perbedaan total poin penalti dihalaman \*\*Kesehatan Toko\*\*dengan halaman \*\*Penjual Star\*\* | • \*Screenshot\* poin penalti terbarupada halaman \*\*Kesehatan Toko\*\*, atau• Bukti notifikasi bahwa pengajuanbanding poin penalti sudah diterimaoleh tim terkait Shopee yang dapatdiambil melalui halaman \*\*Banding\*\*\*\*Penalti\*\* di Seller Centre. |
-| \*\*Persentase Chat Dibalas\*\* | Perbedaan total Persentase ChatDibalas di halaman toko atauhalaman \*\*Kesehatan Toko\*\*dengan halaman \*\*Star\*\* | \*Screenshot\* Persentase Chat Dibalaspada halaman toko atau \*\*Kesehatan\*\*\*\*Toko\*\* di Seller Centre. |
-| \*\*Penilaian Toko\*\* | Perbedaan total Penilaian Toko dihalaman toko atau halaman\*\*Kesehatan Toko\*\* denganhalaman \*\*Star\*\* | ⁠ \*Screenshot\* Penilaian Toko padahalaman toko atau halaman\*\*Kesehatan Toko\*\* di Seller Centre. |
+| **KRITERIA** | **ALASAN PENGAJUAN BANDING** | **DOKUMEN PENDUKUNG** |
+| **Poin Penalti** | Perbedaan total poin penalti dihalaman **Kesehatan Toko**dengan halaman **Penjual Star** | • \*Screenshot\* poin penalti terbarupada halaman **Kesehatan Toko**, atau• Bukti notifikasi bahwa pengajuanbanding poin penalti sudah diterimaoleh tim terkait Shopee yang dapatdiambil melalui halaman **Banding**Penalti** di Seller Centre. |
+| **Persentase Chat Dibalas** | Perbedaan total Persentase ChatDibalas di halaman toko atauhalaman **Kesehatan Toko**dengan halaman **Star** | \*Screenshot\* Persentase Chat Dibalaspada halaman toko atau **Kesehatan**Toko** di Seller Centre. |
+| **Penilaian Toko** | Perbedaan total Penilaian Toko dihalaman toko atau halaman**Kesehatan Toko** denganhalaman **Star** | ⁠ \*Screenshot\* Penilaian Toko padahalaman toko atau halaman**Kesehatan Toko** di Seller Centre. |
 
   
 

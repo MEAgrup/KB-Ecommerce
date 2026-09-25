@@ -18,6 +18,3 @@ sources:
 ﻿﻿﻿﻿﻿Setelah menyelesaikan pesanan, semua penghasilan akan dicairkan ke[ Saldo Penjual](https://seller.shopee.co.id/edu/article/6995) Anda. Kemudian, Anda dapat menarik penghasilan tersebut ke rekening bank Anda.
 
 
-08-08-2024
-
-﻿﻿﻿﻿﻿Setelah menyelesaikan pesanan, semua penghasilan akan dicairkan ke[ Saldo Penjual](https://seller.shopee.co.id/edu/article/6995) Anda. Kemudian, Anda dapat menarik penghasilan tersebut ke rekening bank Anda.

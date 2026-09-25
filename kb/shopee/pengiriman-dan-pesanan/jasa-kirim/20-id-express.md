@@ -18,9 +18,6 @@ sources:
 **Jenis Layanan Jasa Kirim ID Express**
 
 
-05-08-2026
-
-**Jenis Layanan Jasa Kirim ID Express**
 
 ID Express merupakan[ jasa kirim didukung Shopee](https://seller.shopee.co.id/edu/article/3384) yang Jasa kirim ID Express saat ini dapat diaktifkan oleh Penjual di seluruh Indonesia. Anda bisa melihat[ lokasi terdekat ID Express](https://idexpress.com/cek-lokasi/) atau mengirimkan paket dengan *drop off* melalui[ cabang Alfamart](https://opoint.id/). Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
@@ -52,7 +49,7 @@ Jumlah pesanan bersih adalah jumlah pesanan terbayar yang tidak termasuk:
 
   
 
-**Ketentuan Layanan** ***Pickup*** **ID Express**
+**Ketentuan Layanan** **Pickup** **ID Express**
 
 Performa pesanan harian di toko Anda akan dievaluasi setiap bulan. Jika toko Anda belum memiliki layanan *pickup* dan telah memenuhi kriteria yang ditentukan, maka layanan *pickup* akan otomatis tersedia pada akun Anda di minggu pertama bulan berikutnya.
 
@@ -81,7 +78,7 @@ Ketika Penjual mendapatkan pesanan yang sudah berhasil terbayarkan, maka Penjual
 
   
 
-**1.** ***Pick up***
+**1.** **Pick up**
 
 Terdapat dua waktu pengiriman setiap harinya, yaitu:
 
@@ -94,7 +91,7 @@ Pelajari lebih lanjut mengenai[ Proses *Pick up*](https://seller.shopee.co.id/ed
 
   
 
-**2.** ***Drop off*** **(antar ke counter)**
+**2.** **Drop off** **(antar ke counter)**
 
 Pastikan mencetak label pengiriman dari Shopee sebelum *drop off*. Jam operasional *drop off* berbeda-beda tergantung dari jam operasional masing-masing agen pengiriman.
 

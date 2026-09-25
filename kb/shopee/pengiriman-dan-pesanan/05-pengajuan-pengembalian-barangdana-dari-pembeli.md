@@ -18,9 +18,6 @@ sources:
 Pembeli dapat mengajukan pengembalian barang/dana dalam batas waktu berikut:
 
 
-27-01-2026
-
-Pembeli dapat mengajukan pengembalian barang/dana dalam batas waktu berikut:
 
   - Shopee Mall: 15 hari kalender terhitung sejak barang diterima.
   - Star+: 7 hari kalender terhitung sejak barang diterima.

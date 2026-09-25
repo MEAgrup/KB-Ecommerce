@@ -18,9 +18,6 @@ sources:
 **Cara Kerja dan Pelepasan Dana Cepat**
 
 
-22-07-2026
-
-**Cara Kerja dan Pelepasan Dana Cepat**
 
 Fitur Dana Cepat dapat mempercepat pelepasan dana penjualan setelah mengatur pengiriman dan resi pengiriman terkonfirmasi oleh sistem Shopee, tanpa harus menunggu konfirmasi pesanan selesai oleh Pembeli.
 
@@ -71,7 +68,7 @@ Jika tagihan Dana Cepat tidak berhasil dibayarkan dengan pembayaran otomatis, ma
 
 Berikut cara untuk melakukan pembayaran manual untuk tagihan Dana Cepat:
 
-  - **\*\*Melalui aplikasi Shopee\*\***
+  - **Melalui aplikasi Shopee**
 
   
 
@@ -79,7 +76,7 @@ Di halaman **Pembayaran**, Anda dapat memilih metode pembayaran yang Anda ingink
 
   
 
-  - **\*\*Melalui situs PT Lentera Dana Nusantara\*\***
+  - **Melalui situs PT Lentera Dana Nusantara**
 
 Pastikan Anda telah membuat akun di situs[ PT Lentera Dana Nusantara](https://www.lenteradana.co.id/) dengan memasukkan no. HP dan kata sandi.
 
@@ -113,8 +110,8 @@ Fitur Dana Cepat dikenakan biaya pencairan sebesar 0,5% yang dikenakan di awal p
 
 |  |  |
 | :-: | :-: |
-| \*\*Ilustrasi Pelepasan Dana Penjualan dengan Dana Cepat\*\* |  |
-| Dana Penjualan\*\*\*(resi terkonfirmasi)\*\*\* | Rp100.000 |
+| **Ilustrasi Pelepasan Dana Penjualan dengan Dana Cepat** |  |
+| Dana Penjualan**\*(resi terkonfirmasi)**\* | Rp100.000 |
 | Biaya Pencairan | \\= 0,5% x Rp100.000\\= Rp500 |
 | Dana Diterima | \\= Dana Penjualan - Biaya Pencarian\\= Rp100.000 - Rp500\\= Rp 99.500 |
 

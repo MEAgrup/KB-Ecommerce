@@ -18,9 +18,6 @@ sources:
 **Apa itu Paket Promosi?**
 
 
-20-05-2026
-
-**Apa itu Paket Promosi?**
 
 Paket Promosi dapat membantu meningkatkan eksposur toko dan produk Anda selama periode promosi dengan memanfaatkan berbagai penempatan promosi, seperti penempatan dari Iklan Banner Max, Flash Sale, dan halaman promosi.
 
@@ -33,7 +30,7 @@ Agar pengalaman berjualan menjadi lebih mudah, praktis, sekaligus membantu Anda 
 
 |  |  |
 | :-: | :-: |
-| \*\*SEBELUM\*\* | \*\*SESUDAH\*\* |
+| **SEBELUM** | **SESUDAH** |
 | Paket Promosi yang dibeli secara\*offline\* atau melalui Tim Shopee | Paket Promosi dapat dibelilangsung melalui Seller Centre.• Mendukung berbagai pilihanpembayaran• Faktur pembayaran dapat dilihatlangsung di halaman rincianpesanan |
 | Paket yang dibeli dengan harga  tetap atau dengan persentasekomisi tambahan | Setiap Paket Promosi dijualberdasarkan jumlahtayangan/impresi yang Shopeeakan berikan (dalam kisarantertentu, Penjual akandiperlihatkan nilai minimum danmaksimum) |
 | Komunikasi secara \*offline\*dengan Tim Shopee | Layanan mandiri secara \*online\* |

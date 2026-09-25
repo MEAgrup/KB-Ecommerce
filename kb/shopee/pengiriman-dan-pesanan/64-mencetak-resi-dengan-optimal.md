@@ -18,9 +18,6 @@ sources:
 **Batas Waktu Cetak Resi**
 
 
-17-06-2025
-
-**Batas Waktu Cetak Resi**
 
 Tujuan utama dari resi adalah sebagai dokumen pendukung untuk pengiriman produk. Mencetak resi dengan baik akan membantu dan mempercepat proses pemenuhan pesanan, khususnya pada proses penyerahan produk ke jasa kirim.
 
@@ -62,7 +59,7 @@ Proses memotong resi ini pada umumnya memakan waktu yang lebih banyak dibandingk
 
   
 
-## **Penggunaan** ***Thermal Printer***
+## **Penggunaan** **Thermal Printer**
 
 *Thermal printer* dapat menjadi solusi untuk mempercepat proses pencetakan resi. Selain durasi cetak yang lebih cepat, *printer* ini menggunakan kertas *thermal* dengan porporasi yang tidak perlu dipotong lagi karena ukuran yang dihasilkan telah sesuai standar resi pengiriman pada umumnya.
 

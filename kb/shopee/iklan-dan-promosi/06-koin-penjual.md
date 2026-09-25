@@ -18,9 +18,6 @@ sources:
 **Apa itu Koin Penjual?**
 
 
-15-01-2026
-
-**Apa itu Koin Penjual?**
 
 [**Koin Penjual**](https://seller.shopee.co.id/portal/marketing/coins) adalah fitur yang memungkinkan Penjual untuk membeli koin Shopee yang dapat dibagikan ke Pembeli berupa Bonus Koin Shopee dalam kegiatan toko, seperti *live streaming* di[ Shopee Live](https://seller.shopee.co.id/edu/courseDetail/720?lessonId=37), Game Toko, maupun Hadiah Penilaian.
 

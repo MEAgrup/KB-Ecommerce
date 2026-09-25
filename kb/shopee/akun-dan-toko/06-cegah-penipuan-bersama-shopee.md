@@ -18,17 +18,12 @@ sources:
 Shopee mengimbau para Pengguna untuk lebih berhati-hati saat menerima instruksi untuk membagikan kode verifikasi (OTP) atau data pribadi rahasia lainnya dari pihak yang mengatasnamakan Shopee. Shopee **TIDAK PERNAH meminta kode verifikasi (OTP) dan PIN** Anda untuk memberikan hadiah/undian atau menyelesaikan permasalahan.
 
 
-14-10-2024
-
-Shopee mengimbau para Pengguna untuk lebih berhati-hati saat menerima instruksi untuk membagikan kode verifikasi (OTP) atau data pribadi rahasia lainnya dari pihak yang mengatasnamakan Shopee. Shopee **TIDAK PERNAH meminta kode verifikasi (OTP) dan PIN** Anda untuk memberikan hadiah/undian atau menyelesaikan permasalahan.
-
-  
 
 Jika pihak di luar Shopee atau penipu berhasil mendapatkan kode verifikasi (OTP) dan/atau data pribadi rahasia lainnya, maka akun Anda tidak lagi aman. Bahkan, informasi Anda dapat digunakan untuk melakukan berbagai tindakan kriminal oleh pihak yang tidak bertanggung jawab. Kenali lebih lanjut tentang kode verifikasi (OTP) dan PIN di bawah ini
 
   
 
-  - **\*\*Kode verifikasi (OTP)\*\***
+  - **Kode verifikasi (OTP)**
 
 OTP atau *One-Time Password* adalah kode verifikasi atau *password* sekali pakai yang terdiri dari 6 digit karakter (seringkali angka) unik dan bersifat rahasia yang umumnya dikirimkan melalui SMS atau email. Sistem akan memverifikasi dengan kode OTP untuk memproses transaksi tertentu, seperti:
 
@@ -38,7 +33,7 @@ OTP atau *One-Time Password* adalah kode verifikasi atau *password* sekali pakai
 
   
 
-  - **\*\*PIN\*\***
+  - **PIN**
 
 Pembeli dan Penjual di Shopee wajib membuat PIN untuk mengakses ShopeePay dan Saldo Penjual demi menjaga keamanan akun Anda. Mohon bedakan PIN ShopeePay dari password akun Shopee Anda untuk meningkatkan keamanan akun.
 
@@ -74,13 +69,13 @@ Untuk dapat terhindar dari kasus penipuan yang mungkin terjadi, Anda harus menge
 
   
 
-**1.** ***Fraud***
+**1.** **Fraud**
 
 *Fraud* merupakan sebuah aktivitas mencurigakan baik karena penyalahgunaan program Shopee maupun upaya penipuan yang merugikan Pengguna dan Shopee sendiri.
 
   
 
-**Ciri-ciri aktivitas** ***fraud*** **di antaranya:**
+**Ciri-ciri aktivitas** **fraud** **di antaranya:**
 
   - Pemalsuan informasi penjualan
   - Penyalahgunaan voucher
@@ -95,7 +90,7 @@ Untuk dapat terhindar dari kasus penipuan yang mungkin terjadi, Anda harus menge
 
   
 
-**2.** ***Scam***
+**2.** **Scam**
 
 *Scam* merupakan sebuah aktivitas penyalahgunaan akun Pengguna Shopee oleh pihak lain di luar Shopee.
 
@@ -116,7 +111,7 @@ Untuk dapat terhindar dari kasus penipuan yang mungkin terjadi, Anda harus menge
 
   
 
-**3.** **ATO** ***(Account Takeover)***
+**3.** **ATO** **(Account Takeover)**
 
 ATO adalah salah satu jenis dari tindakan scam yang berupa pencurian identitas di mana penipu secara ilegal mendapatkan akses ke akun bank korban, akun *e-commerce*, atau jenis akun lainnya.
 
@@ -132,13 +127,13 @@ ATO adalah salah satu jenis dari tindakan scam yang berupa pencurian identitas d
 
   
 
-**4.** ***Phishing***
+**4.** **Phishing**
 
 *Phishing* adalah bentuk yang paling umum dari *scam*. *Phishing* merupakan suatu usaha untuk mendapatkan akses ke akun Anda dengan mencuri informasi penting seperti *password* dan data diri pribadi.
 
   
 
-***Phishing*** **email/SMS memiliki karakteristik sebagai berikut:**
+**Phishing** **email/SMS memiliki karakteristik sebagai berikut:**
 
   - Permintaan terhadap informasi pribadi seperti no. kartu kredit
   - Terdapat lampiran yang tidak diminta.

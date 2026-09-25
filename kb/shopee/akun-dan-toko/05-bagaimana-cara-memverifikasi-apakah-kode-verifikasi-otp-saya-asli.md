@@ -18,11 +18,6 @@ sources:
 Saat Anda meminta kode verifikasi (OTP), Shopee dapat mengirimkannya kepada Anda melalui akun WhatsApp bisnis **Shopee Security.**
 
 
-28-11-2022
-
-Saat Anda meminta kode verifikasi (OTP), Shopee dapat mengirimkannya kepada Anda melalui akun WhatsApp bisnis **Shopee Security.**
-
-  
 
 Untuk memeriksa apakah pesan yang Anda terima asli, pastikan bahwa:
 

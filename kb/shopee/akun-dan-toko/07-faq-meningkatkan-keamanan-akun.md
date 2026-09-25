@@ -18,9 +18,6 @@ sources:
 **Umum**
 
 
-05-03-2026
-
-**Umum**
 
 **1. Mengapa saya mendapatkan notifikasi log in yang tidak dikenal dari Shopee?**
 

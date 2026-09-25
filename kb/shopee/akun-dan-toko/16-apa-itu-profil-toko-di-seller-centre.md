@@ -18,9 +18,6 @@ sources:
 Profil Toko di Seller Centre adalah fitur yang memungkinkan Anda mengelola semua informasi penting untuk toko dan bisnis. Tergantung pada tipe toko Penjual, Anda dapat melihat berbagai jenis informasi yang tersedia.
 
 
-27-08-2024
-
-Profil Toko di Seller Centre adalah fitur yang memungkinkan Anda mengelola semua informasi penting untuk toko dan bisnis. Tergantung pada tipe toko Penjual, Anda dapat melihat berbagai jenis informasi yang tersedia. 
 
 ⚠️ **Catatan**
 

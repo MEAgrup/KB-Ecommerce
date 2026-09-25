@@ -18,21 +18,18 @@ sources:
 **Mengaktifkan Jasa Kirim**
 
 
-18-05-2026
-
-**Mengaktifkan Jasa Kirim**
 
 **1. Bagaimana cara Penjual memilih jasa kirim yang ingin diaktifkan/dinonaktifkan?**
 
 Penjual dapat memilih jasa kirim yang ingin diaktifkan/dinonaktifkan dengan cara berikut:
 
-  - **\*\*Seller Centre\*\***
+  - **Seller Centre**
 
 Menu **Pesanan** \> **Pengaturan Pengiriman**
 
   
 
-  - **\*\*Aplikasi Shopee\*\***
+  - **Aplikasi Shopee**
 
 Menu **Pengaturan Pengiriman** \> **Jasa Kirim**
 
@@ -176,7 +173,7 @@ Contoh untuk Pos Reguler:
   - Anda hanya perlu memasukkan no. resi untuk jasa kirim Non-Cashless.
 
   
-**5. Bagaimana jika kurir dari pihak jasa kirim terlambat atau tidak melakukan** ***pick up*****?**
+**5. Bagaimana jika kurir dari pihak jasa kirim terlambat atau tidak melakukan** **pick up**?**
 
 Anda dapat melakukan pencarian kurir ulang jika mengalami kendala *pick up*. Pelajari lebih lanjut[ Bagaimana saya dapat meminta jasa kirim melakukan *pick up* pesanan saya?](https://seller.shopee.co.id/edu/article/15874/pick-up-pesanan-oleh-jasa-kirim)
 
@@ -186,7 +183,7 @@ Namun untuk menghindari keterlambatan pesanan atau pembatalan pesanan otomatis, 
 
   
 
-**6. Apa yang harus saya lakukan jika paket saya sudah di-*****pick up*****/di-*****drop off*** **ke counter namun status pesanan tidak diperbarui?**
+**6. Apa yang harus saya lakukan jika paket saya sudah di-**pick up**/di-**drop off** **ke counter namun status pesanan tidak diperbarui?**
 
 Jika paket Anda sudah di-*pick u*p/di-*drop off* ke counter namun status pesanan tidak diperbarui, Anda dapat:
 

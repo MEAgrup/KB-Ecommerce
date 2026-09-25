@@ -15,12 +15,9 @@ sources:
 # Apa itu penipuan dengan phishing?
 
 ## Ringkasan
-**Apa itu penipuan dengan** ***phishing*****?**
+**Apa itu penipuan dengan** **phishing**?**
 
 
-28-03-2023
-
-**Apa itu penipuan dengan** ***phishing*****?**
 
 *Phishing* adalah bentuk yang paling umum dari *scam*. *Phishing* merupakan suatu usaha untuk mendapatkan akses ke akun Anda dengan mencuri informasi penting seperti *password* dan data diri pribadi. Penipuan *phishing* sering ditemukan dalam bentuk email, iklan, pesan, atau situs yang berpura-pura seolah dari sumber terpercaya.
 
@@ -30,7 +27,7 @@ Penipuan semacam itu digunakan oleh peretas untuk mengelabui Anda agar memberika
 
   
 
-**Penipuan dengan** ***phishing*** **apa yang paling umum menargetkan Penjual?**
+**Penipuan dengan** **phishing** **apa yang paling umum menargetkan Penjual?**
 
 Dalam kasus penipuan dengan *phishing* yang menargetkan ke Penjual, penipu sering memancing keinginan Penjual untuk menyelesaikan pesanan dengan lancar, mendapatkan pembayaran, dan/atau menerima manfaat dari *platform*.
 
@@ -63,7 +60,7 @@ Namun, contoh di atas diambil dari situasi masa lalu. Karena penipu selalu mengu
 
   
 
-**Bagaimana cara saya melindungi diri dari penipuan** ***phishing*****?**
+**Bagaimana cara saya melindungi diri dari penipuan** **phishing**?**
 
 Anda dapat melindungi diri dari penipuan *phishing* dengan mengingat beberapa hal di bawah ini:
 

@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Afiliasi Penjual?**
 
 
-09-07-2026
-
-**Apa itu Program Afiliasi Penjual?**
 
 Program Afiliasi Penjual adalah program yang memungkinkan Penjual untuk mendapatkan penghasilan tambahan berupa komisi atas pesanan selesai dari *link* produk/toko khusus yang Penjual bagikan di media sosial.
 
@@ -30,9 +27,9 @@ Berikut jumlah komisi yang bisa didapatkan Penjual berdasarkan tipe Pembeli:
 
 |  |  |
 | :-: | :-: |
-| \*\*TIPE PEMBELI\*\* | \*\*KOMISI PER PESANAN\\\*\*\* |
-| \*\*Pembeli Baru\*\* | \*\*10% dengan maks. Rp10.000/pesanan\*\* |
-| \*\*Pembeli Setia\*\* | \*\*5% dengan maks. Rp10.000/pesanan\*\* |
+| **TIPE PEMBELI** | **KOMISI PER PESANAN\\**\* |
+| **Pembeli Baru** | **10% dengan maks. Rp10.000/pesanan** |
+| **Pembeli Setia** | **5% dengan maks. Rp10.000/pesanan** |
 
   
 
@@ -87,7 +84,7 @@ Anda juga dapat menyalin *link* langsung dari halaman **Toko Saya** dengan cara 
 
   
 
-**Menyalin** ***Link*** **dari** ***Web Browser***
+**Menyalin** **Link** **dari** **Web Browser**
 
 Untuk membagikan *link* produk/toko yang disalin melalui *web browser*, Anda perlu mengubahnya menjadi *link* Afiliasi agar pesanan dapat dilacak. Mengubah *linkweb browser* dapat dilakukan melalui aplikasi Shopee dan Situs Program Afiliasi Penjual.
 

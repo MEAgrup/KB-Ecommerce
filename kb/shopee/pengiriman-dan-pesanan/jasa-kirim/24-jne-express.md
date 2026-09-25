@@ -18,11 +18,8 @@ sources:
 **Jenis Layanan Jasa Kirim JNE Express**
 
 
-05-08-2026
 
-**Jenis Layanan Jasa Kirim JNE Express**
-
-  - **\*\*Reguler\*\***
+  - **Reguler**
 
 **1. JNE Reguler**
 
@@ -43,7 +40,7 @@ Layanan jasa kirim JNE Express di mana Anda dapat mengisi no. resi pengiriman da
 
   
 
-  - **\*\*Hemat Kargo\*\***
+  - **Hemat Kargo**
 
 **1. JNE Trucking (JTR)**
 
@@ -51,7 +48,7 @@ Layanan JNE Express secara *cashless* (non-tunai) yang mendukung pengiriman dala
 
   
 
-  - **\*\*Next Day\*\***
+  - **Next Day**
 
 **1. JNE YES**
 
@@ -63,7 +60,7 @@ Dengan layanan ini, paket Anda akan sampai tujuan keesokan harinya (termasuk har
 
   
 
-**Berikut** ***detail*** **ketentuan menggunakan jasa kirim JNE Express:**
+**Berikut** **detail** **ketentuan menggunakan jasa kirim JNE Express:**
 
 **⚠️Catatan**
 
@@ -73,7 +70,7 @@ Dengan layanan ini, paket Anda akan sampai tujuan keesokan harinya (termasuk har
   - Apabila biaya ongkos kirim Jasa kirim JNE Trucking (JTR) lebih dari 250kg maka akan terdapat tambahan biaya. Pelajari lebih lanjut tentang[ tambahan biaya pengiriman JNE Trucking (JTR)](https://seller.shopee.co.id/edu/article/17835).
 
 **  
-****Area Jangkauan Penjual JNE Express**
+**Area Jangkauan Penjual JNE Express**
 
 **Area Jangkauan JNE Reguler**
 
@@ -118,7 +115,7 @@ Jumlah pesanan bersih adalah jumlah pesanan terbayar yang tidak termasuk:
 
   
 
-**Ketentuan Layanan** ***Pick up*** **JNE Express**
+**Ketentuan Layanan** **Pick up** **JNE Express**
 
 Performa pesanan harian di toko Anda akan dievaluasi setiap bulan. Jika toko Anda belum memiliki layanan *pick up* dan telah memenuhi kriteria yang ditentukan, maka layanan *pick up* akan otomatis tersedia pada akun Anda di **minggu pertama bulan berikutnya**.
 

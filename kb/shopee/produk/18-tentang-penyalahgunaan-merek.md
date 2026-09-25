@@ -18,11 +18,6 @@ sources:
 Penyalahgunaan Merek adalah segala bentuk penggunaan nama, logo, atau identitas pembeda suatu merek tanpa izin yang sah, sehingga menimbulkan kesan adanya hubungan, afiliasi, atau persetujuan resmi dari pemilik merek. Tindakan ini umumnya dilakukan untuk kepentingan komersial dan berpotensi menyesatkan Pembeli.
 
 
-05-01-2026
-
-Penyalahgunaan Merek adalah segala bentuk penggunaan nama, logo, atau identitas pembeda suatu merek tanpa izin yang sah, sehingga menimbulkan kesan adanya hubungan, afiliasi, atau persetujuan resmi dari pemilik merek. Tindakan ini umumnya dilakukan untuk kepentingan komersial dan berpotensi menyesatkan Pembeli.
-
-  
 
 Beberapa contoh tindakan Penjual yang tergolong sebagai penyalahgunaan merek, termasuk namun tidak terbatas pada:
 

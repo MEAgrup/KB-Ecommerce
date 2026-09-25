@@ -18,11 +18,6 @@ sources:
 Anda dapat melacak pengiriman melalui Seller Centre di menu **Pesanan** pada halaman **Pesanan Saya** atau di bawah *tab* **Perlu Dikirim** dan **Dikirim** melalui aplikasi Shopee.
 
 
-01-09-2025
-
-Anda dapat melacak pengiriman melalui Seller Centre di menu **Pesanan** pada halaman **Pesanan Saya** atau di bawah *tab* **Perlu Dikirim** dan **Dikirim** melalui aplikasi Shopee.
-
-  
 
 **Melalui Seller Centre**
 

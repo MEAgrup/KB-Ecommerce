@@ -18,11 +18,6 @@ sources:
 Ketahui cara mudah membuat dan mengatur toko untuk memulai berjualan dan mendapatkan pesanan di Shopee. Untuk memulai, *download* aplikasi Shopee melalui[ Google Play Store](https://play.google.com/store/apps/details?id=com.shopee.id) atau[ App Store](https://apps.apple.com/id/app/shopee-3-15-hari-konsumen/id959841443) menggunakan handphone Anda atau akses situs Shopee melalui[ https://shopee.co.id/](https://shopee.co.id/) menggunakan komputer/laptop.
 
 
-27-02-2023
-
-Ketahui cara mudah membuat dan mengatur toko untuk memulai berjualan dan mendapatkan pesanan di Shopee. Untuk memulai, *download* aplikasi Shopee melalui[ Google Play Store](https://play.google.com/store/apps/details?id=com.shopee.id) atau[ App Store](https://apps.apple.com/id/app/shopee-3-15-hari-konsumen/id959841443) menggunakan handphone Anda atau akses situs Shopee melalui[ https://shopee.co.id/](https://shopee.co.id/) menggunakan komputer/laptop.
-
-  
 
 Siapkan 3 hal berikut untuk membuat akun di Shopee:
 

@@ -18,9 +18,6 @@ sources:
 **Meningkatkan Keamanan Akun Anda**
 
 
-17-03-2026
-
-**Meningkatkan Keamanan Akun Anda**
 
 Untuk menjaga keamanan akun, Anda mungkin akan memerlukan verifikasi tambahan saat terdeteksi adanya aktivitas mencurigakan. Oleh karena itu, Shopee menyarankan untuk mengaktifkan beberapa metode verifikasi agar akun tetap aman dari potensi ancaman. 
 
@@ -58,7 +55,7 @@ Dengan melakukan verifikasi kartu identitas, Anda juga bisa menikmati fitur Shop
 
   
 
-## **Mengatur Verifikasi Telepon, Email, dan** ***Password***
+## **Mengatur Verifikasi Telepon, Email, dan** **Password**
 
   
 
@@ -84,7 +81,7 @@ Berikut cara membuat *password* yang kuat:
 
 ## **Mengatur Proteksi Akun**
 
-  - **\*\*Aktifkan Verifikasi Akun\*\***
+  - **Aktifkan Verifikasi Akun**
 
 Demi meningkatkan keamanan akun Anda, fitur metode verifikasi akun kini ditingkatkan dengan Metode Verifikasi SMS. Anda bisa mengaktifkan atau menonaktifkan fitur ini sebagai verifikasi tambahan. Metode verifikasi tambahan lainnya akan dikirim melalui email atau kode QR.
 
@@ -103,7 +100,7 @@ Jika Anda menonaktifkan fitur **Aktifkan Metode SMS untuk Perlindungan Akunmu**,
 
   
 
-  - **\*\*Proteksi Tindakan Berisiko Tinggi\*\***
+  - **Proteksi Tindakan Berisiko Tinggi**
 
 Selain verifikasi Identitas, telepon, email, password, dan akun, Anda juga disarankan untuk mengaktifkan metode tambahan yang lebih aman, terutama untuk tindakan yang berisiko tinggi, seperti perubahan data penting atau transaksi besar. Anda dapat mengatur verifikasi tambahan ini melalui Seller Centre atau aplikasi Shopee.
 

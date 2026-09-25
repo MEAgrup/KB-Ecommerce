@@ -18,9 +18,6 @@ sources:
 **FAQ Umum**
 
 
-29-07-2026
-
-**FAQ Umum**
 
 **1. Di mana saya dapat mengakses Fitur Chat Penjual?**
 
@@ -53,7 +50,7 @@ Anda dapat mempertahankan Waktu Respon Chat Pertama Kali dan Waktu Respon Rata-r
   
   
 
-**Manajemen** ***Chat***
+**Manajemen** **Chat**
 
 **1. Bagaimana saya bisa menandai pesan-pesan penting di Fitur Chat Penjual?**
 
@@ -107,7 +104,7 @@ Saat Pengguna dilaporkan, Anda masih dapat menerima pesan dari mereka dan mengir
 
   
 
-**7. Apakah ada daftar** ***chat*** **terpisah jika saya juga sebagai Pembeli dan Penjual menggunakan akun yang sama?**
+**7. Apakah ada daftar** **chat** **terpisah jika saya juga sebagai Pembeli dan Penjual menggunakan akun yang sama?**
 
 Tidak, *chat* Anda dengan Pembeli dan Penjual dikonsolidasikan bersama pada Fitur Chat Penjual di aplikasi Shopee, Seller Centre, dan Portal Fitur Chat Penjual.
 

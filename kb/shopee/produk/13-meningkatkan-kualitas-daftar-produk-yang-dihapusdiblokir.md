@@ -19,11 +19,6 @@ related: [shp-produk-107]
 Produk dihapus/diblokir karena produk mungkin telah melanggar[ Peraturan Komunitas](https://help.shopee.co.id/portal/article/73507-Peraturan-Komunitas?previousPage=search%20recommendation%20bar) atau termasuk dalam[ Daftar Produk yang Dilarang](https://help.shopee.co.id/portal/article/71189-Kebijakan-Barang-yang-dilarang-dan-dibatasi?previousPage=search%20recommendation%20bar).
 
 
-13-08-2026
-
-Produk dihapus/diblokir karena produk mungkin telah melanggar[ Peraturan Komunitas](https://help.shopee.co.id/portal/article/73507-Peraturan-Komunitas?previousPage=search%20recommendation%20bar) atau termasuk dalam[ Daftar Produk yang Dilarang](https://help.shopee.co.id/portal/article/71189-Kebijakan-Barang-yang-dilarang-dan-dibatasi?previousPage=search%20recommendation%20bar).
-
-  
 
 Produk dihapus/diblokir akan dikenakan poin penalti yang berdampak pada:
 
@@ -49,7 +44,7 @@ Shopee terikat pada regulasi yang berlaku dalam suatu negara. Shopee akan mengha
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*JENIS PELANGGARAN\*\* | \*\*PENJELASAN\*\* | \*\*CARA MEMPERBAIKI\*\* |
+| **JENIS PELANGGARAN** | **PENJELASAN** | **CARA MEMPERBAIKI** |
 | 1.1 Produk ilegaluntuk dijual diIndonesia | Produk yang Anda jual akan dihapus secara permanen karena produk tidak dapat diperjualbelikan secara bebas berdasarkan peraturan perundang-undangan yang berlaku.Pelajari lebih lanjut terkait\[ Kebijakan\](https://help.shopee.co.id/portal/article/71189-Kebijakan-Barang-yang-dilarang-dan-dibatasi?previousPage=search%20recommendation%20bar)\[Barang yang Dilarang dan Dibatasi\](https://help.shopee.co.id/portal/article/71189-Kebijakan-Barang-yang-dilarang-dan-dibatasi?previousPage=search%20recommendation%20bar). | Mohon tidak menjual kembali produk yang sama. Pastikan produk Anda adalah barang yang legal untuk dijual. |
 | 1.2 Terindikasimelanggar HakKekayaan Intelektual(HAKI) | Shopee menghapus produk karena terindikasi melanggar Hak atas Kekayaan Intelektual (HAKI) berdasarkan laporan dariperusahaan terkait. Pelajari lebihlanjut terkait\[ Memahami Hak\](https://seller.shopee.co.id/edu/courseDetail/903?lessonId=3138)\[Kekayaan Intelektual (HAKI) dan\](https://seller.shopee.co.id/edu/courseDetail/903?lessonId=3138)\[Pelanggarannya\](https://seller.shopee.co.id/edu/courseDetail/903?lessonId=3138). | Mohon untuk tidak menjualproduk yang melanggar Hak atas Kekayaan Intelektual (HAKI) untuk menghindari penghapusan produk dan poin penalti. Hubungi \[Customer Service Shopee\](https://seller.shopee.co.id/edu/article/3270) dan lampirkan dokumen pendukung sebagai bukti untuk mengajukan banding. |
 | 1.3 Menjual produkyang terindikasipalsu/imitasi yangmelanggar Hak atasKekayaan Intelektual(HAKI) | Produk yang Anda jual terindikasiproduk palsu/imitasi yangmelanggar Hak atas KekayaanIntelektual (HAKI). Pelajari lebihlanjut terkait\[ Memahami Hak\](https://seller.shopee.co.id/edu/article/18612)\[Kekayaan Intelektual (HAKI) dan\](https://seller.shopee.co.id/edu/article/18612)\[Pelanggarannya\](https://seller.shopee.co.id/edu/article/18612). | Mohon hubungi\[ Customer\](https://seller.shopee.co.id/edu/article/3270)\[Service Shopee\](https://seller.shopee.co.id/edu/article/3270) untukmengajukan banding danlampirkan dokumen pendukung seperti sertifikat keaslian produk agar produk Anda dapat dipulihkan dan ditampilkan kembali di toko Anda. |
@@ -86,12 +81,12 @@ Shopee melarang penjualan produk-produk yang melanggar kebijakan Shopee. Pelajar
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*JENIS PELANGGARAN\*\* | \*\*PENJELASAN\*\* | \*\*CARA MEMPERBAIKI\*\* |
+| **JENIS PELANGGARAN** | **PENJELASAN** | **CARA MEMPERBAIKI** |
 | 2.1 Melanggarketentuan produkShopee | Produk Anda dihapus karena termasuk dalam daftar barang yangdilarang dijual di Shopee. | Mohon tidak menjual produk terlarang di Shopee. Pelajari lebih lanjut terkait\[ Kebijakan Barang yang Dilarang dan Dibatas\](https://help.shopee.co.id/portal/article/71189-%3Cem%3EKebijakan%3C%2Fem%3E-Barang-yang-dilarang-dan-dibatasi?previousPage=search%20results%20page)i. |
 | 2.2 Meng-\*upload\* danmemperjualbelikan produk dewasa penunjang kegiatanseksual | Shopee melarang penjualan produk dewasa penunjang kegiatan seksual seperti alat bantu seks dan media pornografi. Pelajari lebihlanjut terkait\[ Kebijakan Penjualan Produk Media dan Layanan yang\](https://seller.shopee.co.id/edu/article/6065)\[Mengandung Unsur Pornografi di Shopee\](https://seller.shopee.co.id/edu/article/6065). | Mohon tidak meng-\*upload\*serta memperjualbelikankembali produk dewasapenunjang kegiatan seksualseperti alat bantu seks danmedia pornografi. |
 | 2.3 Meng-\*upload\* danmemperjualbelikanproduk tembakau | Shopee memiliki kebijakan untuk melarang dan/atau membatasi produk tembakau. Pelajari lebihlanjut terkait\[ Kebijakan Penjualan Produk Tembakau, Nikotin, Rokok\](https://seller.shopee.co.id/edu/article/17206)\[Elektronik, dan Shisha\](https://seller.shopee.co.id/edu/article/17206). | Mohon perhatikan ketentuan penjualan terkait produk tembakau. |
 | 2.4 Menampilkan produk tembakau dalam foto/gambar produk | Shopee memiliki kebijakan untuk melarang dan/atau membatasi produk tembakau, termasuk padafoto/gambar yang menampilkan produk tembakau sebagai pelengkap. Misalnya, menjual kotak penyimpanan rokok, namun menampilkan foto/gambar rokok. | Mohon untuk mengubahfoto/gambar yangmenampilkan produktembakau sebagai pelengkap untuk menghindari poin penalti dan pemblokiran akun. Pelajari lebih lanjut terkait\[ Kebijakan Penjualan\](https://seller.shopee.co.id/edu/article/17206)\[Produk Tembakau, Nikotin,\](https://seller.shopee.co.id/edu/article/17206)\[Rokok Elektronik, dan Shisha\](https://seller.shopee.co.id/edu/article/17206). |
-| 2.5 Meng-\*upload\* danmenjual produk senjataapi dan senjata listrik | Shopee melarang penjualan produk senjata api, \*airsoft gun\*, \*air gun, stun gun\* dan segala jenis perlengkapan senjata api lainnya. | Mohon tidak meng-\*upload\*ulang dan menjual produksenjata api, \*airsoft gun\*, \*air\*\*gun\*, \*stun gun\* serta jenisperlengkapan senjata apilainnya. Pelajari selengkapnya terkait\[ Penjualan Produk Senjata dan Produk Terkait\](https://seller.shopee.co.id/edu/article/18271)\[Lainnya\](https://seller.shopee.co.id/edu/article/18271). |
+| 2.5 Meng-\*upload\* danmenjual produk senjataapi dan senjata listrik | Shopee melarang penjualan produk senjata api, \*airsoft gun\*, \*air gun, stun gun\* dan segala jenis perlengkapan senjata api lainnya. | Mohon tidak meng-\*upload\*ulang dan menjual produksenjata api, \*airsoft gun\*, \*air**gun\*, \*stun gun\* serta jenisperlengkapan senjata apilainnya. Pelajari selengkapnya terkait\[ Penjualan Produk Senjata dan Produk Terkait\](https://seller.shopee.co.id/edu/article/18271)\[Lainnya\](https://seller.shopee.co.id/edu/article/18271). |
 | 2.6 Meng-\*upload\* danmenjual produk senjatatajam | Shopee melarang penjualan produk senjata tajam dan segala jenis perlengkapan senjata tajam lainnya. Pelajari lebih lanjut terkait\[Kebijakan Penjualan Produk Senjata dan Produk Terkait Lainnya\](https://seller.shopee.co.id/edu/article/18271). | Mohon tidak meng-\*upload\*dan menjual produk senjatatajam, serta segala jenisperlengkapan senjata tajamlainnya. |
 | 2.7 Melanggar Syaratdan Ketentuan programGratis Ongkir XTRA | Shopee menghapus secarapermanen produk yang terbukti memanipulasi harga untuk mendapatkan Gratis Ongkir XTRA. | Mohon menyesuaikan hargaproduk sesuai Syarat danKetentuan program GratisOngkir XTRA yang berlaku. |
 | 2.8 Termasuk produk\*spam\* | Shopee menghapus produk yang tidak layak dan/atau tidak dapat dijual. Misalnya, hanya berupa testimoni atau tes produk. | Mohon menjual produk yanglayak dijual. |
@@ -127,7 +122,7 @@ Shopee melarang penjualan produk-produk yang melanggar kebijakan Shopee. Pelajar
 
   
 
-**3. Produk** ***Spam*** 
+**3. Produk** **Spam** 
 
 Shopee mendeteksi produk yang mencantumkan informasi/kata tidak relevan sebagai produk *spam*. Sistem Shopee akan memblokir dan menghapus produk-produk dalam daftar di bawah ini:
 
@@ -135,7 +130,7 @@ Shopee mendeteksi produk yang mencantumkan informasi/kata tidak relevan sebagai 
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*JENIS PELANGGARAN\*\* | \*\*PENJELASAN\*\* | \*\*CARA MEMPERBAIKI\*\* |
+| **JENIS PELANGGARAN** | **PENJELASAN** | **CARA MEMPERBAIKI** |
 | 3.1 Nama produkmenggunakan katakunci yang tidak sesuai | Nama produk mencantumkan kata pencarian yang tidak sesuai(Contoh: Mencantumkan berbagai kata kunci "baju" dan "celana", pada produk sandal). Produk akan dihapus jika halaman produk tidak diperbaiki. | Mohon hanya mencantumkansatu jenis produk yang sesuai dengan produk yang dijual. Gunakan format produk yang direkomendasikan, yaitu:Merek + Model + Spesifikasi\\+ Ukuran. Pelajari lebih lanjut terkait\[ Spam Kata Pencarian\](https://seller.shopee.co.id/edu/article/1793). |
 | 3.2 Menggunakanberbagai merek dalam 1 nama produk | Mencantumkan berbagai merekdalam satu nama produk. Produkakan dihapus jika halaman produk tidak diperbaiki. | Mohon hanya mencantumkansatu merek yang tepat sesuai produk yang dijual. Pelajari lebih lanjut terkait\[ Spam Merek\](https://seller.shopee.co.id/edu/article/3294). |
 | 3.3 Atribut merek tidaksesuai dengan produkyang dijual | Mencantumkan atribut merek yang tidak sesuai. Produk akan dihapus jika halaman produk tidak diperbaiki. | Mohon mencantumkanatribut merek sesuai produkyang dijual. Pelajari lebihlanjut terkait\[ Spam Atribut\](https://seller.shopee.co.id/edu/article/1799). |
@@ -163,7 +158,7 @@ Untuk memberikan pengalaman berbelanja yang terbaik, Shopee memblokir produk den
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*JENIS PELANGGARAN\*\* | \*\*PENJELASAN\*\* | \*\*CARA MEMPERBAIKI\*\* |
+| **JENIS PELANGGARAN** | **PENJELASAN** | **CARA MEMPERBAIKI** |
 | 4.1 Foto produkmelanggar hak cipta   | Produk dihapus karenamenggunakan foto produk tokolain tanpa izin.   | Mohon melampirkan bukti izin resmi dari pemilik foto kepada pihak Shopee untukmelanjutkan penggunaan fotoini.  |
 | 4.2 Foto produk tidakjelas | Produk diblokir karena fotokurang jelas atau \*blur\*. | Mohon mengubah foto produk dengan resolusi yang lebih tinggi. Pastikan foto produk tidak terpotong danmenampilkan produk secarakeseluruhan. |
 | 4.3 Foto mengandungunsur pornografi | Foto produk Anda teridentifikasimengandung unsur pornografiatau terlalu vulgar. Foto produkAnda teridentifikasi mengandung unsur pornografi atau terlalu vulgar. Pelajari lebih lanjut terkait \[Apa itu Pelanggaran Foto Tidak Pantas?\](https://seller.shopee.co.id/edu/article/6849) | Mohon mengubah foto yanglebih sesuai. |
@@ -185,7 +180,7 @@ Shopee Mall adalah toko terpilih di Shopee yang memberikan Pembeli pengalaman be
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*JENIS PELANGGARAN\*\* | \*\*PENJELASAN\*\* | \*\*CARA MEMPERBAIKI\*\* |
+| **JENIS PELANGGARAN** | **PENJELASAN** | **CARA MEMPERBAIKI** |
 | 5.1 Foto produk tidaksesuai denganketentuan yangdianjurkan | Foto produk Shopee Mall harustampak profesional, Shopee akanmemblokir produk yang tidaksesuai standar yang ditentukan.Pelajari lebih lanjut terkait\[ Panduan Daftar Produk Shopee Mall\](https://seller.shopee.co.id/edu/article/657). | Mohon untuk mengubah foto sesuai dengan ketentuan yang dianjurkan. |
 | 5.2 Foto \*blur\*/resolusifoto tidak sesuai | Produk diblokir karena foto produk kurang jelas. Pelajari lebih lanjut terkait\[ Panduan Daftar Produk Shopee Mall\](https://seller.shopee.co.id/edu/article/657). | Mohon untuk mengubah foto dengan resolusi di atas500x500 px. |
 | 5.3 Mencantumkan\*watermark\* toko | Penjual Shopee Mall dilarangmencantumkan \*watermark\* padafoto produk. | Mohon untuk menghapus\*watermark\* toko pada fotoproduk. |

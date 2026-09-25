@@ -18,11 +18,8 @@ sources:
 **FAQ Umum**
 
 
-03-08-2026
 
-**FAQ Umum**
-
-**1. Dapatkah saya menerapkan kebijakan tanpa pengembalian barang/dana di toko karena hanya menjual produk** ***custom*****?**
+**1. Dapatkah saya menerapkan kebijakan tanpa pengembalian barang/dana di toko karena hanya menjual produk** **custom**?**
 
 Semua Penjual Shopee harus mematuhi aturan kebijakan pengembalian barang/dana Shopee.
 
@@ -167,7 +164,7 @@ Tidak, Pembeli hanya perlu menunggu validasi dari pihak jasa kirim maks. 1 hari 
 
 Tidak, Pembeli hanya dapat mengajukan Pengembalian dalam Perjalanan untuk seluruh barang dalam pesanan yang sama.
 
-**6. Apakah stok akan ter-*****update*** **secara otomatis jika ada Pengembalian dalam Perjalanan?**
+**6. Apakah stok akan ter-**update** **secara otomatis jika ada Pengembalian dalam Perjalanan?**
 
 Tidak. Penjual diimbau untuk melakukan *update* stok secara manual apabila terjadi Pengembalian dalam Perjalanan oleh Pembeli.
 

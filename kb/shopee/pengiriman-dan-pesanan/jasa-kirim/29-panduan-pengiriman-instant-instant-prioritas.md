@@ -18,11 +18,6 @@ sources:
 **Alur Pengelolaan Pesanan untuk Pengiriman Instant & Instant Prioritas**
 
 
-22-06-2026
-
-**Alur Pengelolaan Pesanan untuk Pengiriman Instant & Instant Prioritas**
-
-  
 
 **1. Persiapan**
 
@@ -37,7 +32,7 @@ sources:
 
   
 
-##### **2.** ***Print*** **Resi & Atur Pickup**
+##### **2.** **Print** **Resi & Atur Pickup**
 
 Disarankan untuk mengecek dan memproses pesanan Instant dan Instant Prioritas setiap **15-20 menit** agar tidak terjadi keterlambatan pengiriman dan menghindari penumpukan pesanan.
 
@@ -49,12 +44,12 @@ Ikuti batas waktu pengiriman yang ditetapkan untuk pesanan Instant dan Instant P
 
 Setelah pesanan masuk, Anda dapat mencetak resi/label pengiriman terlebih dahulu sebelum atur *pickup*. Berikut ketentuan pengaturan *pickup*:
 
-  - **\*\*Selama jam operasional Instant\*\***  
+  - **Selama jam operasional Instant**  
       - Hanya mendukung jadwal *pickup* **Now**
       - Anda dapat atur *pickup* maks. 1 jam setelah pesanan terverifikasi.
       - Untuk membantu proses pencarian kurir lebih cepat dan otomatis, aktifkan[ fitur Cari Kurir Otomatis](https://seller.shopee.co.id/edu/article/26901).
       -   
-  - **\*\*Di luar jam operasional Instant\*\***  
+  - **Di luar jam operasional Instant**  
       - Anda dapat memilih waktu *pickup* **Now** agar pesanan dapat segera di-*pickup*.
       - Anda juga dapat menjadwalkan *pickup* hingga batas masa pengemasan tersebut berakhir.
 
@@ -86,7 +81,7 @@ Setelah pesanan siap dikirim, Anda dapat mencari kurir secara manual atau menggu
 
   
 
-  - **\*\*Cari kurir secara manual\*\***
+  - **Cari kurir secara manual**
 
 Gunakan fitur **Scan Resi & Cari Kurir** untuk mencarikan kurir secara langsung setelah pesanan selesai dikemas. Disarankan menggunakan alat *barcode scanner* untuk *scan* resi secara langsung, atau Anda juga dapat memasukkan nomor pesanan secara manual.
 
@@ -98,7 +93,7 @@ Gunakan fitur **Scan Resi & Cari Kurir** untuk mencarikan kurir secara langsung 
 
 **Melalui Aplikasi Shopee** 
 
-  - **\*\*Cari kurir secara otomatis\*\***
+  - **Cari kurir secara otomatis**
 
 Aktifkan[ fitur Cari Kurir Otomatis](https://seller.shopee.co.id/edu/article/26901) agar sistem membantu mencarikan kurir secara otomatis setelah pesanan masuk, tanpa perlu melakukan proses pencarian kurir secara manual.
 

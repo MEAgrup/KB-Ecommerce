@@ -18,9 +18,6 @@ sources:
 **Apa itu Fitur Cabang?**
 
 
-03-08-2026
-
-**Apa itu Fitur Cabang?**
 
 Fitur Cabang memungkinkan Anda mengelola beberapa lokasi operasional toko yang terhubung ke Toko Utama. Saat Pembeli *checkout* pesanan, sistem akan otomatis mengarahkan pesanan ke Cabang yang paling sesuai berdasarkan lokasi Pembeli, sehingga Anda dapat memperluas jangkauan layanan dan mengoptimalkan proses pengiriman.
 
@@ -68,13 +65,13 @@ Jika Anda telah diberikan akses ke fitur Cabang, berikut cara mengakses sistem p
 
 Terdapat 2 tipe cabang yang bisa Anda buat yaitu:
 
-  - **\*\*Cabang Pengiriman Instant\*\***
+  - **Cabang Pengiriman Instant**
 
 Tipe cabang ini dapat digunakan untuk menerima dan memproses **pesanan Instant** tanpa menghubungkan Cabang ke Gudang yang sudah ada. 
 
   
 
-  - **\*\*Gudang-Cabang\*\***
+  - **Gudang-Cabang**
 
 Tipe ini memungkinkan Anda memproses **pesanan Instant melalui Cabang**, sekaligus memproses **pesanan Reguler (Standar dan Hemat Kargo)** **melalui Gudang** yang terhubung. Untuk membuat Gudang dan Cabang, pastikan Anda telah menggunakan[ fitur Multi-Gudang](https://seller.shopee.co.id/edu/article/14866).
 
@@ -222,11 +219,11 @@ Terdapat 2 *tab* yang akan ditampilkan di halaman Jasa Kirim yaitu *tab* Gudang 
 
   
 
-##### ***Tab*** **Gudang**
+##### **Tab** **Gudang**
 
 Digunakan untuk mengelola jasa kirim untuk pesanan dengan opsi pengiriman **Reguler** dan **Hemat Kargo** yang diproses melalui Gudang.
 
-***Tab*** **Cabang**
+**Tab** **Cabang**
 
 Digunakan untuk mengelola jasa kirim untuk pesanan dengan opsi pengiriman **Instant** yang diproses melalui Cabang. Anda dapat mengatur jasa kirim untuk sertiap Cabang secara terpisah atau atur massal untuk semua Cabang.
 
@@ -240,11 +237,11 @@ Atur Jasa Kirim Cabang sekaligus dengan 2 cara:
 
   
 
-  - **\*\*Ubah Massal dengan Upload File\*\***
+  - **Ubah Massal dengan Upload File**
 
 Setelah *file* di-*upload*, Anda dapat melihat statusnya dengan *download file* sebagai berikut. 
 
-  - **\*\*Atur Massal Pengaturan Jasa Kirim Cabang\*\***
+  - **Atur Massal Pengaturan Jasa Kirim Cabang**
 
   
 
@@ -258,11 +255,11 @@ Terdapat 2 *tab* yang akan ditampilkan di halaman Jam Operasional yaitu *tab* Gu
 
   
 
-***Tab*** **Gudang**
+**Tab** **Gudang**
 
 Pada *tab* Gudang, Anda dapat mengatur preferensi jam *pickup* Kurir untuk pesanan dengan opsi pengiriman **Reguler** dan **Hemat Kargo** yang diproses melalui Gudang.
 
-***Tab*** **Cabang**
+**Tab** **Cabang**
 
 Pada *tab* **Cabang**, Anda dapat mengelola Jam Operasional Instant untuk satu atau beberapa Cabang sekaligus.
 

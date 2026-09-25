@@ -18,9 +18,6 @@ sources:
 **Apa itu Bluebird Kirim?**
 
 
-05-08-2026
-
-**Apa itu Bluebird Kirim?**
 
 Bluebird Kirim merupakan[ jasa kirim didukung Shopee](https://seller.shopee.co.id/edu/article/3384) yang menawarkan layanan dengan pengiriman langsung (*instant*) untuk Penjual & dan Pembeli. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
@@ -32,15 +29,15 @@ Berikut *detail* ketentuan menggunakan jasa kirim Bluebird Kirim:
 
 |  |  |
 | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*KETERANGAN\*\* |
-| \*\*Metode Pengiriman\*\*  | \*Pick up\*  |
-| \*\*Jangkauan Lokasi\*\*  | Jabodetabek (Dalam kota)  |
-| \*\*Jarak Pengiriman\*\*  | 60km  |
-| \*\*Biaya Ongkos Kirim\*\*  | \\- 0-3km = Rp20.000\\- \\\>3km = dikenakan Rp5.500/km |
-| \*\*Waktu Pengiriman\*\*  | Di hari yang sama, maks. 4 jam setelah paket di-\*pick up\*  |
-|  \*\*Waktu\*\* \*\*\*Pick Up\*\*\*  | Pk. 08.00-17.00 WIB Pelajari lebih lanjut\[ jadwal operasional \*pick up\* paket Bluebird Kirim\](https://seller.shopee.co.id/edu/article/14180) |
-| \*\*Maks. Ukuran Paket\*\*  | 135x90x80cm  |
-| \*\*Maks. Berat\*\*  | 200kg |
+| **KATEGORI** | **KETERANGAN** |
+| **Metode Pengiriman**  | \*Pick up\*  |
+| **Jangkauan Lokasi**  | Jabodetabek (Dalam kota)  |
+| **Jarak Pengiriman**  | 60km  |
+| **Biaya Ongkos Kirim**  | \\- 0-3km = Rp20.000\\- \\\>3km = dikenakan Rp5.500/km |
+| **Waktu Pengiriman**  | Di hari yang sama, maks. 4 jam setelah paket di-\*pick up\*  |
+|  **Waktu** **\*Pick Up**\*  | Pk. 08.00-17.00 WIB Pelajari lebih lanjut\[ jadwal operasional \*pick up\* paket Bluebird Kirim\](https://seller.shopee.co.id/edu/article/14180) |
+| **Maks. Ukuran Paket**  | 135x90x80cm  |
+| **Maks. Berat**  | 200kg |
 
 ⚠️ **Catatan**
 
@@ -90,13 +87,13 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
 
 |  |  |
 | :-: | :-: |
-| \*\*KENDALA\*\* | \*\*SOLUSI\*\* |
-|   \*\*Status pesanan tidak ter-\*\*\*\*\*update\*\*\*  | Hubungi Customer Service Shopee dengan melampirkan foto/tanda bukti pengambilan barang oleh kurir Bluebird Kirim dan \*screenshotchat\* dari Pembeli bahwa pesanan telah diterima  |
-|  \*\*Gagal\*\* \*\*\*pick up\*\*\*  | Penjual akan menerima notifikasi setiap jam 7 pagi jika terdapat pengiriman yang gagal dilakukan  |
-|  \*\*Pengiriman Bluebird Kirim dengan keterangan "Alamat Tidak Didukung"\*\*  | "Alamat Tidak Didukung" menandakan bahwa alamat \*pick up\* yang terdaftar tidak masuk ke area pengiriman yang didukung oleh jasa kirim Bluebird Kirim  |
-| \*\*Kurir tidak kunjung datang untuk\*\* \*\*\*pick up\*\*\* \*\*pesanan, namun status pesanan ‘Selesai’\*\*  |  Hubungi Customer Service Shopee untuk pengecekan lebih lanjut  |
-| \*\*Kurir mengembalikan pesanan yang sudah di-\*\*\*\*\*pick up\*\*\*  |  |
-| \*\*Jika Kurir menanyakan dua angka kode pengiriman\*\*  | Hubungi\[ Customer Service Bluebird Kirim\](https://seller.shopee.co.id/edu/article/14227) untuk pengecekan lebih lanjut.  |
+| **KENDALA** | **SOLUSI** |
+|   **Status pesanan tidak ter-**\*update**\*  | Hubungi Customer Service Shopee dengan melampirkan foto/tanda bukti pengambilan barang oleh kurir Bluebird Kirim dan \*screenshotchat\* dari Pembeli bahwa pesanan telah diterima  |
+|  **Gagal** **\*pick up**\*  | Penjual akan menerima notifikasi setiap jam 7 pagi jika terdapat pengiriman yang gagal dilakukan  |
+|  **Pengiriman Bluebird Kirim dengan keterangan "Alamat Tidak Didukung"**  | "Alamat Tidak Didukung" menandakan bahwa alamat \*pick up\* yang terdaftar tidak masuk ke area pengiriman yang didukung oleh jasa kirim Bluebird Kirim  |
+| **Kurir tidak kunjung datang untuk** **\*pick up**\* **pesanan, namun status pesanan ‘Selesai’**  |  Hubungi Customer Service Shopee untuk pengecekan lebih lanjut  |
+| **Kurir mengembalikan pesanan yang sudah di-**\*pick up**\*  |  |
+| **Jika Kurir menanyakan dua angka kode pengiriman**  | Hubungi\[ Customer Service Bluebird Kirim\](https://seller.shopee.co.id/edu/article/14227) untuk pengecekan lebih lanjut.  |
 
   
 

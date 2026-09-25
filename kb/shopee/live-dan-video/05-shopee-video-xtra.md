@@ -18,11 +18,6 @@ sources:
 **Apa itu Shopee Video XTRA?**
 
 
-14-07-2026
-
-**Apa itu Shopee Video XTRA?**
-
-  
 
 Shopee Video XTRA adalah program yang memberikan Voucher Diskon Video dengan nilai lebih besar, sehingga Anda dapat menarik lebih banyak Pembeli melalui konten Shopee Video Anda.
 
@@ -85,7 +80,7 @@ Biaya layanan Program Shopee Video XTRA adalah sebagai berikut:
 
 Berikut adalah perhitungan biaya layanan Program Shopee Video XTRA:
 
-***Biaya Layanan Program Shopee Video XTRA*** *= (Harga Asli Produk dari penjualan Video selama periode program - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 3% atau 2%*
+**Biaya Layanan Program Shopee Video XTRA** *= (Harga Asli Produk dari penjualan Video selama periode program - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 3% atau 2%*
 
   
 
@@ -95,13 +90,13 @@ Berikut adalah perhitungan biaya layanan Program Shopee Video XTRA:
 
 |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| \*\*ILUSTRASI PERHITUNGAN BIAYA LAYANAN SHOPEE VIDEO XTRA JIKA BERGABUNG\*\*\*\*PROGRAM SHOPEE VIDEO XTRA, NAMUN\*\* \*\*TIDAK BERGABUNG\*\* \*\*PROGRAM PROMO XTRA\*\*  |  |  |  |  |  |  |
+| **ILUSTRASI PERHITUNGAN BIAYA LAYANAN SHOPEE VIDEO XTRA JIKA BERGABUNG**PROGRAM SHOPEE VIDEO XTRA, NAMUN** **TIDAK BERGABUNG** **PROGRAM PROMO XTRA**  |  |  |  |  |  |  |
 | Pembeli A membeli produk I (Sepatu Anak Laki-laki), produk II (Pakaian Muslim Wanita), dan produk III (Koper) di toko Anda. |  |  |  |  |  |  |
-| \*\*PEMBELI A\*\* | \*\*\*CHANNEL\*\*\* \*\*PENJUALAN\*\* | \*\*KATEGORI PRODUK BERLAKU UNTUK SHOPEE VIDEO XTRA\*\* | \*\*HARGA ASLI\*\* | \*\*DISKON PRODUK & VOUCHER PENJUAL\*\* | \*\*TOTAL PEMBAYARAN PEMBELI (SETELAH DISKON PRODUK & VOUCHER YANG DITANGGUNG PENJUAL)\*\* | \*\*BIAYA LAYANAN SHOPEE VIDEO XTRA (3% MAKS. 20RB)\*\* |
-| Produk I | Shopee Video | \*\*✅\*\* | Rp100.000 | Rp15.000 | Rp85.000 | Rp2.250 |
-| Produk II | Shopee Video | \*\*✅\*\* | Rp1.500.000 | Rp150.000 | Rp1.350.000 | Rp20.000 |
-| Produk III | Non-Shopee Video | \*\*✅\*\* | Rp200.000 | Rp5.000 | Rp195.000 | Rp20.000 |
-| \*\*Total Biaya Layanan Shopee Video XTRA\*\* | \*\*Rp22.250\*\* |  |  |  |  |  |
+| **PEMBELI A** | **\*CHANNEL**\* **PENJUALAN** | **KATEGORI PRODUK BERLAKU UNTUK SHOPEE VIDEO XTRA** | **HARGA ASLI** | **DISKON PRODUK & VOUCHER PENJUAL** | **TOTAL PEMBAYARAN PEMBELI (SETELAH DISKON PRODUK & VOUCHER YANG DITANGGUNG PENJUAL)** | **BIAYA LAYANAN SHOPEE VIDEO XTRA (3% MAKS. 20RB)** |
+| Produk I | Shopee Video | **✅** | Rp100.000 | Rp15.000 | Rp85.000 | Rp2.250 |
+| Produk II | Shopee Video | **✅** | Rp1.500.000 | Rp150.000 | Rp1.350.000 | Rp20.000 |
+| Produk III | Non-Shopee Video | **✅** | Rp200.000 | Rp5.000 | Rp195.000 | Rp20.000 |
+| **Total Biaya Layanan Shopee Video XTRA** | **Rp22.250** |  |  |  |  |  |
 
   
 
@@ -109,13 +104,13 @@ Berikut adalah perhitungan biaya layanan Program Shopee Video XTRA:
 
 |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  \*\*ILUSTRASI PERHITUNGAN BIAYA LAYANAN SHOPEE VIDEO XTRA JIKA BERGABUNG\*\*\*\*﻿﻿﻿﻿﻿﻿﻿﻿PROGRAM SHOPEE VIDEO XTRA & PROMO XTRA\*\*  |  |  |  |  |  |  |
+|  **ILUSTRASI PERHITUNGAN BIAYA LAYANAN SHOPEE VIDEO XTRA JIKA BERGABUNG**﻿﻿﻿﻿﻿﻿﻿﻿PROGRAM SHOPEE VIDEO XTRA & PROMO XTRA**  |  |  |  |  |  |  |
 | Pembeli A membeli produk I (Sepatu Anak Laki-laki), produk II (Pakaian Muslim Wanita), produk III (Koper) di toko Anda.Ilustrasi ini berlaku apabila Anda bergabung Promo XTRA. |  |  |  |  |  |  |
-| \*\*PEMBELI A\*\* | \*\*\*CHANNEL\*\*\* \*\*PENJUALAN\*\* | \*\*KATEGORI PRODUK BERLAKU UNTUK SHOPEE VIDEO XTRA\*\* | \*\*HARGA ASLI\*\* | \*\*DISKON PRODUK & VOUCHER PENJUAL\*\* | \*\*TOTAL PEMBAYARAN PEMBELI (SETELAH DISKON PRODUK & VOUCHER YANG DITANGGUNG PENJUAL)\*\* | \*\*BIAYA LAYANAN SHOPEE VIDEO XTRA (2% MAKS. 20RB)\*\* |
-| Produk I | Shopee Video | \*\*✅\*\* | Rp100.000 | Rp15.000 | Rp85.000 | Rp1.700 |
-| Produk II | Shopee Video | \*\*✅\*\* | Rp1.500.000 | Rp150.000 | Rp1.350.000 | Rp20.000 |
-| Produk III | Non-Shopee Video | \*\*✅\*\* | Rp200.000 | Rp5.000 | Rp185.000 | Rp0 |
-| \*\*Total Biaya Layanan Shopee Video XTRA\*\* | \*\*Rp21.700\*\* |  |  |  |  |  |
+| **PEMBELI A** | **\*CHANNEL**\* **PENJUALAN** | **KATEGORI PRODUK BERLAKU UNTUK SHOPEE VIDEO XTRA** | **HARGA ASLI** | **DISKON PRODUK & VOUCHER PENJUAL** | **TOTAL PEMBAYARAN PEMBELI (SETELAH DISKON PRODUK & VOUCHER YANG DITANGGUNG PENJUAL)** | **BIAYA LAYANAN SHOPEE VIDEO XTRA (2% MAKS. 20RB)** |
+| Produk I | Shopee Video | **✅** | Rp100.000 | Rp15.000 | Rp85.000 | Rp1.700 |
+| Produk II | Shopee Video | **✅** | Rp1.500.000 | Rp150.000 | Rp1.350.000 | Rp20.000 |
+| Produk III | Non-Shopee Video | **✅** | Rp200.000 | Rp5.000 | Rp185.000 | Rp0 |
+| **Total Biaya Layanan Shopee Video XTRA** | **Rp21.700** |  |  |  |  |  |
 
   
 
@@ -137,10 +132,10 @@ Anda dapat melakukan proses pendaftaran untuk bergabung atau berhenti program Sh
 
 |  |  |
 | :-: | :-: |
-| \*\*SKENARIO PENGAJUAN BERGABUNG/BERHENTI PROGRAM SHOPEE VIDEO XTRA\*\* | \*\*WAKTU EFEKTIF BERGABUNG/BERHENTI PROGRAM SHOPEE VIDEO XTRA\*\* |
-| Apabila formulir bergabung/berhenti diisi \*\*sebelum hari Rabu pk. 23.59 WIB\*\* | Penjual akan efektif bergabung/berhenti dalam program di \*\*hari Sabtu pk. 00.00 WIB\*\* |
-| Apabila formulir bergabung/berhenti diisi \*\*sebelum hari Sabtu pk. 23.59 WIB\*\* | Penjual akan efektif bergabung/berhenti dalam program pada \*\*minggu berikutnya di hari Rabu pk. 00.00 WIB\*\* |
-| Apabila formulir bergabung/berhenti diisi \*\*setelah hari Sabtu pk. 23.59 WIB\*\* | Penjual akan efektif bergabung/berhenti dalam program pada \*\*minggu berikutnya di hari Sabtu pk. 00.00 WIB\*\* |
+| **SKENARIO PENGAJUAN BERGABUNG/BERHENTI PROGRAM SHOPEE VIDEO XTRA** | **WAKTU EFEKTIF BERGABUNG/BERHENTI PROGRAM SHOPEE VIDEO XTRA** |
+| Apabila formulir bergabung/berhenti diisi **sebelum hari Rabu pk. 23.59 WIB** | Penjual akan efektif bergabung/berhenti dalam program di **hari Sabtu pk. 00.00 WIB** |
+| Apabila formulir bergabung/berhenti diisi **sebelum hari Sabtu pk. 23.59 WIB** | Penjual akan efektif bergabung/berhenti dalam program pada **minggu berikutnya di hari Rabu pk. 00.00 WIB** |
+| Apabila formulir bergabung/berhenti diisi **setelah hari Sabtu pk. 23.59 WIB** | Penjual akan efektif bergabung/berhenti dalam program pada **minggu berikutnya di hari Sabtu pk. 00.00 WIB** |
 
   
 

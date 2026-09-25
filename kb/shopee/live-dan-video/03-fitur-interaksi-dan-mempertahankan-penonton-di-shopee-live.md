@@ -18,9 +18,6 @@ sources:
 **Berbagai Fitur Shopee Live untuk Meningkatkan Interaksi & Mempertahankan Penonton**
 
 
-20-04-2026
-
-**Berbagai Fitur Shopee Live untuk Meningkatkan Interaksi & Mempertahankan Penonton**
 
 Shopee Live menyediakan beragam fitur yang bisa digunakan untuk berinteraksi langsung dengan Penonton selama Livestream.
 
@@ -245,7 +242,7 @@ Anda tidak bisa membuat perubahan jika babak lelang sudah dimulai. Jika Anda ing
 
 Anda dapat melihat riwayat lelang yang pernah diadakan selamaLivestream dan masing-masing pemenangnya dengan mengakses halaman Catatan Aktivitas di aplikasi Shopee. Sesi Livestream terakhir akan berada di urutan teratas.
 
-Anda bisa menghubungi Pemenang lewat *icon* ***Chat***. 
+Anda bisa menghubungi Pemenang lewat *icon* **Chat**. 
 
 **Fitur Hentikan Sementara di Shopee Live**
 
@@ -264,4 +261,4 @@ Saat Livesteam dihentikan sementara, maka layar Penonton akan menampilkan tampil
 **⚠️ Catatan**
 
   - Selama Livestream dijeda menggunakan fitur **Hentikan Sementara**, sesi tidak akan terkena pelanggaran *host* tidak muncul saat Livestream.
-  - Jika *host* pindah aplikasi tanpa mematikan aplikasi Shopee saat Livestream berlangsung secara sengaja atau tidak sengaja (akibat kendala jaringan), Livestream Anda akan **otomatis dijeda oleh sistem** tanpa mengaktifkan fitur Hentikan Sementara. Menjeda Livestream tanpa fitur **Hentikan Sementara** akan dikenakan pelanggaran “**Host tidak muncul saat** ***Livestream***”, sehingga sangat dianjurkan untuk memakai fitur **Hentikan Sementara**. Pelajari lebih lanjut di[ Jenis Pelanggaran, Tingkat Pelanggaran, dan Penalti Shopee Live](https://seller.shopee.co.id/edu/article/5917).
+  - Jika *host* pindah aplikasi tanpa mematikan aplikasi Shopee saat Livestream berlangsung secara sengaja atau tidak sengaja (akibat kendala jaringan), Livestream Anda akan **otomatis dijeda oleh sistem** tanpa mengaktifkan fitur Hentikan Sementara. Menjeda Livestream tanpa fitur **Hentikan Sementara** akan dikenakan pelanggaran “**Host tidak muncul saat** **Livestream**”, sehingga sangat dianjurkan untuk memakai fitur **Hentikan Sementara**. Pelajari lebih lanjut di[ Jenis Pelanggaran, Tingkat Pelanggaran, dan Penalti Shopee Live](https://seller.shopee.co.id/edu/article/5917).

@@ -18,9 +18,6 @@ sources:
 ð **Definisi**
 
 
-17-06-2025
-
-ð **Definisi**
 
 *Thermal Printing*: Proses untuk mencetak gambar/tulisan pada kertas *thermal* menggunakan komponen pemanas/*printhead*. Panas diterapkan oleh *printhead* langsung ke kertas *thermal* dan akan berubah menjadi hitam (di mana panas diterapkan), sehingga menghasilkan gambar/tulisan yang diinginkan.
 

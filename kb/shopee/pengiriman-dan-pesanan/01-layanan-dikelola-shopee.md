@@ -18,9 +18,6 @@ sources:
 **Apa itu Dikelola Shopee?**
 
 
-13-07-2026
-
-**Apa itu Dikelola Shopee?**
 
 Dikelola Shopee adalah layanan yang disediakan Shopee untuk membantu Penjual dalam memproses pesanan serta menjual barang langsung melalui Shopee. Layanan ini membantu *brand* dan Penjual untuk memperluas jangkauan di berbagai area di Indonesia.
 
@@ -160,12 +157,12 @@ Untuk menentukan biaya layanan yang didapatkan, Anda perlu mengisi formulir pend
 
 ð **Definisi**
 
-  - **Biaya** ***inbound***: biaya penanganan produk yang masuk ke Gudang Shopee.
-  - **Produk** ***virtual bundling***: Penggabungan beberapa produk yang berbeda atau satu produk yang sama dengan jumlah \>1 buah untuk dijual di *link* produk yang sama. Penggabungan dilakukan secara virtual melalui sistem internal Shopee atau Seller Centre tanpa perlu melakukan penggabungan fisik di Gudang Shopee.
-  - ***Return to Seller (RTS)***: Proses penarikan stok dari gudang Dikelola Shopee untuk dikembalikan ke Penjual.
-  - **RTS** ***Reinbound***: Proses penarikan stok dari gudang Dikelola Shopee yang selanjutnya diikuti dengan memasukkan kembali stok tersebut ke gudang Dikelola Shopee.
-  - ***Bundling****:* Menggabungkan beberapa produk dengan lakban bening.
-  - ***Repacking***: Mengemas kembali produk dengan *pouch.*
+  - **Biaya** **inbound**: biaya penanganan produk yang masuk ke Gudang Shopee.
+  - **Produk** **virtual bundling**: Penggabungan beberapa produk yang berbeda atau satu produk yang sama dengan jumlah \>1 buah untuk dijual di *link* produk yang sama. Penggabungan dilakukan secara virtual melalui sistem internal Shopee atau Seller Centre tanpa perlu melakukan penggabungan fisik di Gudang Shopee.
+  - **Return to Seller (RTS)**: Proses penarikan stok dari gudang Dikelola Shopee untuk dikembalikan ke Penjual.
+  - **RTS** **Reinbound**: Proses penarikan stok dari gudang Dikelola Shopee yang selanjutnya diikuti dengan memasukkan kembali stok tersebut ke gudang Dikelola Shopee.
+  - **Bundling**:* Menggabungkan beberapa produk dengan lakban bening.
+  - **Repacking**: Mengemas kembali produk dengan *pouch.*
 
   
 
@@ -266,7 +263,7 @@ Pembayaran invoice dilakukan dengan memotong Saldo Penjual sesuai dengan jumlah 
 
   
 
-**3. Bagaimana biaya pengemasan untuk produk** ***bundling*** **dihitung?**
+**3. Bagaimana biaya pengemasan untuk produk** **bundling** **dihitung?**
 
 Biaya pengemasan akan mengikuti bentuk produk saat *inbound* ke Gudang Shopee.
 

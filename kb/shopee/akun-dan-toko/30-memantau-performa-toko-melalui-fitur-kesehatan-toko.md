@@ -18,9 +18,6 @@ sources:
 **Cari Tahu Peringkat Performa Toko Anda**
 
 
-27-02-2023
-
-**Cari Tahu Peringkat Performa Toko Anda**
 
 [Kesehatan Toko](https://seller.shopee.co.id/edu/article/6962) adalah fitur di aplikasi Shopee dan Seller Centre yang memberikan gambaran performa toko Anda secara keseluruhan dengan menampilkan data terkini serta data dari periode sebelumnya.
 

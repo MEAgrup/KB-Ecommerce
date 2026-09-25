@@ -18,9 +18,6 @@ sources:
 **Apa itu Metode Pembayaran COD (Bayar di Tempat)?**
 
 
-27-07-2026
-
-**Apa itu Metode Pembayaran COD (Bayar di Tempat)?**
 
 COD (Bayar di Tempat) adalah metode pembayaran tunai yang dilakukan secara langsung di tempat, setelah pesanan dari Kurir diterima oleh Pembeli.
 
@@ -76,7 +73,7 @@ Jika terdapat 2 kali penolakan pesanan COD (Bayar di Tempat) oleh Pembeli dalam 
 Setelah menerima peringatan, performa toko Anda akan dipantau selama 30 hari kalender. Jika penolakan pesanan COD (Bayar di Tempat) masih terjadi, maka metode pembayaran COD (Bayar di Tempat) di toko Anda akan dinonaktifkan selama 60 hari.
 
 **  
-****Cara Menghindari Penolakan Pesanan COD (Bayar di Tempat)**
+**Cara Menghindari Penolakan Pesanan COD (Bayar di Tempat)**
 
 Untuk menjaga performa COD (Bayar di Tempat) tetap baik, Anda disarankan untuk melakukan langkah berikut:
 
@@ -97,7 +94,7 @@ Deskripsi yang tidak sesuai dapat menyebabkan Pembeli menolak pesanan saat produ
 
   
 
-**2. Konfirmasi pesanan kepada Pembeli melalui** ***chat***
+**2. Konfirmasi pesanan kepada Pembeli melalui** **chat**
 
 Gunakan fitur *chat* untuk memastikan Pembeli siap menerima dan melakukan pembayaran saat pesanan tiba seperti:
 

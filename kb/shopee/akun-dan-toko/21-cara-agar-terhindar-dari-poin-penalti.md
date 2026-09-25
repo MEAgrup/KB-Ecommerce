@@ -18,9 +18,6 @@ sources:
 **Pelanggaran Produk**
 
 
-27-02-2023
-
-**Pelanggaran Produk**
 
 Pelanggaran produk adalah daftar produk yang dilarang dijual dan melanggar kebijakan Shopee. Setiap produk yang di-*upload* oleh Penjual dilakukan pengecekan terlebih dahulu oleh Shopee untuk memastikan bahwa produk yang dijual mematuhi undang-undang dan kebijakan Shopee serta tidak menyalahgunakan hasil pencarian.
 

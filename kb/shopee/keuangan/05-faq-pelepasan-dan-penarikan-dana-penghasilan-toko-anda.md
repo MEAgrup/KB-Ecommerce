@@ -18,9 +18,6 @@ sources:
 **1. Kapan Shopee akan meneruskan dana pembayaran Pembeli ke Saldo Penjual saya?**
 
 
-27-01-2026
-
-**1. Kapan Shopee akan meneruskan dana pembayaran Pembeli ke Saldo Penjual saya?**
 
 Jika tidak ada kendala pada pesanan Anda, maka dana akan dilepaskan ke Penjual pada saat:
 

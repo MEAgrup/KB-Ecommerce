@@ -19,13 +19,10 @@ related: [shp-pengiriman-101]
 **Memahami Proses Inbound**
 
 
-20-05-2022
-
-**Memahami Proses Inbound**
 
 Proses *inbound* adalah proses memasukkan barang ke dalam gudang. Setelah pesanan produk dari *supplier* sampai di gudang, produk tersebut harus melewati proses *inbound* terlebih dahulu. Dalam proses *inbound*, Anda perlu memastikan kualitas dan kuantitas produk sesuai dengan pesanan Anda. Maka dari itu, Anda perlu melakukan proses *inbound* dengan teliti untuk meminimalisir kerugian karena pendataan yang tidak sesuai dan juga karena kecacatan produk. Berikut adalah aktivitas yang dilakukan dalam proses *inbound*:
 
-  - **\*\*Menghitung jumlah produk\*\***
+  - **Menghitung jumlah produk**
 
 Proses *inbound* merupakan proses yang dilakukan saat produk pesanan dari *supplier* tiba di gudang Anda. Pada proses ini, Anda perlu memastikan bahwa jumlah produk yang Anda pesan sesuai dengan produk yang masuk. Anda dapat memeriksa tanda terima pesanan dari *supplier* untuk memastikan hal tersebut.
 
@@ -37,7 +34,7 @@ Selain membandingkan dan mencatat jumlah produk yang masuk, Anda perlu meng-*upd
 
   
 
-  - **\*\*Memeriksa kualitas produk (\*\*\*\*\*Quality Control\*\*\*\*\*)\*\***
+  - **Memeriksa kualitas produk (**\*Quality Control**\*)**
 
 Sebagai Penjual, tentu Anda ingin produk yang Anda jual dapat memenuhi ekspektasi Pembeli. Untuk itu, lakukan pemeriksaan kualitas produk yang Anda terima dari *supplier* sebelum Anda memberikan surat tanda terima pesanan. Pemeriksaan kualitas produk dilakukan sebelum produk Anda masuk ke dalam gudang. Berikut adalah langkah-langkah dalam memeriksa kualitas produk.
 
@@ -53,7 +50,7 @@ Jika Anda menemukan kerusakan produk, segera komunikasikan kepada pihak *supplie
 
 **Melakukan Proses Inbound dengan Baik**
 
-  - **\*\*Menyediakan Area Khusus\*\***
+  - **Menyediakan Area Khusus**
 
 Agar proses *inbound* berjalan dengan optimal, pastikan Anda memisahkan area *inbound* dari area lain, termasuk dari area[ *outbound*](https://seller.shopee.co.id/edu/article/13966). Usahakan untuk menempatkan area *inbound* di pintu masuk gudang agar proses *inbound* tidak mengganggu proses pemenuhan pesanan yang sedang berlangsung.
 
@@ -63,7 +60,7 @@ Jika Anda mencampur area *inbound* dengan area lain maka akan memperlambat prose
 
   
 
-  - **\*\*Menyediakan Sumber Daya Manusia (SDM) yang Memadai\*\***
+  - **Menyediakan Sumber Daya Manusia (SDM) yang Memadai**
 
 Persingkat proses *inbound* dengan menyediakan sumber daya manusia (SDM) yang memadai. Dalam proses *inbound*, Anda dituntut untuk memastikan kualitas dan kuantitas produk telah sesuai sehingga Anda memerlukan SDM yang cukup untuk melakukan pemeriksaan tersebut. Sebaiknya, proses pemeriksaan kuantitas dan kualitas produk dilakukan oleh pihak yang berbeda agar hasil yang diperoleh lebih optimal dan akurat.
 
@@ -73,7 +70,7 @@ Jika SDM yang ada sangat terbatas, Anda perlu memperhatikan waktu yang tepat unt
 
   
 
-  - **\*\*Menentukan Waktu yang Tepat\*\***
+  - **Menentukan Waktu yang Tepat**
 
 Selain karena jumlah SDM yang terbatas, melakukan *inbound* di luar waktu yang padat juga dapat Anda terapkan untuk menghindari terjadinya penumpukan produk.[ Cari tahu waktu di mana pesanan meningkat](https://seller.shopee.co.id/edu/article/7050) untuk menghindari melakukan *inbound* berdekatan pada periode tersebut.
 
@@ -83,7 +80,7 @@ Untuk menentukan waktu *inbound* yang tepat, perhatikan hal-hal berikut:
 
   
 
-  - **\*\*Menyimpan Produk di Area Penyimpanan\*\***
+  - **Menyimpan Produk di Area Penyimpanan**
 
 Setelah proses *inbound* dilakukan, pastikan untuk segera mencatat di area admin dan menyimpan produk yang lolos pemeriksaan ke area penyimpanan. Hal ini perlu Anda lakukan agar produk tidak menumpuk di area *inbound*.
 

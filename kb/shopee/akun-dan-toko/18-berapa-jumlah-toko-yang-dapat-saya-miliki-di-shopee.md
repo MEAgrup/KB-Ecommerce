@@ -18,9 +18,6 @@ sources:
 Ketentuan jumlah akun/toko yang dapat didaftarkan oleh Penjual tergantung pada tipe akun Penjual. Pastikan Anda tidak pernah melanggar[ Syarat dan Ketentuan Kebijakan Shopee sebagai Penjual](https://seller.shopee.co.id/edu/article/16811) dan memenuhi kriteria berikut:
 
 
-08-08-2025
-
-Ketentuan jumlah akun/toko yang dapat didaftarkan oleh Penjual tergantung pada tipe akun Penjual. Pastikan Anda tidak pernah melanggar[ Syarat dan Ketentuan Kebijakan Shopee sebagai Penjual](https://seller.shopee.co.id/edu/article/16811) dan memenuhi kriteria berikut:
 
 **ð Definisi**
 

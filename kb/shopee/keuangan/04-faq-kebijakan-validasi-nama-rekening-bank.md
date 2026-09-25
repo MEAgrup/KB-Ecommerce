@@ -18,9 +18,6 @@ sources:
 **1. Apa itu Kebijakan Validasi Nama Rekening Bank?**
 
 
-05-07-2026
-
-**1. Apa itu Kebijakan Validasi Nama Rekening Bank?**
 
 Kebijakan ini mewajibkan agar nama pemilik rekening bank yang digunakan untuk penarikan dana dari[ Saldo Penjual](https://seller.shopee.co.id/edu/article/6995) sesuai dengan nama yang telah diverifikasi dalam proses[ Verifikasi Data Identitas Toko](https://seller.shopee.co.id/edu/article/26735).
 

@@ -18,9 +18,6 @@ sources:
 **Tentang Proses Pengiriman Massal**
 
 
-10-03-2026
-
-**Tentang Proses Pengiriman Massal**
 
 Untuk memproses pesanan lebih efisien, Anda dapat mengatur **Pengiriman Massal** dan membuat **Dokumen Pengiriman** untuk beberapa pesanan sekaligus.
 

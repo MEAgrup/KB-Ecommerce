@@ -18,9 +18,6 @@ sources:
 **1.** **Barang apa saja yang dilarang dan dibatasi untuk dijual di Shopee?**
 
 
-03-08-2026
-
-**1.** **Barang apa saja yang dilarang dan dibatasi untuk dijual di Shopee?**
 
 Pelajari lebih lanjut di[ produk yang dilarang dan dibatasi untuk dijual di Shopee](https://seller.shopee.co.id/edu/article/376).
 

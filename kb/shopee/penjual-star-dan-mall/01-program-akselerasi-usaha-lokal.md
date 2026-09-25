@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Akselerasi Produk Lokal?**
 
 
-14-08-2026
-
-**Apa itu Program Akselerasi Produk Lokal?**
 
 Program Akselerasi Produk Lokal adalah program yang memberikan berbagai dukungan bagi Penjual dalam negeri untuk mengembangkan bisnisnya dan menarik lebih banyak Pembeli di Shopee.
 

@@ -18,9 +18,6 @@ sources:
 **Apa itu Fitur Performa Video?**
 
 
-20-01-2026
-
-**Apa itu Fitur Performa Video?**
 
 Performa Video adalah fitur untuk membantu Anda meninjau performa Shopee Video. Fitur ini dapat memudahkan Anda dalam mengevaluasi performa keseluruhan video yang anda telah *upload*.
 
@@ -72,11 +69,11 @@ Dalam halaman **Performa Video**, Anda akan melihat **Data Utama**, **Persebaran
 
 **Data Utama**
 
-  - **\*\*Penonton\*\***
+  - **Penonton**
 
 Data yang berhubungan dengan Penonton dari konten Shopee Video Anda yang memiliki metrik jumlah **Penonton**, **Suka**, **Konten Dibagikan**, **Komentar**, **Kunjungan Profil**, dan **Pengikut Baru**.
 
-  - **\*\*Penjualan\*\***
+  - **Penjualan**
 
 Data yang berhubungan dengan penjualan dari konten Shopee Video Anda yang memiliki metrik berikut:
 

@@ -18,11 +18,6 @@ sources:
 Shopee menerapkan beberapa jenis biaya atas layanan yang digunakan oleh Penjual Shopee Mall. Jenis biaya wajib yang akan dikenakan meliputi:
 
 
-23-07-2026
-
-Shopee menerapkan beberapa jenis biaya atas layanan yang digunakan oleh Penjual Shopee Mall. Jenis biaya wajib yang akan dikenakan meliputi:
-
-  
 
 **1. Biaya Administrasi Penjual Shopee Mall**
 

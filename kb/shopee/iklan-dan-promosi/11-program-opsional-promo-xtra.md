@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Opsional Promo XTRA+?**
 
 
-31-07-2026
-
-**Apa itu Program Opsional Promo XTRA+?**
 
 **Promo XTRA+** adalah program opsional Promo XTRA terbaru yang memberikan kesempatan bagi seluruh Penjual untuk menawarkan voucher diskon dengan skema yang LEBIH BESAR.
 
@@ -53,17 +50,17 @@ Berikut skema voucher **Promo XTRA+** yang berlaku mulai 27 April 2026:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*DISKON\*\* | \*\*MIN. BELANJA\*\* | \*\*MAKS. DISKON\*\* |
-| \*\*Semua Kategori\*\* | 7% - 15% | Rp30.000 - Rp200.000 | Rp100.000 - Rp1.000.000 |
-| \*\*Fashion\*\* | 12% - 22% | Rp100.000 - Rp300.000 | Rp100.000 |
-| \*\*Kecantikan\*\* | 17% | Rp100.000 | Rp100.000 |
+| **KATEGORI** | **DISKON** | **MIN. BELANJA** | **MAKS. DISKON** |
+| **Semua Kategori** | 7% - 15% | Rp30.000 - Rp200.000 | Rp100.000 - Rp1.000.000 |
+| **Fashion** | 12% - 22% | Rp100.000 - Rp300.000 | Rp100.000 |
+| **Kecantikan** | 17% | Rp100.000 | Rp100.000 |
 
 Tambahan voucher **Beli 2 Gratis 1** yang berlaku pada 1 April 2026 setiap hari Rabu:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*DISKON\*\* | \*\*MIN. BELANJA\*\* | \*\*MAKS. DISKON\*\* |
-| \*\*Fashion\*\* | 33% | 3 Produk | Rp50.000 |
+| **KATEGORI** | **DISKON** | **MIN. BELANJA** | **MAKS. DISKON** |
+| **Fashion** | 33% | 3 Produk | Rp50.000 |
 
 Khusus untuk Pembeli ShopeeVIP akan mendapatkan voucher 3% lebih besar.
 
@@ -143,7 +140,7 @@ Biaya layanan akan dikenakan untuk semua pesanan terselesaikan (dengan atau tanp
 
   
 
-*\*\*\*\*Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965). *\*\*\*\*Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965). 
+**Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965). **Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi Shopee Mall.*[ Lihat rincian biaya per kategori produk](https://seller.shopee.co.id/edu/article/15965). 
 
   
 
@@ -171,7 +168,7 @@ Ilustrasi pengajuan & waktu efektif bergabung/berhenti adalah sebagai berikut:
 
 |  |  |
 | :-: | :-: |
-| \*\*PENGAJUAN BERGABUNG/BERHENTI\*\* | \*\*WAKTU EFEKTIF BERGABUNG/BERHENTI\*\* |
+| **PENGAJUAN BERGABUNG/BERHENTI** | **WAKTU EFEKTIF BERGABUNG/BERHENTI** |
 | Selasa, 5 Agustus 2025 sebelumpk. 17.00 WIB | Rabu, 6 Agustus 2025 pk. 00.00 WIB |
 | Selasa, 5 Agustus 2025 setelahpk. 17.00 WIB | Kamis, 7 Agustus 2025 pk. 00.00 WIB |
 | Dan seterusnya | Dan seterusnya |

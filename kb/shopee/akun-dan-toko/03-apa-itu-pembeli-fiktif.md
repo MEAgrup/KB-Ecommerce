@@ -18,9 +18,6 @@ sources:
 **Apa itu Pembeli Fiktif?**
 
 
-30-03-2023
-
-**Apa itu Pembeli Fiktif?**
 
 Pembeli fiktif biasanya menargetkan Penjual yang jam operasional tokonya akan berakhir, karena Penjual cenderung lebih mudah untuk menerima permintaan Pembeli. Penipu memanfaatkan ini dengan menyamar menjadi Pembeli yang mengalami masalah pembayaran atau pengiriman.
 
@@ -34,7 +31,7 @@ Meskipun Pembeli fiktif dapat memberikan berbagai alasan untuk meyakinkan Anda, 
 
   
 
-**1.** ***Scan*** **Kode QR**
+**1.** **Scan** **Kode QR**
 
   - Penipu mencoba log in ke akun Anda dan diminta untuk memverifikasi melalui kode QR.
   - Dengan berpura-pura menjadi Pembeli, penipu kemudian mengirimkan kode QR ke Anda untuk melakukan *scan*.
@@ -51,7 +48,7 @@ Meskipun Pembeli fiktif dapat memberikan berbagai alasan untuk meyakinkan Anda, 
 
   
 
-**2. Mengakses** ***link*** **ke situs palsu (*****phising*****)**
+**2. Mengakses** **link** **ke situs palsu (**phising**)**
 
   - Penipu mengirimkan *link* atau kode QR ke Penjual melalui SMS/email.
 

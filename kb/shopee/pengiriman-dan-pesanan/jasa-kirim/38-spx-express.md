@@ -18,27 +18,24 @@ sources:
 **Jenis Layanan Jasa Kirim SPX Express**
 
 
-24-07-2026
-
-**Jenis Layanan Jasa Kirim SPX Express**
 
   - **SPX** **Standard**
 
 SPX Standard adalah jenis layanan pengiriman reguler yang mendukung pengiriman ke seluruh wilayah di Indonesia dengan perkiraan waktu pengiriman 2-7 hari kerja, disesuaikan pada daerah tujuan pengiriman. Layanan ini tersedia di berbagai wilayah sesuai dengan[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) yang telah ditentukan.
 
-  - **\*\*SPX Sameday\*\***
+  - **SPX Sameday**
 
 SPX Sameday adalah jenis layanan untuk pengiriman yang akan sampai pada hari yang sama dengan jarak pengantaran maks. 40 km untuk Penjual yang memenuhi kriteria di berbagai wilayah sesuai dengan[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) yang telah ditentukan.
 
-  - **\*\*SPX Instant (semua layanan pengirimannya)\*\***
+  - **SPX Instant (semua layanan pengirimannya)**
 
 SPX dengan pengiriman Instant memiliki beberapa layanan pengiriman yaitu Instant (Versi Lama), Instant, dan Instant Prioritas dengan durasi pengiriman maks. 4 jam saat pesanan berhasil di-*pick up*. Tipe layanan ini hanya dapat digunakan untuk Penjual yang memenuhi kriteria yang termasuk dalam[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) lokasi pengiriman SPX Instant (semua layanan pengirimannya).
 
-  - **\*\*SPX Hemat\*\***
+  - **SPX Hemat**
 
 SPX Hemat adalah jenis layanan untuk pengiriman dengan ongkos kirim yang lebih ekonomis dibandingkan dengan layanan pengiriman SPX Express lainnya. Layanan ini tersedia di berbagai wilayah sesuai dengan[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) yang telah ditentukan.
 
-  - **\*\*SPX Ambil di Tempat\*\***
+  - **SPX Ambil di Tempat**
 
 SPX Ambil di Tempat adalah jenis layanan pengiriman yang memungkinkan Pembeli untuk dapat mengambil paket secara langsung di lokasi Agen SPX Express dengan ongkos kirim yang lebih hemat. Layanan ini tersedia di berbagai wilayah sesuai dengan[ area jangkauan](https://seller.shopee.co.id/edu/article/3443) yang telah ditentukan.
 
@@ -114,7 +111,7 @@ Pelajari lebih lanjut mengenai[ Proses Pick up](https://seller.shopee.co.id/edu/
 
   
 
-**Kelayakan untuk Layanan** ***Pick-up***
+**Kelayakan untuk Layanan** **Pick-up**
 
 Jika toko Anda belum memiliki layanan *pick-up* namun telah memenuhi kriteria, maka secara otomatis layanan *pick-up* akan muncul di akun Penjual pada **minggu pertama di bulan berikutnya**.
 
@@ -122,7 +119,7 @@ Jika toko Anda belum memiliki layanan *pick-up* namun telah memenuhi kriteria, m
 
 Contoh:
 
-**Penghapusan Layanan** ***Pick-up***
+**Penghapusan Layanan** **Pick-up**
 
 Performa Penjual akan ditinjau setiap bulan. Jika Penjual gagal memenuhi kriteria rata-rata pesanan bersih harian selama 2 bulan berturut-turut, layanan *pick-up* akan ditinjau kembali.
 

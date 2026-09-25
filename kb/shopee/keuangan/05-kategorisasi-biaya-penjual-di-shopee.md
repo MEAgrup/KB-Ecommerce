@@ -18,15 +18,10 @@ sources:
 Untuk membantu mempermudah Penjual melakukan perhitungan biaya berjualan di toko Penjual, Shopee menerapkan kategorisasi biaya di halaman Rincian Biaya Penjualan.
 
 
-31-07-2026
-
-Untuk membantu mempermudah Penjual melakukan perhitungan biaya berjualan di toko Penjual, Shopee menerapkan kategorisasi biaya di halaman Rincian Biaya Penjualan.
-
-  
 
 **Kategorisasi Biaya Penjual di Shopee**
 
-**1. Biaya** ***Platform***
+**1. Biaya** **Platform**
 
 Biaya *Platform* adalah biaya yang berlaku bagi seluruh Penjual aktif di Shopee untuk setiap pesanan yang terselesaikan. Biaya ini terdiri dari:
 

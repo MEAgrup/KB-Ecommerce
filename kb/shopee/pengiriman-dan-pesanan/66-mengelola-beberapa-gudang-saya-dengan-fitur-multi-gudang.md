@@ -18,9 +18,6 @@ sources:
 **Apa itu Multi-Gudang?**
 
 
-17-03-2026
-
-**Apa itu Multi-Gudang?**
 
 Multi-Gudang adalah fitur di Seller Centre yang memungkinkan Anda menambah dan mengelola hingga 30 gudang untuk toko Anda. Anda dapat mengakses fitur ini melalui menu **Pengaturan** **Gudang** pada bagian **Pengaturan** **Toko** di Seller Centre.
 
@@ -63,12 +60,12 @@ Kemudian, daftarkan toko Anda dengan mendaftarkan gudang Anda pada Tim Shopee. J
 
   
 
-## **Bagaimana jika Penjual Shopee Mall telah memiliki** ***Authorized Store*** **(toko cabang)?**
+## **Bagaimana jika Penjual Shopee Mall telah memiliki** **Authorized Store** **(toko cabang)?**
 
-**Skenario yang dapat dipilih oleh** ***Brand***
+**Skenario yang dapat dipilih oleh** **Brand**
 
 *  
-***Menambahkan Beberapa Gudang dengan Fitur Multi-Gudang**
+**Menambahkan Beberapa Gudang dengan Fitur Multi-Gudang**
 
 Ikuti langkah berikut untuk menambahkan beberapa gudang dengan fitur Multi-Gudang:
 
@@ -197,7 +194,7 @@ Perhatikan contoh lokasi gudang terdekat dengan jumlah stok tersedia ke alamat P
 
 Berikut adalah hal-hal yang menentukan alokasi gudang:
 
-  - **\*\*Ketersediaan stok\*\***
+  - **Ketersediaan stok**
   - **Prioritas gudang** - dihitung menggunakan jarak terdekat dari gudang Penjual ke alamat Pembeli.
   - **Alokasi gudang** - dilakukan selama proses checkout untuk menghitung estimasi ongkos kirim dan perkiraan barang tiba.
 
@@ -268,7 +265,7 @@ Anda yang menggunakan Open API perlu melakukan penyesuaian Open API v2 sebelum d
 
 *API v2 sebelum konfirmasi akhir kepada ﻿﻿﻿﻿﻿tim Shopee untuk mengaktifkan fitur* 
 
-***Multi-Gudang***
+**Multi-Gudang**
 
   
 

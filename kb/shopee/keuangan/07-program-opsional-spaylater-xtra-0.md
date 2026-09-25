@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Opsional SPayLater XTRA 0%?**
 
 
-09-07-2026
-
-**Apa itu Program Opsional SPayLater XTRA 0%?**
 
 SPayLater XTRA 0% adalah program opsional yang memungkinkan Penjual untuk menawarkan **cicilan 0%** untuk Pembeli selama **3 atau 6 bulan** melalui metode pembayaran SPayLater. Program opsional ini dapat membuat produk Anda lebih terjangkau oleh Pembeli serta membantu meningkatkan penjualan.
 
@@ -37,15 +34,15 @@ Dengan mengikuti program opsional SPayLater XTRA 0%, Penjual dapat memperoleh be
 
 Berdasarkan performa rata-rata Penjual yang mengikuti program opsional SPayLater XTRA 0%, program ini memberikan dampak positif terhadap peningkatan penjualan dan efisiensi biaya.
 
-  - **\*\*Pertumbuhan\*\* \*\*\*Gross Merchandise Value\*\*\* \*\*(GMV) lebih tinggi\*\***
+  - **Pertumbuhan** **\*Gross Merchandise Value**\* **(GMV) lebih tinggi**
 
 Penjual yang bergabung dengan program opsional SPayLater XTRA 0% mengalami kenaikan GMV hingga 8% dari bulan ke bulan.
 
-  - **\*\*Transaksi SPayLater semakin meningkat\*\***
+  - **Transaksi SPayLater semakin meningkat**
 
 GMV dari Pembeli yang menggunakan SPayLater mengalami kenaikan hingga 30%. Hal ini mencerminkan Pembeli lebih tertarik berbelanja dengan opsi cicilan 0%.
 
-  - **\*\*\*Return on Investment\*\*\* \*\*(ROI) positif untuk Penjual\*\***
+  - **\*Return on Investment**\* **(ROI) positif untuk Penjual**
 
 Program ini mencatat ROI hingga 8x, di mana biaya yang dikeluarkan Penjual berpotensi memberikan hasil penjualan yang jauh lebih besar.
 
@@ -79,7 +76,7 @@ Biaya layanan adalah biaya yang dibebankan untuk Penjual pada setiap pesanan sel
 
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| \*\*TENOR\*\* | \*\*KETERANGAN\*\* | \*\*BUNGA YANG DIKENAKAN\*\*\*\*KE PEMBELI\*\* | \*\*BIAYA YANG DITANGGUNG\*\* \*\*\*PLATFORM\*\*\* | \*\*BIAYA LAYANAN PENJUAL\*\* |
+| **TENOR** | **KETERANGAN** | **BUNGA YANG DIKENAKAN**KE PEMBELI** | **BIAYA YANG DITANGGUNG** **\*PLATFORM**\* | **BIAYA LAYANAN PENJUAL** |
 |  3 bulan | Tanpa SPayLater XTRA 0% | 8,9% | 0% | 0% |
 | Dengan SPayLater XTRA 0% | 0% | 6,4% | 2,5% |  |
 | 6 bulan  | Tanpa SPayLater XTRA 0% | 17,8% | 0% | 0% |
@@ -95,10 +92,10 @@ Biaya layanan dihitung berdasarkan **Total Penjualan** (termasuk biaya pengirima
 | :-: | :-: | :-: | :-: |
 | Total penjualan dengan SPayLater tenor 6 bulan | \\= | Rp2.000.000 | a |
 | Total diskon (Voucher Shopee, Voucher Toko, Voucher Bank) | \\= | Rp250.000 | b |
-| \*\*Total Penjualan\*\* (a - b) | \\= | \*\*Rp1.750.000\*\* | c |
+| **Total Penjualan** (a - b) | \\= | **Rp1.750.000** | c |
 | Biaya layanan pesanan dengan SpayLater tenor 6 bulan | 4% | d |  |
-| \*\*Total Biaya Layanan SPayLater XTRA 0%\*\* (c x d) | \\= | \*\*Rp70.000\*\* | e |
-| \*\*Total Penjualan Bersih dengan Program SPayLater XTRA 0%\*\* (c - e) | \\= | \*\*Rp1.680.000\*\* |   |
+| **Total Biaya Layanan SPayLater XTRA 0%** (c x d) | \\= | **Rp70.000** | e |
+| **Total Penjualan Bersih dengan Program SPayLater XTRA 0%** (c - e) | \\= | **Rp1.680.000** |   |
 
   
 

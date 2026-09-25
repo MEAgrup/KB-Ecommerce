@@ -18,11 +18,6 @@ sources:
 Sesuai dengan[ ketentuan penjualan Obat Bebas, Obat Bebas Terbatas](https://seller.shopee.co.id/edu/article/26828), dan Obat Keras, pastikan Anda mengisi informasi produk secara lengkap saat *upload* atau *update* produk, termasuk Nama Produk, Foto Produk, Deskripsi Produk, serta Spesifikasi Produk (Atribut Utama dan Atribut Lainnya) agar produk dapat ditampilkan secara akurat.
 
 
-15-04-2026
-
-Sesuai dengan[ ketentuan penjualan Obat Bebas, Obat Bebas Terbatas](https://seller.shopee.co.id/edu/article/26828), dan Obat Keras, pastikan Anda mengisi informasi produk secara lengkap saat *upload* atau *update* produk, termasuk Nama Produk, Foto Produk, Deskripsi Produk, serta Spesifikasi Produk (Atribut Utama dan Atribut Lainnya) agar produk dapat ditampilkan secara akurat.
-
-  
 
 **⚠️ Catatan**
 
@@ -140,7 +135,7 @@ Pastikan seluruh informasi yang dimasukkan sudah sesuai dengan kemasan dan izin 
 Berikut adalah ketentuan dalam melengkapi Informasi Penjualan:
 
   - **Variasi**: Variasi produk tidak tersedia untuk produk yang termasuk ke dalam kategori **Kesehatan** \> **Obat-obatan & Alat Kesehatan** \> **Obat Bebas (OTC)** atau kategori **Kesehatan** \> **Obat-obatan & Alat Kesehatan** \> **Obat Resep**.
-  - **\*\*Maks. Jumlah Pembelian:\*\***   
+  - **Maks. Jumlah Pembelian:**   
       - Obat Bebas & Obat Bebas Terbatas: Batas maks. pembelian per pesanan tidak boleh melebihi penggunaan obat selama 3 hari (sesuai regulasi Permenkes No. 11 Tahun 2025, hal. 468).
       - Obat Keras: Batas maks. Pembelian per pesanan akan disesuaikan dengan resep dokter.
 
@@ -172,7 +167,7 @@ Pastikan Anda memasukkan produk ke Kategori yang sesuai. Pelajari lebih lanjut t
 
   
 
-**3. Menjual obat yang dilarang diperjual belikan secara** ***online***
+**3. Menjual obat yang dilarang diperjual belikan secara** **online**
 
 Anda dilarang menjual obat medis, suplemen, multivitamin, atau produk lain yang termasuk dalam kategori obat yang dilarang atau dibatasi peredarannya, baik untuk manusia maupun hewan.
 

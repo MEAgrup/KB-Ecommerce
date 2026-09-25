@@ -18,9 +18,6 @@ sources:
 Anda dapat mulai berjualan dengan mudah melalui aplikasi Shopee/Seller Centre. Berikut adalah gambaran rangkaian proses mulai berjualan di Shopee, dari mendaftar sebagai Penjual hingga meng-*upload* produk pertama Anda:
 
 
-12-12-2024
-
-Anda dapat mulai berjualan dengan mudah melalui aplikasi Shopee/Seller Centre. Berikut adalah gambaran rangkaian proses mulai berjualan di Shopee, dari mendaftar sebagai Penjual hingga meng-*upload* produk pertama Anda:
 
 1.  Daftar sebagai Penjual melalui aplikasi Shopee/Seller Centre dengan pilih **Mulai Jual**.
 2.  Lakukan[ **Verifikasi Data Diri**](https://seller.shopee.co.id/edu/article/20801). Verifikasi data diri hanya dapat dilakukan dengan menggunakan KTP pemilik akun.

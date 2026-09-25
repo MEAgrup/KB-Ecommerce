@@ -18,9 +18,6 @@ sources:
 **Metode Pengambilan Produk**
 
 
-12-07-2023
-
-**Metode Pengambilan Produk**
 
 Sebelum produk dikemas, Penjual harus melewati proses pengambilan produk terlebih dahulu. Proses pengambilan produk atau proses *picking* produk menentukan kepuasaan Pembeli ketika berbelanja di toko Anda. Bayangkan, apabila *picker* (pengambil produk) mengambil barang yang tidak sesuai dengan pesanan, maka berakibat munculnya komplain dari Pembeli.
 
@@ -40,7 +37,7 @@ Untuk menentukan metode pengambilan mana yang akan Anda terapkan, Anda perlu mem
 
   
 
-  - **\*\*Karakter Produk yang Dijual\*\***
+  - **Karakter Produk yang Dijual**
 
 Dimensi (ukuran) dan volume (berat) produk akan mempengaruhi proses pengambilan produk dan alat-alat pendukung yang dibutuhkan. Produk berukuran kecil dan ringan dapat diambil secara bersamaan dan dari beberapa resi dalam satu kali perjalanan, sedangkan produk berukuran besar dan berat akan lebih sulit dibawa secara bersamaan kecuali Anda memiliki alat bantu untuk perpindahan produk.
 
@@ -50,13 +47,13 @@ Beberapa produk tertentu terkadang membutuhkan penangan khusus seperti[ produk m
 
   
 
-  - **\*\*Rata-rata Jumlah Produk per Pesanan\*\***
+  - **Rata-rata Jumlah Produk per Pesanan**
 
 Periksa[ performa penjualan](https://seller.shopee.co.id/edu/article/7050) Anda dan ketahui rata-rata jumlah produk yang terjual dalam satu pesanan. Jika mayoritas Pembeli memesan banyak produk dan satu pesanan, maka saat Anda menerapkan *Batch Picking*, pertimbangkan untuk membawa tidak terlalu banyak resi dalam sekali perjalanan agar produk yang dibawa tidak terlalu banyak dan menghindari penumpukan di meja pengemasan.
 
   
 
-  - **\*\*Jumlah Variasi per Produk\*\***
+  - **Jumlah Variasi per Produk**
 
 Selain memperhatikan jumlah produk dalam satu pesanan, perhatikan juga jumlah variasi per produk. Hal ini akan membantu mempersingkat pengambilan produk dengan dan meminimalisir kesalahan dalam pengambilan.
 
@@ -66,13 +63,13 @@ Produk yang memiliki lebih banyak varian membutuhkan ketelitian ekstra dibanding
 
   
 
-  - **\*\*Ukuran Gudang\*\***
+  - **Ukuran Gudang**
 
 Besarnya area penyimpanan barang di gudang juga akan mempengaruhi pergerakan *picker*. Pastikan jarak antar rak mudah untuk dilewati oleh *picker* dan alat bantu seperti keranjang atau troli. Untuk gudang yang lebih luas, pertimbangkan untuk menggunakan metode *Zone Picking*.
 
   
 
-  - **\*\*Jasa Kirim yang Diaktifkan\*\***
+  - **Jasa Kirim yang Diaktifkan**
 
 Setiap[ jasa kirim](https://seller.shopee.co.id/edu/article/14183) memiliki waktu operasional dan jadwal *pick up* yang berbeda. Sesuaikan waktu pengambilan produk agar tidak melewati batas *pick up*.
 
@@ -82,7 +79,7 @@ Jika Anda hanya mengaktifkan layanan jasa kirim Instant dan/atau Same Day, perti
 
   
 
-  - **\*\*Jumlah Sumber Daya Manusia\*\***
+  - **Jumlah Sumber Daya Manusia**
 
 Jika Anda memiliki sumber daya manusia yang terbatas, pertimbangkan untuk menggunakan metode *Single Picking* karena memungkinkan *picker* merangkap sebagai pemeriksa produk sebelum dikemas sehingga Anda tidak perlu memiliki pemeriksa produk secara terpisah.
 

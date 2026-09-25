@@ -18,11 +18,6 @@ sources:
 Jika Anda ingin menghubungi Customer Service Shopee, Anda dapat mencari jawaban atau solusi terlebih dahulu dari Asisten Penjual. Jika pertanyaan/kendala Anda belum terjawab oleh Asisten Pnejual, Anda dapat memasukkan instruksi "Hubungi CS Shopee" atau pilih "Tidak, tetap menunggu terhubung CS".
 
 
-15-06-2026
-
-Jika Anda ingin menghubungi Customer Service Shopee, Anda dapat mencari jawaban atau solusi terlebih dahulu dari Asisten Penjual. Jika pertanyaan/kendala Anda belum terjawab oleh Asisten Pnejual, Anda dapat memasukkan instruksi "Hubungi CS Shopee" atau pilih "Tidak, tetap menunggu terhubung CS".
-
-  
 
 Menghubungi Customer Service Shopee dapat diakses melalui Asisten Penjual di aplikasi Shopee dan Seller Centre.
 

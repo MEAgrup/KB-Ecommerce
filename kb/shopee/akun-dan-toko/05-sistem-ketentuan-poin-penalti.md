@@ -18,9 +18,6 @@ sources:
 **Tentang Sistem Poin Penalti**
 
 
-18-03-2026
-
-**Tentang Sistem Poin Penalti**
 
 Sistem Poin Penalti adalah sistem berbasis poin yang dirancang untuk menghargai Penjual yang memiliki performa toko yang baik, agar dapat menjadi pilihan utama para Pembeli dibandingkan Penjual dengan performa toko yang kurang baik.
 

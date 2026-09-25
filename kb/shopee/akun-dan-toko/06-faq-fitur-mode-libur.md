@@ -18,9 +18,6 @@ sources:
 **1. Kapan saya perlu mengaktifkan Fitur Mode Libur?**
 
 
-16-03-2026
-
-**1. Kapan saya perlu mengaktifkan Fitur Mode Libur?**
 
 Anda dapat mengaktifkan Fitur Mode Libur ketika Anda membutuhkan lebih banyak waktu untuk mengelola dan menyelesaikan pesanan yang ada, atau jika Anda akan pergi libur.
 

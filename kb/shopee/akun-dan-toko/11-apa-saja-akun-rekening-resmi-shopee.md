@@ -18,11 +18,6 @@ sources:
 Akun resmi Shopee meliputi Pusat Edukasi Penjual, akun media sosial resmi Shopee, dan akun WhatsApp resmi Shopee.
 
 
-10-06-2025
-
-Akun resmi Shopee meliputi Pusat Edukasi Penjual, akun media sosial resmi Shopee, dan akun WhatsApp resmi Shopee.
-
-  
 
 1\.[ Pusat Edukasi Penjual](https://seller.shopee.co.id/edu/home) merupakan panduan lengkap tentang cara berjualan di Shopee.
 

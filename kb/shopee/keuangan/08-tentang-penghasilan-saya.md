@@ -18,9 +18,6 @@ sources:
 **Apa itu Penghasilan Saya?**
 
 
-28-07-2026
-
-**Apa itu Penghasilan Saya?**
 
 Penghasilan Saya adalah halaman yang dapat diakses melalui Seller Centre dan aplikasi Shopee yang memberi gambaran laporan keuangan Anda dari waktu ke waktu. Anda dapat memeriksa setiap pelepasan dana yang *pending* atau yang sudah dilepaskan ke Saldo Penjual Anda.
 
@@ -80,11 +77,11 @@ Informasi Penghasilan memberikan gambaran sekilas tentang pendapatan yang tertah
 
 Penghasilan Anda dibagi menjadi 2 bagian, baik di aplikasi Shopee atau Seller Centre, yaitu:
 
-  - **\*\*Pending\*\***
+  - **Pending**
 
 Pendapatan dari pesanan yang masih dalam periode pengajuan Pengembalian Barang/Dana, belum dikonfirmasi telah selesai oleh Pembeli, atau pesanan yang belum diselesaikan secara otomatis oleh sistem. Penghasilan Anda dari semua pesanan akan disimpan sementara di *tab* ini hingga proses pelepasan dana selesai.
 
-  - **\*\*Sudah Dilepas\*\***
+  - **Sudah Dilepas**
 
 Pendapatan dari pesanan yang telah selesai. Penghasilan Anda dari semua pesanan akan dilepaskan dan dikirim ke Saldo Penjual Anda.
 
@@ -245,22 +242,22 @@ Setiap catatan transaksi penghasilan memiliki 4 komponen.
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*Subtotal Pesanan\*\* | \*\*Harga Produk\*\* | Harga awal produk yang dibayar oleh Pembeli, tidak termasuk biaya tambahan dan diskon | \*\*Ditambahkan\*\* ke penghasilan |
-| \*\*Jumlah Pengembalian Dana\*\* | Jumlah yang dikembalikan kepada Pembeli atas pesanan pengembalian barang/dana atau dibatalkan | \*\*Dikurangi\*\* dari penghasilan |  |
-| \*\*Voucher dan Potongan Harga\*\* | \*\*Subsidi dari Shopee\*\* | Besarnya potongan harga yang ditawarkan kepada Penjual oleh Shopee | \*\*Ditambahkan\*\* ke penghasilan |
-| \*\*Voucher yang Ditanggung oleh Penjual\*\* | Jumlah voucher yang ditawarkan kepada Pembeli oleh Penjual | \*\*Dikurangi\*\* dari penghasilan |  |
-| \*\*Subtotal\*\*\*\*Ongkos Kirim\*\* | \*\*Ongkos Kirim yang\*\*\*\*Dibayar Pembeli\*\* | Estimasi biaya ongkos kirim untuk pesanan sebelum diskon | \*\*Ditambahkan\*\* ke penghasilan |
-| \*\*Ongkos Kirim yang Dibayarkan ke Jasa Kirim\*\* | Biaya ongkos kirim yang sebenarnya untuk pesanan | \*\*Dikurangi\*\* dari penghasilan |  |
-| \*\*Potongan Ongkos Kirim\*\*\*\*dari Jasa Kirim\*\* | Diskon ongkos kirim yang ditawarkan kepada Penjual oleh pihak jasa kirim | \*\*Ditambahkan\*\* ke penghasilan |  |
-| \*\*Potongan Ongkos Kirim\*\*\*\*dari Shopee\*\* | Diskon ongkos kirim yang ditawarkan kepada Penjual oleh Shopee |  |  |
-| \*\*Ongkos Kirim Pengembalian\*\* | Biaya ongkos kirim yang dikeluarkan ketika Pembeli mengembalikan barang kepada Penjual | \*\*Dikurangi\*\* dari penghasilan |  |
-| \*\*Biaya Kirim Pengembalian\*\* | Biaya kirim pengembalian barang yang ditanggung oleh Shopee karena Penjual mengikuti Program Hemat Biaya Kirim | \*\*Ditambahkan\*\* ke penghasilan |  |
-| \*\*Biaya Lainnya\*\* | \[\*\*Biaya Administrasi\*\*\](https://seller.shopee.co.id/edu/article/7187)\*\*﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿\*\*\*\*(sudah termasuk PPN sesuai dengan peraturan Pemerintah tentang Perpajakan yang berlaku)\*\* | Biaya administrasi diberlakukan kepada Penjual berdasarkan harga suatu produk | \*\*Dikurangi\*\* dari penghasilan |
-| \*\*Biaya Layanan\*\*\*\*(sudah termasuk PPN sesuai dengan peraturan Pemerintah tentang Perpajakan yang berlaku)\*\* | Biaya layanan yang diberlakukan oleh Shopee atas layanan yang diberikan kepada Penjual yang mendaftar program\[ Promo XTRA\](https://seller.shopee.co.id/edu/courseDetail/814?lessonId=2969) dan\[Gratis Ongkir XTRA\](https://seller.shopee.co.id/edu/courseDetail/814?lessonId=129) |  |  |
-| \*\*Biaya Transaksi\*\*\*\*Kartu Kredit\*\*\*\*(sudah termasuk PPN sesuai dengan peraturan Pemerintah tentang Perpajakan yang berlaku)\*\* | Biaya penanganan diberlakukan kepada Penjual untuk transaksi yang berhasil |  |  |
-| \*\*Biaya Kampanye\*\* | Biaya diberlakukan kepada Penjual ketika produk dijual melalui kampanye |  |  |
-| \*\*Biaya Komisi\*\*\*\*Affiliate Marketing Solution\*\* | Biaya yang dibayarkan kepada \*Affiliate\* berdasarkan Affiliate Marketing Solution |  |  |
-| \*\*Biaya Lainnya\*\* | Biaya yang dibayar oleh Penjual untuk mengasuransikan Biaya Kirim Pengembalian. Jika Anda diberlakukan Biaya Kirim Pengembalian, maka biaya tersebut akan dihapus sebagian atau seluruhnya jika Anda memilih untuk ikut serta dalam program ini |  |  |
+| **Subtotal Pesanan** | **Harga Produk** | Harga awal produk yang dibayar oleh Pembeli, tidak termasuk biaya tambahan dan diskon | **Ditambahkan** ke penghasilan |
+| **Jumlah Pengembalian Dana** | Jumlah yang dikembalikan kepada Pembeli atas pesanan pengembalian barang/dana atau dibatalkan | **Dikurangi** dari penghasilan |  |
+| **Voucher dan Potongan Harga** | **Subsidi dari Shopee** | Besarnya potongan harga yang ditawarkan kepada Penjual oleh Shopee | **Ditambahkan** ke penghasilan |
+| **Voucher yang Ditanggung oleh Penjual** | Jumlah voucher yang ditawarkan kepada Pembeli oleh Penjual | **Dikurangi** dari penghasilan |  |
+| **Subtotal**Ongkos Kirim** | **Ongkos Kirim yang**Dibayar Pembeli** | Estimasi biaya ongkos kirim untuk pesanan sebelum diskon | **Ditambahkan** ke penghasilan |
+| **Ongkos Kirim yang Dibayarkan ke Jasa Kirim** | Biaya ongkos kirim yang sebenarnya untuk pesanan | **Dikurangi** dari penghasilan |  |
+| **Potongan Ongkos Kirim**dari Jasa Kirim** | Diskon ongkos kirim yang ditawarkan kepada Penjual oleh pihak jasa kirim | **Ditambahkan** ke penghasilan |  |
+| **Potongan Ongkos Kirim**dari Shopee** | Diskon ongkos kirim yang ditawarkan kepada Penjual oleh Shopee |  |  |
+| **Ongkos Kirim Pengembalian** | Biaya ongkos kirim yang dikeluarkan ketika Pembeli mengembalikan barang kepada Penjual | **Dikurangi** dari penghasilan |  |
+| **Biaya Kirim Pengembalian** | Biaya kirim pengembalian barang yang ditanggung oleh Shopee karena Penjual mengikuti Program Hemat Biaya Kirim | **Ditambahkan** ke penghasilan |  |
+| **Biaya Lainnya** | \[**Biaya Administrasi**\](https://seller.shopee.co.id/edu/article/7187)**﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿**(sudah termasuk PPN sesuai dengan peraturan Pemerintah tentang Perpajakan yang berlaku)** | Biaya administrasi diberlakukan kepada Penjual berdasarkan harga suatu produk | **Dikurangi** dari penghasilan |
+| **Biaya Layanan**(sudah termasuk PPN sesuai dengan peraturan Pemerintah tentang Perpajakan yang berlaku)** | Biaya layanan yang diberlakukan oleh Shopee atas layanan yang diberikan kepada Penjual yang mendaftar program\[ Promo XTRA\](https://seller.shopee.co.id/edu/courseDetail/814?lessonId=2969) dan\[Gratis Ongkir XTRA\](https://seller.shopee.co.id/edu/courseDetail/814?lessonId=129) |  |  |
+| **Biaya Transaksi**Kartu Kredit**(sudah termasuk PPN sesuai dengan peraturan Pemerintah tentang Perpajakan yang berlaku)** | Biaya penanganan diberlakukan kepada Penjual untuk transaksi yang berhasil |  |  |
+| **Biaya Kampanye** | Biaya diberlakukan kepada Penjual ketika produk dijual melalui kampanye |  |  |
+| **Biaya Komisi**Affiliate Marketing Solution** | Biaya yang dibayarkan kepada \*Affiliate\* berdasarkan Affiliate Marketing Solution |  |  |
+| **Biaya Lainnya** | Biaya yang dibayar oleh Penjual untuk mengasuransikan Biaya Kirim Pengembalian. Jika Anda diberlakukan Biaya Kirim Pengembalian, maka biaya tersebut akan dihapus sebagian atau seluruhnya jika Anda memilih untuk ikut serta dalam program ini |  |  |
 
   
 

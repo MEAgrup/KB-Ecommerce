@@ -18,9 +18,6 @@ sources:
 **Apa itu Performa Produk?**
 
 
-17-03-2026
-
-**Apa itu Performa Produk?**
 
 Data Performa Produk dalam Performa Toko membantu Anda memahami produk mana saja yang lebih diminati oleh Pembeli. Data ini memungkinkan Anda untuk:
 
@@ -64,9 +61,9 @@ Berikut adalah beberapa jenis produk bermasalah beserta dampak dan saran memperb
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*JENIS\*\* | \*\*DAMPAK\*\* | \*\*TIPS/SARAN\*\* |
+| **JENIS** | **DAMPAK** | **TIPS/SARAN** |
 | Penurunan Penjualan | Pesanan dan penjualan yang sedikit di toko | Tingkatkan daya tarik produk atau mempromosikannya melalui Pusat Promosi |
-| Ulasan Kurang Baik | Mengurangi penilaian keseluruhan toko | \*\*•\*\* Pastikan rincian dan foto produk telah sesuai/akurat\*\*•\*\* Lakuan pengecekan ulang sebelum pengemasan\*\*•\*\* Tingkatkan kualitas\[ pelayanan Pembeli\](https://seller.shopee.co.id/edu/article/6857/Tentang-Pelayanan-Pembeli) |
+| Ulasan Kurang Baik | Mengurangi penilaian keseluruhan toko | **•** Pastikan rincian dan foto produk telah sesuai/akurat**•** Lakuan pengecekan ulang sebelum pengemasan**•** Tingkatkan kualitas\[ pelayanan Pembeli\](https://seller.shopee.co.id/edu/article/6857/Tentang-Pelayanan-Pembeli) |
 | Tingkat Pengembalian Barang Tinggi | Pembeli menunggu lebih lama dari ekspektasi untuk menerima pesanan | Hindari stok produk habis, dahulukan pengemasan pesanan dengan batas waktu terdekat, dan pastikan Anda memiliki pegawai yang cukup untuk memenuhi pesanan |
 | Tingkat Pembatalan Penjualan Tinggi | Kehilangan peluang penghasilan dari pembatalan | Hindari stok produk habis, selalu kirim pesanan tepat waktu, dan aktifkan fitur Mode Libur jika Anda tidak dapat memenuhi pesanan untuk sementara |
 | Tingkat Konversi Kurang Baik | Pesanan dan penjualan yang sedikit di toko | Pastikan harga produk Anda kompetitif dan promosikan produk melalui Pusat Promosi |
@@ -82,15 +79,15 @@ Anda dapat memilih sampai 12 kriteria serta mengurutkan produk sesuai kriteria y
 
   
 
-1.  **\*\*Total Penjualan\*\***
+1.  **Total Penjualan**
 
 Terdapat 4 *channel* yaitu **Halaman Produk**, **Live Penjual**, **Vdeo Penjual**, dan **Affiliate**. Pilih salah satu *channel* untuk menampilkan rincian hasil penjualan di **Peringkat Produk**.
 
-1.  **\*\*Total Penjualan\*\***
+1.  **Total Penjualan**
 
 Pilih sampai 12 kriteria yang ingin Anda analisa.
 
-1.  **\*\*Peringkat Produk\*\***
+1.  **Peringkat Produk**
 
 Menunjukkan informasi produk sesuai dengan kriteria yang dipilih.
 
@@ -153,7 +150,7 @@ Direkomendasikan untuk menggunakan data 30 hari terakhir untuk tinjauan jangka p
 
   
 
-**Menganalisis Tingkat Konversi dari data yang di-*****download***
+**Menganalisis Tingkat Konversi dari data yang di-**download**
 
 Data yang telah di-*download* berisi semua kritria dalam periode waktu yang dipilih.
 
@@ -206,14 +203,14 @@ Pilih tipe analisis yang berbeda untuk melihat produk mana yang perlu ditingkatk
 
   
 
-1.  **\*\*Tipe Analisis Produk\*\***
+1.  **Tipe Analisis Produk**
 
 Pilih tipe analisis untuk melihat produk yang termasuk dalam tipe tersebut.
 
-1.  **\*\*Definisi dan Tips\*\***
+1.  **Definisi dan Tips**
 
 Menjelaskan masalah dan tips untuk meminimalisir masalah yang dipilih.
 
-1.  **\*\*Rincian Produk\*\***
+1.  **Rincian Produk**
 
 Menunjukkan semua produk yang sesuai dengan jenis masalah serta link untuk mengubah produk.

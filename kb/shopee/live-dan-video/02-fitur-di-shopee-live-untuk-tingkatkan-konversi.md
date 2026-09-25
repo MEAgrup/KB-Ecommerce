@@ -18,9 +18,6 @@ sources:
 **Berbagai Fitur di Shopee Live untuk Meningkatkan Konversi**
 
 
-28-01-2026
-
-**Berbagai Fitur di Shopee Live untuk Meningkatkan Konversi**
 
 Shopee Live menyediakan berbagai fitur yang dapat membantu mendorong penjualan toko Anda dengan memberikan promo menarik selama Livestream.
 
@@ -272,7 +269,7 @@ Pada halaman **Promo Livestream Affiliate**, Anda dapat melihat promosi yang sed
 3.  **Periode Promosi**: Lihat promosi berdasarkan waktu promosi
 4.  Kolom **Aksi**: 
       
-    1.  **Ubah**: Anda dapat mengubah rincian promosi tergantung pada status promosi. Untuk promosi dengan status **Akan Datang**, Anda dapat mengubah semua rincian informasi dasar promosi dan untuk status promosi **Sedang Berlangsung** Anda tidak dapat mengubah beberapa informasi **Periode Awal Promosi**, **Batas Pembelian**, ***Affiliate*** **Dipilih**, dan **Pengurangan Stok Promosi.**
+    1.  **Ubah**: Anda dapat mengubah rincian promosi tergantung pada status promosi. Untuk promosi dengan status **Akan Datang**, Anda dapat mengubah semua rincian informasi dasar promosi dan untuk status promosi **Sedang Berlangsung** Anda tidak dapat mengubah beberapa informasi **Periode Awal Promosi**, **Batas Pembelian**, **Affiliate** **Dipilih**, dan **Pengurangan Stok Promosi.**
     2.  **Duplikat**: Anda dapat membuat promo baru dari promo yang sudah Anda buat sebelumnya dan mengubah rincian informasi jika diperlukan.
     3.  **Hapus**: Hapus Promo Livestream yang **Akan Datang** atau pun yang **Sedang Berlangsung**
     4.  **Akhiri**: Mengakhiri Promo Livestream yang **Akan Datang** atau pun yang **Sedang Berlangsung**
@@ -331,7 +328,7 @@ Apabila Anda melakukan Livestream melalui Komputer atau Laptop, Anda dapat buat 
 
   
 
-**Voucher Khusus Streamer (*****Affiliate*****)**
+**Voucher Khusus Streamer (**Affiliate**)**
 
 Anda dapat meningkatkan penjualan dan konversi Livestream dengan membuat Voucher Khusus Streamer. Pembeli bisa mendapatkan diskon khusus saat checkout di sesi Livestream dari *Streamer* (*Affiliate*) terpilih.
 
@@ -369,7 +366,7 @@ Agar Pembeli dapat melihat dan meng-klaim voucher dari Livestream, *Streamer* (*
 
 **Menampilkan Voucher secara Singkat atau Permanen**
 
-  - **\*\*Voucher 30 Detik\*\***
+  - **Voucher 30 Detik**
 
 Anda dapat menampilkan voucher singkat selama Livestream untuk Voucher Toko, Voucher Produk, Voucher Live, Voucher Video yang sedang berjalan dengan menggunakan Voucher 30 Detik seperti berikut:
 
@@ -385,7 +382,7 @@ Anda dapat mengatur **Interval Penampilan Voucher** untuk menampilkan Voucher 30
 
 Pilih **Hapus** untuk menghapus voucher yang ingin dihilangkan dari Livestream.
 
-  - **\*\*Menampilkan Voucher secara Permanen saat Livestream\*\***
+  - **Menampilkan Voucher secara Permanen saat Livestream**
 
 Untuk menampilkan voucher secara permanen selama Livestream, Anda dapat mengikuti cara berikut:
 

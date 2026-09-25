@@ -18,9 +18,6 @@ sources:
 **Apa itu Analisis Data?**
 
 
-06-03-2026
-
-**Apa itu Analisis Data?**
 
 Analisis data adalah metode untuk mengolah data menjadi informasi agar dapat menentukan keputusan terbaik seputar bisnis. Kesuksesan sebuah bisnis dalam jangka panjang tidak hanya datang dari penjualan yang baik, tetapi juga dengan mengetahui apa yang harus Anda lakukan untuk meningkatkan kualitas dengan pengambilan keputusan strategis berbasis data.
 
@@ -62,13 +59,13 @@ Tidak hanya itu, menganalisis data secara berkala (seperti mingguan atau bulanan
 
 Sebelumnya, Anda telah mempelajari pentingnya analisis data bagi toko untuk membantu menyelesaikan permasalahan yang dihadapi. Berikut adalah beberapa hal mengenai implementasi analisis data dalam toko Anda:
 
-  - **\*\*Menentukan Tujuan\*\***
+  - **Menentukan Tujuan**
 
 Hal pertama yang harus Anda lakukan adalah mengetahui permasalahan apa yang sedang terjadi, mengidentifikasi dasar analisis untuk hal yang harus diselesaikan, dan data apa yang harus Anda dapatkan. Misalnya, jika bisnis Anda mengalami situasi tingkat pengunjung rendah, maka artinya Anda harus menentukan strategi apa yang dapat ditingkatkan untuk menarik pengunjung. Untuk mempelajari tentang performa kunjungan toko dan bagaimana cara menganalisisnya lebih dalam, lihat di[ Menganalisis Performa Kunjungan Toko](https://seller.shopee.co.id/edu/article/6879).
 
   
 
-  - **\*\*Kumpulkan Data\*\***
+  - **Kumpulkan Data**
 
 Pada tahap ini, Anda telah memiliki garis besar atas pertanyaan yang Anda ingin tahu jawabannya. Anda dapat memaksimalkan penggunaan fitur-fitur yang disediakan Shopee untuk melihat dan menyimpan data yang Anda butuhkan.
 
@@ -76,7 +73,7 @@ Dengan Shopee, Anda dapat melihat data secara langsung dengan mengklik **Data Re
 
   
 
-  - **\*\*Analisis Data\*\***
+  - **Analisis Data**
 
 Proses analisis dilakukan dengan data yang sudah dikumpulkan. Pada tahap ini, analisis dan pengolahan data dapat dilakukan langsung dengan melihat data yang ditampilkan atau di *sheet* yang telah Anda *download*. Setelah memiliki data-data yang dibutuhkan, mungkin Anda bertanya bagaimana cara menganalisis data tersebut. Dalam topik pembelajaran ini, Anda akan mendapatkan banyak informasi yang dapat membantu Anda dalam menganalisis berbagai data.
 
@@ -86,7 +83,7 @@ Sebagai contoh, setelah modul ini Anda juga akan mempelajari cara menganalisis i
 
   
 
-  - **\*\*Pengambilan Keputusan\*\***
+  - **Pengambilan Keputusan**
 
 Setelah mengetahui permasalahan dan menganalisis data, tahap ini menjadi tahap yang paling penting. Hal ini karena pengambilan keputusan, perencanaan, hingga kesimpulan yang diambil akan mempengaruhi jalannya bisnis Anda. Saat mengambil keputusan, pastikan Anda sudah memikirkannya dengan matang, fokus, dan tidak terburu-buru untuk meminimalkan kesalahan. Jangan lupa untuk mendiskusikan hasil analisis Anda bersama tim untuk meminta pendapat sebagai pertimbangan.
 

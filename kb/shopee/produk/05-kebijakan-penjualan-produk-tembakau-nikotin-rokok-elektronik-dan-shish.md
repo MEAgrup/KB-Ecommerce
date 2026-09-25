@@ -18,9 +18,6 @@ sources:
 **Apa itu Produk Tembakau, Nikotin, Rokok Elektronik, dan Shisha?**
 
 
-13-05-2026
-
-**Apa itu Produk Tembakau, Nikotin, Rokok Elektronik, dan Shisha?**
 
 Produk tembakau mengacu pada produk yang secara keseluruhan atau sebagian terbuat dari daun tembakau sebagai bahan bakunya dan dibungkus menggunakan kertas, lalu penggunaannya dengan cara dibakar. Contoh produk tembakau yang dikenal adalah rokok.
 

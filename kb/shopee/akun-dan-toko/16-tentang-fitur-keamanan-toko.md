@@ -18,9 +18,6 @@ sources:
 **Apa itu Fitur Keamanan Toko?**
 
 
-21-10-2022
-
-**Apa itu Fitur Keamanan Toko?**
 
 Fitur Keamanan Toko dapat digunakan untuk meningkatkan keamanan toko Anda dengan menambahkan proses persetujuan dari Pemeriksa apabila terdapat permintaan tambah/ubah akun rekening bank.
 

@@ -18,9 +18,6 @@ sources:
 Berikut merupakan cara untuk mengatur notifikasi/ pemberitahuan pada akun Shopee Anda:
 
 
-10-09-2020
-
-Berikut merupakan cara untuk mengatur notifikasi/ pemberitahuan pada akun Shopee Anda:
 
   - Klik **Saya**
   - Klik **Pengaturan Akun**

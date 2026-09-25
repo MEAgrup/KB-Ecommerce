@@ -18,9 +18,6 @@ sources:
 **Apa itu Shopee Farma?**
 
 
-04-08-2026
-
-**Apa itu Shopee Farma?**
 
 Shopee Farma (SFarma) adalah *platform* layanan kesehatan yang disediakan Shopee untuk pembelian obat melalui apotek resmi dan konsultasi dengan tenaga media profesional secara *online* melalui mitra Shopee.
 
@@ -237,7 +234,7 @@ Untuk memastikan penjualan obat keras berjalan sesuai dengan Standar Pelayanan K
 
   
 
-  - **\*\*Jika Apotek Menerima Pesanan Obat Keras\*\***
+  - **Jika Apotek Menerima Pesanan Obat Keras**
 
 <!-- end list -->
 
@@ -276,7 +273,7 @@ b. Saat Pembeli datang ke apotek, Penjual perlu klik **Konfirmasi Pengambilan**.
   - Apoteker dapat memberikan edukasi dan penjelasan kepada Pembeli mengenai cara penggunaan obat yang diterima melalui fitur Chat, sesuai dengan praktik kefarmasian.
   - Untuk mengaktifkan metode **Ambil di Toko**, pilih alamat toko yang ingin dijadikan sebagai alamat apotek dihalaman **Pengaturan Toko**.
 
-  - **\*\*Jika Apotek Menolak Pesanan\*\***
+  - **Jika Apotek Menolak Pesanan**
 
 Apotek wajib menolak pesanan apabila hasil pengkajian resep menunjukkan ketidaksesuaian, antara lain:
 

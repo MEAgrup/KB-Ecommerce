@@ -18,9 +18,6 @@ sources:
 **Jenis Layanan Jasa Kirim J\&T Cargo**
 
 
-05-08-2026
-
-**Jenis Layanan Jasa Kirim J\&T Cargo**
 
 J\&T Cargo adalah tipe layanan pengiriman Kargo yang termasuk[ jasa kirim didukung Shopee](https://seller.shopee.co.id/edu/article/3384). J\&T Cargo melayani pengiriman dalam jumlah besar ke seluruh kota besar di Indonesia baik melalui transportasi darat maupun udara. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
@@ -91,9 +88,9 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
 |  |  |
 | :-: | :-: |
 | KENDALA | SOLUSI |
-|  \*\*Memilih\*\* \*\*\*pick up\*\*\* \*\*untuk pengiriman dengan J\\\&T Cargo, namun di sistem tertulis sebagai\*\* \*\*\*drop off\*\*\*  | Hubungi J\\\&T Cargo untuk melakukan \*pick up\* pesanan. Jika Anda telah memilih \*pick up\* dan ingin melakukan \*drop off\* (antar ke counter), Anda bisa langsung mendatangi counter J\\\&T Cargo  |
-| \*\*Melakukan\*\* \*\*\*drop off\*\*\* \*\*pesanan dan membayar ongkir di\*\* \*\*\*counter\*\*\* \*\*J\\\&T Cargo\*\*  | Segera hubungi\[ Customer Service Shopee\](https://seller.shopee.co.id/edu/article/3270) untuk perubahan status pengiriman dan no. resi yang baru  |
-|  \*\*Tidak bisa memproses\*\* \*\*\*pick up\*\*\*  | Pastikan alamat toko dan Pembeli sudah benar dan tidak menggunakan tanda baca (-\\\~@\\\#$%\\\*=\\\<\\\>\\\[\\\]). Kurir J\\\&T Cargo akan datang dalam 1x24 jam untuk \*pick up\* pesanan  |
+|  **Memilih** **\*pick up**\* **untuk pengiriman dengan J\\\&T Cargo, namun di sistem tertulis sebagai** **\*drop off**\*  | Hubungi J\\\&T Cargo untuk melakukan \*pick up\* pesanan. Jika Anda telah memilih \*pick up\* dan ingin melakukan \*drop off\* (antar ke counter), Anda bisa langsung mendatangi counter J\\\&T Cargo  |
+| **Melakukan** **\*drop off**\* **pesanan dan membayar ongkir di** **\*counter**\* **J\\\&T Cargo**  | Segera hubungi\[ Customer Service Shopee\](https://seller.shopee.co.id/edu/article/3270) untuk perubahan status pengiriman dan no. resi yang baru  |
+|  **Tidak bisa memproses** **\*pick up**\*  | Pastikan alamat toko dan Pembeli sudah benar dan tidak menggunakan tanda baca (-\\\~@\\\#$%\\\*=\\\<\\\>\\\[\\\]). Kurir J\\\&T Cargo akan datang dalam 1x24 jam untuk \*pick up\* pesanan  |
 
   
 

@@ -18,9 +18,6 @@ sources:
 **Apa itu Program Opsional Promo XTRA?**
 
 
-31-07-2026
-
-**Apa itu Program Opsional Promo XTRA?**
 
 Program Promo XTRA adalah program opsional yang memberikan kesempatan bagi Penjual untuk menawarkan voucher potongan harga dengan minimum belanja yang LEBIH RENDAH kepada Pembeli dibandingkan Penjual biasa.
 
@@ -57,10 +54,10 @@ Berikut skema Voucher **Promo XTRA** yang berlaku mulai 29 Agustus 2025:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*DISKON\*\* | \*\*MIN. BELANJA\*\* | \*\*MAKS. DISKON\*\* |
-| \*\*Semua Kategori\*\* | 5% - 12% | Rp30.000 - Rp100.000 | Rp100.000 - Rp1.000.000 |
-| \*\*Fashion\*\* | 12% - 20% | Rp100.000 - Rp300.000 | Rp100.000 |
-| \*\*Kecantikan\*\* | 15% | Rp100.000 | Rp100.000 |
+| **KATEGORI** | **DISKON** | **MIN. BELANJA** | **MAKS. DISKON** |
+| **Semua Kategori** | 5% - 12% | Rp30.000 - Rp100.000 | Rp100.000 - Rp1.000.000 |
+| **Fashion** | 12% - 20% | Rp100.000 - Rp300.000 | Rp100.000 |
+| **Kecantikan** | 15% | Rp100.000 | Rp100.000 |
 
   
 
@@ -68,8 +65,8 @@ Tambahan voucher **Beli 2 Gratis 1** yang berlaku pada 1 April 2026 setiap hari 
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*DISKON\*\* | \*\*MIN. BELANJA\*\* | \*\*MAKS. DISKON\*\* |
-| \*\*Fashion\*\* | 33% | 3 Produk | Rp50.000 |
+| **KATEGORI** | **DISKON** | **MIN. BELANJA** | **MAKS. DISKON** |
+| **Fashion** | 33% | 3 Produk | Rp50.000 |
 
   
 
@@ -130,11 +127,11 @@ Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi\* 
 
 **Penjual Star & Star+**
 
-Biaya Layanan = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 4,5% (maks. Rp60.000 per kuantitas produk)\*\*.
+Biaya Layanan = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 4,5% (maks. Rp60.000 per kuantitas produk)**.
 
   
 
-*\*\*Biaya Layanan Program Opsional Promo XTRA belum termasuk Biaya Proses Pesanan, Biaya Administrasi Star/Star+, dan Biaya Layanan program lain yang diikuti Penjual. Biaya Layanan sudah termasuk biaya Pajak Pertambahan Nilai (PPN) sesuai dengan Peraturan Pemerintah tentang Perpajakan yang berlaku.*
+**Biaya Layanan Program Opsional Promo XTRA belum termasuk Biaya Proses Pesanan, Biaya Administrasi Star/Star+, dan Biaya Layanan program lain yang diikuti Penjual. Biaya Layanan sudah termasuk biaya Pajak Pertambahan Nilai (PPN) sesuai dengan Peraturan Pemerintah tentang Perpajakan yang berlaku.*
 
 Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi\* Star/Star+.
 
@@ -147,15 +144,15 @@ Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan Biaya Administrasi\* 
 
 **Penjual Shopee Mall**
 
-Biaya Layanan = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 4,5% (maks. Rp60.000 per kuantitas produk)\*\*\*.
+Biaya Layanan = (Harga Asli Produk - Diskon Produk dan/atau Voucher Diskon Ditanggung Penjual) x 4,5% (maks. Rp60.000 per kuantitas produk)**\*.
 
   
 
-*\*\*\*Biaya Layanan Program Opsional Promo XTRA belum termasuk Biaya Proses Pesanan, Biaya Administrasi Shopee Mall, Biaya Pembayaran Shopee Mall, dan Biaya Layanan program lain yang diikuti Penjual. Biaya Layanan sudah termasuk biaya Pajak Pertambahan Nilai (PPN) sesuai dengan Peraturan Pemerintah tentang Perpajakan yang berlaku.*
+**\*Biaya Layanan Program Opsional Promo XTRA belum termasuk Biaya Proses Pesanan, Biaya Administrasi Shopee Mall, Biaya Pembayaran Shopee Mall, dan Biaya Layanan program lain yang diikuti Penjual. Biaya Layanan sudah termasuk biaya Pajak Pertambahan Nilai (PPN) sesuai dengan Peraturan Pemerintah tentang Perpajakan yang berlaku.*
 
   
 
-*\*\*\*\*Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan biaya administrasi Shopee Mall.*[ *Lihat rincian biaya per kategori produk*](https://seller.shopee.co.id/edu/article/15965)*.*
+**Ilustrasi di atas merupakan ilustrasi untuk Penjual dengan biaya administrasi Shopee Mall.*[ *Lihat rincian biaya per kategori produk*](https://seller.shopee.co.id/edu/article/15965)*.*
 
   
 
@@ -191,7 +188,7 @@ Ilustrasi pengajuan & waktu efektif bergabung/berhenti adalah sebagai berikut:
 
 |  |  |
 | :-: | :-: |
-| \*\*PENGAJUAN BERGABUNG/BERHENTI\*\* | \*\*WAKTU EFEKTIF BERGABUNG/BERHENTI\*\* |
+| **PENGAJUAN BERGABUNG/BERHENTI** | **WAKTU EFEKTIF BERGABUNG/BERHENTI** |
 | Selasa, 5 Agustus 2025sebelum pk. 17.00 WIB | Rabu, 6 Agustus 2025pk. 00.00 WIB |
 | Selasa, 5 Agustus 2025setelah pk. 17.00 WIB | Kamis, 7 Agustus 2025pk. 00.00 WIB |
 | Dan seterusnya | Dan seterusnya |

@@ -18,9 +18,6 @@ sources:
 **1. Hari apa saja yang tidak dihitung dalam periode masa pengemasan?**
 
 
-12-03-2026
-
-**1. Hari apa saja yang tidak dihitung dalam periode masa pengemasan?**
 
 Hari Minggu, libur nasional, dan non-operasional jasa kirim tidak termasuk dalam periode masa pengemasan, kecuali untuk semua pengiriman Instant.
 
@@ -46,7 +43,7 @@ Penjual produk *pre-order* juga disarankan untuk memastikan agar tidak memiliki 
 
   
 
-**5. Bagaimana jika saya menjual produk** ***custom*****?**
+**5. Bagaimana jika saya menjual produk** **custom**?**
 
 Jika Anda menjual produk *custom*, informasi produk dapat diubah menjadi pre-order.
 
@@ -77,7 +74,7 @@ Pelajari lebih lanjut tentang[ Sistem & Ketentuan Poin Penalti](https://seller.s
 
   
 
-**8. Bagaimana jika kurir terlambat melakukan** ***pick up*** **atau melakukan** ***scan*** **pesanan Penjual sehingga menyebabkan keterlambatan pesanan?**
+**8. Bagaimana jika kurir terlambat melakukan** **pick up** **atau melakukan** **scan** **pesanan Penjual sehingga menyebabkan keterlambatan pesanan?**
 
 Penjual dapat mengajukan banding pesanan terlambat akibat kesalahan jasa kirim melalui menu **Kesehatan Toko** \>[ **Tingkat Keterlambatan Pengiriman**](https://seller.shopee.co.id/portal/accounthealth/lsr) Pesanan pada Seller Centre dalam 14 hari kalender.
 

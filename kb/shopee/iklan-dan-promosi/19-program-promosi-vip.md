@@ -18,9 +18,6 @@ sources:
 Apa itu Program Promosi VIP?
 
 
-11-08-2026
-
-Apa itu Program Promosi VIP?
 
 Program Promosi VIP adalah program **opsional** hasil kolaborasi antara Shopee dan Penjual untuk menghadirkan promosi melalui skema *Co-Funding* bagi Pengguna Shopee VIP.
 
@@ -31,14 +28,14 @@ Program Promosi VIP adalah program **opsional** hasil kolaborasi antara Shopee d
 Dengan mengikuti Program Program Promosi VIP, Penjual dapat memperoleh berbagai keuntungan, seperti:
 
   - Potensi peningkatan pesanan hingga 6X dari Pengguna Shopee VIP\*
-  - Hemat biaya promosi hingga 50% dengan dukungan Shopee\*\*
+  - Hemat biaya promosi hingga 50% dengan dukungan Shopee**
   - Mendapatkan *exposure* tambahan melalui halaman utama, halaman pencarian, *banner discovery*, *banner pop up*, media sosial Shopee, produk *grid* dan koleksi produk di halaman Shopee VIP.
 
   
 
 \*Hasil performa VIP Day pada Juni 2026
 
-\*\*Berdasarkan kategori produk
+**Berdasarkan kategori produk
 
 **Siapakah yang Dapat Mengikuti Program Promosi VIP?**
 
@@ -92,10 +89,10 @@ Berikut adalah rincian kontribusi pendanaan harga promosi dari Shopee dan Penjua
 
 |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
-| \*\*JENIS KAMPANYE\*\* | \*\*KATEGORI\*\* | \*\*MAKS. DISKON\*\* | \*\*KONTRIBUSI PENJUAL\*\* | \*\*KONTRIBUSI SHOPEE\*\* |
-| \*\*Kampanye Reguler\*\* | Non-Elektronik | 5% | 4% | 1% |
+| **JENIS KAMPANYE** | **KATEGORI** | **MAKS. DISKON** | **KONTRIBUSI PENJUAL** | **KONTRIBUSI SHOPEE** |
+| **Kampanye Reguler** | Non-Elektronik | 5% | 4% | 1% |
 | Elektronik | 1% | 0,6% | 0,4% |  |
-| \*\*Kampanye Puncak\*\* | Non-Elektronik | 10% | 6% | 4% |
+| **Kampanye Puncak** | Non-Elektronik | 10% | 6% | 4% |
 | Elektronik | 4% | 2% | 2% |  |
 
   
@@ -112,9 +109,9 @@ Berikut adalah rincian kontribusi pendanaan harga promosi dari Shopee dan Penjua
 Setelah proses verifikasi selesai, berikut informasi yang perlu diketahui Penjual terkait keikutsertaan produk dalam Program Promosi VIP:
 
   - **Status Produk di Seller Centre**: Produk yang memenuhi kriteria dan telah mendapatkan persetujuan dari Shopee akan diproses ke tahap persiapan program. Pada halaman **Nominasi Produk**, status produk dapat ditampilkan sebagai "**Ditolak oleh Shopee**", namun hasil akhir nominasi dapat diketahui melalui kolom **Alasan**.
-  - **\*\*Produk Disetujui\*\***
+  - **Produk Disetujui**
 
-  - **\*\*Produk Ditolak\*\***
+  - **Produk Ditolak**
 
   - **Konfirmasi Program**: Penjual akan menerima konfirmasi keikutsertaan melalui notifikasi di aplikasi Seller Centre Shopee dan Seller Centre. Produk yang disetujui dapat dilihat melalui halaman program Promosi VIP.
   - **Harga Promosi Produk**: Produk yang disetujui akan mendapatkan harga promosi dengan skema *Co-Funding* dan dapat diakses oleh Pengguna yang terdaftar sebagai member Shopee VIP.
@@ -145,13 +142,13 @@ Untuk memastikan ketersediaan stok selama program berlangsung, alokasi stok akan
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*DESKRIPSI\*\* | \*\*STOK\*\* |  |
-| \*\*KAMPANYE REGULER\*\* | \*\*KAMPANYE PUNCAK\*\* |  |
-| \*\*Rata-rata penjualan harian (30 hari terakhir)\*\* | 100 | 100 |
-| \*\*Periode kampanye\*\* | 2 hari | 1 hari |
-| \*\*Jumlah alokasi Stok di Shopee\*\* | 100 pcs × 2 hari = 200 pcs | 100 pcs x 1 Hari = 100 pcs |
-| \*\*Stok yang diajukan Penjual\*\* | 250 pcs | 250 pcs |
-| \*\*Alokasi stok yang disetujui\*\* | 200 pcs (mengikuti hasil perhitungan Shopee) | 100 pcs (mengikuti hasil perhitungan Shopee) |
+| **DESKRIPSI** | **STOK** |  |
+| **KAMPANYE REGULER** | **KAMPANYE PUNCAK** |  |
+| **Rata-rata penjualan harian (30 hari terakhir)** | 100 | 100 |
+| **Periode kampanye** | 2 hari | 1 hari |
+| **Jumlah alokasi Stok di Shopee** | 100 pcs × 2 hari = 200 pcs | 100 pcs x 1 Hari = 100 pcs |
+| **Stok yang diajukan Penjual** | 250 pcs | 250 pcs |
+| **Alokasi stok yang disetujui** | 200 pcs (mengikuti hasil perhitungan Shopee) | 100 pcs (mengikuti hasil perhitungan Shopee) |
 
 ⚠️ **Catatan**
 
@@ -172,25 +169,25 @@ Berikut adalah contoh perhitungan untuk program Promosi VIP:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*NON-ELEKTRONIK\*\* |  |  |  |
+| **NON-ELEKTRONIK** |  |  |  |
 | Harga Saat Ini | \\= | Rp100.000 | A |
 | Harga Terendah dalam 30 hari terakhir | \\= | Rp90.000 | B |
 | Diskon Penjual (B x 4%) | \\= | Rp3.600 | C |
 | Harga Promosi Penjual (B − C) | \\= | Rp86.400 | D |
 | Diskon Shopee (B x 1%) | \\= | Rp9.000 | E |
-| \*\*Harga Akhir (D-E)\*\* | \\= | \*\*Rp77.400\*\* | F |
+| **Harga Akhir (D-E)** | \\= | **Rp77.400** | F |
 
   
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*ELEKTRONIK\*\* |  |  |  |
+| **ELEKTRONIK** |  |  |  |
 | Harga Saat Ini | \\= | Rp300.000 | A |
 | Harga Terendah dalam 30 hari terakhir | \\= | Rp250.000 | B |
 | Diskon Penjual (B x 0,6%) | \\= | Rp1.500 | C |
 | Harga Promosi Penjual (B − C) | \\= | Rp248.500 | D |
 | Diskon Shopee (B x 0,4%) | \\= | Rp1.000 | E |
-| \*\*Harga Akhir (D-E)\*\* | \\= | \*\*Rp247.500\*\* | F |
+| **Harga Akhir (D-E)** | \\= | **Rp247.500** | F |
 
   
 
@@ -198,25 +195,25 @@ Berikut adalah contoh perhitungan untuk program Promosi VIP:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*NON-ELEKTRONIK\*\* |  |  |  |
+| **NON-ELEKTRONIK** |  |  |  |
 | Harga Saat Ini | \\= | Rp100.000 | A |
 | Harga Terendah dalam 30 hari terakhir | \\= | Rp90.000 | B |
 | Diskon Penjual (B x 6%) | \\= | Rp5.400 | C |
 | Harga Promosi Penjual (B − C) | \\= | Rp84.600 | D |
 | Diskon Shopee (B x 4%) | \\= | Rp3.600 | E |
-| \*\*Harga Akhir (D-E)\*\* | \\= | \*\*Rp81.000\*\* | F |
+| **Harga Akhir (D-E)** | \\= | **Rp81.000** | F |
 
   
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*ELEKTRONIK\*\* |  |  |  |
+| **ELEKTRONIK** |  |  |  |
 | Harga Saat Ini | \\= | Rp300.000 | A |
 | Harga Terendah dalam 30 hari terakhir | \\= | Rp250.000 | B |
 | Diskon Penjual (B x 2%) | \\= | Rp5.000 | C |
 | Harga Promosi Penjual (B − C) | \\= | Rp245.000 | D |
 | Diskon Shopee (B x 2%) | \\= | Rp5.000 | E |
-| \*\*Harga Akhir (D-E)\*\* | \\= | \*\*Rp240.000\*\* | F |
+| **Harga Akhir (D-E)** | \\= | **Rp240.000** | F |
 
   
 

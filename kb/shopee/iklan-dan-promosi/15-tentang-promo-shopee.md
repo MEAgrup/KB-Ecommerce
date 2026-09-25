@@ -18,9 +18,6 @@ sources:
 **Apa itu Promo Shopee?**
 
 
-15-07-2026
-
-**Apa itu Promo Shopee?**
 
 Promo Shopee mengacu pada promosi resmi Shopee yang menampilkan produk-produk dari Penjual yang berpartisipasi.
 
@@ -197,7 +194,7 @@ Untuk membatalkan produk yang telah dinominasikan, pilih **Batalkan** pada produ
   
   
 
-**Gambaran** ***Tab*** **Menunggu Didaftarkan**
+**Gambaran** **Tab** **Menunggu Didaftarkan**
 
 *Tab* **Menunggu Didaftarkan** dapat Anda gunakan untuk menambahkan produk dan mengisi rincian nominasi seperti Harga Diskon, Diskon, Stok Promo, dll.
 
@@ -208,7 +205,7 @@ Untuk membatalkan produk yang telah dinominasikan, pilih **Batalkan** pada produ
 
   
 
-**Gambaran** ***Tab*** **Dinominasikan**
+**Gambaran** **Tab** **Dinominasikan**
 
 Periksa status nominasi produk Anda melalui kolom **Status Nominasi** pada *tab* **Dinominasikan**:
 
@@ -315,7 +312,7 @@ Jumlah maksimal  produk yang dapat dibeli untuk setiap produk.
 
   
 
-**Gambaran** ***Tab*** **Menunggu Konfirmasi**
+**Gambaran** **Tab** **Menunggu Konfirmasi**
 
 *Tab* **Menunggu Konfirmasi** menampilkan produk dari toko Anda yang telah dinominasikan oleh Shopee.
 
@@ -335,7 +332,7 @@ Jika tidak setuju dengan rekomendasi Shopee, Anda juga dapat memilih **Saran** u
 
   
 
-**Gambaran** ***Tab*** **Ditolak**
+**Gambaran** **Tab** **Ditolak**
 
 *Tab* **Ditolak** menampilkan rincian produk nominasi dari toko Anda yang telah ditolak oleh Shopee. Tidak ada tindakan yang dapat dilakukan pada *tab* **Ditolak**.
 

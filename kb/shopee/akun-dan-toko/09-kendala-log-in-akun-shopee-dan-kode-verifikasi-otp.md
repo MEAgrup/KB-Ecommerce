@@ -18,15 +18,12 @@ sources:
 **Mengapa Saya Tidak Bisa Log In Akun Shopee?**
 
 
-12-06-2025
-
-**Mengapa Saya Tidak Bisa Log In Akun Shopee?**
 
 Upaya log in yang gagal ke akun Shopee Anda dapat terjadi karena alasan berikut:
 
   
 
-**1.** ***Password*** **salah**
+**1.** **Password** **salah**
 
 Pastikan *password* yang Anda masukkan benar. Jika Anda lupa *password*, pelajari[ cara mengganti password akun Shopee dan apa yang harus lakukan jika lupa password](https://seller.shopee.co.id/edu/article/3266).
 
@@ -73,7 +70,7 @@ Kesalahan log in terkadang dapat terjadi karena masalah teknis. Pastikan koneksi
 
   
 
-**6.** ***Password*** **salah untuk akun pihak ketiga**
+**6.** **Password** **salah untuk akun pihak ketiga**
 
 Apabila Anda telah mendaftarkan akun Shopee Anda melalui pihak ketiga, lakukan log in dengan layanan pihak ketiga sesuai pilihan (Contoh: Lanjutkan dengan Google, Lanjutkan dengan Facebook, atau Lanjutkan dengan Apple).
 

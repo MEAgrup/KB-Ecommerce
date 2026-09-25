@@ -15,14 +15,9 @@ sources:
 # Penanganan Kendala Aplikasi Shopee dan Seller Centre
 
 ## Ringkasan
-**Apa yang harus saya lakukan jika mengalami kendala/*****error*****/*****blank page*** **di aplikasi Shopee atau Seller Centre?**
+**Apa yang harus saya lakukan jika mengalami kendala/**error**/**blank page** **di aplikasi Shopee atau Seller Centre?**
 
 
-26-08-2024
-
-**Apa yang harus saya lakukan jika mengalami kendala/*****error*****/*****blank page*** **di aplikasi Shopee atau Seller Centre?**
-
-  
 
 Jika Anda mengalami kendala pada aplikasi Shopee atau Seller Centre, seperti:
 
@@ -69,7 +64,7 @@ Melalui **iOS**
 
 1\. *Clear cache browser* yang Anda gunakan.
 
-2\. Gunakan *browser* pada **Jendela Samaran** atau ***Incognito Mode***
+2\. Gunakan *browser* pada **Jendela Samaran** atau **Incognito Mode**
 
 3\. Jika masih terkendala, mohon lampirkan data pendukung berikut:
 

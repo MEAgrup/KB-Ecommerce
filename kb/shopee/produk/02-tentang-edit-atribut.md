@@ -18,9 +18,6 @@ sources:
 **Apa itu Edit Atribut?**
 
 
-24-04-2026
-
-**Apa itu Edit Atribut?**
 
 **Edit Atribut** adalah sebuah fitur yang membantu Anda mengubah kategori, foto/video produk, atribut produk, dan informasi masa pengemasan untuk beberapa daftar produk sekaligus.
 
@@ -58,14 +55,14 @@ Di bagian **Semua Informasi Produk**, Anda dapat mengubah dan menambahkan foto/v
 
 Anda juga dapat mengubah informasi produk untuk beberapa produk sekaligus.
 
-  - **\*\*Ubah Kategori untuk beberapa produk sekaligus\*\***
+  - **Ubah Kategori untuk beberapa produk sekaligus**
 
 Anda juga dapat memilih hanya beberapa daftar produk untuk diperbarui dengan pilih **Terapkan yang Dipilih** sebagai berikut: **  
 **
 
   
 
-  - **\*\*Ubah Atribut/Masa Pengemasan untuk beberapa produk dengan kategori yang sama\*\***
+  - **Ubah Atribut/Masa Pengemasan untuk beberapa produk dengan kategori yang sama**
 
 Untuk menerapkan perubahan pada produk lain di kategori dan halaman yang sama, Anda dapat meng-klik **Ya** atau pilih **Batalkan** untuk membatalkan perubahan.
 

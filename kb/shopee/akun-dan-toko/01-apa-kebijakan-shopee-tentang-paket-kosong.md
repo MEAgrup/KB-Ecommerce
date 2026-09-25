@@ -18,9 +18,6 @@ sources:
 **Tentang Paket Kosong**
 
 
-31-07-2026
-
-**Tentang Paket Kosong**
 
 Paket kosong mengacu pada paket/kotak/amplop yang tidak berisi apapun atau berisi barang yang tidak relevan dengan pesanan Pembeli.
 

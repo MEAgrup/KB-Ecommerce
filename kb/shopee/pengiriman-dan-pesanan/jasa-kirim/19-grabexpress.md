@@ -18,19 +18,14 @@ sources:
 **Jenis Layanan Jasa Kirim GrabExpress**
 
 
-05-08-2026
 
-**Jenis Layanan Jasa Kirim GrabExpress**
-
-  
-
-  - **\*\*Same Day\*\***
+  - **Same Day**
 
 Sameday adalah jasa kirim standar Grab Indonesia yang menyediakan jasa *pick up* dan pengiriman pada hari yang sama. Layanan ini sudah dapat digunakan seluruh Penjual Shopee. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
   
 
-  - **\*\*Instant (Semua layanan pengirimannya)\*\***
+  - **Instant (Semua layanan pengirimannya)**
 
 Instant adalah jasa kirim premium GrabExpress yang menawarkan beberapa layanan pengiriman seperti:
 
@@ -144,13 +139,13 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
 
 |  |  |
 | :-: | :-: |
-| \*\*KENDALA\*\*  | \*\*SOLUSI\*\* |
-|   \*\*Dana penjualan tertahan/belum  masuk ke Saldo Penjual\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Kendala Lainnya dan melampirkan bukti \*chat\* penerimaan pesanan dari Pembeli dan melampirkan nomor SD-xxxxx atau IN-xxxxx.  |
-|   \*\*Status pesanan tidak\*\* \*\*\*update\*\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Kendala Lainnya dan melampirkan foto/tanda bukti pengambilan barang oleh kurir Grab dan \*screenshot chat\* dari Pembeli bahwa pesanan telah diterima.  |
-|  \*\*Kurir mengembalikan pesanan yang sudah di-\*\*\*\*\*pick up\*\*\* \*\*karena alamat Pembeli tidak sesuai dan pesanan gagal dikirim\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi \*\*Batalkan Pesanan\*\* dan melampirkan bukti \*chat\* dengan Pembeli dan kurir bahwa alamat pesanan tidak sesuai.  |
-| \*\*Gagal\*\* \*\*\*pick up\*\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi \*\*Mitra Pengemudi tidak datang ke lokasi\*\* untuk pengecekan lebih lanjut.  |
-| \*\*Kurirtidak kunjung datang untuk\*\* \*\*\*pick up\*\*\* \*\*pesanan, namun status pesanan ‘Selesai’\*\*  |  |
-|            \*\*Bagaimana cara mengajukan klaim apabila terjadi kerusakan barang selama proses pengiriman oleh GrabExpress?\*\*  | Pihak Penjual dapat menghubungi\[ Customer Service Shopee\](https://seller.shopee.co.id/edu/article/3270) dan menuliskan kendala yang dialami, serta melampirkan bukti pengiriman paket (berupa:\\- Rekaman CCTV/foto saat proses penjemputan paket\\- Foto kurir memegang KTP dan paket saat mengambil paket\\- Foto catatan pribadi Anda yang berisi data kurir saat melakukan penjemputan paket\*- Screenshot\*/foto pesanan yang berhasil dijemput oleh kurir yang tertera di halaman \*\*Rincian Pesanan\*\* (terlihat nomor pesanan dan nomor resi pengiriman) Untuk keperluan proses asuransi, laporan harap dikirimkan paling lama 6x24 jam sejak pesanan telah diambil kurir. Seluruh pengiriman paket melalui GrabExpress dilindungi asuransi\\\* hingga Rp10.000.000 (untuk GrabExpress Instant (Versi Lama), GrabExpress Instant Prioritas, GrabExpress Instant) dan 10x lipat ongkir (untuk GrabExpress Sameday). \*\\\*Kecuali untuk beberapa jenis barang berikut: kertas & dokumen, voucher, kupon, giro, cek, barang antik, barang pecah belah, cairan & bahan kimia, senjata, makanan, minuman, buah & sayuran segar, karangan bunga, barang mudah meledak/terbakar, alkohol & obat terlarang, binatang hidup, uang kas, barang/paket yang melebihi ukuran yang direkomendasikan, dan paket lain yang dilarang menurut undang-undang.\* |
+| **KENDALA**  | **SOLUSI** |
+|   **Dana penjualan tertahan/belum  masuk ke Saldo Penjual**  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Kendala Lainnya dan melampirkan bukti \*chat\* penerimaan pesanan dari Pembeli dan melampirkan nomor SD-xxxxx atau IN-xxxxx.  |
+|   **Status pesanan tidak** **\*update**\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Kendala Lainnya dan melampirkan foto/tanda bukti pengambilan barang oleh kurir Grab dan \*screenshot chat\* dari Pembeli bahwa pesanan telah diterima.  |
+|  **Kurir mengembalikan pesanan yang sudah di-**\*pick up**\* **karena alamat Pembeli tidak sesuai dan pesanan gagal dikirim**  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi **Batalkan Pesanan** dan melampirkan bukti \*chat\* dengan Pembeli dan kurir bahwa alamat pesanan tidak sesuai.  |
+| **Gagal** **\*pick up**\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi **Mitra Pengemudi tidak datang ke lokasi** untuk pengecekan lebih lanjut.  |
+| **Kurirtidak kunjung datang untuk** **\*pick up**\* **pesanan, namun status pesanan ‘Selesai’**  |  |
+|            **Bagaimana cara mengajukan klaim apabila terjadi kerusakan barang selama proses pengiriman oleh GrabExpress?**  | Pihak Penjual dapat menghubungi\[ Customer Service Shopee\](https://seller.shopee.co.id/edu/article/3270) dan menuliskan kendala yang dialami, serta melampirkan bukti pengiriman paket (berupa:\\- Rekaman CCTV/foto saat proses penjemputan paket\\- Foto kurir memegang KTP dan paket saat mengambil paket\\- Foto catatan pribadi Anda yang berisi data kurir saat melakukan penjemputan paket\*- Screenshot\*/foto pesanan yang berhasil dijemput oleh kurir yang tertera di halaman **Rincian Pesanan** (terlihat nomor pesanan dan nomor resi pengiriman) Untuk keperluan proses asuransi, laporan harap dikirimkan paling lama 6x24 jam sejak pesanan telah diambil kurir. Seluruh pengiriman paket melalui GrabExpress dilindungi asuransi\\\* hingga Rp10.000.000 (untuk GrabExpress Instant (Versi Lama), GrabExpress Instant Prioritas, GrabExpress Instant) dan 10x lipat ongkir (untuk GrabExpress Sameday). \*\\\*Kecuali untuk beberapa jenis barang berikut: kertas & dokumen, voucher, kupon, giro, cek, barang antik, barang pecah belah, cairan & bahan kimia, senjata, makanan, minuman, buah & sayuran segar, karangan bunga, barang mudah meledak/terbakar, alkohol & obat terlarang, binatang hidup, uang kas, barang/paket yang melebihi ukuran yang direkomendasikan, dan paket lain yang dilarang menurut undang-undang.\* |
 
   
 

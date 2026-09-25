@@ -18,9 +18,6 @@ sources:
 **Promo Khusus Pengguna Iklan**
 
 
-14-07-2026
-
-**Promo Khusus Pengguna Iklan**
 
 Promo Khusus Pengguna Iklan adalah salah satu bentuk promo yang memungkinkan Penjual untuk dapat menikmati biaya layanan Program Opsional Gratis Ongkir XTRA yang lebih rendah lewat penggunaan Biaya Iklan Bersih di Toko Penjual. 
 
@@ -36,8 +33,8 @@ Penjual dapat menikmati biaya layanan program Gratis Ongkir XTRA yang lebih rend
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KATEGORI UTAMA\*\* | \*\*SUB KATEGORI\*\* | \*\*\*DETAIL\*\*\* \*\*KATEGORI\*\* |
-| \*\*Elektronik\*\* | Komputer & Aksesoris | Desktop |
+| **KATEGORI UTAMA** | **SUB KATEGORI** | **\*DETAIL**\* **KATEGORI** |
+| **Elektronik** | Komputer & Aksesoris | Desktop |
 | Laptop |  |  |
 | Komponen Desktop & Laptop |  |  |
 | Monitor |  |  |
@@ -45,7 +42,7 @@ Penjual dapat menikmati biaya layanan program Gratis Ongkir XTRA yang lebih rend
 | Printer & Scanner |  |  |
 | Handphone & Tablet | Handphone |  |
 | Tablet |  |  |
-| \*\*Fashion\*\* | Fashion Bayi & Anak | Aksesoris Bayi & Anak (Perhiasan) |
+| **Fashion** | Fashion Bayi & Anak | Aksesoris Bayi & Anak (Perhiasan) |
 | Aksesoris Fashion | Perhiasan Berharga |  |
 | Logam Mulia |  |  |
 
@@ -65,27 +62,27 @@ Berikut besaran Biaya Layanan Program Opsional Gratis Ongkir XTRA dalam Promo Kh
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*PROGRAM\*\* | \*\*KATEGORI PRODUK\\\*\\\*\*\* | \*\*MULAI 2 MEI 2026\*\* |  |
-| \*\*PRODUK UKURAN BIASA\*\* | \*\*PRODUK UKURAN KHUSUS\\\*\\\*\\\*\*\* |  |  |
-| \*\*Biaya Layanan Program Opsional Gratis Ongkir XTRA - khusus Pengguna Iklan\*\* \*\*(Min. Biaya Iklan Bersih 3%\\\* dari Penjualan)\*\* | \*\*A\*\* | \*\*1,00%\*\* \*\*0,50%\*\* | \*\*2,50%\*\* \*\*2,00%\*\* |
-| \*\*B\*\* | \*\*2,00%\*\* \*\*1,50%\*\* | \*\*3,50%\*\* \*\*3,00%\*\* |  |
-| \*\*C\*\* | \*\*3,50%\*\* \*\*2,00%\*\* | \*\*5,00%\*\* \*\*3,50%\*\* |  |
-| \*\*D\*\* | \*\*5,50%\*\* \*\*4,00%\*\* | \*\*7,00%\*\* \*\*5,50%\*\* |  |
-| \*\*E\*\* | \*\*6,00%\*\* \*\*4,50%\*\* | \*\*7,50%\*\* \*\*6,00%\*\* |  |
-| \*\*F\*\* | \*\*6,50%\*\* \*\*5,00%\*\* | \*\*8,00%\*\* \*\*6,50%\*\* |  |
-| \*\*G\*\* | \*\*7,50%\*\* \*\*5,50%\*\* | \*\*9,00%\*\* \*\*7,00%\*\* |  |
-| \*\*H\*\* | \*\*8,00%\*\* \*\*6,00%\*\* | \*\*9,50%\*\* \*\*7,50%\*\* |  |
-| \*\*Maks. Biaya Layanan\*\* | \*\*Semua Kategori\*\* | \*\*Rp40.000 per\*\*\*\*﻿﻿﻿﻿﻿﻿﻿﻿kuantitas produk\*\* | \*\*Rp60.000 per\*\*\*\*kuantitas produk\*\* |
+| **PROGRAM** | **KATEGORI PRODUK\\\*\\**\* | **MULAI 2 MEI 2026** |  |
+| **PRODUK UKURAN BIASA** | **PRODUK UKURAN KHUSUS\\\*\\\*\\**\* |  |  |
+| **Biaya Layanan Program Opsional Gratis Ongkir XTRA - khusus Pengguna Iklan** **(Min. Biaya Iklan Bersih 3%\\\* dari Penjualan)** | **A** | **1,00%** **0,50%** | **2,50%** **2,00%** |
+| **B** | **2,00%** **1,50%** | **3,50%** **3,00%** |  |
+| **C** | **3,50%** **2,00%** | **5,00%** **3,50%** |  |
+| **D** | **5,50%** **4,00%** | **7,00%** **5,50%** |  |
+| **E** | **6,00%** **4,50%** | **7,50%** **6,00%** |  |
+| **F** | **6,50%** **5,00%** | **8,00%** **6,50%** |  |
+| **G** | **7,50%** **5,50%** | **9,00%** **7,00%** |  |
+| **H** | **8,00%** **6,00%** | **9,50%** **7,50%** |  |
+| **Maks. Biaya Layanan** | **Semua Kategori** | **Rp40.000 per**﻿﻿﻿﻿﻿﻿﻿﻿kuantitas produk** | **Rp60.000 per**kuantitas produk** |
 
 *\*Promosi berlaku untuk Penjual dengan Biaya Iklan Bersih min. 3% dari total Penjualan, atau min. 0,5% hanya untuk Penjual yang ≥ 50% penjualannya berasal dari kategori Handphone, Tablet, Desktop, Laptop, Monitor, Logam Mulia, atau Perhiasan Berharga*
 
-*\*\*Untuk mengetahui detail informasi per kategori produk, pelajari lebih lanjut terkait*[ *Biaya Layanan Gratis Ongkir XTRA Per Kategori Produk*](https://shopee.co.id/m/GOX2026-2)*.*
+**Untuk mengetahui detail informasi per kategori produk, pelajari lebih lanjut terkait*[ *Biaya Layanan Gratis Ongkir XTRA Per Kategori Produk*](https://shopee.co.id/m/GOX2026-2)*.*
 
-*\*\*\*Untuk mengetahui detail informasi produk yang memiliki ukuran khusus, pelajari lebih lanjut terkait*[ *Produk Berukuran Khusus*](https://seller.shopee.co.id/edu/article/26487)*.*
+**\*Untuk mengetahui detail informasi produk yang memiliki ukuran khusus, pelajari lebih lanjut terkait*[ *Produk Berukuran Khusus*](https://seller.shopee.co.id/edu/article/26487)*.*
 
   
 
-**Apa itu Persentase Biaya Iklan Bersih Terhadap Penjualan (*****Ads Take Rate*****)?**
+**Apa itu Persentase Biaya Iklan Bersih Terhadap Penjualan (**Ads Take Rate**)?**
 
 Persentase Biaya Iklan Bersih terhadap Penjualan (*Ads Take Rate*) adalah perbandingan antara biaya iklan bersih yang dikeluarkan dengan total penjualan toko dalam 30 hari terakhir.
 

@@ -18,9 +18,6 @@ sources:
 **Apa yang dianggap sebagai penyalahgunaan informasi Pembeli?**
 
 
-17-03-2025
-
-**Apa yang dianggap sebagai penyalahgunaan informasi Pembeli?**
 
 Saat memenuhi pesanan, Penjual mungkin memiliki akses ke informasi Pembeli (misalnya nama, alamat, informasi kontak, dll). Informasi ini dibagikan kepada Penjual untuk memfasilitasi pemenuhan pesanan, sesuai dengan[ Kebijakan Privasi Shopee](https://help.shopee.co.id/portal/4/article/71188-Kebijakan-Privasi?previousPage=search+recommendation+bar&previousPage=other+articles). 
 

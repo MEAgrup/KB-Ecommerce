@@ -18,9 +18,6 @@ sources:
 **Apa itu Obat Bebas dan Obat Bebas Terbatas?**
 
 
-12-03-2026
-
-**Apa itu Obat Bebas dan Obat Bebas Terbatas?**
 
 Berikut adalah perbedaan antara Obat Bebas dan Obat Bebas Terbatas:
 
@@ -52,7 +49,7 @@ Terdapat 2 mekanisme penjualan Obat Bebas dan Obat Bebas Terbatas:
 
   
 
-  - **\*\*Penjual memberi konsultasi swamedikasi kepada Pembeli sebelum checkout\*\***
+  - **Penjual memberi konsultasi swamedikasi kepada Pembeli sebelum checkout**
 
   
   
@@ -60,7 +57,7 @@ Terdapat 2 mekanisme penjualan Obat Bebas dan Obat Bebas Terbatas:
   
   
 
-  - **\*\*Pembeli melakukan checkout tanpa menghubungi Penjual/konsultasi swamedikasi\*\***
+  - **Pembeli melakukan checkout tanpa menghubungi Penjual/konsultasi swamedikasi**
 
 Agar penjualan Obat Bebas dan Obat Bebas Terbatas berjalan dengan aman, pastikan Anda mengikuti mekanisme penjualan di atas serta meng-*upload* produk obat Anda sesuai dengan ketentuan yang berlaku. Pelajari selengkapnya melalui[ Panduan Meng-*upload* Produk Obat Bebas dan Obat Bebas Terbatas](https://seller.shopee.co.id/edu/article/27039).
 
@@ -70,13 +67,13 @@ Agar penjualan Obat Bebas dan Obat Bebas Terbatas berjalan dengan aman, pastikan
 
 Setelah Pembeli melakukan pesanan, Anda dapat mulai mengatur pengiriman. Terdapat 2 pilihan metode pengiriman pesanan untuk produk Obat Bebas dan Bebas Terbatas yang dapat dipilih oleh Pembeli yaitu:
 
-1.  **\*\*Mengirimkan pesanan melalui jasa kirim\*\***
+1.  **Mengirimkan pesanan melalui jasa kirim**
 
 Sebelum mengirimkan pesanan, Anda perlu mengatur pengiriman di Seller Centre atau aplikasi Shopee. Pelajari lebih lanjut tentang[ Cara Menyelesaikan Pesanan](https://seller.shopee.co.id/edu/article/11968/Menyelesaikan-Pesanan-Pertama-Anda).
 
   
 
-1.  **\*\*Ambil di Toko\*\***
+1.  **Ambil di Toko**
 
 Metode pengiriman Ambil di Toko hanya tersedia untuk Apotek Shopee Mall. Anda dapat mengaktifkan metode pengiriman Ambil di Toko dengan cara berikut.
 

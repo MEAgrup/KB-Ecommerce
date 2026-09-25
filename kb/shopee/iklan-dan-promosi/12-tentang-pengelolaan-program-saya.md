@@ -18,11 +18,6 @@ sources:
 Pengelolaan Program Saya adalah halaman untuk melihat dan memantau program opsional yang Anda ikuti, termasuk informasi dan rincian dari setiap program. Anda juga dapat menemukan rekomendasi program opsional lain yang sesuai untuk membantu mengembangkan bisnis Anda di Shopee.
 
 
-10-06-2026
-
-Pengelolaan Program Saya adalah halaman untuk melihat dan memantau program opsional yang Anda ikuti, termasuk informasi dan rincian dari setiap program. Anda juga dapat menemukan rekomendasi program opsional lain yang sesuai untuk membantu mengembangkan bisnis Anda di Shopee.
-
-  
 
 Pengelolaan Program Saya dapat Anda akses melalui Seller Centre.
 

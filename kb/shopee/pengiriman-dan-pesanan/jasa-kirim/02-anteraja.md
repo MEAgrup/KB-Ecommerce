@@ -18,11 +18,6 @@ sources:
 **Jenis Layanan Jasa Kirim Anteraja**
 
 
-05-08-2026
-
-**Jenis Layanan Jasa Kirim Anteraja**
-
-  
 
 Anteraja merupakan[ jasa kirim didukung Shopee](https://seller.shopee.co.id/edu/article/3384) yang menyediakan 3 layanan pengiriman yang dapat disesuaikan dengan kebutuhan operasional Anda yaitu Reguler, Hemat Kargo, dan Same Day. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
@@ -72,7 +67,7 @@ Cara hitung rata-rata pesanan harian Anteraja Reguler & Anteraja Economy:
 
   
 
-**Ketentuan Layanan** ***Pick up*** **Anteraja**
+**Ketentuan Layanan** **Pick up** **Anteraja**
 
 Performa pesanan harian di toko Anda akan dievaluasi setiap bulan. Jika toko Anda belum memiliki layanan *pick up* dan telah memenuhi kriteria yang ditentukan, maka layanan *pick up* akan otomatis tersedia pada akun Anda di minggu pertama bulan berikutnya.
 
@@ -134,7 +129,7 @@ Contoh:
 Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kirim Anteraja:
 
 1.  Makanan\* & minuman
-2.  Telur\*\*
+2.  Telur**
 3.  Uang tunai, cek/giro, cek perjalanan, emas batangan dan perhiasan, sertifikat saham, dan surat berharga lainnya
 4.  Kartu kredit, kartu debit, dan kartu ATM
 5.  Senjata api/tajam
@@ -148,7 +143,7 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
 **⚠️Catatan**
 
   - \*Makanan kering seperti biskuit, makanan hewan, atau makanan kering lainnya **diperbolehkan** menggunakan semua layanan pengiriman Anteraja.
-  - \*\*Telur termasuk produk segar yang **tidak diperbolehkan** dikirim menggunakan semua layanan pengiriman Anteraja. Pelajari lebih lanjut terkait[ Mengelola Daftar Produk yang Mudah Rusak](https://seller.shopee.co.id/edu/article/8345).
+  - **Telur termasuk produk segar yang **tidak diperbolehkan** dikirim menggunakan semua layanan pengiriman Anteraja. Pelajari lebih lanjut terkait[ Mengelola Daftar Produk yang Mudah Rusak](https://seller.shopee.co.id/edu/article/8345).
   - Pastikan Anda tidak menjual[ Produk yang Dilarang dan/atau Dibatasi sesuai kebijakan Shopee](https://seller.shopee.co.id/edu/article/6843).
   - Shopee berhak sewaktu-waktu mengubah atau menambahkan daftar produk yang tidak diperbolehkan dikirim sesuai kebijakan dari Anteraja.
 

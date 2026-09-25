@@ -18,9 +18,6 @@ sources:
 **Jasa Kirim yang Didukung Shopee**
 
 
-21-07-2026
-
-**Jasa Kirim yang Didukung Shopee**
 
 Jasa Kirim yang Didukung Shopee adalah layanan jasa kirim yang terintegrasi dengan sistem Shopee. Shopee menyediakan pengiriman pesanan dengan[ opsi *pick up* dan antar ke counter (*drop off*)](https://seller.shopee.co.id/edu/article/1988/Mengatur-Pengiriman).
 
@@ -102,17 +99,17 @@ Pelajari lebih lanjut[ cara melihat status pesanan](https://seller.shopee.co.id/
 
 **3. Atur pengiriman**
 
-Untuk pesanan yang akan diproses, pilih **Atur Pengiriman** untuk melihat opsi pengiriman yang tersedia berdasarkan jasa kirim yang Anda aktifkan. Pilih opsi antar ke counter (***drop off***) atau ***pick up*** untuk[ mengatur pengiriman](https://seller.shopee.co.id/edu/article/1988/Mengatur-Pengiriman).
+Untuk pesanan yang akan diproses, pilih **Atur Pengiriman** untuk melihat opsi pengiriman yang tersedia berdasarkan jasa kirim yang Anda aktifkan. Pilih opsi antar ke counter (**drop off**) atau **pick up** untuk[ mengatur pengiriman](https://seller.shopee.co.id/edu/article/1988/Mengatur-Pengiriman).
 
   
 
-  - Untuk antar ke counter (***drop off****)*:
+  - Untuk antar ke counter (**drop off**)*:
 
 Anda dapat mengantarkan paket ke counter penyedia jasa kirim. Penyedia jasa kirim akan menerima paket dan mengirimkannya kepada pihak Pembeli.
 
   
 
-  - Untuk ***pick up***:
+  - Untuk **pick up**:
 
 Penjemputan harus diatur sebelum batas waktu pengiriman. Berikut adalah informasi jam operasional Jasa Kirim yang Didukung Shopee:
 

@@ -18,11 +18,6 @@ sources:
 Kepuasan dan kenyamanan Penjual dalam mendapatkan pengalaman berjualan yang baik adalah prioritas Shopee. Maka dari itu, Shopee meluncurkan Formulir Suara Penjual. Melalui formulir ini, Penjual dapat menyampaikan dan melaporkan kepada pihak Shopee jika melihat/mempunyai informasi mengenai pelanggaran, keluhan, dan kendala yang dilakukan oleh tim Shopee serta memberikan saran mengenai fitur/non-fitur Shopee.
 
 
-30-11-2022
-
-Kepuasan dan kenyamanan Penjual dalam mendapatkan pengalaman berjualan yang baik adalah prioritas Shopee. Maka dari itu, Shopee meluncurkan Formulir Suara Penjual. Melalui formulir ini, Penjual dapat menyampaikan dan melaporkan kepada pihak Shopee jika melihat/mempunyai informasi mengenai pelanggaran, keluhan, dan kendala yang dilakukan oleh tim Shopee serta memberikan saran mengenai fitur/non-fitur Shopee.
-
-  
 
 Jika Anda ingin melakukan pelaporan atau memberikan saran, silakan isi[ Formulir Suara Penjual](https://shopee.co.id/program/form/1480?smtt=9&stm_medium=organic&stm_source=google-rw). Formulir ini hanya dapat diakses melalui aplikasi Shopee.
 

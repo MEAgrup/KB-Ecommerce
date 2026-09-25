@@ -18,6 +18,3 @@ sources:
 Jika Anda ingin berjualan ataupun melihat produk-produk dari luar negeri, Anda bisa unduh aplikasi Shopee yang dikhususkan untuk negara tersebut dan mendaftar akun baru menggunakan nomor telepon yang berlaku di negara tersebut.
 
 
-10-09-2020
-
-Jika Anda ingin berjualan ataupun melihat produk-produk dari luar negeri, Anda bisa unduh aplikasi Shopee yang dikhususkan untuk negara tersebut dan mendaftar akun baru menggunakan nomor telepon yang berlaku di negara tersebut.

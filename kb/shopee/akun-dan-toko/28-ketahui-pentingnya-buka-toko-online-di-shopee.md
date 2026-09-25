@@ -87,9 +87,9 @@ Keuntungan berjualan di Shopee sudah dirasakan langsung oleh banyak Penjual Shop
 
   
 
-  - **\*\*Muhammad Hafidz Faqihuddin, pemilik toko Naylatuhijab\*\***
+  - **Muhammad Hafidz Faqihuddin, pemilik toko Naylatuhijab**
 
-  - **\*\*Grandiest Deca Kartika Dewi, pemilik toko Sehelai Benang\*\***
+  - **Grandiest Deca Kartika Dewi, pemilik toko Sehelai Benang**
 
 **  
   

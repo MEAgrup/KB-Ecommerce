@@ -18,9 +18,6 @@ sources:
 **1. Apa yang dimaksud dengan Tingkat Keterlambatan Pengiriman Pesanan?**
 
 
-01-09-2025
-
-**1. Apa yang dimaksud dengan Tingkat Keterlambatan Pengiriman Pesanan?**
 
 Tingkat Keterlambatan Pengiriman Pesanan adalah persentase pesanan yang terlambat dikirim oleh Penjual dalam 7 hari terakhir.
 
@@ -80,7 +77,7 @@ Pelajari lebih lanjut tentang[ menghindari pembatalan otomatis](https://seller.s
 
   
 
-**8. Apakah Tingkat Pesanan Tidak Terselesaikan/Tingkat Keterlambatan Pengiriman saya dapat terpengaruh jika jasa kirim yang didukung Shopee gagal atau terlambat** ***pick up*** **pesanan?**
+**8. Apakah Tingkat Pesanan Tidak Terselesaikan/Tingkat Keterlambatan Pengiriman saya dapat terpengaruh jika jasa kirim yang didukung Shopee gagal atau terlambat** **pick up** **pesanan?**
 
 Tidak, Anda tidak akan diberikan poin penalti jika pesanan dibatalkan atau terlambat dikirim karena kesalahan jasa kirim yang didukung Shopee.
 

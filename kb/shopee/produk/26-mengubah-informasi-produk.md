@@ -18,9 +18,6 @@ sources:
 **Langkah-langkah Mengubah Produk**
 
 
-05-08-2026
-
-**Langkah-langkah Mengubah Produk**
 
 Penjual harus selalu memperbarui daftar produknya agar Pembeli dapat melihat kondisi ter-*update* dari toko. Informasi yang seringkali diubah Penjual adalah harga, stok, media maupun penambahan variasi produk.
 
@@ -298,7 +295,7 @@ Jika terdapat rasio foto yang tidak sesuai, Shopee akan memberikan rekomendasi m
 
   
 
-**Mengubah Video yang Sudah Di-*****upload***
+**Mengubah Video yang Sudah Di-**upload**
 
 Pilih produk yang ingin Anda ubah, lalu pilih **video** yang ada. Pilih aksi yang Anda inginkan (rekam video dengan kamera atau ambil dari galeri handphone Anda).
 

@@ -18,9 +18,6 @@ sources:
 Biaya Layanan Pembeli adalah biaya yang digunakan untuk pengembangan sistem agar Shopee dapat terus melayani Pelanggan dengan lebih baik lagi. Berikut beberapa hal yang perlu diketahui:
 
 
-26-02-2026
-
-Biaya Layanan Pembeli adalah biaya yang digunakan untuk pengembangan sistem agar Shopee dapat terus melayani Pelanggan dengan lebih baik lagi. Berikut beberapa hal yang perlu diketahui:
 
   - Biaya Layanan Pembeli (sudah termasuk biaya lainnya jika ada) akan dikenakan kepada Pembeli untuk setiap transaksi (termasuk produk digital) baik di situs ataupun aplikasi Shopee.
   - Biaya Layanan Pembeli sudah termasuk biaya Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan peraturan perundang-undangan pajak yang berlaku.

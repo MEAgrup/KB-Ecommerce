@@ -18,9 +18,6 @@ sources:
 **Mulai Livestream melalui Komputer atau Laptop**
 
 
-10-06-2026
-
-**Mulai Livestream melalui Komputer atau Laptop**
 
 Anda juga bisa melakukan Livestream melalui komputer atau laptop dengan memastikan toko Anda memenuhi syarat berikut:
 

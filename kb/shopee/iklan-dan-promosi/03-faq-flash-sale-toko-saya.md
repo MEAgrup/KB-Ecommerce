@@ -18,9 +18,6 @@ sources:
 **Membuat Flash Sale Toko Saya**
 
 
-17-03-2026
-
-**Membuat Flash Sale Toko Saya**
 
 **1. Apakah saya bisa berpartisipasi di Flash Sale Toko Saya & Flash Sale Shopee secara bersamaan?**
 

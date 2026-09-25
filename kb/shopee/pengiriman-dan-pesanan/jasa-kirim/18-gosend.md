@@ -18,17 +18,14 @@ sources:
 **Jenis Layanan Jasa Kirim GoSend**
 
 
-06-08-2026
 
-**Jenis Layanan Jasa Kirim GoSend**
-
-  - **\*\*Same Day\*\***
+  - **Same Day**
 
 Same Day adalah jasa kirim standar Gojek yang menyediakan jasa *pick up* dan pengiriman pada hari yang sama. Layanan ini tersedia di berbagai wilayah sesuai dengan area jangkauan yang telah ditentukan.
 
   
 
-  - **\*\*Instant (Semua layanan pengirimannya)\*\***
+  - **Instant (Semua layanan pengirimannya)**
 
 Instant adalah jasa kirim premium Gojek yang menawarkan beberapa layanan pengiriman seperti:
 
@@ -141,13 +138,13 @@ Pelajari lebih lengkap tentang[ Memproses & Mengirimkan Pesanan](https://seller.
 
 |  |  |
 | :-: | :-: |
-| \*\*KENDALA\*\* | \*\*SOLUSI\*\* |
-|   \*\*Status pesanan tidak\*\* \*\*\*update\*\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Kendala Lainnya dan melampirkan foto/tanda bukti pengambilan barang oleh kurir Gojek dan \*screenshotchat\* dari Pembeli bahwa pesanan telah diterima.  |
-|  \*\*Kurir mengembalikan pesanan yang sudah di-\*\*\*\*\*pick up\*\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Batalkan Pesanan dan melampirkan bukti chat dengan Pembeli dan Pengemudi, jika alamat pesanan tidak sesuai.  |
-| \*\*Gagal\*\* \*\*\*pick up\*\*\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Mitra Pengemudi tidak datang ke lokasi untuk pengecekan lebih lanjut.  |
-| \*\*Kurir tidak kunjung datang untuk\*\* \*\*\*pick up\*\*\* \*\*pesanan, namun status pesanan ‘Selesai’\*\*  |  |
-|  \*\*Pengiriman GoSend dengan keterangan "Alamat Tidak Didukung"\*\*  | Keterangan “Alamat Tidak Didukung” menandakan bahwa alamat \*pick up\* yang terdaftar tidak masuk ke area pengiriman yang didukung oleh jasa kirim GoSend.  |
-|              \*\*Cara mengajukan klaim, jika terjadi kerusakan barang selama proses pengiriman oleh GoSend\*\*  | Anda dapat menghubungi Customer Service Shopee dan menginformasikan kendala yang Anda alami, serta melampirkan bukti pengiriman paket berupa:\\- Rekaman CCTV/foto saat proses penjemputan paket\\- Foto kurir memegang KTP dan paket saat mengambil paket\\- Foto catatan pribadi Anda yang berisi data kurir saat melakukan penjemputan paket\\- \*Screenshot\* pesanan yang berhasil dijemput oleh kurir yang tertera di halaman \*\*Rincian Pesanan\*\* (terlihat nomor pesanan dan nomor resi pengiriman) Untuk keperluan proses asuransi, laporan harap dikirimkan paling lambat 6x24 jam sejak pesanan telah diambil kurir. Seluruh pengiriman paket melalui GoSend dilindungi asuransi \\\*hingga Rp10.000.000. \\\*Kecuali untuk beberapa jenis barang yang dilarang untuk dikirim.  |
+| **KENDALA** | **SOLUSI** |
+|   **Status pesanan tidak** **\*update**\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Kendala Lainnya dan melampirkan foto/tanda bukti pengambilan barang oleh kurir Gojek dan \*screenshotchat\* dari Pembeli bahwa pesanan telah diterima.  |
+|  **Kurir mengembalikan pesanan yang sudah di-**\*pick up**\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Batalkan Pesanan dan melampirkan bukti chat dengan Pembeli dan Pengemudi, jika alamat pesanan tidak sesuai.  |
+| **Gagal** **\*pick up**\*  | Mengisi\[ formulir Kendala Pengiriman Instant\](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3) dengan memilih opsi Mitra Pengemudi tidak datang ke lokasi untuk pengecekan lebih lanjut.  |
+| **Kurir tidak kunjung datang untuk** **\*pick up**\* **pesanan, namun status pesanan ‘Selesai’**  |  |
+|  **Pengiriman GoSend dengan keterangan "Alamat Tidak Didukung"**  | Keterangan “Alamat Tidak Didukung” menandakan bahwa alamat \*pick up\* yang terdaftar tidak masuk ke area pengiriman yang didukung oleh jasa kirim GoSend.  |
+|              **Cara mengajukan klaim, jika terjadi kerusakan barang selama proses pengiriman oleh GoSend**  | Anda dapat menghubungi Customer Service Shopee dan menginformasikan kendala yang Anda alami, serta melampirkan bukti pengiriman paket berupa:\\- Rekaman CCTV/foto saat proses penjemputan paket\\- Foto kurir memegang KTP dan paket saat mengambil paket\\- Foto catatan pribadi Anda yang berisi data kurir saat melakukan penjemputan paket\\- \*Screenshot\* pesanan yang berhasil dijemput oleh kurir yang tertera di halaman **Rincian Pesanan** (terlihat nomor pesanan dan nomor resi pengiriman) Untuk keperluan proses asuransi, laporan harap dikirimkan paling lambat 6x24 jam sejak pesanan telah diambil kurir. Seluruh pengiriman paket melalui GoSend dilindungi asuransi \\\*hingga Rp10.000.000. \\\*Kecuali untuk beberapa jenis barang yang dilarang untuk dikirim.  |
 
   
 

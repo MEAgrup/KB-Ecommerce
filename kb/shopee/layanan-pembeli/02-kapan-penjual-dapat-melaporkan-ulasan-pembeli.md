@@ -18,11 +18,6 @@ sources:
 Penilaian produk dari tiap Pembeli dapat bermanfaat bagi seluruh komunitas Shopee. Namun, ulasan yang menggunakan kata-kata kasar atau tidak pantas dapat dilaporkan untuk dihapus.
 
 
-24-07-2026
-
-Penilaian produk dari tiap Pembeli dapat bermanfaat bagi seluruh komunitas Shopee. Namun, ulasan yang menggunakan kata-kata kasar atau tidak pantas dapat dilaporkan untuk dihapus.
-
-  
 
 **Jenis Penilaian dan Ulasan yang Tidak Pantas**
 
@@ -30,7 +25,7 @@ Anda dapat[ melaporkan penilaian dan ulasan Pembeli](https://seller.shopee.co.id
 
 1.  **Bahasa yang tidak pantas**, seperti kata-kata kasar atau vulgar (tidak pantas), ujaran kebencian, dan ucapan yang diskriminatif atau mengancam.
 2.  **Foto dan/atau video yang tidak pantas atau tidak relevan**, seperti foto atau video kosong yang tidak relevan dengan produk.
-3.  **Kata-kata yang tidak relevan atau** ***spam***, seperti penggunaan tanda baca dan emoji yang berlebihan, kata-kata yang terus berulang, serangkaian karakter acak, atau konten lainnya yang tidak relevan dan tidak menambah nilai pada ulasan produk.
+3.  **Kata-kata yang tidak relevan atau** **spam**, seperti penggunaan tanda baca dan emoji yang berlebihan, kata-kata yang terus berulang, serangkaian karakter acak, atau konten lainnya yang tidak relevan dan tidak menambah nilai pada ulasan produk.
 4.  **Informasi pribadi atau sensitif**, seperti alamat, nomor telepon, alamat email, atau informasi rekening bank.
 5.  **Tidak relevan dengan kualitas produk**, yaitu ulasan yang membahas hal-hal di luar kualitas produk, seperti kecepatan pengiriman.
 

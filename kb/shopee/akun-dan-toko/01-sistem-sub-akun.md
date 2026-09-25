@@ -18,9 +18,6 @@ sources:
 **Apa Itu Sistem Sub Akun?**
 
 
-05-08-2026
-
-**Apa Itu Sistem Sub Akun?**
 
 Sistem Sub Akun memungkinkan Anda memberikan akses dan tugas operasional toko seperti membalas *chat,* atau mengelola Livestream kepada Anggota sesuai kebutuhan.
 
@@ -43,13 +40,13 @@ Dalam Sistem Sub Akun terdapat dua jenis akun:
 
 |  |  |  |
 | :-: | :-: | :-: |
-|  \*\*AKUN UTAMA\*\* | \*\*ANGGOTA\*\* |   |
-| \*\*Membuat akun untuk Anggota\*\* | \*\*✓\*\* | \*\*✕\*\* |
-| \*\*Mengatur peran Anggota\*\* | \*\*✓\*\* | \*\*✕\*\* |
-| \*\*Mengubah akses Anggota\*\* | \*\*✓\*\* | \*\*✕\*\* |
-| \*\*Memiliki akses penuh ke Seller Centre\*\* | \*\*✓\*\* | Akses terbatas |
-| \*\*Mengatur pembagian\*\* \*\*\*chat\*\*\* \*\*Anggota\*\* | \*\*✓\*\* | Akses terbatas |
-| \*\*Melihat kinerja pelayanan Anggota terhadap Pembeli\*\* | \*\*✓\*\* | Akses terbatas |
+|  **AKUN UTAMA** | **ANGGOTA** |   |
+| **Membuat akun untuk Anggota** | **✓** | **✕** |
+| **Mengatur peran Anggota** | **✓** | **✕** |
+| **Mengubah akses Anggota** | **✓** | **✕** |
+| **Memiliki akses penuh ke Seller Centre** | **✓** | Akses terbatas |
+| **Mengatur pembagian** **\*chat**\* **Anggota** | **✓** | Akses terbatas |
+| **Melihat kinerja pelayanan Anggota terhadap Pembeli** | **✓** | Akses terbatas |
 
 **Keuntungan Menggunakan Sistem Sub Akun**
 
@@ -220,7 +217,7 @@ Anda dapat menggunakan peran *default* yang telah disediakan atau membuat peran 
 
 |  |  |
 | :-: | :-: |
-| \*\*PERAN\*\* \*\*\*DEFAULT\*\*\* | \*\*DESKRIPSI\*\* |
+| **PERAN** **\*DEFAULT**\* | **DESKRIPSI** |
 | Admin | Mengelola operasional toko dan Anggota |
 | Merchandiser | Mengelola produk |
 | Penyelesaian Pesanan | Mengelola pesanan |
@@ -254,12 +251,12 @@ Berikut beberapa fungsi dari masing-masing akses yang dapat Anda kombinasikan se
 
 |  |  |
 | :-: | :-: |
-| \*\*AKSES\*\* | \*\*FUNGSI AKSES\*\* |
+| **AKSES** | **FUNGSI AKSES** |
 |   |   |
-| \*\*•\*\* Akses ke Daftar Pesanan\*\*•\*\* Akses ke Rincian Pesanan | \*\*•\*\* Melihat rincian pesanan, \*detail\* produk, dan \*detail\* pembatalan\*\*•\*\* Mengelola pesanan\*\*•\*\* Menggunakan fitur pencarian pesanan serta melihat tampilan halaman P\*\*esanan Saya\*\* sesuai pengaturan toko\*\*•\*\* Melihat jumlah pesanan pada masing-masing \*tab\* atau \*filter\*\*\*•\*\* Melihat notifikasi atau \*banner\* terkait pesanan |
-| Selesaikan Pesanan | \*\*•\*\* Membatalkan pesanan\*\*•\*\* Menyetujui atau menolak permintaan pembatalan\*\*•\*\* Memberikan penilaian kepada Pembeli\*\*•\*\* Memproses pesanan dengan Stok Habis |
-| Pengiriman & Pesanan | \*\*•\*\* Mengubah atau memperbarui informasi pengiriman\*\*•\*\* Melihat \*detail\* pengiriman atau \*pick up\* pada pesanan\*\*•\*\* Mencetak dokumen pengiriman (resi)\*\*•\*\* Mengakses dan mengelola proses pengiriman melalui halaman \*\*Pengiriman Massal\*\* |
-| \*\*•\*\* Akses ke Pengaturan Pengiriman\*\*•\*\* Ubah Pengaturan Pengiriman | Mengakses dan mengubah pengaturan pengiriman pada toko |
+| **•** Akses ke Daftar Pesanan**•** Akses ke Rincian Pesanan | **•** Melihat rincian pesanan, \*detail\* produk, dan \*detail\* pembatalan**•** Mengelola pesanan**•** Menggunakan fitur pencarian pesanan serta melihat tampilan halaman P**esanan Saya** sesuai pengaturan toko**•** Melihat jumlah pesanan pada masing-masing \*tab\* atau \*filter**\*•** Melihat notifikasi atau \*banner\* terkait pesanan |
+| Selesaikan Pesanan | **•** Membatalkan pesanan**•** Menyetujui atau menolak permintaan pembatalan**•** Memberikan penilaian kepada Pembeli**•** Memproses pesanan dengan Stok Habis |
+| Pengiriman & Pesanan | **•** Mengubah atau memperbarui informasi pengiriman**•** Melihat \*detail\* pengiriman atau \*pick up\* pada pesanan**•** Mencetak dokumen pengiriman (resi)**•** Mengakses dan mengelola proses pengiriman melalui halaman **Pengiriman Massal** |
+| **•** Akses ke Pengaturan Pengiriman**•** Ubah Pengaturan Pengiriman | Mengakses dan mengubah pengaturan pengiriman pada toko |
 
   
 
@@ -307,8 +304,8 @@ Tombol **Sertakan akun utama dalam Distribusi Chat** menentukan apakah Akun Utam
 
 **Pembagian Chat** memungkinkan *chat* secara otomatis ditugaskan kepada orang yang tepat. Terdapat 2 mode distribusi, yaitu:
 
-  - **\*\*Menugaskan Agent secara acak\*\***
-  - **\*\*Menugaskan ke grup Agent berbeda\*\***
+  - **Menugaskan Agent secara acak**
+  - **Menugaskan ke grup Agent berbeda**
 
   
 

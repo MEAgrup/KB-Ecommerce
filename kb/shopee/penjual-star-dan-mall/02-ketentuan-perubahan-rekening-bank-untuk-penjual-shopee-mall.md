@@ -18,11 +18,6 @@ sources:
 Untuk meningkatkan keamanan akun dan memastikan penarikan dana dari Saldo Penjual hanya dilakukan oleh pihak yang sah, Shopee menerapkan **langkah verifikasi tambahan** dalam proses penambahan atau perubahan rekening bank bagi Penjual Shopee Mall.
 
 
-06-07-2026
-
-Untuk meningkatkan keamanan akun dan memastikan penarikan dana dari Saldo Penjual hanya dilakukan oleh pihak yang sah, Shopee menerapkan **langkah verifikasi tambahan** dalam proses penambahan atau perubahan rekening bank bagi Penjual Shopee Mall.
-
-  
 
 Berikut hal-hal yang perlu diketahui:
 

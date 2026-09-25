@@ -18,9 +18,6 @@ sources:
 **Apa itu Voucher Diskon dan Gratis Ongkir XTRA Shopee Live?**
 
 
-13-08-2026
-
-**Apa itu Voucher Diskon dan Gratis Ongkir XTRA Shopee Live?**
 
 Voucher Diskon dan Gratis Ongkir XTRA Shopee Live adalah keuntungan tambahan yang didapatkan Penjual secara GRATIS setiap hari selama sesi Livestream.
 
@@ -42,12 +39,12 @@ Berikut rincian skema Voucher Shopee Live:
 
 |  |  |
 | :-: | :-: |
-| \*\*METRIKS\*\* | \*\*SKEMA\*\* |
-| \*\*Skema Voucher\*\* | \*\*Diskon 5% s/d Rp40.000 dengan min. belanja Rp100.000\*\* |
-| \*\*Kategori Produk\*\* | \*\*Semua kategori produk, kecuali produk dengan kategori tertentu yang\*\*\*\*dapat Anda lihat rinciannya di\*\*\[ \*\*Informasi Kategori Pilihan pada Promosi\*\*\](https://seller.shopee.co.id/edu/article/22497)\[\*\*Shopee Live & Shopee Video\*\*\](https://seller.shopee.co.id/edu/article/22497) |
-| \*\*Tipe Penjual\*\* | \*\*Semua Penjual Star, Star+, dan Mall\*\* |
-| \*\*Kuota\*\* | \*\*1x/Pembeli/Minggu\*\* |
-| \*\*Waktu Aktif\*\* | \*\*Sepanjang Hari\*\* |
+| **METRIKS** | **SKEMA** |
+| **Skema Voucher** | **Diskon 5% s/d Rp40.000 dengan min. belanja Rp100.000** |
+| **Kategori Produk** | **Semua kategori produk, kecuali produk dengan kategori tertentu yang**dapat Anda lihat rinciannya di**\[ **Informasi Kategori Pilihan pada Promosi**\](https://seller.shopee.co.id/edu/article/22497)\[**Shopee Live & Shopee Video**\](https://seller.shopee.co.id/edu/article/22497) |
+| **Tipe Penjual** | **Semua Penjual Star, Star+, dan Mall** |
+| **Kuota** | **1x/Pembeli/Minggu** |
+| **Waktu Aktif** | **Sepanjang Hari** |
 
 ⚠️ **Catatan**
 
@@ -60,12 +57,12 @@ Berikut rincian skema Voucher Shopee Live:
 
 |  |  |
 | :-: | :-: |
-| \*\*METRIKS\*\* | \*\*SKEMA\*\* |
-| \*\*Skema Voucher\*\* | \*\*Diskon 10% s/d Rp30.000 dengan min. belanja Rp100.000\*\* |
-| \*\*Kategori Produk\*\* | \*\*Semua kategori produk\\\* kecuali produk dengan kategori tertentu\*\*\*\*(lihat rinciannya di\*\*\[ \*\*Informasi Kategori Pilihan pada Promosi Shopee\*\*\](https://seller.shopee.co.id/edu/article/22497)\[\*\*Live & Shopee Video\*\*\](https://seller.shopee.co.id/edu/article/22497)\*\*)\*\* \*\*\\\*\*\*\*\*\*Produk yang ada di keranjang oren pada Penjual/Streamer bertanda Golden Tick\*\*\* |
-| \*\*Tipe Penjual\*\* | \*\*Semua Penjual Star, Star+, dan Mall yang bertanda\*\*\[ \*\*Golden Tick\*\*\](https://shopee.co.id/m/shopee-golden-tick) |
-| \*\*Kuota\*\* | \*\*1x/Pembeli/Minggu\*\* |
-| \*\*Waktu Aktif\*\* | \*\*Sepanjang Hari\*\* |
+| **METRIKS** | **SKEMA** |
+| **Skema Voucher** | **Diskon 10% s/d Rp30.000 dengan min. belanja Rp100.000** |
+| **Kategori Produk** | **Semua kategori produk\\\* kecuali produk dengan kategori tertentu**(lihat rinciannya di**\[ **Informasi Kategori Pilihan pada Promosi Shopee**\](https://seller.shopee.co.id/edu/article/22497)\[**Live & Shopee Video**\](https://seller.shopee.co.id/edu/article/22497)**)** **\\***Produk yang ada di keranjang oren pada Penjual/Streamer bertanda Golden Tick**\* |
+| **Tipe Penjual** | **Semua Penjual Star, Star+, dan Mall yang bertanda**\[ **Golden Tick**\](https://shopee.co.id/m/shopee-golden-tick) |
+| **Kuota** | **1x/Pembeli/Minggu** |
+| **Waktu Aktif** | **Sepanjang Hari** |
 
   
 
@@ -93,12 +90,12 @@ Berikut keuntungan bagi Penjual yang bergabung dalam program Shopee Live XTRA.
 
 |  |  |
 | :-: | :-: |
-| \*\*METRIKS\*\* | \*\*SKEMA\*\* |
-| \*\*Skema Voucher\*\* | \*\*Diskon 20% s/d Rp200.000 dengan min. belanja Rp200.000\*\* |
-| \*\*Kategori Produk\*\* | \*\*Semua kategori produk, kecuali produk dengan kategori tertentu\*\*\*\*yang dapat Anda lihat rinciannya di\*\*\[ \*\*Informasi Kategori Pilihan pada\*\*\](https://seller.shopee.co.id/edu/article/22497)\[\*\*Promosi Shopee Live & Shopee Video\*\*\](https://seller.shopee.co.id/edu/article/22497) |
-| \*\*Tipe Penjual\*\* | \*\*Semua Penjual bertanda Live XTRA\*\* |
-| \*\*Kuota\*\* | \*\*Kuota Terbatas\*\* |
-| \*\*Waktu Aktif\*\* | \*\*Setiap Hari\*\* \*\*\\\*Khusus tanggal 17 Agustus 2026\*\* |
+| **METRIKS** | **SKEMA** |
+| **Skema Voucher** | **Diskon 20% s/d Rp200.000 dengan min. belanja Rp200.000** |
+| **Kategori Produk** | **Semua kategori produk, kecuali produk dengan kategori tertentu**yang dapat Anda lihat rinciannya di**\[ **Informasi Kategori Pilihan pada**\](https://seller.shopee.co.id/edu/article/22497)\[**Promosi Shopee Live & Shopee Video**\](https://seller.shopee.co.id/edu/article/22497) |
+| **Tipe Penjual** | **Semua Penjual bertanda Live XTRA** |
+| **Kuota** | **Kuota Terbatas** |
+| **Waktu Aktif** | **Setiap Hari** **\\\*Khusus tanggal 17 Agustus 2026** |
 
   
 
@@ -106,12 +103,12 @@ Berikut keuntungan bagi Penjual yang bergabung dalam program Shopee Live XTRA.
 
 |  |  |
 | :-: | :-: |
-| \*\*METRIKS\*\* | \*\*SKEMA\*\* |
-| \*\*Skema Voucher\*\* | \*\*Diskon 15% s/d Rp10.000 dengan min. belanja Rp20.000\*\* |
-| \*\*Kategori Produk\*\* | \*\*Semua kategori produk kecuali produk dengan kategori tertentu yang\*\*\*\*dapat Anda lihat rinciannya di\*\*\[ \*\*Informasi Kategori Pilihan pada\*\*\](https://seller.shopee.co.id/edu/article/22497)\[\*\*Promosi Shopee Live & Shopee Video\*\*\](https://seller.shopee.co.id/edu/article/22497) |
-| \*\*Tipe Penjual\*\* | \*\*Semua Penjual bertanda Live XTRA\*\* |
-| \*\*Kuota\*\* | \*\*Kuota Terbatas\*\* |
-| \*\*Waktu Aktif\*\* | \*\*Setiap Hari\*\* \*\*\\\*Pk. 12:00-14:00\*\*\*\*\\\*Pk. 20:00-23:59\*\* |
+| **METRIKS** | **SKEMA** |
+| **Skema Voucher** | **Diskon 15% s/d Rp10.000 dengan min. belanja Rp20.000** |
+| **Kategori Produk** | **Semua kategori produk kecuali produk dengan kategori tertentu yang**dapat Anda lihat rinciannya di**\[ **Informasi Kategori Pilihan pada**\](https://seller.shopee.co.id/edu/article/22497)\[**Promosi Shopee Live & Shopee Video**\](https://seller.shopee.co.id/edu/article/22497) |
+| **Tipe Penjual** | **Semua Penjual bertanda Live XTRA** |
+| **Kuota** | **Kuota Terbatas** |
+| **Waktu Aktif** | **Setiap Hari** **\\\*Pk. 12:00-14:00**\\\*Pk. 20:00-23:59** |
 
   
 
@@ -119,12 +116,12 @@ Berikut keuntungan bagi Penjual yang bergabung dalam program Shopee Live XTRA.
 
 |  |  |
 | :-: | :-: |
-| \*\*METRIKS\*\* | \*\*SKEMA\*\* |
-| \*\*Skema Voucher\*\* | \*\*Diskon 15% s/d Rp100.000 dengan min. belanja Rp150.000\*\* |
-| \*\*Kategori Produk\*\* | \*\*Semua kategori produk kecuali produk dengan kategori tertentu yang\*\*\*\*dapat Anda lihat rinciannya di\*\*\[ \*\*Informasi Kategori Pilihan pada\*\*\](https://seller.shopee.co.id/edu/article/22497)\[\*\*Promosi Shopee Live & Shopee Video\*\*\](https://seller.shopee.co.id/edu/article/22497) |
-| \*\*Tipe Penjual\*\* | \*\*Semua Penjual bertanda Live XTRA\*\* |
-| \*\*Kuota\*\* | \*\*1x/Pembeli/Hari\*\* |
-| \*\*Waktu Aktif\*\* | \*\*Sepanjang Hari\*\* |
+| **METRIKS** | **SKEMA** |
+| **Skema Voucher** | **Diskon 15% s/d Rp100.000 dengan min. belanja Rp150.000** |
+| **Kategori Produk** | **Semua kategori produk kecuali produk dengan kategori tertentu yang**dapat Anda lihat rinciannya di**\[ **Informasi Kategori Pilihan pada**\](https://seller.shopee.co.id/edu/article/22497)\[**Promosi Shopee Live & Shopee Video**\](https://seller.shopee.co.id/edu/article/22497) |
+| **Tipe Penjual** | **Semua Penjual bertanda Live XTRA** |
+| **Kuota** | **1x/Pembeli/Hari** |
+| **Waktu Aktif** | **Sepanjang Hari** |
 
   
 
@@ -132,12 +129,12 @@ Berikut keuntungan bagi Penjual yang bergabung dalam program Shopee Live XTRA.
 
 |  |  |
 | :-: | :-: |
-| \*\*METRIKS\*\* | \*\*SKEMA\*\* |
-| \*\*Skema Voucher\*\* | \*\*Diskon 5% s/d Rp50.000 dengan min. belanja Rp100.000\*\* |
-| \*\*Kategori Produk\*\* | \*\*Semua kategori produk kecuali produk dengan kategori tertentu yang\*\*\*\*dapat Anda lihat rinciannya di\*\*\[ \*\*Informasi Kategori Pilihan pada Promosi\*\*\](https://seller.shopee.co.id/edu/article/22497)\[\*\*Shopee Live & Shopee Video\*\*\](https://seller.shopee.co.id/edu/article/22497) |
-| \*\*Tipe Penjual\*\* | \*\*Semua Penjual bertanda Live XTRA\*\* |
-| \*\*Kuota\*\* | \*\*1x/Pembeli/Minggu\*\* |
-| \*\*Waktu Aktif\*\* | \*\*Sepanjang Hari\*\* |
+| **METRIKS** | **SKEMA** |
+| **Skema Voucher** | **Diskon 5% s/d Rp50.000 dengan min. belanja Rp100.000** |
+| **Kategori Produk** | **Semua kategori produk kecuali produk dengan kategori tertentu yang**dapat Anda lihat rinciannya di**\[ **Informasi Kategori Pilihan pada Promosi**\](https://seller.shopee.co.id/edu/article/22497)\[**Shopee Live & Shopee Video**\](https://seller.shopee.co.id/edu/article/22497) |
+| **Tipe Penjual** | **Semua Penjual bertanda Live XTRA** |
+| **Kuota** | **1x/Pembeli/Minggu** |
+| **Waktu Aktif** | **Sepanjang Hari** |
 
   
 
@@ -145,12 +142,12 @@ Berikut keuntungan bagi Penjual yang bergabung dalam program Shopee Live XTRA.
 
 |  |  |
 | :-: | :-: |
-| \*\*METRIKS\*\* | \*\*SKEMA\*\* |
-| \*\*Skema Voucher\*\* | \*\*Diskon 12% s/d Rp100.000 dengan min. belanja Rp100.000\*\* |
-| \*\*Kategori Produk\*\* | \*\*Semua kategori produk kecuali produk dengan kategori tertentu\*\*\*\*yang dapat Anda lihat rinciannya di\*\*\[ \*\*Informasi Kategori Pilihan pada\*\*\](https://seller.shopee.co.id/edu/article/22497)\[\*\*Promosi Shopee Live & Shopee Video\*\*\](https://seller.shopee.co.id/edu/article/22497) |
-| \*\*Tipe Penjual\*\* | \*\*Semua Penjual bertanda Live XTRA\*\* |
-| \*\*Kuota\*\* | \*\*1x/Pembeli/Minggu\*\* |
-| \*\*Waktu Aktif\*\* | \*\*Sepanjang Hari\*\* |
+| **METRIKS** | **SKEMA** |
+| **Skema Voucher** | **Diskon 12% s/d Rp100.000 dengan min. belanja Rp100.000** |
+| **Kategori Produk** | **Semua kategori produk kecuali produk dengan kategori tertentu**yang dapat Anda lihat rinciannya di**\[ **Informasi Kategori Pilihan pada**\](https://seller.shopee.co.id/edu/article/22497)\[**Promosi Shopee Live & Shopee Video**\](https://seller.shopee.co.id/edu/article/22497) |
+| **Tipe Penjual** | **Semua Penjual bertanda Live XTRA** |
+| **Kuota** | **1x/Pembeli/Minggu** |
+| **Waktu Aktif** | **Sepanjang Hari** |
 
   
 
@@ -158,12 +155,12 @@ Berikut keuntungan bagi Penjual yang bergabung dalam program Shopee Live XTRA.
 
 |  |  |
 | :-: | :-: |
-| \*\*METRIKS\*\* | \*\*SKEMA\*\* |
-| \*\*Skema Voucher\*\* | \*\*Diskon 20% s/d Rp50.000 dengan min. belanja Rp40.000\*\* |
-| \*\*Kategori Produk\*\* | \*\*Hanya untuk kategori Fashion\*\* |
-| \*\*Tipe Penjual\*\* | \*\*Semua Penjual kategori Fashion bertanda Live XTRA\*\* |
-| \*\*Kuota\*\* | \*\*1x/Pembeli/Minggu\*\* |
-| \*\*Waktu Aktif\*\* | \*\*Sepanjang Hari\*\* |
+| **METRIKS** | **SKEMA** |
+| **Skema Voucher** | **Diskon 20% s/d Rp50.000 dengan min. belanja Rp40.000** |
+| **Kategori Produk** | **Hanya untuk kategori Fashion** |
+| **Tipe Penjual** | **Semua Penjual kategori Fashion bertanda Live XTRA** |
+| **Kuota** | **1x/Pembeli/Minggu** |
+| **Waktu Aktif** | **Sepanjang Hari** |
 
   
 
@@ -195,18 +192,18 @@ Berikut adalah kategori produk yang **tidak berlaku** untuk Voucher Diskon Shope
 
 |  |  |  |
 | :-: | :-: | :-: |
-| \*\*KATEGORI PRODUK\*\* | \*\*SUB-KATEGORI PRODUK\*\* | \*\*JENIS PRODUK\*\* |
-| \*\*Fashion\*\*  | Aksesoris Fashion | Perhiasan Berharga & Logam Mulia |
-| \*\*Elektronik\*\* | Kamera & Drone | Silica Gel |
+| **KATEGORI PRODUK** | **SUB-KATEGORI PRODUK** | **JENIS PRODUK** |
+| **Fashion**  | Aksesoris Fashion | Perhiasan Berharga & Logam Mulia |
+| **Elektronik** | Kamera & Drone | Silica Gel |
 | Komputer & Aksesoris | Tinta Printer |  |
 | Handphone & Aksesoris | Kartu Perdana |  |
-| \*\*Gaya Hidup\*\*  | Otomotif | Sepeda Motor |
+| **Gaya Hidup**  | Otomotif | Sepeda Motor |
 | Perlengkapan Rumah | Kompor & Regulator Gas, Tisu & Tisu Kertas, Tisu Toilet |  |
 | Buku & Alat Tulis | E-Books, Kardus, & \*Bubble Wrap\* |  |
 | Voucher | Semua Produk Voucher |  |
-| \*\*Ibu & Bayi\*\* | Popok & Pispot | Popok & Pispot Lainnya |
+| **Ibu & Bayi** | Popok & Pispot | Popok & Pispot Lainnya |
 | Kebutuhan Ibu Hamil & Menyusui | Susu Formula |  |
-| \*\*Makanan & Minuman\*\* | Minuman | Minuman Alkohol |
+| **Makanan & Minuman** | Minuman | Minuman Alkohol |
 | Bahan Pokok | Minyak & Bahan Pokok Lainnya |  |
 | Obat-obatan | Obat Bebas & Obat dengan Resep |  |
 | Kesehatan Seksual | Komdom, Penunjang Performa, Lainnya |  |

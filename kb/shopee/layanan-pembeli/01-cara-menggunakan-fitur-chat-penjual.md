@@ -18,9 +18,6 @@ sources:
 **Apa itu Webchat Shopee?**
 
 
-29-07-2026
-
-**Apa itu Webchat Shopee?**
 
 Webchat Shopee merupakan solusi untuk mengelola *chat* secara cepat dan mudah, sekaligus mengelola pesanan Anda.
 
@@ -56,7 +53,7 @@ Saat Anda menggunakan fitur Chat Penjual di aplikasi Shopee, Seller Centre, dan 
 
   
 
-**Mem-filter** ***Chat***
+**Mem-filter** **Chat**
 
 Anda dapat mengkategorikan *chat* Anda berdasarkan kepentingannya menggunakan 5 filter ini:
 
@@ -162,7 +159,7 @@ Untuk menandai *chat* sebagai belum dibaca di Seller Centre atau fitur Chat Penj
 
   
 
-**Mengelola Beberapa** ***Chat***
+**Mengelola Beberapa** **Chat**
 
 Kelola beberapa *chat* sekaligus di Chat Penjual. Pilih *icon*  di samping pencarian, lalu pilih *chat* yang ingin Anda kelola.
 
@@ -180,7 +177,7 @@ Filter Segera Balas dan Telat Balas tersedia di aplikasi Shopee dan Webchat Shop
 
   
 
-**Menghapus** ***Chat***
+**Menghapus** **Chat**
 
 Untuk menghapus *chat* di aplikasi Shopee:
 
@@ -196,7 +193,7 @@ Untuk menghapus *chat* di Seller Centre dan fitur Chat Penjual, arahkan ke *chat
 
   
 
-**Membalas pesan dalam** ***chat***
+**Membalas pesan dalam** **chat**
 
 Anda dapat menggunakan fungsi balasan di aplikasi Shopee, Seller Centre, dan Fitur Chat Penjual untuk merespons langsung pesan tertentu dalam *chat*.
 
@@ -253,14 +250,14 @@ Sistem *chat* akan diatur ulang setelah Pembeli membalas *chat* dan Anda dapat m
 
 |  |  |
 | :-: | :-: |
-| \*\*PEMBELI\*\* | \*\*PENJUAL\*\* |
+| **PEMBELI** | **PENJUAL** |
 | Pembeli membalas \\\<24 jam terakhir | Penjual dapat merespons sesuai kebutuhan |
 | • Pembeli membalas \\\>24 jam terakhir namun \\\<7 hari, atau• Pembeli membuat pesanan \\\<30 hari terakhir atau dalam proses pengembalian barang/dana | Penjual dapat mengirim hingga 5 \*chat\* tanpa balasan dari Pembeli |
 | Pembeli belum membalas \\\>7 hari | Penjual tidak dapat membalas \*chat\* atau memulai percakapan yang baru |
 
   
 
-**Menghapus pesan dalam halaman** ***chat***
+**Menghapus pesan dalam halaman** **chat**
 
 Anda dapat menggunakan fungsi **Hapus** di aplikasi Shopee, Seller Centre, dan Fitur Chat Penjual untuk menghapus pesan dari Pembeli dan Anda sendiri dalam waktu 10 menit setelah Anda mengirimkan pesan tersebut.
 
@@ -484,7 +481,7 @@ Voucher dengan rekomendasi produk:
 
   
 
-**Membuat grup** ***chat*** **navigasi penjualan di Sub Akun**
+**Membuat grup** **chat** **navigasi penjualan di Sub Akun**
 
 Anda juga dapat mengatur grup *chat* menjadi grup **Sebelum Penjualan** atau **Sesudah Penjualan**. Dengan pengaturan ini, *chat* dari Pembeli akan diarahkan langsung oleh sistem ke grup yang sesuai dengan jenis pertanyaannya, sehingga menjadi lebih akurat, mengurangi adanya pengalihan antar tim, menyelesaikan pertanyaan Pembeli dengan lebih cepat, dan meningkatkan potensi pembelian.
 
@@ -504,7 +501,7 @@ Anda dapat mengatur Fitur Chat Penjual dengan mudah melalui aplikasi Shopee, Sel
 
   - Fitur **Asisten Chat**
   - Pengaturan **Notifikasi**
-  - **\*\*Panel Fitur Chat Penjual\*\***
+  - **Panel Fitur Chat Penjual**
   - **Data Kinerja** *chat*
 
   
@@ -593,7 +590,7 @@ Anda dapat[ mengatur rekomendasi produk Panel Fitur Chat Penjual](https://seller
 
   
 
-**Data Kinerja** ***Chat***
+**Data Kinerja** **Chat**
 
 **Melalui Seller Centre:**
 
@@ -609,7 +606,7 @@ Memilih *tab* **Lainnya \>** dapat memberikan Anda lebih banyak data tentang Cha
 
   
 
-**Ringkasan Mengenai Pengaturan pada Berbagai** ***Platform*****﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿****Melaporkan Pengguna yang Tidak Pantas pada Webchat Shopee**
+**Ringkasan Mengenai Pengaturan pada Berbagai** **Platform**﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿**Melaporkan Pengguna yang Tidak Pantas pada Webchat Shopee**
 
 Saat *chat* pada Webchat Shopee, ada saatnya Anda akan menerima pesan yang tidak pantas atau menyinggung. Untuk kenyamanan Anda, Anda dapat melaporkan Pembeli tersebut.
 
@@ -644,7 +641,7 @@ Setelah melaporkan Pengguna, Shopee dapat memblokir Pengguna tersebut untuk Anda
 **Melihat Daftar Pengguna yang Anda Blokir**
 
 **  
-****Melalui Aplikasi Shopee:**
+**Melalui Aplikasi Shopee:**
 
 Masuk ke *tab* **Saya**. Pilih *icon* **Pengaturan** dan pilih **Pengguna Diblokir**.
 

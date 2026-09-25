@@ -18,9 +18,6 @@ sources:
 **Memenuhi Pesanan dari Masa Promosi**
 
 
-17-03-2026
-
-**Memenuhi Pesanan dari Masa Promosi**
 
 Salah satu langkah terakhir dalam mempertahankan Pembeli setelah masa promosi yaitu dengan memenuhi pesanan tepat waktu dan dalam kondisi yang baik.
 
@@ -102,25 +99,25 @@ Untuk meningkatkan jumlah pesanan, Anda bisa mulai meningkatkan kunjungan ke tok
 
   
 
-  - **\*\*Berapa rata-rata jumlah penjualan per pesanan?\*\***
+  - **Berapa rata-rata jumlah penjualan per pesanan?**
 
 Untuk meningkatkan jumlah penjualan per pesanan, gunakan fitur seperti[ **Paket Diskon**](https://seller.shopee.co.id/portal/marketing/bundle?status=1) dan[ **Kombo Hemat**](https://seller.shopee.co.id/portal/marketing/add-on-deal/list?status=0) untuk mendorong Pembeli melakukan pembelian dalam jumlah yang lebih banyak atau membeli produk pelengkap.
 
   
 
-  - **\*\*Apakah ada hal yang tidak terduga, seperti produk yang terjual lebih baik atau lebih buruk dari ekspektasi?\*\***
+  - **Apakah ada hal yang tidak terduga, seperti produk yang terjual lebih baik atau lebih buruk dari ekspektasi?**
 
 Pertimbangkan faktor yang dapat menyebabkan hal ini dan sesuaikan jumlah penambahan stok untuk masa promosi selanjutnya.
 
   
 
-  - **\*\*Apakah ada produk yang kunjungannya tinggi, namun tingkat konversinya rendah?\*\***
+  - **Apakah ada produk yang kunjungannya tinggi, namun tingkat konversinya rendah?**
 
 Evaluasi kembali daftar produk Anda dan[ tingkatkan kualitasnya](https://seller.shopee.co.id/edu/courseDetail/63?lessonId=85) untuk mendorong Pembeli dalam melakukan transaksi.
 
   
 
-  - **\*\*Apakah ada produk yang banyak dimasukkan ke keranjang, namun tingkat konversinya rendah?\*\***
+  - **Apakah ada produk yang banyak dimasukkan ke keranjang, namun tingkat konversinya rendah?**
   - **Alasan umum untuk keranjang yang dibiarkan biasanya dikarenakan ongkos kirim yang tinggi atau Pembeli memasukkan produk ke keranjang sambil melihat produk lain agar dapat membandingkan produk yang mirip dengan mudah. Untuk meningkatkan tingkat konversi, atur biaya ongkir dan cek harga kompetitor selama masa promosi untuk memasang harga yang kompetitif.**
 
   
@@ -131,7 +128,7 @@ Gunakan fitur[ **Performa Toko**](https://seller.shopee.co.id/edu/courseDetail/6
 
 **Performa kualitatif**
 
-  - **\*\*Apakah Pembeli puas dengan kualitas produk dan pelayanan Anda?\*\***
+  - **Apakah Pembeli puas dengan kualitas produk dan pelayanan Anda?**
 
 Bandingkan[ penilaian toko dan ulasan toko](https://seller.shopee.co.id/portal/settings/shop/rating) Anda yang diberikan selama masa promosi dengan yang diterima di hari biasa. Jika Anda melihat perbedaan yang signifikan, evaluasi proses promosi Anda sebelum masa promosi selanjutnya.
 
@@ -141,7 +138,7 @@ Jika Anda mengadakan sesi *live stream* secara berkala, minta pengikut untuk mem
 
 ﻿﻿﻿﻿﻿﻿﻿﻿
 
-  - **\*\*Apakah Anda mengalami masalah/kendala dalam proses pemenuhan pesanan?\*\***
+  - **Apakah Anda mengalami masalah/kendala dalam proses pemenuhan pesanan?**
 
 Walaupun Anda sudah merencanakan proses pemenuhan pesanan selama masa promosi, kejadian tak terduga mungkin saja muncul, seperti kehabisan stok karena adanya lonjakan pesanan.
 

@@ -18,9 +18,6 @@ sources:
 **Jenis Layanan Jasa Kirim Indopaket (Ambil di Indomaret)**
 
 
-05-08-2026
-
-**Jenis Layanan Jasa Kirim Indopaket (Ambil di Indomaret)**
 
 Indopaket (Ambil di Indomaret) merupakan[ jasa kirim didukung Shopee](https://seller.shopee.co.id/edu/article/3384) yang hanya bisa menggunakan proses *drop off* oleh Penjual terpilih yang memenuhi kriteria di area Jabodetabek.
 
@@ -36,14 +33,14 @@ Berikut *detail* ketentuan menggunakan jasa kirim Indopaket (Ambil di Indomaret)
 
 |  |  |
 | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*KETERANGAN\*\* |
-| \*\*Layanan Pengiriman\*\*  | Ambil di Tempat  |
-| \*\*Metode Pengiriman\*\*  | \*Drop off\*  |
-| \*\*Area Jangkauan Pembeli\*\* | Beberapa kota besar di Indonesia  |
-|  \*\*Batas Waktu\*\* \*\*\*Pick Up\*\*\* \*\*(Penjual)\*\*  | Pk. 17.00 WIB Pelajari lebih lanjut mengenai\[ proses \*pick up\*\](https://seller.shopee.co.id/edu/article/12850) |
-| \*\*Maks. Ukuran Paket\*\*  | 50x50x50cm  |
-| \*\*Maks. Berat\*\*  | 21kg  |
-| \*\*Batas Waktu Pengambilan (Pembeli)\*\*  | Sesuai jam operasional gerai Indomaret  |
+| **KATEGORI** | **KETERANGAN** |
+| **Layanan Pengiriman**  | Ambil di Tempat  |
+| **Metode Pengiriman**  | \*Drop off\*  |
+| **Area Jangkauan Pembeli** | Beberapa kota besar di Indonesia  |
+|  **Batas Waktu** **\*Pick Up**\* **(Penjual)**  | Pk. 17.00 WIB Pelajari lebih lanjut mengenai\[ proses \*pick up\*\](https://seller.shopee.co.id/edu/article/12850) |
+| **Maks. Ukuran Paket**  | 50x50x50cm  |
+| **Maks. Berat**  | 21kg  |
+| **Batas Waktu Pengambilan (Pembeli)**  | Sesuai jam operasional gerai Indomaret  |
 
   
 
@@ -92,10 +89,10 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
 
 |  |  |
 | :-: | :-: |
-| \*\*KENDALA\*\* | \*\*SOLUSI\*\* |
-| \*\*Paket yang akan dikirimkan melebihi batas maks. ukuran paket\*\*  | Apabila paket yang akan dikirimkan melebihi batas maks. ukuran paket, Penjual akan dibebankan ongkos kirim tambahan.  |
-|     \*\*Barang yang dikirim rusak atau hilang saat pengiriman atau setelah sampai di gerai Indomaret\*\*  | Jika terdapat kendala terkait pengiriman dengan jasa kirim Indopaket (Ambil di Indomaret), seperti kerusakan/kehilangan, silakan hubungi\[ Customer Service Shopee\](https://seller.shopee.co.id/edu/article/3270) akan membantu melakukan investigasi bersama Indopaket (Ambil di Indomaret) dan proses penggantian (jika barang dinyatakan rusak/hilang) akan melalui Shopee tanpa perlu ke agen Indopaket (Ambil di Indomaret).  |
-| \*\*Bagaimana perhitungan hari untuk\*\* \*\*\*reminder\*\*\* \*\*bahwa paket telah sampai dan batas pengambilan paket?\*\*  | Perhitungan hari yang digunakan adalah hari kalender.  |
+| **KENDALA** | **SOLUSI** |
+| **Paket yang akan dikirimkan melebihi batas maks. ukuran paket**  | Apabila paket yang akan dikirimkan melebihi batas maks. ukuran paket, Penjual akan dibebankan ongkos kirim tambahan.  |
+|     **Barang yang dikirim rusak atau hilang saat pengiriman atau setelah sampai di gerai Indomaret**  | Jika terdapat kendala terkait pengiriman dengan jasa kirim Indopaket (Ambil di Indomaret), seperti kerusakan/kehilangan, silakan hubungi\[ Customer Service Shopee\](https://seller.shopee.co.id/edu/article/3270) akan membantu melakukan investigasi bersama Indopaket (Ambil di Indomaret) dan proses penggantian (jika barang dinyatakan rusak/hilang) akan melalui Shopee tanpa perlu ke agen Indopaket (Ambil di Indomaret).  |
+| **Bagaimana perhitungan hari untuk** **\*reminder**\* **bahwa paket telah sampai dan batas pengambilan paket?**  | Perhitungan hari yang digunakan adalah hari kalender.  |
 
   
 

@@ -18,9 +18,6 @@ sources:
 **Hal-hal yang Perlu Disiapkan untuk Memulai Livestream**
 
 
-16-07-2026
-
-**Hal-hal yang Perlu Disiapkan untuk Memulai Livestream**
 
 <https://seller.shopee.co.id/edu/article/16726>
 
@@ -117,14 +114,14 @@ Untuk memberikan pengalaman berbelanja yang aman dan sesuai ketentuan, Shopee me
 
 |  |  |
 | :-: | :-: |
-| \*\*KATEGORI\*\* | \*\*JENIS PRODUK\*\* |
-| \*\*Produk Dewasa\*\* | • Alat bantu/mainan seks• Kondom• Obat kuat• Penunjang performa seks• Konten dewasa (meskipun sudah berlisensi) |
-| \*\*Obat-obatan dan Suplemen\*\* | • Obat dengan resep dokter• Obat berlogo 'K' merah (  )• Narkotika, Psikotropika, dan Zat Adiktif (NAPZA)• Obat palsu• Obat yang dilarang dan dibatasi peredarannya oleh pemerintahdan/atau Pemilik merek |
-| \*\*Tembakau dan Nikotin\*\* | • Rokok• Daun tembakau• Nikotin• Rokok elektronik (Vape)• Shisha |
-| \*\*Alkohol\*\* | Semua jenis minuman beralkohol |
-| \*\*Senjata\*\* | • Senjata api• Senjata tajam (kecuali produk peralatan tajam yang memiliki fungsiumum tertentu seperti pisau dapur, gergaji) |
-| \*\*Produk Mistis\*\* | • Jimat• Benda keramat, dsb |
-| \*\*Produk Ilegal dan Produk\*\*\*\*yang Melanggar Ketentuan\*\* | • Produk yang melanggar Hak Kekayaan Intelektual (HAKI),termasuk barang tiruan, palsu, atau KW• Flora dan fauna yang dilindungi• Plat nomor kendaraan dan dokumen identitas kendaraan |
+| **KATEGORI** | **JENIS PRODUK** |
+| **Produk Dewasa** | • Alat bantu/mainan seks• Kondom• Obat kuat• Penunjang performa seks• Konten dewasa (meskipun sudah berlisensi) |
+| **Obat-obatan dan Suplemen** | • Obat dengan resep dokter• Obat berlogo 'K' merah (  )• Narkotika, Psikotropika, dan Zat Adiktif (NAPZA)• Obat palsu• Obat yang dilarang dan dibatasi peredarannya oleh pemerintahdan/atau Pemilik merek |
+| **Tembakau dan Nikotin** | • Rokok• Daun tembakau• Nikotin• Rokok elektronik (Vape)• Shisha |
+| **Alkohol** | Semua jenis minuman beralkohol |
+| **Senjata** | • Senjata api• Senjata tajam (kecuali produk peralatan tajam yang memiliki fungsiumum tertentu seperti pisau dapur, gergaji) |
+| **Produk Mistis** | • Jimat• Benda keramat, dsb |
+| **Produk Ilegal dan Produk**yang Melanggar Ketentuan** | • Produk yang melanggar Hak Kekayaan Intelektual (HAKI),termasuk barang tiruan, palsu, atau KW• Flora dan fauna yang dilindungi• Plat nomor kendaraan dan dokumen identitas kendaraan |
 
   
 

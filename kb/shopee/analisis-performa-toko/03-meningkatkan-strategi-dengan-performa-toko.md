@@ -18,9 +18,6 @@ sources:
 **Memahami Performa Toko Anda Secara Keseluruhan**
 
 
-09-02-2026
-
-**Memahami Performa Toko Anda Secara Keseluruhan**
 
 **Tinjauan**
 
@@ -93,7 +90,7 @@ Bagian **Komposisi Penjualan** membantu Anda memahami penjualan berdasarkan:
 
   
 
-  - **\*\*Komposisi Kategori\*\***
+  - **Komposisi Kategori**
 
 Mengetahui **Kategori** mana yang menghasilkan penjualan paling banyak.
 
@@ -107,13 +104,13 @@ Mengetahui **Kategori** mana yang menghasilkan penjualan paling banyak.
   
   
 
-  - **\*\*Komposisi Harga Pesanan\*\***
+  - **Komposisi Harga Pesanan**
 
 Menunjukkan **Rentang Harga** yang populer di kalangan Pembeli
 
   
 
-  - **\*\*Komposisi Pembeli\*\***
+  - **Komposisi Pembeli**
 
 Memberi tahu **Tipe Pembeli** yang paling berkontribusi pada penjualan Anda. Komposisi Pembeli terdiri dari 2 tipe Pembeli yaitu **Pembeli Baru** yang belanja di toko Anda dan **Pembeli Saat Ini** adalah Pembeli yang sudah pernah berbelanja di toko Anda.
 
@@ -129,9 +126,9 @@ Untuk meningkatkan strategi penjualan, Anda perlu memahami produk mana yang suda
 
 Anda dapat melihatnya di **Performa Toko** \> **Tinjauan** \> **Produk** untuk mendapat gambaran umum performa produk Anda yang dibagi ke dalam tiga kategori, yaitu: 
 
-  - **\*\*Produk dengan Performa Terbaik\*\***
-  - **\*\*Produk yang Baru Ditambahkan\*\***
-  - **\*\*Produk dengan Iklan\*\***
+  - **Produk dengan Performa Terbaik**
+  - **Produk yang Baru Ditambahkan**
+  - **Produk dengan Iklan**
 
   
 
@@ -200,11 +197,11 @@ Anda dapat meningkatkan kualitas daftar produk dengan memberikan foto produk yan
 
 Bagian ini dapat membantu mengidentifikasikan kontribusi kunjungan dan penjualan pada produk dan *channel* bagi toko Anda. Berikut adalah 4 *channel* yang ditampilkan di Kunjungan Produk:
 
-  - **\*\*Halaman Produk\*\***
-  - **\*\*Live Penjual\*\***
-  - **\*\*Video Penjual\*\***
-  - **\*\*Affiliate\*\***
-  - **\*\*Iklan Shopee\*\***
+  - **Halaman Produk**
+  - **Live Penjual**
+  - **Video Penjual**
+  - **Affiliate**
+  - **Iklan Shopee**
 
   
 
@@ -234,17 +231,17 @@ Terdapat dua jenis *tag*, yaitu *tag* otomatis dan *tag* manual.
 
   
 
-***Tag*** **Otomatis** akan mencatat secara otomatis aktivitas berupa Nama *Tag* dan Tanggal Dibuat. Jika terdapat aktivitas lainnya yang perlu dicatat, Anda dapat menambahkan secara mandiri menggunakan ***Tag*** **Manual**.
+**Tag** **Otomatis** akan mencatat secara otomatis aktivitas berupa Nama *Tag* dan Tanggal Dibuat. Jika terdapat aktivitas lainnya yang perlu dicatat, Anda dapat menambahkan secara mandiri menggunakan **Tag** **Manual**.
 
   
 
-  - **\*\*\*Tag\*\*\* \*\*otomatis\*\***
+  - **\*Tag**\* **otomatis**
 
 *Tag* akan dibuat secara otomatis oleh sistem ketika terdapat aktivitas berikut:
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| \*\*AKTIVITAS\*\* | \*\*NAMA\*\* \*\*\*TAG\*\*\* | \*\*KONDISI\*\* | \*\*KETERANGAN\*\* |
+| **AKTIVITAS** | **NAMA** **\*TAG**\* | **KONDISI** | **KETERANGAN** |
 | Mengubah harga jual produk | Perubahan harga | Harga produk yang ditampilkan di Halaman Produk berubah | Hanya akan menampilkan satu \*tag\* perubahan harga di Grafik Kriteria, meskipun perubahan harga terjadi beberapa kali dalam 1 jam |
 | Membuat voucher untuk suatu produk | Voucher: {Nama Voucher} | Terdapat voucher aktif pada produk yang dipilih | Menampilkan \*tag\* untuk voucher yang telah dibuat. \*Tag\* tersedia untuk pilihan waktu hingga 2 tahun terakhir |
 | Memasang Iklan Shopee untuk suatu produk | Iklan Shopee | Terdapat Iklan Shopee yang diklik oleh Pembeli untuk produk tersebut | Hanya akan ada satu \*tag\* 'Iklan Shopee' untuk hari tersebut di Grafik Kriteria dan data laporan yang di-\*download\* |
@@ -253,7 +250,7 @@ Terdapat dua jenis *tag*, yaitu *tag* otomatis dan *tag* manual.
 
   
 
-  - **\*\*\*Tag\*\*\* \*\*Manual\*\***
+  - **\*Tag**\* **Manual**
 
 *Tag* manual dapat Anda tambahkan secara mandiri dengan mengklik tombol "Tambah Tag".
 
@@ -296,10 +293,10 @@ Sumber Kunjungan dibagi ke dalam 2 kategori utama, yaitu:
 
 Kategori ini mencakup penjualan yang berasal dari aktivitas toko secara *real-time*, dengan *channel* sebagai berikut:
 
-  - **\*\*Halaman Produk\*\***
-  - **\*\*Live Penjual\*\***
-  - **\*\*Video Penjual\*\***
-  - **\*\*Affiliate\*\***
+  - **Halaman Produk**
+  - **Live Penjual**
+  - **Video Penjual**
+  - **Affiliate**
 
   
 
@@ -307,7 +304,7 @@ Kategori ini mencakup penjualan yang berasal dari aktivitas toko secara *real-ti
 
 Kategori ini mencakup penjualan yang dihasilkan dari aktivitas promosi:
 
-  - **\*\*Iklan Shopee\*\***
+  - **Iklan Shopee**
 
   
 

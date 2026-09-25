@@ -18,11 +18,6 @@ sources:
 Menjaga keamanan akun pengguna adalah prioritas utama Shopee. Maka dari itu, Shopee melakukan yang terbaik untuk memastikan akun Anda tetap aman. Anda juga dapat mengambil bagian dalam menjaga dan melindungi informasi pribadi dengan mengikuti panduan berikut.
 
 
-14-08-2019
-
-Menjaga keamanan akun pengguna adalah prioritas utama Shopee. Maka dari itu, Shopee melakukan yang terbaik untuk memastikan akun Anda tetap aman. Anda juga dapat mengambil bagian dalam menjaga dan melindungi informasi pribadi dengan mengikuti panduan berikut.
-
-  
 
 **Bagaimana Cara Menjaga Keamanan Akun?**
 

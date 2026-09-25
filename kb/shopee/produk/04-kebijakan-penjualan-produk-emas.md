@@ -18,9 +18,6 @@ sources:
 **Apa itu produk emas?**
 
 
-26-05-2026
-
-**Apa itu produk emas?**
 
 Produk emas merupakan logam mulia yang dapat diperjualbelikan dalam bentuk batangan maupun perhiasan. Secara umum, produk emas dibagi menjadi beberapa jenis, yaitu:
 
@@ -46,7 +43,7 @@ Penjual Shopee Mall yang menjual produk emas **wajib** memiliki Sertifikasi Emas
 
   
 
-Sertifikasi Emas dapat berupa **sertifikat emas**, ***invoice*****/nota pembelian**, dan harus menampilkan informasi berikut:
+Sertifikasi Emas dapat berupa **sertifikat emas**, **invoice**/nota pembelian**, dan harus menampilkan informasi berikut:
 
 1.  Nomor sertifikat (informasi dapat disamarkan)
 2.  Barcode sertifikat, jika ada (informasi dapat disamarkan)

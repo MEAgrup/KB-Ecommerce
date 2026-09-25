@@ -15,12 +15,9 @@ sources:
 # Kebijakan Pemenuhan Pesanan Shopee
 
 ## Ringkasan
-**Apa itu Tingkat Pesanan Tidak Terselesaikan****?**
+**Apa itu Tingkat Pesanan Tidak Terselesaikan**?**
 
 
-17-03-2026
-
-**Apa itu Tingkat Pesanan Tidak Terselesaikan****?**
 
 Tingkat Pesanan Tidak Terselesaikan mencerminkan persentase total pesanan yang dibatalkan atau dikembalikan dalam 7 hari terakhir karena kesalahan Penjual.
 
