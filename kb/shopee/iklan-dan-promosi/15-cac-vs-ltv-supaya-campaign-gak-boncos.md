@@ -44,4 +44,12 @@ Ikut campaign besar-besaran tanpa menghitung dulu LTV kategori produknya — men
 - Sudah ada batas (repeat rate, ROAS, atau waktu) yang ditetapkan sebelum campaign dimulai, atau baru dievaluasi setelah selesai?
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Contoh lost leader: harga jual sabun cuci muka (rugi sengaja) | Rp15.000 |
+| Contoh lost leader: untung dari paket toner & serum | Rp60.000 |
+| Contoh lost leader: total untung paket (setelah dikurangi rugi sabun) | Rp45.000 |
+| Contoh target batas repeat order | 30% dari pembeli baru hasil campaign |
+
+Catatan: angka-angka di atas adalah contoh ilustrasi dari sumber (transkrip YouTube Yohan), bukan data resmi Shopee — patokan repeat rate/ROAS/waktu yang sebenarnya harus ditentukan per toko sesuai kategori produknya sendiri.
