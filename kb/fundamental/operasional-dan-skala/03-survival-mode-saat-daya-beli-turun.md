@@ -25,8 +25,8 @@ Saat kompetisi iklan makin ketat dan ekonomi lesu; fokus ke efisiensi dan ketaha
 
 ## Isi
 1. **Optimasi SEO/listing/search** — untuk marketplace berbasis pencarian; riset keyword, dan incar keyword tier kedua/ketiga karena keyword utama persaingannya brutal.
-2. **Konten video pendek konsisten** — posting rutin lintas platform; buat video "with sales" yang langsung ke masalah-solusi, hook kuat di awal.
-3. **Live streaming rutin** — jadwalkan di prime time (riset by data: viewers, GPM), pakai voucher/flash sale/testimoni, script tajam.
+2. **Konten video pendek konsisten** — posting sekitar 1-3 video/hari lintas platform; buat video "with sales" yang langsung ke masalah-solusi, hook kuat di awal.
+3. **Live streaming rutin** — idealnya 3-5 kali seminggu, jadwalkan di prime time (riset by data: viewers, GPM), pakai voucher/flash sale/testimoni, script tajam.
 4. **Kolaborasi affiliate organik** — cari kreator rajin; mendekati kreator langsung bisa menghemat biaya red card.
 5. **Bangun database sendiri** — thank you card, membership, kumpulkan kontak untuk broadcast/promo; arahkan repeat order ke kanal sendiri agar hemat biaya admin.
 6. **Optimasi conversion rate & social proof** — menaikkan CVR sedikit (mis. dari 2% ke 2,5%) sudah berdampak besar dengan effort sama; perbanyak review/testimoni.

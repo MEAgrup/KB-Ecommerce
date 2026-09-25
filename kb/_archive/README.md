@@ -10,3 +10,13 @@ Ketiganya **jangan dikutip** — isinya berhenti di tengah kalimat, jadi bisa bi
 Disimpan sebagai jejak, sesuai aturan: materi lama gak dihapus.
 
 Keputusan: `D-DEPTH-01` s/d `D-DEPTH-03` (masih terbuka — rekomendasi opsi A).
+
+## `pengumuman-dan-kebijakan-terbaru/` (15 entry, batch Shopee)
+
+Pengumuman/kebijakan bertanggal (PPh Pasal 22, perubahan nama wilayah, update tampilan Seller
+Centre, dll) dari batch ingest Shopee — sifatnya inherently sementara, bukan artikel "cara kerja
+fitur" yang stabil. **Jangan dipakai jawab member langsung** — begitu kebijakannya berubah lagi
+isinya jadi basi. Kalau member tanya kebijakan/pajak terbaru, arahkan cek langsung ke Seller
+Centre / pengumuman resmi Shopee.
+
+Keputusan: `S-D-OUTDATED-001` — ✅ tertutup (2026-08-30), opsi B (arsipkan semua, status `archived`).
