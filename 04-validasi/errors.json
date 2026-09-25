@@ -2299,9 +2299,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-proses-pick-up.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-proses-pick-up.md"
     ]
   },
   {
@@ -2310,9 +2308,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-spx-express.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-spx-express.md"
     ]
   },
   {
@@ -2322,8 +2318,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/gosend.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1613 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2333,8 +2328,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/grabexpress.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1627 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2343,9 +2337,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/id-express.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/id-express.md"
     ]
   },
   {
@@ -2354,9 +2346,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/indopaket-ambil-di-indomaret.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/indopaket-ambil-di-indomaret.md"
     ]
   },
   {
@@ -2365,9 +2355,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/jasa-kirim-toko.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/jasa-kirim-toko.md"
     ]
   },
   {

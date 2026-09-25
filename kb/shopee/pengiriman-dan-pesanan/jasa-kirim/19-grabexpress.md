@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/grabexpress.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-040, shp-pengiriman-039]
 ---
 # GrabExpress
 
 ## Ringkasan
+GrabExpress = jasa kirim Grab didukung Shopee, 2 kategori: Same Day (kirim hari sama) dan Instant (Versi Lama, Instant maks. 4 jam, Instant Prioritas maks. 2 jam). Pencarian kurir biasanya maks. 2-3 jam sejak atur pengiriman pertama. 16 kategori produk dilarang (hewan/tanaman hidup, amunisi/bahan peledak, uang & surat berharga, senjata, sisa tubuh manusia, pornografi, narkotika, zat beracun, barang berbahaya umum, bahan biologis busuk, telur*, alkohol, emas/logam mulia/perhiasan, dll). *Telur dilarang di Sameday TAPI boleh di Instant. Asuransi otomatis: hingga Rp10.000.000 (semua varian Instant) atau 10x ongkir (Sameday) — TAPI ada 12+ pengecualian barang yang gak dilindungi (kertas/dokumen, voucher, barang pecah belah, cairan/kimia, dll). Klaim maks. 6x24 jam sejak diambil kurir, wajib KTP jelas.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail layanan, produk terlarang, cara proses pengiriman, atau kendala teknis (dana tertahan, status gak update, gagal pick-up, klaim rusak) jasa kirim GrabExpress. Buat Asuransi Pengiriman secara umum, arahkan ke `shp-pengiriman-040`; buat panduan pengemasan, arahkan ke `shp-pengiriman-039`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim GrabExpress**
 
 
@@ -155,3 +163,27 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Berikan perlindungan terhadap produk yang Anda kirim dari kehilangan/kerusakan selama pengiriman. Pelajari lebih lanjut tentang[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345).
   - Untuk mendapatkan informasi seputar pengiriman pesanan atau kendala dalam proses pengiriman, Anda dapat[ Menghubungi Pihak Jasa Kirim](https://seller.shopee.co.id/edu/article/14227).
   - Apabila terdapat pengajuan pengembalian barang/dana, pelajari lebih lanjut terkait[ FAQ Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/article/17055/faq-pengembalian-barang-dan-dana).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Estimasi tiba GrabExpress Instant | maks. 4 jam |
+| Estimasi tiba GrabExpress Instant Prioritas | maks. 2 jam |
+| Estimasi waktu pencarian kurir | maks. 2-3 jam sejak atur pengiriman pertama |
+| Jumlah kategori produk dilarang | 16 kategori |
+| Perlindungan asuransi — semua varian Instant | hingga Rp10.000.000 |
+| Perlindungan asuransi — GrabExpress Sameday | 10x lipat ongkir |
+| Batas waktu pengajuan klaim | maks. 6x24 jam sejak paket diambil kurir |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim paket senilai Rp3 juta pakai GrabExpress Sameday dengan ongkir Rp15.000, berapa maks. klaim kalau hilang?** Sameday pakai skema 10x lipat ongkir, jadi maks. klaim = 10 x Rp15.000 = Rp150.000 — JAUH di bawah nilai barang, beda dengan skema Instant yang maks. Rp10.000.000.
+2. **Member kirim barang pecah belah pakai GrabExpress, hilang di jalan, bisa klaim asuransi?** GAK BISA — barang pecah belah termasuk dalam daftar pengecualian yang gak dilindungi asuransi GrabExpress (bersama kertas/dokumen, voucher, cairan/kimia, makanan/minuman segar, dll).
+3. **Member dana penjualannya belum masuk Saldo Penjual padahal pesanan udah diterima Pembeli?** Isi formulir Kendala Pengiriman Instant, pilih "Kendala Lainnya", lampirkan bukti chat penerimaan dari Pembeli DAN nomor SD-xxxxx/IN-xxxxx.
+4. **Member kirim telur pakai GrabExpress Sameday, ditolak?** Betul, telur dilarang khusus di Sameday — tapi tetap boleh dikirim pakai GrabExpress Instant.
+5. **Kurir GrabExpress kembalikan paket karena alamat Pembeli gak sesuai?** Isi formulir Kendala Pengiriman Instant, pilih opsi "Batalkan Pesanan", lampirkan bukti chat dengan Pembeli DAN kurir yang menunjukkan alamat gak sesuai.
+6. **Member mau klaim kerusakan barang, apa aja bukti yang wajib disiapkan?** 4 jenis bukti: rekaman CCTV/foto penjemputan, foto kurir pegang KTP+paket, catatan data kurir, dan screenshot Rincian Pesanan (nomor pesanan+resi) — plus KTP jelas gak terpotong.
+
+## Batasan
+Baris tabel kendala "Kurir tidak kunjung datang untuk pick up pesanan, namun status pesanan 'Selesai'" TIDAK punya solusi yang tersalin di sumber — selnya kosong (pola gap yang sama juga ditemukan di entry GoSend `shp-pengiriman-018` dan Bluebird Kirim `shp-pengiriman-006`). Arahkan member hubungi CS Shopee langsung buat kasus ini, jangan karang solusinya.

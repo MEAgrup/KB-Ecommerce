@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/indopaket-ambil-di-indomaret.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-040]
 ---
 # Indopaket (Ambil di Indomaret)
 
 ## Ringkasan
+Indopaket (Ambil di Indomaret) = jasa kirim khusus Penjual TERPILIH di area Jabodetabek, drop-off only, Pembeli ambil sendiri di gerai Indomaret terdekat. Batas waktu drop-off pk. 17.00 WIB. Maks. ukuran 50x50x50cm, maks. berat 21kg (lebihi batas → kena ongkir tambahan). 10 kategori produk dilarang (alkohol, senjata, judi/pornografi, uang/surat berharga, bahan peledak/kimia/radioaktif, obat terlarang, barang berbahaya, makanan cepat basi). Kalau gagal kirim: maks. 2x percobaan ke Alamat Pengembalian, lalu 7 HARI KALENDER buat Penjual ambil paket di Indomaret tempat drop-off, kalau gak diambil → dikirim ke HUB INDOPAKET Bogor 2. Klaim rusak/hilang diproses via CS Shopee (gak perlu ke agen Indopaket langsung).
+
+## Kapan ini dipakai
+Dipakai kalau member (Penjual terpilih Jabodetabek) nanya detail layanan, batas ukuran/berat, atau alur pengembalian paket gagal kirim Indopaket. Buat Asuransi Pengiriman, arahkan ke `shp-pengiriman-040`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim Indopaket (Ambil di Indomaret)**
 
 
@@ -106,3 +114,24 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Untuk memastikan produk Anda sampai ke Pembeli dengan aman dan dalam kondisi yang baik, pastikan Anda menggunakan bahan dan teknik yang tepat saat mengemas paket. Pastikan kemasan paket sesuai dengan jenis atau kategori produk. Pelajari lebih lanjut terkait[ Panduan Pengemasan Produk di Shopee](https://seller.shopee.co.id/edu/article/18821).
   - Berikan perlindungan terhadap produk yang Anda kirim dari kehilangan/kerusakan selama pengiriman. Pelajari lebih lanjut tentang[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345).
   - Untuk mendapatkan informasi seputar pengiriman pesanan atau kendala dalam proses pengiriman, Anda dapat[ Menghubungi Pihak Jasa Kirim](https://seller.shopee.co.id/edu/article/14227).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas waktu drop-off Penjual | pk. 17.00 WIB |
+| Maks. ukuran paket | 50x50x50cm |
+| Maks. berat | 21kg |
+| Maks. percobaan kirim ulang ke Alamat Pengembalian | 2 kali |
+| Batas waktu Penjual ambil paket gagal di Indomaret | 7 hari kalender sejak notifikasi "Pesanan telah dikembalikan" |
+| Jumlah kategori produk dilarang | 10 kategori |
+| Satuan hitung reminder/batas pengambilan | hari kalender |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim paket 22kg pakai Indopaket, kena biaya tambahan?** Ya — melebihi maks. berat 21kg (atau ukuran 50x50x50cm) bikin Penjual dibebankan ongkos kirim tambahan.
+2. **Paket member 2x gagal dikirim ke alamat Pembeli, terus gimana?** Setelah maks. 2 kali percobaan gagal, Penjual dapat notifikasi "Pesanan telah dikembalikan" dan wajib ambil paket dalam 7 hari kalender di gerai Indomaret tempat drop-off awal.
+3. **Member gak sempat ambil paket gagal kirim dalam 7 hari, apa yang terjadi?** Paket otomatis dikirim ke HUB INDOPAKET Bogor 2 (alamat fisik tertentu) — Penjual perlu proses lebih lanjut buat ambil dari sana.
+4. **Barang member rusak pas nyampe di gerai Indomaret, harus datang langsung ke agen?** GAK PERLU — cukup hubungi CS Shopee, investigasi dan proses penggantian dilakukan lewat Shopee tanpa perlu ke agen Indopaket.
+5. **Member di luar Jabodetabek mau pakai Indopaket?** GAK BISA — layanan ini cuma buat Penjual terpilih di area Jabodetabek.
+6. **Member mau kirim minuman beralkohol pakai Indopaket?** GAK BISA — alkohol/minuman keras termasuk 10 kategori produk yang dilarang dikirim via Indopaket.

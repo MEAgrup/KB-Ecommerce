@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **739**
+- PERINGATAN: **727**
 
 ## Status entry
 
@@ -1128,44 +1128,32 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/16-faq-proses-pick-up.md` · shp-pengiriman-016
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-proses-pick-up.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/17-faq-spx-express.md` · shp-pengiriman-017
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/faq-spx-express.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/18-gosend.md` · shp-pengiriman-018
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/gosend.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1613 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/19-grabexpress.md` · shp-pengiriman-019
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/grabexpress.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1627 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/20-id-express.md` · shp-pengiriman-020
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/id-express.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/21-indopaket-ambil-di-indomaret.md` · shp-pengiriman-021
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/indopaket-ambil-di-indomaret.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/22-jasa-kirim-toko.md` · shp-pengiriman-022
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/jasa-kirim-toko.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/23-jasa-kirim-yang-didukung-shopee-vs-jasa-kirim-yang-tidak-didukung-shop.md` · shp-pengiriman-023
 

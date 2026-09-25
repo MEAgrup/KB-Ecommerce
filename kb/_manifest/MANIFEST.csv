@@ -240,13 +240,13 @@ shp-pengiriman-012,FAQ JNE Express,shopee,pengiriman-dan-pesanan/jasa-kirim,1,ca
 shp-pengiriman-013,FAQ Mengatur Jasa Kirim,shopee,pengiriman-dan-pesanan/jasa-kirim,1,canonical,false,2023-09,shp-pengiriman-026,,shopee/pengiriman-dan-pesanan/jasa-kirim/13-faq-mengatur-jasa-kirim.md
 shp-pengiriman-014,FAQ Ongkos Kirim & Panduan Mengukur Ukuran Paket,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-07,shp-pengiriman-028,,shopee/pengiriman-dan-pesanan/jasa-kirim/14-faq-ongkos-kirim-panduan-mengukur-ukuran-paket.md
 shp-pengiriman-015,FAQ Pengiriman Instant & Instant Prioritas,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-07,"shp-pengiriman-029, shp-pengiriman-041",,shopee/pengiriman-dan-pesanan/jasa-kirim/15-faq-pengiriman-instant-instant-prioritas.md
-shp-pengiriman-016,FAQ Proses Pick up,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,false,2025-12,,,shopee/pengiriman-dan-pesanan/jasa-kirim/16-faq-proses-pick-up.md
-shp-pengiriman-017,FAQ SPX Express,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-05,,,shopee/pengiriman-dan-pesanan/jasa-kirim/17-faq-spx-express.md
-shp-pengiriman-018,GoSend,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/18-gosend.md
-shp-pengiriman-019,GrabExpress,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/19-grabexpress.md
-shp-pengiriman-020,ID Express,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/20-id-express.md
-shp-pengiriman-021,Indopaket (Ambil di Indomaret),shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/21-indopaket-ambil-di-indomaret.md
-shp-pengiriman-022,Jasa Kirim Toko,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,false,2024-09,,,shopee/pengiriman-dan-pesanan/jasa-kirim/22-jasa-kirim-toko.md
+shp-pengiriman-016,FAQ Proses Pick up,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,false,2025-12,shp-pengiriman-005,,shopee/pengiriman-dan-pesanan/jasa-kirim/16-faq-proses-pick-up.md
+shp-pengiriman-017,FAQ SPX Express,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-05,shp-pengiriman-038,,shopee/pengiriman-dan-pesanan/jasa-kirim/17-faq-spx-express.md
+shp-pengiriman-018,GoSend,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,"shp-pengiriman-040, shp-pengiriman-039",,shopee/pengiriman-dan-pesanan/jasa-kirim/18-gosend.md
+shp-pengiriman-019,GrabExpress,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,"shp-pengiriman-040, shp-pengiriman-039",,shopee/pengiriman-dan-pesanan/jasa-kirim/19-grabexpress.md
+shp-pengiriman-020,ID Express,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,"shp-pengiriman-026, shp-pengiriman-040",,shopee/pengiriman-dan-pesanan/jasa-kirim/20-id-express.md
+shp-pengiriman-021,Indopaket (Ambil di Indomaret),shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,shp-pengiriman-040,,shopee/pengiriman-dan-pesanan/jasa-kirim/21-indopaket-ambil-di-indomaret.md
+shp-pengiriman-022,Jasa Kirim Toko,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,false,2024-09,"shp-pengiriman-011, shp-pengiriman-023",,shopee/pengiriman-dan-pesanan/jasa-kirim/22-jasa-kirim-toko.md
 shp-pengiriman-023,Jasa Kirim yang Didukung Shopee vs Jasa Kirim yang Tidak Didukung Shopee (Tidak Terintegrasi),shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-07,,,shopee/pengiriman-dan-pesanan/jasa-kirim/23-jasa-kirim-yang-didukung-shopee-vs-jasa-kirim-yang-tidak-didukung-shop.md
 shp-pengiriman-024,JNE Express,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/24-jne-express.md
 shp-pengiriman-025,J\&T Cargo,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/25-jt-cargo.md

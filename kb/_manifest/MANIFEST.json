@@ -3141,7 +3141,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2025-12",
-    "related": "",
+    "related": "shp-pengiriman-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/16-faq-proses-pick-up.md"
   },
@@ -3154,7 +3154,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-pengiriman-038",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/17-faq-spx-express.md"
   },
@@ -3167,7 +3167,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040, shp-pengiriman-039",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/18-gosend.md"
   },
@@ -3180,7 +3180,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040, shp-pengiriman-039",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/19-grabexpress.md"
   },
@@ -3193,7 +3193,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-026, shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/20-id-express.md"
   },
@@ -3206,7 +3206,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/21-indopaket-ambil-di-indomaret.md"
   },
@@ -3219,7 +3219,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2024-09",
-    "related": "",
+    "related": "shp-pengiriman-011, shp-pengiriman-023",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/22-jasa-kirim-toko.md"
   },

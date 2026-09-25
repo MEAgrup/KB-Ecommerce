@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/id-express.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-026, shp-pengiriman-040]
 ---
 # ID Express
 
 ## Ringkasan
+ID Express = jasa kirim didukung Shopee, aktif di seluruh Indonesia, bisa drop-off via cabang Alfamart. Pick-up 2x/hari: pk. 13.00 & 18.00 WIB. Layanan pick-up dievaluasi BULANAN berdasar rata-rata pesanan bersih harian — otomatis aktif kalau penuhi kriteria, dinonaktifkan kalau gak penuhi 1 bulan berturut-turut (tetap bisa drop-off ke counter). Kurir gak datang → disarankan drop-off, bukan tunggu. 9 kategori produk dilarang (barang berbahaya/beracun, perhiasan/barang berharga, hewan/tumbuhan langka, barang ilegal, uang & surat berharga, barang tak senonoh, barang bersejarah, jenazah/abu kremasi, kemasan non-standar).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail layanan, jadwal pick-up/drop-off, kriteria pickup, atau produk terlarang ID Express. Buat cara aktifkan jasa kirim secara umum, arahkan ke `shp-pengiriman-026`; buat Asuransi Pengiriman, arahkan ke `shp-pengiriman-040`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim ID Express**
 
 
@@ -142,3 +150,22 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
 
   - Pastikan Anda tidak menjual[ Produk yang Dilarang dan/atau Dibatasi sesuai kebijakan Shopee](https://seller.shopee.co.id/edu/article/6843).
   - Shopee berhak sewaktu-waktu mengubah atau menambahkan daftar produk yang tidak diperbolehkan dikirim sesuai kebijakan dari ID Express.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jadwal pick-up harian | 2x: pk. 13.00 WIB & pk. 18.00 WIB |
+| Evaluasi kriteria layanan pick-up | bulanan, berdasar rata-rata pesanan bersih harian |
+| Periode gagal kriteria sebelum pick-up dinonaktifkan | 1 bulan berturut-turut |
+| Jumlah kategori produk dilarang | 9 kategori |
+| Titik drop-off alternatif | cabang Alfamart |
+
+## Pertanyaan diagnosa
+
+1. **Member atur pengiriman ID Express, kapan jadwal pick-up-nya?** Ada 2 waktu pick-up per hari: pk. 13.00 WIB dan pk. 18.00 WIB.
+2. **Kurir ID Express gak datang sesuai jadwal yang diatur member?** Disarankan langsung drop-off ke counter ID Express terdekat (termasuk cabang Alfamart) buat hindari pembatalan otomatis, atau hubungi pihak jasa kirim.
+3. **Toko member kehilangan akses pick-up ID Express yang sebelumnya aktif?** Kemungkinan rata-rata pesanan bersih harian gak penuhi kriteria minimal selama 1 bulan berturut-turut — tapi tetap bisa kirim via drop-off ke counter ID Express.
+4. **Member mau drop-off paket ID Express tanpa resi cetak dari Shopee?** Sebaiknya hubungi CS Shopee dulu — sistem mensyaratkan pakai resi otomatis dari Shopee saat drop-off/pick-up, kendala ini perlu ditangani CS.
+5. **Member jual perhiasan/barang berharga, bisa kirim pakai ID Express?** GAK BISA — perhiasan dan barang berharga termasuk dalam 9 kategori produk yang dilarang dikirim via ID Express.
+6. **Member mau ubah metode pengiriman dari drop-off jadi pick-up buat pesanan yang sudah diatur?** Hubungi CS Shopee — perubahan metode pengiriman drop-off↔pick-up butuh bantuan CS, gak bisa diubah sendiri di sistem.
