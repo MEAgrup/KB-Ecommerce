@@ -3401,7 +3401,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-008",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/36-sicepat-ekspres.md"
   },
@@ -3414,7 +3414,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-038, shp-pengiriman-008",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/37-spx-ambil-di-tempat.md"
   },
@@ -3427,7 +3427,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-017, shp-pengiriman-030, shp-pengiriman-037",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/38-spx-express.md"
   },

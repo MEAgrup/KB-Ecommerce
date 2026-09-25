@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/sicepat-ekspres.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-008]
 ---
 # SiCepat Ekspres
 
 ## Ringkasan
+SiCepat Ekspres = 3 layanan (Reguler, Hemat Kargo/Halu&Gokil, Next Day/BEST), dukung COD. Ongkir volumetrik berlaku kalau salah satu sisi min. 40cm DAN/ATAU berat min. 10kg s.d. batas maks. Jam operasional pk. 13.00-20.00 WIB. Cut-off Next Day (BEST) pk. 17.00 WIB (lewat itu, Pembeli terima LUSA bukan besok). Drop-off ke gerai SiCepat maks pk. 20.00 WIB; via Mitra SiCepat maks pk. 18.00 WIB (biar ke-scan hari yang sama). Kriteria pick-up (REG/Halu/BEST) dievaluasi bulanan. 12 kategori produk dilarang. GAK ADA asuransi dari SiCepat sendiri, dan GAK terima produk berbahaya sama sekali.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail layanan, jam operasional, cut-off time, atau produk terlarang SiCepat Ekspres. Buat konsep dasar COD, arahkan ke `shp-pengiriman-008`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim SiCepat Ekspres**
 
 
@@ -169,3 +177,25 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Berikan perlindungan terhadap produk yang Anda kirim dari kehilangan/kerusakan selama pengiriman. Pelajari lebih lanjut tentang[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345).
   - Untuk mendapatkan informasi seputar pengiriman pesanan atau kendala dalam proses pengiriman, Anda dapat[ Menghubungi Pihak Jasa Kirim](https://seller.shopee.co.id/edu/article/14227).
   - Apabila terdapat pengajuan pengembalian barang/dana, pelajari lebih lanjut terkait[ FAQ Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/article/17055/faq-pengembalian-barang-dan-dana).﻿﻿﻿﻿﻿﻿﻿﻿
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jam operasional | pk. 13.00-20.00 WIB |
+| Cut-off time Next Day (SiCepat BEST) | pk. 17.00 WIB |
+| Batas drop-off ke gerai SiCepat (biar ke-scan hari sama) | maks. pk. 20.00 WIB |
+| Batas drop-off via Mitra SiCepat (biar ke-scan hari sama) | maks. pk. 18.00 WIB |
+| Ambang volumetrik | salah satu sisi min. 40cm DAN/ATAU berat min. 10kg |
+| Jumlah kategori produk dilarang | 12 kategori |
+| Asuransi dari SiCepat Ekspres sendiri | TIDAK ADA |
+
+## Pertanyaan diagnosa
+
+1. **Member serahkan paket Next Day (BEST) ke kurir jam 17.30 WIB, kapan sampainya?** LUSA, bukan besok — karena udah lewat cut-off time pk. 17.00 WIB.
+2. **Member drop-off paket ke Mitra SiCepat jam 19.00 WIB, ke-scan hari itu juga?** GAK — batas drop-off via Mitra SiCepat cuma sampai pk. 18.00 WIB; beda dengan gerai resmi SiCepat yang batasnya lebih longgar (pk. 20.00 WIB).
+3. **Member kirim paket 42cm x 15cm x 15cm, berat 5kg pakai SiCepat?** Dihitung VOLUMETRIK — karena salah satu sisinya (42cm) udah lewat ambang 40cm, meski beratnya di bawah 10kg.
+4. **Member mau asuransikan barang mahal pakai asuransi bawaan SiCepat Ekspres?** GAK BISA — SiCepat Ekspres GAK menyediakan asuransi sama sekali; pakai Asuransi Pengiriman Shopee sebagai gantinya.
+5. **Member kirim baterai/cairan/magnet pakai SiCepat Ekspres?** GAK BISA — SiCepat Ekspres GAK menerima pengiriman produk berbahaya sama sekali (beda dengan beberapa jasa kirim lain yang bisa asal ada opsi "Produk Berbahaya").
+6. **Member gak bisa proses pickup SiCepat, kenapa?** Cek alamat toko — pastikan gak pakai tanda baca strip (-) atau simbol lain, karena itu bisa bikin no. resi gak tampil dan kurir gak bisa datang.
+7. **Member kirim TV/kulkas pakai SiCepat Ekspres?** GAK BISA — elektronik besar (TV, kulkas, mesin cuci, laptop, playstation) dan barang berukuran besar termasuk kategori dilarang.

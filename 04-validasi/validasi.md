@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **707**
+- PERINGATAN: **702**
 
 ## Status entry
 
@@ -1218,21 +1218,16 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/36-sicepat-ekspres.md` · shp-pengiriman-036
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/sicepat-ekspres.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1329 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/37-spx-ambil-di-tempat.md` · shp-pengiriman-037
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/spx-ambil-di-tempat.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/38-spx-express.md` · shp-pengiriman-038
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/spx-express.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1319 kata — kemungkinan dua topik yang belum dipisah
+- 1830 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/39-standar-praktik-terbaik-pengemasan-produk-di-shopee.md` · shp-pengiriman-039
 
