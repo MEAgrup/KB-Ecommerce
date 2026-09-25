@@ -34,7 +34,7 @@ Anda dapat menggunakan fitur[ **Data Real-Time**](https://seller.shopee.co.id/da
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Bandingkan tren hari ini dengan hari sebelumnya untuk menganalisa tren penjualan pada waktu tertentu. Anda juga dapat memaksimalkan penjualan produk dengan menggunakan Iklan Shopee, diskon, voucher, atau promo lainnya melalui fitur-fitur[ **Pusat Promosi**](https://seller.shopee.co.id/portal/marketing).﻿﻿﻿﻿﻿﻿
 
@@ -83,7 +83,7 @@ Jawab pertanyaan Pembeli dengan segera untuk menghindari kehilangan penjualan.
 
 1\. Filter[ *chat*](https://seller.shopee.co.id/webchat/conversations)  yang belum dibaca untuk melacak *chat* yang belum dijawab.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Jika Anda tidak dapat menjawab *chat* dengan segera, pilih 'Pin Obrolan' agar *chat*  tersebut tetap berada di atas. Anda nantinya dapat memfilter dan melihat pesan yang disematkan agar dapat melacak *chat*  yang belum ditanggapi.
 

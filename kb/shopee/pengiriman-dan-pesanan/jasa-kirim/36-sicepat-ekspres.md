@@ -73,7 +73,7 @@ Untuk menjaga konsistensi layanan *pickup*, Anda perlu memenuhi kriteria berikut
 
 Cara hitung rata-rata pesanan harian SiCepat REG, SiCepat Halu, dan SiCepat BEST: 
 
-**ð Definisi**
+**📍 Definisi**
 
 **Jumlah pesanan bersih** adalah jumlah pesanan terbayar yang tidak termasuk:
 

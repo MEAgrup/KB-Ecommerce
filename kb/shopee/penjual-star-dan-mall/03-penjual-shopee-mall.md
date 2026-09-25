@@ -318,7 +318,7 @@ Persyaratan:
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 **Prinsipal**: Pemilik resmi suatu merek yang memberikan izin kepada distributor atau pihak lain untuk menjual dan mendistribusikan produknya.
 
@@ -611,7 +611,7 @@ Shopee memiliki 2 jenis toko Shopee Mall, yaitu:
 
   
 
-**ð Definisi** 
+**📍 Definisi** 
 
   - Nama *Brand*: Nama merek resmi. Anda harus memasukkan nama ini ke dalam nama toko meskipun sudah memiliki merek dagang di logo toko.
   - Nama Toko: Nama ini harus sesuai dengan nama yang sudah terdaftar resmi di[ Direktorat Jenderal Kekayaan Intelektual](https://www.dgip.go.id/).
@@ -775,7 +775,7 @@ Tipe variasi:
   - Variasi tunggal: Produk hanya memiliki 1 variasi dan Pembeli bisa memilih berdasarkan pilihan di variasi tersebut. Contoh: Topi dengan banyak pilihan warna dan model laptop dengan ukuran layar 13 inci dan 15 inci. 
   - 2 level variasi: Produk memiliki 2 variasi dan Pembeli bisa memilih dengan membandingkan pilihan yang ada pada 2 variasi tersebut. Contoh: Topi tersedia dalam berbagai warna dan ukuran serta iPhone dengan variasi memori dan warna.
 
-**ð¡ Tips**
+**💡 Tips**
 
   - Aktifkan 2 level variasi pada halaman produk untuk membantu Pembeli menentukan variasi yang diinginkan. 
 

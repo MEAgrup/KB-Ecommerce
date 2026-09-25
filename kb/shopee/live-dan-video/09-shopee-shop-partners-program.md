@@ -32,7 +32,7 @@ Program ini bertujuan memberikan berbagai macam dukungan dan keuntungan untuk me
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 *Advisory live streaming*: seseorang yang dapat membantu Anda menentukan ide maupun strategi promosi dalam Livestream.
 

@@ -105,7 +105,7 @@ Filter **Segera Balas** dan **Telat Balas** tersedia di aplikasi Shopee dan Webc
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pilih **Balas Sekarang** pada *pop-up* di bagian atas jendela *chat* Anda untuk menerapkan filter Segera Balas dan Telat Balas secara langsung.
 
@@ -312,7 +312,7 @@ Pembeli mungkin meminta Anda untuk mengirimkan lebih banyak foto/video produk ya
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Pastikan Anda mengirim[ foto/video berkualitas tinggi](https://seller.shopee.co.id/edu/article/350) yang menunjukkan produk Anda dengan jelas. Kirimkan foto/video produk Anda dari berbagai sudut atau tunjukkan cara menggunakan produk Anda.
   - Tambahkan foto/video produk yang diminta Pembeli ke dalam daftar produk yang relevan agar Pembeli lain yang mengunjungi toko Anda juga dapat memperoleh lebih lanjut tentang produk Anda.
@@ -397,7 +397,7 @@ Saat *chat* dengan Pembeli, Anda dapat merekomendasikan produk yang mungkin mena
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Berikut produk rekomendasi yang dapat Anda berikan:
 
@@ -453,7 +453,7 @@ Dalam Fitur Chat Penjual, Anda dapat mengirim[ voucher produk](https://seller.sh
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk membangun loyalitas Pembeli, Anda dapat mengirimkan voucher pada Pembeli agar mereka kembali berbelanja di toko Anda.
 
@@ -610,7 +610,7 @@ Memilih *tab* **Lainnya \>** dapat memberikan Anda lebih banyak data tentang Cha
 
 Saat *chat* pada Webchat Shopee, ada saatnya Anda akan menerima pesan yang tidak pantas atau menyinggung. Untuk kenyamanan Anda, Anda dapat melaporkan Pembeli tersebut.
 
-ð **Definisi**
+📍 **Definisi**
 
 **Laporkan**: Saat Anda melaporkan Pembeli, Shopee akan mendapatkan notifikasi untuk melakukan investigasi dan mengambil tindakan yang diperlukan pada Pembeli tersebut, jika diperlukan.
 

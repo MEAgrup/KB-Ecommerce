@@ -40,7 +40,7 @@ Untuk menjaga konsistensi layanan *pickup* pada pengiriman ID Express, berikut k
 
 Cara hitung rata-rata pesanan harian ID Express: 
 
-**ð Definisi**
+**📍 Definisi**
 
 Jumlah pesanan bersih adalah jumlah pesanan terbayar yang tidak termasuk:
 

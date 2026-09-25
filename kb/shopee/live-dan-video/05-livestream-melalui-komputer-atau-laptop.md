@@ -45,7 +45,7 @@ Setelah mendapatkan akses, Anda bisa memulai Livestream melalui[ Portal Web Shop
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Anda dapat melakukan uji coba Livestream dengan fitur **Buat Tes Streaming** di Seller Centre saat Livestream melalui komputer atau laptop. Fitur ini memungkinkan Anda untuk mencoba Livestream terlebih dahulu, mencoba fitur-fitur, dan memastikan semuanya berjalan lancar sebelum memulai Livestream.
 

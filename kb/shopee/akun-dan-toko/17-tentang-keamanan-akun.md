@@ -75,7 +75,7 @@ Anda dapat mengatur metode verifikasi melalui halaman **Pengaturan Akun** di hal
 
 Log in ke Seller Centre, lalu pilih **Pengaturan Akun** di halaman **Pengaturan Umum** untuk menambahkan atau meng-*update* no. telepon, email, dan *password*.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Berikut cara membuat *password* yang kuat:
 
@@ -146,7 +146,7 @@ Melalui **Seller Centre**
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk menggunakan metode verifikasi tambahan, pastikan Anda sudah[ meng-*update* no. handphone](https://seller.shopee.co.id/edu/article/3265) dan[ meng-*update* email](https://seller.shopee.co.id/edu/article/3237).
 
@@ -166,7 +166,7 @@ Adanya teknologi canggih di kehidupan masa kini memudahkan hidup kita semua. Nam
 
 Mohon berhati-hati apabila ada bentuk komunikasi yang mengatasnamakan Shopee karena tidak semua komunikasi berasal dari kami. Demi menjaga keamanan akun dan data Anda, perhatikan ciri-ciri komunikasi palsu sebagai berikut:
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Untuk melihat tujuan *link* yang sebenarnya, arahkan kursor ke *link* di desktop atau sentuh dan tahan *link* jika Anda menggunakan *handphone*. Bahkan *link* seperti https://shopee.co.id/ bisa menyembunyikan *link* berbahaya dan membawa Anda ke situs palsu. Apabila Anda merasa tidak yakin, jangan buka *link* tersebut.
   - Beberapa email dan alamat situs palsu terlihat sangat mirip dengan yang resmi di Shopee. Ketahui cara membedakan situs palsu dari alamat email dan situs Shopee yang asli:
@@ -196,7 +196,7 @@ Informasi pribadi Anda meliputi:
   
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Jangan berikan informasi kode atau *link* verifikasi Anda ke pihak mana pun, termasuk ke Tim Shopee. Tim Shopee tidak akan informasi pribadi Anda.
   - Masukkan kode atau klik *link* verifikasi hanya saat menerima arahan dari situs atau aplikasi Shopee.

@@ -154,7 +154,7 @@ Anda juga bisa mempelajari lebih lanjut tentang[ mekanisme perhitungan Persentas
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Berikut adalah beberapa tips yang disarankan agar Anda bisa menjadi Penjual yang responsif:
 
@@ -199,7 +199,7 @@ Berikut adalah beberapa praktik yang disarankan untuk meningkatkan performa Pela
 
 Ikuti juga 3 praktik di bawah ini untuk memberikan balasan berkualitas kepada Pembeli Anda melalui **Fitur Chat Penjual**.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Gunakan fitur Asisten Chat -[ FAQ](https://seller.shopee.co.id/edu/courseDetail/47?lessonId=2193) untuk menyiapkan jawaban yang telah disimpan sebelumnya dan akan dikirim ke Pembeli melalui *chat* secara otomatis.
 

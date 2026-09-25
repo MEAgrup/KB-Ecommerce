@@ -138,7 +138,7 @@ Anda dapat memeriksa Tingkat Pesanan Tidak Terselesaikan dan Tingkat Keterlambat
 
 Anda dapat mengacu pada informasi performa toko Anda di sini untuk mengurangi jumlah pesanan terlambat, dibatalkan, dan dikembalikan.
 
-**ð¡ Tips**
+**💡 Tips**
 
 Arahkan kursor ke simbol "**?**" untuk mempelajari lebih lanjut tentang setiap pelanggaran produk.
 

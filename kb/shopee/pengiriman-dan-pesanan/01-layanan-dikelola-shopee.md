@@ -155,7 +155,7 @@ Untuk menentukan biaya layanan yang didapatkan, Anda perlu mengisi formulir pend
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Biaya** **inbound**: biaya penanganan produk yang masuk ke Gudang Shopee.
   - **Produk** **virtual bundling**: Penggabungan beberapa produk yang berbeda atau satu produk yang sama dengan jumlah \>1 buah untuk dijual di *link* produk yang sama. Penggabungan dilakukan secara virtual melalui sistem internal Shopee atau Seller Centre tanpa perlu melakukan penggabungan fisik di Gudang Shopee.

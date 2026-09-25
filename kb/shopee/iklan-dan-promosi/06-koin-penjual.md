@@ -52,7 +52,7 @@ Anda dapat melihat jumlah yang **Dapat Dipakai** serta **Koin Penjual yang Dikun
 
   
 
-ð**Definisi**
+📍**Definisi**
 
 **Koin Penjual yang Dikunci untuk Promosi**: Jumlah Koin Penjual yang disediakan untuk promosi toko*,* tetapi belum digunakan.
 

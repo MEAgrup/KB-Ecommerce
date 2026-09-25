@@ -67,7 +67,7 @@ Semua Penjual Shopee diharapkan dapat memenuhi semua panduan tersebut, sehingga 
 
 Pelanggaran produk dapat dilihat dengan mengunjungi Seller Centre \> pilih **Kesehatan Toko** dan periksa rinciannya di kategori **Produk yang Dilarang**
 
-**ð¡ Tips**
+**💡 Tips**
 
 Arahkan kursor ke simbol "?" untuk mempelajari lebih lanjut tentang setiap pelanggaran produk.
 

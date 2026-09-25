@@ -59,7 +59,7 @@ Share Berhadiah dapat diatur saat sesi Livestream berlangsung dengan cara beriku
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Untuk mempermudah dalam mengatur **Tipe Hadiah** pada fitur Share Berhadiah, perhatikan beberapa hal berikut:
 
@@ -221,7 +221,7 @@ Dalam **Mode Lelang Jari Tercepat**, Pemenang akan dipilih berdasarkan sepuluh P
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
   - Untuk meningkatkan penjualan dengan promosi yang ditawarkan dengan jumlah lebih banyak, atur Mode Lelang menjadi **Jari Tercepat** untuk mendapatkan sepuluh pemenang.
   - Jika menggunakan fitur Lelang untuk promosi eksklusif, cantumkan nama produk sebagai **Judul Lelang** dan masukkan harganya jika berlaku, agar Penonton tahu produk yang sedang dilelang.

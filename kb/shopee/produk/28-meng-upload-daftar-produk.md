@@ -65,7 +65,7 @@ Jika Anda pilih rasio **Foto 1:1**, maka foto produk pertama yang Anda *upload* 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Anda dapat menarik lebih banyak Pembeli dengan[ meng-*upload* foto berkualitas tinggi](https://seller.shopee.co.id/edu/article/350) dan[ meng-*upload* foto produk dengan rasio tampilan 3:4](https://seller.shopee.co.id/edu/article/17330) untuk menunjukkan produk dengan jelas.
   - Terus[ tingkatkan kualitas video pada produk Anda](https://seller.shopee.co.id/edu/article/6919) agar dapat tersinkronisasi secara otomatis ke Shopee Video.
@@ -76,7 +76,7 @@ Jika Anda pilih rasio **Foto 1:1**, maka foto produk pertama yang Anda *upload* 
 
 Memiliki nama produk yang relevan dan kategori yang tepat akan mempermudah Pembeli dalam menemukan produk Anda selama pencarian. Masukkan nama produk dan pilih kategori yang sesuai dengan produk Anda. Anda dapat melihat rekomendasi kategori berdasarkan foto produk dan nama produk yang Anda masukkan. Anda dapat mempelajari Pelajari lebih lanjut tentang[ cara memberikan nama produk yang terstruktur](https://seller.shopee.co.id/edu/article/1906).
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Jelajahi[ panduan kategori produk Shopee](https://seller.shopee.co.id/edu/category-guide/) dan cari tahu kategori yang cocok sesuai untuk produk Anda.
   - Anda dapat menerapkan ketentuan penamaan produk berikut:
@@ -95,7 +95,7 @@ Merek + Tipe dan Spesifikasi + Model.
 
 Memberikan deskripsi produk yang terperinci memungkinkan untuk mengurangi pertanyaan Pembeli dan dapat membantu Pembeli melakukan berbelanja dengan lebih percaya diri. Anda juga dapat menjelaskan manfaat terbaik produk Anda pada **Deskripsi Produk**. Pelajari[ cara menulis deskripsi produk yang informatif](https://seller.shopee.co.id/edu/article/1911).
 
-ð¡ **Tips**
+💡 **Tips**
 
 Deskripsi produk yang lengkap biasanya menuliskan spesifikasi, fitur, dan keuntungan produk untuk membantu Pembeli dalam melakukan pembelian. Pelajari lebih lanjut tentang[ Cara Meningkatkan Kualitas Daftar Produk](https://seller.shopee.co.id/edu/article/6924).
 
@@ -122,7 +122,7 @@ Pastikan informasi merek Anda telah sesuai saat meng-*upload* daftar produk. Apa
   
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pembeli sering memasukkan atribut dalam kata pencarian mereka. Mesin pencarian Shopee akan mencocokkan nama, kategori, atribut, dan informasi lain tentang produk untuk menunjukkan hasil pencarian yang paling relevan.
 
@@ -172,7 +172,7 @@ Jika produk Anda memiliki 2 jenis variasi, pilih **+ Tambah Variasi 2** untuk me
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Saat Anda pilih **Aktifkan Variasi** atau klik pada kotak tersebut, menu *dropdown* akan tampil. Menu ini berisi daftar nama variasi yang biasa dimasukkan oleh Penjual di Shopee. Memilih nama dari menu ini akan membantu produk Anda muncul di lebih banyak pencarian
 

@@ -23,7 +23,7 @@ Shopee-Certified Enablers Program merupakan program penghargaan bagi para Enable
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 **Enabler**: Mitra yang mendukung Penjual Shopee dengan memberikan layanan operasional dan/atau komersial seperti jasa pergudangan, jasa penyelesaian pesanan, jasa operasional toko, jasa marketing/pemasaran, jasa pelayanan Pembeli, dan lainnya.
 

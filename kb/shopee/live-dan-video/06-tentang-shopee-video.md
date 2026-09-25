@@ -58,7 +58,7 @@ Pastikan konten yang di-*upload* selalu terkait dengan produk, cara penggunaan, 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda juga dapat menghubungkan video dari akun Instagram Anda ke Shopee Video sehingga Anda tidak perlu meng-*upload* ulang konten di aplikasi yang berbeda. Video dari akun Instagram Anda akan diposting di Shopee Video pada pk. 02:00 WIB setiap hari. Video yang diposting langsung di Shopee Video berpeluang lebih tinggi untuk dilihat lebih banyak Pembeli.
 
@@ -68,7 +68,7 @@ Anda juga dapat menghubungkan video dari akun Instagram Anda ke Shopee Video seh
 
 Anda dapat berinteraksi dengan Pembeli melalui kolom komentar.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat menarik perhatian dan meningkatkan interaksi Pembeli dengan menambahkan komentar pada video Anda. Komentar yang Anda tambahkan akan tampil pada bagian paling atas baris kolom Komentar. Komentar dapat berupa ajakan kepada Pembeli untuk berinteraksi, seperti "Berikan komentarmu jika telah membeli produk ini\!" dan sebagainya.
 
@@ -129,7 +129,7 @@ Cek ilustrasi *exposure* video yang akan Anda dapatkan:
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Tingkatkan performa video dan dapatkan Golden Tick di konten Anda untuk menarik lebih banyak keuntungan. Pelajari lebih lanjut tentang[ Apa itu Golden Tick?](https://seller.shopee.co.id/edu/article/24881).
 
@@ -157,7 +157,7 @@ Di halaman **Untuk Anda**, Anda dapat menonton konten berdasarkan minat. Untuk m
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat mempelajari konten terbaik dan mendapatkan inspirasi dari **Peringkat Kreator Teratas** dan **Inspirasi Mingguan**.
 

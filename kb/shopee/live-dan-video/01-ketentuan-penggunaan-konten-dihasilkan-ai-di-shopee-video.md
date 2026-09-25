@@ -81,7 +81,7 @@ Jika kebijakan ini dilanggar, Shopee dapat mengambil tindakan terhadap konten at
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Selain ketentuan diatas, hindari hal berikut untuk menjaga standar kualitas konten di Shopee Video:
 

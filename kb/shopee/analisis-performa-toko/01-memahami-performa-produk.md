@@ -44,7 +44,7 @@ Fitur pada halaman Tinjauan Produk:
   - **Sumber Kunjungan** menunjukkan informasi asal penjualan dan kontribusi produk melalui 4 *channel*.
   - **Produk** mengurutkan 10 produk teratas di tokomu berdasarkan metrik tertentu. Untuk melihat rincian performa, pilih **Lainnya** untuk diarahkan ke halaman Performa Produk.
 
-**ð¡Tips**
+**💡Tips**
 
   - Maksimalkan potensi produk unggulan Anda dengan beriklan di Shopee atau berikan penawaran khusus. Pelajari cara menggunakan[ fitur untuk meningkatkan konversi](https://seller.shopee.co.id/edu/courseDetail/62?lessonId=86).
   - Tingkatkan kunjungan produk dengan mempercantik halaman toko (seperti membuat *banner* toko dengan foto dan desain menarik yang sesuai dengan warna *brand* toko Anda) sebagai salah satu cara untuk mempromosikan toko dan produk Anda. Pelajari lebih lanjut mengenai[ Dekorasi Toko](https://seller.shopee.co.id/edu/article/7323).
@@ -114,7 +114,7 @@ Pilih kriteria yang ingin Anda analisa.
 
 Menunjukkan produk sesuai dengan kriteria yang dipilih serta mengurutkan produk berdasarkan kriteria tertentu.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat menggunakan metrik performa produk di halaman **Produk Saya** untuk melihat data jangka pendek yang lebih sederhana.
 
@@ -142,7 +142,7 @@ Untuk meng-*download* data performa produk, pilih periode waktu yang ingin diana
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Direkomendasikan untuk menggunakan data 30 hari terakhir untuk tinjauan jangka pendek yang komprehensif.
 
@@ -160,7 +160,7 @@ Kunjungan yang tinggi menunjukkan bahwa Pembeli tertarik dengan produk Anda. Den
 
 Tingkat Konversi adalah jumlah Pembeli yang membayar pesanan dibagi dengan jumlah pengunjung selama periode waktu yang dipilih.
 
-**ð¡ Tips**
+**💡 Tips**
 
 Tingkat Konversi yang baik bervariasi, tergantung kategori produk dan dapat berkisar di antara 0 - 10%. Penjual yang penjualannya sukses sering menggunakan strategi terbaik untuk mencapai Tingkat Konversi yang lebih tinggi.
 

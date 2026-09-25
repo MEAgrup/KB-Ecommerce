@@ -74,7 +74,7 @@ Anda harus menominasikan Voucher dengan ketentuan berikut:
 
 Lihat daftar[ Voucher Reward Koin Shopee yang akan datang](https://seller.shopee.co.id/portal/web-seller-voucher/campaign/) untuk memilih dan menyesuaikan dengan Voucher Toko yang Anda miliki.
 
-**ð¡ Tips**
+**💡 Tips**
 
 Tingkatkan peluang nominasi Anda disetujui dengan menjaga poin penalti dan[ performa toko](https://seller.shopee.co.id/portal/accounthealth/home) Anda.
 
@@ -171,7 +171,7 @@ Jika Diskon yang Anda masukkan ditolak oleh sistem, kemungkinan Diskon tersebut 
 
 Anda tidak dapat mengubah jumlah kuota Voucher setelah Anda menominasikan Voucher tersebut. Pastikan Anda menetapkan jumlah kuota Voucher yang sesuai.
 
-ð **Definisi**
+📍 **Definisi**
 
 **Promo**: *Event* utama dimana Anda akan menominasikan Voucher Toko Anda ke dalamnya.
 

@@ -170,7 +170,7 @@ Atur mekanisme perolehan poin pada program Brand Membership Anda dengan pilih **
 
   
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Aktifkan pengaturan Bonus pendaftaran untuk menawarkan poin gratis dan menarik lebih banyak Pembeli untuk bergabung Brand Membership Anda.
 
@@ -218,7 +218,7 @@ Anda dapat mengubah dan mengatur ulang komponen seperti bagian **Tukarkan Produk
 
 
 
-**ð¡ Tips** 
+**💡 Tips** 
 
   - Gunakan tampilan dan nuansa yang konsisten di halaman toko Anda di Shopee maupun di *platform* lainnya.
   - Perbarui tampilan sesering mungkin untuk mengikuti perayaan yang berbeda, seperti Ramadan dan Natal, namun tetap mempertahankan tema toko secara keseluruhan.
@@ -253,7 +253,7 @@ Member dapat mengakses Voucher Eksklusif yang telah Anda buat di bagian Voucher 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk meningkatkan daya tarik voucher Anda, lihat tabel berikut untuk persentase diskon voucher yang direkomendasikan berdasarkan kategori. Data ini menunjukkan bahwa Pembeli lebih cenderung menggunakan voucher ketika diskon ditetapkan dalam rentang berikut:
 
@@ -394,7 +394,7 @@ Pilih **Rincian** di bawah kolom **Aksi** untuk melihat informasi selengkapnya t
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Menawarkan keuntungan yang lebih baik di tingkat yang lebih tinggi adalah cara untuk menghargai loyalitas Pembeli dan mendorong member dengan tingkat yang lebih rendah untuk berbelanja lebih banyak agar dapat menikmati keuntungan dari tingkat yang lebih tinggi.
   - Anda dianjurkan untuk menawarkan keuntungan yang lebih menarik selama periode promo seperti Super Brand Day ketika kunjungan lebih tinggi.

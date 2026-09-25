@@ -100,7 +100,7 @@ Performa Penjual diukur secara adil dan transparan. Anda harus memenuhi target d
 
   
 
-**ð Definisi**
+**📍 Definisi**
 
   - **Pembeli Berbeda 30 Hari Terakhir**: Jumlah Pembeli dengan pesanan dibayar dalam 30 hari terakhir, tidak termasuk Pembeli dengan pesanan dibatalkan/dikembalikan.
   - **Transaksi Berhasil 30 Hari Terakhir**: Jumlah transaksi berhasil dalam 30 hari terakhir, tidak termasuk pesanan yang dibatalkan/dikembalikan.
@@ -217,7 +217,7 @@ Pastikan semua rincian, seperti nomor KTP dan foto Anda terlihat dengan jelas da
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Periksa halaman **Kesehatan Toko** pada Seller Centre atau **Penjual Star** pada aplikasi Shopee Anda secara berkala setelah Anda mengirimkan pengajuan KTP untuk melihat status verifikasi KTP (disetujui/ditolak).
 

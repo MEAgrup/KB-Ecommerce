@@ -62,7 +62,7 @@ Sebagai contoh, jika Anda memiliki penawaran menarik untuk produk kecantikan, no
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Tingkatkan kemungkinan nominasi voucher Anda disetujui dengan menjaga poin penalti dan[ Kesehatan Toko](https://seller.shopee.co.id/portal/accounthealth/home) Anda. Beberapa program Promo Voucher hanya memperbolehkan Penjual dengan poin penalti atau performa toko tertentu untuk berpartisipasi.
 
@@ -134,7 +134,7 @@ Pastikan Anda memeriksa kriteria untuk setiap sesi, bukan hanya kriteria Promo V
 
 Voucher Anda harus disetujui terlebih dahulu oleh Shopee sebelum dapat mengikuti program Promo Voucher. Dengan *filter* Promo Produk & Voucher Shopee dan Promo Voucher, Anda dapat menominasikan voucher yang telah dibuat untuk dinominasikan dalam sesi[ **Promo Produk & Voucher Shopee**](https://seller.shopee.co.id/portal/marketing/cmt/campaign?tab=1&type=CAMPAIGN_SCENE_BIG_CAMPAIGN) dan[ **Promo Voucher**](https://seller.shopee.co.id/portal/web-seller-voucher/campaign/) melalui menu **Pusat Promosi** di Seller Centre.
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Promo Produk & Voucher Shopee**: kampanye dengan sesi nominasi produk & voucher.
   - **Promo Voucher**: kampanye yang terdapat sesi nominasi voucher saja, contoh Flash Voucher.
@@ -163,7 +163,7 @@ Anda tidak dapat mengubah jumlah kuota voucher setelah Anda menominasikan vouche
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Promo**: Event utama di mana Anda akan menominasikan Voucher Toko Anda ke dalamnya.
   - **Sesi**: Slot yang tersedia di dalam promo dengan jadwal tertentu.
@@ -241,7 +241,7 @@ Berikut adalah status untuk voucher yang Direkomendasikan Shopee dan aksi yang d
       
       - Lihat - Setelah Anda mengubah voucher yang direkomendasikan, perubahan Anda mungkin ditolak oleh Shopee. Jika ini terjadi, Anda hanya dapat meninjau rincian voucher, tetapi Anda tidak dapat menominasikan kembali voucher yang sama.
 
-ð **Definisi**
+📍 **Definisi**
 
 Direkomendasikan Shopee merupakan Voucher yang direkomendasikan oleh Shopee dan memerlukan persetujuan Anda untuk berpartisipasi dalam Promo Voucher.
 

@@ -530,7 +530,7 @@ Cek tabel di bawah ini untuk mengetahui zona pengiriman di negara Thailand.
 Lihat[ daftar biaya pengiriman Program Ekspor Shopee FLEXI Thailand](https://deo.shopeemobile.com/shopee/cms_cdn_bucket/86fc3c086a3c4eedb6a270ea6561e57c_Rincian%20Biaya%20Pengiriman%20Ekspor%20Shopee%20FLEXI%20%20-%20TH.pdf) lebih lengkap hingga 30 kg.
 
   
-**ð Definisi**
+**📍 Definisi**
 
   - **Total Biaya Pengiriman** adalah total biaya pengiriman yang sebenarnya dari alamat Penjual ke alamat Pembeli.
   - **Biaya Pengiriman Pembeli** adalah biaya pengiriman yang dibayarkan oleh Pembeli untuk pengiriman dari lokasi transit ke alamat Pembeli.
@@ -638,7 +638,7 @@ Pada halaman Tinjau Harga Produk, Anda dapat melakukan:
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Atur harga produk Anda secara mandiri dengan memilih **Cek Harga dan Tampilkan** agar Anda dapat meninjau dan menyesuaikan harga jual toko luar negeri dengan biaya administrasi yang berlaku di Program Ekspor Shopee FLEXI sebelum di *upload*.
 
@@ -650,7 +650,7 @@ Jika terdapat produk yang termasuk dalam[ produk yang dilarang dijual di Shopee]
 
 Setelah produk berhasil di-*upload*, Anda dapat melihat status produk di halaman **Produk Saya**.
 
-**ð¡ Tips**
+**💡 Tips**
 
 Anda dapat lihat pada kolom Analisis Produk untuk mengetahui informasi yang wajib dilengkapi pada setiap produk agar rekomendasi produk semakin optimal dan penjualan meningkat.
 
@@ -804,7 +804,7 @@ Anda dapat melihat penghasilan dan melakukan penarikan dana untuk pesanan dari P
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Pending**: dana penghasilan untuk pesanan yang belum selesai.
   - **Sudah Dilepas**: dana penghasilan dari pesanan yang sudah selesai.
@@ -1179,7 +1179,7 @@ Tingkat Pengembalian Barang/Dana yang tinggi dapat menyebabkan Toko Luar Negeri 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk memastikan Pembeli menerima pesanan dalam kondisi baik serta mengurangi risiko Pengembalian Barang/Dana, Penjual diwajibkan menggunakan bahan dan metode pengemasan yang sesuai. Pelajari lebih lanjut mengenai[ cara mengemas pesanan dengan benar](https://seller.shopee.co.id/edu/article/7099#:~:text=Pilih%20bahan%20kemasan%20yang%20tepat%20%26%20sesuai%20dengan%20jenis%20produk%20Anda.).
 

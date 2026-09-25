@@ -124,6 +124,6 @@ Mengidentifikasi pembatalan pesanan melalui laporan dapat membantu Anda meningka
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat melihat semua laporan yang telah Anda *export* dari halaman **Pengembalian/Pembatalan** dengan pilih[ **Laporan Toko**](https://seller.shopee.co.id/portal/settings/shop/reports/order).

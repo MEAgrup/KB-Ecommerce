@@ -18,9 +18,6 @@ sources:
 Untuk mendorong pertumbuhan toko, Shopee menyediakan komponen utama yaitu melengkapi kriteria dasar toko dan memaksimalkan program Penjual di Shopee. Penjual dengan performa terbaik cenderung memiliki kesamaan positif, yaitu secara aktif mengadopsi kedua komponen tersebut agar performa toko menjadi lebih optimal.
 
 
-18-11-2025
-
-Untuk mendorong pertumbuhan toko, Shopee menyediakan komponen utama yaitu melengkapi kriteria dasar toko dan memaksimalkan program Penjual di Shopee. Penjual dengan performa terbaik cenderung memiliki kesamaan positif, yaitu secara aktif mengadopsi kedua komponen tersebut agar performa toko menjadi lebih optimal.
 
 Informasi dalam artikel ini akan membantu Anda dalam:
 
@@ -34,7 +31,7 @@ Saat memulai dan menjalani usaha Anda di Shopee, pastikan untuk memiliki fondasi
 
 Berikut adalah kriteria-kriteria dasar toko yang dapat Anda optimalkan: 
 
-**ð¡ Tips**
+**💡 Tips**
 
 Penjual yang melengkapi seluruh kriteria dasar toko umumnya memiliki performa penjualan yang lebih stabil dan tingkat konversi lebih tinggi dibandingkan toko yang belum melengkapinya.
 
@@ -52,6 +49,6 @@ Berikut adalah beberapa program yang dapat Anda ikuti untuk memaksimalkan pertum
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Pastikan untuk memanfaatkan setiap program promosi yang disediakan Shopee dengan kriteria dasar yang lengkap agar peluang pertumbuhan toko menjadi lebih maksimal.

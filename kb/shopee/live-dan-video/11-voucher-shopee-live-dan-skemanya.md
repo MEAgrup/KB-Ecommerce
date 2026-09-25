@@ -73,7 +73,7 @@ Berikut rincian skema Voucher Shopee Live:
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
   - Pastikan Anda mengumumkan Voucher Diskon dan Gratis Ongkir XTRA Shopee Live ke media sosial dan Penonton di sesi Livestream.
   - Dapatkan lebih banyak voucher Shopee Live dan keuntungannya dengan[ bergabung di Shopee Live XTRA](https://seller.shopee.co.id/edu/article/19969).
@@ -174,7 +174,7 @@ Berikut keuntungan bagi Penjual yang bergabung dalam program Shopee Live XTRA.
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pastikan Anda menampilkan Voucher Shopee Live XTRA melalui keranjang Livestream. Pelajari lebih lanjut mengenai[ Membuat dan Menampilkan Voucher di Shopee Live](https://seller.shopee.co.id/edu/article/19879).
 

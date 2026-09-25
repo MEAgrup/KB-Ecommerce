@@ -80,7 +80,7 @@ Jika lewat dari keenam batas waktu yang disebutkan di atas, maka pengembalian da
 
   
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Untuk meningkatkan efisiensi proses pengiriman, Anda bisa mengemas produk terlaris Anda terlebih dahulu sebelum masa promosi.
 
@@ -102,7 +102,7 @@ Anda dapat melacak jumlah stok yang Anda miliki untuk setiap produk di bawah kol
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Aktifkan[ **Fitur Mode Libur**](https://seller.shopee.co.id/edu/courseDetail/39?lessonId=96) di[ **Pengaturan Toko**](https://seller.shopee.co.id/portal/all-settings/vacation-mode) jika Anda sedang bepergian untuk menghindari keterlambatan pengiriman & pesanan tidak terselesaikan.
 
@@ -154,7 +154,7 @@ Anda dapat meng-*download* daftar pesanan per produk yang harus segera diproses 
   
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda juga bisa melakukan pengemasan dan pengaturan pengiriman secara massal ketika terjadi lonjakan pesanan, di mana terdapat banyak pesanan yang harus segera dikemas dan dikirim.
 

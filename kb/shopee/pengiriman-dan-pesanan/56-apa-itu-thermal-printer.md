@@ -15,7 +15,7 @@ sources:
 # Apa Itu Thermal Printer?
 
 ## Ringkasan
-ð **Definisi**
+📍 **Definisi**
 
 
 

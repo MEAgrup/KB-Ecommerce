@@ -19,7 +19,7 @@ sources:
 
 
 
-ð **Definisi**
+📍 **Definisi**
 
 Jasa kirim: Penyedia layanan logistik yang bekerja sama dengan Shopee untuk mengirimkan paket Anda kepada Pembeli.
 

@@ -89,7 +89,7 @@ Anda dapat membuat akun setidaknya 14 hari kalender sebelum menjalankan Iklan Me
 
   
 
-ð¡ **Tips** 
+💡 **Tips** 
 
 Disarankan hanya memilih salah satu cara untuk menggunakan Iklan Meta CPAS agar hasil iklan lebih optimal.
 
@@ -115,7 +115,7 @@ Untuk mendapatkan performa iklan yang lebih optimal, disarankan:
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Menu **Pratinjau** menunjukkan bagaimana iklan Anda akan muncul di Facebook dan Instagram, pastikan nama produk akurat untuk memberikan informasi jelas ke Pembeli. Pelajari[ Cara Meningkatkan Kualitas Daftar Produk](https://seller.shopee.co.id/edu/article/6924) untuk membantu meningkatkan *exposure* produk.
 
@@ -287,7 +287,7 @@ c. Tombol **Go Live** harus ditekan dari video yang sama. Jika terlambat lebih d
 
   
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Berikut beberapa tips pengaturan Live Facebook melalui Ads Manager yang dapat membantu Anda dalam mengoptimalkan performa iklan dan memastikan sesi Livestream berjalan lebih efektif sesuai dengan tujuan kampanye.
 

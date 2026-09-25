@@ -49,7 +49,7 @@ Selain menghindari Poin Penalti, penting juga untuk memastikan[ kesehatan toko](
 
   
 
-**ð Definisi**
+**📍 Definisi**
 
   - Tingkat Pesanan Tidak Terselesaikan: Persentase pesanan (dari total pesanan) yang dibatalkan atau dikembalikan dalam 7 hari karena kesalahan Penjual.
   - Tingkat Keterlambatan Pengiriman: Persentase pesanan (dari total pesanan) yang terlambat dikirimkan ke jasa kirim melewati batas waktu pengiriman yang ditampilkan pada rincian produk dalam 7 hari.

@@ -472,7 +472,7 @@ Berikut dampak yang diterima Penjual jika toko luar negeri dikenakan poin penalt
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Stok produk toko Anda di luar negeri yang ditampilkan adalah stok toko yang sama dengan stok produk toko Anda di Indonesia. Jika Anda mengubah stok produk di toko Anda di Indonesia, maka stok produk di toko luar negeri akan mengikuti perubahan tersebut.
 

@@ -97,7 +97,7 @@ Berikut adalah rincian kontribusi pendanaan harga promosi dari Shopee dan Penjua
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Kampanye Reguler**: Kampanye promosi yang berlangsung pada hari biasa di luar periode kampanye utama atau *peak day*.
   - **Kampanye Puncak**: Kampanye promosi yang berlangsung pada momen spesial, seperti *VIP Day* (tanggal 15), *Payday* (tanggal 25), *Double Date*, dan kampanye besar lainnya.
@@ -217,7 +217,7 @@ Berikut adalah contoh perhitungan untuk program Promosi VIP:
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Harga Saat Ini** digunakan sebagai referensi harga sebelum diskon dan tidak menjadi dasar perhitungan diskon Penjual dan Shopee.
   - **Harga Terendah dalam 30 hari terakhir digunakan** sebagai dasar perhitungan diskon dari Penjual dan Shopee.

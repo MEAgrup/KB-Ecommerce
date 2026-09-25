@@ -19,7 +19,7 @@ sources:
 
 
 
-ð **Definisi**
+📍 **Definisi**
 
 Produk digital dan jasa mengacu pada produk tidak berwujud yang tersedia dalam bentuk digital. Contohnya seperti pulsa, e-voucher, tiket elektronik, dll.
 
@@ -45,7 +45,7 @@ Memberikan penjelasan yang akurat dalam daftar produk digital dan jasa Anda, aka
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pastikan Anda meng-*upload* produk digital dan jasa ke dalam kategori/sub-kategori yang tepat yaitu **Tiket, Voucher, & Layanan**.
 

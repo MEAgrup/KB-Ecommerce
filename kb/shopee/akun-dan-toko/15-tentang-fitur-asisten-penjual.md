@@ -81,7 +81,7 @@ Fitur Asisten Penjual secara otomatis akan menawarkan rekomendasi fitur atau pro
 
 Anda akan mendapatkan notifikasi dari fitur Asisten Penjual terkait rekomendasi fitur atau program Shopee.
 
-**ð¡ Tips**
+**💡 Tips**
 
 Di Asisten Penjual, Anda juga dapat membuat[ Iklan Shopee](https://seller.shopee.co.id/edu/courseDetail/794?lessonId=21) dan mengaturnya langsung di kolom *chat* dengan memasukkan instruksi yang jelas dan tepat.
 

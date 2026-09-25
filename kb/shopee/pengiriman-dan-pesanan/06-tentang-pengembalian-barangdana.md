@@ -161,7 +161,7 @@ Jika barang hilang/rusak saat pengembalian barang dari Pembeli ke Penjual, maka 
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 Periode *grey-out*: Periode di mana tombol "**Ajukan Banding**" tidak bisa dipilih untuk sementara waktu. Periode ini berlangsung sejak Pembeli mengirimkan pengembalian pesanan ke Penjual hingga estimasi tanggal pesanan pengembalian tiba.
 

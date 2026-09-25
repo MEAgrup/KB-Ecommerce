@@ -188,7 +188,7 @@ Berikut adalah cara untuk menambah Stok Tersimpan untuk promo Harga Spesial Live
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 Stok Tersimpan adalah jumlah stok produk khusus untuk **Harga Spesial Live** saat sesi Livestream.
 

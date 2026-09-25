@@ -169,7 +169,7 @@ Informasi lebih lengkap terkait[ Perhitungan Berat Produk untuk Menentukan Ongko
   
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Produk dengan variasi yang memiliki berat atau ukuran paket yang berbeda, kemungkinan memiliki biaya ongkos kirim yang berbeda. Untuk memastikan bahwa biaya ongkos kirim dihitung secara akurat dan benar,[ aktifkan *toggle* untuk **Berat & Dimensi berbeda untuk tiap variasi**](https://seller.shopee.co.id/edu/article/20933), lalu masukkan berat dan ukuran paket setiap variasi secara terpisah.
 

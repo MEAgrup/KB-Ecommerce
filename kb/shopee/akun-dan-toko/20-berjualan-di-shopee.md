@@ -110,7 +110,7 @@ Daftarkan toko Anda dengan pilih[ Mulai Jual](https://shopee.co.id/seller/signup
 
 4\. Selamat\! Anda sudah bisa berjualan di Shopee.
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Agar toko Anda mudah ditemukan, ubah username Anda dengan username yang mudah diingat oleh Pembeli. Pelajari lebih lanjut tentang[ cara meng-*update* username](https://seller.shopee.co.id/edu/article/6434).
   - Pastikan Anda meng-*upload* produk dengan benar mengikuti[ langkah-langkah meng-*upload* produk dan memilih kategori yang tepat](https://seller.shopee.co.id/edu/article/5413).

@@ -134,7 +134,7 @@ Angka yang tampil di *tab* **Perlu Dikirim** adalah total pesanan yang perlu dip
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 **Telah diproses**: Pesanan yang telah diatur pengirimannya tetapi belum diambil (*pick up*) atau diserahkan (*drop off*) kepada pihak jasa kirim oleh Penjual. Pesanan tersebut akan muncul di bawah *tab* **Telah diproses**.
 
@@ -163,7 +163,7 @@ Untuk mengatur pengiriman pesanan, masuk ke **Atur Pengiriman**, lalu pilih opsi
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk opsi **Antar ke Counter**, temukan cabang jasa kirim terdekat menggunakan **Lihat Semua Cabang di Peta**\*.
 
@@ -180,7 +180,7 @@ Untuk mengetahui panduan pengemasan produk pada beberapa kategori, pelajari lebi
 
 Selain itu, Anda harus mengikuti[ panduan pengemasan produk yang mudah rusak berdasarkan jasa kirim](https://seller.shopee.co.id/edu/article/8344) untuk mengirimkan paket Anda.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Ambil foto atau video produk Anda dengan jelas dan terang sebelum dan setelah pengemasan.
 

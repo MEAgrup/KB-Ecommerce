@@ -260,7 +260,7 @@ Anda dapat melihat riwayat nominasi produk hingga 30 hari ke belakang dengan pil
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - Operator dari Sistem: setiap aktivitas yang berasal dari sistem, contoh: perubahan status nominasi.
   - Operator dari Penjual: setiap aktivitas yang dilakukan oleh Penjual, contoh: nominasi produk.

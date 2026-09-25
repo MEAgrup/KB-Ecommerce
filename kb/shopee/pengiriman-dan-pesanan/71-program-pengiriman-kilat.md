@@ -123,7 +123,7 @@ Apabila stok di lokasi sortir Pengiriman Kilat telah habis, produk tetap dapat d
 
   
 
-ð**Definisi**
+📍**Definisi**
 
   - **Tersedia**: Jumlah stok Pengiriman Kilat yang telah dikirim Penjual ke lokasi sortir dan dapat dipesan oleh Pembeli.
   - **In-transit**: Jumlah stok Pengiriman Kilat sedang dalam perjalanan menuju lokasi sortir. Pembeli belum dapat membuat pesanan atas stok tersebut.
@@ -304,7 +304,7 @@ Shopee akan memberikan kompensasi atas salah satu atau kedua situasi berikut:
   - Anda tetap dapat ajukan klaim untuk barang yang gagal dikirim ke Penjual, hilang & rusak dengan mengklik **Klaim Barang Hilang/Rusak** di halaman Pesanan Saya pada *tab* **Pengiriman Gagal**.
 
   
-ð **Definisi**
+📍 **Definisi**
 
   - Barang tidak ada Pembeli: Kondisi di mana tidak ada pesanan masuk\* dari Pembeli terhadap stok produk yang telah dikirimkan Penjual setelah 21-30 hari di lokasi sortir.
   - Barang sudah ada Pembeli: Kondisi di mana sudah ada pesanan masuk\* dari Pembeli terhadap stok produk yang telah dikirimkan Penjual.

@@ -55,7 +55,7 @@ Untuk menjaga konsistensi layanan *pick up* pada pengiriman Pos Reguler, berikut
 
 Cara hitung rata-rata pesanan harian Pos Reguler:
 
-ð **Definisi**
+📍 **Definisi**
 
 Jumlah pesanan bersih adalah jumlah pesanan terbayar yang tidak termasuk:
 

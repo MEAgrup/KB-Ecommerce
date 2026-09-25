@@ -44,7 +44,7 @@ Metrik **Pesanan Dibatalkan**, **Penjualan Dibatalkan**, **Pesanan Dikembalikan*
 
   
 
-ð¡**Tips**
+💡**Tips**
 
 Arahkan kursor ke *icon*  di samping metrik utama untuk melihat informasi cara perhitungannya. Metrik ini membantu Anda memahami bagaimana Pembeli berinteraksi dengan produk Anda.
 
@@ -56,7 +56,7 @@ Untuk mengetahui dan menganalisis data lebih lanjut, Anda dapat membuka *tab* **
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Sortir data sesuai dengan periode waktu yang Anda inginkan pada menu *dropdown* **Periode Data**, atau berdasarkan jenis pesanan melalui menu *dropdown* **Status Pesanan**.
 
@@ -96,7 +96,7 @@ Mengetahui **Kategori** mana yang menghasilkan penjualan paling banyak.
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
   - Manfaatkan fitur[ **Dekorasi Toko**](https://seller.shopee.co.id/edu/article/7323) untuk membuat berbagai kategori produk unggulan toko, seperti produk terlaris, produk pilihan, daftar kategori dan promo pada toko Anda, agar terlihat lebih rapi dan menarik bagi calon Pembeli.
   - Anda juga dapat mengatur promosi produk dengan kategori Terlaris & Terbaru melalui fitur[ **Flash Sale**](https://seller.shopee.co.id/edu/article/6994/Flash-Sale-Shopee) atau potongan harga. Lalu letakkan produk tersebut di Halaman Toko bagian paling atas untuk menarik perhatian calon Pembeli saat mereka berkunjung ke toko Anda.
@@ -140,7 +140,7 @@ Untuk menganalisis lebih lanjut performa produk Anda, pilih *tab* **Lainnya** un
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk menghasilkan lebih banyak pesanan, terutama untuk produk dan kategori terlaris dengan:
 

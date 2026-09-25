@@ -248,7 +248,7 @@ Di halaman ini Anda dapat menambahkan informasi untuk beberapa produk sekaligus,
   
   
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Pastikan informasi produk dan panduan ukuran Anda selalu diperbarui. Informasi yang tidak lengkap dapat membuat Asisten AI Chat memberikan respons yang kurang tepat kepada Pembeli dan dapat mengurangi potensi penjualan.
 

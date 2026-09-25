@@ -78,7 +78,7 @@ Melalui **iOS**
 
 **Cara mendapatkan Data API Response**
 
-ð¡ **Tips**
+💡 **Tips**
 
 Anda dapat merekam layar pada perangkat PC/laptop dengan langkah berikut:
 

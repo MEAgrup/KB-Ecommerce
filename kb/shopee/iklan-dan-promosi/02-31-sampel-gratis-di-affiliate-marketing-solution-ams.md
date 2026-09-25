@@ -75,7 +75,7 @@ Anda dapat mengirimkan undangan Sampel Gratis pada *Affiliate* melalui pengatura
 
 ﻿﻿﻿﻿﻿﻿﻿﻿﻿
 
-**ð¡ Tips**
+**💡 Tips**
 
 Gunakan Label Rekomendasi untuk membantu Anda memilih *Affiliate* yang sesuai ketika menyetujui undangan Sampel Gratis.
 

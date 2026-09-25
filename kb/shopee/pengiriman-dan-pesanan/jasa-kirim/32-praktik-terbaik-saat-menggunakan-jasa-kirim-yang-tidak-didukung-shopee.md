@@ -41,7 +41,7 @@ Anda disarankan untuk menyimpan bukti pengiriman (Contoh: Salinan resi pengirima
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 Bukti pengiriman mengacu pada gambar atau foto yang mencakup informasi Pembeli, seperti nama, tanda tangan, dan foto Pembeli memegang paket (jika diberikan persetujuan oleh Pembeli).
 

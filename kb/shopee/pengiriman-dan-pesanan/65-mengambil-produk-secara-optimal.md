@@ -103,7 +103,7 @@ Jika jenis barang berbeda, maka akan berbeda pula metode pengambilan barangnya. 
 
 Saat memasuki masa promo, aktivitas gudang akan lebih sibuk dari hari biasanya. Tentunya metode *picking* yang digunakan juga perlu disesuaikan. Dari sekian banyak pesanan yang akan masuk saat masa promo atau *peak day*, terdapat 5 tipe pesanan yang perlu Anda prioritaskan untuk segera dikemas, yaitu sebagai berikut:
 
-**ð¡ Tips**
+**💡 Tips**
 
   - Anda dapat melakukan penyortiran produk berdasarkan jasa kirim, agar produk yang akan dikemas sudah tersortir berdasarkan jasa kirim yang sama sehingga proses *handover* ke pihak jasa kirim menjadi lebih efisien.
   - Cari tahu jadwal *cut-off* masing-masing jasa kirim.

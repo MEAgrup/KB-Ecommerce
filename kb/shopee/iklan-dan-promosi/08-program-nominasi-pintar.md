@@ -81,7 +81,7 @@ Sebelum bergabung dengan program, pastikan Anda memenuhi syarat dan ketentuan be
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Harga Terendah Promo**: harga terbaik yang ingin Penjual tawarkan ke Pembeli.
   - **Harga Promosi**: harga yang dapat dilihat oleh Pembeli dan harga yang akan diterima oleh Penjual saat pelepasan dana.
@@ -236,7 +236,7 @@ Tidak. Harga Promosi hasil nominasi otomatis pada sesi kampanye lainnya tidak ak
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 **Harga Promosi**: Harga yang dapat dilihat oleh Pembeli dan harga yang akan diterima oleh Penjual saat pelepasan dana.
 

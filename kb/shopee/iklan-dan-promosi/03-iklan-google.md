@@ -90,7 +90,7 @@ Shopee merekomendasikan durasi iklan min. 14 hari kalender untuk memberikan wakt
 
   
 
-ð¡ **Tips** 
+💡 **Tips** 
 
   - Dana iklan harian min. adalah Rp144.000, sementara dana harian yang direkomendasikan adalah Rp350.000.
   - Hindari mengubah dana harian terlalu sering, lakukan perubahan maksimal sekali setiap 3 hari agar fase pembelajaran iklan tetap optimal.

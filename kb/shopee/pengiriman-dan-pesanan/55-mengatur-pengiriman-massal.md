@@ -66,7 +66,7 @@ Filter **Status Pesanan** hanya akan muncul di halaman Pengiriman Massal apabila
 
 Kemudian, pilih pesanan yang ingin Anda kirim secara massal.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk mempercepat proses penyelesaian pesanan, Anda dapat mengikuti hal-hal berikut:
 

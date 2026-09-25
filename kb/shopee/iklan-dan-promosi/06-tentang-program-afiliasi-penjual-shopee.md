@@ -35,7 +35,7 @@ Berikut jumlah komisi yang bisa didapatkan Penjual berdasarkan tipe Pembeli:
 
 Komisi diberikan dalam bentuk Saldo Penjual untuk setiap pesanan yang terselesaikan melalui *link* produk/toko khusus dalam waktu 7 hari setelah *link* di-klik.
 
-**ð Definisi**
+**📍 Definisi**
 
   - **Pembeli baru** adalah Pembeli yang belum pernah melakukan transaksi di Shopee sebelumnya.
   - **Pembeli setia** adalah Pembeli yang sudah pernah melakukan transaksi di Shopee sebelumnya.
@@ -96,7 +96,7 @@ Untuk membagikan *link* produk/toko yang disalin melalui *web browser*, Anda per
 
   
 
-**ð Definisi**
+**📍 Definisi**
 
 **Tag link**: Kode tambahan sebagai parameter pelacakan *link* afiliasi.
 
@@ -210,7 +210,7 @@ Di aplikasi Shopee, Anda juga dapat melihat total dan status dari pembayaran kom
 
   
 
-**ð Definisi**
+**📍 Definisi**
 
   - **Sedang Divalidasi**: Pesanan yang masuk melalui *link* Afiliasi Penjual dan dalam tahap validasi
   - **Menunggu Dibayar**: Pesanan melalui *link* Afiliasi Penjual yang telah tervalidasi dan dalam proses pembayaran

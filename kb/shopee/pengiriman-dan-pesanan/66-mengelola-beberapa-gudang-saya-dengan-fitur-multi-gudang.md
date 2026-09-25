@@ -88,7 +88,7 @@ Saat ini, Anda tidak dapat menghapus gudang. Jika Anda sudah tidak memerlukan gu
 
 **Menambahkan Stok ke Beberapa Gudang**
 
-**ðDefinisi**
+**📍Definisi**
 
 Stok: Produk yang Anda miliki pada inventaris Anda. Termasuk stok normal dan stok yang dikunci untuk promosi.
 
@@ -102,7 +102,7 @@ Saat menambahkan produk baru ke toko Anda, Anda akan dapat memasukkan stok di se
 
 Anda juga dapat memasukkan stok pada setiap gudang untuk produk dengan variasi yang berbeda: 
 
-**ð¡ Tips**
+**💡 Tips**
 
 Jika Anda menyimpan jumlah stok yang sama untuk setiap variasi produk di semua gudang Anda, Anda dapat menambahkan/mengubah produk secara massal pada bagian **Daftar Variasi**:
 
@@ -123,7 +123,7 @@ Anda juga dapat menambahkan stok produk untuk beberapa gudang melalui aplikasi S
 
   
 
-**ð¡Tips**
+**💡Tips**
 
 Jika produk memiliki variasi, harga, dan stok yang sama di semua gudang, Anda dapat menambahkan/mengubahnya secara massal melalui menu **Edit Secara Massal**:
 

@@ -121,7 +121,7 @@ Sedangkan **Voucher Khusus Kreator** hanya bisa digunakan untuk Kreator pilihan 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Buat **Voucher Toko** untuk meningkatkan penjualan secara keseluruhan.
   - Buat **Voucher Produk** jika Anda memiliki tujuan tertentu, seperti cuci gudang untuk produk musiman.
@@ -136,7 +136,7 @@ Berikan nama voucher sesuai dengan tujuan bisnis Anda. Nama hanya untuk referens
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Jika Anda membuat voucher untuk *platform* tertentu, seperti Chat Broadcast atau media sosial lainnya, Anda juga dapat memberikan nama yang sesuai. Hal ini akan membantu Anda melacak performa promosi voucher dari berbagai *platform*.
 
@@ -152,7 +152,7 @@ Untuk Voucher Toko dan Voucher Produk, Anda dapat membagikan kode voucher melalu
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Jika Anda ingin mengirim voucher ke Pembeli tertentu di Shopee, tambahkan voucher ke *chat* Anda melalui[ Chat Broadcast](https://seller.shopee.co.id/edu/article/970) atau[ Fitur Chat Penjual](https://seller.shopee.co.id/edu/courseDetail/47?lessonId=57). Ini sangat berguna untuk mendorong pembelian berulang.
 
@@ -170,7 +170,7 @@ Jika Anda memilih **Tampilkan Voucher lebih awal**l, maka **Pengaturan Tampilan 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Tetapkan periode yang singkat untuk menciptakan urgensi. Jika voucher menawarkan diskon lebih tinggi, jadikan sebagai promosi kilat untuk mendorong pembelian langsung.
   - Untuk promosi dengan publisitas rendah, atau diskon dengan nilai lebih rendah, pertimbangkan periode yang lebih lama untuk mendapatkan lebih banyak pembelian.
@@ -245,7 +245,7 @@ Isi berapa kali Pembeli dapat menggunakan voucher yang Anda siapkan dengan Jumla
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Dengan menetapkan minimum pembelian, Anda dapat menawarkan diskon yang lebih besar untuk voucher Anda tanpa mengalami kerugian.
 
@@ -463,7 +463,7 @@ Urutkan voucher dengan menambahkan atau mengurangi urutan Kriteria Utama yang di
   
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Turunkan nominal Minimum Pembelian untuk meningkatkan penjualan jika:
       

@@ -55,7 +55,7 @@ Pastikan toko Anda mengikuti cara terbaik menyerahkan pesanan selama proses *pic
 
 **Menyerahkan Pesanan saat Menyiapkan Paket**
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pelajari lebih lanjut tentang[ Menyelesaikan Pesanan Pertama Anda](https://seller.shopee.co.id/edu/article/11968/Menyelesaikan-Pesanan-Pertama-Anda) untuk mengetahui cara mengemas pesanan dan menempelkan nomor resi yang benar.
 

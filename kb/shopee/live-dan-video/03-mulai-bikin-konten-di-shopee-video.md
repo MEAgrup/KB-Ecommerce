@@ -35,7 +35,7 @@ Di halaman **Profil Saya**, Anda dapat melihat:
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Profil yang efektif harus membuat Penonton langsung paham siapa Anda, apa yang Anda jual, dan kenapa mereka harus *follow*/beli produk melalui konten Shopee Video Anda.
 

@@ -185,7 +185,7 @@ Tombol **Kelola** tidak akan muncul jika produk masih dalam proses optimasi oleh
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 Jika seluruh tampilan telah selesai Dioptimalkan AI, maka:
 

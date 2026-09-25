@@ -131,7 +131,7 @@ Untuk mengubah informasi produk lainnya, Anda dapat mengubahnya di halaman **Rin
 
   
 
-**ð¡Tips**
+**💡Tips**
 
 Jika informasi yang tercantum pada Standar Produk Shopee tidak akurat, pilih **Beri Saran**  untuk memberikan saran perbaikan.
 
@@ -252,7 +252,7 @@ Membatalkan penerapan Standar Produk Shopee dapat mempengaruhi posisi dan visibi
 
   
 
-**ð¡Tips**
+**💡Tips**
 
 Saat Anda meng-*upload* atau meng-*update* produk di Seller Centre dan memilih salah satu kolom informasi produk, kotak **Tips** akan tampil di sebelah kiri berisi tentang penjelasan dari kolom tersebut.
 

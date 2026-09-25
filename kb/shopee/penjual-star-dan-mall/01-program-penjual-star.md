@@ -123,7 +123,7 @@ Periksa kriteria terbaru yang diperlukan serta performa Anda saat ini di halaman
 
   
 
-**ð Definisi**
+**📍 Definisi**
 
   - **Pembeli Berbeda 30 Hari Terakhir**: Jumlah Pembeli dengan pesanan telah dibayar dalam 30 hari terakhir, tidak termasuk Pembeli dengan pesanan dibatalkan/dikembalikan.
   - **Pendapatan Bersih 30 Hari Terakhir**: Jumlah atau total nilai pesanan berhasil dalam 30 hari terakhir, tidak termasuk pesanan yang dibatalkan/dikembalikan.

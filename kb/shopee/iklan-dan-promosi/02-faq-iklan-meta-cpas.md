@@ -41,7 +41,7 @@ Pengguna tersebut akan diarahkan langsung ke halaman produk Anda di Shopee. Hal 
 
 Sistem Conversion Window untuk Iklan Meta di Seller Centre adalah klik 7 hari dan tayangan 1 hari.
 
-ð **Definisi**
+📍 **Definisi**
 
   - Conversion Window klik 7 hari: periode 7 hari untuk melacak pembelian dari Pembeli yang meng-klik iklan.
   - Conversion Window tayangan 1 hari: periode 1 hari untuk melacak pembelian dari Pembeli yang melihat iklan.

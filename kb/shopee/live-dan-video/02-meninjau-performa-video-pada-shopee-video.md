@@ -113,7 +113,7 @@ Data performa pada Data Utama, Persebaran Audiens, dan Video akan tersedia di ha
 
 
 
-**ð¡ Tips**
+**💡 Tips**
 
 Anda disarankan untuk menganalisis performa Shopee Video Anda secara berkala demi meningkatkan strategi konten Anda.
 
@@ -190,7 +190,7 @@ Klik panah atas dan bawah di samping setiap metrik untuk mengurutkan video Anda 
 
 Untuk melihat *detail* lebih lanjut tentang performa dan Persebaran Audiens pada masing-masing video, pilih **Rincian**.
 
- **ð¡Tips**
+ **💡Tips**
 
   - Identifikasi video dengan **Suka** dan **Share** tertinggi untuk memahami jenis konten yang populer di kalangan Pengguna.
   - Rata-rata durasi ditonton sebuah video yang lebih panjang dibandingkan video lain dapat menunjukkan bahwa konten tersebut lebih efektif dalam menarik perhatian Penonton.

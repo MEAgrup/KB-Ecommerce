@@ -67,7 +67,7 @@ Cara pertama adalah melalui menu **Promosi**.
 
 Anda juga bisa mengakses Promo Shopee melalui **Pusat Promosi** \> **Lainnya**.
 
-ð¡ **Tips**
+💡 **Tips**
 
 Tingkatkan peluang produk Anda lolos nominasi dengan mempertahankan poin penalti seminimal mungkin dan menjaga[ Kesehatan Toko](https://seller.shopee.co.id/portal/accounthealth/home) yang baik. Beberapa Promo Shopee hanya dapat diikuti oleh toko yang tidak memiliki poin penalti atau dengan jumlah maksimal tertentu.
 
@@ -123,7 +123,7 @@ Produk Anda harus disetujui oleh tim Shopee sebelum Anda dapat mengikuti Promo S
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
   - **Promo Shopee**: Promo yang diadakan oleh Shopee.
   - **Sesi**: Slot waktu yang berbeda untuk setiap Promo Shopee.
@@ -184,7 +184,7 @@ Terdapat tiga cara untuk mengubah produk, yaitu dengan pilih **Diubah di Excel**
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Untuk membatalkan produk yang telah dinominasikan, pilih **Batalkan** pada produk yang sesuai.
 
@@ -431,7 +431,7 @@ Jika status *upload* nominasi produk Anda menunjukkan **Gagal** atau **Sukses Se
 
 Hapus kolom **Alasan Gagal** setelah Anda menyelesaikan semua perubahan sebelum mencoba meng-*upload* lagi.
 
-**ð¡ Tips**
+**💡 Tips**
 
 Alasan umum untuk nominasi yang gagal di-*upload* meliputi:
 

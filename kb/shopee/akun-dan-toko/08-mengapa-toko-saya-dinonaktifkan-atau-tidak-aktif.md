@@ -29,7 +29,7 @@ Anda harus melakukan setidaknya aktivitas berikut agar toko Anda dianggap aktif:
 
   
 
-ð **Definisi**
+📍 **Definisi**
 
 API (*Application Programming Interface*) merupakan perantara untuk dua perangkat lunak yang berbeda untuk dapat saling berkomunikasi satu sama lain. 
 

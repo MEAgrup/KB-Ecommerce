@@ -99,7 +99,7 @@ Kriteria layanan *pick-up* akan diimplementasikan untuk memastikan konsistensi l
 
   
 
-**ð Definisi**
+**📍 Definisi**
 
 Jumlah pesanan bersih: Jumlah pesanan yang terbayar dan tidak termasuk pesanan yang dibatalkan, pesanan yang dikembalikan, dan dana yang dikembalikan.
 

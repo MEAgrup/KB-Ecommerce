@@ -140,7 +140,7 @@ Jenis pelanggaran dan penalti tidak terbatas pada informasi di atas dan dapat be
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Berikut adalah beberapa cara agar Anda terhindar dari pelanggaran *host* tidak muncul saat Livestream:
 

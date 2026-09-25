@@ -192,7 +192,7 @@ Untuk barang rapuh atau tajam gunakan bubble wrap, kotak atau bahan pelindung la
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Jika Anda diharuskan untuk meng-klaim produk yang rusak dalam pengiriman, Anda harus menyediakan foto/video yang dibutuhkan untuk membuktikan bahwa Anda telah mengemas produk dengan baik dan tidak rusak sebelum dikemas. Ambil foto atau video produk dengan jelas dan terang sebelum dan sesudah mengemas paket.
 

@@ -19,7 +19,7 @@ Ketentuan jumlah akun/toko yang dapat didaftarkan oleh Penjual tergantung pada t
 
 
 
-**ð Definisi**
+**📍 Definisi**
 
 1.  **Akun Peroranga**n: Akun yang dibuat atas nama pribadi dan digunakan untuk menjalankan usaha skala kecil. Ciri-cirinya:
       

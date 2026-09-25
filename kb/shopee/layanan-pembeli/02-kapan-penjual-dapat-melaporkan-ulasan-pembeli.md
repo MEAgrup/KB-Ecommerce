@@ -35,7 +35,7 @@ Setelah Anda membuat laporan, harap tunggu 5 hari kerja bagi Shopee untuk meninj
   
   
 
-ð¡ **Tips**
+💡 **Tips**
 
   - Sebelum Anda melaporkan ulasan negatif, kami menyarankan untuk menghubungi Pembeli secara langsung terlebih dahulu melalui *chat* di Shopee agar dapat lebih memahami alasan Pembeli dalam memberikan ulasan tersebut. Pembeli dapat memilih untuk mengubah ulasan mereka setelah adanya tindak lanjut dari Penjual.
   - Hubungi Pembeli yang meninggalkan ulasan negatif sesegera mungkin. Pembeli hanya dapat mengubah penilaian mereka dalam waktu 120 hari setelah pesanan selesai.

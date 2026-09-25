@@ -128,7 +128,7 @@ Di Seller Centre, pilih **Profil Toko** \> pilih **Ubah** logo toko Anda.
   
   
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Memiliki nama toko yang menarik serta menunjukkan identitas toko akan membantu Anda untuk menarik lebih banyak Pembeli. Pelajari cara[ membuat nama toko](https://seller.shopee.co.id/edu/article/326).
 
@@ -275,7 +275,7 @@ Sebelum menentukan nama toko, ada baiknya Anda menelusuri berbagai situs belanja
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Lihat[ Ketentuan Shopee Tentang Penamaan Toko](https://seller.shopee.co.id/edu/article/324) untuk memastikan nama toko Anda mencerminkan kredibilitas dan profesionalisme.
 
@@ -317,7 +317,7 @@ Deskripsi Toko adalah fitur pada aplikasi Shopee yang memungkinkan Penjual untuk
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Perhatikan ketentuan di bawah ini untuk menunjukkan kredibilitas deskripsi toko Anda:
 

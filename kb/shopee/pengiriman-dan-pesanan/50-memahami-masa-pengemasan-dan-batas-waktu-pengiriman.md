@@ -125,7 +125,7 @@ Shopee akan membatalkan pesanan secara langsung dan mengembalikan dana Pembeli j
 
 Jika lewat dari keenam batas waktu yang disebutkan di atas, maka pengembalian dana akan secara otomatis diproses kepada Pembeli. Pelajari lebih lanjut tentang[ cara menghindari Pembatalan Pesanan](https://seller.shopee.co.id/edu/article/1092/Menghindari-Pembatalan-Pesanan-Secara-Otomatis).
 
-**ð¡ Tips** 
+**💡 Tips** 
 
 Untuk meningkatkan efisiensi proses pengiriman, Anda bisa mengemas produk terlaris Anda terlebih dahulu sebelum masa promosi.
 

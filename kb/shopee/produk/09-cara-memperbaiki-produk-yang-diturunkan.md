@@ -59,7 +59,7 @@ Pelajari lebih lanjut tentang[ Mengapa produk saya tidak muncul setelah di-*uplo
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
 Pastikan produk Anda tidak memiliki info/gambar terlarang agar sesuai dengan kebijakan Shopee untuk menghindari tindakan lebih lanjut seperti pemblokiran/penghapusan produk hingga pemblokiran perangkat handphone.
 
@@ -129,6 +129,6 @@ Hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) 
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Pastikan produk Anda ditempatkan pada kategori yang benar agar sesuai dengan kebijakan Shope untuk menghindari tindakan lebih lanjut seperti pemblokiran/penghapusan produk.

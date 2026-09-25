@@ -33,7 +33,7 @@ Dapatkan pemahaman tentang performa toko Anda berdasarkan kriteria utama, statis
 
   
 
-ð¡ **Tips**
+💡 **Tips**
 
 Arahkan kursor ke *icon* tanya  di setiap metrik **Kriteria Utama** untuk melihat cara penghitungannya. Hal ini dapat memberikan Anda gambaran tentang cara Pembeli berinteraksi dengan produk Anda.
 

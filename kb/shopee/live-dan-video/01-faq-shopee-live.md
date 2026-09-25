@@ -339,7 +339,7 @@ Berikut hal yang termasuk konten berkualitas rendah adalah:
   - **Livestream menggunakan rekaman**: Livestream menggunakan rekaman ulang dari akun pribadi atau rekaman orang lain maupun Livestream menggunakan program *Artificial Intelligence* (AI).
 
   
-**ð¡ Tips**
+**💡 Tips**
 
 Berikut adalah beberapa cara agar Anda terhindar dari pelanggaran *host* tidak muncul saat Livestream:
 

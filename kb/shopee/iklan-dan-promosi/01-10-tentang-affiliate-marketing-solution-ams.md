@@ -94,7 +94,7 @@ Anda dapat memilih hingga 1000 produk dan 200 *Affiliate* yang ingin diberikan K
 
   
 
-**ð¡ Tips**
+**💡 Tips**
 
   - Tetapkan tingkat komisi untuk produk dalam penawaran Anda. Sebagai rekomendasi, atur komisi lebih tinggi dari Komisi XTRA Produk untuk menarik minat *Affiliate*.
   - Anda dapat mengakses[ Promo Livestream Affiliate](https://seller.shopee.co.id/edu/article/20444) secara langsung saat membuat Komisi XTRA Khusus yang dapat memudahkan Anda untuk mengatur harga promosi saat *Affiliate* melakukan Livestream di Shopee Live.
