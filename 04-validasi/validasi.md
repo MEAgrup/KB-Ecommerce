@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **717**
+- PERINGATAN: **712**
 
 ## Status entry
 
@@ -1191,20 +1191,15 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/30-penanganan-kendala-pengiriman-dan-klaim-spx-express.md` · shp-pengiriman-030
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/penanganan-kendala-pengiriman-dan-klaim-spx-expr
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1325 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/31-pos-reguler.md` · shp-pengiriman-031
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/pos-reguler.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/32-praktik-terbaik-saat-menggunakan-jasa-kirim-yang-tidak-didukung-shopee.md` · shp-pengiriman-032
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/praktik-terbaik-saat-menggunakan-jasa-kirim-yang
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/33-program-cod-cek-dulu.md` · shp-pengiriman-033
 

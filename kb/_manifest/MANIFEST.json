@@ -3323,7 +3323,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-038, shp-pengiriman-017",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/30-penanganan-kendala-pengiriman-dan-klaim-spx-express.md"
   },
@@ -3336,7 +3336,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-008, shp-pengiriman-009",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/31-pos-reguler.md"
   },
@@ -3349,7 +3349,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2023-01",
-    "related": "",
+    "related": "shp-pengiriman-011, shp-pengiriman-022",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/32-praktik-terbaik-saat-menggunakan-jasa-kirim-yang-tidak-didukung-shopee.md"
   },
