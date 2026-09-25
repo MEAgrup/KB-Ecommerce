@@ -3284,7 +3284,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/27-ninja-xpress.md"
   },
@@ -3297,7 +3297,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-014",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/28-ongkos-kirim.md"
   },
@@ -3310,7 +3310,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-pengiriman-015, shp-pengiriman-041",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/29-panduan-pengiriman-instant-instant-prioritas.md"
   },

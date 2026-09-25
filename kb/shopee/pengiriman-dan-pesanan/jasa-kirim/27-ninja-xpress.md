@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/ninja-xpress.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-040]
 ---
 # Ninja Xpress
 
 ## Ringkasan
+Ninja Xpress = jasa kirim didukung Shopee, PICK-UP ONLY (gak ada drop-off). 9 kategori produk dilarang (racun/narkotika, senjata, artefak agama, cairan tanpa MSDS+surat pernyataan, makhluk hidup, abu kremasi, uang & surat berharga, konten pornografi/bajakan, perhiasan, barang mudah terbakar). Paket gagal kirim & gagal dikembalikan (alamat Penjual gak ketemu/gak bisa dihubungi): Penjual dapat 7x24 JAM buat ambil paket (hubungi CS Ninja Xpress dulu buat tau lokasinya), lewat itu paket DIMUSNAHKAN.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail layanan (pick-up only), produk terlarang, atau kendala paket gagal dikembalikan Ninja Xpress. Buat Asuransi Pengiriman Shopee, arahkan ke `shp-pengiriman-040`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim Ninja Xpress**
 
 
@@ -89,3 +97,20 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Untuk memastikan produk Anda sampai ke Pembeli dengan aman dan dalam kondisi yang baik, pastikan Anda menggunakan bahan dan teknik yang tepat saat mengemas paket. Pastikan kemasan paket sesuai dengan jenis atau kategori produk. Pelajari lebih lanjut terkait[ Panduan Pengemasan Produk untuk Mencegah Kerusakan](https://seller.shopee.co.id/edu/article/18821) dan[ Mengelola Daftar Produk yang Mudah Rusak](https://seller.shopee.co.id/edu/article/8345).
   - Berikan perlindungan terhadap produk yang Anda kirim dari kehilangan/kerusakan selama pengiriman. Pelajari lebih lanjut tentang[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345).
   - Apabila terdapat pengajuan pengembalian barang/dana, pelajari lebih lanjut terkait[ FAQ Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/article/17055/faq-pengembalian-barang-dan-dana).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Metode pengiriman yang didukung | pick-up SAJA (gak ada drop-off) |
+| Batas waktu ambil paket gagal dikembalikan | 7x24 jam sejak notifikasi |
+| Konsekuensi lewat batas waktu | paket DIMUSNAHKAN |
+| Jumlah kategori produk dilarang | 9 kategori |
+
+## Pertanyaan diagnosa
+
+1. **Member mau drop-off paket Ninja Xpress ke counter terdekat?** GAK BISA — Ninja Xpress cuma dukung metode pick-up, gak ada opsi antar ke counter.
+2. **Member dapat notifikasi paket gagal dikembalikan karena alamat toko gak ditemukan?** Segera hubungi CS Ninja Xpress buat tau lokasi paketnya, dan ambil dalam 7x24 jam — lewat itu paket bakal DIMUSNAHKAN.
+3. **Member mau kirim minyak wangi (cairan) pakai Ninja Xpress?** Bisa, TAPI wajib dikemas dengan baik DAN lampirkan MSDS (Material Safety Data Sheet) plus surat pernyataan barang berbahaya dari Penjual — kalau enggak, cairan termasuk kategori dilarang.
+4. **Member jual perhiasan, mau kirim pakai Ninja Xpress?** GAK BISA — perhiasan termasuk 9 kategori produk yang dilarang dikirim via Ninja Xpress.
+5. **Member cuma aktifkan Ninja Xpress doang di toko, kenapa pesanan sedikit?** Disarankan aktifkan jasa kirim lain juga — Ninja Xpress yang cuma pick-up bisa membatasi opsi Pembeli, terutama yang lebih suka drop-off.

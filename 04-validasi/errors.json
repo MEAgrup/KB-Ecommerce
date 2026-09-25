@@ -2403,9 +2403,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/ninja-xpress.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/ninja-xpress.md"
     ]
   },
   {
@@ -2415,8 +2413,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/ongkos-kirim.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1403 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2426,9 +2423,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/panduan-pengiriman-instant-instant-prioritas.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "2079 kata — kemungkinan dua topik yang belum dipisah"
+      "2695 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {

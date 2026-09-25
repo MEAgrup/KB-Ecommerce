@@ -11,10 +11,18 @@ valid_as_of: 2026-06
 sources:
   - file: pp---jasa-kirim/panduan-pengiriman-instant-instant-prioritas.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-015, shp-pengiriman-041]
 ---
 # Panduan Pengiriman Instant & Instant Prioritas
 
 ## Ringkasan
+Panduan operasional lengkap Instant/Instant Prioritas — 5 tahap: (1) Persiapan (atur Jam Operasional Instant, tim khusus, area gudang khusus, stok fast-moving mudah akses); (2) Print Resi & Atur Pickup (cek tiap 15-20 menit; dalam jam operasional cuma bisa pickup "Now" maks. 1 jam setelah verifikasi; di luar jam bisa jadwalkan sampai batas pengemasan); (3) Pengemasan (praktis, cepat); (4) Cari Kurir (manual via Scan Resi & Cari Kurir, atau otomatis via fitur Cari Kurir Otomatis); (5) Serah Terima (pakai Kode Pengambilan). Fitur Cari Kurir Otomatis: waktu pengemasan 0-20 menit (Instant Prioritas) / 0-30 menit (Instant), TIDAK tersedia buat Penjual Dikelola Shopee atau produk Pre-Order. Fitur Jeda Pesanan: maks. 2 jam/hari, reset tiap pk. 00.00 WIB. Kendala pickup: "Atur Ulang Pickup" (maks. 23 jam sejak verifikasi/1 jam sebelum batas pembatalan) vs "Jadwalkan Ulang Pickup" (kurir gak datang >2 jam sejak jam operasional Instant berakhir, khusus Penjual terpilih). Paket gagal kirim ke Pembeli: Kode Pengiriman/Pengembalian wajib dikasih ke kurir, opsi "Atur Ulang Pickup" cuma tersedia s.d. 24 jam sejak pesanan dibayar.
+
+## Kapan ini dipakai
+Dipakai kalau member (toko volume tinggi dengan Instant/Instant Prioritas aktif) mau pahami alur operasional lengkap, fitur Cari Kurir Otomatis, Jeda Pesanan, atau solusi kendala pickup/gagal kirim. Buat FAQ ringkas Instant/Instant Prioritas, arahkan ke `shp-pengiriman-015`; buat konsep dasar layanan Instant, arahkan ke `shp-pengiriman-041`.
+
+## Isi
+
 **Alur Pengelolaan Pesanan untuk Pengiriman Instant & Instant Prioritas**
 
 
@@ -331,3 +339,29 @@ Opsi ini hanya tersedia hingga 24 jam sejak pesanan dibayar oleh Pembeli. Jika o
 
   - Saat ini, Kode Pengembalian hanya tersedia untuk SPX Instant dan SPX Instant Prioritas.
   - Apabila Kode Pengembalian tidak muncul, Anda dapat mengacu pada Kode Pengembalian atau melaporkan melalui formulir[ Kendala Pengiriman Instant](https://help.shopee.co.id/portal/webform/66962caf04fb4056ae266130206effb3).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Interval cek pesanan Instant disarankan | tiap 15-20 menit |
+| Batas atur pickup "Now" dalam jam operasional Instant | maks. 1 jam setelah pesanan terverifikasi |
+| Waktu pengemasan fleksibel — Instant Prioritas | 0-20 menit |
+| Waktu pengemasan fleksibel — Instant | 0-30 menit |
+| Maks. kuota Jeda Pesanan | 2 jam/hari, reset tiap pk. 00.00 WIB |
+| Batas "Atur Ulang Pickup" | maks. 23 jam sejak verifikasi ATAU 1 jam sebelum batas pembatalan otomatis |
+| Ambang "Jadwalkan Ulang Pickup" muncul | kurir gak datang >2 jam sejak jam operasional Instant berakhir |
+| Batas "Atur Ulang Pickup" setelah paket gagal kirim & diterima balik | s.d. 24 jam sejak pesanan dibayar Pembeli |
+
+## Pertanyaan diagnosa
+
+1. **Member baru aktifkan Instant, pesanan menumpuk karena telat diproses?** Disarankan cek & proses pesanan tiap 15-20 menit — jangan biarkan menumpuk, terutama pas jam operasional Instant sedang berjalan.
+2. **Member mau atur kapasitas operasional pas jam sibuk tanpa matikan layanan Instant sepenuhnya?** Pakai fitur Jeda Pesanan (maks. 2 jam/hari) — hentikan sementara pesanan baru tanpa nonaktifkan layanan Instant secara permanen di halaman produk.
+3. **Member kehabisan kuota Jeda Pesanan harian, kapan bisa dipakai lagi?** Kuota reset otomatis tiap pukul 00.00 WIB setiap hari.
+4. **Member pakai Cari Kurir Otomatis, tapi pesanan Pre-Order gak ke-cover?** Wajar — fitur Cari Kurir Otomatis TIDAK berlaku buat produk Pre-Order maupun Penjual Dikelola Shopee, harus atur manual.
+5. **Kurir Instant member udah dapat tapi gak datang 3 jam sejak jam operasional Instant berakhir?** Sudah lewat ambang 2 jam — tombol "Jadwalkan Ulang Pickup" harusnya muncul di tab Telah Diproses (khusus Penjual yang memenuhi kriteria).
+6. **Paket Instant member gagal kirim ke Pembeli dan sudah balik, member lambat atur ulang pengiriman?** Opsi "Atur Ulang Pickup" cuma tersedia s.d. 24 jam sejak pesanan dibayar Pembeli — lewat itu, hubungi CS Shopee buat bantuan pembatalan.
+7. **Member cuma aktif 1 jasa kirim Instant dan gak ada kurir tersedia?** Gak bisa dialihkan otomatis (pengalihan cuma berlaku kalau ada >1 jasa kirim Instant aktif) — harus pilih "Atur Ulang Pickup" manual satu per satu per pesanan.
+
+## Batasan
+Ditemukan kemungkinan inkonsistensi dalam artikel sumber yang sama: bagian awal (soal "Kode Pengiriman") menyebut 8 jasa kirim (GoSend semua varian Instant/Sameday + SPX semua varian Instant/Sameday) bisa memproses pengembalian paket gagal kirim dan dapat Kode Pengiriman (via SMS buat GoSend, via Rincian Pesanan buat SPX). TAPI catatan di bagian akhir bilang "Kode Pengembalian hanya tersedia untuk SPX Instant dan SPX Instant Prioritas" — lebih sempit dari daftar di atas. Kemungkinan ini beda istilah ("Kode Pengiriman" vs "Kode Pengembalian" sebagai 2 hal berbeda) atau bagian akhir belum di-update konsisten — jangan asumsikan salah satu benar, arahkan member cek langsung di halaman Rincian Pesanan/SMS mereka atau konfirmasi ke CS Shopee.
