@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/jt-cargo.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-040]
 ---
 # J\&T Cargo
 
 ## Ringkasan
+J&T Cargo = layanan Kargo jasa kirim didukung Shopee, buat kirim jumlah besar ke kota-kota besar Indonesia (darat/udara). 9 kategori produk dilarang (senjata, bahan kimia/radioaktif/beracun/mudah meledak, obat pertanian, narkotika/tembakau/obat suntik, alkohol & makanan mudah basi, uang & barang berharga, konten pornografi/bajakan, hewan/tumbuhan hidup, jenazah/abu kremasi). Kurir pick-up datang maks. 1x24 jam setelah request (syarat: alamat toko & Pembeli bersih dari tanda baca aneh). Paket gagal kirim: pick-up balik ke Alamat Pengembalian; drop-off balik ke Agen/Counter asal (7 hari kalender buat ambil, lewat itu J&T berhak musnahkan).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail layanan, produk terlarang, atau kendala teknis (pick-up vs drop-off gak sinkron, gagal pick-up) J&T Cargo. Buat Asuransi Pengiriman Shopee, arahkan ke `shp-pengiriman-040`.
+
+## Isi
+
 **Jenis Layanan Jasa Kirim J\&T Cargo**
 
 
@@ -104,3 +112,20 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Berikan perlindungan terhadap produk yang Anda kirim dari kehilangan/kerusakan selama pengiriman. Pelajari lebih lanjut tentang[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345).
   - Untuk mendapatkan informasi seputar pengiriman pesanan atau kendala dalam proses pengiriman, Anda dapat[ menghubungi pihak jasa kirim](https://seller.shopee.co.id/edu/article/14227).
   - Apabila terdapat pengajuan pengembalian barang/dana, pelajari lebih lanjut terkait[ FAQ Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/article/17055/faq-pengembalian-barang-dan-dana).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu kurir datang setelah gagal pick-up (alamat diperbaiki) | maks. 1x24 jam |
+| Batas ambil paket gagal (drop-off) | 7 hari kalender sejak notifikasi "Pesanan telah dikembalikan" |
+| Jumlah kategori produk dilarang | 9 kategori |
+
+## Pertanyaan diagnosa
+
+1. **Member pilih pick-up buat J&T Cargo, tapi sistem malah nunjukin status drop-off?** Hubungi J&T Cargo langsung buat proses pick-up pesanan — kalau sebenarnya mau ganti ke drop-off, bisa langsung datang ke counter J&T Cargo.
+2. **Member drop-off ke counter J&T Cargo dan udah bayar ongkir di sana, tapi status Shopee belum berubah?** Segera hubungi CS Shopee buat perubahan status pengiriman dan minta no. resi yang baru.
+3. **Member gak bisa proses pick-up J&T Cargo terus-terusan gagal?** Cek alamat toko & Pembeli — pastikan gak ada tanda baca aneh (-~@#$%*=<>[]) di alamatnya, itu bisa bikin sistem gagal proses. Setelah diperbaiki, kurir bakal datang maks. 1x24 jam.
+4. **Member kirim alkohol pakai J&T Cargo?** GAK BISA — minuman keras termasuk dalam 9 kategori produk yang dilarang dikirim via J&T Cargo.
+5. **Paket J&T Cargo member gagal kirim ke Pembeli, dikirim via drop-off awalnya, kemana baliknya?** Balik ke Agen/Counter yang sama tempat Penjual serahkan paket — beda dengan metode pick-up yang balik ke Alamat Pengembalian.
+6. **Member gak sempat ambil paket J&T Cargo yang gagal kirim dalam seminggu?** Lewat dari 7 hari kalender sejak notifikasi "Pesanan telah dikembalikan", J&T Cargo berhak ambil tindakan terhadap paket, termasuk MEMUSNAHKANNYA.

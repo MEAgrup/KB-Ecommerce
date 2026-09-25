@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: pp---jasa-kirim/jasa-kirim-yang-didukung-shopee-vs-jasa-kirim-yang-tidak-didukung-shopee-tidak-t.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-011, shp-pengiriman-022]
 ---
 # Jasa Kirim yang Didukung Shopee vs Jasa Kirim yang Tidak Didukung Shopee (Tidak Terintegrasi)
 
 ## Ringkasan
+Jasa Kirim Didukung Shopee = terintegrasi sistem, ada pick-up/drop-off, sebagian dukung COD. Beberapa layanan (GoSend/GrabExpress Instant, Bluebird Kirim) khusus Penjual TERPILIH dengan jangkauan kota terbatas (lihat Angka & patokan). Jasa Kirim Tidak Didukung = gak terintegrasi (contoh: Jasa Kirim Toko) — Penjual urus sendiri semua dokumen, GAK ada dukungan pick-up dari Shopee, WAJIB bayar ongkir dulu ke kurir/counter (baru diganti Shopee pas pelepasan dana bareng harga produk), GAK bisa dilacak via Shopee, DAN Shopee gak tanggung kalau rusak/hilang. Alur pengiriman Jasa Kirim Didukung: (1) aktifkan jasa kirim di toko+produk, (2) terima pesanan di tab Perlu Dikirim, (3) atur pengiriman (drop-off/pick-up), (4) kemas+lampirkan resi, (5) mitra jasa kirim proses, (6) produk sampai ke Pembeli. Ongkir dihitung dari berat massa vs volumetrik yang diinput, disesuaikan lagi dengan berat aktual saat serah terima.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya perbandingan lengkap jasa kirim didukung vs tidak didukung Shopee, atau alur pengiriman step-by-step. Buat FAQ jasa kirim tidak didukung, arahkan ke `shp-pengiriman-011`; buat Jasa Kirim Toko spesifik, arahkan ke `shp-pengiriman-022`.
+
+## Isi
+
 **Jasa Kirim yang Didukung Shopee**
 
 
@@ -178,3 +186,23 @@ Produk dengan variasi yang memiliki berat atau ukuran paket yang berbeda, kemung
 **Cara Menghubungi Pihak Jasa Kirim**
 
 Terkait proses pengiriman dengan jasa kirim yang didukung Shopee, Anda dapat menghubungi jasa kirim untuk mengetahui informasi terkait keberadaan paket atau komplain mengenai proses pengiriman. Berikut informasi Customer Service jasa kirim yang didukung Shopee:
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jangkauan kota GoSend semua Instant | >50 kota di Indonesia (khusus Penjual terpilih) |
+| Kota GoSend Same Day | Jabodetabek, Surabaya, Bandung, Tangerang Selatan, Kab. Sleman, Yogyakarta, Sidoarjo, Kab. Gresik, Semarang, Medan |
+| Jangkauan kota GrabExpress Instant/Instant Prioritas | >50 kota besar (khusus Penjual terpilih; antar kota cuma Jabodetabek) |
+| Kota GrabExpress Sameday | Jabodetabek, Bandung, Surabaya, Medan, Semarang, Jogja, Solo, Malang, Tangerang Selatan, Makassar, Kab. Sidoarjo, Denpasar, Kab. Badung |
+| Jasa kirim tanpa layanan pick-up hari Minggu | Anteraja Reguler, Anteraja Economy, Sentral Cargo |
+| Metode drop-off Anteraja | hanya Anteraja Reguler & Anteraja Economy |
+
+## Pertanyaan diagnosa
+
+1. **Member mau aktifkan GoSend Same Day tapi tokonya di Kota Malang?** GAK BISA — GoSend Same Day cuma tersedia buat 10 kota tertentu (Jabodetabek, Surabaya, Bandung, Tangerang Selatan, Sleman, Yogyakarta, Sidoarjo, Gresik, Semarang, Medan), Malang gak termasuk (tapi GrabExpress Sameday ADA di Malang).
+2. **Member mau kirim pakai Jasa Kirim Tidak Didukung, siapa yang bayar ongkir duluan?** Penjual wajib bayar ongkir DULU ke kurir/counter — baru diganti Shopee bareng harga produk pas pelepasan dana.
+3. **Member kirim pakai Jasa Kirim Tidak Didukung, barang hilang di jalan, Shopee ganti rugi?** GAK — Shopee gak menanggung paket yang hilang/rusak lewat jasa kirim tidak didukung; risiko sepenuhnya ada di Penjual.
+4. **Member mau drop-off Anteraja hari Minggu?** GAK BISA buat layanan Anteraja Reguler & Economy — kedua layanan ini gak melayani pick-up hari Minggu (drop-off jam operasionalnya ikut jam agen masing-masing).
+5. **Member mau tau kenapa GrabExpress Instant gak bisa dipakai kirim dari Jakarta ke Surabaya?** Pengiriman ANTAR KOTA GrabExpress Instant/Instant Prioritas cuma bisa di area Jabodetabek — beda kota di luar itu gak didukung buat rute antar kota.
+6. **Member baru daftar toko, mau langsung aktifkan GoSend Instant?** Belum tentu bisa — GoSend semua layanan Instant cuma bisa diaktifkan Penjual yang MEMENUHI KRITERIA (terpilih), bukan otomatis semua Penjual.

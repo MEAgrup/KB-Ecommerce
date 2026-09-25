@@ -11,10 +11,18 @@ valid_as_of: 2026-06
 sources:
   - file: pp---jasa-kirim/mengatur-jasa-kirim.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-013, shp-pengiriman-023]
 ---
 # Mengatur Jasa Kirim
 
 ## Ringkasan
+Panduan lengkap atur jasa kirim: 2 kategori (Jasa Kirim Didukung Shopee vs Jasa Kirim Lainnya — yang terakhir gak bisa dilacak lewat Shopee). Aktivasi WAJIB di tingkat TOKO dulu sebelum bisa diatur per PRODUK. Tipe layanan yang dipilih Pembeli saat checkout GAK BISA diubah lagi. 6 pengaturan pengiriman toko: Alamat, Jasa Kirim, Dokumen Pengiriman (Cetak Mode Thermal), Jam Operasional (Jam Pickup Kurir Selain Instant — KHUSUS pengguna SPX Standard; Jam Operasional Instant), Asuransi Pengiriman, Program Hemat Biaya Kirim. Pengaturan produk bisa satu-satu (Tambah/Ubah) atau massal (Mass Upload/Mass Update via template).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara lengkap aktifkan/atur jasa kirim di toko dan produk, termasuk 6 sub-pengaturan pengiriman. Buat FAQ singkat seputar jasa kirim, arahkan ke `shp-pengiriman-013`; buat perbandingan lengkap didukung vs tidak didukung, arahkan ke `shp-pengiriman-023`.
+
+## Isi
+
 **Memahami Opsi Pengiriman**
 
 
@@ -180,3 +188,20 @@ Aktifkan tipe layanan pengiriman Anda untuk beberapa produk sekaligus melalui[ *
 Untuk Mass Upload, Anda perlu[ *download template* Mass Upload](https://seller.shopee.co.id/portal/product/import/download), lalu pilih **Aktif** atau **Nonaktif** pada kolom tipe layanan pengiriman.
 
 Untuk Mass Update, Anda perlu[ *download template* Informasi Pengiriman](https://seller.shopee.co.id/portal/tools/mass-update/download), lalu pilih **Aktif** atau **Tidak Aktif** pada kolom **Pengaturan Pengiriman**.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah pengaturan pengiriman di tingkat toko | 6: Alamat, Jasa Kirim, Dokumen Pengiriman, Jam Operasional, Asuransi Pengiriman, Program Hemat Biaya Kirim |
+| Jasa kirim yang dukung Jam Pickup oleh Kurir (Selain Instant) | khusus SPX Standard |
+| Cara atur pengiriman per produk | 2: satu-satu (Tambah/Ubah) atau massal (Mass Upload/Mass Update) |
+
+## Pertanyaan diagnosa
+
+1. **Member baru upload produk, kenapa gak bisa pilih jasa kirim di halaman produk?** Jasa kirim WAJIB diaktifkan dulu di tingkat TOKO (Pengaturan Pengiriman) sebelum bisa diatur di tingkat produk.
+2. **Pembeli udah checkout pakai layanan Reguler, member mau ganti ke Instant?** GAK BISA — tipe layanan pengiriman yang sudah dipilih Pembeli saat checkout gak bisa diubah lagi.
+3. **Member pakai jasa kirim non-SPX Standard (misal JNE), mau atur Jam Pickup oleh Kurir Selain Instant?** GAK BISA — fitur ini saat ini cuma tersedia buat Penjual yang pakai jasa kirim SPX Standard.
+4. **Member ngeset Jam Pickup Kurir tapi kurir tetap datang di luar jam itu?** Wajar — waktu pick-up bisa berubah menyesuaikan ketersediaan kurir tiap jasa kirim, tetap siapkan pesanan setelah atur pengiriman.
+5. **Member mau ubah tipe layanan pengiriman buat 200 produk sekaligus, harus satu-satu?** GAK PERLU — pakai Mass Upload (download template, set kolom Aktif/Nonaktif) atau Mass Update (download template Informasi Pengiriman, set kolom Pengaturan Pengiriman).
+6. **Member mau aktifkan Cetak Mode Thermal?** Cek di pengaturan "Dokumen Pengiriman" pada halaman Pengaturan Pengiriman toko — bukan di pengaturan Jasa Kirim.

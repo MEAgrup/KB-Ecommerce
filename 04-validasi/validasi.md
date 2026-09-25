@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **727**
+- PERINGATAN: **722**
 
 ## Status entry
 
@@ -1158,26 +1158,21 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/23-jasa-kirim-yang-didukung-shopee-vs-jasa-kirim-yang-tidak-didukung-shop.md` · shp-pengiriman-023
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/jasa-kirim-yang-didukung-shopee-vs-jasa-kirim-ya
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1652 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/24-jne-express.md` · shp-pengiriman-024
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/jne-express.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1377 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/25-jt-cargo.md` · shp-pengiriman-025
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/jt-cargo.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/26-mengatur-jasa-kirim.md` · shp-pengiriman-026
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/mengatur-jasa-kirim.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1307 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/27-ninja-xpress.md` · shp-pengiriman-027
 

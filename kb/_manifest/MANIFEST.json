@@ -3232,7 +3232,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-011, shp-pengiriman-022",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/23-jasa-kirim-yang-didukung-shopee-vs-jasa-kirim-yang-tidak-didukung-shop.md"
   },
@@ -3245,7 +3245,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-012",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/24-jne-express.md"
   },
@@ -3258,7 +3258,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/25-jt-cargo.md"
   },
@@ -3271,7 +3271,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-pengiriman-013, shp-pengiriman-023",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/26-mengatur-jasa-kirim.md"
   },
