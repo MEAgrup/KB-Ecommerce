@@ -2426,7 +2426,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-akun-010",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/01-layanan-dikelola-shopee.md"
   },
@@ -2439,7 +2439,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-pesanan-002, shp-penalti-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/01-mengelola-dan-merespons-pembatalan-pesanan.md"
   },
@@ -2452,7 +2452,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pesanan-001, shp-penalti-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/02-tentang-pembatalan-pesanan.md"
   },
@@ -2465,7 +2465,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pesanan-004, shp-pesanan-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/03-cara-mengajukan-memeriksa-hasil-banding-pengembalian-barangdana.md"
   },
@@ -2478,7 +2478,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pesanan-003, shp-pesanan-006",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/04-faq-pengembalian-barangdana.md"
   },
@@ -2491,7 +2491,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-pesanan-004, shp-pesanan-003",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/05-pengajuan-pengembalian-barangdana-dari-pembeli.md"
   },
@@ -2504,7 +2504,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-pesanan-004, shp-pesanan-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/06-tentang-pengembalian-barangdana.md"
   },

@@ -11,10 +11,18 @@ valid_as_of: 2026-04
 sources:
   - file: pengembalian---pengembalian-barang-dan-dana/tentang-pengembalian-barangdana.md
     bagian: "artikel penuh"
+related: [shp-pesanan-004, shp-pesanan-005]
 ---
 # Tentang Pengembalian Barang/Dana
 
 ## Ringkasan
+2 tipe: Pengembalian Dana (produk gak bisa dikembalikan fisik, atau barang gak sampai) vs Pengembalian Barang/Dana (pengiriman gagal atau Pembeli ajukan & kirim balik barang). Kompensasi Penjual: kesalahan jasa kirim didukung Shopee = otomatis via Saldo Penjual; jasa kirim gak didukung = manual 1-5 hari kerja. Garansi Bebas Pengembalian kasih proteksi Penjual (gratis ongkir + proteksi barang hilang/rusak). Kuota pengembalian "kondisi awal" per Pembeli: Platinum 2x/bulan, Non-Platinum 1x/bulan, Shopee VIP tidak terbatas — TAPI ini gak ubah alur/kewajiban Penjual sama sekali.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya konsep dasar/alasan Pengembalian Barang/Dana, atau soal kuota pengembalian Pembeli. Buat FAQ pengembalian barang/dana lengkap, arahkan ke `shp-pesanan-004`; buat batas waktu pengajuan Pembeli, arahkan ke `shp-pesanan-005`.
+
+## Isi
+
 **Pengembalian Barang/Dana di Shopee**
 
 
@@ -192,3 +200,25 @@ Setiap Pembeli akan mendapatkan kuota pengembalian berdasarkan level Member Shop
   
 
 Pelajari lebih lanjut tentang[ cara memproses pengajuan pengembalian barang/dana dari Pembeli](https://seller.shopee.co.id/edu/article/16675).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu proses kompensasi (jasa kirim gak didukung Shopee) | 1-5 hari kerja via Saldo Penjual |
+| Batas banding proteksi (barang belum diterima Penjual) | 3 hari kerja sejak Pembeli kirim balik (gak hitung Minggu/libur nasional) |
+| Batas banding proteksi (barang diterima sebelum grey-out berakhir) | 2 hari kerja (gak hitung Minggu/libur nasional) |
+| Batas banding setelah grey-out (barang belum diterima) | 7 hari kerja (gak hitung Minggu/libur nasional) |
+| Kuota pengembalian "kondisi awal" — Member Platinum | 2x per bulan |
+| Kuota pengembalian "kondisi awal" — Member Non-Platinum | 1x per bulan |
+| Kuota pengembalian "kondisi awal" — Shopee VIP | tidak terbatas |
+
+## Pertanyaan diagnosa
+
+1. **Barang Pembeli tumpah/bocor (produk cairan) tanpa kemasan luar rusak, harus dikirim balik dulu?** TIDAK PERLU — khusus kasus tumpah/bocor tanpa kerusakan kemasan luar, Pembeli bisa langsung ajukan Pengembalian Dana SAJA tanpa kirim balik barang.
+2. **Status pesanan "Dikirim" tapi Pembeli klaim gak terima barang, siapa yang harus banding?** Penjual TIDAK PERLU banding — kalau disebabkan jasa kirim yang DIDUKUNG Shopee, sistem otomatis proses pengembalian dana ke Pembeli dan Shopee yang investigasi.
+3. **Member pakai jasa kirim yang gak didukung Shopee, kesalahan pengiriman terbukti jasa kirim?** Kompensasi diproses MANUAL via Saldo Penjual dalam 1-5 hari kerja (beda dari jasa kirim didukung Shopee yang otomatis).
+4. **Member belum terima barang balikan dari Pembeli, mau ajukan banding proteksi?** Ajukan dalam 3 HARI KERJA sejak Pembeli kirim balik (gak hitung Minggu/libur nasional).
+5. **Pembeli sering banget minta return dengan alasan "gak sesuai selera" (kondisi awal)?** Cek level membernya — Platinum dapat 2x/bulan, Non-Platinum cuma 1x/bulan, Shopee VIP UNLIMITED; kalau kuota habis, Pembeli kena biaya ongkir sendiri.
+6. **Member khawatir kuota pengembalian ini nambah beban kewajibannya?** TIDAK — kebijakan kuota ini gak ubah alur/kewajiban Penjual, gak pengaruhi performa toko/poin penalti, dan Penjual gak kena biaya apapun dari kebijakan ini.
+7. **Barang yang dikembalikan Pembeli ternyata rusak di perjalanan balik ke Penjual, gimana klaimnya?** Kalau produk ikut Garansi Bebas Pengembalian, arahkan ajukan banding klaim proteksi barang hilang/rusak sesuai batas waktu yang berlaku (3 hari kerja/2 hari kerja tergantung kondisi).

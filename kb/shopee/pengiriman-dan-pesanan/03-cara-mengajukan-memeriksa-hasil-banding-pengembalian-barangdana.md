@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: pengembalian---pengembalian-barang-dan-dana/cara-mengajukan-memeriksa-hasil-banding-pengembalian-barangdana.md
     bagian: "artikel penuh"
+related: [shp-pesanan-004, shp-pesanan-005]
 ---
 # Cara Mengajukan & Memeriksa Hasil Banding Pengembalian Barang/Dana
 
 ## Ringkasan
+Banding bisa diajukan buat 2 kasus: Permintaan Pengembalian Dana (via filter "Tinjau Pengembalian Dana Disetujui Shopee") dan Permintaan Pengembalian Barang/Dana (via filter "Perlu Validasi") — masing-masing beda lokasi tombol di Seller Centre. Tombol "Ajukan Banding" gak muncul kalau: barang belum diterima Penjual, masih periode grey-out, atau udah lewat batas waktu banding. Hasil banding dicek via notifikasi atau halaman Pengembalian/Pembatalan.
+
+## Kapan ini dipakai
+Dipakai kalau member gak setuju dengan keputusan Shopee soal pengembalian barang/dana dan mau ajukan banding. Buat FAQ pengembalian barang/dana umum, arahkan ke `shp-pesanan-004`; buat pengajuan pengembalian dari sisi Pembeli, arahkan ke `shp-pesanan-005`.
+
+## Isi
+
 **Cara Mengajukan Banding Pengembalian Barang/Dana**
 
 
@@ -112,3 +120,18 @@ Contoh bukti yang valid dan tidak valid:
 ⚠️  **Catatan**
 
 Jika Penjual mengajukan banding karena produk yang dikembalikan oleh Pembeli tidak sesuai dengan[ Syarat & Ketentuan Pengembalian](https://help.shopee.co.id/portal/4/article/73503?previousPage=other+articles), harap untuk melampirkan bukti sesuai kendala yang dialami. Contoh: Penjual mengajukan banding karena *box* produk telah rusak. Penjual diharapkan untuk memberikan bukti keseluruhan produk pengembalian yang diterima dengan mengacu pada ketentuan yang tertera di atas.
+
+## Angka & patokan
+Entry ini gak punya patokan numerik konkret yang tersalin (batas waktu pengajuan banding & tabel syarat bukti hilang saat scraping — lihat Batasan).
+
+## Pertanyaan diagnosa
+
+1. **Member gak setuju Shopee udah setujui pengembalian dana ke Pembeli?** Arahkan ke Seller Centre > Pengembalian/Pembatalan > tab Semua/Dana Dikembalikan ke Pembeli > filter "Tinjau Pengembalian Dana Disetujui Shopee" > Ajukan Banding.
+2. **Member terima barang balikan dalam kondisi rusak/gak lengkap dari klaim awal Pembeli?** Ini alasan SAH buat banding permintaan pengembalian barang/dana — arahkan lampirkan bukti kondisi barang yang diterima.
+3. **Member mau ajukan banding tapi tombolnya gak muncul?** Cek 3 kemungkinan: pengembalian barang belum diterima Penjual, masih dalam periode grey-out, atau udah lewat batas waktu pengajuan banding.
+4. **Member jual produk bernilai tinggi, mau tambah kekuatan bukti bandingnya?** Bisa lampirkan VIDEO PENGEMASAN sebagai bukti tambahan (khusus kasus produk bernilai tinggi) — tapi pastikan syarat dasar bukti udah terpenuhi dulu.
+5. **Member mau tau hasil bandingnya udah keluar atau belum?** Cek notifikasi di Aplikasi Shopee/Seller Centre, atau cek berkala di halaman Pengembalian/Pembatalan (Seller Centre) / Rincian Pengembalian (aplikasi).
+6. **Member ajukan banding tapi alasannya cuma "gak setuju" tanpa bukti jelas?** Kemungkinan DITOLAK — pengajuan banding wajib disertai alasan dan kendala yang jelas serta VALID.
+
+## Batasan
+Bagian "Cara Memberikan Bukti yang Valid untuk Mengajukan Banding" merujuk ke TABEL syarat & ketentuan bukti per alasan banding, TAPI tabel tersebut TIDAK tersalin (kemungkinan hilang saat scraping). Batas waktu pengajuan banding juga disebut ADA ("Penjual telah melewati batas waktu pengajuan banding") tapi angka konkretnya gak tersalin. Jangan karang isi tabel atau batas waktunya — arahkan member cek langsung artikel "alasan yang sesuai" dan "bukti yang valid" yang ditautkan di sumber, atau ke halaman Pengembalian/Pembatalan Seller Centre buat lihat batas waktu spesifik kasusnya.
