@@ -11,10 +11,18 @@ valid_as_of: 2025-11
 sources:
   - file: pp---kebijakan-penyelesaian-pesanan/mengelola-pesanan-tertunda.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-047, shp-pesanan-002]
 ---
 # Mengelola Pesanan Tertunda
 
 ## Ringkasan
+Pesanan Tertunda = pembayaran udah terverifikasi, LAGI DICEK Shopee sebelum bisa atur pengiriman, maks. 24 JAM. Penjual GAK PERLU aksi apapun. Kalau berhasil diverifikasi → pindah ke "Perlu Diproses" + notifikasi. Kalau GAGAL → batal otomatis + dana balik ke Pembeli. PENTING: pesanan tertunda TIDAK dihitung Tingkat Keterlambatan Pengiriman, dan batas waktu pengiriman diperpanjang sesuai kebutuhan.
+
+## Kapan ini dipakai
+Dipakai kalau member bingung liat status "Tertunda"/"Pesanan sedang diproses oleh Shopee" dan nanya harus ngapain. Buat kebijakan Tingkat Keterlambatan/Tidak Terselesaikan lengkap, arahkan ke `shp-pengiriman-047`; buat jenis pembatalan pesanan, arahkan ke `shp-pesanan-002`.
+
+## Isi
+
 ## **Apa itu Pesanan Tertunda?**
 
 
@@ -79,3 +87,18 @@ Jika Pembeli ingin membatalkan pesanan yang tertunda, Pembeli dapat melakukannya
 
   - Tanggal pada "batas waktu pengiriman" tidak akan terpengaruh dengan proses yang dilakukan Shopee dan batas waktu pengiriman akan diperpanjang sesuai kebutuhan (jika perlu).
   - Pesanan tertunda tidak akan dihitung dalam Tingkat Keterlambatan Pengiriman Pesanan Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu maks. proses verifikasi pesanan tertunda | 24 jam sejak pesanan dibayar |
+
+## Pertanyaan diagnosa
+
+1. **Member liat status "Pesanan sedang diproses oleh Shopee", harus atur pengiriman sekarang?** BELUM BISA — tombol Atur Pengiriman belum tersedia sampai verifikasi Shopee selesai (maks. 24 jam).
+2. **Member khawatir kena Tingkat Keterlambatan Pengiriman gara-gara pesanan tertunda lama?** GAK PERLU KHAWATIR — pesanan tertunda TIDAK dihitung dalam Tingkat Keterlambatan Pengiriman, dan batas waktu pengiriman otomatis diperpanjang kalau perlu.
+3. **Pembeli tanya kenapa pesanannya belum diproses padahal udah bayar?** Informasikan bahwa pesanan SUDAH DITERIMA dan sedang diproses lebih lanjut oleh Shopee (bukan diabaikan Penjual).
+4. **Pesanan tertunda member ternyata gagal diverifikasi Shopee?** Otomatis DIBATALKAN — Penjual & Pembeli dapat notifikasi, dana dikembalikan ke Pembeli, Penjual gak perlu tindakan apapun.
+5. **Pembeli mau batalkan pesanan yang statusnya masih tertunda?** BISA — Pembeli ajukan lewat "Batalkan Pesanan" di halaman Rincian Pesanan, selama pesanan belum dikirim.
+6. **Member mau tau di mana cek pesanan tertunda?** Seller Centre: Pesanan Saya > tab Perlu Dikirim (keterangan "Tertunda" di Aksi). Aplikasi: halaman Penjualan Saya.

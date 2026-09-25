@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **824**
+- PERINGATAN: **800**
 
 ## Status entry
 
@@ -913,82 +913,58 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/pengiriman-dan-pesanan/42-bagaimana-cara-mengetahui-pesanan-yang-tidak-terselesaikan-karena-kesa.md` · shp-pengiriman-042
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/bagaimana-cara-mengetahui-pe
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/43-faq-batas-waktu-pengiriman.md` · shp-pengiriman-043
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/faq-batas-waktu-pengiriman.m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/44-faq-kebijakan-pemenuhan-pesanan-shopee.md` · shp-pengiriman-044
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/faq-kebijakan-pemenuhan-pesa
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/45-faq-masa-pengemasan.md` · shp-pengiriman-045
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/faq-masa-pengemasan.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/46-faq-menyelesaikan-pesanan-pertama-anda.md` · shp-pengiriman-046
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/faq-menyelesaikan-pesanan-pe
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/47-kebijakan-pemenuhan-pesanan-shopee.md` · shp-pengiriman-047
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/kebijakan-pemenuhan-pesanan-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1228 kata — kemungkinan dua topik yang belum dipisah
+- 1546 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/48-kebijakan-terhadap-penyalahgunaan-informasi-pembeli.md` · shp-pengiriman-048
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/kebijakan-terhadap-penyalahg
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/49-keterlambatan-pengiriman-pesanan-tidak-terselesaikan.md` · shp-pengiriman-049
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/keterlambatan-pengiriman-pes
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1496 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/50-memahami-masa-pengemasan-dan-batas-waktu-pengiriman.md` · shp-pengiriman-050
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/memahami-masa-pengemasan-dan
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1397 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/51-memproses-mengirimkan-pesanan.md` · shp-pengiriman-051
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/memproses-mengirimkan-pesana
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/52-mengelola-pesanan-tertunda.md` · shp-pengiriman-052
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/mengelola-pesanan-tertunda.m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/53-menyelesaikan-pesanan-pertama-anda.md` · shp-pengiriman-053
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/menyelesaikan-pesanan-pertam
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1528 kata — kemungkinan dua topik yang belum dipisah
+- 1862 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/54-tampilan-informasi-pembeli.md` · shp-pengiriman-054
 
 - sumber tanpa penunjuk bagian: file: pp---kebijakan-penyelesaian-pesanan/tampilan-informasi-pembeli.m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/pengiriman-dan-pesanan/55-mengatur-pengiriman-massal.md` · shp-pengiriman-055
 

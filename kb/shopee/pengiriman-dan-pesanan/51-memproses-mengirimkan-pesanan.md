@@ -11,10 +11,18 @@ valid_as_of: 2026-02
 sources:
   - file: pp---kebijakan-penyelesaian-pesanan/memproses-mengirimkan-pesanan.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-046, shp-pengiriman-043]
 ---
 # Memproses & Mengirimkan Pesanan
 
 ## Ringkasan
+2 jenis resi: Otomatis (jasa kirim didukung Shopee, langsung ada no. resi) vs Manual (jasa kirim lain, no. resi dimasukkan manual SETELAH paket diserahkan). Simpan 2 SALINAN resi (1 tempel di paket, 1 disimpan buat bukti). Status berubah Dikemas→Dikirim butuh 1x24 JAM sejak diserahkan ke jasa kirim. 3 penyebab gagal cetak label: alamat gak akurat, alamat toko belum diatur, titik lokasi belum sesuai.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara cetak resi (otomatis/manual), cara lacak pesanan, atau kenapa gagal cetak label pengiriman. Buat FAQ ringkas menyelesaikan pesanan pertama, arahkan ke `shp-pengiriman-046`; buat FAQ batas waktu pengiriman, arahkan ke `shp-pengiriman-043`.
+
+## Isi
+
 **Mencetak dan menempelkan resi pada paket**
 
 
@@ -135,3 +143,20 @@ Untuk pesanan dengan jasa kirim yang tidak didukung Shopee, pastikan Anda telah 
 **Melacak Pesanan yang Sudah Dikirimkan melalui Aplikasi**
 
 Pelajari lebih lanjut terkait[ Jasa Kirim yang Didukung Shopee dan Jasa Kirim yang Tidak Didukung Shopee](https://seller.shopee.co.id/edu/article/17225).﻿﻿﻿﻿﻿﻿﻿﻿
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah salinan resi yang disarankan disimpan | 2 salinan |
+| Waktu update status Dikemas → Dikirim | 1x24 jam sejak diserahkan ke jasa kirim |
+| Jumlah kemungkinan penyebab gagal cetak label | 3 (alamat gak akurat, alamat toko belum diatur, titik lokasi belum sesuai) |
+
+## Pertanyaan diagnosa
+
+1. **Member pakai jasa kirim yang didukung Shopee, kapan status pesanan berubah jadi "Dikirim"?** Otomatis, TAPI butuh waktu 1x24 JAM sejak paket diserahkan ke pihak jasa kirim — bukan instan.
+2. **Member pakai Jasa Kirim Toko (gak didukung Shopee), gimana cara pesanan dilacak?** Pelacakan CUMA bisa lewat website jasa kirim terkait, BUKAN di Seller Centre — pastikan no. resi dimasukkan manual dengan benar dulu.
+3. **Member gagal cetak label pengiriman terus?** Cek 3 kemungkinan: alamat Pembeli/Penjual gak akurat (kode pos salah dll), alamat toko belum diatur, atau titik lokasi toko belum sesuai.
+4. **Member kirim paket berat/besar yang butuh lebih dari 1 resi?** Hubungi Customer Service Shopee buat bantuan — jangan pakai 1 resi buat beberapa paket sendiri.
+5. **Member mau simpan bukti kalau-kalau paket hilang di jalan?** Simpan 2 SALINAN resi — 1 ditempel di paket, 1 lagi disimpan sendiri buat bukti kirim/bukti ke Pembeli/pengecekan kalau hilang.
+6. **Member pakai resi manual, kapan status berubah jadi Dikirim?** Cuma SETELAH paket diserahkan ke jasa kirim DAN no. resi dimasukkan manual ke Seller Centre/aplikasi Shopee — beda dari resi otomatis yang langsung ada nomornya sejak awal.

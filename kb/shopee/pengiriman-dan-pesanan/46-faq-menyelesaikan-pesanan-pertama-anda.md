@@ -11,10 +11,18 @@ valid_as_of: 2026-05
 sources:
   - file: pp---kebijakan-penyelesaian-pesanan/faq-menyelesaikan-pesanan-pertama-anda.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-051, shp-toko-027]
 ---
 # FAQ Menyelesaikan Pesanan Pertama Anda
 
 ## Ringkasan
+Proses penyelesaian pesanan: atur pengiriman → kemas → tempel resi → serahkan ke jasa kirim. 1 resi = 1 pesanan (gak boleh gabung). Tipe layanan pengiriman yang udah dipilih Pembeli TIDAK BISA diubah Penjual. Resi bisa dicetak pakai printer biasa (thermal disarankan tapi gak wajib). Kalau Pembeli batal SETELAH paket diserahkan ke jasa kirim, segera hubungi jasa kirim buat minta tahan paket.
+
+## Kapan ini dipakai
+Dipakai kalau member (penjual baru) nanya cara praktis proses pesanan pertama, cetak resi, atau atur jasa kirim. Buat panduan memproses/mengirimkan pesanan lebih detail, arahkan ke `shp-pengiriman-051`; buat hal-hal umum selesaikan pesanan pertama, arahkan ke `shp-toko-027`.
+
+## Isi
+
 **1. Apa itu proses penyelesaian pesanan?**
 
 
@@ -109,3 +117,21 @@ Tidak. Satu resi digunakan untuk satu pesanan. Mohon untuk tidak mengirimkan beb
   - Pastikan selalu menggunakan resi terbaru yang dibuat oleh sistem Shopee dan mencetak resi dengan jelas agar mudah di-*scan* oleh pihak jasa kirim. Hindari menggunakan resi lama pada paket, terutama jika sebelumnya pesanan dibatalkan dan Pembeli membuat pesanan baru.
   - Setiap jasa kirim dapat memiliki jadwal *scan* resi yang berbeda, sehingga Anda disarankan untuk memastikan kepada pihak jasa kirim agar paket di-*scan* sebelum batas waktu pembatalan otomatis berakhir.
   - Jika pesanan dibatalkan oleh Pembeli setelah paket diserahkan ke jasa kirim, segera[ hubungi pihak jasa kirim terkait](https://seller.shopee.co.id/edu/article/14227) untuk meminta penahanan paket agar tidak melanjutkan pengiriman pesanan tersebut.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Jumlah opsi pengiriman | 2 (drop off, pick up) |
+| Rasio resi per pesanan | 1 resi = 1 pesanan (gak boleh gabung) |
+| Jumlah alasan umum gagal cetak resi | 2 (info alamat salah, alamat pengambilan belum diatur) |
+
+## Pertanyaan diagnosa
+
+1. **Member gak bisa atur pengiriman meski pesanan udah dibayar Pembeli?** Cek status — kemungkinan pesanan masih berstatus "Tertunda" (dalam proses verifikasi Shopee), belum bisa diatur pengirimannya.
+2. **Member mau ubah tipe layanan pengiriman yang udah dipilih Pembeli (misal dari Reguler ke Instant)?** TIDAK BISA — tipe layanan pengiriman sepenuhnya pilihan Pembeli saat checkout, Penjual gak bisa ubah setelah pesanan diterima.
+3. **Member gak punya thermal printer, gimana cetak resi?** Bisa pakai PRINTER BIASA — thermal printer cuma disarankan, bukan wajib.
+4. **Member gagal cetak resi terus?** Cek 2 kemungkinan: info alamat Pembeli/Penjual salah, atau alamat pengambilan belum diatur.
+5. **Member mau kirim 3 pesanan sekaligus pakai 1 resi biar hemat?** JANGAN — 1 resi WAJIB cuma buat 1 pesanan, jangan gabung beberapa pesanan dalam 1 resi.
+6. **Pembeli batalin pesanan padahal paket udah diserahkan ke jasa kirim?** SEGERA hubungi pihak jasa kirim buat minta paket DITAHAN, jangan biarkan pengiriman lanjut.
+7. **Member pakai resi lama dari pesanan yang udah dibatalkan buat pesanan baru?** JANGAN — selalu pakai resi TERBARU yang dibuat sistem Shopee, resi lama berisiko salah kirim/salah data.

@@ -2517,7 +2517,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2024-12",
-    "related": "",
+    "related": "shp-pesanan-002, shp-penalti-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/42-bagaimana-cara-mengetahui-pesanan-yang-tidak-terselesaikan-karena-kesa.md"
   },
@@ -2530,7 +2530,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-050, shp-pesanan-002",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/43-faq-batas-waktu-pengiriman.md"
   },
@@ -2543,7 +2543,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-09",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/44-faq-kebijakan-pemenuhan-pesanan-shopee.md"
   },
@@ -2556,7 +2556,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-050, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/45-faq-masa-pengemasan.md"
   },
@@ -2569,7 +2569,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-pengiriman-051, shp-toko-027",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/46-faq-menyelesaikan-pesanan-pertama-anda.md"
   },
@@ -2582,7 +2582,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-pengiriman-043, shp-pengiriman-045, shp-penalti-005",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/47-kebijakan-pemenuhan-pesanan-shopee.md"
   },
@@ -2595,7 +2595,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-03",
-    "related": "",
+    "related": "shp-pengiriman-060, shp-akun-010",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/48-kebijakan-terhadap-penyalahgunaan-informasi-pembeli.md"
   },
@@ -2608,7 +2608,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/49-keterlambatan-pengiriman-pesanan-tidak-terselesaikan.md"
   },
@@ -2621,7 +2621,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-pengiriman-045, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/50-memahami-masa-pengemasan-dan-batas-waktu-pengiriman.md"
   },
@@ -2634,7 +2634,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-pengiriman-046, shp-pengiriman-043",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/51-memproses-mengirimkan-pesanan.md"
   },
@@ -2647,7 +2647,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2025-11",
-    "related": "",
+    "related": "shp-pengiriman-047, shp-pesanan-002",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/52-mengelola-pesanan-tertunda.md"
   },
@@ -2660,7 +2660,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-pengiriman-051, shp-pengiriman-052",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/53-menyelesaikan-pesanan-pertama-anda.md"
   },
@@ -2673,7 +2673,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "",
+    "related": "shp-pengiriman-060, shp-pengiriman-048",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/54-tampilan-informasi-pembeli.md"
   },

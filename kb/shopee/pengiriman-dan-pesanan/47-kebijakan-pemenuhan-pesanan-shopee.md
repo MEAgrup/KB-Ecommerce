@@ -11,10 +11,18 @@ valid_as_of: 2026-03
 sources:
   - file: pp---kebijakan-penyelesaian-pesanan/kebijakan-pemenuhan-pesanan-shopee.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-043, shp-pengiriman-045, shp-penalti-005]
 ---
 # Kebijakan Pemenuhan Pesanan Shopee
 
 ## Ringkasan
+Master policy: Tingkat Pesanan Tidak Terselesaikan (2 komponen: Tingkat Pembatalan + Tingkat Pengembalian, hitung 7 hari terakhir, direkomendasikan ≤10%) dan Tingkat Keterlambatan Pengiriman (ideal <2%, kena penalti ≥10%). Contoh: 100/1000 pesanan gagal = 10% = 2 poin penalti. Sejak 3 Juli 2023: Tingkat Tidak Terselesaikan ≥60% = tambahan s/d 2 poin (awalnya ada masa tenggang otomatis terhapus, TAPI sejak 4 September 2023 poin tambahan ini TIDAK dihapus otomatis lagi). Min. 2 pesanan buat syarat penilaian Tingkat Keterlambatan.
+
+## Kapan ini dipakai
+Dipakai sebagai referensi lengkap Tingkat Pesanan Tidak Terselesaikan & Tingkat Keterlambatan Pengiriman (definisi, contoh hitung, ambang penalti). Buat FAQ ringkas batas waktu pengiriman, arahkan ke `shp-pengiriman-043`; buat FAQ masa pengemasan, arahkan ke `shp-pengiriman-045`; buat Sistem Poin Penalti lengkap, arahkan ke `shp-penalti-005`.
+
+## Isi
+
 **Apa itu Tingkat Pesanan Tidak Terselesaikan**?**
 
 
@@ -180,4 +188,26 @@ Setelah pesanan Anda diterima oleh pihak jasa kirim atau di-*pick up*, periksa a
 Beberapa Penjual mungkin meminta Pembeli membatalkan pesanan untuk menghindari penalti. Penjual yang melakukan hal tersebut akan mendapatkan poin penalti tambahan. Pelajari lebih lanjut terkait[ kapan poin penalti diberikan](https://seller.shopee.co.id/edu/article/1762/Kapan-Poin-Penalti-Diberikan).
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Periode hitung kedua metrik | 7 hari terakhir |
+| Rekomendasi ambang Tingkat Pesanan Tidak Terselesaikan | maks. 10% |
+| Contoh: 100/1.000 pesanan gagal = 10% | 2 poin penalti |
+| Ambang tambahan poin (sejak 3 Jul 2023) | Tingkat Tidak Terselesaikan ≥60% = tambahan s/d 2 poin |
+| Perubahan kebijakan penghapusan otomatis | mulai 4 September 2023, poin tambahan TIDAK dihapus otomatis lagi |
+| Ambang ideal Tingkat Keterlambatan Pengiriman | <2% |
+| Ambang kena penalti Tingkat Keterlambatan | ≥10% |
+| Poin penalti tambahan (Keterlambatan ≥10% + ≥50 pesanan telat) | 1 poin tambahan |
+| Syarat minimum pesanan buat masuk hitungan Keterlambatan | min. 2 pesanan |
+| Batas ajukan banding Keterlambatan Pengiriman | 14 hari kalender sejak tanggal penerbitan pelanggaran |
+
+## Pertanyaan diagnosa
+
+1. **Toko member punya 100 pesanan gagal dari 1.000 pesanan (7 hari terakhir), kena berapa poin?** Tingkat Pesanan Tidak Terselesaikan = 10% → 2 poin penalti (sesuai contoh resmi Shopee).
+2. **Toko member Tingkat Tidak Terselesaikannya 65%, ada penalti tambahan?** YA — sejak 3 Juli 2023, ambang ≥60% kena TAMBAHAN s/d 2 poin, dan sejak 4 September 2023 poin tambahan ini TIDAK OTOMATIS TERHAPUS lagi (beda dari kebijakan awal yang ada masa tenggang).
+3. **Member cuma punya 1 pesanan dalam 7 hari terakhir, dihitung Tingkat Keterlambatannya?** TIDAK — syarat minimum 2 pesanan buat masuk perhitungan Tingkat Keterlambatan Pengiriman.
+4. **Member aktifkan Mode Libur, apa masa pengemasan pesanan yang UDAH MASUK ikut diperpanjang?** TIDAK — pesanan yang udah masuk SEBELUM Mode Libur aktif tetap harus diselesaikan sesuai batas waktu asli, gak dapat perpanjangan.
+5. **Member minta Pembeli batalin pesanan sendiri biar gak kena penalti keterlambatan?** JANGAN — ini malah nambah poin penalti TAMBAHAN, bukan menghindarinya.
+6. **Jasa kirim didukung Shopee gagal pickup di toko member, pengaruh ke Tingkat Tidak Terselesaikan/Keterlambatan?** TIDAK — kedua metrik TIDAK terpengaruh kalau penyebabnya kegagalan pickup jasa kirim yang didukung Shopee; kalau salah dapat penalti, ajukan banding dalam 14 hari kalender.
+7. **Pesanan luar negeri member ikut dihitung Tingkat Keterlambatan?** TIDAK — Total Pesanan Terkirim buat hitungan ini TIDAK termasuk pesanan dari luar negeri.
