@@ -15,6 +15,13 @@ sources:
 # Program Hemat Biaya Kirim
 
 ## Ringkasan
+Program OPSIONAL: bayar Rp350/pesanan terkirim+terselesaikan (sudah termasuk PPN) → gak perlu tanggung biaya kirim retur akibat kelalaian sendiri (maks Rp300.000/klaim, mencakup ongkir awal+retur), klaim OTOMATIS oleh sistem (retur penuh: ongkir awal+retur disesuaikan otomatis; retur sebagian: cuma ongkir retur). Syarat ikut: gak jual produk digital, toko status normal, Akun Utama (bukan Sub-Akun), bukan Penjual Cross Border. Biaya CUMA dikenakan kalau pesanan terkirim+selesai (gak kena kalau dibatalkan). Bahkan TANPA program ini, Penjual TETAP gak nanggung ongkir retur buat 3 alasan: Pembeli ingin kembalikan sesuai kondisi awal, Pembeli gak terima barang, atau kelalaian jasa kirim.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara kerja, biaya, syarat, atau klaim Program Hemat Biaya Kirim.
+
+## Isi
+
 **Apa itu Program Hemat Biaya Kirim?**
 
 
@@ -194,4 +201,20 @@ Namun, Penjual tidak perlu menanggung biaya kirim pengembalian untuk pengajuan p
   - Pesanan rusak karena kelalaian jasa kirim
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Biaya layanan program | Rp350/pesanan terkirim+terselesaikan (sudah termasuk PPN) |
+| Maks. biaya kirim ditanggung per klaim retur | Rp300.000 (mencakup ongkir awal + ongkir retur) |
+| Biaya kalau pesanan dibatalkan | Rp0 — gak dikenakan biaya layanan |
+| Jumlah alasan retur yang tetap gratis ongkir tanpa program | 3: kembalikan sesuai kondisi awal, Pembeli gak terima barang, kelalaian jasa kirim |
+
+## Pertanyaan diagnosa
+
+1. **Member khawatir bayar Rp350 buat pesanan yang akhirnya dibatalkan Pembeli?** Gak perlu khawatir — biaya layanan program CUMA dikenakan kalau pesanan BERHASIL terkirim dan terselesaikan, bukan yang dibatalkan.
+2. **Member kena retur senilai ongkir Rp400.000 (awal+balik) akibat kesalahan sendiri, ikut program ini?** Cuma ditanggung sampai maks. Rp300.000 — sisa Rp100.000 tetap jadi tanggungan Penjual.
+3. **Member gak ikut Program Hemat Biaya Kirim, Pembeli retur karena "gak sesuai deskripsi" (kelalaian Penjual)?** Tetap harus tanggung ongkir retur sendiri — beda dengan 3 alasan retur yang otomatis gratis ongkir (kondisi awal, gak terima barang, kelalaian jasa kirim).
+4. **Member jual produk digital, mau ikut Program Hemat Biaya Kirim?** GAK BISA — salah satu syarat ikut program adalah gak menjual produk digital/produk yang gak memenuhi syarat pengembalian barang/dana.
+5. **Member pakai Sub-Akun buat kelola toko, mau daftar Program Hemat Biaya Kirim?** GAK BISA lewat Sub-Akun — wajib pakai Akun Utama buat mendaftar program ini.
+6. **Member mau klaim manual biaya kirim retur yang udah disesuaikan sistem?** GAK PERLU — sistem otomatis sesuaikan Ongkos Kirim yang Dibayarkan ke Jasa Kirim dan Ongkos Kirim Pengembalian Barang, dana langsung cair ke Saldo Penjual saat status retur selesai.
+7. **Member belum terima faktur pajak Program Hemat Biaya Kirim padahal udah sebulan bergabung?** Cek dulu data NPWP sudah dilengkapi di Shopee atau belum — faktur pajak gak akan tersedia tanpa NPWP terdaftar.

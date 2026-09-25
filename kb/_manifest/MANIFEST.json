@@ -3362,7 +3362,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-008, shp-pengiriman-009",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/33-program-cod-cek-dulu.md"
   },
@@ -3388,7 +3388,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/35-sentral-cargo.md"
   },

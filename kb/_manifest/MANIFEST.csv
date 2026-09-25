@@ -257,9 +257,9 @@ shp-pengiriman-029,Panduan Pengiriman Instant & Instant Prioritas,shopee,pengiri
 shp-pengiriman-030,Penanganan Kendala Pengiriman dan Klaim SPX Express,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,false,2026-07,"shp-pengiriman-038, shp-pengiriman-017",,shopee/pengiriman-dan-pesanan/jasa-kirim/30-penanganan-kendala-pengiriman-dan-klaim-spx-express.md
 shp-pengiriman-031,Pos Reguler,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,"shp-pengiriman-008, shp-pengiriman-009",,shopee/pengiriman-dan-pesanan/jasa-kirim/31-pos-reguler.md
 shp-pengiriman-032,Praktik Terbaik saat Menggunakan Jasa Kirim yang Tidak Didukung Shopee,shopee,pengiriman-dan-pesanan/jasa-kirim,1,canonical,true,2023-01,"shp-pengiriman-011, shp-pengiriman-022",,shopee/pengiriman-dan-pesanan/jasa-kirim/32-praktik-terbaik-saat-menggunakan-jasa-kirim-yang-tidak-didukung-shopee.md
-shp-pengiriman-033,Program COD Cek Dulu,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/33-program-cod-cek-dulu.md
+shp-pengiriman-033,Program COD Cek Dulu,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,"shp-pengiriman-008, shp-pengiriman-009",,shopee/pengiriman-dan-pesanan/jasa-kirim/33-program-cod-cek-dulu.md
 shp-pengiriman-034,Program Hemat Biaya Kirim,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-07,,,shopee/pengiriman-dan-pesanan/jasa-kirim/34-program-hemat-biaya-kirim.md
-shp-pengiriman-035,Sentral Cargo,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/35-sentral-cargo.md
+shp-pengiriman-035,Sentral Cargo,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,shp-pengiriman-040,,shopee/pengiriman-dan-pesanan/jasa-kirim/35-sentral-cargo.md
 shp-pengiriman-036,SiCepat Ekspres,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-08,,,shopee/pengiriman-dan-pesanan/jasa-kirim/36-sicepat-ekspres.md
 shp-pengiriman-037,SPX Ambil di Tempat,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-07,,,shopee/pengiriman-dan-pesanan/jasa-kirim/37-spx-ambil-di-tempat.md
 shp-pengiriman-038,SPX Express,shopee,pengiriman-dan-pesanan/jasa-kirim,2,canonical,true,2026-07,,,shopee/pengiriman-dan-pesanan/jasa-kirim/38-spx-express.md

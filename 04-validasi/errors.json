@@ -2461,8 +2461,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/program-cod-cek-dulu.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1622 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2472,9 +2471,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/program-hemat-biaya-kirim.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1247 kata — kemungkinan dua topik yang belum dipisah"
+      "1572 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -2483,9 +2480,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/sentral-cargo.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: pp---jasa-kirim/sentral-cargo.md"
     ]
   },
   {

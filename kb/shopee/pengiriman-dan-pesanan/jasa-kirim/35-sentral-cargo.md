@@ -11,10 +11,18 @@ valid_as_of: 2026-08
 sources:
   - file: pp---jasa-kirim/sentral-cargo.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-040]
 ---
 # Sentral Cargo
 
 ## Ringkasan
+Sentral Cargo = jasa kirim didukung Shopee buat kargo, min. 3kg s.d. paket besar (darat/laut). Gak ada maks. jarak pick-up khusus area Jabodetabek (kecuali Kep. Seribu) — area lain tergantung titik kantor layanan. 7 kategori produk dilarang (senjata, barang mudah meledak/terbakar, cairan/minuman beralkohol, makanan mudah busuk, obat medis/terlarang, barang berharga, aki basah).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya detail layanan, jangkauan pick-up, atau produk terlarang Sentral Cargo. Buat Asuransi Pengiriman Shopee, arahkan ke `shp-pengiriman-040`.
+
+## Isi
+
 **Layanan Jasa Kirim Sentral Cargo**
 
 
@@ -77,3 +85,19 @@ Berikut merupakan produk-produk yang tidak diperbolehkan dikirim dengan jasa kir
   - Berikan perlindungan terhadap produk yang Anda kirim dari kehilangan/kerusakan selama pengiriman. Pelajari lebih lanjut tentang[ Asuransi Pengiriman Shopee](https://seller.shopee.co.id/edu/article/17345).
   - Untuk mendapatkan informasi seputar pengiriman pesanan atau kendala dalam proses pengiriman, Anda dapat[ Menghubungi Pihak Jasa Kirim](https://seller.shopee.co.id/edu/article/14227).
   - Apabila terdapat pengajuan pengembalian barang/dana, pelajari lebih lanjut terkait[ FAQ Pengembalian Barang/Dana](https://seller.shopee.co.id/edu/article/17055/faq-pengembalian-barang-dan-dana).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Berat minimum layanan | 3kg |
+| Maks. jarak pick-up Jabodetabek | tidak ada batas (kecuali Kep. Seribu) |
+| Jumlah kategori produk dilarang | 7 kategori |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim paket 2kg pakai Sentral Cargo?** GAK BISA — Sentral Cargo layani berat minimum 3kg ke atas, bukan buat paket ringan.
+2. **Member di Jabodetabek khawatir lokasinya terlalu jauh dari kantor Sentral Cargo?** Gak perlu khawatir — gak ada batas maks. jarak pick-up buat area Jabodetabek (kecuali Kepulauan Seribu).
+3. **Member di Kepulauan Seribu mau pick-up Sentral Cargo?** Kep. Seribu DIKECUALIKAN dari aturan "gak ada maks. jarak" Jabodetabek — kemungkinan ada batasan jarak khusus, cek langsung ke jasa kirim.
+4. **Member kirim aki basah (motor/mobil) pakai Sentral Cargo?** GAK BISA — aki basah (mengandung cairan) termasuk 7 kategori produk yang dilarang dikirim via Sentral Cargo.
+5. **Member kirim parfum pakai Sentral Cargo?** GAK BISA — parfum masuk kategori "barang mudah meledak dan terbakar" yang dilarang (disebutkan eksplisit dalam daftar bareng cairan kimia, gas, dll).
