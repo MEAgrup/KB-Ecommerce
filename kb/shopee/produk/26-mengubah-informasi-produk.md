@@ -11,15 +11,19 @@ valid_as_of: 2026-08
 sources:
   - file: daftar-produk---mengelola-produk/mengubah-informasi-produk.md
     bagian: "artikel penuh"
+related: [shp-produk-001, shp-produk-008]
 ---
 # Mengubah Informasi Produk
 
 ## Ringkasan
-**Langkah-langkah Mengubah Produk**
+Panduan lengkap ubah tiap bagian info produk (nama/deskripsi/kategori, merek/atribut, harga/stok/variasi/grosir, foto/video, berat/ukuran/jasa kirim, masa pengemasan). KUNCI PENTING: kalau produk sedang PROMO atau toko dalam Mode Libur atau punya poin penalti, BANYAK field yang GAK BISA diubah (nama/deskripsi/kategori/harga/stok/min.pembelian/variasi/masa pengemasan) — kecuali foto/video yang tetap bisa diubah pas promo (tapi tetap gak bisa pas Mode Libur/poin penalti).
 
+## Kapan ini dipakai
+Dipakai buat panduan teknis cara ubah field spesifik di produk yang UDAH ADA. Kalau member gak bisa ubah sesuatu, cek dulu 3 kondisi blocker: produk lagi promo, Mode Libur aktif, atau toko punya poin penalti — beda field kena aturan beda (lihat Pertanyaan diagnosa). Buat ubah banyak produk sekaligus, arahkan ke `shp-produk-001` (Mass Update). Buat pengaturan Pre-order lebih detail, arahkan ke `shp-produk-008`.
 
+## Isi
 
-Penjual harus selalu memperbarui daftar produknya agar Pembeli dapat melihat kondisi ter-*update* dari toko. Informasi yang seringkali diubah Penjual adalah harga, stok, media maupun penambahan variasi produk.
+Berikut adalah informasi daftar produk yang dapat diubah oleh Penjual ubah:
 
   
 
@@ -345,3 +349,22 @@ Pilih **Lainnya** di sebelah kanan layar Anda pada halaman **Tambah Produk Baru*
 **Via Aplikasi Shopee**
 
 Pada halaman **Ubah Produk**, lalu pilih informasi yang ingin Anda ubah di bagian **Kondisi** atau **Pre-Order**.
+
+## Angka & patokan
+
+| Field | Bisa diubah saat produk PROMO? | Bisa diubah saat Mode Libur/poin penalti? |
+|---|---|---|
+| Nama, deskripsi, kategori | Tidak | Tidak |
+| Harga, stok, min. pembelian, variasi | Tidak | Tidak |
+| Foto, video | Ya (tetap bisa) | Tidak |
+| Masa pengemasan | Tidak | Tidak |
+| Masa pengemasan Pre-order (umum) | 3-30 hari kerja | — |
+
+## Pertanyaan diagnosa
+
+1. **Member gak bisa ubah nama/harga/stok/variasi produknya, kenapa?** Cek 3 kemungkinan: produk lagi ikut PROMO, toko lagi aktifin Mode Libur, atau toko punya poin penalti — SEMUA field ini terkunci di ketiga kondisi tersebut.
+2. **Member masih bisa ubah foto/video meski produk lagi promo?** Ya BISA — foto/video itu PENGECUALIAN, tetap bisa diubah pas promo. Tapi TETAP terkunci kalau Mode Libur aktif atau ada poin penalti.
+3. **Member set Maks. Jumlah Pembelian tapi lupa/gak diisi pas mulai promo?** Sistem otomatis pakai pengaturan default yang udah ditentukan sebelumnya per produk — gak dibiarkan kosong/unlimited.
+4. **Member mau kasih Min. Jumlah Pembelian buat produk yang mau di-promo-in?** Ingat: Maks. Jumlah Pembelian di promo HARUS lebih besar dari Min. Jumlah Pembelian yang udah diatur — dan Min. Jumlah Pembelian gak bisa diubah lagi begitu produk masuk promo.
+5. **Member ubah harga produk sembarangan, kenapa produk keblokir?** Sistem otomatis blokir kalau harga dianggap gak sesuai/gak wajar buat produk yang dijual — pastikan harga masuk akal secara pasar.
+6. **Member jual produk kategori besar (bulky product)?** Wajib lengkapi atribut Dimensi (P×L×T) — beda dari kewajiban umum, ini spesifik buat kategori produk besar.

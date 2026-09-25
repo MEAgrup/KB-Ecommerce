@@ -3635,7 +3635,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-002, shp-produk-028",
     "decisions": "",
     "path": "shopee/produk/01-mengakses-fitur-edit-secara-massal.md"
   },
@@ -3648,7 +3648,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-001, shp-produk-027",
     "decisions": "",
     "path": "shopee/produk/02-tentang-edit-atribut.md"
   },
@@ -3700,7 +3700,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-03",
-    "related": "",
+    "related": "shp-produk-007, shp-produk-012",
     "decisions": "",
     "path": "shopee/produk/06-ketentuan-penjualan-obat-bebas-dan-obat-bebas-terbatas.md"
   },
@@ -3713,7 +3713,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-006",
     "decisions": "",
     "path": "shopee/produk/07-panduan-uploadupdate-produk-obat-bebas-obat-bebas-terbatas-dan-obat-ke.md"
   },
@@ -3739,7 +3739,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-011, shp-produk-013, shp-produk-017",
     "decisions": "",
     "path": "shopee/produk/09-cara-memperbaiki-produk-yang-diturunkan.md"
   },
@@ -3752,7 +3752,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-011, shp-produk-017",
     "decisions": "",
     "path": "shopee/produk/10-faq-penjualan-produk-dilarang.md"
   },
@@ -3765,7 +3765,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-02",
-    "related": "shp-produk-107",
+    "related": "shp-produk-009, shp-produk-013, shp-produk-107",
     "decisions": "",
     "path": "shopee/produk/11-jenis-pelanggaran-produk-di-shopee.md"
   },
@@ -3804,7 +3804,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-006",
     "decisions": "",
     "path": "shopee/produk/12-kebijakan-penjualan-produk-makanan-minuman-dan-obatvitaminsuplemen-pal.md"
   },
@@ -3908,7 +3908,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-011",
     "decisions": "",
     "path": "shopee/produk/16-produk-yang-dilarang-penjualan-produk-media-dan-layanan-yang-mengandun.md"
   },
@@ -3921,7 +3921,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "shp-produk-107",
+    "related": "shp-produk-009, shp-produk-013, shp-produk-107",
     "decisions": "",
     "path": "shopee/produk/17-tentang-pelanggaran-produk.md"
   },
@@ -3934,7 +3934,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-produk-013",
     "decisions": "",
     "path": "shopee/produk/18-tentang-penyalahgunaan-merek.md"
   },
@@ -3947,7 +3947,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-produk-009, shp-produk-020",
     "decisions": "",
     "path": "shopee/produk/19-cara-meningkatkan-kualitas-daftar-produk.md"
   },
@@ -3960,7 +3960,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-019",
     "decisions": "",
     "path": "shopee/produk/20-mengoptimalkan-daftar-produk-anda.md"
   },
@@ -3973,7 +3973,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-produk-020",
     "decisions": "",
     "path": "shopee/produk/21-bagaimana-cara-menggunakan-standar-produk-shopee-untuk-membantu-mening.md"
   },
@@ -3999,7 +3999,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-biaya-008",
     "decisions": "",
     "path": "shopee/produk/23-mengelola-daftar-produk-berukuran-khusus.md"
   },
@@ -4012,7 +4012,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-022",
     "decisions": "",
     "path": "shopee/produk/24-mengelola-daftar-produk-digital-dan-jasa.md"
   },
@@ -4038,7 +4038,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-001, shp-produk-008",
     "decisions": "",
     "path": "shopee/produk/26-mengubah-informasi-produk.md"
   },
@@ -4051,7 +4051,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-002, shp-produk-008",
     "decisions": "",
     "path": "shopee/produk/27-tentang-kategori-dan-atribut-produk.md"
   },
@@ -4064,7 +4064,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-produk-001, shp-produk-019, shp-produk-021, shp-produk-027",
     "decisions": "",
     "path": "shopee/produk/28-meng-upload-daftar-produk.md"
   },
@@ -4077,7 +4077,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-produk-019, shp-produk-020",
     "decisions": "",
     "path": "shopee/produk/29-tips-mengoptimalkan-daftar-produk.md"
   },

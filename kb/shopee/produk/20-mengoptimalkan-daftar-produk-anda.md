@@ -11,13 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: daftar-produk---memperbaiki-daftar-produk/mengoptimalkan-daftar-produk-anda.md
     bagian: "artikel penuh"
+related: [shp-produk-019]
 ---
 # Mengoptimalkan Daftar Produk Anda
 
 ## Ringkasan
-**Pentingnya Mengoptimalkan Daftar Produk**
+Fitur Tinjau Rincian Produk (filter 4 jenis kendala: Nilai/Kategori Salah, Foto, Informasi Kurang Lengkap, Lainnya) buat identifikasi produk yang perlu dioptimalkan, plus fitur Optimasi AI (Panduan Ukuran, Atribut Utama, Background foto polos, Poin Utama Penjualan min. 20 karakter) yang otomatis optimasi foto cover & nama produk pakai AI (proses hingga 24 jam). Ada standar minimum: min. 3 foto, min. 3 atribut, nama produk 25-100 karakter, deskripsi min. 100 karakter.
 
+## Kapan ini dipakai
+Dipakai buat bantu member OPTIMASI listing yang udah ada (bukan produk yang lagi bermasalah/diturunkan) — cek kendala spesifik via filter, atau pakai fitur Optimasi AI buat otomatisasi. Beda dari `shp-produk-019` yang fokus TIPS manual (foto/nama/deskripsi) — entry ini lebih ke fitur SISTEM (filter kendala otomatis + AI).
 
+## Isi
 
 Banyaknya rincian yang perlu diisi saat mendaftarkan suatu produk seringkali menjadi alasan mengapa produk tersebut tidak memiliki informasi produk yang lengkap. Oleh karena itu, Shopee telah mengembangkan sistem yang akan membantu Anda mengidentifikasi masalah umum pada daftar produk dan memberikan panduan langkah sederhana untuk memperbaikinya agar daftar produk lebih optimal untuk menarik penjualan.
 
@@ -212,3 +216,23 @@ Selain itu, jika Anda merasa **Foto Cover** dan **Nama Produk** yang dihasilkan 
 Berikut adalah perbedaan antara Fitur Optimasi Produk dan Optimasi AI:
 
 Informasi produk yang saling terintegrasi antara fitur Optimasi Produk dan Optimasi AI adalah Panduan Ukuran. Penjual dapat mengisi **Panduan Ukuran** melalui salah satu fitur saja (Optimasi Produk/Optimasi AI), dan informasi tersebut akan otomatis tersinkronisasi ke fitur optimasi lainnya untuk meningkatkan performa produk Anda.
+
+## Angka & patokan
+
+| Kendala | Standar minimum |
+|---|---|
+| Foto produk | min. 3 foto |
+| Atribut produk | min. 3 atribut |
+| Nama produk | 25-100 karakter |
+| Deskripsi produk | min. 100 karakter |
+| Foto background polos (Optimasi AI) | komposisi produk min. 60%, tanpa watermark |
+| Poin Utama Penjualan (Optimasi AI) | min. 20 karakter |
+| Waktu proses Optimasi AI (status Diproses) | bisa sampai 24 jam |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau produknya kurang apa buat optimal?** Arahkan cek *tab* Tinjau Rincian Produk, filter **Kendala Informasi Produk** (4 jenis: Nilai/Kategori Salah, Foto, Informasi Kurang Lengkap, Lainnya) — sistem udah identifikasi otomatis, gak perlu cek manual satu-satu.
+2. **Member pakai Optimasi AI tapi tombol Kelola gak muncul?** Cek status — kalau masih "Diproses" (bisa sampai 24 jam), tombol Kelola emang belum muncul, bukan bug.
+3. **Member mau isi Panduan Ukuran, lewat fitur mana?** Gak masalah — Optimasi Produk dan Optimasi AI SINKRON buat Panduan Ukuran, isi di salah satu aja udah otomatis ke-apply ke keduanya.
+4. **Member gak suka hasil rekomendasi foto cover/nama produk dari AI?** Ada 2 opsi: pilih **Beri Saran** (buat penempatan foto cover) atau kasih *feedback* lewat icon di tiap foto/nama (buat akurasi rekomendasi AI ke depannya) — bukan cuma terima apa adanya.
+5. **Member nanya kenapa produknya gak "Perlu Diiklankan"/"Berpotensi Harga Terbaik"?** Itu FILTER kondisi, bukan status wajib — produk cuma ditandai kalau memang memenuhi syarat program terkait (Iklan Shopee / Garansi Harga Terbaik), bukan semua produk otomatis dapat tanda ini.

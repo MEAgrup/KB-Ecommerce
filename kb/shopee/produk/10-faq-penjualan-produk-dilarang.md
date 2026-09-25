@@ -11,13 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: daftar-produk---kebijakan-pelanggaran-produk/faq-penjualan-produk-dilarang.md
     bagian: "artikel penuh"
+related: [shp-produk-011, shp-produk-017]
 ---
 # FAQ Penjualan Produk Dilarang
 
 ## Ringkasan
-**1.** **Barang apa saja yang dilarang dan dibatasi untuk dijual di Shopee?**
+FAQ campuran seputar produk dilarang: cara lapor produk terlarang, larangan cantumin kontak pihak ketiga (WA/LINE/dll) di foto produk, banding penalti naikin harga sebelum promo, dan boleh/gak-nya jual makanan rumahan (wajib izin BPOM + SPP-PIRT) dan produk bekas (boleh, KECUALI barang impor bekas/pakaian dalam bekas/kaos kaki bekas/kosmetik bekas).
 
+## Kapan ini dipakai
+Dipakai buat pertanyaan spesifik yang gak masuk kategori besar lain — kontak pihak ketiga di foto, penalti naikin harga sebelum promo, atau produk bekas/makanan rumahan boleh dijual atau enggak. Buat daftar lengkap produk terlarang, arahkan ke `shp-produk-011`/`shp-produk-017`.
 
+## Isi
 
 Pelajari lebih lanjut di[ produk yang dilarang dan dibatasi untuk dijual di Shopee](https://seller.shopee.co.id/edu/article/376).
 
@@ -94,3 +98,12 @@ Ya, Anda dapat menjual produk bekas di Shopee selama tidak melanggar[ Kebijakan 
 
 Pahami selengkapnya di[ Kebijakan Barang yang dilarang dan dibatasi  
 ](https://help.shopee.co.id/portal/article/71189?source=4&previousPage=other%20articles)
+
+## Pertanyaan diagnosa
+
+1. **Member mau kasih nomor WA/kontak di foto produk biar gampang dihubungi?** TIDAK BOLEH — dilarang total, alasannya buat lindungi Pembeli dari transaksi curang di luar platform Shopee. Ini berlaku ke SEMUA jenis kontak pihak ketiga (WA, LINE, Facebook, dll).
+2. **Produk member kena penalti karena diduga naikin harga sebelum promosi?** Bisa banding dengan isi surat pernyataan gak akan ulangi pelanggaran naikin harga 1 minggu sebelum promo — ini beda dari banding pelanggaran konten biasa.
+3. **Member mau jual makanan buatan sendiri?** Boleh, TAPI wajib punya izin BPOM DAN Sertifikat SPP-PIRT — dua-duanya, bukan salah satu aja.
+4. **Member mau jual barang bekas?** Boleh secara umum, KECUALI 4 jenis: barang impor bekas (pakaian/sepatu dll), pakaian dalam bekas, kaos kaki bekas, dan kosmetik bekas/*preloved* — ini dilarang total meski produk bekas lain boleh.
+5. **Member Shopee Mall nanya ada aturan khusus produk dilarang buat Mall?** Aturan dasarnya SAMA kayak Penjual biasa, tapi tambahan: wajib paham Panduan Daftar Produk Shopee Mall Berkualitas Tinggi (standar kualitas listing lebih tinggi, bukan daftar larangan terpisah).
+6. **Member nemu produk terlarang dijual toko lain, mau lapor?** Arahkan ke halaman produk tersebut → pilih **Laporkan produk ini** di menu kanan atas (via aplikasi Shopee).

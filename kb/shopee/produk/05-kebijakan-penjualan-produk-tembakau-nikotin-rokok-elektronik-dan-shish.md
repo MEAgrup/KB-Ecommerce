@@ -15,9 +15,12 @@ sources:
 # Kebijakan Penjualan Produk Tembakau, Nikotin, Rokok Elektronik, dan Shisha
 
 ## Ringkasan
-**Apa itu Produk Tembakau, Nikotin, Rokok Elektronik, dan Shisha?**
+Daun tembakau/kertas linting/produk nikotin/alat racikan rokok = DILARANG total di Shopee. Rokok elektronik (vape) & shisha BOLEH dijual tapi cuma di 5 kategori khusus "Elektronik > Rokok Elektronik & Shisha", dan WAJIB centang "Mengandung baterai/magnet/cairan/bahan mudah terbakar" di Produk Berbahaya. Pelanggaran → pembatasan akun sementara (bisa dipulihkan via CS + surat pernyataan), tapi pelanggaran ULANG di kategori ini → pembatasan PERMANEN.
 
+## Kapan ini dipakai
+Dipakai kalau member mau jual rokok elektronik/shisha (cek kategori & syarat upload) atau akunnya kena pembatasan karena kebijakan ini (cara pulihkan). Kalau member mau jual rokok konvensional/tembakau/daun linting/alat racikan, langsung jawab TIDAK BOLEH — gak ada jalur legal buat itu di Shopee.
 
+## Isi
 
 Produk tembakau mengacu pada produk yang secara keseluruhan atau sebagian terbuat dari daun tembakau sebagai bahan bakunya dan dibungkus menggunakan kertas, lalu penggunaannya dengan cara dibakar. Contoh produk tembakau yang dikenal adalah rokok.
 
@@ -81,3 +84,18 @@ Anda dapat menghubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu
 
   - Setelah melampirkan surat pernyataan, tim Customer Service Shopee akan menghubungi Anda dalam waktu 2x24 jam untuk menjelaskan dan membantu lebih lanjut dalam menyelesaikan masalah pelanggaran ini.
   - Pastikan Anda tidak melakukan pelanggaran yang sama setelah menyelesaikan pengajuan pemulihan akun. Jika melakukan pelanggaran kebijakan kategori **Elektronik - Rokok Elektronik & Shisha**, maka akun Anda akan dibatasi secara permanen.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Kategori yang boleh dipakai buat rokok elektronik/shisha | 5 sub-kategori di bawah "Elektronik > Rokok Elektronik & Shisha" |
+| Waktu respons CS setelah lampirkan surat pernyataan | maks. 2x24 jam |
+| Pelanggaran berulang di kategori ini | pembatasan akun PERMANEN |
+
+## Pertanyaan diagnosa
+
+1. **Member mau jual rokok/tembakau/daun linting/alat racikan?** TIDAK BOLEH — ini dilarang total, gak ada jalur legal buat jual produk ini di Shopee sama sekali.
+2. **Member mau jual vape/shisha, boleh gak?** Boleh, TAPI harus masuk 1 dari 5 kategori spesifik "Elektronik > Rokok Elektronik & Shisha" (bukan kategori umum), dan WAJIB centang keterangan Produk Berbahaya.
+3. **Akun member dibatasi karena kebijakan ini, gimana cara pulihkan?** Hubungi CS Shopee + lampirkan bukti dan surat pernyataan resmi (link PDF di `## Isi`) — respons CS maks. 2x24 jam. TAPI kalau ini pelanggaran KEDUA di kategori yang sama, pembatasan jadi PERMANEN, gak bisa diajukan pemulihan lagi.
+4. **Produk vape member gagal kirim / kena biaya tambahan ongkir?** Cek dulu keterangan Produk Berbahaya-nya udah bener belum ("mengandung baterai/magnet/cairan/bahan mudah terbakar") — keterangan yang salah bisa nambah biaya kirim atau bikin gagal kirim.

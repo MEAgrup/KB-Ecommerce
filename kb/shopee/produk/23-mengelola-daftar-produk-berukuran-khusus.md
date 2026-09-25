@@ -11,13 +11,17 @@ valid_as_of: 2026-04
 sources:
   - file: daftar-produk---mengelola-produk/mengelola-daftar-produk-berukuran-khusus.md
     bagian: "artikel penuh"
+related: [shp-biaya-008]
 ---
 # Mengelola Daftar Produk Berukuran Khusus
 
 ## Ringkasan
-**Apa itu Produk Berukuran Khusus?**
+Produk Ukuran Khusus = min. SALAH SATU dari 3 kriteria (berat ≥5kg, dimensi P/L/T ≥60cm, atau volume ≥20.000cm³). Wajib isi atribut **Dimensi (P×L×T)** di tab Spesifikasi (ukuran PRODUK asli) — beda dari **Ukuran Paket** di tab Pengiriman (ukuran PAKET pesanan, dipakai hitung ongkir). Pengiriman butuh jasa kirim yang bisa handle kapasitas besar (cek batas maks. tiap ekspedisi).
 
+## Kapan ini dipakai
+Dipakai kalau member nanya produknya masuk kategori "ukuran khusus" atau enggak, atau bingung beda Dimensi vs Ukuran Paket. Kriteria ini juga relevan buat biaya Gratis Ongkir XTRA (beda skema buat produk ukuran khusus — lihat `shp-biaya-008`).
 
+## Isi
 
 Produk Berukuran Khusus adalah produk yang memiliki min. salah satu dari kriteria berikut:
 
@@ -88,3 +92,19 @@ Setiap layanan jasa kirim memiliki batas maksimum berat dan ukuran paket yang be
   
 
 Pelajari lebih lanjut tentang[ Jasa Kirim yang Didukung Shopee vs Jasa Kirim yang Tidak Didukung Shopee (Tidak Terintegrasi)](https://seller.shopee.co.id/edu/article/17225) dan[ Batasan Berat dan Ukuran Paket untuk Pengiriman di Shopee](https://seller.shopee.co.id/edu/article/16158).
+
+## Angka & patokan
+
+| Kriteria Produk Ukuran Khusus (salah satu terpenuhi) | Ambang batas |
+|---|---|
+| Berat produk | ≥ 5kg |
+| Dimensi panjang/lebar/tinggi | ≥ 60cm |
+| Volume produk | ≥ 20.000cm³ |
+
+## Pertanyaan diagnosa
+
+1. **Member gak yakin produknya masuk "ukuran khusus" atau bukan?** Cek 3 kriteria — cukup SALAH SATU terpenuhi (berat ≥5kg ATAU dimensi ≥60cm di salah satu sisi ATAU volume ≥20.000cm³), gak perlu semua kriteria terpenuhi sekaligus.
+2. **Member bingung isi Dimensi (P×L×T) di Spesifikasi vs Ukuran Paket di Pengiriman — sama gak?** BEDA — Dimensi (Spesifikasi) itu ukuran PRODUK aslinya (info yang dilihat Pembeli), Ukuran Paket (Pengiriman) itu ukuran PAKET pengiriman (dipakai hitung ongkir). Isi dua-duanya dengan benar, jangan disamakan.
+3. **Produk gagal di-upload karena atribut ukuran khusus?** Cek atribut wajib (tanda bintang/asterisk) di tab Spesifikasi — kalau produk masuk kategori ukuran khusus, Dimensi (P×L×T) itu WAJIB diisi.
+4. **Member kesulitan cari jasa kirim buat produk besar/berat?** Cek dulu batas maks. berat/ukuran tiap ekspedisi yang didukung Shopee — kalau semua gak sanggup, pertimbangkan pakai jasa kirim toko sendiri.
+5. **Member nanya soal biaya Gratis Ongkir XTRA buat produk ukuran khusus?** Beda skema dari produk ukuran biasa (plafon lebih tinggi) — arahkan ke `shp-biaya-008` buat rincian persentase & plafon per kategori.

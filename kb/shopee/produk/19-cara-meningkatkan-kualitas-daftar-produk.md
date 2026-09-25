@@ -11,13 +11,17 @@ valid_as_of: 2026-04
 sources:
   - file: daftar-produk---memperbaiki-daftar-produk/cara-meningkatkan-kualitas-daftar-produk.md
     bagian: "artikel penuh"
+related: [shp-produk-009, shp-produk-020]
 ---
 # Cara Meningkatkan Kualitas Daftar Produk
 
 ## Ringkasan
-**Memilih Kategori yang Tepat**
+Panduan praktis naikin kualitas listing: kategori tepat (salah kategori → diturunkan, ada 7 hari kalender buat perbaiki), foto berkualitas (maks. 9 foto termasuk sampul, pencahayaan cukup, background netral, pakai model buat fashion, tambah watermark), nama produk terstruktur (huruf kapital tiap kata awal, gak boleh kata subjektif/promosi/simbol), dan deskripsi informatif (spesifikasi + fungsi + garansi, bisa tambah hingga 12 gambar buat Penjual terpilih).
 
+## Kapan ini dipakai
+Dipakai buat kasih TIPS proaktif ningkatin kualitas listing (bukan cuma buat produk yang udah kena masalah) — cara bikin foto/nama/deskripsi yang bagus dari awal. Buat produk yang UDAH diturunkan/diblokir dan perlu diperbaiki, arahkan ke `shp-produk-009`. Buat panduan optimasi lanjutan/strategi, arahkan ke `shp-produk-020`.
 
+## Isi
 
 Meng-*upload* produk dengan kategori yang tepat dapat memudahkan Pembeli untuk menemukan produk Anda ketika sedang mencari di kategori tersebut. Apabila produk dimasukkan ke dalam kategori/sub kategori yang tidak sesuai, maka produk akan diturunkan. Anda dapat melihat produk yang diturunkan karena menggunakan kategori yang salah di *tab* **Diturunkan** pada halaman[ **Produk Saya**](https://seller.shopee.co.id/portal/product/list/violation/deboosted).
 
@@ -185,3 +189,22 @@ Misalnya, jika Anda menjelaskan bahan dari suatu produk, Anda dapat meng-*upload
 **2. Sertakan kata-kata promosi**
 
 Ketika menggunakan fitur Kreasi Gambar, Anda dapat menambahkan teks ke dalam gambar Anda. Sertakan kata-kata seperti 'Diskon' pada gambar produk yang berlaku untuk menarik perhatian Pembeli dan mendorong visibilitas terhadap promosi Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas perbaiki kategori salah sebelum poin penalti | maks. 7 hari kalender sejak diturunkan |
+| Maks. foto produk (termasuk sampul) | 9 foto |
+| Maks. gambar dalam deskripsi (Penjual terpilih, fitur Kreasi Gambar) | 12 gambar |
+| Rasio tinggi:lebar gambar deskripsi | 0,5 s.d. 32 |
+| Dimensi file minimum gambar deskripsi | 1000px × 32px (gak ada maksimum, tapi file besar diperkecil otomatis) |
+| Ukuran file maksimum gambar deskripsi | 2MB |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau kenapa "Hot Item"/"Best Seller"/harga di nama produk dilarang?** Itu masuk kata subjektif/promosi yang gak diperbolehkan di Nama Produk — bisa bikin produk kena spam/diturunkan. Arahkan pakai format Merek+Model+Spesifikasi+Ukuran aja.
+2. **Member mau nulis merek pakai huruf kapital semua (misal "NIKE")?** Boleh KHUSUS buat merek (contoh: ASUS, MINISO) — tapi kata lain di nama produk gak boleh huruf besar semua.
+3. **Member Penjual biasa (bukan terpilih) mau upload gambar di deskripsi produk?** Fitur upload hingga 12 gambar di deskripsi itu KHUSUS Penjual terpilih — kalau bukan Penjual terpilih, gak bisa akses fitur ini.
+4. **Member mau tambah watermark, taruh dimana yang paling aman?** Di TENGAH produk, bukan di pojok — watermark pojok gampang di-crop/dihapus orang lain, jadi kurang efektif buat lindungi foto.
+5. **Member komplain gambar deskripsi yang di-upload keburu diperkecil sistem?** Cek dulu ukuran file-nya — kalau lebih dari 2MB atau dimensinya kegedean, sistem otomatis memperkecil (bukan bug, itu behavior normal).

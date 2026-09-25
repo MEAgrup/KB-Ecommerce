@@ -278,20 +278,20 @@ shp-ekspor-002,Tentang Program Ekspor Shopee,shopee,penjual-star-dan-mall,3,cano
 shp-mall-003,Penjual Shopee Mall,shopee,penjual-star-dan-mall,3,canonical,true,2026-08,"shp-mall-002, shp-mall-101",,shopee/penjual-star-dan-mall/03-penjual-shopee-mall.md
 shp-mall-004,Tentang Shopee Farma,shopee,penjual-star-dan-mall,2,canonical,true,2026-08,shp-mall-003,,shopee/penjual-star-dan-mall/04-tentang-shopee-farma.md
 shp-mall-101,Shopee Mall vs Star vs Reguler — perbandingan dari pengalaman lapangan,shopee,penjual-star-dan-mall,2,canonical,true,tidak-diketahui,shp-mall-001,,shopee/penjual-star-dan-mall/06-shopee-mall-vs-star-perbandingan-pengalaman-lapangan.md
-shp-produk-001,Mengakses Fitur Edit Secara Massal,shopee,produk,1,canonical,false,2026-04,,,shopee/produk/01-mengakses-fitur-edit-secara-massal.md
-shp-produk-002,Tentang Edit Atribut,shopee,produk,1,canonical,false,2026-04,,,shopee/produk/02-tentang-edit-atribut.md
+shp-produk-001,Mengakses Fitur Edit Secara Massal,shopee,produk,1,canonical,false,2026-04,"shp-produk-002, shp-produk-028",,shopee/produk/01-mengakses-fitur-edit-secara-massal.md
+shp-produk-002,Tentang Edit Atribut,shopee,produk,1,canonical,false,2026-04,"shp-produk-001, shp-produk-027",,shopee/produk/02-tentang-edit-atribut.md
 shp-produk-003,Cara Melengkapi Informasi Halal/Non-Halal pada Produk dan Mendaftarkan Sertifikat Halal di Seller Centre,shopee,produk,1,canonical,false,2026-04,,,shopee/produk/03-cara-melengkapi-informasi-halalnon-halal-pada-produk-dan-mendaftarkan-.md
 shp-produk-004,Kebijakan Penjualan Produk Emas,shopee,produk,2,canonical,true,2026-05,,,shopee/produk/04-kebijakan-penjualan-produk-emas.md
 shp-produk-005,"Kebijakan Penjualan Produk Tembakau, Nikotin, Rokok Elektronik, dan Shisha",shopee,produk,2,canonical,true,2026-05,,,shopee/produk/05-kebijakan-penjualan-produk-tembakau-nikotin-rokok-elektronik-dan-shish.md
-shp-produk-006,Ketentuan Penjualan Obat Bebas dan Obat Bebas Terbatas,shopee,produk,2,canonical,true,2026-03,,,shopee/produk/06-ketentuan-penjualan-obat-bebas-dan-obat-bebas-terbatas.md
-shp-produk-007,"Panduan Upload/Update Produk Obat Bebas, Obat Bebas Terbatas, dan Obat Keras",shopee,produk,2,canonical,true,2026-04,,,shopee/produk/07-panduan-uploadupdate-produk-obat-bebas-obat-bebas-terbatas-dan-obat-ke.md
+shp-produk-006,Ketentuan Penjualan Obat Bebas dan Obat Bebas Terbatas,shopee,produk,2,canonical,true,2026-03,"shp-produk-007, shp-produk-012",,shopee/produk/06-ketentuan-penjualan-obat-bebas-dan-obat-bebas-terbatas.md
+shp-produk-007,"Panduan Upload/Update Produk Obat Bebas, Obat Bebas Terbatas, dan Obat Keras",shopee,produk,2,canonical,true,2026-04,shp-produk-006,,shopee/produk/07-panduan-uploadupdate-produk-obat-bebas-obat-bebas-terbatas-dan-obat-ke.md
 shp-produk-008,Produk Pre-order,shopee,produk,2,canonical,true,2026-04,,,shopee/produk/08-produk-pre-order.md
-shp-produk-009,Cara Memperbaiki Produk yang Diturunkan,shopee,produk,2,canonical,true,2026-04,,,shopee/produk/09-cara-memperbaiki-produk-yang-diturunkan.md
-shp-produk-010,FAQ Penjualan Produk Dilarang,shopee,produk,2,canonical,true,2026-08,,,shopee/produk/10-faq-penjualan-produk-dilarang.md
-shp-produk-011,Jenis Pelanggaran Produk di Shopee,shopee,produk,2,canonical,true,2026-02,shp-produk-107,,shopee/produk/11-jenis-pelanggaran-produk-di-shopee.md
+shp-produk-009,Cara Memperbaiki Produk yang Diturunkan,shopee,produk,2,canonical,true,2026-04,"shp-produk-011, shp-produk-013, shp-produk-017",,shopee/produk/09-cara-memperbaiki-produk-yang-diturunkan.md
+shp-produk-010,FAQ Penjualan Produk Dilarang,shopee,produk,2,canonical,true,2026-08,"shp-produk-011, shp-produk-017",,shopee/produk/10-faq-penjualan-produk-dilarang.md
+shp-produk-011,Jenis Pelanggaran Produk di Shopee,shopee,produk,2,canonical,true,2026-02,"shp-produk-009, shp-produk-013, shp-produk-107",,shopee/produk/11-jenis-pelanggaran-produk-di-shopee.md
 shp-produk-101,Riset keyword & traffic sebelum jualan biar lebih cepat laku,shopee,produk,1,canonical,false,tidak-diketahui,shp-produk-028,,shopee/produk/11-riset-keyword-dan-traffic-buat-seller-pemula.md
 shp-produk-102,Diagnosa toko sepi — cek funnel dulu sebelum nyalahin harga,shopee,produk,2,canonical,false,tidak-diketahui,"shp-produk-101, shp-akun-101",,shopee/produk/12-diagnosa-toko-sepi-lewat-funnel.md
-shp-produk-012,"Kebijakan Penjualan Produk Makanan, Minuman, dan Obat/Vitamin/Suplemen Palsu atau yang Dikemas Ulang",shopee,produk,1,canonical,true,2026-08,,,shopee/produk/12-kebijakan-penjualan-produk-makanan-minuman-dan-obatvitaminsuplemen-pal.md
+shp-produk-012,"Kebijakan Penjualan Produk Makanan, Minuman, dan Obat/Vitamin/Suplemen Palsu atau yang Dikemas Ulang",shopee,produk,1,canonical,true,2026-08,shp-produk-006,,shopee/produk/12-kebijakan-penjualan-produk-makanan-minuman-dan-obatvitaminsuplemen-pal.md
 shp-produk-013,Meningkatkan Kualitas Daftar Produk yang Dihapus/Diblokir,shopee,produk,3,canonical,true,2026-08,shp-produk-107,,shopee/produk/13-meningkatkan-kualitas-daftar-produk-yang-dihapusdiblokir.md
 shp-produk-103,Pola bikin produk hero dan scale up sebelum kompetitor masuk,shopee,produk,2,canonical,false,tidak-diketahui,"shp-produk-101, shp-produk-102",,shopee/produk/13-pola-bikin-produk-hero-dan-scale-up.md
 shp-produk-014,Produk yang Dilarang: Bahan Kimia Berbahaya dan Produk yang Mudah Meledak Beserta Turunannya,shopee,produk,1,canonical,true,2026-06,,,shopee/produk/14-produk-yang-dilarang-bahan-kimia-berbahaya-dan-produk-yang-mudah-meled.md
@@ -299,20 +299,20 @@ shp-produk-104,"Tiga syarat produk laris — nongol, dicari, dibeli",shopee,prod
 shp-produk-105,Laris tanpa harus jadi yang termurah,shopee,produk,2,canonical,false,tidak-diketahui,fnd-harga-001,,shopee/produk/15-laris-tanpa-jadi-termurah.md
 shp-produk-015,Produk yang Dilarang: Penjualan Produk Isi Ulang/Top up Saldo Uang Digital,shopee,produk,1,canonical,true,2026-07,,,shopee/produk/15-produk-yang-dilarang-penjualan-produk-isi-ulangtop-up-saldo-uang-digit.md
 shp-produk-106,Cara mencari produk potensial jadi calon produk hero,shopee,produk,2,canonical,false,tidak-diketahui,"shp-produk-103, shp-produk-104",,shopee/produk/16-cara-mencari-produk-potensial.md
-shp-produk-016,Produk yang Dilarang: Penjualan Produk Media dan Layanan yang Mengandung Unsur Pornografi,shopee,produk,2,canonical,true,2026-04,,,shopee/produk/16-produk-yang-dilarang-penjualan-produk-media-dan-layanan-yang-mengandun.md
-shp-produk-017,Tentang Pelanggaran Produk,shopee,produk,2,canonical,true,2026-01,shp-produk-107,,shopee/produk/17-tentang-pelanggaran-produk.md
-shp-produk-018,Tentang Penyalahgunaan Merek,shopee,produk,1,canonical,true,2026-01,,,shopee/produk/18-tentang-penyalahgunaan-merek.md
-shp-produk-019,Cara Meningkatkan Kualitas Daftar Produk,shopee,produk,2,canonical,true,2026-04,,,shopee/produk/19-cara-meningkatkan-kualitas-daftar-produk.md
-shp-produk-020,Mengoptimalkan Daftar Produk Anda,shopee,produk,2,canonical,true,2026-08,,,shopee/produk/20-mengoptimalkan-daftar-produk-anda.md
-shp-produk-021,Bagaimana cara menggunakan Standar Produk Shopee untuk membantu meningkatkan visibilitas produk saya?,shopee,produk,2,canonical,false,2026-01,,,shopee/produk/21-bagaimana-cara-menggunakan-standar-produk-shopee-untuk-membantu-mening.md
+shp-produk-016,Produk yang Dilarang: Penjualan Produk Media dan Layanan yang Mengandung Unsur Pornografi,shopee,produk,2,canonical,true,2026-04,shp-produk-011,,shopee/produk/16-produk-yang-dilarang-penjualan-produk-media-dan-layanan-yang-mengandun.md
+shp-produk-017,Tentang Pelanggaran Produk,shopee,produk,2,canonical,true,2026-01,"shp-produk-009, shp-produk-013, shp-produk-107",,shopee/produk/17-tentang-pelanggaran-produk.md
+shp-produk-018,Tentang Penyalahgunaan Merek,shopee,produk,1,canonical,true,2026-01,shp-produk-013,,shopee/produk/18-tentang-penyalahgunaan-merek.md
+shp-produk-019,Cara Meningkatkan Kualitas Daftar Produk,shopee,produk,2,canonical,true,2026-04,"shp-produk-009, shp-produk-020",,shopee/produk/19-cara-meningkatkan-kualitas-daftar-produk.md
+shp-produk-020,Mengoptimalkan Daftar Produk Anda,shopee,produk,2,canonical,true,2026-08,shp-produk-019,,shopee/produk/20-mengoptimalkan-daftar-produk-anda.md
+shp-produk-021,Bagaimana cara menggunakan Standar Produk Shopee untuk membantu meningkatkan visibilitas produk saya?,shopee,produk,2,canonical,false,2026-01,shp-produk-020,,shopee/produk/21-bagaimana-cara-menggunakan-standar-produk-shopee-untuk-membantu-mening.md
 shp-produk-022,Melihat dan Mengelola Daftar Produk,shopee,produk,2,canonical,false,2026-06,,,shopee/produk/22-melihat-dan-mengelola-daftar-produk.md
-shp-produk-023,Mengelola Daftar Produk Berukuran Khusus,shopee,produk,2,canonical,true,2026-04,,,shopee/produk/23-mengelola-daftar-produk-berukuran-khusus.md
-shp-produk-024,Mengelola Daftar Produk Digital dan Jasa,shopee,produk,2,canonical,true,2026-08,,,shopee/produk/24-mengelola-daftar-produk-digital-dan-jasa.md
+shp-produk-023,Mengelola Daftar Produk Berukuran Khusus,shopee,produk,2,canonical,true,2026-04,shp-biaya-008,,shopee/produk/23-mengelola-daftar-produk-berukuran-khusus.md
+shp-produk-024,Mengelola Daftar Produk Digital dan Jasa,shopee,produk,2,canonical,true,2026-08,shp-produk-022,,shopee/produk/24-mengelola-daftar-produk-digital-dan-jasa.md
 shp-produk-025,Mengelola Daftar Produk yang Mudah Rusak,shopee,produk,2,canonical,true,2026-06,,,shopee/produk/25-mengelola-daftar-produk-yang-mudah-rusak.md
-shp-produk-026,Mengubah Informasi Produk,shopee,produk,3,canonical,true,2026-08,,,shopee/produk/26-mengubah-informasi-produk.md
-shp-produk-027,Tentang Kategori dan Atribut Produk,shopee,produk,2,canonical,false,2026-08,,,shopee/produk/27-tentang-kategori-dan-atribut-produk.md
-shp-produk-028,Meng-upload Daftar Produk,shopee,produk,3,canonical,true,2026-06,,,shopee/produk/28-meng-upload-daftar-produk.md
-shp-produk-029,Tips Mengoptimalkan Daftar Produk,shopee,produk,2,canonical,false,2026-08,,,shopee/produk/29-tips-mengoptimalkan-daftar-produk.md
+shp-produk-026,Mengubah Informasi Produk,shopee,produk,3,canonical,true,2026-08,"shp-produk-001, shp-produk-008",,shopee/produk/26-mengubah-informasi-produk.md
+shp-produk-027,Tentang Kategori dan Atribut Produk,shopee,produk,2,canonical,false,2026-08,"shp-produk-002, shp-produk-008",,shopee/produk/27-tentang-kategori-dan-atribut-produk.md
+shp-produk-028,Meng-upload Daftar Produk,shopee,produk,3,canonical,true,2026-06,"shp-produk-001, shp-produk-019, shp-produk-021, shp-produk-027",,shopee/produk/28-meng-upload-daftar-produk.md
+shp-produk-029,Tips Mengoptimalkan Daftar Produk,shopee,produk,2,canonical,false,2026-08,"shp-produk-019, shp-produk-020",,shopee/produk/29-tips-mengoptimalkan-daftar-produk.md
 shp-produk-107,"Produk turun, diblokir, atau dihapus — dua penyebab yang sering ketuker",shopee,produk,2,canonical,true,2026-08,"shp-produk-009, shp-produk-011, shp-produk-013, shp-produk-017, shp-produk-018, shp-produk-019, shp-produk-020, shp-produk-029, shp-akun-104, shp-performa-103, fnd-analisa-002",,shopee/produk/30-kenapa-produk-turun-dihapus-diblokir-dua-penyebab-beda.md
 tts-000,Kenapa jualan di TikTok Shop beda dari marketplace lain,tiktok-shop,(pengantar),1,canonical,false,2024-Q2 / 2026-06,"tts-produk-009, tts-segmentasi-000, tts-ads-001, tts-konten-001",,tiktok-shop/00-kenapa-jualan-di-tiktok-shop-beda.md
 tts-afiliasi-005,Kenapa dan cara mulai kolaborasi affiliate,tiktok-shop,afiliasi,1,canonical,true,2026-01,"tts-afiliasi-006, tts-afiliasi-007, tts-konten-011",,tiktok-shop/afiliasi/01-kenapa-dan-cara-kolaborasi-affiliate.md

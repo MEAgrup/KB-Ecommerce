@@ -11,13 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: daftar-produk---kebijakan-pelanggaran-produk/kebijakan-penjualan-produk-makanan-minuman-dan-obatvitaminsuplemen-palsu-atau-ya.md
     bagian: "artikel penuh"
+related: [shp-produk-006]
 ---
 # Kebijakan Penjualan Produk Makanan, Minuman, dan Obat/Vitamin/Suplemen Palsu atau yang Dikemas Ulang
 
 ## Ringkasan
-**Apa itu Produk Makanan, Minuman, dan Obat, Vitamin dan/atau Suplemen Palsu atau yang Dikemas Ulang?**
+Produk makanan/minuman/obat/vitamin/suplemen PALSU atau DIKEMAS ULANG (repackaging) = dilarang keras, sanksi poin penalti sampai pembatasan akun. Pemulihan akun butuh dokumen resmi: Surat Kuasa/Pernyataan dari Merek (bukti Distributor Resmi), bukti pembelian resmi, dan Surat Pernyataan sesuai jenis pelanggaran (produk palsu vs repackaging, link beda). Pelanggaran ULANG setelah pemulihan → pembatasan PERMANEN.
 
+## Kapan ini dipakai
+Dipakai kalau akun member dibatasi karena tuduhan jual produk makanan/minuman/obat/vitamin palsu atau kemas ulang, dan mau tau cara ajukan pemulihan. Beda dari `shp-produk-006` yang soal ketentuan penjualan obat bebas SECARA UMUM (bukan soal produk palsu/kemas ulang).
 
+## Isi
 
 Produk yang telah dimanipulasi secara sengaja, seperti penggantian, penambahan, perusakan, *repackaging* (pengemasan ulang), serta penyajian informasi yang salah baik pada isi produk maupun kemasannya.
 
@@ -50,3 +54,10 @@ Anda bisa menghubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/
 **⚠️ Catatan**
 
 Pastikan Anda tidak melakukan pelanggaran yang sama setelah menyelesaikan pengajuan pemulihan akun. Jika melakukan pelanggaran kebijakan yang sama, maka akun Anda akan dibatasi secara permanen.
+
+## Pertanyaan diagnosa
+
+1. **Akun member dibatasi karena tuduhan jual produk palsu/kemas ulang, gimana pulihinnya?** Lampirkan 3 dokumen ke CS Shopee: Surat Kuasa/Pernyataan dari Merek (bukti Distributor Resmi), bukti pembelian resmi, DAN Surat Pernyataan sesuai jenis pelanggaran — cek dulu apakah kasusnya produk palsu atau repackaging, karena link surat pernyataannya beda.
+2. **Member emang Distributor Resmi tapi tetap kena penalti?** Tetap wajib lampirkan bukti tertulis (Surat Kuasa/Pernyataan dari Merek + bukti pembelian resmi) — status distributor resmi aja gak otomatis membebaskan dari proses banding ini.
+3. **Member udah pernah pulih dari pembatasan ini, terus kena lagi?** Kena PERMANEN — gak ada opsi pemulihan kedua kalinya buat pelanggaran yang SAMA.
+4. **Member jual vitamin yang dikemas ulang (repackaging) dari kemasan besar ke kecil?** Itu tetap masuk kategori "dikemas ulang" yang dilarang — meskipun isinya asli, repackaging tanpa izin resmi dari brand tetap pelanggaran.

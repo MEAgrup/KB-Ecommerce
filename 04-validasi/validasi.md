@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **1068**
+- PERINGATAN: **1015**
 
 ## Status entry
 
@@ -1630,68 +1630,46 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/produk/01-mengakses-fitur-edit-secara-massal.md` · shp-produk-001
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---edit-secara-massal/mengakses-fitur-edit-secara-m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/02-tentang-edit-atribut.md` · shp-produk-002
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---edit-secara-massal/tentang-edit-atribut.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-
-### `shopee/produk/03-cara-melengkapi-informasi-halalnon-halal-pada-produk-dan-mendaftarkan-.md` · shp-produk-003
-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/04-kebijakan-penjualan-produk-emas.md` · shp-produk-004
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/kebijakan-penjualan-prod
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/05-kebijakan-penjualan-produk-tembakau-nikotin-rokok-elektronik-dan-shish.md` · shp-produk-005
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/kebijakan-penjualan-prod
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/06-ketentuan-penjualan-obat-bebas-dan-obat-bebas-terbatas.md` · shp-produk-006
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/ketentuan-penjualan-obat
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/07-panduan-uploadupdate-produk-obat-bebas-obat-bebas-terbatas-dan-obat-ke.md` · shp-produk-007
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/panduan-uploadupdate-pro
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1342 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/08-produk-pre-order.md` · shp-produk-008
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/produk-pre-order.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1583 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/09-cara-memperbaiki-produk-yang-diturunkan.md` · shp-produk-009
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/cara-memperbaiki-pr
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1224 kata — kemungkinan dua topik yang belum dipisah
+- 1544 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/10-faq-penjualan-produk-dilarang.md` · shp-produk-010
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/faq-penjualan-produ
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/11-jenis-pelanggaran-produk-di-shopee.md` · shp-produk-011
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/jenis-pelanggaran-p
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1351 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/11-riset-keyword-dan-traffic-buat-seller-pemula.md` · shp-produk-101
 
@@ -1707,15 +1685,11 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/produk/12-kebijakan-penjualan-produk-makanan-minuman-dan-obatvitaminsuplemen-pal.md` · shp-produk-012
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/kebijakan-penjualan
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/13-meningkatkan-kualitas-daftar-produk-yang-dihapusdiblokir.md` · shp-produk-013
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/meningkatkan-kualit
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 5560 kata — kemungkinan dua topik yang belum dipisah
+- 6007 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/13-pola-bikin-produk-hero-dan-scale-up.md` · shp-produk-103
 
@@ -1725,8 +1699,6 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/produk/14-produk-yang-dilarang-bahan-kimia-berbahaya-dan-produk-yang-mudah-meled.md` · shp-produk-014
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilaran
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/14-tiga-syarat-produk-laris.md` · shp-produk-104
 
@@ -1743,8 +1715,6 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/produk/15-produk-yang-dilarang-penjualan-produk-isi-ulangtop-up-saldo-uang-digit.md` · shp-produk-015
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilaran
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/16-cara-mencari-produk-potensial.md` · shp-produk-106
 
@@ -1756,91 +1726,65 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/produk/16-produk-yang-dilarang-penjualan-produk-media-dan-layanan-yang-mengandun.md` · shp-produk-016
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilaran
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/17-tentang-pelanggaran-produk.md` · shp-produk-017
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/tentang-pelanggaran
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1387 kata — kemungkinan dua topik yang belum dipisah
+- 1743 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/18-tentang-penyalahgunaan-merek.md` · shp-produk-018
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/tentang-penyalahgun
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/19-cara-meningkatkan-kualitas-daftar-produk.md` · shp-produk-019
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---memperbaiki-daftar-produk/cara-meningkatkan-kual
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1338 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/20-mengoptimalkan-daftar-produk-anda.md` · shp-produk-020
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---memperbaiki-daftar-produk/mengoptimalkan-daftar-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1387 kata — kemungkinan dua topik yang belum dipisah
+- 1713 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/21-bagaimana-cara-menggunakan-standar-produk-shopee-untuk-membantu-mening.md` · shp-produk-021
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/bagaimana-cara-menggunakan-stan
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1309 kata — kemungkinan dua topik yang belum dipisah
+- 1638 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/22-melihat-dan-mengelola-daftar-produk.md` · shp-produk-022
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/melihat-dan-mengelola-daftar-pr
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/23-mengelola-daftar-produk-berukuran-khusus.md` · shp-produk-023
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengelola-daftar-produk-berukur
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/24-mengelola-daftar-produk-digital-dan-jasa.md` · shp-produk-024
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengelola-daftar-produk-digital
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/25-mengelola-daftar-produk-yang-mudah-rusak.md` · shp-produk-025
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengelola-daftar-produk-yang-mu
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/26-mengubah-informasi-produk.md` · shp-produk-026
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengubah-informasi-produk.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1887 kata — kemungkinan dua topik yang belum dipisah
+- 2236 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/27-tentang-kategori-dan-atribut-produk.md` · shp-produk-027
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/tentang-kategori-dan-atribut-pr
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/produk/28-meng-upload-daftar-produk.md` · shp-produk-028
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---mengupload-produk/meng-upload-daftar-produk.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 4649 kata — kemungkinan dua topik yang belum dipisah
+- 5065 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/29-tips-mengoptimalkan-daftar-produk.md` · shp-produk-029
 
 - sumber tanpa penunjuk bagian: file: daftar-produk---tips-daftar-produk/tips-mengoptimalkan-daftar-pr
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1506 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/produk/30-kenapa-produk-turun-dihapus-diblokir-dua-penyebab-beda.md` · shp-produk-107
 

@@ -15,9 +15,12 @@ sources:
 # Kebijakan Penjualan Produk Emas
 
 ## Ringkasan
-**Apa itu produk emas?**
+Produk emas (batangan/perhiasan/voucher) punya aturan ketat, TERUTAMA buat Penjual Shopee Mall: wajib Sertifikasi Emas + Sertifikat Keaslian via Mesin XRF (deadline daftar sertifikasi 30 Jun 2026), kata kunci produk harus sesuai spek asli (dilarang klaim "24K"/"emas murni"/dll kalau bukan emas asli), wajib lengkapi atribut Spesifikasi, dan wajib foto bukti sertifikasi kalau nilai produk >Rp5 juta. Pelanggaran → penalti penurunan/pemblokiran produk.
 
+## Kapan ini dipakai
+Dipakai kalau member jual/mau jual produk emas dan nanya syarat kelengkapan dokumen atau kenapa produknya diturunkan/diblokir. Cek dulu tipe Penjual-nya (Shopee Mall vs bukan) — syarat sertifikasi WAJIB (Sertifikasi Emas + XRF) cuma berlaku buat Shopee Mall, tapi aturan kata kunci & atribut spesifikasi berlaku SEMUA Penjual.
 
+## Isi
 
 Produk emas merupakan logam mulia yang dapat diperjualbelikan dalam bentuk batangan maupun perhiasan. Secara umum, produk emas dibagi menjadi beberapa jenis, yaitu:
 
@@ -131,4 +134,19 @@ Apabila Penjual tidak memenuhi ataupun melanggar ketentuan penjualan produk emas
 Berikut ringkasan untuk pelanggaran penjualan produk emas termasuk jenis pelanggaran dan penalti yang diberikan:
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Deadline daftar sertifikasi emas (Penjual Shopee Mall yang udah jual emas) | sebelum 30 Juni 2026 |
+| Batas nilai produk wajib foto bukti sertifikasi | \>Rp5 juta |
+
+## Pertanyaan diagnosa
+
+1. **Member jual emas, tipe Penjual-nya apa?** Shopee Mall → wajib Sertifikasi Emas DAN Sertifikat XRF (dokumen wajib buat daftar Mall); Non-Mall → gak wajib 2 dokumen itu, tapi tetap kena aturan kata kunci & atribut Spesifikasi.
+2. **Member udah Shopee Mall dan jual emas dari sebelumnya (belum ada sertifikasi)?** WAJIB daftarkan sertifikasi sebelum 30 Juni 2026 lewat formulir Persyaratan Baru Penjual Emas — kalau lewat deadline, cek konsekuensinya ke Shopee langsung (gak dijelaskan detail penaltinya di sumber ini, lihat Batasan).
+3. **Produk emas member diturunkan/diblokir, kenapa?** Cek dulu kata kunci di foto/nama/deskripsi/variasi — kalau produknya BUKAN emas asli (emas lapis dll) tapi ada klaim karat/kadar/keaslian (contoh: "24K", "kadar 99%", "emas asli"), itu pelanggaran.
+4. **Produk emas nilainya di atas Rp5 juta, ada syarat tambahan?** Wajib tambahin bukti sertifikasi emas di FOTO PRODUK (bukan cuma di dokumen pendaftaran) — kalau di bawah itu gak wajib tapi tetap disarankan.
+5. **Member nanya soal "Voucher Emas"?** Itu salah satu dari 3 jenis produk emas yang disebut sumber (bareng Emas Murni & Emas Kadar Rendah) — sumber gak jelasin syarat spesifik buat voucher emas secara terpisah dari 2 lainnya.
+
+## Batasan
+Sumber aslinya menjanjikan "ringkasan pelanggaran dan penalti produk emas" tapi tabelnya HILANG dari hasil scraping (kemungkinan tabel/gambar yang gak ke-capture) — entry ini cuma tau bahwa penalti berupa "penurunan dan/atau pemblokiran produk", TANPA rincian jenis pelanggaran spesifik dan tingkat penaltinya. Jangan tebak isi tabel itu — kalau member butuh rincian penalti spesifik per jenis pelanggaran, arahkan cek langsung ke artikel resmi Shopee.

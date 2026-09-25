@@ -11,13 +11,17 @@ valid_as_of: 2026-04
 sources:
   - file: daftar-produk---kebijakan-daftar-produk/panduan-uploadupdate-produk-obat-bebas-obat-bebas-terbatas-dan-obat-keras.md
     bagian: "artikel penuh"
+related: [shp-produk-006]
 ---
 # Panduan Upload/Update Produk Obat Bebas, Obat Bebas Terbatas, dan Obat Keras
 
 ## Ringkasan
-Sesuai dengan[ ketentuan penjualan Obat Bebas, Obat Bebas Terbatas](https://seller.shopee.co.id/edu/article/26828), dan Obat Keras, pastikan Anda mengisi informasi produk secara lengkap saat *upload* atau *update* produk, termasuk Nama Produk, Foto Produk, Deskripsi Produk, serta Spesifikasi Produk (Atribut Utama dan Atribut Lainnya) agar produk dapat ditampilkan secara akurat.
+Panduan teknis upload/update produk obat: format Nama Produk wajib terstruktur (MEREK+BENTUK+KEKUATAN+SATUAN @ JUMLAH), kategori wajib benar (Obat Bebas/Terbatas → Obat Bebas (OTC); Obat Keras → Obat Resep, KHUSUS Apotek Shopee Mall), kolom Referensi Obat wajib diisi (auto-isi Atribut Kunci — JANGAN diubah manual, bisa kena blokir). Batas beli: Obat Bebas/Terbatas maks. setara pemakaian 3 hari (Permenkes 11/2025), Obat Keras sesuai resep dokter. Ubah Atribut Kunci → produk masuk QC dulu sebelum tayang.
 
+## Kapan ini dipakai
+Dipakai buat panduan TEKNIS upload/edit produk obat (format nama, kategori, atribut) atau troubleshoot kenapa produk obat diturunkan. Buat ketentuan UMUM soal kewajiban edukasi Pembeli & mekanisme penjualan (bukan cara upload), arahkan ke `shp-produk-006`.
 
+## Isi
 
 **⚠️ Catatan**
 
@@ -189,3 +193,21 @@ Pelajari lebih lanjut tentang[ Obat Medis, Suplemen Kesehatan/Multivitamin, dan 
 **⚠️ Catatan**
 
 Penjual wajib memastikan produk obat yang dijual memiliki izin edar resmi dan telah sesuai dengan regulasi yang ditetapkan oleh Kementerian Kesehatan Republik Indonesia (Kemenkes).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas maks. pembelian Obat Bebas/Terbatas per pesanan | setara pemakaian 3 hari (Permenkes No. 11/2025, hal. 468) |
+| Batas maks. pembelian Obat Keras per pesanan | sesuai resep dokter (bukan angka tetap) |
+| Variasi produk | TIDAK tersedia buat kategori Obat Bebas (OTC) & Obat Resep |
+| Siapa yang boleh jual Obat Keras (tanda 'K' merah) | HANYA Apotek Shopee Mall |
+
+## Pertanyaan diagnosa
+
+1. **Produk obat member diturunkan, kenapa?** Cek 3 penyebab paling umum: (1) info produk (Nama/Izin Edar/Komposisi) gak sesuai data BPOM, (2) salah kategori (harus Obat Bebas (OTC) atau Obat Resep, bukan kategori umum), (3) jual obat yang dilarang online (obat perlu pengawasan medis, narkotika/psikotropika, bentuk injeksi kecuali insulin, implan KB).
+2. **Member ubah Atribut Kunci yang udah auto-isi dari Referensi Obat?** JANGAN — itu bisa bikin produk kena BLOKIR. Kalau info-nya salah, hubungi Tim Shopee, bukan ubah manual sendiri.
+3. **Produk obat kok gak langsung tayang, masuk "Sedang Ditinjau"?** Itu proses QC (Quality Control) — cuma terjadi kalau member ubah Atribut Kunci. Kalau gak ubah Atribut Kunci, produk langsung Live tanpa QC.
+4. **Member mau jual obat tapi gak nemu di kolom Referensi Obat?** Arahkan ajukan lewat formulir Pengajuan Produk Baru ke Rekomendasi Obat Shopee Farma — jangan asal isi atribut manual kalau obatnya belum terdaftar.
+5. **Member mau kasih variasi (rasa/ukuran) buat produk obat?** Gak bisa — kategori Obat Bebas (OTC) dan Obat Resep gak support variasi produk sama sekali.
+6. **Member jual obat suntik/injeksi?** Dilarang KECUALI insulin untuk penggunaan sendiri — semua bentuk injeksi lain gak boleh dijual online.

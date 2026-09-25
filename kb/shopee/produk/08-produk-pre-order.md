@@ -15,9 +15,12 @@ sources:
 # Produk Pre-order
 
 ## Ringkasan
-**Apa itu Produk Pre-order?**
+Pre-order = masa pengemasan 3-30 hari kerja (bisa diperpanjang khusus Star/Star+/Mall untuk kategori tertentu, atau ajukan perpanjangan via formulir). Sejak 1 Jan 2026: produk custom/buatan tangan TANPA BATAS kuota, tapi produk Pre-order non-custom tetap kena batas kuota (lewat batas → tampilan dibatasi maks. 500 produk selama 28 hari). Ada biaya layanan 3%/kuantitas produk buat sebagian kategori (dengan pengecualian: produk baru 30 hari, dibeli via Shopee Live, kategori tertentu).
 
+## Kapan ini dipakai
+Dipakai kalau member mau pahami aturan Pre-order (batas kuota, masa pengemasan, biaya layanan) atau produk Pre-order-nya kena pembatasan tampilan. Cek dulu produknya custom/buatan tangan atau bukan — beda aturan kuota. Kalau member nanya biaya per kategori spesifik, arahkan cek langsung karena daftar kategori kena/bebas biaya gak lengkap tersalin (lihat Batasan).
 
+## Isi
 
 Produk Pre-order memungkinkan Anda mengatur proses produksi dan pengiriman dengan lebih fleksibel, terutama untuk produk yang membutuhkan waktu dan penanganan khusus.
 
@@ -193,3 +196,26 @@ Biaya Layanan produk Pre-order akan dipotong secara otomatis oleh sistem Shopee 
   - Biaya Layanan Produk Pre-order sudah termasuk Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan peraturan perundang-undangan perpajakan yang berlaku.
   - Jika terdapat pengembalian barang/dana sebagian dalam satu pesanan, maka Biaya Layanan Produk Pre-order hanya dikenakan pada produk yang tidak dikembalikan.
   - Shopee berhak sewaktu-waktu mengubah, menambah, atau memodifikasi Syarat & Ketentuan tanpa pemberitahuan terlebih dahulu.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Masa pengemasan Pre-order | 3-30 hari kerja (bisa diperpanjang lewat pengajuan) |
+| Batas tampilan kalau kuota Pre-order kelebihan | maks. 500 produk selama 28 hari |
+| Waktu proses pengajuan pengecualian/perpanjangan | maks. 7 hari kerja, hasil via email |
+| Biaya layanan Pre-order | 3% per kuantitas produk (kategori tertentu, ada pengecualian) |
+| Bebas biaya layanan — produk baru | 30 hari sejak diupload |
+| Target masa pengemasan buat lepas status Pre-order | dikurangi jadi 2 hari |
+| Update % Pre-order di halaman Produk Saya | tiap jam |
+
+## Pertanyaan diagnosa
+
+1. **Produk member kena batas tampilan (dibatasi 500 produk)?** Cek dulu % Produk Pre-order di halaman Kesehatan Toko (kategori Produk yang Dilarang) — kalau lewat target, itu penyebabnya. Cek juga apakah produknya custom/buatan tangan (gak kena kuota sejak 1 Jan 2026) atau non-custom (tetap kena kuota).
+2. **Member mau lepas status Pre-order dari produknya?** Turunkan masa pengemasan jadi 2 hari — bisa individual (di Produk Saya) atau massal (Mass Update, edit kolom "Dikirim dalam").
+3. **Member nanya kenapa 1 variasi doang yang di-set Pre-order tapi semua variasi kehitung Pre-order?** Itu memang cara hitungnya — kalau SATU variasi aja diatur Pre-order, SEMUA variasi produk itu kehitung sebagai % Pre-order, meski variasi lain gak Pre-order.
+4. **Member kena biaya layanan Pre-order, mau tau detail rinciannya?** Arahkan download Catatan Transaksi Penghasilan di Seller Centre — biaya dipotong otomatis setelah pesanan selesai, dan cuma dari produk yang GAK dikembalikan kalau ada retur sebagian.
+5. **Member mau produknya bebas biaya layanan Pre-order?** 3 kondisi bebas biaya: produk kategori tertentu (cek Batasan), produk baru (30 hari sejak upload), atau dibeli lewat sesi Shopee Live.
+
+## Batasan
+Daftar "kategori produk tertentu" yang bebas biaya layanan Pre-order gak lengkap tersalin dari sumber (bagian tabel/gambar hilang saat scraping) — jangan tebak kategori mana yang dimaksud, arahkan member cek langsung ke Seller Centre atau hubungi CS Shopee buat konfirmasi kategori spesifik.

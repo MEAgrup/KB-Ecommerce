@@ -11,13 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: daftar-produk---tips-daftar-produk/tips-mengoptimalkan-daftar-produk.md
     bagian: "artikel penuh"
+related: [shp-produk-019, shp-produk-020]
 ---
 # Tips Mengoptimalkan Daftar Produk
 
 ## Ringkasan
-Daftar produk dengan informasi yang lengkap dan berkualitas tinggi dapat menarik lebih banyak penjualan, mengurangi risiko pengembalian barang/dana serta mendorong peningkatan konversi dan interaksi dengan Pembeli.
+10 kriteria detail buat Standar Produk Shopee — berlaku SPESIFIK buat produk baru (≤90 hari sejak tampil); produk >90 hari = "Produk Lama" pakai 6 kriteria tambahan beda. Kriteria foto (jumlah sesuai kategori, rasio 1:1/4:3, gak ada border putih, background jelas, gak ada watermark nutupin produk), nama (min. 10 karakter, gak spam kata >3x, gak ada klaim berlebihan tanpa bukti, wajib cantumkan merek/jenis produk), dan deskripsi (min. 60 karakter atau 1 foto).
 
+## Kapan ini dipakai
+Dipakai buat cek DETAIL TEKNIS kriteria kualitas listing (bukan cuma tips umum) — terutama buat troubleshoot kenapa produk gak capai Standar Produk Shopee. Bedain dulu produk BARU (≤90 hari, 10 kriteria) vs Produk LAMA (>90 hari, 6 kriteria tambahan) sebelum kasih saran, karena kriterianya beda. Buat tips umum foto/nama/deskripsi yang lebih praktis, arahkan ke `shp-produk-019`. Buat fitur sistem otomatis identifikasi kendala, arahkan ke `shp-produk-020`.
 
+## Isi
 
 Terdapat 10 kriteria yang perlu dipenuhi agar produk Anda dapat mencapai Standar Produk Shopee:
 
@@ -92,3 +96,25 @@ Anda juga dapat mengoptimalkan produk lama (produk yang ditampilkan \> 90 hari) 
 | **Tidak ada variasi yang sesuai standar** | Menggunakan nama variasi yang sesuai (khusus untuk produk dengan kategori Fashion). | Pilih opsi **Nilai yang direkomendasikan** yang akan muncul saat Anda melengkapi kolom Variasi. Pelajari lebih lanjut tentang cara menambahkan variasi saat\[ \*upload\*\](https://seller.shopee.co.id/edu/article/16726) atau\[ merubah informasi produk\](https://seller.shopee.co.id/edu/article/6940). |
 | **Kategori produk belum sesuai** | Memasukkan produk ke kategori yang sesuai. | Pilih\[ kategori produk yang sesuai\](https://seller.shopee.co.id/edu/article/17771) agar produk Anda muncul dalam hasil pencarian yang relevan. |
 | Pastikan produk Anda memiliki berat yang akurat. | Masukkan\[ berat produk Anda dengan akurat\](https://seller.shopee.co.id/edu/article/21581) agar perhitungan ongkos kirim dapat akurat. Pelajari lebih lanjut tentang\[ ongkos kirim dan panduan mengukur ukuran paket\](https://seller.shopee.co.id/edu/article/9796). |  |
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas waktu "produk baru" (pakai 10 kriteria) | ≤90 hari sejak tanggal ditampilkan |
+| Min. karakter nama produk | \>10 karakter |
+| Batas pengulangan kata/ejaan mirip/emoji sama di nama produk | maks. 3x (lebih dari itu = spam) |
+| Min. karakter deskripsi (atau alternatif) | min. 60 karakter ATAU min. 1 foto relevan |
+| Min. atribut produk | min. 3 atribut |
+| Background foto — minimal area | min. 10% dari area gambar |
+| Background foto — produk utama maks. | maks. 90% dari area gambar |
+| Background foto — teks/grafis/watermark/properti tidak dijual | maks. 25% dari area background |
+| Produk minimal terlihat di foto (gak boleh kepotong) | min. 85% produk terlihat |
+
+## Pertanyaan diagnosa
+
+1. **Produk member gak capai Standar Produk Shopee, umurnya berapa?** WAJIB cek dulu — produk ≤90 hari pakai 10 kriteria detail (foto/nama/deskripsi); produk >90 hari ("Produk Lama") pakai 6 kriteria beda (merek/atribut/panduan ukuran/variasi/kategori/berat). Jangan kasih saran yang salah kriteria.
+2. **Nama produk member dianggap spam, padahal cuma sebut nama produk berulang buat SEO?** Cek aturan: kata sama/ejaan mirip (beda 1 huruf, min. 4 huruf)/emoji sama yang diulang LEBIH dari 3 kali = spam. Maks. 3x pengulangan masih boleh.
+3. **Member nulis nama produk pakai kata "Dijamin ahli"/"dalam seminggu"/"Satu-satunya yang..."?** Itu masuk kategori "kata-kata berlebihan" (klaim gak berbukti, klaim kompetitif, kata pancingan klik) — DILARANG di nama produk, meski niatnya marketing.
+4. **Foto produk member ditolak/dianggap gak sesuai standar?** Cek 5 sub-kriteria: rasio (1:1/4:3, gak ada border putih), kejelasan (gak blur/pecah), background (min. 10% - maks. 90% produk, teks/watermark maks. 25% background), watermark (gak nutupin produk utama), dan area produk terlihat (min. 85%).
+5. **Member nulis nama produk cuma "Kaos Polos Murah Berkualitas" tanpa merek?** Nama produk HARUS penuhi salah satu: cantumkan merek/tema (termasuk karakter kartun dianggap "merek"), ATAU jelasin jenis produk dengan jelas — kalau cuma kata sifat generik tanpa jenis/merek jelas, itu gak sesuai standar.

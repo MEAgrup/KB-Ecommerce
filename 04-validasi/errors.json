@@ -2989,9 +2989,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---edit-secara-massal/mengakses-fitur-edit-secara-m",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---edit-secara-massal/mengakses-fitur-edit-secara-m"
     ]
   },
   {
@@ -3000,9 +2998,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---edit-secara-massal/tentang-edit-atribut.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---edit-secara-massal/tentang-edit-atribut.md"
     ]
   },
   {
@@ -3010,10 +3006,7 @@
     "id": "shp-produk-003",
     "status": "canonical",
     "error": [],
-    "peringatan": [
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
-    ]
+    "peringatan": []
   },
   {
     "file": "shopee/produk/04-kebijakan-penjualan-produk-emas.md",
@@ -3021,9 +3014,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/kebijakan-penjualan-prod",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/kebijakan-penjualan-prod"
     ]
   },
   {
@@ -3032,9 +3023,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/kebijakan-penjualan-prod",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/kebijakan-penjualan-prod"
     ]
   },
   {
@@ -3043,9 +3032,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/ketentuan-penjualan-obat",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/ketentuan-penjualan-obat"
     ]
   },
   {
@@ -3055,8 +3042,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/panduan-uploadupdate-pro",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1342 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3066,8 +3052,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-daftar-produk/produk-pre-order.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1583 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3077,9 +3062,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/cara-memperbaiki-pr",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1224 kata — kemungkinan dua topik yang belum dipisah"
+      "1544 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3088,9 +3071,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/faq-penjualan-produ",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/faq-penjualan-produ"
     ]
   },
   {
@@ -3100,8 +3081,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/jenis-pelanggaran-p",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1351 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3131,9 +3111,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/kebijakan-penjualan",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/kebijakan-penjualan"
     ]
   },
   {
@@ -3143,9 +3121,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/meningkatkan-kualit",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "5560 kata — kemungkinan dua topik yang belum dipisah"
+      "6007 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3164,9 +3140,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilaran",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilaran"
     ]
   },
   {
@@ -3197,9 +3171,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilaran",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilaran"
     ]
   },
   {
@@ -3220,9 +3192,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilaran",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/produk-yang-dilaran"
     ]
   },
   {
@@ -3232,9 +3202,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/tentang-pelanggaran",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1387 kata — kemungkinan dua topik yang belum dipisah"
+      "1743 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3243,9 +3211,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/tentang-penyalahgun",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---kebijakan-pelanggaran-produk/tentang-penyalahgun"
     ]
   },
   {
@@ -3255,8 +3221,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---memperbaiki-daftar-produk/cara-meningkatkan-kual",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1338 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3266,9 +3231,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---memperbaiki-daftar-produk/mengoptimalkan-daftar-",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1387 kata — kemungkinan dua topik yang belum dipisah"
+      "1713 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3278,9 +3241,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/bagaimana-cara-menggunakan-stan",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1309 kata — kemungkinan dua topik yang belum dipisah"
+      "1638 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3289,9 +3250,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/melihat-dan-mengelola-daftar-pr",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/melihat-dan-mengelola-daftar-pr"
     ]
   },
   {
@@ -3300,9 +3259,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengelola-daftar-produk-berukur",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengelola-daftar-produk-berukur"
     ]
   },
   {
@@ -3311,9 +3268,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengelola-daftar-produk-digital",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengelola-daftar-produk-digital"
     ]
   },
   {
@@ -3322,9 +3277,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengelola-daftar-produk-yang-mu",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengelola-daftar-produk-yang-mu"
     ]
   },
   {
@@ -3334,9 +3287,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/mengubah-informasi-produk.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "1887 kata — kemungkinan dua topik yang belum dipisah"
+      "2236 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3345,9 +3296,7 @@
     "status": "canonical",
     "error": [],
     "peringatan": [
-      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/tentang-kategori-dan-atribut-pr",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "sumber tanpa penunjuk bagian: file: daftar-produk---mengelola-produk/tentang-kategori-dan-atribut-pr"
     ]
   },
   {
@@ -3357,9 +3306,7 @@
     "error": [],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---mengupload-produk/meng-upload-daftar-produk.md",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'",
-      "4649 kata — kemungkinan dua topik yang belum dipisah"
+      "5065 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {
@@ -3371,8 +3318,7 @@
     ],
     "peringatan": [
       "sumber tanpa penunjuk bagian: file: daftar-produk---tips-daftar-produk/tips-mengoptimalkan-daftar-pr",
-      "gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1",
-      "gak ada '## Kapan ini dipakai'"
+      "1506 kata — kemungkinan dua topik yang belum dipisah"
     ]
   },
   {

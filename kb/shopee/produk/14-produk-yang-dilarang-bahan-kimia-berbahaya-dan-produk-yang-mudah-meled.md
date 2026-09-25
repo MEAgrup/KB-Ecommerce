@@ -15,9 +15,12 @@ sources:
 # Produk yang Dilarang: Bahan Kimia Berbahaya dan Produk yang Mudah Meledak Beserta Turunannya
 
 ## Ringkasan
-**Apa yang terjadi jika saya meng-**upload** **dan menjual produk bahan kimia berbahaya, produk mudah meledak, bahan peledak dan turunan lainnya?**
+Bahan radioaktif, bahan kimia berbahaya (contoh: borax, potassium perchlorate, H₂O₂, HCl, HF, bismuth, titanium, phenol), bahan peledak & turunannya, serta produk mudah meledak/terbakar (kembang api, petasan, flare, smoke bomb) = DILARANG TOTAL, gak ada jalur legal buat jual di Shopee. Pelanggaran → pembatasan akun (bisa sampai pemblokiran perangkat, gak cuma akun). Pemulihan lewat CS + surat pernyataan, tapi pelanggaran ULANG → permanen gak bisa dipulihkan.
 
+## Kapan ini dipakai
+Dipakai kalau member nanya boleh/gak jual produk mengandung bahan kimia berbahaya/mudah meledak, atau akunnya kena pembatasan karena ini. Jawaban selalu TIDAK BOLEH buat kategori produk ini — gak ada pengecualian kayak "boleh dengan sertifikasi" (beda dari kategori lain yang punya jalur legal via dokumen).
 
+## Isi
 
 Shopee memiliki kebijakan ketat untuk membatasi produk dengan bahan yang diklasifikasikan sebagai bahan berbahaya berdasarkan Peraturan Menteri Perdagangan dan kebijakan penjualan produk berbahaya di Shopee. Seperti bahan radioaktif, bahan kimia berbahaya, bahan peledak dan turunan lainnya (contoh: *borax/natrium tetraborat, potassium perchlorate*, *hidrogen peroksida (H₂O₂), hidrogen klorida (HCl), hidrogen fluorida (HF), bismuth, titanium, phenol (C6H5OH),* dll) demi keselamatan dan keamanan bertransaksi melalui Shopee serta mematuhi peraturan yang berlaku.
 
@@ -52,3 +55,17 @@ Customer Service Shopee akan menghubungi Anda kembali dalam waktu 2 x 24 jam unt
 ⚠️ **Catatan**
 
 Setelah akun Anda berhasil pulih, pastikan Anda tidak melakukan pelanggaran yang sama. Jika terbukti mengulangi pelanggaran tersebut, akun Anda akan dibatasi secara permanen dan tidak dapat dipulihkan kembali.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Waktu respons CS setelah lampirkan surat pernyataan | maks. 2x24 jam |
+| Pelanggaran berulang | pembatasan akun PERMANEN, gak bisa dipulihkan |
+
+## Pertanyaan diagnosa
+
+1. **Member mau jual produk mengandung bahan kimia tertentu (borax, H₂O₂, dll), boleh gak?** TIDAK BOLEH — daftar contoh di `## Isi` itu bahan yang eksplisit dilarang, tapi larangannya mencakup SEMUA bahan kimia berbahaya/radioaktif/peledak, bukan cuma yang disebut sebagai contoh.
+2. **Member mau jual kembang api/petasan buat acara tertentu (mis. pernikahan)?** Tetap dilarang — gak ada pengecualian buat acara/keperluan khusus, sama seperti flare dan smoke bomb.
+3. **Akun member dibatasi karena kebijakan ini, gimana pulihinnya?** Isi & tanda tangan surat pernyataan resmi (link PDF di `## Isi`), ajukan lewat CS Shopee, respons maks. 2x24 jam. INGAT: ini beda dari kebijakan lain — kalau melanggar lagi setelah dipulihkan, TIDAK ADA opsi pemulihan kedua sama sekali (permanen).
+4. **Member khawatir cuma akunnya yang kena, HP-nya aman?** Tidak selalu — sanksi bisa sampai pemblokiran PERANGKAT (bukan cuma akun), jadi member gak bisa login sama sekali dari HP itu kalau pelanggarannya serius.

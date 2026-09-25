@@ -11,15 +11,19 @@ valid_as_of: 2026-08
 sources:
   - file: daftar-produk---mengelola-produk/tentang-kategori-dan-atribut-produk.md
     bagian: "artikel penuh"
+related: [shp-produk-002, shp-produk-008]
 ---
 # Tentang Kategori dan Atribut Produk
 
 ## Ringkasan
-**Memahami Kategori Produk**
+Kategori produk = struktur pohon (kategori utama → sub-kategori → level lebih dalam). Kategori/atribut SALAH → peringkat pencarian turun sementara (bukan langsung diblokir). Atribut ada 2 jenis wajib vs opsional, dan 3 tipe pilihan (Single/Multi/Multi-combo). Isi atribut bisa manual (per produk) atau Mass Upload (Template Kategori, KHUSUS Penjual terpilih, cuma bisa 1 kategori utama per template). Sesuai Permendag No.19/2026, info **Asal Produk** WAJIB dicantumkan.
 
+## Kapan ini dipakai
+Dipakai buat konsep dasar kategori/atribut produk (beda dari cara ubah/edit spesifik — itu di `shp-produk-002`). Termasuk penjelasan Produk Custom (cuma berlaku kategori tertentu). Buat pengaturan Pre-order buat produk custom yang butuh waktu produksi lama, arahkan ke `shp-produk-008`.
 
+## Isi
 
-Di Shopee, kategori produk diatur dalam bentuk pohon kategori. Setiap kategori utama memiliki tingkatan sub-kategori yang berbeda.
+Untuk **Fashion**, ada beberapa kategori utama seperti Pakaian Wanita, Pakaian Pria, dan Pakaian Bayi & Anak. Kategori Pakaian Wanita memiliki subkategori seperti Atasan, Jeans, dan Dress, dimana beberapa di antara subkategori tersebut dikategorikan lebih lanjut.
 
 Sebagai contoh:
 
@@ -167,3 +171,12 @@ Jika Anda membutuhkan masa pengemasan yang lebih lama untuk memenuhi pesanan dar
 ⚠️ **Catatan**
 
 Fitur Produk Custom hanya berlaku untuk[ kategori tertentu](https://deo.shopeemobile.com/shopee/cms_cdn_bucket/e352d800e5ad40e7a72f0abd1fa9c65f_Kategori%20Produk%20Custom.pdf).
+
+## Pertanyaan diagnosa
+
+1. **Produk member kategori/atributnya salah, langsung dihapus?** TIDAK — konsekuensinya peringkat pencarian TURUN SEMENTARA, bukan langsung diblokir/dihapus (beda dari beberapa jenis pelanggaran lain yang langsung diblokir).
+2. **Member mau Mass Upload atribut buat produk lintas kategori (misal Pakaian Wanita DAN Pakaian Pria sekaligus)?** GAK BISA dalam 1 template — Template Kategori cuma buat 1 kategori utama, harus download template terpisah buat tiap kategori utama.
+3. **Member bukan Penjual terpilih, mau pakai Template Upload Massal Kategori?** GAK BISA — fitur ini khusus Penjual terpilih. Penjual biasa isi atribut manual per produk (upload manual).
+4. **Member bingung beda pilihan atribut Single/Multi/Multi-combo?** Single = pilih 1 nilai dari dropdown; Multi = bisa pilih lebih dari 1 nilai; Multi-combo = mirip Multi tapi juga bisa tambah nilai custom kalau gak ada di daftar.
+5. **Member mau jual Produk Custom (misal nama ukir custom)?** Cek dulu kategorinya termasuk daftar kategori yang support Produk Custom (link PDF di atas) — fitur ini GAK berlaku buat semua kategori. Kalau butuh waktu produksi lama, kombinasikan dengan Pre-Order (`shp-produk-008`).
+6. **Member gak tau info Asal Produk wajib diisi dimana?** Diisi via Seller Centre atau aplikasi Seller Centre Shopee — ini kewajiban sesuai Permendag No.19/2026, bukan opsional.

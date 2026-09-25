@@ -16,6 +16,13 @@ related: [shp-produk-107]
 # Meningkatkan Kualitas Daftar Produk yang Dihapus/Diblokir
 
 ## Ringkasan
+Entry RUJUKAN MASTER buat "kenapa produk saya dihapus/diblokir" — tabel lengkap ~85 jenis pelanggaran dalam 5 kategori besar: (1) Melanggar Hukum & Peraturan Pemerintah, (2) Melanggar Kebijakan Shopee, (3) Produk Spam, (4) Informasi Tidak Lengkap & Pelanggaran Lain, (5) Pengembangan Shopee Mall (khusus Mall). Tiap baris tabel punya kolom Cara Memperbaiki spesifik.
+
+## Kapan ini dipakai
+Entry PERTAMA buat cek kenapa produk diturunkan/diblokir/dihapus — cari dulu jenis pelanggaran paling spesifik di 5 tabel `## Isi`, karena cara perbaikinya beda-beda per jenis (ada yang cukup ubah foto, ada yang wajib hubungi CS + lampirkan dokumen, ada yang gak bisa diperbaiki sama sekali). Kalau pelanggarannya gak ketemu di tabel ini, arahkan ajukan banding lewat formulir Produk Dihapus/Diblokir.
+
+## Isi
+
 Produk dihapus/diblokir karena produk mungkin telah melanggar[ Peraturan Komunitas](https://help.shopee.co.id/portal/article/73507-Peraturan-Komunitas?previousPage=search%20recommendation%20bar) atau termasuk dalam[ Daftar Produk yang Dilarang](https://help.shopee.co.id/portal/article/71189-Kebijakan-Barang-yang-dilarang-dan-dibatasi?previousPage=search%20recommendation%20bar).
 
 
@@ -201,3 +208,28 @@ Ketahui cara memperbaiki produk sesuai dengan jenis pelanggarannya berdasarkan t
   
 
 Jika produk Anda dihapus oleh Shopee karena alasan pelanggaran produk yang tidak disebutkan di atas, maka Anda dapat mengajukan banding kepada Shopee melalui[ formulir produk Dihapus/Diblokir](https://help.shopee.co.id/portal/webform/3af236a12c3448baacd64500c0261e3d).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Batas perbaiki label Shopee tidak resmi (2.9) sebelum dihapus | maks. 7 hari kalender sejak diturunkan |
+| Batas perbaiki halaman produk lama dipakai jual produk baru (2.10) | 3 hari kalender |
+| Batas cantumkan izin edar BPOM (4.4) sebelum dihapus permanen | maks. 7 hari kalender sejak diturunkan |
+| Maks. hashtag produk relevan (3.9) | 20 hashtag |
+| Maks. pengulangan kata sama di nama produk (3.13) | 2 kali |
+| Resolusi foto minimum Shopee Mall (5.2) | di atas 500×500 px |
+| Objek produk minimum dalam foto Shopee Mall (5.5) | min. 60% dari foto |
+| Maks. foto berbeda per halaman produk Shopee Mall (5.6) | 9 foto |
+
+## Pertanyaan diagnosa
+
+1. **Produk member dihapus/diblokir/diturunkan — alasannya apa?** WAJIB cari dulu jenis pelanggaran paling spesifik dari 5 tabel di `## Isi` (Hukum/Kebijakan Shopee/Spam/Info Tidak Lengkap/Shopee Mall) — cara perbaikinya beda TOTAL tergantung jenisnya (dari sekadar ganti foto sampai gak bisa dipulihkan sama sekali).
+2. **Produk dihapus PERMANEN — masih bisa jual produk yang sama lagi?** Cek kolom "Cara Memperbaiki" di baris pelanggarannya — kalau bilang "mohon tidak menjual/upload kembali produk yang sama", itu artinya TIDAK BISA, harus produk beda kalau mau lanjut jualan kategori itu.
+3. **Member Shopee Mall, produknya diblokir soal foto?** Cek tabel bagian 5 (Pengembangan Shopee Mall) — standar foto Mall LEBIH KETAT dari toko biasa (resolusi min. 500×500px, objek produk min. 60% foto, maks. 9 foto beda, gak boleh watermark, latar polos).
+4. **Produk kena "spam" — kenapa?** Cek tabel bagian 3 — biasanya soal kata kunci gak relevan, banyak merek dalam 1 nama, kategori salah, hashtag gak relevan (maks. 20), atau pengulangan kata (maks. 2x).
+5. **Produk butuh dokumen/izin khusus yang gak dipunya member?** Beberapa jenis pelanggaran (HAKI, Hak Distribusi Merek, Surat Izin Usaha Perdagangan, lisensi Apotek) butuh hubungi CS Shopee + lampirkan dokumen resmi — bukan sesuatu yang bisa diperbaiki sendiri lewat edit produk biasa.
+6. **Member gak nemu jenis pelanggarannya di tabel ini?** Arahkan ajukan banding lewat formulir Produk Dihapus/Diblokir yang disebut di akhir entry ini.
+
+## Batasan
+Tabel ini SANGAT panjang (~85 baris di 5 kategori) — jangan coba hafal, selalu cari baris paling spesifik dulu sebelum jawab. Beberapa baris di tabel (terutama nomor 4.10 soal produk kedaluwarsa) punya artefak formatting dari hasil scraping (karakter kosong berulang) — itu bukan kesalahan konten, cuma noise teknis, isi substansinya tetap valid.

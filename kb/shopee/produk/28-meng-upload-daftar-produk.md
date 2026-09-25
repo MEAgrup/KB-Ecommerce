@@ -11,13 +11,17 @@ valid_as_of: 2026-06
 sources:
   - file: daftar-produk---mengupload-produk/meng-upload-daftar-produk.md
     bagian: "artikel penuh"
+related: [shp-produk-001, shp-produk-019, shp-produk-021, shp-produk-027]
 ---
 # Meng-upload Daftar Produk
 
 ## Ringkasan
-**Meng-upload Produk melalui Seller Centre**
+Panduan LENGKAP upload produk baru (Seller Centre & aplikasi Shopee): Informasi Produk (foto/video/nama/deskripsi/kategori), Spesifikasi (atribut wajib bertanda bintang), Informasi Penjualan (harga/stok/variasi/min-maks pembelian/grosir), Informasi Pengiriman (berat/ukuran/produk berbahaya/ongkir), dan Informasi Lainnya (asuransi/pre-order/kondisi/SKU/jadwal tampil/affiliate). Banyak fitur (Foto Produk Promosi, Min/Maks Jumlah Pembelian, 12 foto deskripsi) KHUSUS Penjual terpilih.
 
+## Kapan ini dipakai
+Entry RUJUKAN MASTER buat cara upload produk dari NOL, field per field. Dipakai kalau member nanya cara isi field spesifik saat upload (bukan edit produk yang udah ada — itu `shp-produk-021`/pengelolaan lain), atau angka batasan teknis (lihat `## Angka & patokan`). Buat upload massal, arahkan ke `shp-produk-001`. Buat tips kualitas listing, arahkan ke `shp-produk-019`. Buat kategori/atribut lebih detail, arahkan ke `shp-produk-027`.
 
+## Isi
 
 Berikut adalah langkah-langkah untuk meng-*upload* produk pertama Anda:
 
@@ -722,4 +726,29 @@ Untuk melihat produk Anda yang sudah terdaftar dan mengetahui berapa kali produk
 **Aplikasi Shopee**
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Maks. foto produk (termasuk sampul) | 9 foto |
+| Maks. gambar di deskripsi (Penjual terpilih) | 12 gambar |
+| Durasi & resolusi video minimum buat auto-sync ke Shopee Video | min. 8 detik, resolusi min. 540×540 |
+| Maks. tipe variasi per produk | 2 tipe |
+| Maks. tingkatan harga grosir | 5 tingkat |
+| Formula berat volumetrik (Reguler/Hemat Kargo) | (P×L×T) / 6000 |
+| Ongkir khusus paket ringan (layanan Reguler) | di bawah 0,5kg, toleransi hingga 0,509kg |
+| Jadwal Ditampilkan — waktu tercepat | 1 jam dari waktu penjadwalan |
+| Jadwal Ditampilkan — maks. dijadwalkan di depan | 90 hari |
+| Masa pengemasan Pre-order | 3-30 hari kerja |
+| Asuransi Pengiriman — nilai ganti rugi | hingga 100% dari harga jual akhir (setelah diskon/promosi) |
+
+## Pertanyaan diagnosa
+
+1. **Member nanya kenapa fitur Min./Maks. Jumlah Pembelian atau Foto Produk Promosi gak muncul di akunnya?** Cek dulu — fitur-fitur ini KHUSUS Penjual terpilih, bukan tersedia buat semua Penjual.
+2. **Member bingung beda Berat Massa vs Berat Volumetrik buat ongkir?** Berat Massa = berat asli produk+kemasan; Berat Volumetrik = dihitung dari (P×L×T)/6000 (khusus Reguler/Hemat Kargo, biasanya buat barang besar-ringan). Jasa kirim pakai yang LEBIH TINGGI dari keduanya.
+3. **Member set harga tapi produk langsung diblokir sistem?** Kemungkinan kena "spam harga" — harga terlalu jauh dari harga pasaran (terlalu tinggi/rendah dibanding produk sejenis).
+4. **Member mau atur harga grosir tapi variasinya beda harga?** GAK BISA — semua variasi produk WAJIB harga sama dulu sebelum bisa set harga grosir.
+5. **Member set Maks. Jumlah Pembelian tipe "Per Periode" — Tidak Berulang vs Berulang bedanya apa?** Tidak Berulang = cuma jalan 1x dalam rentang tanggal yang diset; Berulang = siklusnya ulang terus sampai Tanggal Berakhir yang ditentukan (butuh isi Tanggal Berakhir).
+6. **Member jadwal produk tampil, kapan paling cepat/lama bisa dijadwalkan?** Paling cepat 1 jam dari sekarang, paling jauh 90 hari ke depan.
+7. **Member nanya soal Asuransi Pengiriman — berapa ganti ruginya kalau produk rusak/hilang?** Hingga 100% dari harga jual akhir (SETELAH dikurangi diskon/promosi Penjual, bukan harga awal) — cuma berlaku buat jasa kirim yang didukung Shopee.
+8. **Member upload produk kategori besar (bulky product), atribut apa yang wajib?** Wajib isi Dimensi (P×L×T) di Spesifikasi — ini kewajiban tambahan khusus kategori produk besar.
+9. **Member gak yakin harus pilih Template Dasar atau Kategori pas Mass Upload?** Itu di luar cakupan entry ini (upload satuan) — arahkan ke `shp-produk-001` buat panduan Mass Upload.
