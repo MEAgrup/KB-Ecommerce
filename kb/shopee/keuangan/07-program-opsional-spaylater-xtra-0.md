@@ -15,9 +15,12 @@ sources:
 # Program Opsional SPayLater XTRA 0%
 
 ## Ringkasan
-**Apa itu Program Opsional SPayLater XTRA 0%?**
+SPayLater XTRA 0% = Penjual nanggung bunga cicilan (2,5% tenor 3 bulan, 4% tenor 6 bulan dari Total Penjualan) supaya Pembeli checkout cicilan 0%. Syarat ikut: penjualan stabil + performa toko naik bertahap (gak ada angka pasti). Data rata-rata Shopee: GMV naik hingga 8%, transaksi SPayLater naik hingga 30%, ROI hingga 8x — **ini klaim rata-rata Shopee, bukan jaminan per toko**.
 
+## Kapan ini dipakai
+Dipakai buat hitung biaya layanan riil kalau ikut program ini (pakai tabel tenor), atau buat member yang mempertimbangkan ikut/enggak — jelasin trade-off: biaya lebih tinggi di tenor lebih panjang, tapi konversi berpotensi naik.
 
+## Isi
 
 SPayLater XTRA 0% adalah program opsional yang memungkinkan Penjual untuk menawarkan **cicilan 0%** untuk Pembeli selama **3 atau 6 bulan** melalui metode pembayaran SPayLater. Program opsional ini dapat membuat produk Anda lebih terjangkau oleh Pembeli serta membantu meningkatkan penjualan.
 
@@ -160,3 +163,29 @@ Pada bagian **Kriteria Utama**, terdapat gambaran umum performa SPayLaterXTRA 0%
   - Efektivitas Promo
 
 Anda dapat mengklik keempat metrik yang tersedia untuk menampilkan/menyembunyikan informasi pada grafik. Sesuaikan juga data yang ditampilkan dengan periode waktu yang diinginkan melalui *filter* **Periode Data**, **Status Pesanan**, dan **Tenor**.
+
+## Angka & patokan
+
+| Tenor | Bunga ke Pembeli (tanpa XTRA) | Bunga ke Pembeli (dengan XTRA 0%) | Biaya Layanan Penjual |
+|---|---|---|---|
+| 3 bulan | 8,9% | 0% | 2,5% |
+| 6 bulan | 17,8% | 0% | 4% |
+
+| Patokan lain | Nilai |
+|---|---|
+| Voucher diskon SPayLater buat Pembeli | Rp300.000 |
+| Waktu aktivasi berlaku | maks. 30 menit sejak toggle diaktifkan |
+| Dasar hitung Biaya Layanan | Total Penjualan (termasuk ongkir, dikurangi diskon) × persentase tenor |
+| Klaim rata-rata Shopee: kenaikan GMV | hingga 8% MoM |
+| Klaim rata-rata Shopee: kenaikan GMV dari SPayLater | hingga 30% |
+| Klaim rata-rata Shopee: ROI | hingga 8x |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau biaya riilnya berapa?** Pakai formula: Total Penjualan (setelah diskon) × 2,5% (tenor 3 bulan) atau × 4% (tenor 6 bulan) — bukan dari harga produk mentah.
+2. **Program dinonaktifkan tapi masih ada pesanan berjalan?** Tetap kena biaya layanan buat pesanan yang udah terlanjur jalan dengan SPayLater XTRA — nonaktifin gak retroaktif.
+3. **Member nanya soal kepastian hasil kalau ikut program ini?** Klaim performa yang disebut Shopee (lihat tabel Angka & patokan) itu rata-rata dari data mereka, bukan jaminan yang pasti terjadi di toko manapun — lihat juga Batasan di bawah.
+4. **Toko belum bisa aktifkan program ini?** Cek dulu udah penuhi syarat & ketentuan dasar SPayLater (bukan XTRA-nya) — program XTRA cuma tersedia kalau SPayLater dasarnya udah eligible.
+
+## Batasan
+Syarat "penjualan stabil" dan "performa toko meningkat bertahap" gak punya angka pasti di sumber — jangan tebak ambang batasnya, arahkan member buat cek langsung di Seller Centre apakah toggle-nya sudah muncul/bisa diaktifkan.

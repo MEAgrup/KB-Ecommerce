@@ -11,13 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---dana-cepat-di-shopee/tentang-dana-cepat-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-keuangan-001]
 ---
 # Tentang Dana Cepat di Shopee
 
 ## Ringkasan
-**Apa itu Dana Cepat?**
+Dana Cepat = pinjaman berizin OJK dari PT Lentera Dana Nusantara (mulai 1 Agu 2026 pendanaannya pindah ke PT Delta Prima Sentosa). Syarat pakai: toko udah 6 bulan, omzet >Rp1jt/bulan (6 bulan terakhir), poin penalti <4 (3 bulan terakhir), gak punya riwayat penipuan. Ada promo 20 hari pertama bebas biaya pencairan. Detail cara kerja/biaya di `shp-keuangan-001`.
 
+## Kapan ini dipakai
+Dipakai buat cek ELIGIBILITAS pakai Dana Cepat (4 syarat) dan jenis pesanan yang gak bisa pakai fitur ini (GoSend/GrabExpress, SPayLater/COD). Buat cara kerja & simulasi biaya, cek `shp-keuangan-001`.
 
+## Isi
 
 Dana Cepat adalah fasilitas pinjaman yang disediakan kepada Penjual Shopee oleh PT Lentera Dana Nusantara (LDN) selaku Penyedia Pinjaman untuk mempercepat pelepasan dana penjualan setelah resi pengiriman terkonfirmasi, tanpa harus menunggu konfirmasi pesanan selesai oleh Pembeli. PT Lentera Dana Nusantara berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK).
 
@@ -136,5 +140,30 @@ Contoh:
   - Pada tanggal 11 Januari 2026, Promo 20 Hari Bebas Biaya Pencairan dimulai.
   - Seluruh pencairan Dana Cepat yang dilakukan pada tanggal 11 Januari 2026 hingga 20 hari kedepan (30 Januari 2026) akan dibebaskan dari biaya pencairan.
   - Pencairan Dana Cepat yang dilakukan mulai tanggal 31 Januari 2026 akan dikenakan biaya pencairan sesuai dengan biaya yang berlaku.
+
+## Angka & patokan
+
+| Syarat pakai Dana Cepat | Nilai |
+|---|---|
+| Lama berjualan | min. 6 bulan |
+| Rata-rata penjualan (6 bulan terakhir) | >Rp1.000.000/bulan |
+| Poin penalti (3 bulan terakhir) | <4 |
+| Riwayat penipuan | tidak ada |
+
+| Patokan lain | Nilai |
+|---|---|
+| Promo bebas biaya pencairan | 20 hari sejak aktivasi berhasil |
+| Batas ubah data pribadi | 1x per 14 hari kalender |
+| Deadline setujui perubahan Pemberi Dana | 1 Agustus 2026 (kalau lewat, layanan dibekukan sementara) |
+
+## Pertanyaan diagnosa
+
+1. **Toko belum bisa akses Dana Cepat — udah penuhi 4 syarat?** Lama jualan ≥6 bulan, omzet >Rp1jt/bulan, poin penalti <4, gak ada riwayat penipuan. Kalau satu aja belum, gak eligible.
+2. **Pesanan gak bisa pakai Dana Cepat?** Cek 3 exclusion: pakai GoSend/GrabExpress, pakai SPayLater/COD (kecuali dikecualikan), atau statusnya belum "Dikirim".
+3. **Baru aktivasi Dana Cepat — masih dalam 20 hari promo bebas biaya?** Kalau iya, gak akan kena potongan 0,5% dulu.
+4. **Member belum setujui perubahan Pemberi Dana per 1 Agustus 2026?** Kalau lewat deadline, layanan dibekukan sementara sampai disetujui — bukan dihentikan permanen.
+
+## Batasan
+Entry ini fokus syarat & eligibilitas — buat simulasi perhitungan biaya pencairan dan cara bayar tagihan, cek `shp-keuangan-001`.
 
 ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿

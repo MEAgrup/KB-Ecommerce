@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---keuangan/tentang-penghasilan-saya.md
     bagian: "artikel penuh"
+related: [shp-keuangan-005]
 ---
 # Tentang Penghasilan Saya
 
 ## Ringkasan
+**Penghasilan Saya** (Seller Centre & aplikasi) = halaman laporan keuangan toko, ada 4 bagian: Informasi Penghasilan, Rincian Penghasilan, Catatan Transaksi Penghasilan (maks. 24 bulan ke belakang), dan Faktur Saya. Aplikasi Shopee cuma dukung 2 bagian pertama — buat Catatan Transaksi & Faktur harus lewat Seller Centre. Penghasilan dibagi 2 status: **Pending** (masih proses/belum Selesai) dan **Sudah Dilepas** (masuk ke Saldo Penjual).
+
+## Kapan ini dipakai
+Entry RUJUKAN buat baca laporan Excel/halaman Penghasilan Saya — dipakai kalau member nanya arti satu kolom spesifik di laporan (ada 30 kolom didefinisikan di `## Isi`), beda Penghasilan Saya vs Saldo Saya, atau kenapa dana belum cair (lihat juga `shp-keuangan-005` buat FAQ pelepasan dana yang lebih umum).
+
+## Isi
+
 **Apa itu Penghasilan Saya?**
 
 
@@ -371,3 +379,11 @@ Bagian utama dari Rincian Tagihan, meliputi:
       
     1.  Diskon (termasuk PPN sesuai dengan peraturan Pemerintah tentang Perpajakan yang berlaku): *item* yang termasuk pajak adalah pembelian Kredit Saldo Iklan.
     2.  Total Biaya Penanganan\*
+
+## Pertanyaan diagnosa
+
+1. **Member nanya arti satu kolom spesifik di laporan Excel?** Cek daftar 30 kolom di `## Isi` (bagian "Memahami Laporan Penghasilan Saya") — kolom-kolom itu ada di *tab* **Income** *file* Excel.
+2. **Member bingung beda "Penghasilan Saya" vs "Saldo Saya"?** Penghasilan Saya cuma nampilin penyesuaian per No. Pesanan; Saldo Saya nampilin SEMUA biaya penyesuaian toko — kalau angkanya beda, itu normal, bukan bug.
+3. **Dana belum dilepas padahal harusnya udah waktunya?** Kemungkinan penyebab di entry ini: ongkir belum dikonfirmasi jasa kirim (maks. 3x24 jam sejak status Dikirim). Kalau soal pelepasan dana secara umum (bukan spesifik soal ongkir), arahkan ke `shp-keuangan-005`.
+4. **Member pakai aplikasi Shopee tapi cari Catatan Transaksi/Faktur Saya, gak ketemu?** Itu 2 bagian yang CUMA ada di Seller Centre, bukan di aplikasi — bukan bug.
+5. **Mau tau berapa lama histori laporan penghasilan bisa di-*download*?** Maks. 24 bulan ke belakang lewat Catatan Transaksi Penghasilan.

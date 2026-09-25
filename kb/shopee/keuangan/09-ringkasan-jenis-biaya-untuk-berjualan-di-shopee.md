@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---biaya-penjual/ringkasan-jenis-biaya-untuk-berjualan-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-biaya-001, shp-biaya-003, shp-biaya-006, shp-biaya-007, shp-biaya-008, shp-keuangan-007]
 ---
 # Ringkasan Jenis Biaya untuk Berjualan di Shopee
 
 ## Ringkasan
+Entry RUJUKAN paling ringkas buat "total biaya jualan di Shopee berapa sih?" — 2 tabel besar (Penjual upload produk pertama SEBELUM vs SEJAK 1 Agustus 2026, beda soal bebas-biaya awal), masing-masing pecah Biaya Platform wajib (Administrasi + Pembayaran Mall + Proses Pesanan) vs Biaya Layanan opsional (Promo XTRA/XTRA+, Live/Video XTRA, SPayLater XTRA) vs Biaya Lainnya opsional (Pre-Order). Total biaya kalau gak ikut opsional apapun: **2,5%–10% + Rp1.250** (Non-Mall) atau **4,3%–13,5% + Rp1.250** (Shopee Mall); kalau ikut SEMUA program opsional: bisa naik ke **11%–25,5%** atau **12,8%–29%**.
+
+## Kapan ini dipakai
+Dipakai buat kasih GAMBARAN TOTAL biaya (bukan detail satu jenis biaya) — misal member baru nanya "kalau jualan di Shopee kena potongan apa aja". Untuk detail per jenis biaya, arahkan ke entry spesifik: Biaya Administrasi per kategori → `shp-biaya-007`, Biaya Proses Pesanan → `shp-biaya-003`, Biaya Pembayaran Shopee Mall → `shp-biaya-006`, Gratis Ongkir XTRA per kategori → `shp-biaya-008`, SPayLater XTRA → `shp-keuangan-007`.
+
+## Isi
+
 **Penjual yang meng-**upload** **produk pertama di Shopee sebelum 1 Agustus 2026**
 
 
@@ -84,3 +92,30 @@ sources:
   - [Star+](https://seller.shopee.co.id/edu/article/7008)
   - [Shopee Mall](https://seller.shopee.co.id/edu/article/6875)
   - [Gratis Ongkir XTRA](https://seller.shopee.co.id/edu/article/6922) dan[ Promo XTRA](https://seller.shopee.co.id/edu/article/18196)
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Total biaya, gak ikut opsional (Non-Mall) | 2,50%–10% + Rp1.250/pesanan selesai |
+| Total biaya, gak ikut opsional (Shopee Mall) | 4,30%–13,50% + Rp1.250/pesanan selesai |
+| Total biaya, ikut SEMUA opsional (Non-Mall) | 11%–25,50% + Rp1.250/pesanan selesai |
+| Total biaya, ikut SEMUA opsional (Shopee Mall) | 12,80%–29% + Rp1.250/pesanan selesai |
+| Biaya Proses Pesanan | Rp1.250/pesanan selesai (berlaku sejak 20 Jul 2025) |
+| Biaya Pembayaran Shopee Mall | 1,80%, maks. Rp50.000/kuantitas produk |
+| Biaya Promo XTRA | 4,50%, maks. Rp60.000/kuantitas produk |
+| Biaya Promo XTRA+ | 6,50%, maks. Rp80.000/kuantitas produk |
+| Biaya Shopee Live/Video XTRA | 3% (2% kalau udah ikut Promo XTRA/XTRA+), maks. Rp20.000/kuantitas produk |
+| Biaya SPayLater XTRA 0% | 2,5% (tenor 3 bulan) / 4% (tenor 6 bulan) |
+| Biaya Layanan Produk Pre-Order | 3,00% |
+| Bebas biaya Non-Star (upload sebelum 1 Agu 2026) | pesanan selesai ≤50 ATAU ≤6 bulan sejak upload pertama |
+
+## Pertanyaan diagnosa
+
+1. **Kapan toko upload produk pertama kali — sebelum atau sejak 1 Agustus 2026?** 2 tabel di entry ini beda soal kelonggaran bebas biaya awal (tabel "sebelum 1 Agustus" punya masa BEBAS BIAYA buat Non-Star yang masih ≤50 pesanan/≤6 bulan; tabel "sejak 1 Agustus" gak ada masa bebas biaya ini).
+2. **Member cuma mau tau kisaran biaya total, atau perlu angka pasti per kategori produk?** Kalau perlu angka pasti (bukan cuma kisaran/estimasi), arahkan ke entry detail per kategori (`shp-biaya-007` buat Administrasi, `shp-biaya-008` buat Gratis Ongkir XTRA) — jangan pakai kisaran dari sini buat hitungan pasti.
+3. **Toko ikut program opsional apa aja?** Total biaya bisa naik jauh (dari ~2,5-13,5% ke 11-29%) tergantung ikut Promo XTRA/XTRA+, Live/Video XTRA, SPayLater XTRA, dan/atau jual produk Pre-Order — konfirmasi dulu program apa yang diikuti sebelum kasih estimasi total.
+4. **Toko Non-Star, Star/Star+, atau Shopee Mall?** Biaya Administrasi dan Biaya Pembayaran beda signifikan antar tipe — Shopee Mall selalu lebih tinggi karena nanggung Biaya Pembayaran 1,8% tambahan.
+
+## Batasan
+Angka "Total Biaya" di tabel ini adalah KISARAN (range), bukan angka pasti — persentase eksaknya tetap tergantung kategori produk spesifik. Jangan pakai angka dari entry ini buat jawab "biaya saya buat jual [produk X] persis berapa" — itu harus dari `shp-biaya-007` (Administrasi) atau `shp-biaya-008` (Gratis Ongkir XTRA).

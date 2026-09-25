@@ -15,9 +15,12 @@ sources:
 # FAQ Kebijakan Validasi Nama Rekening Bank
 
 ## Ringkasan
-**1. Apa itu Kebijakan Validasi Nama Rekening Bank?**
+Nama rekening bank buat penarikan Saldo Penjual **wajib identik** (ejaan, urutan, tanpa tambah/kurang kata) dengan nama di Verifikasi Data Identitas Toko — individu harus atas nama sendiri (bukan keluarga/pasangan/karyawan), Badan Usaha harus atas nama sesuai NIB. Berlaku buat Penjual lama maupun baru.
 
+## Kapan ini dipakai
+Dipakai waktu penarikan dana ditolak/tertunda dan member gak tau kenapa — kemungkinan besar karena nama rekening beda dari identitas terdaftar, meski cuma beda ejaan/spasi kecil.
 
+## Isi
 
 Kebijakan ini mewajibkan agar nama pemilik rekening bank yang digunakan untuk penarikan dana dari[ Saldo Penjual](https://seller.shopee.co.id/edu/article/6995) sesuai dengan nama yang telah diverifikasi dalam proses[ Verifikasi Data Identitas Toko](https://seller.shopee.co.id/edu/article/26735).
 
@@ -78,3 +81,13 @@ Untuk akun milik Badan Usaha (PT/CV) ketentuannya adalah sebagai berikut:
 **8. Apakah Kebijakan Validasi Nama Rekening juga berlaku untuk Penjual lama?**
 
 Ya, Kebijakan Validasi Nama Rekening berlaku untuk Penjual lama dan/atau Penjual baru Shopee.
+
+## Pertanyaan diagnosa
+
+1. **Toko individu atau Badan Usaha (PT/CV)?** Aturannya beda: individu harus rekening atas nama sendiri sesuai KTP; Badan Usaha harus atas nama badan usaha sesuai NIB, BUKAN atas nama pribadi pemilik.
+2. **Ada perbedaan kecil di nama** (ejaan, urutan, gelar tambahan)? Ini penyebab paling umum penarikan ditolak — bukan berarti rekeningnya salah, tapi gak identik persis dengan data terdaftar.
+3. **Rekening atas nama keluarga/pasangan/karyawan?** Ini otomatis ditolak buat akun individu — harus atas nama pemilik akun sendiri, gak ada pengecualian.
+4. **Penjual udah lama pakai rekening ini tanpa masalah, kenapa sekarang ditolak?** Kebijakan ini berlaku surut ke Penjual lama juga — bukan cuma toko baru.
+
+## Batasan
+Entry ini gak jelasin CARA memperbaiki ketidaksesuaian nama secara teknis (langkah update data) — cuma bilang "hubungi Customer Service Shopee". Kalau member butuh langkah konkret, arahkan ke CS langsung.

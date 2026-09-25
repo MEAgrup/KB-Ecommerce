@@ -11,13 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---dana-cepat-di-shopee/cara-kerja-dana-cepat-di-shopee.md
     bagian: "artikel penuh"
+related: [shp-keuangan-002]
 ---
 # Cara Kerja Dana Cepat di Shopee
 
 ## Ringkasan
-**Cara Kerja dan Pelepasan Dana Cepat**
+Dana Cepat = pinjaman talangan yang cairin 100% dana penjualan begitu resi terkonfirmasi (gak nunggu pesanan Selesai), kena biaya pencairan 0,5% di awal, tenor 14 hari kalender, dibayar otomatis dari Saldo Penjual pas pesanan Selesai (atau ditagih manual/otomatis kalau belum lunas).
 
+## Kapan ini dipakai
+Dipakai waktu member nanya kenapa dana penjualannya cair lebih cepat dari biasa (dan potongannya kenapa ada 0,5% ekstra) — atau pas nanya kenapa Saldo Penjual tiba-tiba kepotong tagihan yang gak dikenali (kemungkinan itu pembayaran otomatis Dana Cepat).
 
+## Isi
 
 Fitur Dana Cepat dapat mempercepat pelepasan dana penjualan setelah mengatur pengiriman dan resi pengiriman terkonfirmasi oleh sistem Shopee, tanpa harus menunggu konfirmasi pesanan selesai oleh Pembeli.
 
@@ -118,3 +122,25 @@ Fitur Dana Cepat dikenakan biaya pencairan sebesar 0,5% yang dikenakan di awal p
   
 
 Shopee menerapkan biaya pencairan pada Dana Cepat untuk meningkatkan kualitas sistem serta memberikan pelayanan terbaik untuk Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Dana yang dicairkan | 100% dari penjualan yang memenuhi syarat |
+| Biaya pencairan | 0,5% (dipotong di awal) |
+| Tenor pinjaman | 14 hari kalender sejak resi terkonfirmasi |
+| Waktu pelepasan (resi terkonfirmasi sebelum 15.00 WIB) | hari yang sama |
+| Waktu pelepasan (resi terkonfirmasi setelah 15.00 WIB) | pk. 17.00 WIB keesokan harinya |
+| Batas pembayaran manual (kalau otomatis gagal) | 10 hari setelah jatuh tempo |
+| Penagihan otomatis kalau lewat jatuh tempo | tiap jam sampai lunas |
+
+## Pertanyaan diagnosa
+
+1. **Dana penjualan gak masuk lebih cepat padahal udah kirim?** Cek 2 kemungkinan: nomor resi salah/tidak sah, atau status pesanan belum "Dikirim".
+2. **Saldo Penjual kepotong tiba-tiba tanpa penjelasan?** Kemungkinan itu pembayaran otomatis tagihan Dana Cepat pada tanggal jatuh tempo — cek riwayat di halaman Saldo Penjual.
+3. **Tagihan udah lewat jatuh tempo dan belum dibayar?** Setelah 10 hari, wajib bayar manual (aplikasi Shopee atau situs PT Lentera Dana Nusantara); kalau tetap gak dibayar, Saldo Penjual ditarik otomatis tiap jam.
+4. **Member gak bisa akses situs Lentera Dana Nusantara?** Situs itu cuma bisa diakses kalau udah aktifkan produk pinjaman (SPinjam Penjual atau Dana Cepat) — bukan buat semua Penjual.
+
+## Batasan
+Dana Cepat adalah produk PINJAMAN (bukan sekadar percepatan biasa) yang disediakan lewat PT Lentera Dana Nusantara — perlu dijelaskan ke member kalau ini beda dari pelepasan dana normal, ada biaya dan tenor yang wajib dipatuhi.

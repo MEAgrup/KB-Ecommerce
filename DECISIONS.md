@@ -1774,6 +1774,32 @@ Member bisa mengejar status Mall dengan ekspektasi kenaikan order yang gak sesua
 
 ---
 
+### S-D-CONFLICT-004 · Dua nomor SKB PPh 23 berbeda di dua entry resmi (`shp-biaya-006` vs `shp-keuangan-003`)
+
+**Status:** terbuka
+**Entry terdampak:** `shp-biaya-006` (Ketentuan Biaya untuk Penjual Shopee Mall, `valid_as_of: 2026-07`), `shp-keuangan-003` (Bagaimana cara mengajukan pengembalian PPh 23?, `valid_as_of: 2026-01`)
+
+**Masalahnya:**
+Ketemu waktu ngerjain full-template pass `shp-biaya-006`. Dua entry resmi Shopee (dari batch scraping yang sama) nyebut nomor & periode SKB PPh 23 yang beda:
+- `shp-biaya-006` (di-*scrape* lebih baru, Juli 2026): SKB No. **KET-00012**/PPUT-CT/KPP.3010/**2025**, berlaku **3 Feb–31 Des 2025**.
+- `shp-keuangan-003` (di-*scrape* lebih lama, Januari 2026): SKB No. **KET-00002**/PPUT-CT/KPP.3010/**2026**, berlaku **15 Jan–31 Des 2026**.
+
+Dua SKB itu masuk akal kalau memang berurutan (SKB 2025 habis masa berlaku, diganti SKB baru buat 2026) — tapi anehnya entry yang `valid_as_of`-nya LEBIH BARU (`shp-biaya-006`, Juli 2026) justru nyebut SKB yang LEBIH LAMA (2025), bukan yang 2026. Kemungkinan besar konten `shp-biaya-006` gak keupdate pas artikel sumbernya di-*refresh* Juli 2026 — cuma bagian lain artikelnya yang berubah, bagian SKB-nya kelewat.
+
+**Kalau salah diputuskan:**
+Kalau tim jawab pertanyaan soal SKB PPh 23 pakai nomor/periode dari `shp-biaya-006`, member/mentor bisa dikasih info SKB yang udah expired (periode 2025) padahal ada SKB baru yang aktif (2026) — bisa bikin kebingungan soal kewajiban pajak.
+
+**Opsi:**
+- **A** — Anggap `shp-keuangan-003` sebagai sumber kebenaran (lebih spesifik topiknya + prosedur reimbursement-nya konsisten), dan edit `shp-biaya-006` supaya nomor/periode SKB-nya disamakan/redirect ke situ.
+- **B** — Biarkan dua-duanya apa adanya, cukup ditandai lewat Batasan (sudah dilakukan) — anggap ini sekadar snapshot dua waktu scraping berbeda, bukan konflik yang perlu diresolusi konten-nya.
+- **C** — Cek ke sumber resmi Shopee terbaru buat konfirmasi nomor SKB yang benar-benar aktif saat ini, baru update kedua entry.
+
+**Rekomendasi:** B untuk sekarang (sudah ditandai jelas di Batasan `shp-biaya-006`, mengarahkan pembaca ke `shp-keuangan-003`) — C kalau ada akses buat verifikasi ke sumber resmi Shopee terkini, karena skill ini gak boleh nebak nomor SKB yang benar.
+
+**Keputusan Yohan:** _(kosong)_
+
+---
+
 ## 2. Indikasi usang (D-OUTDATED)
 
 ### S-D-OUTDATED-001 · Seluruh folder `pengumuman-dan-kebijakan-terbaru` (15 entry)

@@ -1841,7 +1841,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-keuangan-002",
     "decisions": "",
     "path": "shopee/keuangan/01-cara-kerja-dana-cepat-di-shopee.md"
   },
@@ -1867,7 +1867,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-keuangan-001",
     "decisions": "",
     "path": "shopee/keuangan/02-tentang-dana-cepat-di-shopee.md"
   },
@@ -1880,8 +1880,8 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
-    "decisions": "",
+    "related": "shp-biaya-006",
+    "decisions": "S-D-CONFLICT-004",
     "path": "shopee/keuangan/03-bagaimana-cara-mengajukan-pengembalian-pph-23.md"
   },
   {
@@ -1906,7 +1906,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-001, shp-biaya-002, shp-biaya-003",
     "decisions": "",
     "path": "shopee/keuangan/04-faq-biaya-untuk-berjualan-di-shopee.md"
   },
@@ -1932,7 +1932,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-keuangan-006",
     "decisions": "",
     "path": "shopee/keuangan/05-faq-pelepasan-dan-penarikan-dana-penghasilan-toko-anda.md"
   },
@@ -1945,7 +1945,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-001, shp-biaya-003, shp-biaya-004, shp-keuangan-009",
     "decisions": "",
     "path": "shopee/keuangan/05-kategorisasi-biaya-penjual-di-shopee.md"
   },
@@ -1958,8 +1958,8 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
-    "decisions": "",
+    "related": "shp-biaya-001, shp-keuangan-003",
+    "decisions": "S-D-CONFLICT-004",
     "path": "shopee/keuangan/06-ketentuan-biaya-untuk-penjual-shopee-mall.md"
   },
   {
@@ -1971,7 +1971,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-keuangan-005, shp-keuangan-004",
     "decisions": "",
     "path": "shopee/keuangan/06-menarik-dana-dari-saldo-penjual-ke-rekening.md"
   },
@@ -1997,7 +1997,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-001",
     "decisions": "",
     "path": "shopee/keuangan/07-rincian-biaya-penjual-shopee-per-kategori-produk.md"
   },
@@ -2010,7 +2010,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-007",
     "decisions": "",
     "path": "shopee/keuangan/08-rincian-persentase-gratis-ongkir-xtra-kategori-produk-dan-tipe-penjual.md"
   },
@@ -2023,7 +2023,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-keuangan-005",
     "decisions": "",
     "path": "shopee/keuangan/08-tentang-penghasilan-saya.md"
   },
@@ -2049,7 +2049,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-biaya-001, shp-biaya-003, shp-biaya-006, shp-biaya-007, shp-biaya-008, shp-keuangan-007",
     "decisions": "",
     "path": "shopee/keuangan/09-ringkasan-jenis-biaya-untuk-berjualan-di-shopee.md"
   },

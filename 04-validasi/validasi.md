@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **1131**
+- PERINGATAN: **1100**
 
 ## Status entry
 
@@ -856,102 +856,72 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/keuangan/01-biaya-administrasi-penjual-shopee.md` · shp-biaya-001
 
 - sumber tanpa penunjuk bagian: file: keuangan---biaya-penjual/biaya-administrasi-penjual-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/01-cara-kerja-dana-cepat-di-shopee.md` · shp-keuangan-001
 
 - sumber tanpa penunjuk bagian: file: keuangan---dana-cepat-di-shopee/cara-kerja-dana-cepat-di-shopee.
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/02-biaya-layanan-pembeli.md` · shp-biaya-002
 
 - sumber tanpa penunjuk bagian: file: keuangan---biaya-penjual/biaya-layanan-pembeli.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/02-tentang-dana-cepat-di-shopee.md` · shp-keuangan-002
 
 - sumber tanpa penunjuk bagian: file: keuangan---dana-cepat-di-shopee/tentang-dana-cepat-di-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/03-bagaimana-cara-mengajukan-pengembalian-pph-23.md` · shp-keuangan-003
 
 - sumber tanpa penunjuk bagian: file: keuangan---keuangan/bagaimana-cara-mengajukan-pengembalian-pph-2
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- status='canonical' tapi masih ada decisions terbuka — cek udah tertutup belum
 
 ### `shopee/keuangan/03-biaya-proses-pesanan.md` · shp-biaya-003
 
 - sumber tanpa penunjuk bagian: file: keuangan---biaya-penjual/biaya-proses-pesanan.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/04-faq-biaya-untuk-berjualan-di-shopee.md` · shp-biaya-004
 
 - sumber tanpa penunjuk bagian: file: keuangan---biaya-penjual/faq-biaya-untuk-berjualan-di-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/04-faq-kebijakan-validasi-nama-rekening-bank.md` · shp-keuangan-004
 
 - sumber tanpa penunjuk bagian: file: keuangan---keuangan/faq-kebijakan-validasi-nama-rekening-bank.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/05-faq-pelepasan-dan-penarikan-dana-penghasilan-toko-anda.md` · shp-keuangan-005
 
 - sumber tanpa penunjuk bagian: file: keuangan---keuangan/faq-pelepasan-dan-penarikan-dana-penghasilan
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/05-kategorisasi-biaya-penjual-di-shopee.md` · shp-biaya-005
 
 - sumber tanpa penunjuk bagian: file: keuangan---biaya-penjual/kategorisasi-biaya-penjual-di-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/06-ketentuan-biaya-untuk-penjual-shopee-mall.md` · shp-biaya-006
 
 - sumber tanpa penunjuk bagian: file: keuangan---biaya-penjual/ketentuan-biaya-untuk-penjual-shopee-ma
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- status='canonical' tapi masih ada decisions terbuka — cek udah tertutup belum
 
 ### `shopee/keuangan/06-menarik-dana-dari-saldo-penjual-ke-rekening.md` · shp-keuangan-006
 
 - sumber tanpa penunjuk bagian: file: keuangan---keuangan/menarik-dana-dari-saldo-penjual-ke-rekening.
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1741 kata — kemungkinan dua topik yang belum dipisah
+- 2087 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/keuangan/07-program-opsional-spaylater-xtra-0.md` · shp-keuangan-007
 
 - sumber tanpa penunjuk bagian: file: keuangan---keuangan/program-opsional-spaylater-xtra-0.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/keuangan/07-rincian-biaya-penjual-shopee-per-kategori-produk.md` · shp-biaya-007
 
 - sumber tanpa penunjuk bagian: file: keuangan---biaya-penjual/rincian-biaya-penjual-shopee-per-katego
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 9938 kata — kemungkinan dua topik yang belum dipisah
+- 10235 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/keuangan/08-rincian-persentase-gratis-ongkir-xtra-kategori-produk-dan-tipe-penjual.md` · shp-biaya-008
 
 - sumber tanpa penunjuk bagian: file: keuangan---biaya-penjual/rincian-persentase-gratis-ongkir-xtra-k
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 6237 kata — kemungkinan dua topik yang belum dipisah
+- 6619 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/keuangan/08-tentang-penghasilan-saya.md` · shp-keuangan-008
 
 - sumber tanpa penunjuk bagian: file: keuangan---keuangan/tentang-penghasilan-saya.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2769 kata — kemungkinan dua topik yang belum dipisah
+- 3013 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/keuangan/09-margin-tipis-akar-masalah-bukan-biaya-admin.md` · shp-keuangan-101
 
@@ -962,8 +932,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/keuangan/09-ringkasan-jenis-biaya-untuk-berjualan-di-shopee.md` · shp-biaya-009
 
 - sumber tanpa penunjuk bagian: file: keuangan---biaya-penjual/ringkasan-jenis-biaya-untuk-berjualan-d
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1453 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/layanan-pembeli/01-cara-menggunakan-fitur-chat-penjual.md` · shp-chat-001
 

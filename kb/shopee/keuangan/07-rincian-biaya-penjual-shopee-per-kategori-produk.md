@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---biaya-penjual/rincian-biaya-penjual-shopee-per-kategori-produk.md
     bagian: "artikel penuh"
+related: [shp-biaya-001]
 ---
 # Rincian Biaya Penjual Shopee per Kategori Produk
 
 ## Ringkasan
+Tabel lengkap Biaya Administrasi per kategori/sub-kategori/jenis produk, dipecah 2 versi: Non-Star/Star/Star+ (biaya lebih rendah, range ~2,5%–11,7%) dan Shopee Mall (biaya lebih tinggi karena beda basis perhitungan, range serupa tapi umumnya +0,2-1%an dari versi non-Mall). Kategori dengan Biaya Administrasi Final 10,00% (non-Mall) itu udah didiskon 20% dari Biaya Administrasi Dasar 12,5%.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya "biaya admin buat jual [produk spesifik] berapa?" — jangan coba hafal/tebak angkanya, langsung cari baris kategori/sub-kategori/jenis produk yang paling cocok di tabel `## Isi` (pakai Ctrl+F di file ini), lalu cek apakah tokonya Non-Star/Star/Star+ atau Shopee Mall. Kalau member cuma nanya definisi umum Biaya Administrasi (bukan angka per kategori), arahkan ke `shp-biaya-001`.
+
+## Isi
+
 **Rincian Kategori Produk Penjual Non-Star dan Star/Star+**
 
 
@@ -207,8 +215,6 @@ sources:
 *\*Biaya Administrasi di atas merupakan Biaya Administrasi Final. Kategori dengan Biaya Administrasi Final 10,00% telah mendapatkan biaya 20% lebih rendah dari Biaya Administrasi Dasar 12,5%.*
 
   
-
-## 
 
 **Kategori Elektronik**
 
@@ -752,3 +758,13 @@ sources:
 Anda dapat mengecek rincian biaya Penjual di Seller Centre.
 
 Biaya administrasi akan dibayarkan lewat pemotongan oleh sistem Shopee setelah pesanan selesai.
+
+## Pertanyaan diagnosa
+
+1. **Produk spesifik apa yang dijual, masuk kategori/sub-kategori/jenis produk mana?** Jangan tebak angkanya — cari baris paling spesifik (jenis produk lebih diutamakan daripada sub-kategori/kategori kalau ada barisnya sendiri).
+2. **Tokonya Non-Star/Star/Star+ atau Shopee Mall?** Dua tabel beda, cek tabel yang sesuai — Shopee Mall umumnya lebih tinggi.
+3. **Angka yang dilihat member itu "Biaya Administrasi Dasar" atau "Final"?** Kategori yang ditandai `\*` di tabel itu Final (sudah didiskon 20% dari Dasar 12,5%) — kalau member bandingin dengan angka dari sumber lain yang nyebut 12,5% flat, itu Dasar bukan Final.
+4. **Member gak nemu kategori produknya di tabel?** Cek baris "... Lainnya" di sub-kategori terkait sebagai fallback, atau arahkan cek langsung di Seller Centre saat submit produk (kategori final ditentukan sistem Shopee).
+
+## Batasan
+Tabel ini SANGAT panjang (~700 baris) dan gampang berubah kalau Shopee reklasifikasi kategori produk — kalau ada dugaan kategori sudah pindah/berubah biaya sejak `valid_as_of`, jangan tebak, arahkan cek Seller Centre langsung. Jangan pernah hafal/asumsikan persentase dari entry lain (mis. `shp-biaya-001` yang cuma bahas biaya secara umum) buat gantiin baris spesifik di tabel ini.

@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: keuangan---biaya-penjual/rincian-persentase-gratis-ongkir-xtra-kategori-produk-dan-tipe-penjual.md
     bagian: "artikel penuh"
+related: [shp-biaya-007]
 ---
 # Rincian Persentase Gratis Ongkir XTRA: Kategori Produk dan Tipe Penjual
 
 ## Ringkasan
+Tabel lengkap Biaya Program Opsional Gratis Ongkir XTRA per kategori/sub-kategori/jenis produk, efektif per 2 Mei 2026 — range **1%–9,5%** dari (Harga Asli Produk − Diskon/Voucher ditanggung Penjual), dengan plafon maks. Rp40.000 (produk ukuran biasa) atau Rp60.000 (produk ukuran khusus) per kuantitas produk. Formula sama untuk Non-Star/Star/Star+/Shopee Mall — bedanya cuma biaya lain yang belum termasuk (Biaya Administrasi Non-Star vs Star vs Shopee Mall).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya "biaya Gratis Ongkir XTRA buat produk saya berapa persen?" — cari baris kategori/sub-kategori/jenis produk paling spesifik di tabel `## Isi`, cek juga apakah produknya ukuran biasa atau khusus (plafon beda). Ini biaya TERPISAH dari Biaya Administrasi (`shp-biaya-007`) dan Biaya Proses Pesanan — kalau member nanya total semua biaya, jelasin bahwa biaya-biaya ini dijumlah, bukan saling menggantikan.
+
+## Isi
+
 **Kategori Produk Gratis Ongkir XTRA**
 
 
@@ -433,3 +441,25 @@ Biaya Gratis Ongkir XTRA**\* = (Harga Asli Produk - Diskon Produk dan/atau Vouch
   
 
 Biaya Gratis Ongkir XTRA tidak akan diberlakukan pada ongkos kirim, diskon produk dan/atau voucher ditanggung Penjual. Penjual dapat mengecek Biaya Gratis Ongkir XTRA pada halaman **Rincian Pesanan** dan halaman **Penghasilan**, baik melalui aplikasi atau Seller Centre. Biaya ini akan dipotong secara otomatis melalui sistem Shopee setelah pesanan selesai.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Range Biaya Gratis Ongkir XTRA | 1%–9,5% dari (Harga Asli Produk − Diskon/Voucher Penjual) |
+| Plafon per kuantitas produk (ukuran biasa) | maks. Rp40.000 |
+| Plafon per kuantitas produk (ukuran khusus) | maks. Rp60.000 |
+| Diskon pakai iklan | s.d. 1,5% lebih rendah |
+| Bebas biaya — upload produk pertama sebelum 30 Apr 2026 | 500 pesanan pertama atau 6 bulan (180 hari), mana lebih dulu |
+| Bebas biaya — upload produk pertama 1 Mei–30 Jun 2026 | 1.000 pesanan pertama atau 1 tahun (365 hari), mana lebih dulu |
+| Bebas biaya — upload produk pertama 1–31 Jul 2026 | 500 pesanan pertama atau 6 bulan (180 hari), mana lebih dulu |
+
+## Pertanyaan diagnosa
+
+1. **Produk spesifik apa, masuk kategori/sub-kategori/jenis produk mana, dan ukuran biasa atau khusus?** Semua itu nentuin persentase dan plafon Rp — jangan tebak, cari barisnya di tabel `## Isi`.
+2. **Member bandingin biaya ini dengan Biaya Administrasi dan kelihatan "kok dobel"?** Luruskan: Gratis Ongkir XTRA, Biaya Administrasi, dan Biaya Proses Pesanan itu 3 biaya TERPISAH yang dijumlah, bukan salah satu doang.
+3. **Toko baru dan nanya soal bebas biaya program ini?** Cek tanggal upload produk pertama kali — ada 3 periode beda dengan syarat pesanan/durasi berbeda (lihat Angka & patokan), dan buat toko yang upload 1 Feb–31 Jul 2026 wajib selesaikan Misi Khusus dulu buat klaim.
+4. **Member pakai iklan dan nanya kenapa biayanya beda dari tabel?** Ada diskon s.d. 1,5% buat pengguna iklan — arahkan ke artikel Promo Khusus Pengguna Iklan buat detail syaratnya.
+
+## Batasan
+Tabel kategori di entry ini SANGAT panjang dan gampang berubah kalau Shopee reklasifikasi produk atau update persentase — kalau ragu kategorinya udah berubah sejak `valid_as_of` (Juli 2026), jangan tebak, arahkan cek langsung di Seller Centre saat submit produk.

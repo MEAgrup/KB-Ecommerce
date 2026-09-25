@@ -11,13 +11,17 @@ valid_as_of: 2026-05
 sources:
   - file: keuangan---keuangan/menarik-dana-dari-saldo-penjual-ke-rekening.md
     bagian: "artikel penuh"
+related: [shp-keuangan-005, shp-keuangan-004]
 ---
 # Menarik Dana dari Saldo Penjual ke Rekening
 
 ## Ringkasan
-**Proses Penarikan Dana Penghasilan Shopee**
+Entry paling lengkap soal penarikan dana: limit Rp1M (Non-Mall)/Rp5M (Mall) per hari, 1x/hari, durasi 1x24 jam ke rekening (real-time khusus SeaBank/ShopeePay), gratis biaya ke 5 bank utama (Rp3.000 ke bank lain). Per 2 Maret 2026, kalau belum aktifkan 2FA Proteksi Tindakan Berisiko Tinggi, limit turun jadi Rp50 juta.
 
+## Kapan ini dipakai
+Ini entry PALING DETAIL buat semua soal penarikan dana — limit nominal, durasi per bank, kelola rekening (tambah/ubah/hapus), dan penarikan otomatis vs manual. Buat soal pelepasan dana dari pesanan ke Saldo Penjual (bukan penarikan ke bank), cek `shp-keuangan-005`.
 
+## Isi
 
 Jika tidak ada kendala pada pesanan, dana akan dilepaskan ke Penjual berdasarkan 2 skenario berikut:
 
@@ -339,3 +343,32 @@ Jika jumlah pembayaran yang tertera di rekening bank Anda **lebih besar** dari j
   
 
 Hubungi[ Customer Service Shopee](https://seller.shopee.co.id/edu/article/3270) jika Anda memiliki pertanyaan lebih lanjut mengenai pembayaran yang ditarik ke rekening bank Anda.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Limit penarikan/hari (Shopee Mall) | maks. Rp5.000.000.000 |
+| Limit penarikan/hari (Non-Mall) | maks. Rp1.000.000.000 |
+| Limit turun kalau belum aktifkan 2FA (per 2 Maret 2026, bertahap utk Non-Mall) | maks. Rp50.000.000 |
+| Min. metode verifikasi Proteksi Tindakan Berisiko Tinggi | 2 |
+| Frekuensi penarikan | 1x/hari |
+| Durasi umum (kalau gak ada kendala) | maks. 1x24 jam |
+| Durasi ShopeePay/SeaBank | real-time (instan) |
+| Durasi BCA/BNI/BRI/Mandiri | 1x12 jam |
+| Durasi bank lainnya | 1-7 hari kerja |
+| Biaya penarikan (SeaBank/BCA/BNI/BRI/Mandiri/ShopeePay) | gratis |
+| Biaya penarikan (bank lain) | Rp3.000, min. penarikan Rp13.000 |
+| Penarikan otomatis tersedia ke | SeaBank saja, diproses sebelum pk. 06.00 WIB |
+
+## Pertanyaan diagnosa
+
+1. **Toko Shopee Mall atau Non-Mall?** Limit harian beda jauh: Rp5M vs Rp1M.
+2. **Udah aktifkan min. 2 metode verifikasi Proteksi Tindakan Berisiko Tinggi?** Kalau belum (per 2 Maret 2026), limit otomatis turun ke Rp50 juta — ini penyebab umum "limit tarik saya kok kecil".
+3. **Penarikan ke bank mana?** ShopeePay/SeaBank instan, BCA/BNI/BRI/Mandiri 12 jam, bank lain 1-7 hari kerja DAN kena biaya Rp3.000.
+4. **Udah tarik dana hari ini?** Maks. 1x/hari — kalau butuh lebih sering, itu gak bisa, harus tunggu besok.
+5. **Jumlah yang diterima gak sesuai?** Lebih kecil → cek biaya penarikan Rp3.000 (kalau ke bank non-gratis). Lebih besar → JANGAN ditarik dulu, itu kemungkinan kesalahan sistem yang akan dikoreksi otomatis.
+6. **Mau aktifkan penarikan otomatis?** Cuma bisa ke rekening SeaBank, bukan bank lain.
+
+## Batasan
+Kebijakan penurunan limit ke Rp50 juta (per 2 Maret 2026) "diberlakukan secara bertahap" buat Non-Mall — belum tentu semua toko kena di waktu yang sama. Cek status toko spesifik kalau member komplain limitnya tiba-tiba turun.

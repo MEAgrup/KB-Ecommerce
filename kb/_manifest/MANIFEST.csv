@@ -140,23 +140,23 @@ shp-promosi-022,Voucher Akselerasi Usaha Lokal,shopee,iklan-dan-promosi,1,canoni
 shp-promosi-023,Voucher Diskon Dinamis,shopee,iklan-dan-promosi,2,canonical,true,2026-02,,,shopee/iklan-dan-promosi/23-voucher-diskon-dinamis.md
 shp-iklan-104,"Pilih SKU yang siap diiklankan dulu, baru soal budget",shopee,iklan-dan-promosi,2,canonical,false,2026-09,"shp-iklan-205, shp-iklan-103, shp-performa-102, shp-produk-107",,shopee/iklan-dan-promosi/33-pilih-sku-yang-siap-diiklankan-sebelum-nambah-budget.md
 shp-biaya-001,Biaya Administrasi Penjual Shopee,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/01-biaya-administrasi-penjual-shopee.md
-shp-keuangan-001,Cara Kerja Dana Cepat di Shopee,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/01-cara-kerja-dana-cepat-di-shopee.md
+shp-keuangan-001,Cara Kerja Dana Cepat di Shopee,shopee,keuangan,2,canonical,true,2026-07,shp-keuangan-002,,shopee/keuangan/01-cara-kerja-dana-cepat-di-shopee.md
 shp-biaya-002,Biaya Layanan Pembeli,shopee,keuangan,1,canonical,true,2026-02,,,shopee/keuangan/02-biaya-layanan-pembeli.md
-shp-keuangan-002,Tentang Dana Cepat di Shopee,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/02-tentang-dana-cepat-di-shopee.md
-shp-keuangan-003,Bagaimana cara mengajukan pengembalian PPh 23?,shopee,keuangan,2,canonical,true,2026-01,,,shopee/keuangan/03-bagaimana-cara-mengajukan-pengembalian-pph-23.md
+shp-keuangan-002,Tentang Dana Cepat di Shopee,shopee,keuangan,2,canonical,true,2026-07,shp-keuangan-001,,shopee/keuangan/02-tentang-dana-cepat-di-shopee.md
+shp-keuangan-003,Bagaimana cara mengajukan pengembalian PPh 23?,shopee,keuangan,2,canonical,true,2026-01,shp-biaya-006,S-D-CONFLICT-004,shopee/keuangan/03-bagaimana-cara-mengajukan-pengembalian-pph-23.md
 shp-biaya-003,Biaya Proses Pesanan,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/03-biaya-proses-pesanan.md
-shp-biaya-004,FAQ Biaya untuk Berjualan di Shopee,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/04-faq-biaya-untuk-berjualan-di-shopee.md
+shp-biaya-004,FAQ Biaya untuk Berjualan di Shopee,shopee,keuangan,2,canonical,true,2026-07,"shp-biaya-001, shp-biaya-002, shp-biaya-003",,shopee/keuangan/04-faq-biaya-untuk-berjualan-di-shopee.md
 shp-keuangan-004,FAQ Kebijakan Validasi Nama Rekening Bank,shopee,keuangan,1,canonical,false,2026-07,,,shopee/keuangan/04-faq-kebijakan-validasi-nama-rekening-bank.md
-shp-keuangan-005,FAQ Pelepasan dan Penarikan Dana Penghasilan Toko Anda,shopee,keuangan,2,canonical,true,2026-01,,,shopee/keuangan/05-faq-pelepasan-dan-penarikan-dana-penghasilan-toko-anda.md
-shp-biaya-005,Kategorisasi Biaya Penjual di Shopee,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/05-kategorisasi-biaya-penjual-di-shopee.md
-shp-biaya-006,Ketentuan Biaya untuk Penjual Shopee Mall,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/06-ketentuan-biaya-untuk-penjual-shopee-mall.md
-shp-keuangan-006,Menarik Dana dari Saldo Penjual ke Rekening,shopee,keuangan,2,canonical,true,2026-05,,,shopee/keuangan/06-menarik-dana-dari-saldo-penjual-ke-rekening.md
+shp-keuangan-005,FAQ Pelepasan dan Penarikan Dana Penghasilan Toko Anda,shopee,keuangan,2,canonical,true,2026-01,shp-keuangan-006,,shopee/keuangan/05-faq-pelepasan-dan-penarikan-dana-penghasilan-toko-anda.md
+shp-biaya-005,Kategorisasi Biaya Penjual di Shopee,shopee,keuangan,2,canonical,true,2026-07,"shp-biaya-001, shp-biaya-003, shp-biaya-004, shp-keuangan-009",,shopee/keuangan/05-kategorisasi-biaya-penjual-di-shopee.md
+shp-biaya-006,Ketentuan Biaya untuk Penjual Shopee Mall,shopee,keuangan,2,canonical,true,2026-07,"shp-biaya-001, shp-keuangan-003",S-D-CONFLICT-004,shopee/keuangan/06-ketentuan-biaya-untuk-penjual-shopee-mall.md
+shp-keuangan-006,Menarik Dana dari Saldo Penjual ke Rekening,shopee,keuangan,2,canonical,true,2026-05,"shp-keuangan-005, shp-keuangan-004",,shopee/keuangan/06-menarik-dana-dari-saldo-penjual-ke-rekening.md
 shp-keuangan-007,Program Opsional SPayLater XTRA 0%,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/07-program-opsional-spaylater-xtra-0.md
-shp-biaya-007,Rincian Biaya Penjual Shopee per Kategori Produk,shopee,keuangan,3,canonical,true,2026-07,,,shopee/keuangan/07-rincian-biaya-penjual-shopee-per-kategori-produk.md
-shp-biaya-008,Rincian Persentase Gratis Ongkir XTRA: Kategori Produk dan Tipe Penjual,shopee,keuangan,3,canonical,true,2026-07,,,shopee/keuangan/08-rincian-persentase-gratis-ongkir-xtra-kategori-produk-dan-tipe-penjual.md
-shp-keuangan-008,Tentang Penghasilan Saya,shopee,keuangan,3,canonical,true,2026-07,,,shopee/keuangan/08-tentang-penghasilan-saya.md
+shp-biaya-007,Rincian Biaya Penjual Shopee per Kategori Produk,shopee,keuangan,3,canonical,true,2026-07,shp-biaya-001,,shopee/keuangan/07-rincian-biaya-penjual-shopee-per-kategori-produk.md
+shp-biaya-008,Rincian Persentase Gratis Ongkir XTRA: Kategori Produk dan Tipe Penjual,shopee,keuangan,3,canonical,true,2026-07,shp-biaya-007,,shopee/keuangan/08-rincian-persentase-gratis-ongkir-xtra-kategori-produk-dan-tipe-penjual.md
+shp-keuangan-008,Tentang Penghasilan Saya,shopee,keuangan,3,canonical,true,2026-07,shp-keuangan-005,,shopee/keuangan/08-tentang-penghasilan-saya.md
 shp-keuangan-101,"Margin tipis sering jadi akar masalah, bukan biaya admin yang ""kemahalan",shopee,keuangan,2,canonical,true,tidak-diketahui,shp-biaya-002,,shopee/keuangan/09-margin-tipis-akar-masalah-bukan-biaya-admin.md
-shp-biaya-009,Ringkasan Jenis Biaya untuk Berjualan di Shopee,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/09-ringkasan-jenis-biaya-untuk-berjualan-di-shopee.md
+shp-biaya-009,Ringkasan Jenis Biaya untuk Berjualan di Shopee,shopee,keuangan,2,canonical,true,2026-07,"shp-biaya-001, shp-biaya-003, shp-biaya-006, shp-biaya-007, shp-biaya-008, shp-keuangan-007",,shopee/keuangan/09-ringkasan-jenis-biaya-untuk-berjualan-di-shopee.md
 shp-chat-001,Cara Menggunakan Fitur Chat Penjual,shopee,layanan-pembeli,3,canonical,true,2026-07,"shp-chat-002, shp-layanan-001",,shopee/layanan-pembeli/01-cara-menggunakan-fitur-chat-penjual.md
 shp-layanan-001,FAQ Persentase Chat Dibalas,shopee,layanan-pembeli,2,canonical,true,2026-03,,,shopee/layanan-pembeli/01-faq-persentase-chat-dibalas.md
 shp-enabler-001,FAQ Shopee-Certified Enablers Program untuk Enabler,shopee,layanan-pembeli,2,canonical,true,2024-07,"shp-enabler-002, shp-enabler-003",,shopee/layanan-pembeli/01-faq-shopee-certified-enablers-program-untuk-enabler.md
