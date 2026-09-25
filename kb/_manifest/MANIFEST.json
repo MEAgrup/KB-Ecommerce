@@ -3440,7 +3440,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-040",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/39-standar-praktik-terbaik-pengemasan-produk-di-shopee.md"
   },
@@ -3453,7 +3453,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-pengiriman-004, shp-pengiriman-039",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/40-tentang-asuransi-pengiriman-shopee.md"
   },
@@ -3466,7 +3466,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-pengiriman-015, shp-pengiriman-029",
     "decisions": "",
     "path": "shopee/pengiriman-dan-pesanan/jasa-kirim/41-tentang-layanan-pengiriman-instant-instant-prioritas.md"
   },

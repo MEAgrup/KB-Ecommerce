@@ -11,10 +11,18 @@ valid_as_of: 2026-01
 sources:
   - file: pp---jasa-kirim/tentang-asuransi-pengiriman-shopee.md
     bagian: "artikel penuh"
+related: [shp-pengiriman-004, shp-pengiriman-039]
 ---
 # Tentang Asuransi Pengiriman Shopee
 
 ## Ringkasan
+Asuransi Pengiriman Shopee = kerja sama PT Asuransi Umum MoneeInsure + PT Pialang Asuransi Nexus (diawasi OJK), lindungi hilang/rusak selama pengiriman s.d. 100% harga jual akhir. Biaya premi 0,5% dari harga jual akhir. Maks. pertanggungan Rp100.000.000. Daftar produk yang GAK BISA diasuransikan: 14 kategori (barang antik/seni, hewan/tanaman, kayu, bijih logam, kargo ditolak, risiko penyimpanan, satelit, container, uang tunai, cairan jumlah banyak, logistik masa krisis, barang bekas, kirim luar negeri, barang ilegal). Klaim rusak/hilang: 90 HARI KALENDER sejak paket diambil kurir, proses maks. 14 HARI KERJA (bisa 2x pembayaran: 10x ongkir dari jasa kirim dulu, sisanya dari MoneeInsure). 4 kategori "gak bisa diklaim": paket kosong, isi beda total, isi mirip tapi beda nilai (mis. iPhone 13 vs 7), atau fisik/fungsi tetap baik meski kemasan rusak.
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara aktivasi, biaya premi, cara klaim, atau produk yang gak bisa diasuransikan Asuransi Pengiriman Shopee. Buat aturan klaim barang rusak/hilang umum, arahkan ke `shp-pengiriman-004`; buat standar pengemasan, arahkan ke `shp-pengiriman-039`.
+
+## Isi
+
 **Apa itu Asuransi Pengiriman Shopee?**
 
 
@@ -187,3 +195,28 @@ Jika Anda mengajukan klaim atas kehilangan/kerusakan barang selama pengiriman, k
 **⚠️ Catatan**
 
 Jika dikemudian hari Anda hanya menerima 10x ongkos kirim, sedangkan Anda membeli Asuransi Pengiriman Shopee, hal ini dikarenakan proses klaim kepada pihak MoneeInsure masih sedang diproses. Pastikan Anda melakukan pengecekan Saldo Penjual secara berkala.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Biaya premi | 0,5% dari harga jual akhir |
+| Nilai penggantian | s.d. 100% harga jual akhir |
+| Maks. pertanggungan | Rp100.000.000 |
+| Batas waktu ajukan klaim | 90 hari kalender sejak paket diambil kurir |
+| Waktu proses kompensasi | maks. 14 hari kerja |
+| Jumlah kategori produk gak bisa diasuransikan | 14 kategori |
+| Jumlah kategori "gak bisa diklaim" meski terdaftar | 4 kategori |
+| Skema kompensasi tahap 1 | 10x ongkir dari jasa kirim (nilai lebih rendah) |
+| Skema kompensasi tahap 2 (kalau ikut asuransi) | sisa pelunasan dari MoneeInsure |
+
+## Pertanyaan diagnosa
+
+1. **Member kirim barang senilai Rp150 juta pakai Asuransi Pengiriman Shopee, hilang di jalan, dapat ganti berapa?** Maks. Rp100.000.000 — pertanggungan asuransi ini dibatasi segitu, meski nilai barang lebih tinggi.
+2. **Member baru sadar barang hilang 100 hari setelah paket diambil kurir, masih bisa klaim?** SUDAH LEWAT — batas ajukan klaim cuma 90 hari kalender sejak paket diambil kurir.
+3. **Member terima 2x pembayaran kompensasi buat 1 klaim, kenapa?** Wajar — sistem bisa proses 2 tahap: dulu dari jasa kirim (10x ongkir, nilai lebih rendah), lalu sisa pelunasan dari MoneeInsure (kalau ikut Asuransi Pengiriman Shopee).
+4. **Member cuma terima 10x ongkir padahal udah bayar premi Asuransi Pengiriman?** Bukan berarti gak diproses — kemungkinan besar klaim ke MoneeInsure masih berjalan, cek Saldo Penjual secara berkala buat lihat pelunasan susulan.
+5. **Pembeli buka paket handphone, isinya cuma bubble wrap kosong, bisa diklaim asuransi?** GAK BISA — paket kosong/gak berisi apa pun termasuk kategori yang gak bisa diklaim meski produknya terdaftar asuransi.
+6. **Pembeli pesan iPhone 13, yang datang iPhone 7 (sama-sama iPhone tapi beda nilai)?** GAK BISA diklaim asuransi — kategori "barang serupa tapi beda nilai" secara eksplisit dikecualikan dari klaim.
+7. **Member mau asuransikan pengiriman uang tunai atau barang antik?** GAK BISA — uang tunai dan barang antik/benda seni termasuk 14 kategori yang gak bisa didaftarkan ke Asuransi Pengiriman Shopee.
+8. **Member kirim barang, kemasannya penyok tapi barangnya masih utuh & berfungsi normal?** GAK BISA diklaim — asuransi cuma cover kalau BARANG-nya rusak/hilang, bukan sekadar kemasan luar yang penyok tanpa mempengaruhi fungsi barang.

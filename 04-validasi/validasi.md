@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **702**
+- PERINGATAN: **698**
 
 ## Status entry
 
@@ -1232,21 +1232,17 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/39-standar-praktik-terbaik-pengemasan-produk-di-shopee.md` · shp-pengiriman-039
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/standar-praktik-terbaik-pengemasan-produk-di-sho
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1393 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/40-tentang-asuransi-pengiriman-shopee.md` · shp-pengiriman-040
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/tentang-asuransi-pengiriman-shopee.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1603 kata — kemungkinan dua topik yang belum dipisah
+- 2071 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/pengiriman-dan-pesanan/jasa-kirim/41-tentang-layanan-pengiriman-instant-instant-prioritas.md` · shp-pengiriman-041
 
 - sumber tanpa penunjuk bagian: file: pp---jasa-kirim/tentang-layanan-pengiriman-instant-instant-prior
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1292 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/penjual-star-dan-mall/01-brand-membership.md` · shp-mall-001
 
