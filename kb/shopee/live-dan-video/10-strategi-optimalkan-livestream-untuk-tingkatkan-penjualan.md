@@ -16,9 +16,12 @@ related: [shp-live-101]
 # Strategi Optimalkan Livestream untuk Tingkatkan Penjualan
 
 ## Ringkasan
-**Tingkatkan Aktivitas Livestream di Shopee Live**
+Strategi optimasi Livestream: jadwal rutin (min. 5 hari/minggu, di jam ramai 12-14 & 19-22 WIB), fitur Kelola Acara Live (jadwal & pengingat), fitur kualitas (Moderator maks. 3 orang, Green Screen, Filter, Stiker), dan syarat Golden Tick (GMV ≥Rp500rb/hari, Live min. 15 hari/30 hari kalender @5 jam, dll — gak ada pendaftaran, evaluasi otomatis oleh Shopee).
 
+## Kapan ini dipakai
+Dipakai buat kasih rekomendasi jadwal/strategi Livestream ke member, atau jelasin syarat dapat Golden Tick. SEMUA angka di sini adalah REKOMENDASI/kriteria evaluasi, bukan kewajiban wajib — kecuali kriteria Golden Tick yang emang jadi syarat pasti buat dapat badge itu.
 
+## Isi
 
 Dengan rutin melakukan Livestream, Anda dapat menjangkau lebih banyak audiens secara langsung. Hal ini juga memberi peluang untuk meningkatkan konversi penjualan secara efektif.
 
@@ -237,3 +240,42 @@ Pelajari lebih lanjut tentang[ cara meningkatkan performa Livestream Anda](https
 
   - Tim Shopee akan melakukan pengecekan performa Penjual secara berkala dan menyeluruh.
   - Golden Tick tidak bersifat permanen. Penjual masih memiliki **kemungkinan** untuk **kehilangan** Golden Tick jika **melanggar Panduan Komunitas**[ **Shopee Live**](https://help.shopee.co.id/portal/4/article/130278?previousPage=other+articles&previousPage=other%20articles&previousPage=other%20articles&previousPage=other%20articles) serta sudah **tidak memenuhi syarat** sebagai Penjual yang layak memiliki Golden Tick.
+
+## Angka & patokan
+
+| Rekomendasi jadwal | Nilai |
+|---|---|
+| Frekuensi Livestream | min. 5 hari/minggu |
+| Jam ramai | 12.00-14.00 & 19.00-22.00 WIB |
+| Jam ramai tambahan | 11.00-12.00, 14.00-15.00, 18.00-19.00 WIB |
+| Durasi min. (jam ramai saja) | min. 5 jam/hari |
+| Durasi (jam ramai + tambahan) | 8 jam/hari |
+| Durasi (semua jam termasuk jam biasa) | \>12 jam/hari |
+
+| Fitur Kelola Acara Live | Nilai |
+|---|---|
+| Tombol "Mulai Live" muncul | 30 menit sebelum jadwal tayang |
+| Pengaturan pengingat bisa dibuat | mulai 60 hari sebelum jadwal |
+| Riwayat pengingat tersimpan | 90 hari, lalu terhapus otomatis |
+| Maks. Moderator | 3 orang |
+
+| Syarat Golden Tick (dalam 30 hari kalender, kecuali disebutkan lain) | Nilai |
+|---|---|
+| GMV rata-rata | ≥ Rp500.000/hari |
+| Rata-rata durasi tonton Penonton | ≥ 30 detik |
+| Produk ditambahkan ke keranjang | ≥ 30 produk/jam |
+| Rata-rata Penonton aktif (dalam 1 menit) | ≥ 5 |
+| Frekuensi & durasi Live | min. 15 hari kalender, @5 jam/hari |
+| Batas poin penalti Kesehatan Stream | maks. 5 poin akumulasi |
+| Keuntungan Golden Tick | ekstra diskon 10% di Live & Video, badge, akses fitur baru, visibilitas lebih tinggi |
+
+## Pertanyaan diagnosa
+
+1. **Member nanya jam terbaik buat Live?** Jam ramai (12-14 & 19-22 WIB) prioritas utama; kalau mau nambah eksposur, tambahkan jam ramai tambahan (11-12, 14-15, 18-19 WIB) sebelum masuk jam biasa.
+2. **Member mau tau cara dapat Golden Tick — perlu daftar dimana?** TIDAK ADA pendaftaran — Shopee evaluasi otomatis berdasarkan performa. Cek semua 7 kriteria di tabel Angka & patokan dulu (GMV, durasi tonton, produk masuk keranjang, dst) sebelum kasih ekspektasi.
+3. **Member udah punya Golden Tick tapi khawatir hilang?** Golden Tick GAK permanen — bisa hilang kalau melanggar Panduan Komunitas Shopee Live atau udah gak penuhi syarat lagi (dicek berkala oleh Tim Shopee).
+4. **Member mau assign lebih dari 3 moderator?** Gak bisa — maks. 3 moderator per toko, tapi masing-masing bisa dikasih Akses Standar atau Eksklusif beda-beda.
+5. **Member nanya pengingat Livestream lama-nya kok hilang?** Riwayat pengingat otomatis kehapus sistem setelah 90 hari — bukan bug.
+
+## Batasan
+Kriteria Golden Tick (GMV, durasi tonton, dst) adalah AMBANG MINIMUM yang disebut sumber per `valid_as_of` (Mei 2026) — Shopee bisa ubah kriteria ini kapan saja tanpa pemberitahuan (sesuai pola kebijakan Shopee lainnya), jadi jangan janjikan pasti dapat Golden Tick meski semua angka di atas udah kepenuhi.

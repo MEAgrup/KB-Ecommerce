@@ -11,17 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: mj---shopee-video/panduan-pelanggaran-dan-penalti-shopee-video.md
     bagian: "artikel penuh"
+related: [shp-video-001, shp-video-003]
 ---
 # Panduan Pelanggaran dan Penalti Shopee Video
 
 ## Ringkasan
-**Jenis Pelanggaran pada Shopee Video**
+Sistem poin pelanggaran Shopee Video (beda dari Shopee Live) — 5 tingkat: Sangat Berat (15), Berat (12), Sedang (3), Ringan (1), Buruk/Sangat Ringan (0). Reset tiap tanggal 1 awal kuartal (kecuali masih kena pembatasan aktif). Poin ini cuma pengaruh Kesehatan Video, BUKAN Kesehatan Toko. Pembatasan bisa targetnya beda-beda: posting video aja, komentar aja, atau keduanya, durasi 3/7/30 hari atau permanen. Tabel lengkap jenis pelanggaran per kategori ada di `## Isi`.
 
+## Kapan ini dipakai
+Dipakai buat cek poin/tingkat satu jenis pelanggaran konten video spesifik, cara lapor video/komentar/suara yang melanggar, atau konsekuensi non-poin (komisi ditarik, koin ditarik, dsb). Buat aturan konten AI spesifik, arahkan ke `shp-video-001`. Buat teknis bikin konten (supaya gak melanggar dari awal), arahkan ke `shp-video-003`.
 
-
-Jenis konten dan komentar di Shopee Video yang melanggar[ Panduan Komunitas Shopee](https://help.shopee.co.id/portal/4/article/71218-Panduan-%3Cem%3EKomunitas%3C%2Fem%3E-Shopee?previousPage=search%20results%20page) akan dikenakan penalti berdasarkan tingkat keparahan pelanggaran. Jumlah pelanggaran yang tinggi akan berakibat pada pembatasan akses Shopee Video baik secara sementara maupun permanen.
-
-  
+## Isi
 
 **Memahami Tingkat Pelanggaran dan Sistem Poin Penalti di Shopee Video**
 
@@ -194,3 +194,27 @@ Pengguna dapat melaporkan suara secara anonim melalui cara berikut:
   
 
 Anda akan menerima notifikasi bahwa suara telah berhasil dilaporkan.
+
+## Angka & patokan
+
+| Tingkat pelanggaran | Poin |
+|---|---|
+| Sangat Berat | 15 |
+| Berat | 12 |
+| Sedang | 3 |
+| Ringan | 1 |
+| Buruk / Sangat Ringan | 0 |
+
+| Patokan lain | Nilai |
+|---|---|
+| Reset poin | tiap tanggal 1 awal kuartal (kecuali masih kena pembatasan aktif) |
+| Durasi pembatasan temporer | 3, 7, atau 30 hari |
+| Waktu verifikasi laporan pencurian konten | maks. 1x24 jam |
+
+## Pertanyaan diagnosa
+
+1. **Member kena penalti — mau tau berapa poin dan kategorinya?** Cari jenis pelanggaran spesifik di tabel besar `## Isi` (dikelompokkan per kategori: Kekerasan/Seksual, Perilaku Berbahaya, Barang Ilegal, Pelecehan, dst) — poin per jenis beda-beda (0/1/3/12/15).
+2. **Member nanya akun dibatasi tapi masih bisa komentar/upload salah satu?** Pembatasan Shopee Video bisa parsial — cek 3 jenis akses yang mungkin dibatasi: posting video aja, komentar aja, atau keduanya (beda dari Shopee Live yang pembatasannya ke akses Livestream secara keseluruhan).
+3. **Selain poin/pembatasan akses, ada konsekuensi lain?** Ya — potensi komisi/bonus ditarik, Koin Shopee/cashback ditarik kalau ada penyalahgunaan promosi, kehilangan hak ikut program Shopee, dan penurunan performa video.
+4. **Member mau lapor konten pelanggaran (video/komentar/suara/pencurian konten) toko lain?** Semua bisa dilaporkan anonim — khusus pencurian konten HAKI, hasil verifikasi keluar dalam maks. 1x24 jam.
+5. **Member nanya kenapa pelanggaran Shopee Video ini mempengaruhi Kesehatan Toko?** Tidak — poin ini cuma pengaruh Kesehatan Video, terpisah dari Kesehatan Toko (sama seperti pola di Shopee Live, lihat `shp-live-004`).

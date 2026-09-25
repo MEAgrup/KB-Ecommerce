@@ -11,17 +11,17 @@ valid_as_of: 2026-07
 sources:
   - file: mj---shopee-live/shopee-live-xtra.md
     bagian: "artikel penuh"
+related: [shp-live-011, shp-live-007]
 ---
 # Shopee Live XTRA
 
 ## Ringkasan
-**Apa itu Shopee Live XTRA?**
+Shopee Live XTRA = program opsional kasih Voucher Diskon Live tambahan + exposure tag khusus, TAPI kena biaya layanan 3% (maks. Rp20.000/kuantitas produk) dari SEMUA pesanan berhasil lewat Live — termasuk produk Anda yang laku di sesi Live PENJUAL LAIN (kalau produk Anda yang terjual). Biaya turun ke 2% kalau juga ikut Promo XTRA/XTRA+. Daftar/berhenti lewat Seller Centre, deadline Selasa 17.00 WIB, efektif Rabu 00.00 WIB.
 
+## Kapan ini dipakai
+Dipakai buat hitung biaya layanan riil, jelasin siapa yang kena biaya 3% (SELALU pemilik produk, bukan yang bikin Livestream-nya), atau proses daftar/berhenti. Beda dari SMS Live (`shp-live-007`) yang soal jasa Host, dan beda dari Voucher Shopee Live biasa (`shp-live-011`) yang bisa dibagikan bebas tanpa program ini.
 
-
-Shopee Live XTRA adalah program khusus yang menghadirkan Voucher Diskon Live Tambahan dengan nilai yang lebih besar untuk digunakan selama Livestream. 
-
-  
+## Isi
 
 Melalui program ini, Penjual dapat menawarkan promo yang lebih menarik kepada Pembeli saat Livestream berlangsung, sehingga membantu meningkatkan daya tarik dan mendukung upaya Penjual dalam menjangkau lebih banyak Pembeli.
 
@@ -226,3 +226,24 @@ Ya. Penjual yang tergabung dalam program Shopee Live XTRA akan tetap dikenakan b
 **8. Mengapa saya belum mendapatkan** **exposure** **Shopee Live XTRA meskipun sudah menerima notifikasi keikutsertaan program?**
 
 Bagi Penjual yang baru bergabung dalam program Shopee Live XTRA pada hari Rabu pukul 00.00 WIB, Voucher Live XTRA akan aktif pada saat yang sama. Namun, exposure Shopee Live XTRA baru akan ditampilkan mulai pukul 12.00 WIB pada hari Rabu.
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Biaya layanan (gak ikut Promo XTRA) | 3%, maks. Rp20.000/kuantitas produk |
+| Biaya layanan (ikut Promo XTRA/XTRA+ juga) | 2%, maks. Rp20.000/kuantitas produk |
+| Dasar hitung biaya | (Harga Asli Produk − Diskon/Voucher ditanggung Penjual) × 3% atau 2% |
+| Deadline daftar/berhenti mingguan (jalur Seller Centre "Live Xtra") | Selasa pk. 17.00 WIB |
+| Notifikasi status keikutsertaan | Rabu pk. 00.00 WIB |
+| Exposure tag Live XTRA mulai tampil | Rabu pk. 12.00 WIB (buat yang baru bergabung Rabu 00.00 WIB) |
+
+## Pertanyaan diagnosa
+
+1. **Member nanya kenapa kena biaya 3% padahal Pembeli gak pakai voucher Live XTRA?** Biaya ini berlaku buat SEMUA pesanan berhasil dari sesi Livestream Shopee Live selama toko tergabung program — gak tergantung Pembeli pakai voucher atau enggak.
+2. **Member nanya siapa yang kena biaya kalau produknya laku di Live PENJUAL LAIN?** SELALU pemilik produk yang kena biaya (kalau dia tergabung program), BUKAN yang punya sesi Livestream — jadi kalau toko Anda ikut program dan produk Anda laku di Live orang lain, Anda tetap kena 3%.
+3. **Sebaliknya, member jual produk penjual LAIN di Live-nya sendiri — kena biaya juga?** Tidak — biaya 3% cuma ke pemilik produk yang tergabung program, bukan ke pemilik sesi Livestream tempat produk itu terjual.
+4. **Member daftar/berhenti, kapan efektifnya?** Deadline mingguan Selasa 17.00 WIB → efektif Rabu 00.00 WIB minggu yang sama (kalau daftar sebelum deadline) atau minggu berikutnya (kalau setelah deadline).
+
+## Batasan
+Sumber ini punya 2 keterangan berbeda soal siklus daftar/berhenti program: bagian utama & tabel skenario bilang deadline **Selasa 17.00 WIB → efektif Rabu 00.00 WIB**, sementara FAQ #4 bilang deadline pendaftaran **Jumat 23.59 WIB → efektif Kamis**. Kemungkinan itu 2 jalur berbeda (jalur "Live Xtra" di Seller Centre vs jalur "formulir pendaftaran" terpisah) tapi sumbernya gak menjelaskan bedanya secara eksplisit — jangan asumsikan salah satu yang benar, arahkan member cek langsung status di halaman Live Xtra Seller Centre kalau ada keraguan soal jadwal efektif.

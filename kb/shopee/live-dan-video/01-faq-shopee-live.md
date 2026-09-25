@@ -11,26 +11,17 @@ valid_as_of: 2026-05
 sources:
   - file: mj---shopee-live/faq-shopee-live.md
     bagian: "artikel penuh"
+related: [shp-live-002, shp-live-003, shp-live-004, shp-live-006, shp-live-008]
 ---
 # FAQ Shopee Live
 
 ## Ringkasan
-Artikel ini mencakup pertanyaan umum seputar,
+FAQ gabungan Shopee Live, mencakup 7 sub-topik: FAQ umum Shopee Live, Ketentuan & Jenis Pelanggaran Konten Livestream (11 kategori pelanggaran a-k), Shopee Live Dashboard (komputer/laptop), Harga Spesial Live & Voucher, Fitur Bonus Koin & Efek, Kesehatan Stream, dan Fitur Balasan Otomatis.
 
+## Kapan ini dipakai
+Entry RUJUKAN pertama buat pertanyaan spesifik/teknis seputar Shopee Live yang gak masuk topik besar lain (setup awal → `shp-live-006`, fitur konversi → `shp-live-002`/`003`, kebijakan kesehatan stream detail → `shp-live-004`, XTRA → `shp-live-008`). Cari dulu sub-topik yang relevan (7 bagian di `## Isi`) sebelum jawab, karena isinya padat dan spesifik per sub-topik.
 
-
-  - Shopee Live
-  - Ketentuan dan Jenis Pelanggaran Konten Livestream
-  - Shopee Live Dashboard
-  - Fitur Bonus Koin dan Efek
-  - Kesehatan Stream Shopee Live 
-  - Program Shopee Live XTRA
-
-  
-
-Untuk dapat mengetahui informasi selengkapnya, Anda dapat memilih salah satu konten terkait di sebelah kanan (jika akses dengan komputer atau laptop) atau pilih *icon*  (jika akses melalui handphone).
-
-  
+## Isi
 
 **FAQ Shopee Live**
 
@@ -620,3 +611,11 @@ Ya, Anda dapat menggunakan fitur ini kapan pun. Cukup dengan mengaktifkan/menona
   
 
 Pelajari lebih lanjut tentang fitur[ Balasan Otomatis](https://seller.shopee.co.id/edu/article/3889).
+
+## Pertanyaan diagnosa
+
+1. **Member nanya soal produk dewasa (21+) yang di-*blur* di Livestream?** Cek dulu kategori produknya masuk daftar 21+ (Minuman Alkohol, Sexy Lingerie, Rokok Elektronik/Shisha, Kesehatan Seksual) — *blur* otomatis buat Penonton yang belum verifikasi umur, bukan bug.
+2. **Member nanya soal Kesehatan Stream/poin pelanggaran?** Poin di-*reset* tiap awal kuartal (1 Jan/Apr/Jul/Okt), laporan mingguan tiap Kamis, dan bisa banding kalau merasa poinnya salah. Pelanggaran Livestream TIDAK memengaruhi Kesehatan Toko (beda sistem). Buat detail penalti per jenis pelanggaran, arahkan ke `shp-live-004`.
+3. **Data performa Livestream Dashboard kelihatan gak match / delay?** Normal — sistem butuh waktu hingga 15 menit update setelah sesi berakhir, dan data dari beberapa sumber bisa update di waktu beda.
+4. **Fitur Balasan Otomatis dipakai tapi belum bisa jawab pertanyaan produk?** Saat ini cuma bisa jawab soal pengiriman & pembayaran — member tetap harus jawab manual soal ukuran/variasi/stok.
+5. **Livestream host gak kelihatan di layar (kena pelanggaran)?** Arahkan pakai fitur Hentikan Sementara kalau perlu keluar layar, bukan biarin Livestream jalan tanpa host — itu masuk kategori "Host tidak muncul saat Livestream" yang kena penalti.

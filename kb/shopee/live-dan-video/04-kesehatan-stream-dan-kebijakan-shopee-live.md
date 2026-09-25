@@ -11,10 +11,18 @@ valid_as_of: 2026-07
 sources:
   - file: mj---shopee-live/kesehatan-stream-dan-kebijakan-shopee-live.md
     bagian: "artikel penuh"
+related: [shp-live-001, shp-live-003]
 ---
 # Kesehatan Stream dan Kebijakan Shopee Live
 
 ## Ringkasan
+Kesehatan Stream = sistem poin pelanggaran Livestream (0-15+ poin, reset tiap awal kuartal: 1 Jan/Apr/Jul/Okt). Tingkat: Sangat Baik (0) → Baik (1-5, belum ada penalti) → Perlu ditingkatkan (6-11, pembatasan 3-7 hari) → Buruk (12-14, pembatasan 30 hari; ≥15, PERMANEN). Pelanggaran Livestream TIDAK memengaruhi Kesehatan Toko. Tabel lengkap jenis pelanggaran & poinnya (dari Sangat Ringan sampai Sangat Berat/15 poin) ada di `## Isi`.
+
+## Kapan ini dipakai
+Dipakai buat cek berapa poin satu jenis pelanggaran spesifik, status/penalti di tiap tingkat Kesehatan Stream, atau cara banding. Buat definisi/deskripsi tiap jenis pelanggaran secara lebih naratif, arahkan ke `shp-live-001` (FAQ Shopee Live bagian Ketentuan & Pelanggaran). Buat fitur interaksi yang berhubungan langsung sama pelanggaran "host tidak muncul" (Hentikan Sementara), arahkan ke `shp-live-003`.
+
+## Isi
+
 **Fitur Kesehatan Stream Shopee Live**
 
 
@@ -197,3 +205,26 @@ Anda dapat mengajukan banding untuk pelanggaran Livestream melalui menu **Keseha
   
 
 Hasil banding akan diberikan melalui **Notifikasi** di Seller Centre dan **Notifikasi Toko** di aplikasi Shopee atau Anda dapat melihat status banding di halaman **Riwayat Pelanggaran**.
+
+## Angka & patokan
+
+| Tingkat Kesehatan Stream | Total poin | Penalti |
+|---|---|---|
+| Sangat Baik | 0 | Tidak ada penalti |
+| Baik | 1–5 | Akumulasi poin, belum ada penalti |
+| Perlu ditingkatkan | 6–8 | Pembatasan akses 3 hari kalender |
+| Perlu ditingkatkan | 9–11 | Pembatasan akses 7 hari kalender |
+| Buruk | 12–14 | Pembatasan akses 30 hari kalender, potensi kehilangan *golden tick* |
+| Buruk | ≥15 | Pembatasan akses PERMANEN, gak reset tiap kuartal |
+| Reset poin | — | Tiap 1 Jan / 1 Apr / 1 Jul / 1 Okt (kecuali sedang kena pembatasan permanen) |
+| Bukti Pelanggaran tersimpan (aplikasi) | — | 28 hari kalender |
+| Peringatan Pelanggaran real-time (Seller Centre) | — | sampai maks. 2 hari setelah Livestream berakhir |
+| Pengajuan banding | — | hanya 1x per pelanggaran, dalam periode waktu tertentu |
+
+## Pertanyaan diagnosa
+
+1. **Member kena penalti — mau tau berapa poin dan tingkat pelanggarannya apa?** Cari jenis pelanggaran spesifiknya di tabel besar `## Isi` (dikelompokkan per kategori: Ketelanjangan, Keamanan Anak, Integritas, dst) — poin per jenis beda-beda (0/1/3/12/15).
+2. **Akumulasi poin member udah kena pembatasan 30 hari, terus di awal kuartal berikutnya gimana?** Poin di-reset ke 0, TAPI pembatasan akses TETAP jalan sampai masa berakhir kecuali banding berhasil — bukan otomatis kebuka lagi pas reset poin.
+3. **Member nanya apakah pelanggaran Livestream mempengaruhi Kesehatan Toko?** Tidak — dua sistem terpisah.
+4. **Member mau banding pelanggaran?** Cek dulu 2 kasus yang WAJIB lampirkan dokumen pendukung (streaming pakai rekaman, jual produk impor bekas/*preloved*) — pelanggaran lain dokumen opsional. Ingat: banding cuma bisa 1x per pelanggaran dan ada batas waktu pengajuan.
+5. **Livestream kena "Pemberhentian sesi" karena masalah teknis (audio/visual gak stabil)?** Itu beda dari poin pelanggaran biasa — Livestream Tidak Stabil dapet pembatasan sementara 10 menit TANPA poin penalti; Kualitas kurang baik cuma dapet peringatan.

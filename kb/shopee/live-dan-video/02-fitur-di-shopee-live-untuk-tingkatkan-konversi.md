@@ -11,10 +11,18 @@ valid_as_of: 2026-01
 sources:
   - file: mj---shopee-live/fitur-di-shopee-live-untuk-tingkatkan-konversi.md
     bagian: "artikel penuh"
+related: [shp-live-001, shp-live-011]
 ---
 # Fitur di Shopee Live untuk Tingkatkan Konversi
 
 ## Ringkasan
+6 fitur konversi di Shopee Live: Bonus Koin (klaim maks. 6x/Livestream), Hujan Bonus (game interaktif koin), Harga Spesial Live (diskon eksklusif, maks. 50 produk, maks. 180 hari dijadwalkan di depan), Promo Livestream Affiliate (kolaborasi dengan Affiliate, maks. 100 produk/promosi), dan Voucher Live (termasuk Voucher Khusus Streamer, Voucher 30 Detik interval 5-30 menit).
+
+## Kapan ini dipakai
+Dipakai kalau member nanya cara pakai satu fitur konversi spesifik saat Livestream, atau batasan teknisnya (berapa produk maks., berapa hari bisa dijadwalkan, dst — semua di `## Angka & patokan`). Untuk fitur interaksi/retensi Penonton (bukan konversi harga/voucher), arahkan ke `shp-live-003`.
+
+## Isi
+
 **Berbagai Fitur di Shopee Live untuk Meningkatkan Konversi**
 
 
@@ -390,3 +398,23 @@ Untuk menampilkan voucher secara permanen selama Livestream, Anda dapat mengikut
 
   - Voucher yang dipilih untuk ditampilkan 30 detik tidak bisa digunakan untuk tampilan permanen dan juga sebaliknya.
   - Jika Anda sudah membuat[ Voucher Ikuti Toko](https://seller.shopee.co.id/edu/courseDetail/834?lessonId=489), Penonton yang belum mengikuti toko Anda akan melihat *pop-up* voucher setelah 10 detik mereka bergabung dalam sesi Livestream.
+
+## Angka & patokan
+
+| Fitur | Patokan |
+|---|---|
+| Bonus Koin | maks. 6x klaim per Penonton per sesi Livestream |
+| Hujan Bonus | hitung mundur 5 menit sebelum game mulai |
+| Harga Spesial Live | maks. 180 hari dijadwalkan di depan; maks. 50 produk; window tambah stok maks. 10 menit sejak stok habis |
+| Harga Spesial Live — jeda promosi ulang | gak bisa buat promosi baru buat produk sama dalam 24 jam sebelum jadwal yang udah ada |
+| Promo Livestream Affiliate | maks. 180 hari periode promosi; 1 Affiliate per promosi; maks. 100 produk per promosi |
+| Voucher 30 Detik | tampil berkala tiap 5-30 menit (interval diatur Penjual) |
+| Pop-up Voucher Ikuti Toko | muncul 10 detik setelah Penonton gabung Livestream |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau fitur mana yang cocok buat tujuannya (misal narik Penonton baru vs dorong checkout cepat)?** Bonus Koin/Hujan Bonus buat retensi & jumlah Penonton; Harga Spesial Live & Voucher buat dorong konversi checkout langsung.
+2. **Stok Harga Spesial Live habis di tengah Livestream, gimana?** Ada window maks. 10 menit buat nambah stok (masukkan TOTAL stok akhir = stok awal + tambahan, bukan cuma angka tambahannya) sebelum promo otomatis berakhir dan produk jadi "Stok Promosi Habis".
+3. **Member mau collab sama Affiliate/Streamer buat promo produk?** Itu 2 fitur beda: Promo Livestream Affiliate (Penjual atur harga/stok, maks. 100 produk, 1 Affiliate/promosi) vs Voucher Khusus Streamer (voucher checkout khusus dari sesi Live Streamer terpilih).
+4. **Member nanya kenapa gak bisa jadwalin Harga Spesial Live buat produk yang sama?** Cek 2 kemungkinan: produk udah didaftarkan di promosi lain periode sama, ATAU masih dalam window 24 jam sebelum jadwal existing yang udah ada.
+5. **Livestream lewat komputer/laptop — fitur-fitur ini masih bisa diakses?** Bisa, tapi beda jalur akses (PC Livestream / Portal Web Shopee Live) — arahkan ke `shp-live-005` buat detail setup PC.

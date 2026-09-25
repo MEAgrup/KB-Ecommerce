@@ -11,10 +11,18 @@ valid_as_of: 2026-04
 sources:
   - file: mj---shopee-live/fitur-interaksi-dan-mempertahankan-penonton-di-shopee-live.md
     bagian: "artikel penuh"
+related: [shp-live-001, shp-live-002, shp-live-004]
 ---
 # Fitur Interaksi dan Mempertahankan Penonton di Shopee Live
 
 ## Ringkasan
+8 fitur interaksi/retensi Penonton di Shopee Live: Beri Tahu Pengikut, Share Berhadiah, Bel Penonton (khusus aplikasi), Kelola Komentar (Pin/Balas/Blokir), Tanya Penjual, Polling (maks. 4 pilihan, 35 karakter), Lelang (Mode Jari Tercepat = 10 pemenang), dan Hentikan Sementara (jeda maks. 5 menit, maks. 6x/sesi).
+
+## Kapan ini dipakai
+Dipakai buat cara pakai fitur interaksi spesifik saat Livestream atau batasan teknisnya (angka lengkap di `## Angka & patokan`). Untuk fitur yang fokus konversi/harga (Harga Spesial Live, Voucher, Bonus Koin), arahkan ke `shp-live-002`. Soal pelanggaran "host tidak muncul" terkait Hentikan Sementara, arahkan ke `shp-live-004`.
+
+## Isi
+
 **Berbagai Fitur Shopee Live untuk Meningkatkan Interaksi & Mempertahankan Penonton**
 
 
@@ -262,3 +270,23 @@ Saat Livesteam dihentikan sementara, maka layar Penonton akan menampilkan tampil
 
   - Selama Livestream dijeda menggunakan fitur **Hentikan Sementara**, sesi tidak akan terkena pelanggaran *host* tidak muncul saat Livestream.
   - Jika *host* pindah aplikasi tanpa mematikan aplikasi Shopee saat Livestream berlangsung secara sengaja atau tidak sengaja (akibat kendala jaringan), Livestream Anda akan **otomatis dijeda oleh sistem** tanpa mengaktifkan fitur Hentikan Sementara. Menjeda Livestream tanpa fitur **Hentikan Sementara** akan dikenakan pelanggaran “**Host tidak muncul saat** **Livestream**”, sehingga sangat dianjurkan untuk memakai fitur **Hentikan Sementara**. Pelajari lebih lanjut di[ Jenis Pelanggaran, Tingkat Pelanggaran, dan Penalti Shopee Live](https://seller.shopee.co.id/edu/article/5917).
+
+## Angka & patokan
+
+| Fitur | Patokan |
+|---|---|
+| Beri Tahu Pengikut — notifikasi terkirim setelah | Livestream berlangsung \>10 menit |
+| Polling — panjang Topik/Pilihan | maks. 35 karakter |
+| Polling — jumlah pilihan jawaban | maks. 4 pilihan |
+| Lelang Mode Jari Tercepat | 10 pemenang (10 Penonton pertama yang menekan tombol) |
+| Hentikan Sementara — durasi jeda | maks. 5 menit per aktivasi |
+| Hentikan Sementara — jumlah pemakaian | maks. 6x per sesi Livestream |
+| Fitur Tanya — batas tombol Tanya per Penonton | 1x per produk |
+
+## Pertanyaan diagnosa
+
+1. **Host perlu keluar sebentar dari layar saat Livestream — gimana caranya biar gak kena pelanggaran?** WAJIB pakai fitur Hentikan Sementara (maks. 5 menit, maks. 6x/sesi) — kalau cuma pindah aplikasi tanpa aktifin fitur ini, sistem otomatis jeda Livestream TAPI tetap kena pelanggaran "Host tidak muncul saat Livestream".
+2. **Member nanya kenapa notifikasi Beri Tahu Pengikut gak sampai ke semua Pengikut?** 2 kemungkinan: (a) Livestream belum berlangsung 10 menit (notif baru terkirim setelah itu), atau (b) Pengguna udah kena batas maksimum notifikasi serupa dari toko lain.
+3. **Member mau bikin Polling tapi karakternya kepotong / opsi jawaban gak bisa lebih dari 4?** Itu batas sistem: maks. 35 karakter buat Topik & tiap Pilihan, maks. 4 pilihan jawaban per polling — bukan bug.
+4. **Member mau tau hasil Lelang tapi udah ditutup?** Hasil polling/lelang gak bisa dilihat lagi setelah ditutup — sarankan *screenshot* dulu sebelum menutup kalau mau simpan datanya.
+5. **Fitur Bel Penonton gak bunyi?** Cek dulu: (a) fitur ini CUMA tersedia di aplikasi Shopee (gak ada di PC Livestream), dan (b) HP gak dalam mode senyap + volume udah diatur.

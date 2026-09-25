@@ -11,13 +11,17 @@ valid_as_of: 2026-08
 sources:
   - file: mj---shopee-live/voucher-shopee-live-dan-skemanya.md
     bagian: "artikel penuh"
+related: [shp-live-008]
 ---
 # Voucher Shopee Live dan Skemanya
 
 ## Ringkasan
-**Apa itu Voucher Diskon dan Gratis Ongkir XTRA Shopee Live?**
+Voucher Diskon Shopee Live = GRATIS otomatis buat SEMUA Penjual yang Live (beda dari Live XTRA yang butuh gabung program dulu). Skema dasar: 5% s.d. Rp40rb (Star/Star+/Mall, 1x/Pembeli/minggu). Skema Golden Tick: 10% s.d. Rp30rb (khusus bertanda Golden Tick). Kalau ikut program Live XTRA, dapat tambahan 6 skema voucher lebih besar (5%-20%, ada yang sampai Rp200rb, beberapa kuota terbatas/jam terbatas). Kategori produk yang gak berlaku ada di `## Isi`.
 
+## Kapan ini dipakai
+Dipakai buat jelasin skema voucher mana yang otomatis didapat toko member (tergantung status Star/Golden Tick/Live XTRA) dan kategori produk yang dikecualikan. Voucher ini OTOMATIS dari Shopee, beda dari Voucher Live yang Penjual bikin sendiri (lihat `shp-live-002`). Soal biaya layanan program Live XTRA-nya sendiri (bukan vouchernya), arahkan ke `shp-live-008`.
 
+## Isi
 
 Voucher Diskon dan Gratis Ongkir XTRA Shopee Live adalah keuntungan tambahan yang didapatkan Penjual secara GRATIS setiap hari selama sesi Livestream.
 
@@ -213,3 +217,27 @@ Berikut adalah kategori produk yang **tidak berlaku** untuk Voucher Diskon Shope
 ⚠️ **Catatan**
 
 Pelajari lebih lanjut terkait[ kategori yang tidak berlaku pada promosi Shopee Live & Shopee Video](https://shopee.co.id/m/live-diskon-tnc).
+
+## Angka & patokan
+
+| Skema | Diskon | Min. Belanja | Syarat toko | Kuota | Jam aktif |
+|---|---|---|---|---|---|
+| Voucher Live dasar | 5% s.d. Rp40.000 | Rp100.000 | Star/Star+/Mall | 1x/Pembeli/minggu | sepanjang hari |
+| Golden Tick | 10% s.d. Rp30.000 | Rp100.000 | bertanda Golden Tick | 1x/Pembeli/minggu | sepanjang hari |
+| Live XTRA — spesial 17 Agustus | 20% s.d. Rp200.000 | Rp200.000 | bertanda Live XTRA | kuota terbatas | khusus 17 Agu 2026 |
+| Live XTRA — (lihat Batasan soal % ganda) | s.d. Rp10.000 | Rp20.000 | bertanda Live XTRA | kuota terbatas | 12.00-14.00 & 20.00-23.59 WIB |
+| Live XTRA — reguler | 15% s.d. Rp100.000 | Rp150.000 | bertanda Live XTRA | 1x/Pembeli/hari | sepanjang hari |
+| Live XTRA — reguler kecil | 5% s.d. Rp50.000 | Rp100.000 | bertanda Live XTRA | 1x/Pembeli/minggu | sepanjang hari |
+| Live XTRA — menengah | 12% s.d. Rp100.000 | Rp100.000 | bertanda Live XTRA | 1x/Pembeli/minggu | sepanjang hari |
+| Live XTRA — Fashion | 20% s.d. Rp50.000 | Rp40.000 | Fashion + bertanda Live XTRA | 1x/Pembeli/minggu | sepanjang hari |
+| Voucher Live XTRA bisa dipakai mulai | hari Rabu setelah notifikasi pendaftaran berhasil | | | | |
+
+## Pertanyaan diagnosa
+
+1. **Member mau tau voucher mana yang berlaku buat tokonya?** Cek status dulu: (a) semua Penjual Live → skema dasar 5%, (b) Star/Star+/Mall → tetap skema dasar (bukan otomatis lebih tinggi), (c) Golden Tick → skema khusus 10%, (d) tergabung Live XTRA → 6 skema tambahan tergantung kategori/jam/tanggal.
+2. **Produk member gak dapat voucher padahal lagi Live?** Cek daftar kategori pengecualian di tabel `## Isi` (Perhiasan Berharga, Minuman Alkohol, Obat Resep, dll) dan pastikan bukan produk Shopee Supermarket (dikecualikan total).
+3. **Member ikut Live XTRA, kapan voucher-nya bisa dipakai?** Baru bisa dipakai hari Rabu SETELAH dapat notifikasi pendaftaran berhasil — gak langsung aktif saat daftar.
+4. **Member nanya skema mana yang paling gede?** Skema 20% s.d. Rp200.000 (min. belanja Rp200.000) — TAPI cek tanggal, itu khusus 17 Agustus 2026 dan kuota terbatas, bukan skema harian biasa.
+
+## Batasan
+Salah satu skema di sumber ini ("Skema Voucher Diskon Shopee Live 50% s/d Rp10.000") punya JUDUL yang beda dari ISI tabelnya ("Diskon 15% s/d Rp10.000 dengan min. belanja Rp20.000") — kemungkinan salah satunya typo dari sisi Shopee sendiri (judul atau tabel). Karena gak bisa dipastikan mana yang benar, entry ini pakai angka dari ISI TABEL (15%) sebagai acuan di atas, dan Batasan ini dicatat supaya jangan dianggap pasti 100% akurat — kalau member butuh kepastian angka skema ini, arahkan cek langsung di halaman Voucher Shopee Live pas Livestream berlangsung.

@@ -4,7 +4,7 @@ Folder: `/home/user/KB-Ecommerce/kb`
 
 - Entry diperiksa: **464**
 - ERROR: **12** (harus nol sebelum lanjut Fase 5)
-- PERINGATAN: **1100**
+- PERINGATAN: **1068**
 
 ## Status entry
 
@@ -980,118 +980,86 @@ Folder: `/home/user/KB-Ecommerce/kb`
 ### `shopee/live-dan-video/01-faq-shopee-live.md` · shp-live-001
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/faq-shopee-live.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 4285 kata — kemungkinan dua topik yang belum dipisah
+- 4494 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/01-ketentuan-penggunaan-konten-dihasilkan-ai-di-shopee-video.md` · shp-video-001
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-video/ketentuan-penggunaan-konten-dihasilkan-ai-di-s
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/live-dan-video/02-fitur-di-shopee-live-untuk-tingkatkan-konversi.md` · shp-live-002
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/fitur-di-shopee-live-untuk-tingkatkan-konversi.
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1999 kata — kemungkinan dua topik yang belum dipisah
+- 2357 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/02-meninjau-performa-video-pada-shopee-video.md` · shp-video-002
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-video/meninjau-performa-video-pada-shopee-video.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1203 kata — kemungkinan dua topik yang belum dipisah
+- 1496 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/03-fitur-interaksi-dan-mempertahankan-penonton-di-shopee-live.md` · shp-live-003
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/fitur-interaksi-dan-mempertahankan-penonton-di-
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1283 kata — kemungkinan dua topik yang belum dipisah
+- 1602 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/03-mulai-bikin-konten-di-shopee-video.md` · shp-video-003
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-video/mulai-bikin-konten-di-shopee-video.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1636 kata — kemungkinan dua topik yang belum dipisah
+- 1982 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/04-kesehatan-stream-dan-kebijakan-shopee-live.md` · shp-live-004
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/kesehatan-stream-dan-kebijakan-shopee-live.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2063 kata — kemungkinan dua topik yang belum dipisah
+- 2411 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/04-panduan-pelanggaran-dan-penalti-shopee-video.md` · shp-video-004
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-video/panduan-pelanggaran-dan-penalti-shopee-video.m
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 2983 kata — kemungkinan dua topik yang belum dipisah
+- 3241 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/05-livestream-melalui-komputer-atau-laptop.md` · shp-live-005
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/livestream-melalui-komputer-atau-laptop.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/live-dan-video/05-shopee-video-xtra.md` · shp-video-005
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-video/shopee-video-xtra.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1262 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/06-mulai-livestream-di-shopee-live.md` · shp-live-006
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/mulai-livestream-di-shopee-live.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/live-dan-video/06-tentang-shopee-video.md` · shp-video-006
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-video/tentang-shopee-video.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1239 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/07-program-seller-marketing-service-sms-live.md` · shp-live-007
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/program-seller-marketing-service-sms-live.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/live-dan-video/07-voucher-shopee-video-dan-skemanya.md` · shp-video-007
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-video/voucher-shopee-video-dan-skemanya.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/live-dan-video/08-shopee-live-xtra.md` · shp-live-008
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/shopee-live-xtra.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
-- 1671 kata — kemungkinan dua topik yang belum dipisah
+- 2044 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/09-shopee-shop-partners-program.md` · shp-live-009
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/shopee-shop-partners-program.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
 
 ### `shopee/live-dan-video/10-strategi-optimalkan-livestream-untuk-tingkatkan-penjualan.md` · shp-live-010
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/strategi-optimalkan-livestream-untuk-tingkatkan
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1569 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/11-voucher-shopee-live-dan-skemanya.md` · shp-live-011
 
 - sumber tanpa penunjuk bagian: file: mj---shopee-live/voucher-shopee-live-dan-skemanya.md
-- gak ada '## Pertanyaan diagnosa' — entry ini bakal susah dipakai di grup & 1-on-1
-- gak ada '## Kapan ini dipakai'
+- 1597 kata — kemungkinan dua topik yang belum dipisah
 
 ### `shopee/live-dan-video/12-kenapa-strategi-live-shopee-beda-dari-tiktok-maksimalkan-fitur.md` · shp-live-101
 

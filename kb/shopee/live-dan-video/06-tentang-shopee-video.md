@@ -11,10 +11,18 @@ valid_as_of: 2026-06
 sources:
   - file: mj---shopee-video/tentang-shopee-video.md
     bagian: "artikel penuh"
+related: [shp-video-002, shp-video-003]
 ---
 # Tentang Shopee Video
 
 ## Ringkasan
+Entry PENGANTAR/overview Shopee Video (fitur video pendek buat promosi produk & interaksi) — cocok buat member yang baru kenal fitur ini. Cakupan: keuntungan pakai (narasi produk, branding, interaksi komentar, maks. 6 produk/video, exposure algoritma "Untuk Anda"), cara akses (Penjual/Kreator vs Penonton), dan cara interaksi (follow, like, komentar, share, tanya produk lewat Shopee AI Chat).
+
+## Kapan ini dipakai
+Dipakai buat pertanyaan pengantar/umum "apa itu Shopee Video" atau "gimana cara mulai" — bukan buat detail teknis. Buat langkah teknis bikin konten, arahkan ke `shp-video-003`. Buat analisis performa video, arahkan ke `shp-video-002`.
+
+## Isi
+
 **Apa itu Shopee Video?**
 
 
@@ -190,3 +198,18 @@ Untuk melakukan interaksi di Shopee Video, Anda dapat mengikuti cara berikut:
 ⚠️ **Catatan**
 
 Jika Anda menemukan Shopee Video dengan konten yang tidak pantas, Anda dapat melaporkan video tersebut. Pelajari lebih lanjut terkait[ Cara Melaporkan Video, Komentar, dan Suara di Shopee Video](https://seller.shopee.co.id/edu/article/12944).
+
+## Angka & patokan
+
+| Patokan | Nilai |
+|---|---|
+| Produk yang bisa ditampilkan per video | maks. 6 produk |
+| Ganti username Shopee Video | maks. 1x per 30 hari |
+| Jadwal auto-post video dari Instagram | tiap hari pk. 02:00 WIB |
+
+## Pertanyaan diagnosa
+
+1. **Member baru pertama kali denger Shopee Video, mau tau ini apa?** Jelasin sebagai fitur video pendek buat promosi produk — arahkan ke `shp-video-003` begitu udah paham konsepnya dan mau mulai bikin konten.
+2. **Member nanya kenapa video-nya gak dilihat banyak orang padahal Pengikutnya masih sedikit?** Luruskan: algoritma "Untuk Anda" nyebarin konten ke Pengguna manapun berdasarkan minat, TERLEPAS dari status follow — jadi video pertama pun punya peluang exposure luas, bukan cuma dari Pengikut.
+3. **Member mau ganti username Shopee Video tapi gak bisa?** Cek — dibatasi maks. 1x per 30 hari, dan berubah otomatis mengikuti profil akun Shopee (gak terpisah).
+4. **Member punya konten Instagram, males upload ulang?** Ada opsi hubungkan akun Instagram — video otomatis ikut ter-posting ke Shopee Video tiap hari pk. 02:00 WIB, tapi video yang diposting LANGSUNG di Shopee Video tetap punya peluang lihat lebih tinggi.

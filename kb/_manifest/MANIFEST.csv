@@ -148,7 +148,7 @@ shp-biaya-003,Biaya Proses Pesanan,shopee,keuangan,2,canonical,true,2026-07,,,sh
 shp-biaya-004,FAQ Biaya untuk Berjualan di Shopee,shopee,keuangan,2,canonical,true,2026-07,"shp-biaya-001, shp-biaya-002, shp-biaya-003",,shopee/keuangan/04-faq-biaya-untuk-berjualan-di-shopee.md
 shp-keuangan-004,FAQ Kebijakan Validasi Nama Rekening Bank,shopee,keuangan,1,canonical,false,2026-07,,,shopee/keuangan/04-faq-kebijakan-validasi-nama-rekening-bank.md
 shp-keuangan-005,FAQ Pelepasan dan Penarikan Dana Penghasilan Toko Anda,shopee,keuangan,2,canonical,true,2026-01,shp-keuangan-006,,shopee/keuangan/05-faq-pelepasan-dan-penarikan-dana-penghasilan-toko-anda.md
-shp-biaya-005,Kategorisasi Biaya Penjual di Shopee,shopee,keuangan,2,canonical,true,2026-07,"shp-biaya-001, shp-biaya-003, shp-biaya-004, shp-keuangan-009",,shopee/keuangan/05-kategorisasi-biaya-penjual-di-shopee.md
+shp-biaya-005,Kategorisasi Biaya Penjual di Shopee,shopee,keuangan,2,canonical,true,2026-07,"shp-biaya-001, shp-biaya-003, shp-biaya-004, shp-biaya-009",,shopee/keuangan/05-kategorisasi-biaya-penjual-di-shopee.md
 shp-biaya-006,Ketentuan Biaya untuk Penjual Shopee Mall,shopee,keuangan,2,canonical,true,2026-07,"shp-biaya-001, shp-keuangan-003",S-D-CONFLICT-004,shopee/keuangan/06-ketentuan-biaya-untuk-penjual-shopee-mall.md
 shp-keuangan-006,Menarik Dana dari Saldo Penjual ke Rekening,shopee,keuangan,2,canonical,true,2026-05,"shp-keuangan-005, shp-keuangan-004",,shopee/keuangan/06-menarik-dana-dari-saldo-penjual-ke-rekening.md
 shp-keuangan-007,Program Opsional SPayLater XTRA 0%,shopee,keuangan,2,canonical,true,2026-07,,,shopee/keuangan/07-program-opsional-spaylater-xtra-0.md
@@ -166,24 +166,24 @@ shp-enabler-002,Shopee-Certified Enablers Program: Informasi untuk Enabler,shope
 shp-enabler-003,Shopee-Certified Enablers Program: Informasi untuk Penjual,shopee,layanan-pembeli,1,canonical,true,2026-07,"shp-enabler-001, shp-enabler-002",,shopee/layanan-pembeli/03-shopee-certified-enablers-program-informasi-untuk-penjual.md
 shp-chat-003,Tentang Asisten AI Chat,shopee,layanan-pembeli,2,canonical,true,2026-08,"shp-chat-001, shp-chat-002, shp-layanan-001",,shopee/layanan-pembeli/03-tentang-asisten-ai-chat.md
 shp-layanan-003,Tentang Pelayanan Pembeli,shopee,layanan-pembeli,2,canonical,true,2026-03,"shp-layanan-001, shp-chat-001, shp-chat-002, shp-chat-003",,shopee/layanan-pembeli/03-tentang-pelayanan-pembeli.md
-shp-live-001,FAQ Shopee Live,shopee,live-dan-video,3,canonical,true,2026-05,,,shopee/live-dan-video/01-faq-shopee-live.md
-shp-video-001,Ketentuan Penggunaan Konten Dihasilkan AI di Shopee Video,shopee,live-dan-video,2,canonical,true,2026-08,,,shopee/live-dan-video/01-ketentuan-penggunaan-konten-dihasilkan-ai-di-shopee-video.md
-shp-live-002,Fitur di Shopee Live untuk Tingkatkan Konversi,shopee,live-dan-video,3,canonical,true,2026-01,,,shopee/live-dan-video/02-fitur-di-shopee-live-untuk-tingkatkan-konversi.md
-shp-video-002,Meninjau Performa Video pada Shopee Video,shopee,live-dan-video,2,canonical,true,2026-01,,,shopee/live-dan-video/02-meninjau-performa-video-pada-shopee-video.md
-shp-live-003,Fitur Interaksi dan Mempertahankan Penonton di Shopee Live,shopee,live-dan-video,2,canonical,true,2026-04,,,shopee/live-dan-video/03-fitur-interaksi-dan-mempertahankan-penonton-di-shopee-live.md
-shp-video-003,Mulai Bikin Konten di Shopee Video,shopee,live-dan-video,2,canonical,true,2026-07,,,shopee/live-dan-video/03-mulai-bikin-konten-di-shopee-video.md
-shp-live-004,Kesehatan Stream dan Kebijakan Shopee Live,shopee,live-dan-video,3,canonical,true,2026-07,,,shopee/live-dan-video/04-kesehatan-stream-dan-kebijakan-shopee-live.md
-shp-video-004,Panduan Pelanggaran dan Penalti Shopee Video,shopee,live-dan-video,3,canonical,true,2026-08,,,shopee/live-dan-video/04-panduan-pelanggaran-dan-penalti-shopee-video.md
-shp-live-005,Livestream melalui Komputer atau Laptop,shopee,live-dan-video,2,canonical,true,2026-06,,,shopee/live-dan-video/05-livestream-melalui-komputer-atau-laptop.md
-shp-video-005,Shopee Video XTRA,shopee,live-dan-video,2,canonical,true,2026-07,,,shopee/live-dan-video/05-shopee-video-xtra.md
-shp-live-006,Mulai Livestream di Shopee Live,shopee,live-dan-video,2,canonical,true,2026-07,,,shopee/live-dan-video/06-mulai-livestream-di-shopee-live.md
-shp-video-006,Tentang Shopee Video,shopee,live-dan-video,2,canonical,false,2026-06,,,shopee/live-dan-video/06-tentang-shopee-video.md
-shp-live-007,Program Seller Marketing Service (SMS) Live,shopee,live-dan-video,2,canonical,true,2026-04,,,shopee/live-dan-video/07-program-seller-marketing-service-sms-live.md
-shp-video-007,Voucher Shopee Video dan Skemanya,shopee,live-dan-video,2,canonical,true,2026-06,,,shopee/live-dan-video/07-voucher-shopee-video-dan-skemanya.md
-shp-live-008,Shopee Live XTRA,shopee,live-dan-video,2,canonical,true,2026-07,,,shopee/live-dan-video/08-shopee-live-xtra.md
-shp-live-009,Shopee Shop Partners Program,shopee,live-dan-video,1,canonical,true,2026-08,,,shopee/live-dan-video/09-shopee-shop-partners-program.md
+shp-live-001,FAQ Shopee Live,shopee,live-dan-video,3,canonical,true,2026-05,"shp-live-002, shp-live-003, shp-live-004, shp-live-006, shp-live-008",,shopee/live-dan-video/01-faq-shopee-live.md
+shp-video-001,Ketentuan Penggunaan Konten Dihasilkan AI di Shopee Video,shopee,live-dan-video,2,canonical,true,2026-08,shp-video-003,,shopee/live-dan-video/01-ketentuan-penggunaan-konten-dihasilkan-ai-di-shopee-video.md
+shp-live-002,Fitur di Shopee Live untuk Tingkatkan Konversi,shopee,live-dan-video,3,canonical,true,2026-01,"shp-live-001, shp-live-011",,shopee/live-dan-video/02-fitur-di-shopee-live-untuk-tingkatkan-konversi.md
+shp-video-002,Meninjau Performa Video pada Shopee Video,shopee,live-dan-video,2,canonical,true,2026-01,shp-video-003,,shopee/live-dan-video/02-meninjau-performa-video-pada-shopee-video.md
+shp-live-003,Fitur Interaksi dan Mempertahankan Penonton di Shopee Live,shopee,live-dan-video,2,canonical,true,2026-04,"shp-live-001, shp-live-002, shp-live-004",,shopee/live-dan-video/03-fitur-interaksi-dan-mempertahankan-penonton-di-shopee-live.md
+shp-video-003,Mulai Bikin Konten di Shopee Video,shopee,live-dan-video,2,canonical,true,2026-07,"shp-video-001, shp-video-002, shp-video-004",,shopee/live-dan-video/03-mulai-bikin-konten-di-shopee-video.md
+shp-live-004,Kesehatan Stream dan Kebijakan Shopee Live,shopee,live-dan-video,3,canonical,true,2026-07,"shp-live-001, shp-live-003",,shopee/live-dan-video/04-kesehatan-stream-dan-kebijakan-shopee-live.md
+shp-video-004,Panduan Pelanggaran dan Penalti Shopee Video,shopee,live-dan-video,3,canonical,true,2026-08,"shp-video-001, shp-video-003",,shopee/live-dan-video/04-panduan-pelanggaran-dan-penalti-shopee-video.md
+shp-live-005,Livestream melalui Komputer atau Laptop,shopee,live-dan-video,2,canonical,true,2026-06,"shp-live-002, shp-live-006",,shopee/live-dan-video/05-livestream-melalui-komputer-atau-laptop.md
+shp-video-005,Shopee Video XTRA,shopee,live-dan-video,2,canonical,true,2026-07,shp-video-007,,shopee/live-dan-video/05-shopee-video-xtra.md
+shp-live-006,Mulai Livestream di Shopee Live,shopee,live-dan-video,2,canonical,true,2026-07,"shp-live-002, shp-live-004, shp-live-005",,shopee/live-dan-video/06-mulai-livestream-di-shopee-live.md
+shp-video-006,Tentang Shopee Video,shopee,live-dan-video,2,canonical,false,2026-06,"shp-video-002, shp-video-003",,shopee/live-dan-video/06-tentang-shopee-video.md
+shp-live-007,Program Seller Marketing Service (SMS) Live,shopee,live-dan-video,2,canonical,true,2026-04,shp-live-008,,shopee/live-dan-video/07-program-seller-marketing-service-sms-live.md
+shp-video-007,Voucher Shopee Video dan Skemanya,shopee,live-dan-video,2,canonical,true,2026-06,shp-video-005,,shopee/live-dan-video/07-voucher-shopee-video-dan-skemanya.md
+shp-live-008,Shopee Live XTRA,shopee,live-dan-video,2,canonical,true,2026-07,"shp-live-011, shp-live-007",,shopee/live-dan-video/08-shopee-live-xtra.md
+shp-live-009,Shopee Shop Partners Program,shopee,live-dan-video,1,canonical,true,2026-08,shp-live-007,,shopee/live-dan-video/09-shopee-shop-partners-program.md
 shp-live-010,Strategi Optimalkan Livestream untuk Tingkatkan Penjualan,shopee,live-dan-video,2,canonical,true,2026-05,shp-live-101,,shopee/live-dan-video/10-strategi-optimalkan-livestream-untuk-tingkatkan-penjualan.md
-shp-live-011,Voucher Shopee Live dan Skemanya,shopee,live-dan-video,2,canonical,true,2026-08,,,shopee/live-dan-video/11-voucher-shopee-live-dan-skemanya.md
+shp-live-011,Voucher Shopee Live dan Skemanya,shopee,live-dan-video,2,canonical,true,2026-08,shp-live-008,,shopee/live-dan-video/11-voucher-shopee-live-dan-skemanya.md
 shp-live-101,"Kenapa strategi Live Shopee beda dari TikTok — maksimalkan fitur, bukan kejar reach viral",shopee,live-dan-video,2,canonical,false,2026-09,"shp-live-010, shp-performa-102",,shopee/live-dan-video/12-kenapa-strategi-live-shopee-beda-dari-tiktok-maksimalkan-fitur.md
 shp-pengiriman-001,Layanan Dikelola Shopee,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-07,,,shopee/pengiriman-dan-pesanan/01-layanan-dikelola-shopee.md
 shp-pesanan-001,Mengelola dan Merespons Pembatalan Pesanan,shopee,pengiriman-dan-pesanan,2,canonical,true,2026-06,,,shopee/pengiriman-dan-pesanan/01-mengelola-dan-merespons-pembatalan-pesanan.md

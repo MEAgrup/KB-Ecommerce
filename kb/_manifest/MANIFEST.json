@@ -1945,7 +1945,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "shp-biaya-001, shp-biaya-003, shp-biaya-004, shp-keuangan-009",
+    "related": "shp-biaya-001, shp-biaya-003, shp-biaya-004, shp-biaya-009",
     "decisions": "",
     "path": "shopee/keuangan/05-kategorisasi-biaya-penjual-di-shopee.md"
   },
@@ -2179,7 +2179,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-05",
-    "related": "",
+    "related": "shp-live-002, shp-live-003, shp-live-004, shp-live-006, shp-live-008",
     "decisions": "",
     "path": "shopee/live-dan-video/01-faq-shopee-live.md"
   },
@@ -2192,7 +2192,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-video-003",
     "decisions": "",
     "path": "shopee/live-dan-video/01-ketentuan-penggunaan-konten-dihasilkan-ai-di-shopee-video.md"
   },
@@ -2205,7 +2205,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-live-001, shp-live-011",
     "decisions": "",
     "path": "shopee/live-dan-video/02-fitur-di-shopee-live-untuk-tingkatkan-konversi.md"
   },
@@ -2218,7 +2218,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-01",
-    "related": "",
+    "related": "shp-video-003",
     "decisions": "",
     "path": "shopee/live-dan-video/02-meninjau-performa-video-pada-shopee-video.md"
   },
@@ -2231,7 +2231,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-live-001, shp-live-002, shp-live-004",
     "decisions": "",
     "path": "shopee/live-dan-video/03-fitur-interaksi-dan-mempertahankan-penonton-di-shopee-live.md"
   },
@@ -2244,7 +2244,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-video-001, shp-video-002, shp-video-004",
     "decisions": "",
     "path": "shopee/live-dan-video/03-mulai-bikin-konten-di-shopee-video.md"
   },
@@ -2257,7 +2257,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-live-001, shp-live-003",
     "decisions": "",
     "path": "shopee/live-dan-video/04-kesehatan-stream-dan-kebijakan-shopee-live.md"
   },
@@ -2270,7 +2270,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-video-001, shp-video-003",
     "decisions": "",
     "path": "shopee/live-dan-video/04-panduan-pelanggaran-dan-penalti-shopee-video.md"
   },
@@ -2283,7 +2283,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-live-002, shp-live-006",
     "decisions": "",
     "path": "shopee/live-dan-video/05-livestream-melalui-komputer-atau-laptop.md"
   },
@@ -2296,7 +2296,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-video-007",
     "decisions": "",
     "path": "shopee/live-dan-video/05-shopee-video-xtra.md"
   },
@@ -2309,7 +2309,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-live-002, shp-live-004, shp-live-005",
     "decisions": "",
     "path": "shopee/live-dan-video/06-mulai-livestream-di-shopee-live.md"
   },
@@ -2322,7 +2322,7 @@
     "status": "canonical",
     "sensitif_waktu": "false",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-video-002, shp-video-003",
     "decisions": "",
     "path": "shopee/live-dan-video/06-tentang-shopee-video.md"
   },
@@ -2335,7 +2335,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-04",
-    "related": "",
+    "related": "shp-live-008",
     "decisions": "",
     "path": "shopee/live-dan-video/07-program-seller-marketing-service-sms-live.md"
   },
@@ -2348,7 +2348,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-06",
-    "related": "",
+    "related": "shp-video-005",
     "decisions": "",
     "path": "shopee/live-dan-video/07-voucher-shopee-video-dan-skemanya.md"
   },
@@ -2361,7 +2361,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-07",
-    "related": "",
+    "related": "shp-live-011, shp-live-007",
     "decisions": "",
     "path": "shopee/live-dan-video/08-shopee-live-xtra.md"
   },
@@ -2374,7 +2374,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-live-007",
     "decisions": "",
     "path": "shopee/live-dan-video/09-shopee-shop-partners-program.md"
   },
@@ -2400,7 +2400,7 @@
     "status": "canonical",
     "sensitif_waktu": "true",
     "valid_as_of": "2026-08",
-    "related": "",
+    "related": "shp-live-008",
     "decisions": "",
     "path": "shopee/live-dan-video/11-voucher-shopee-live-dan-skemanya.md"
   },
