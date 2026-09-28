@@ -38,4 +38,12 @@ Bagian tentang segmentasi target platform (klaim bahwa platform e-commerce cende
 - Ada ruang untuk naikkan harga produk ini, atau perlu bikin lini produk baru dengan margin lebih sehat?
 
 ## Angka & patokan
-Semua angka pada entry ini berasal langsung dari artikel resmi Shopee yang dicantumkan di `sources` di atas, lengkap dengan konteksnya masing-masing di bagian isi — tidak dipisah jadi tabel terpisah karena angkanya sudah terikat erat dengan penjelasan kategorinya (jumlahnya banyak dan bervariasi per kategori produk/tipe penjual). Kalau butuh angka spesifik, cek isi lengkap di atas atau buka sumber aslinya.
+
+| Patokan | Nilai |
+|---|---|
+| Contoh ilustrasi: modal produk | Rp100.000 |
+| Contoh ilustrasi: harga jual | Rp150.000 |
+| Potongan gratis ongkir + campaign (kalau semua campaign/flash sale aktif) | ~15-20% dari harga jual (contoh: ~Rp30.000) |
+| Sisa margin setelah potongan + biaya iklan (contoh ilustrasi) | bisa di bawah Rp10.000 |
+
+Catatan: angka-angka di atas adalah contoh ilustrasi dari sumber (transkrip YouTube Yohan), bukan data resmi Shopee — persentase potongan aktual bervariasi per kategori produk dan campaign yang diikuti toko.
